@@ -35,3 +35,9 @@ countries:
     data_dir: "../data-se"
     max_workers: 1
     source: {}  # Riksdagen API, no config needed
+
+  at:
+    repo_path: "../at"
+    data_dir: "../data-at"
+    max_workers: 1
+    source: {}  # RIS OGD API, no config needed

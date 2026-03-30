@@ -5,6 +5,7 @@ The rango goes in the YAML frontmatter, not in the directory structure.
 
 Example: es/BOE-A-1978-31229.md
          se/SFS-1962-700.md
+         at/10002333.md
 """
 
 from __future__ import annotations

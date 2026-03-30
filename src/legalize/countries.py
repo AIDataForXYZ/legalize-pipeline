@@ -42,6 +42,12 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.se.parser", "SwedishTextParser"),
         "metadata_parser": ("legalize.fetcher.se.parser", "SwedishMetadataParser"),
     },
+    "at": {
+        "client": ("legalize.fetcher.at.client", "RISClient"),
+        "discovery": ("legalize.fetcher.at.discovery", "RISDiscovery"),
+        "text_parser": ("legalize.fetcher.at.parser", "RISTextParser"),
+        "metadata_parser": ("legalize.fetcher.at.parser", "RISMetadataParser"),
+    },
     # To add a new country:
     # 1. Create fetcher/{code}/ with client.py, discovery.py, parser.py
     # 2. Register here
