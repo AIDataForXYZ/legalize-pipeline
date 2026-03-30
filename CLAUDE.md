@@ -7,11 +7,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Legalize is a multi-country platform that converts official legislation into version-controlled Markdown. Each law is a file, each reform is a git commit. The public repo is the product; this repo is the pipeline that generates it.
 
 **Repos:**
-- `legalize-dev/legalize` — public hub: README, index of countries, docs
-- `legalize-dev/legalize-es` — public: Spanish laws as Markdown + git history (8,642 laws)
-- `legalize-dev/legalize-fr` — public: French laws (80 codes)
-- `legalize-dev/legalize-pipeline` — public: this repo. Python engine that generates the public repos.
-- `legalize-dev/legalize-web` — **private**: web app + API for legalize.dev
+- `legalize-dev/legalize` -- public hub: README, index of countries, docs
+- `legalize-dev/legalize-es` -- public: Spanish laws as Markdown + git history (8,642 laws)
+- `legalize-dev/legalize-fr` -- public: French laws (80 codes)
+- `legalize-dev/legalize-se` -- public: Swedish laws (in progress)
+- `legalize-dev/legalize-pipeline` -- public: this repo. Python engine that generates the public repos.
 
 **Local structure:**
 ```
@@ -19,14 +19,14 @@ Legalize is a multi-country platform that converts official legislation into ver
 ├── engine/     ← this repo (legalize-pipeline)
 ├── es/         ← Spanish laws (legalize-es)
 ├── fr/         ← French laws (legalize-fr)
-├── web/        ← web app (legalize-web, private)
+├── se/         ← Swedish laws (legalize-se)
 ├── hub/        ← hub repo (legalize)
 └── data/       ← XML + JSON cache (no git)
 ```
 
 **Website:** https://legalize.dev
 
-Processing Spanish (BOE) and French (LEGI) legislation. Architecture is multi-country ready.
+Processing Spanish (BOE), French (LEGI), and Swedish (SFSR) legislation. Architecture is multi-country with a unified pipeline.
 
 ## Language & Stack
 
@@ -34,6 +34,7 @@ Processing Spanish (BOE) and French (LEGI) legislation. Architecture is multi-co
 - Dependencies: `lxml`, `requests`, `pyyaml`, `click`, `rich`
 - Dev: `pytest`, `ruff`, `responses` (HTTP mocking)
 - Git operations via `subprocess` (not GitPython) for full control over `GIT_AUTHOR_DATE`
+- CI via GitHub App (Legalize Pipeline)
 
 ## Commands
 
@@ -41,26 +42,34 @@ Processing Spanish (BOE) and French (LEGI) legislation. Architecture is multi-co
 # Install
 pip install -e ".[dev]"
 
-# Run tests (79 passing)
+# Run tests (111 passing)
 pytest tests/ -v
 
 # Lint
 ruff check src/ tests/
 
-# Bootstrap from BOE API (downloads and generates commits)
-python -c "from legalize.cli import cli; cli()" bootstrap
+# Fetch laws to data/ (does not touch git)
+legalize fetch -c es --catalog                 # Spain: full BOE catalog
+legalize fetch -c fr --all --legi-dir /path    # France: LEGI dump
+legalize fetch -c se --all                     # Sweden: SFSR
 
-# Bootstrap from local XML (piloto)
-python -c "from legalize.cli import cli; cli()" bootstrap --xml tests/fixtures/constitucion-sample.xml
+# Generate git commits from local data/
+legalize commit -c es --all
+legalize commit -c fr --all
 
-# Daily update (process BOE sumario)
-python -c "from legalize.cli import cli; cli()" daily --date 2026-03-27
+# Full pipeline: fetch + commit
+legalize bootstrap                             # Spain (default)
+legalize bootstrap -c fr --legi-dir /path      # France
+legalize bootstrap -c se                       # Sweden
+
+# Daily incremental update
+legalize daily -c es --date 2026-03-28
 
 # Reprocess specific norms
-python -c "from legalize.cli import cli; cli()" reprocess --reason "bug fix" BOE-A-1978-31229
+legalize reprocess -c es --reason "bug fix" BOE-A-1978-31229
 
-# Check pipeline status
-python -c "from legalize.cli import cli; cli()" status
+# Pipeline status
+legalize status
 ```
 
 ## Architecture
@@ -68,54 +77,71 @@ python -c "from legalize.cli import cli; cli()" status
 Modular pipeline in `src/legalize/`:
 
 ### Fetcher (`fetcher/`)
-- `client.py` — `BOEClient`: HTTP with rate limiting (2 req/s), exponential backoff, ETag/Last-Modified cache
-- `cache.py` — `FileCache`: local XML cache in `.cache/` with 24h TTL
-- `sumario.py` — parse daily BOE summaries, filter by scope
-- `catalogo.py` — discover norms via fixed list or sumario sweep
+
+Country-specific fetchers live in subpackages. Each implements the 4 interfaces from `fetcher/base.py`.
+
+- `base.py` -- Abstract interfaces: `LegislativeClient`, `NormDiscovery`, `TextParser`, `MetadataParser`
+- `cache.py` -- `FileCache`: local XML cache with TTL
+- `es/` -- Spain (BOE API)
+  - `client.py` -- `BOEClient`: HTTP with rate limiting (2 req/s), exponential backoff, ETag/Last-Modified cache
+  - `discovery.py` -- `BOEDiscovery`: norm discovery via catalog + sumarios
+  - `parser.py` -- `BOETextParser`, `BOEMetadataParser`: BOE XML parsing
+  - `sumario.py` -- daily BOE summary parsing
+  - `catalogo.py` -- catalog-based norm discovery
+  - `metadata.py` -- BOE metadata extraction
+  - `titulos.py` -- title normalization
+- `fr/` -- France (LEGI XML dump)
+  - `client.py` -- `LEGIClient`: local XML dump reader
+  - `discovery.py` -- `LEGIDiscovery`: filesystem-based discovery
+  - `parser.py` -- `LEGITextParser`, `LEGIMetadataParser`: LEGI XML parsing
+- `se/` -- Sweden (SFSR / Riksdag)
+  - `client.py` -- `SwedishClient`: Riksdag API client
+  - `discovery.py` -- `SwedishDiscovery`: SFS catalog discovery
+  - `parser.py` -- `SwedishTextParser`, `SwedishMetadataParser`: Swedish XML parsing
 
 ### Transformer (`transformer/`)
-- `xml_parser.py` — `parse_texto_xml(bytes) → list[Bloque]`, `extract_reforms()`, `get_bloque_at_date()`
-- `markdown.py` — `render_norma_at_date(metadata, bloques, date) → str`. CSS→MD mapping is data-driven
-- `frontmatter.py` — `render_frontmatter(NormaMetadata, date) → str`
-- `metadata.py` — `parse_metadatos(bytes, id) → NormaMetadata` from BOE API response
-- `slug.py` — `norma_to_filepath(metadata) → str` (e.g., `spain/BOE-A-1978-31229.md`)
+- `xml_parser.py` -- `parse_texto_xml(bytes) -> list[Bloque]`, `extract_reforms()`, `get_bloque_at_date()`
+- `markdown.py` -- `render_norma_at_date(metadata, bloques, date) -> str`. CSS->MD mapping is data-driven
+- `frontmatter.py` -- `render_frontmatter(NormaMetadata, date) -> str`
+- `metadata.py` -- metadata parsing helpers
+- `slug.py` -- `norma_to_filepath(metadata) -> str` (e.g., `spain/BOE-A-1978-31229.md`)
 
 ### Committer (`committer/`)
-- `git_ops.py` — `GitRepo`: init, write_and_add, commit (historical dates), push, idempotency via `git log --grep`
-- `message.py` — `build_commit_info()`, `format_commit_message()`. Six types: `[bootstrap]`, `[reforma]`, `[nueva]`, `[derogacion]`, `[correccion]`, `[fix-pipeline]`. Trailers: `Source-Id`, `Source-Date`, `Norm-Id`
-- `author.py` — All commits by `Legalize <legalize@legalize.es>`
+- `git_ops.py` -- `GitRepo`: init, write_and_add, commit (historical dates), push, idempotency via `git log --grep`
+- `message.py` -- `build_commit_info()`, `format_commit_message()`. Six types: `[bootstrap]`, `[reforma]`, `[nueva]`, `[derogacion]`, `[correccion]`, `[fix-pipeline]`. Trailers: `Source-Id`, `Source-Date`, `Norm-Id`
+- `author.py` -- All commits by `Legalize <legalize@legalize.es>`
 
 ### State (`state/`)
-- `store.py` — `StateStore`: state.json (ultimo_sumario, normas_procesadas, ejecuciones)
-- `mappings.py` — `IdToFilename`: BOE-ID ↔ filepath mapping
+- `store.py` -- `StateStore`: state.json tracking processed norms and run history
+- `mappings.py` -- `IdToFilename`: norm ID <-> filepath mapping
 
-### Multi-country (`countries.py`, `fetcher/base.py`)
-- `countries.py` — Country registry with dynamic dispatch
-- `fetcher/base.py` — Abstract base: LegislativeClient, NormDiscovery, TextParser, MetadataParser
-- `fetcher/parser_boe.py` — BOE implementations of TextParser + MetadataParser
-- `fetcher/discovery_boe.py` — BOE norm discovery via sumarios
+### Multi-country (`countries.py`, `config.py`)
+- `countries.py` -- `REGISTRY` dict with lazy imports: maps country code to `(module, class)` tuples for client, discovery, text_parser, metadata_parser. Helper functions: `get_client_class()`, `get_discovery_class()`, `get_text_parser()`, `get_metadata_parser()`, `supported_countries()`
+- `config.py` -- `Config` with `CountryConfig` per country. `config.yaml` has a `countries:` section with per-country `repo_path`, `data_dir`, `source` (passed to client `create()`)
 
 ### Orchestration
-- `pipeline.py` — Three flows: `bootstrap()`, `bootstrap_from_api()`, `daily()`, `reprocess()`
-- `cli.py` — Click CLI: `bootstrap`, `daily`, `reprocess`, `status`
-- `config.py` — `Config` from `config.yaml` with CLI overrides
+- `pipeline.py` -- Generic flows: `generic_fetch_all()`, `generic_fetch_one()`, `generic_bootstrap()`, `commit_all()`, `commit_one()`, `daily()`, `reprocess()`. All country-agnostic; dispatch via `countries.py`
+- `cli.py` -- Click CLI with unified `--country` / `-c` flag: `fetch`, `commit`, `bootstrap`, `daily`, `reprocess`, `status`. Deprecated aliases (`fetch-fr`, `bootstrap-se`, etc.) are hidden but still work
+- `config.py` -- `Config` from `config.yaml` with CLI overrides
 
 ## Data Model (`models.py`)
 
 Multi-country ready. Key types:
-- `COUNTRIES` dict: `{"es": {"dir": "spain", ...}}` — extensible per country
-- `NormaMetadata`: generic fields (`identificador`, `pais`, `fuente` — not BOE-specific)
-- `CommitInfo`: generic trailers (`Source-Id`, `Source-Date`, `Norm-Id`)
+- `Rango` -- free-form string for normative rank (each country defines its own values)
+- `NormaMetadata` -- generic fields (`identificador`, `pais`, `fuente`)
+- `Bloque` -- structural unit (article, chapter) with versioned content
+- `Version` -- temporal version with `fecha_publicacion` and paragraphs
+- `CommitInfo` -- generic trailers (`Source-Id`, `Source-Date`, `Norm-Id`)
 - Filenames = official ID: `spain/BOE-A-1978-31229.md`
 
-## Output Format (FINAL — do not change without regenerating all commits)
+## Output Format (FINAL -- do not change without regenerating all commits)
 
-**Filename:** `{country_dir}/{official_id}.md` → `spain/BOE-A-1978-31229.md`
+**Filename:** `{country_dir}/{official_id}.md` -> `spain/BOE-A-1978-31229.md`
 
 **Frontmatter:**
 ```yaml
 ---
-titulo: "Constitución Española"
+titulo: "Constitucion Espanola"
 identificador: "BOE-A-1978-31229"
 pais: "es"
 rango: "constitucion"
@@ -126,29 +152,31 @@ fuente: "https://www.boe.es/eli/es/c/1978/12/27/(1)"
 ---
 ```
 
-**Commit messages:** `[reforma] Constitución Española — art. 49`
+**Commit messages:** `[reforma] Constitucion Espanola -- art. 49`
 **Author:** `Legalize <legalize@legalize.es>` (always)
 **Trailers:** `Source-Id`, `Source-Date`, `Norm-Id`
 
-## Adding New Laws
+## Adding New Countries
 
-All 8,642 estatales laws from BOE are already processed. To add new ones published after bootstrap:
-1. Run `fetch` to download new norms
-2. Run `commit` to generate git commits in `../es/`
+To add a new country:
+1. Create `fetcher/{code}/` with `client.py`, `discovery.py`, `parser.py`
+2. Implement the 4 interfaces from `fetcher/base.py`
+3. Register in `countries.py` REGISTRY
+4. Add `countries:` section to `config.yaml` with `source` params for the client
 
-The engine outputs to `../es/` (legalize-es repo) and reads cached data from `../data/`.
+See [docs/ADDING_A_COUNTRY.md](docs/ADDING_A_COUNTRY.md) for the full walkthrough.
 
-## BOE API
+## BOE API (Spain)
 
 Base: `https://www.boe.es/datosabiertos/`
-- `/api/boe/sumario/{YYYYMMDD}` — daily publications
-- `/api/legislacion-consolidada?limit=-1` — full catalog (1065 norms in scope)
-- `/api/legislacion-consolidada/id/{id}/texto` — full XML with versioned `<bloque>` elements
-- `/api/legislacion-consolidada/id/{id}/metadatos` — norm metadata (rango codes: 1070=Constitución, 1010=LO, 1020=Ley, 1040=RDL, 1050=RDLeg)
+- `/api/boe/sumario/{YYYYMMDD}` -- daily publications
+- `/api/legislacion-consolidada?limit=-1` -- full catalog (1065 norms in scope)
+- `/api/legislacion-consolidada/id/{id}/texto` -- full XML with versioned `<bloque>` elements
+- `/api/legislacion-consolidada/id/{id}/metadatos` -- norm metadata
 
 ## Key Conventions
 
 - Dates as `datetime.date` internally; parse at XML boundary, format at output
-- Code comments and variable names in Spanish
+- English for all code, comments, and variable names
 - Spec in `spec-leyes-git.md` (original design doc, may be outdated vs actual implementation)
-- GitHub Actions workflows exist but are NOT active — everything runs locally for now
+- CI via GitHub App (Legalize Pipeline); daily runs are local for now
