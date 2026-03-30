@@ -30,24 +30,23 @@ from legalize.models import (
 
 def build_commit_info(
     commit_type: CommitType,
-    norma_metadata: NormaMetadata,
+    norm_metadata: NormaMetadata,
     reform: Reform,
-    bloques: list[Bloque] | tuple[Bloque, ...],
+    blocks: list[Bloque] | tuple[Bloque, ...],
     file_path: str,
     content: str,
 ) -> CommitInfo:
-    """Builds a complete CommitInfo from domain data."""
-    articulos = _get_articulos_afectados(reform, bloques)
-    arts_str = ", ".join(articulos) if articulos else "N/A"
+    """Build a complete CommitInfo from domain data."""
+    affected = _get_affected_articles(reform, blocks)
+    affected_str = ", ".join(affected) if affected else "N/A"
 
-    subject = _build_subject(commit_type, norma_metadata, reform, articulos)
-    body = _build_body(commit_type, norma_metadata, reform, arts_str)
+    subject = _build_subject(commit_type, norm_metadata, reform, affected)
+    body = _build_body(commit_type, norm_metadata, reform, affected_str)
 
-    # Generic trailers (not Spain-specific)
     trailers = {
         "Source-Id": reform.id_norma,
         "Source-Date": reform.fecha.isoformat(),
-        "Norm-Id": norma_metadata.identificador,
+        "Norm-Id": norm_metadata.identificador,
     }
 
     author_name, author_email = resolve_author()
@@ -66,7 +65,7 @@ def build_commit_info(
 
 
 def format_commit_message(info: CommitInfo) -> str:
-    """Formats the CommitInfo as a complete git commit message."""
+    """Format CommitInfo as a complete git commit message."""
     parts = [info.subject, "", info.body]
 
     if info.trailers:
@@ -81,65 +80,65 @@ def _build_subject(
     commit_type: CommitType,
     metadata: NormaMetadata,
     reform: Reform,
-    articulos: list[str] | None = None,
+    affected: list[str] | None = None,
 ) -> str:
-    """Builds the first line of the commit message.
+    """Build the first line of the commit message.
 
     [reforma] Constitución Española — art. 49
     """
     prefix = f"[{commit_type.value}]"
-    titulo = metadata.titulo_corto
+    title = metadata.titulo_corto
 
     if commit_type == CommitType.BOOTSTRAP:
-        return f"{prefix} {titulo} — versión original {reform.fecha.year}"
+        return f"{prefix} {title} — versión original {reform.fecha.year}"
 
     if commit_type == CommitType.FIX_PIPELINE:
-        return f"{prefix} Regenerar {titulo}"
+        return f"{prefix} Regenerar {title}"
 
-    if articulos:
-        arts_brief = _abbreviate_articulos(articulos)
+    if affected:
+        arts_brief = _abbreviate_articles(affected)
         if arts_brief:
-            return f"{prefix} {titulo} — {arts_brief}"
+            return f"{prefix} {title} — {arts_brief}"
 
-    return f"{prefix} {titulo}"
+    return f"{prefix} {title}"
 
 
 def _build_body(
     commit_type: CommitType,
     metadata: NormaMetadata,
     reform: Reform,
-    articulos_str: str,
+    affected_str: str,
 ) -> str:
-    """Builds the commit message body."""
-    fecha_str = reform.fecha.isoformat()
+    """Build the commit message body."""
+    date_str = reform.fecha.isoformat()
 
     if commit_type == CommitType.BOOTSTRAP:
         return (
             f"Publicación original de {metadata.titulo_corto}.\n"
             f"\n"
             f"Norma: {metadata.identificador}\n"
-            f"Fecha: {fecha_str}\n"
+            f"Fecha: {date_str}\n"
             f"Fuente: {metadata.fuente}"
         )
 
     return (
         f"Norma: {metadata.identificador}\n"
         f"Disposición: {reform.id_norma}\n"
-        f"Fecha: {fecha_str}\n"
+        f"Fecha: {date_str}\n"
         f"Fuente: {metadata.fuente}\n"
         f"\n"
-        f"Artículos afectados: {articulos_str}"
+        f"Artículos afectados: {affected_str}"
     )
 
 
-def _abbreviate_articulos(articulos: list[str]) -> str:
-    """Abbreviates the list of articles for the commit subject.
+def _abbreviate_articles(articles: list[str]) -> str:
+    """Abbreviate list of articles for the commit subject.
 
     ['Artículo 49'] → 'art. 49'
     ['Artículo 13', 'Artículo 14'] → 'arts. 13, 14'
     """
     nums = []
-    for art in articulos:
+    for art in articles:
         match = re.search(r"(\d+)", art)
         if match:
             nums.append(match.group(1))
@@ -157,14 +156,14 @@ def _abbreviate_articulos(articulos: list[str]) -> str:
     return f"arts. {shown} y {len(nums) - 3} más"
 
 
-def _get_articulos_afectados(
-    reform: Reform, bloques: list[Bloque] | tuple[Bloque, ...]
+def _get_affected_articles(
+    reform: Reform, blocks: list[Bloque] | tuple[Bloque, ...]
 ) -> list[str]:
-    """Identifies the titles of the articles affected by a reform."""
-    titulos = []
-    bloque_map = {b.id: b for b in bloques}
+    """Get titles of articles affected by a reform."""
+    titles = []
+    block_map = {b.id: b for b in blocks}
     for bid in reform.bloques_afectados:
-        bloque = bloque_map.get(bid)
-        if bloque and bloque.titulo:
-            titulos.append(bloque.titulo)
-    return titulos
+        block = block_map.get(bid)
+        if block and block.titulo:
+            titles.append(block.titulo)
+    return titles

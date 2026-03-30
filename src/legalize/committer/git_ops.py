@@ -70,11 +70,17 @@ class GitRepo:
         file_path = self._path / rel_path
         file_path.parent.mkdir(parents=True, exist_ok=True)
 
-        # Check if content changed
+        # Check if content changed vs last commit
         if file_path.exists():
             existing = file_path.read_text(encoding="utf-8")
             if existing == content:
-                return False
+                # File exists with same content, but may be untracked — check git
+                status = self._run(["status", "--porcelain", "--", rel_path], check=False)
+                if not status:
+                    return False  # tracked and unchanged
+                # Untracked (??) or modified — stage it
+                self._run(["add", rel_path])
+                return True
 
         file_path.write_text(content, encoding="utf-8")
         self._run(["add", rel_path])

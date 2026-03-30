@@ -59,7 +59,7 @@ _SECTION_NIV_CSS: dict[str, str] = {
 # ─────────────────────────────────────────────
 
 
-def _parse_date_legi(fecha_str: str) -> date | None:
+def _parse_date_legi(date_str: str) -> date | None:
     """Parses LEGI dates. Returns None for sentinels and invalid dates.
 
     Actual format of the LEGI dump (verified with 2026-03-27 data):
@@ -68,18 +68,18 @@ def _parse_date_legi(fecha_str: str) -> date | None:
     - Also accepts YYYYMMDD for compatibility with example XML
     - Years > 2100 → None (covers sentinel 2999 and invalid future dates)
     """
-    if not fecha_str:
+    if not date_str:
         return None
-    fecha_str = fecha_str.strip()
-    if not fecha_str or fecha_str in ("99999999", "2999-01-01"):
+    date_str = date_str.strip()
+    if not date_str or date_str in ("99999999", "2999-01-01"):
         return None
     try:
         # Try ISO 8601 first (actual dump format)
-        if "-" in fecha_str:
-            parsed = date.fromisoformat(fecha_str)
-        elif len(fecha_str) >= 8:
+        if "-" in date_str:
+            parsed = date.fromisoformat(date_str)
+        elif len(date_str) >= 8:
             # Fallback YYYYMMDD (just in case)
-            parsed = date(int(fecha_str[:4]), int(fecha_str[4:6]), int(fecha_str[6:8]))
+            parsed = date(int(date_str[:4]), int(date_str[4:6]), int(date_str[6:8]))
         else:
             return None
         if parsed.year > 2100:
@@ -219,14 +219,14 @@ def _parse_legi_combined(data: bytes) -> list[Bloque]:
             articles_by_cid.setdefault(cid, []).append(el)
 
     # Second pass: iterate in document order
-    bloques: list[Bloque] = []
+    blocks: list[Bloque] = []
     seen_cids: set[str] = set()
 
     for el in elements:
         if el.tag == "section":
-            bloque = _parse_section_bloque(el)
-            if bloque is not None:
-                bloques.append(bloque)
+            block = _parse_section_bloque(el)
+            if block is not None:
+                blocks.append(block)
 
         elif el.tag == "article":
             cid = el.get("cid") or el.get("id")
@@ -234,11 +234,11 @@ def _parse_legi_combined(data: bytes) -> list[Bloque]:
                 continue
             seen_cids.add(cid)
 
-            bloque = _parse_article_bloque(cid, articles_by_cid[cid])
-            if bloque is not None:
-                bloques.append(bloque)
+            block = _parse_article_bloque(cid, articles_by_cid[cid])
+            if block is not None:
+                blocks.append(block)
 
-    return bloques
+    return blocks
 
 
 def _parse_section_bloque(section_el: etree._Element) -> Bloque | None:
@@ -333,12 +333,12 @@ def _parse_article_bloque(cid: str, article_els: list[etree._Element]) -> Bloque
         ))
 
     num = article_els[0].get("num", "")
-    titulo = f"Article {num}" if num else cid
+    title = f"Article {num}" if num else cid
 
     return Bloque(
         id=cid,
         tipo="article",
-        titulo=titulo,
+        titulo=title,
         versions=tuple(versions),
     )
 
@@ -367,35 +367,35 @@ def _parse_etat(etat_str: str) -> EstadoNorma:
 
 
 def _build_legifrance_url(norm_id: str, nature: str) -> str:
-    """Builds the Légifrance URL for a text."""
+    """Builds the Legifrance URL for a text."""
     if nature == "CODE":
         return f"https://www.legifrance.gouv.fr/codes/texte_lc/{norm_id}"
     return f"https://www.legifrance.gouv.fr/loda/id/{norm_id}"
 
 
-def _titulo_corto_fr(titulo: str) -> str:
+def _titulo_corto_fr(raw_title: str) -> str:
     """Generates a short title for French texts.
 
     "Code civil" → "Code civil"
     "Constitution du 4 octobre 1958" → "Constitution"
     "Loi n° 2024-123 du 1er mars 2024 relative à..." → "Loi n° 2024-123"
     """
-    if not titulo:
-        return titulo
+    if not raw_title:
+        return raw_title
 
     # Constitution → shorten
-    if titulo.lower().startswith("constitution"):
+    if raw_title.lower().startswith("constitution"):
         return "Constitution"
 
     # Laws with number → truncate at "du" (the date)
     for prefix in ("Loi n°", "Loi organique n°", "Ordonnance n°", "Décret n°"):
-        if titulo.startswith(prefix):
+        if raw_title.startswith(prefix):
             # Keep up to the number
-            parts = titulo.split(" du ", 1)
+            parts = raw_title.split(" du ", 1)
             return parts[0].strip()
 
     # Codes → return as-is (already short)
-    return titulo
+    return raw_title
 
 
 def _parse_metadatos_legi(xml_data: bytes, norm_id: str) -> NormaMetadata:
@@ -407,13 +407,13 @@ def _parse_metadatos_legi(xml_data: bytes, norm_id: str) -> NormaMetadata:
 
     # Extract fields from META
     nature = _text_of(root, "NATURE")
-    titulo = (
+    title = (
         _text_of(root, "TITRE_TEXTE")
         or _text_of(root, "TITREFULL")
         or _text_of(root, "TITRE")
         or norm_id
     )
-    identificador = _text_of(root, "ID") or norm_id
+    identifier = _text_of(root, "ID") or norm_id
     etat = _text_of(root, "ETAT")
 
     # Dates — in the actual dump, DATE_PUBLI for codes is usually 2999-01-01
@@ -437,26 +437,26 @@ def _parse_metadatos_legi(xml_data: bytes, norm_id: str) -> NormaMetadata:
     fecha_modif = _parse_date_legi(fecha_modif_str)
 
     # Rank
-    rango = _NATURE_TO_RANGO.get(nature, Rango.OTRO)
+    rank = _NATURE_TO_RANGO.get(nature, Rango.OTRO)
 
     # Autorite / Ministere as department
-    departamento = _text_of(root, "AUTORITE") or _text_of(root, "MINISTERE") or ""
+    department = _text_of(root, "AUTORITE") or _text_of(root, "MINISTERE") or ""
 
     # Source URL
-    fuente = _build_legifrance_url(identificador, nature)
+    source_url = _build_legifrance_url(identifier, nature)
 
-    titulo_corto = _titulo_corto_fr(titulo)
+    short_title = _titulo_corto_fr(title)
 
     return NormaMetadata(
-        titulo=titulo,
-        titulo_corto=titulo_corto,
-        identificador=identificador,
+        titulo=title,
+        titulo_corto=short_title,
+        identificador=identifier,
         pais="fr",
-        rango=rango,
+        rango=rank,
         fecha_publicacion=fecha_pub,
         estado=_parse_etat(etat),
-        departamento=departamento,
-        fuente=fuente,
+        departamento=department,
+        fuente=source_url,
         fecha_ultima_modificacion=fecha_modif,
     )
 
@@ -473,9 +473,9 @@ class LEGITextParser(TextParser):
         return _parse_legi_combined(data)
 
     def extract_reforms(self, data: bytes) -> list[Any]:
-        bloques = _parse_legi_combined(data)
+        blocks = _parse_legi_combined(data)
         from legalize.transformer.xml_parser import extract_reforms
-        return extract_reforms(bloques)
+        return extract_reforms(blocks)
 
 
 class LEGIMetadataParser(MetadataParser):

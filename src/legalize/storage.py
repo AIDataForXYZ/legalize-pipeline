@@ -29,16 +29,16 @@ from legalize.models import (
 logger = logging.getLogger(__name__)
 
 
-def save_raw_xml(data_dir: str | Path, identificador: str, xml_bytes: bytes) -> Path:
+def save_raw_xml(data_dir: str | Path, norm_id: str, xml_bytes: bytes) -> Path:
     """Save the raw BOE XML."""
-    path = Path(data_dir) / "xml" / f"{identificador}.xml"
+    path = Path(data_dir) / "xml" / f"{norm_id}.xml"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(xml_bytes)
     logger.debug("XML saved: %s", path)
     return path
 
 
-def save_structured_json(data_dir: str | Path, norma: NormaCompleta) -> Path:
+def save_structured_json(data_dir: str | Path, norm: NormaCompleta) -> Path:
     """Save structured data as DB-ready JSON.
 
     JSON structure:
@@ -71,8 +71,8 @@ def save_structured_json(data_dir: str | Path, norma: NormaCompleta) -> Path:
         ]
     }
     """
-    data = _norma_to_dict(norma)
-    path = Path(data_dir) / "json" / f"{norma.metadata.identificador}.json"
+    data = _norma_to_dict(norm)
+    path = Path(data_dir) / "json" / f"{norm.metadata.identificador}.json"
     path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(path, "w", encoding="utf-8") as f:
@@ -82,9 +82,9 @@ def save_structured_json(data_dir: str | Path, norma: NormaCompleta) -> Path:
     return path
 
 
-def _norma_to_dict(norma: NormaCompleta) -> dict:
+def _norma_to_dict(norm: NormaCompleta) -> dict:
     """Convert a NormaCompleta to a serializable dict."""
-    meta = norma.metadata
+    meta = norm.metadata
 
     # Metadata
     metadata_dict = {
@@ -113,16 +113,16 @@ def _norma_to_dict(norma: NormaCompleta) -> dict:
 
     # Articles with all their versions
     articles = []
-    for i, bloque in enumerate(norma.bloques):
+    for i, block in enumerate(norm.bloques):
         article = {
-            "block_id": bloque.id,
-            "block_type": bloque.tipo,
-            "title": bloque.titulo,
+            "block_id": block.id,
+            "block_type": block.tipo,
+            "title": block.titulo,
             "position": i,
             "versions": [],
         }
 
-        for version in bloque.versions:
+        for version in block.versions:
             text = "\n\n".join(p.text for p in version.paragraphs)
             version_dict: dict = {
                 "date": version.fecha_publicacion.isoformat(),
@@ -136,8 +136,8 @@ def _norma_to_dict(norma: NormaCompleta) -> dict:
             article["versions"].append(version_dict)
 
         # current_text = latest version
-        if bloque.versions:
-            last = max(bloque.versions, key=lambda v: v.fecha_publicacion)
+        if block.versions:
+            last = max(block.versions, key=lambda v: v.fecha_publicacion)
             article["current_text"] = "\n\n".join(p.text for p in last.paragraphs)
         else:
             article["current_text"] = ""
@@ -145,12 +145,12 @@ def _norma_to_dict(norma: NormaCompleta) -> dict:
         articles.append(article)
 
     # Reforms
-    bloque_map = {b.id: b for b in norma.bloques}
+    block_map = {b.id: b for b in norm.bloques}
     reforms = []
-    for reform in norma.reforms:
+    for reform in norm.reforms:
         affected = []
         for bid in reform.bloques_afectados:
-            b = bloque_map.get(bid)
+            b = block_map.get(bid)
             if b and b.titulo:
                 affected.append(b.titulo)
 
@@ -170,7 +170,7 @@ def _norma_to_dict(norma: NormaCompleta) -> dict:
 def load_norma_from_json(json_path: Path) -> NormaCompleta:
     """Load a NormaCompleta from a structured JSON file.
 
-    Inverse of save_structured_json(). Handles backwards compatibility
+    Inverse of save_structured_json(). Handles backward compatibility
     with older JSONs that don't have css_classes.
     """
     with open(json_path, encoding="utf-8") as f:
@@ -191,7 +191,7 @@ def load_norma_from_json(json_path: Path) -> NormaCompleta:
         fecha_ultima_modificacion=date.fromisoformat(meta["ultima_actualizacion"]),
     )
 
-    bloques = []
+    blocks = []
     for art in data["articles"]:
         versions = []
         for v in art["versions"]:
@@ -208,7 +208,7 @@ def load_norma_from_json(json_path: Path) -> NormaCompleta:
                 fecha_vigencia=date.fromisoformat(v["date"]),
                 paragraphs=tuple(paragraphs),
             ))
-        bloques.append(Bloque(
+        blocks.append(Bloque(
             id=art["block_id"],
             tipo=art["block_type"],
             titulo=art["title"],
@@ -231,6 +231,6 @@ def load_norma_from_json(json_path: Path) -> NormaCompleta:
 
     return NormaCompleta(
         metadata=metadata,
-        bloques=tuple(bloques),
+        bloques=tuple(blocks),
         reforms=tuple(reforms),
     )

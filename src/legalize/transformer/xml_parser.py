@@ -16,15 +16,15 @@ from lxml import etree
 from legalize.models import Bloque, Paragraph, Reform, Version
 
 
-def _parse_date(fecha_str: str) -> date | None:
+def _parse_date(date_str: str) -> date | None:
     """Converts YYYYMMDD → date. Handles invalid BOE dates (e.g.: 99999999).
 
     Returns None for sentinel values like 99999999 (indefinite validity).
     """
-    if not fecha_str or fecha_str.strip() in ("", "99999999"):
+    if not date_str or date_str.strip() in ("", "99999999"):
         return None
     try:
-        parsed = date(int(fecha_str[:4]), int(fecha_str[4:6]), int(fecha_str[6:8]))
+        parsed = date(int(date_str[:4]), int(date_str[4:6]), int(date_str[6:8]))
         # Reject dates in the future beyond a reasonable margin (BOE data quality issue)
         if parsed.year > 2100:
             return None
@@ -81,12 +81,12 @@ def parse_texto_xml(xml_data: bytes | str) -> list[Bloque]:
         xml_data = xml_data.encode("utf-8")
 
     root = etree.fromstring(xml_data)
-    bloques: list[Bloque] = []
+    blocks: list[Bloque] = []
 
-    for bloque_el in root.iter("bloque"):
+    for block_el in root.iter("bloque"):
         versions: list[Version] = []
 
-        for version_el in bloque_el.findall("version"):
+        for version_el in block_el.findall("version"):
             paragraphs: list[Paragraph] = []
 
             for p_el in version_el.findall("p"):
@@ -119,17 +119,17 @@ def parse_texto_xml(xml_data: bytes | str) -> list[Bloque]:
                 paragraphs=tuple(paragraphs),
             ))
 
-        bloques.append(Bloque(
-            id=bloque_el.get("id", ""),
-            tipo=bloque_el.get("tipo", ""),
-            titulo=bloque_el.get("titulo", ""),
+        blocks.append(Bloque(
+            id=block_el.get("id", ""),
+            tipo=block_el.get("tipo", ""),
+            titulo=block_el.get("titulo", ""),
             versions=tuple(versions),
         ))
 
-    return bloques
+    return blocks
 
 
-def extract_reforms(bloques: list[Bloque]) -> list[Reform]:
+def extract_reforms(blocks: list[Bloque]) -> list[Reform]:
     """Extracts the list of unique reforms sorted chronologically.
 
     Each reform is a point in time where at least one block changed.
@@ -137,28 +137,28 @@ def extract_reforms(bloques: list[Bloque]) -> list[Reform]:
     """
     reform_map: dict[tuple[date, str], list[str]] = {}
 
-    for bloque in bloques:
-        for version in bloque.versions:
+    for block in blocks:
+        for version in block.versions:
             key = (version.fecha_publicacion, version.id_norma)
             if key not in reform_map:
                 reform_map[key] = []
-            reform_map[key].append(bloque.id)
+            reform_map[key].append(block.id)
 
     reforms = [
         Reform(
             fecha=fecha,
             id_norma=id_norma,
-            bloques_afectados=tuple(bloque_ids),
+            bloques_afectados=tuple(block_ids),
         )
-        for (fecha, id_norma), bloque_ids in sorted(reform_map.items())
+        for (fecha, id_norma), block_ids in sorted(reform_map.items())
     ]
 
     return reforms
 
 
-def get_bloque_at_date(bloque: Bloque, target_date: date) -> Version | None:
+def get_bloque_at_date(block: Bloque, target_date: date) -> Version | None:
     """Returns the version of a block in effect at target_date."""
-    applicable = [v for v in bloque.versions if v.fecha_publicacion <= target_date]
+    applicable = [v for v in block.versions if v.fecha_publicacion <= target_date]
     if not applicable:
         return None
     return max(applicable, key=lambda v: v.fecha_publicacion)

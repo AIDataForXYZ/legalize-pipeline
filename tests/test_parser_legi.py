@@ -445,19 +445,7 @@ class TestCountriesDispatch:
 
 
 class TestSlugFR:
-    def test_code_folder(self):
-        from legalize.transformer.slug import rango_to_folder
-        assert rango_to_folder("code") == "codes"
-
-    def test_loi_folder(self):
-        from legalize.transformer.slug import rango_to_folder
-        assert rango_to_folder("loi") == "lois"
-
-    def test_constitution_fr_folder(self):
-        from legalize.transformer.slug import rango_to_folder
-        assert rango_to_folder("constitution_fr") == "constitutions"
-
-    def test_norma_to_filepath_code(self):
+    def test_norma_to_filepath_uses_pais(self):
         from legalize.models import EstadoNorma, NormaMetadata, Rango
         from legalize.transformer.slug import norma_to_filepath
 
@@ -472,7 +460,7 @@ class TestSlugFR:
             departamento="",
             fuente="https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414",
         )
-        assert norma_to_filepath(meta) == "codes/LEGITEXT000006069414.md"
+        assert norma_to_filepath(meta) == "fr/LEGITEXT000006069414.md"
 
 
 # ─────────────────────────────────────────────

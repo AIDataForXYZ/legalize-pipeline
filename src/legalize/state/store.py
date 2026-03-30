@@ -1,6 +1,6 @@
 """State Store — pipeline state tracking.
 
-Persists in state.json which dispositions have been processed,
+Persists in state.json which norms have been processed,
 enabling idempotent re-runs.
 """
 
@@ -17,21 +17,21 @@ logger = logging.getLogger(__name__)
 
 
 @dataclass
-class NormaState:
+class NormState:
     """Processing state of an individual norm."""
 
-    ultima_version_aplicada: str  # ISO date
-    total_versiones_aplicadas: int
+    last_version_applied: str  # ISO date
+    total_versions_applied: int
 
 
 @dataclass
 class RunRecord:
     """Record of a pipeline run."""
 
-    fecha: str  # ISO datetime
-    sumarios_revisados: list[str] = field(default_factory=list)
-    commits_generados: int = 0
-    errores: list[str] = field(default_factory=list)
+    timestamp: str  # ISO datetime
+    summaries_reviewed: list[str] = field(default_factory=list)
+    commits_created: int = 0
+    errors: list[str] = field(default_factory=list)
 
 
 class StateStore:
@@ -39,34 +39,45 @@ class StateStore:
 
     def __init__(self, path: str | Path):
         self._path = Path(path)
-        self._ultimo_sumario: Optional[str] = None
-        self._normas: dict[str, NormaState] = {}
-        self._ejecuciones: list[RunRecord] = []
+        self._last_summary: Optional[str] = None
+        self._norms: dict[str, NormState] = {}
+        self._runs: list[RunRecord] = []
 
     def load(self) -> None:
-        """Loads the state from disk."""
+        """Load state from disk. Handles both old and new key names."""
         if not self._path.exists():
             return
 
         with open(self._path, encoding="utf-8") as f:
             data = json.load(f)
 
-        self._ultimo_sumario = data.get("ultimo_sumario_procesado")
-        self._normas = {
-            k: NormaState(**v) for k, v in data.get("normas_procesadas", {}).items()
-        }
-        self._ejecuciones = [
-            RunRecord(**r) for r in data.get("ejecuciones", [])
-        ]
+        # Support both old (Spanish) and new (English) key names
+        self._last_summary = data.get("last_summary") or data.get("ultimo_sumario_procesado")
+
+        norms_raw = data.get("norms_processed") or data.get("normas_procesadas", {})
+        for k, v in norms_raw.items():
+            self._norms[k] = NormState(
+                last_version_applied=v.get("last_version_applied") or v.get("ultima_version_aplicada", ""),
+                total_versions_applied=v.get("total_versions_applied") or v.get("total_versiones_aplicadas", 0),
+            )
+
+        runs_raw = data.get("runs") or data.get("ejecuciones", [])
+        for r in runs_raw:
+            self._runs.append(RunRecord(
+                timestamp=r.get("timestamp") or r.get("fecha", ""),
+                summaries_reviewed=r.get("summaries_reviewed") or r.get("sumarios_revisados", []),
+                commits_created=r.get("commits_created") or r.get("commits_generados", 0),
+                errors=r.get("errors") or r.get("errores", []),
+            ))
 
     def save(self) -> None:
-        """Persists the state to disk."""
+        """Persist state to disk."""
         self._path.parent.mkdir(parents=True, exist_ok=True)
 
         data = {
-            "ultimo_sumario_procesado": self._ultimo_sumario,
-            "normas_procesadas": {k: asdict(v) for k, v in self._normas.items()},
-            "ejecuciones": [asdict(r) for r in self._ejecuciones],
+            "last_summary": self._last_summary,
+            "norms_processed": {k: asdict(v) for k, v in self._norms.items()},
+            "runs": [asdict(r) for r in self._runs],
         }
 
         with open(self._path, "w", encoding="utf-8") as f:
@@ -76,27 +87,27 @@ class StateStore:
 
     @property
     def ultimo_sumario(self) -> Optional[date]:
-        """Date of the last processed sumario."""
-        if self._ultimo_sumario:
-            return date.fromisoformat(self._ultimo_sumario)
+        """Date of the last processed summary. Legacy property name kept for compat."""
+        if self._last_summary:
+            return date.fromisoformat(self._last_summary)
         return None
 
     @ultimo_sumario.setter
-    def ultimo_sumario(self, fecha: date) -> None:
-        self._ultimo_sumario = fecha.isoformat()
+    def ultimo_sumario(self, value: date) -> None:
+        self._last_summary = value.isoformat()
 
-    def is_norma_processed(self, boe_id: str, fecha: date) -> bool:
-        """Checks whether a specific version of a norm has already been processed."""
-        state = self._normas.get(boe_id)
+    def is_norma_processed(self, norm_id: str, target_date: date) -> bool:
+        """Check whether a specific version of a norm has been processed."""
+        state = self._norms.get(norm_id)
         if state is None:
             return False
-        return state.ultima_version_aplicada >= fecha.isoformat()
+        return state.last_version_applied >= target_date.isoformat()
 
-    def mark_norma_processed(self, boe_id: str, fecha: date, total_versions: int) -> None:
-        """Marks a norm as processed up to a given date."""
-        self._normas[boe_id] = NormaState(
-            ultima_version_aplicada=fecha.isoformat(),
-            total_versiones_aplicadas=total_versions,
+    def mark_norma_processed(self, norm_id: str, target_date: date, total_versions: int) -> None:
+        """Mark a norm as processed up to a given date."""
+        self._norms[norm_id] = NormState(
+            last_version_applied=target_date.isoformat(),
+            total_versions_applied=total_versions,
         )
 
     def record_run(
@@ -105,17 +116,17 @@ class StateStore:
         commits: int = 0,
         errores: list[str] | None = None,
     ) -> None:
-        """Records a pipeline run."""
-        self._ejecuciones.append(RunRecord(
-            fecha=datetime.now().isoformat(),
-            sumarios_revisados=sumarios or [],
-            commits_generados=commits,
-            errores=errores or [],
+        """Record a pipeline run. Parameter names kept for caller compat."""
+        self._runs.append(RunRecord(
+            timestamp=datetime.now().isoformat(),
+            summaries_reviewed=sumarios or [],
+            commits_created=commits,
+            errors=errores or [],
         ))
 
-    def get_norma_state(self, boe_id: str) -> Optional[NormaState]:
-        return self._normas.get(boe_id)
+    def get_norma_state(self, norm_id: str) -> Optional[NormState]:
+        return self._norms.get(norm_id)
 
     @property
     def normas_count(self) -> int:
-        return len(self._normas)
+        return len(self._norms)

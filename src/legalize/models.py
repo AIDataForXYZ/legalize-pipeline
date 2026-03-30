@@ -135,6 +135,7 @@ class NormaMetadata:
     estado: EstadoNorma
     departamento: str
     fuente: str  # Official URL
+    jurisdiccion: Optional[str] = None  # ELI code: "es-pv", "es-ct", None=state-level
     fecha_ultima_modificacion: Optional[date] = None
     url_pdf: Optional[str] = None
     materias: tuple[str, ...] = ()

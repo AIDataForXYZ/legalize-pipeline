@@ -54,7 +54,7 @@ def fetch_one(config: Config, boe_id: str, force: bool = False) -> NormaCompleta
     json_path = Path(config.data_dir) / "json" / f"{boe_id}.json"
     if json_path.exists() and not force:
         console.print(f"  [dim]{boe_id} already downloaded, skipping[/dim]")
-        return _load_norma_from_json(json_path)
+        return load_norma_from_json(json_path)
 
     cache = FileCache(config.cache_dir)
     with BOEClient(config.boe, cache) as client:
@@ -62,25 +62,25 @@ def fetch_one(config: Config, boe_id: str, force: bool = False) -> NormaCompleta
             console.print(f"  Downloading [bold]{boe_id}[/bold]...")
             meta_xml = client.get_metadatos(boe_id)
             metadata = parse_metadatos(meta_xml, boe_id)
-            texto_xml = client.get_texto_consolidado(boe_id, bypass_cache=force)
+            text_xml = client.get_texto_consolidado(boe_id, bypass_cache=force)
 
-            bloques = parse_texto_xml(texto_xml)
-            reforms = extract_reforms(bloques)
+            blocks = parse_texto_xml(text_xml)
+            reforms = extract_reforms(blocks)
 
-            norma = NormaCompleta(
+            norm = NormaCompleta(
                 metadata=metadata,
-                bloques=tuple(bloques),
+                bloques=tuple(blocks),
                 reforms=tuple(reforms),
             )
 
-            save_raw_xml(config.data_dir, boe_id, texto_xml)
-            save_structured_json(config.data_dir, norma)
+            save_raw_xml(config.data_dir, boe_id, text_xml)
+            save_structured_json(config.data_dir, norm)
 
             console.print(
                 f"  [green]✓[/green] {metadata.titulo_corto}: "
-                f"{len(bloques)} bloques, {len(reforms)} versiones"
+                f"{len(blocks)} bloques, {len(reforms)} versiones"
             )
-            return norma
+            return norm
 
         except Exception:
             logger.error("Error downloading %s", boe_id, exc_info=True)
@@ -96,8 +96,8 @@ def fetch_all(config: Config, force: bool = False) -> list[str]:
     console.print("[bold]Fetch — downloading norms from BOE[/bold]\n")
     fetched = []
     for boe_id in config.scope.normas_fijas:
-        norma = fetch_one(config, boe_id, force=force)
-        if norma is not None:
+        norm = fetch_one(config, boe_id, force=force)
+        if norm is not None:
             fetched.append(boe_id)
     console.print(f"\n[bold green]✓ {len(fetched)} norms downloaded[/bold green]")
     return fetched
@@ -154,8 +154,8 @@ def fetch_catalog(config: Config, force: bool = False) -> list[str]:
             skipped += 1
             continue
 
-        norma = fetch_one(config, boe_id, force=force)
-        if norma is not None:
+        norm = fetch_one(config, boe_id, force=force)
+        if norm is not None:
             fetched.append(boe_id)
         else:
             errors += 1
@@ -245,8 +245,8 @@ def fetch_catalog_ccaa(config: Config, jurisdiccion: str, force: bool = False) -
             skipped += 1
             continue
 
-        norma = fetch_one(config, boe_id, force=force)
-        if norma is not None:
+        norm = fetch_one(config, boe_id, force=force)
+        if norm is not None:
             fetched.append(boe_id)
         else:
             errors += 1
@@ -301,22 +301,22 @@ def generic_fetch_one(
             metadata = meta_parser.parse(meta_data, norm_id)
 
             text_data = client.get_texto(norm_id)
-            bloques = text_parser.parse_texto(text_data)
-            reforms = _extract_reforms_generic(text_parser, client, norm_id, bloques)
+            blocks = text_parser.parse_texto(text_data)
+            reforms = _extract_reforms_generic(text_parser, client, norm_id, blocks)
 
-            norma = NormaCompleta(
+            norm = NormaCompleta(
                 metadata=metadata,
-                bloques=tuple(bloques),
+                bloques=tuple(blocks),
                 reforms=tuple(reforms),
             )
 
-            save_structured_json(cc.data_dir, norma)
+            save_structured_json(cc.data_dir, norm)
 
             console.print(
                 f"  [green]✓[/green] {metadata.titulo_corto}: "
-                f"{len(bloques)} bloques, {len(reforms)} versiones"
+                f"{len(blocks)} bloques, {len(reforms)} versiones"
             )
-            return norma
+            return norm
 
         except Exception:
             logger.error("Error processing %s", norm_id, exc_info=True)
@@ -354,8 +354,8 @@ def generic_fetch_all(
     fetched = []
     errors = 0
     for i, norm_id in enumerate(norm_ids, 1):
-        norma = generic_fetch_one(config, country, norm_id, force=force)
-        if norma is not None:
+        norm = generic_fetch_one(config, country, norm_id, force=force)
+        if norm is not None:
             fetched.append(norm_id)
         else:
             errors += 1
@@ -399,11 +399,11 @@ def generic_bootstrap(
     return total_commits
 
 
-def _extract_reforms_generic(text_parser, client, norm_id, bloques):
+def _extract_reforms_generic(text_parser, client, norm_id, blocks):
     """Extract reforms, with country-specific hooks.
 
     Swedish parser has extract_reforms_from_sfsr for the SFSR amendment register.
-    Falls back to generic extract_reforms() from bloques.
+    Falls back to generic extract_reforms() from blocks.
     """
     if hasattr(text_parser, "extract_reforms_from_sfsr") and hasattr(
         client, "get_amendment_register"
@@ -416,7 +416,7 @@ def _extract_reforms_generic(text_parser, client, norm_id, bloques):
                 "Amendment register unavailable for %s, using text-based reforms",
                 norm_id,
             )
-    return extract_reforms(bloques)
+    return extract_reforms(blocks)
 
 
 # ─────────────────────────────────────────────
@@ -437,21 +437,21 @@ def commit_one(config: Config, norm_id: str, dry_run: bool = False) -> int:
         console.print(f"  [red]{json_path} does not exist. Run fetch first.[/red]")
         return 0
 
-    norma = _load_norma_from_json(json_path)
-    metadata = norma.metadata
-    bloques = norma.bloques
-    reforms = norma.reforms
+    norm = load_norma_from_json(json_path)
+    metadata = norm.metadata
+    blocks = norm.bloques
+    reforms = norm.reforms
 
     console.print(
         f"  [bold]{metadata.titulo_corto}[/bold]: "
-        f"{len(bloques)} bloques, {len(reforms)} versiones"
+        f"{len(blocks)} bloques, {len(reforms)} versiones"
     )
 
     if dry_run:
         for reform in reforms:
             is_first = reform == reforms[0]
-            tipo = "bootstrap" if is_first else "reforma"
-            console.print(f"    [dim]{reform.fecha} [{tipo}][/dim]")
+            label = "bootstrap" if is_first else "reforma"
+            console.print(f"    [dim]{reform.fecha} [{label}][/dim]")
         return 0
 
     repo = GitRepo(config.git.repo_path, config.git.committer_name, config.git.committer_email)
@@ -464,20 +464,20 @@ def commit_one(config: Config, norm_id: str, dry_run: bool = False) -> int:
     file_path = norma_to_filepath(metadata)
 
     for reform in reforms:
-        # Idempotency: Source-Id + Norm-Id (a single Source-Id can be both its own norm AND a reform of another)
+        # Idempotency check: Source-Id + Norm-Id (a single Source-Id can be both its own norm AND a reform of another)
         if repo.has_commit_with_source_id(reform.id_norma, metadata.identificador):
             continue
 
         is_first = reform == reforms[0]
         commit_type = CommitType.BOOTSTRAP if is_first else CommitType.REFORMA
 
-        markdown = render_norma_at_date(metadata, bloques, reform.fecha)
+        markdown = render_norma_at_date(metadata, blocks, reform.fecha)
         changed = repo.write_and_add(file_path, markdown)
 
         if not changed and not is_first:
             continue
 
-        info = build_commit_info(commit_type, metadata, reform, bloques, file_path, markdown)
+        info = build_commit_info(commit_type, metadata, reform, blocks, file_path, markdown)
         sha = repo.commit(info)
 
         if sha:
@@ -515,12 +515,12 @@ def commit_all(config: Config, dry_run: bool = False) -> int:
             total += commits
 
             if not dry_run and commits > 0:
-                norma = _load_norma_from_json(json_file)
-                if norma.reforms:
+                norm = load_norma_from_json(json_file)
+                if norm.reforms:
                     state.mark_norma_processed(
-                        norma.metadata.identificador,
-                        norma.reforms[-1].fecha,
-                        len(norma.reforms),
+                        norm.metadata.identificador,
+                        norm.reforms[-1].fecha,
+                        len(norm.reforms),
                     )
         except Exception:
             errors += 1
@@ -571,17 +571,17 @@ def bootstrap_from_local_xml(
 ) -> int:
     """Bootstrap from a local XML (pilot/tests)."""
     xml_bytes = Path(xml_path).read_bytes()
-    bloques = parse_texto_xml(xml_bytes)
-    reforms = extract_reforms(bloques)
+    blocks = parse_texto_xml(xml_bytes)
+    reforms = extract_reforms(blocks)
 
-    norma = NormaCompleta(
+    norm = NormaCompleta(
         metadata=metadata,
-        bloques=tuple(bloques),
+        bloques=tuple(blocks),
         reforms=tuple(reforms),
     )
 
     save_raw_xml(config.data_dir, metadata.identificador, xml_bytes)
-    save_structured_json(config.data_dir, norma)
+    save_structured_json(config.data_dir, norm)
 
     return commit_one(config, metadata.identificador, dry_run=dry_run)
 
@@ -634,19 +634,19 @@ def daily(
 
     repo = GitRepo(config.git.repo_path, config.git.committer_name, config.git.committer_email)
     commits_created = 0
-    errores: list[str] = []
+    errors: list[str] = []
 
     with BOEClient(config.boe, cache) as client:
-        for fecha in dates_to_process:
-            console.print(f"\n  [bold]{fecha}[/bold]")
+        for current_date in dates_to_process:
+            console.print(f"\n  [bold]{current_date}[/bold]")
 
             try:
-                xml_data = client.get_sumario(fecha)
+                xml_data = client.get_sumario(current_date)
                 dispositions = parse_sumario(xml_data, config.scope)
             except Exception:
-                msg = f"Error fetching summary for {fecha}"
+                msg = f"Error fetching summary for {current_date}"
                 logger.error(msg, exc_info=True)
-                errores.append(msg)
+                errors.append(msg)
                 continue
 
             if not dispositions:
@@ -663,11 +663,11 @@ def daily(
                 try:
                     meta_xml = client.get_metadatos(disp.id_boe)
                     metadata = parse_metadatos(meta_xml, disp.id_boe)
-                    texto_xml = client.get_texto_consolidado(metadata.identificador)
-                    bloques = parse_texto_xml(texto_xml)
+                    text_xml = client.get_texto_consolidado(metadata.identificador)
+                    blocks = parse_texto_xml(text_xml)
 
                     file_path = norma_to_filepath(metadata)
-                    markdown = render_norma_at_date(metadata, bloques, fecha)
+                    markdown = render_norma_at_date(metadata, blocks, current_date)
 
                     if repo.has_commit_with_source_id(disp.id_boe):
                         continue
@@ -683,9 +683,9 @@ def daily(
                     else:
                         commit_type = CommitType.REFORMA
 
-                    reform = Reform(fecha=fecha, id_norma=disp.id_boe, bloques_afectados=())
+                    reform = Reform(fecha=current_date, id_norma=disp.id_boe, bloques_afectados=())
                     info = build_commit_info(
-                        commit_type, metadata, reform, bloques, file_path, markdown
+                        commit_type, metadata, reform, blocks, file_path, markdown
                     )
                     sha = repo.commit(info)
 
@@ -698,28 +698,28 @@ def daily(
                 except Exception:
                     msg = f"Error processing {disp.id_boe}"
                     logger.error(msg, exc_info=True)
-                    errores.append(msg)
+                    errors.append(msg)
 
-            state.ultimo_sumario = fecha
+            state.ultimo_sumario = current_date
 
     if not dry_run and config.git.push and commits_created > 0:
         try:
             repo.push(branch=config.git.branch)
         except Exception:
             logger.error("Error pushing", exc_info=True)
-            errores.append("Error pushing")
+            errors.append("Error pushing")
 
     state.record_run(
         sumarios=[d.isoformat() for d in dates_to_process],
         commits=commits_created,
-        errores=errores,
+        errores=errors,
     )
     state.save()
     mappings.save()
 
     console.print(f"\n[bold green]✓ {commits_created} commits[/bold green]")
-    if errores:
-        console.print(f"[yellow]⚠ {len(errores)} errores[/yellow]")
+    if errors:
+        console.print(f"[yellow]⚠ {len(errors)} errors[/yellow]")
 
     return commits_created
 
@@ -740,20 +740,8 @@ def reprocess(
     commits = 0
     for boe_id in boe_ids:
         fetch_one(config, boe_id, force=True)
-        # TODO: commit como fix-pipeline en vez de bootstrap/reforma
+        # TODO: commit as fix-pipeline instead of bootstrap/reforma
         commits += commit_one(config, boe_id, dry_run=dry_run)
     return commits
 
 
-# ─────────────────────────────────────────────
-# Helpers
-# ─────────────────────────────────────────────
-
-
-def _load_norma_from_json(json_path: Path) -> NormaCompleta:
-    """Load a NormaCompleta from a JSON in data/.
-
-    Delegates to storage.load_norma_from_json(). Kept for backwards compat
-    with pipeline_fr.py and pipeline_se.py which import this.
-    """
-    return load_norma_from_json(json_path)

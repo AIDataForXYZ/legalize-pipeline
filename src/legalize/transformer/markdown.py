@@ -15,7 +15,7 @@ from legalize.transformer.xml_parser import get_bloque_at_date
 
 
 # ─────────────────────────────────────────────
-# Mapeo CSS class → Markdown (data-driven)
+# CSS class → Markdown mapping (data-driven)
 # ─────────────────────────────────────────────
 
 # Format functions for simple CSS classes (no lookahead)
@@ -89,7 +89,7 @@ def render_paragraphs(paragraphs: list[Paragraph] | tuple[Paragraph, ...]) -> st
 
 def render_norma_at_date(
     metadata: NormaMetadata,
-    bloques: list[Bloque] | tuple[Bloque, ...],
+    blocks: list[Bloque] | tuple[Bloque, ...],
     target_date: date,
 ) -> str:
     """Generates the complete Markdown for a norm at a given point in time.
@@ -98,7 +98,7 @@ def render_norma_at_date(
 
     Args:
         metadata: Norm metadata.
-        bloques: List of blocks with their historical versions.
+        blocks: List of blocks with their historical versions.
         target_date: Date for which to generate the version.
 
     Returns:
@@ -110,12 +110,12 @@ def render_norma_at_date(
     parts.append(render_frontmatter(metadata, target_date))
 
     # H1 title (without trailing period)
-    titulo = metadata.titulo.rstrip(". ").strip()
-    parts.append(f"# {titulo}\n\n")
+    title = metadata.titulo.rstrip(". ").strip()
+    parts.append(f"# {title}\n\n")
 
     # Blocks in effect at the date
-    for bloque in bloques:
-        version = get_bloque_at_date(bloque, target_date)
+    for block in blocks:
+        version = get_bloque_at_date(block, target_date)
         if version is None:
             continue
 

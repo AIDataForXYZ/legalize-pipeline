@@ -48,7 +48,7 @@ class TestBootstrapPipeline:
         xml_path = FIXTURES_DIR / "constitucion-sample.xml"
         bootstrap_from_local_xml(bootstrap_config, constitucion_metadata, xml_path)
 
-        md_path = Path(bootstrap_config.git.repo_path) / "constituciones" / "BOE-A-1978-31229.md"
+        md_path = Path(bootstrap_config.git.repo_path) / "es" / "BOE-A-1978-31229.md"
         assert md_path.exists()
         content = md_path.read_text(encoding="utf-8")
         assert "Constitución Española" in content

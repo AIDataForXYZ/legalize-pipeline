@@ -17,24 +17,30 @@ from __future__ import annotations
 
 from datetime import date
 
-from legalize.models import NormaMetadata
+from legalize.models import EstadoNorma, NormaMetadata
 
 
 def render_frontmatter(metadata: NormaMetadata, version_date: date) -> str:
     """Generates the YAML frontmatter block for a norm at a given date."""
-    titulo = _clean_titulo(metadata.titulo)
+    title = _clean_title(metadata.titulo)
 
     lines = [
         "---",
-        f'titulo: "{_escape_yaml(titulo)}"',
+        f'titulo: "{_escape_yaml(title)}"',
         f'identificador: "{metadata.identificador}"',
         f'pais: "{metadata.pais}"',
+    ]
+
+    if metadata.jurisdiccion:
+        lines.append(f'jurisdiccion: "{metadata.jurisdiccion}"')
+
+    lines.extend([
         f'rango: "{metadata.rango}"',
         f'fecha_publicacion: "{metadata.fecha_publicacion.isoformat()}"',
         f'ultima_actualizacion: "{version_date.isoformat()}"',
-        f'estado: "{metadata.estado}"',
+        f'estado: "{metadata.estado.value if isinstance(metadata.estado, EstadoNorma) else metadata.estado}"',
         f'fuente: "{metadata.fuente}"',
-    ]
+    ])
 
     if metadata.url_pdf:
         lines.append(f'url_pdf: "{metadata.url_pdf}"')
@@ -50,6 +56,6 @@ def _escape_yaml(text: str) -> str:
     return text.replace('"', '\\"')
 
 
-def _clean_titulo(titulo: str) -> str:
+def _clean_title(raw_title: str) -> str:
     """Cleans the title: remove trailing period, normalize spaces."""
-    return titulo.rstrip(". ").strip()
+    return raw_title.rstrip(". ").strip()

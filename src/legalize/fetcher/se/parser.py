@@ -499,7 +499,7 @@ class SwedishTextParser(TextParser):
             return []
 
         provisions = _parse_provisions(text)
-        return _provisions_to_bloques(provisions)
+        return _provisions_to_blocks(provisions)
 
     def extract_reforms(self, data: bytes) -> list[Any]:
         """Extract amendment history from SFSR HTML embedded in data.
@@ -583,15 +583,15 @@ class SwedishMetadataParser(MetadataParser):
         dokuppgift = _extract_dokuppgift(data)
 
         # Title
-        titulo = (
+        title = (
             doc.get("titel", "")
             or dokuppgift.get("titel", "")
             or f"SFS {norm_id}"
         )
-        titulo = " ".join(titulo.split()).strip()
+        title = " ".join(title.split()).strip()
 
         # Short title
-        titulo_corto = _titulo_corto_se(titulo, norm_id)
+        short_title = _titulo_corto_se(title, norm_id)
 
         # Dates
         html = doc.get("html", "")
@@ -618,29 +618,29 @@ class SwedishMetadataParser(MetadataParser):
             estado = EstadoNorma.DEROGADA
 
         # Rank
-        rango = _detect_rango(titulo)
+        rank = _detect_rango(title)
 
         # Identifier
         # Normalize for filesystem: "1962:700" → "SFS-1962-700"
-        identificador = f"SFS-{norm_id.replace(':', '-')}"
+        identifier = f"SFS-{norm_id.replace(':', '-')}"
 
         # Source URL
         sfs_slug = norm_id.replace(":", "-")
-        fuente = (
+        source_url = (
             f"https://www.riksdagen.se/sv/dokument-och-lagar/"
             f"dokument/svensk-forfattningssamling/sfs-{sfs_slug}"
         )
 
         return NormaMetadata(
-            titulo=titulo,
-            titulo_corto=titulo_corto,
-            identificador=identificador,
+            titulo=title,
+            titulo_corto=short_title,
+            identificador=identifier,
             pais="se",
-            rango=rango,
+            rango=rank,
             fecha_publicacion=fecha_pub,
             estado=estado,
             departamento="",
-            fuente=fuente,
+            fuente=source_url,
             fecha_ultima_modificacion=fecha_modif,
         )
 
@@ -650,7 +650,7 @@ class SwedishMetadataParser(MetadataParser):
 # ─────────────────────────────────────────────
 
 
-def _titulo_corto_se(titulo: str, norm_id: str) -> str:
+def _titulo_corto_se(raw_title: str, norm_id: str) -> str:
     """Generate a short title for a Swedish statute.
 
     Examples:
@@ -658,36 +658,36 @@ def _titulo_corto_se(titulo: str, norm_id: str) -> str:
         "Lag (2018:218) med kompletterande..." -> "Lag (2018:218)"
         "Tryckfrihetsförordningen (1949:105)" -> "Tryckfrihetsförordningen"
     """
-    if not titulo:
+    if not raw_title:
         return f"SFS {norm_id}"
 
     # If title starts with a known short form, extract it
     # Pattern: "Name (YYYY:NNN) rest..." -> "Name"
-    match = re.match(r"^([^(]+?)\s*\(\d{4}:\d+\)", titulo)
+    match = re.match(r"^([^(]+?)\s*\(\d{4}:\d+\)", raw_title)
     if match:
         short = match.group(1).strip()
         # For "Lag" or "Förordning" alone, include the SFS number
         if short.lower() in ("lag", "förordning"):
-            sfs_match = re.search(r"\((\d{4}:\d+)\)", titulo)
+            sfs_match = re.search(r"\((\d{4}:\d+)\)", raw_title)
             if sfs_match:
                 return f"{short} ({sfs_match.group(1)})"
         return short
 
     # Truncate at first parenthesis
-    paren_idx = titulo.find("(")
+    paren_idx = raw_title.find("(")
     if paren_idx > 0:
-        return titulo[:paren_idx].strip()
+        return raw_title[:paren_idx].strip()
 
-    return titulo
+    return raw_title
 
 
-def _provisions_to_bloques(provisions: list[dict[str, Any]]) -> list[Bloque]:
+def _provisions_to_blocks(provisions: list[dict[str, Any]]) -> list[Bloque]:
     """Convert parsed provisions to Bloque objects.
 
     Groups provisions by chapter, creating section Bloques for
     chapter headings and article Bloques for individual sections.
     """
-    bloques: list[Bloque] = []
+    blocks: list[Bloque] = []
     current_chapter: str | None = None
 
     for prov in provisions:
@@ -704,7 +704,7 @@ def _provisions_to_bloques(provisions: list[dict[str, Any]]) -> list[Bloque]:
             if title:
                 chapter_title = f"{chapter} kap. {title}"
 
-            bloques.append(Bloque(
+            blocks.append(Bloque(
                 id=f"kap_{chapter}",
                 tipo="section",
                 titulo=chapter_title,
@@ -740,7 +740,7 @@ def _provisions_to_bloques(provisions: list[dict[str, Any]]) -> list[Bloque]:
             paragraphs.append(Paragraph(css_class="parrafo", text=content))
 
         if paragraphs:
-            bloques.append(Bloque(
+            blocks.append(Bloque(
                 id=provision_ref or f"s_{section}",
                 tipo="article",
                 titulo=f"{section} §" if section else provision_ref,
@@ -752,4 +752,4 @@ def _provisions_to_bloques(provisions: list[dict[str, Any]]) -> list[Bloque]:
                 ),),
             ))
 
-    return bloques
+    return blocks
