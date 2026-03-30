@@ -1,0 +1,42 @@
+repos:
+  # ─── Pre-commit: fast checks on every commit ───
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: ruff lint
+        entry: ruff check src/ tests/
+        language: system
+        pass_filenames: false
+        types: [python]
+
+      - id: ruff-format
+        name: ruff format
+        entry: ruff format --check src/ tests/
+        language: system
+        pass_filenames: false
+        types: [python]
+
+      - id: conflict-markers
+        name: no conflict markers
+        entry: bash -c 'if grep -rn "<<<<<<\|>>>>>>\|=======" --include="*.py" --include="*.yaml" --include="*.md" src/ tests/ .github/ 2>/dev/null; then echo "CONFLICT MARKERS FOUND"; exit 1; fi'
+        language: system
+        pass_filenames: false
+        always_run: true
+
+      - id: country-dispatch
+        name: verify country dispatch
+        entry: python3 scripts/check-dispatch.py
+        language: system
+        pass_filenames: false
+        types: [python]
+
+  # ─── Pre-push: full test suite (slower, only on push) ───
+  - repo: local
+    hooks:
+      - id: pytest
+        name: full test suite
+        entry: python3 -m pytest tests/ --tb=short -q
+        language: system
+        pass_filenames: false
+        types: [python]
+        stages: [pre-push]

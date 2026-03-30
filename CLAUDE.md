@@ -30,6 +30,7 @@ Processing Spanish (BOE), French (LEGI), and Swedish (SFSR) legislation. Archite
 
 ## Language & Stack
 
+- **English only** — all code, comments, variable names, function names, and documentation must be in English. The only exceptions are dataclass field names in `models.py` that are part of the output data contract (e.g., `titulo`, `identificador`, `fecha_publicacion`) and string literals for XML element names or commit message content.
 - **Python 3.12+** with `pyproject.toml` (hatchling build), src layout
 - Dependencies: `lxml`, `requests`, `pyyaml`, `click`, `rich`
 - Dev: `pytest`, `ruff`, `responses` (HTTP mocking)

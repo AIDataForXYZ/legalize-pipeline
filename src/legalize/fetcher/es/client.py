@@ -140,6 +140,10 @@ class BOEClient:
         path = f"/api/boe/sumario/{target_date.strftime('%Y%m%d')}"
         return self._fetch(self._build_url(path))
 
+    def get_text(self, id_boe: str) -> bytes:
+        """Fetches the consolidated text XML (implements LegislativeClient interface)."""
+        return self.get_consolidated_text(id_boe)
+
     def get_consolidated_text(self, id_boe: str, bypass_cache: bool = False) -> bytes:
         """Fetches the consolidated text XML: /api/legislacion-consolidada/id/{id}/texto."""
         path = f"/api/legislacion-consolidada/id/{id_boe}/texto"
