@@ -1,4 +1,5 @@
 """Discovery of Austrian Bundesrecht norms via the RIS OGD API."""
+
 from __future__ import annotations
 
 import json
@@ -46,7 +47,9 @@ class RISDiscovery(NormDiscovery):
                 break
             page += 1
 
-    def discover_daily(self, client: LegislativeClient, target_date: date, **kwargs) -> Iterator[str]:
+    def discover_daily(
+        self, client: LegislativeClient, target_date: date, **kwargs
+    ) -> Iterator[str]:
         """Yield Gesetzesnummern updated on target_date via the Geaendert filter."""
         assert isinstance(client, RISClient)
         seen: set[str] = set()

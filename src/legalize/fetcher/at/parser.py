@@ -4,6 +4,7 @@ The RIS XML format uses the BKA namespace: http://www.bka.gv.at
 Each NOR document represents one paragraph/article.
 The API JSON metadata groups NOR entries by Gesetzesnummer.
 """
+
 from __future__ import annotations
 
 import json
@@ -34,11 +35,22 @@ RIS_TYP_TO_RANGO: dict[str, str] = {
     "Vertrag": "staatsvertrag",
 }
 
-_SKIP_CT = frozenset({
-    "kurztitel", "kundmachungsorgan", "typ", "artikel_anlage",
-    "ikra", "akra", "index", "schlagworte", "geaendert",
-    "gesnr", "doknr", "adoknr",
-})
+_SKIP_CT = frozenset(
+    {
+        "kurztitel",
+        "kundmachungsorgan",
+        "typ",
+        "artikel_anlage",
+        "ikra",
+        "akra",
+        "index",
+        "schlagworte",
+        "geaendert",
+        "gesnr",
+        "doknr",
+        "adoknr",
+    }
+)
 
 
 def _parse_date(s: str) -> date | None:
@@ -162,7 +174,8 @@ class RISMetadataParser(MetadataParser):
         # Prefer the Norm (header) entry; fall back to first entry
         norm_ref = next(
             (
-                r for r in refs
+                r
+                for r in refs
                 if r["Data"]["Metadaten"]["Bundesrecht"]["BrKons"].get("Dokumenttyp") == "Norm"
             ),
             refs[0] if refs else None,
