@@ -91,15 +91,19 @@ def render_norm_at_date(
     metadata: NormaMetadata,
     blocks: list[Bloque] | tuple[Bloque, ...],
     target_date: date,
+    include_all: bool = False,
 ) -> str:
     """Generates the complete Markdown for a norm at a given point in time.
 
-    Includes YAML frontmatter + H1 title + body with all blocks in effect.
+    Includes YAML frontmatter + H1 title + body with all blocks.
 
     Args:
         metadata: Norm metadata.
         blocks: List of blocks with their historical versions.
         target_date: Date for which to generate the version.
+        include_all: If True, include ALL blocks even if they have no version
+            at target_date (uses the earliest available version as fallback).
+            Set to True for bootstrap commits to get the complete law.
 
     Returns:
         String with the complete Markdown document.
@@ -116,6 +120,11 @@ def render_norm_at_date(
     # Blocks in effect at the date
     for block in blocks:
         version = get_block_at_date(block, target_date)
+
+        # Fallback: if include_all, use the earliest version available
+        if version is None and include_all and block.versions:
+            version = min(block.versions, key=lambda v: v.fecha_publicacion)
+
         if version is None:
             continue
 

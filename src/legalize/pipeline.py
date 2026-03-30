@@ -464,7 +464,7 @@ def commit_one(config: Config, norm_id: str, dry_run: bool = False) -> int:
         is_first = reform == reforms[0]
         commit_type = CommitType.BOOTSTRAP if is_first else CommitType.REFORMA
 
-        markdown = render_norm_at_date(metadata, blocks, reform.fecha)
+        markdown = render_norm_at_date(metadata, blocks, reform.fecha, include_all=is_first)
         changed = repo.write_and_add(file_path, markdown)
 
         if not changed and not is_first:

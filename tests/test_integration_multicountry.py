@@ -657,7 +657,7 @@ class TestSlugMultiCountry:
         norm = _make_norm_se()
         assert norm_to_filepath(norm.metadata) == "se/SFS-1962-700.md"
 
-    def test_jurisdiccion_overrides_pais(self):
+    def test_jurisdiction_overrides_pais(self):
         """Autonomous community norms use jurisdiccion as directory."""
         meta = NormaMetadata(
             titulo="Ley vasca",
@@ -672,3 +672,112 @@ class TestSlugMultiCountry:
             jurisdiccion="es-pv",
         )
         assert norm_to_filepath(meta) == "es-pv/BOE-A-2020-615.md"
+
+
+# ─────────────────────────────────────────────
+# TestBootstrapIncludesAllBlocks
+# ─────────────────────────────────────────────
+
+
+class TestBootstrapIncludesAllBlocks:
+    """Bootstrap commit must include ALL blocks, even those with dates
+    after the first reform. This tests the include_all fix."""
+
+    @staticmethod
+    def _make_norm_with_mismatched_dates() -> NormaCompleta:
+        """Norm where some blocks have dates AFTER the first reform.
+
+        Block a1: version at 2000-01-01 (matches first reform)
+        Block a2: version at 2005-03-15 (AFTER first reform — would be missing without include_all)
+        Block a3: version at 2010-06-20 (AFTER first reform — would be missing without include_all)
+        Reform 1: 2000-01-01 (only covers a1)
+        Reform 2: 2010-06-20 (covers a3)
+        """
+        d1 = date(2000, 1, 1)
+        d2 = date(2005, 3, 15)
+        d3 = date(2010, 6, 20)
+
+        blocks = [
+            _make_block(
+                "a1", "Article 1", [_make_version("SRC-ORIG", d1, "Original text of article 1.")]
+            ),
+            _make_block(
+                "a2",
+                "Article 2",
+                [_make_version("SRC-OTHER", d2, "Text of article 2 added later.")],
+            ),
+            _make_block(
+                "a3",
+                "Article 3",
+                [
+                    _make_version("SRC-OTHER", d2, "Original text of article 3."),
+                    _make_version("SRC-REFORM", d3, "Reformed text of article 3."),
+                ],
+            ),
+        ]
+
+        reforms = [
+            Reform(fecha=d1, id_norma="SRC-ORIG", bloques_afectados=("a1",)),
+            Reform(fecha=d3, id_norma="SRC-REFORM", bloques_afectados=("a3",)),
+        ]
+
+        metadata = NormaMetadata(
+            titulo="Test Law with Mismatched Dates",
+            titulo_corto="Test Law",
+            identificador="TEST-INCLUDE-ALL",
+            pais="es",
+            rango=Rango.LEY,
+            fecha_publicacion=d1,
+            estado=EstadoNorma.VIGENTE,
+            departamento="Test",
+            fuente="https://example.com",
+        )
+
+        return NormaCompleta(metadata=metadata, bloques=tuple(blocks), reforms=tuple(reforms))
+
+    def test_bootstrap_includes_all_three_blocks(self, test_config):
+        """First commit (bootstrap) must include all 3 blocks, not just a1."""
+        norm = self._make_norm_with_mismatched_dates()
+        _save_norm(test_config, norm)
+        commit_one(test_config, norm.metadata.identificador)
+
+        # Read the FIRST commit's content (bootstrap), not the final state
+        result = subprocess.run(
+            ["git", "log", "--format=%H", "--reverse"],
+            cwd=test_config.git.repo_path,
+            capture_output=True,
+            text=True,
+        )
+        first_sha = result.stdout.strip().splitlines()[0]
+        show = subprocess.run(
+            ["git", "show", f"{first_sha}:es/TEST-INCLUDE-ALL.md"],
+            cwd=test_config.git.repo_path,
+            capture_output=True,
+            text=True,
+        )
+        content = show.stdout
+
+        assert "Original text of article 1" in content, "Block a1 should be in bootstrap"
+        assert "Text of article 2 added later" in content, (
+            "Block a2 should be in bootstrap (include_all)"
+        )
+        assert "Original text of article 3" in content, (
+            "Block a3 should be in bootstrap (include_all)"
+        )
+
+    def test_reform_only_changes_affected_block(self, test_config):
+        """Second commit (reform) should change only article 3."""
+        norm = self._make_norm_with_mismatched_dates()
+        _save_norm(test_config, norm)
+        commits = commit_one(test_config, norm.metadata.identificador)
+        assert commits == 2
+
+        # Get the markdown at the last commit
+        md_path = Path(test_config.git.repo_path) / "es" / "TEST-INCLUDE-ALL.md"
+        content = md_path.read_text(encoding="utf-8")
+
+        # Article 3 should now have the reformed text
+        assert "Reformed text of article 3" in content
+        # Articles 1 and 2 should still be there unchanged
+        assert "Original text of article 1" in content
+        assert "Text of article 2 added later" in content
