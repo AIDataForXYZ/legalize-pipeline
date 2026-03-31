@@ -15,7 +15,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from legalize.config import BOEConfig
+from legalize.fetcher.es.config import BOEConfig
 from legalize.fetcher.cache import FileCache
 
 logger = logging.getLogger(__name__)

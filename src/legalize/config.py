@@ -12,29 +12,10 @@ from typing import Any, Optional
 
 import yaml
 
-
-@dataclass
-class BOEConfig:
-    """BOE API connection configuration."""
-
-    base_url: str = "https://www.boe.es/datosabiertos"
-    request_timeout: int = 30
-    max_retries: int = 5
-    retry_backoff_base: float = 2.0
-    retry_backoff_multiplier: float = 2.0
-    retry_jitter: float = 0.25
-    requests_per_second: float = 2.0
-    user_agent: str = "legalize-bot/1.0 (+https://github.com/legalize-dev/legalize)"
-
-
-@dataclass
-class ScopeConfig:
-    """Pipeline scope: which norms to process."""
-
-    rangos: list[str] = field(default_factory=list)  # Empty = all rangos accepted
-    fecha_desde: Optional[date] = None
-    fecha_hasta: Optional[date] = None
-    normas_fijas: list[str] = field(default_factory=list)  # BOE IDs always included
+# Spain-specific config types — canonical location is fetcher/es/config.py.
+# Re-exported here for backward compatibility (Spain pipeline code reads
+# config.boe / config.scope which are typed as BOEConfig / ScopeConfig).
+from legalize.fetcher.es.config import BOEConfig, ScopeConfig  # noqa: F401
 
 
 @dataclass
@@ -96,12 +77,6 @@ def _parse_date(value: str | None) -> Optional[date]:
     return date.fromisoformat(value)
 
 
-def _parse_rangos(values: list[str] | None) -> list[str]:
-    if values is None:
-        return []  # Empty = accept all
-    return list(values)
-
-
 def load_config(path: str | Path = "config.yaml", overrides: dict | None = None) -> Config:
     """Load configuration from YAML, with optional CLI overrides."""
     config_path = Path(path)
@@ -117,8 +92,6 @@ def load_config(path: str | Path = "config.yaml", overrides: dict | None = None)
             if value is not None:
                 _set_nested(raw, key, value)
 
-    boe_raw = raw.get("boe", {})
-    scope_raw = raw.get("scope", {})
     git_raw = raw.get("git", {})
 
     # Parse per-country configs
@@ -135,8 +108,10 @@ def load_config(path: str | Path = "config.yaml", overrides: dict | None = None)
             source=country_raw.get("source", {}),
         )
 
-    return Config(
-        boe=BOEConfig(
+    # Spain-specific sections — only parsed if present in YAML
+    boe_raw = raw.get("boe")
+    boe = (
+        BOEConfig(
             base_url=boe_raw.get("base_url", BOEConfig.base_url),
             request_timeout=boe_raw.get("request_timeout", BOEConfig.request_timeout),
             max_retries=boe_raw.get("max_retries", BOEConfig.max_retries),
@@ -147,13 +122,26 @@ def load_config(path: str | Path = "config.yaml", overrides: dict | None = None)
             retry_jitter=boe_raw.get("retry_jitter", BOEConfig.retry_jitter),
             requests_per_second=boe_raw.get("requests_per_second", BOEConfig.requests_per_second),
             user_agent=boe_raw.get("user_agent", BOEConfig.user_agent),
-        ),
-        scope=ScopeConfig(
-            rangos=_parse_rangos(scope_raw.get("rangos")),
+        )
+        if boe_raw
+        else BOEConfig()
+    )
+
+    scope_raw = raw.get("scope")
+    scope = (
+        ScopeConfig(
+            rangos=list(scope_raw.get("rangos", [])),
             fecha_desde=_parse_date(scope_raw.get("fecha_desde")),
             fecha_hasta=_parse_date(scope_raw.get("fecha_hasta")),
             normas_fijas=scope_raw.get("normas_fijas", []),
-        ),
+        )
+        if scope_raw
+        else ScopeConfig()
+    )
+
+    return Config(
+        boe=boe,
+        scope=scope,
         git=GitConfig(
             repo_path=git_raw.get("repo_path", GitConfig.repo_path),
             committer_name=git_raw.get("committer_name", GitConfig.committer_name),

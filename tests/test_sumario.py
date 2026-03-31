@@ -1,6 +1,6 @@
 """Tests for the BOE sumario parser."""
 
-from legalize.config import ScopeConfig
+from legalize.fetcher.es.config import ScopeConfig
 from legalize.fetcher.es.sumario import parse_summary
 from legalize.models import Rango
 

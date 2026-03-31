@@ -35,7 +35,7 @@ import re
 
 from lxml import etree
 
-from legalize.config import ScopeConfig
+from legalize.fetcher.es.config import ScopeConfig
 from legalize.models import Disposition, Rango
 
 logger = logging.getLogger(__name__)
