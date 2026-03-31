@@ -1,17 +1,18 @@
 """Legalize pipeline orchestrator.
 
-Incremental flows:
-- fetch: download XML+JSON of one or more laws to data/ (does not touch git)
-- commit: read JSON from data/ and generate commits for one or more laws (does not download anything)
-- bootstrap: fetch --all + commit --all (shortcut)
-- daily: process daily summary, incremental
-- reprocess: re-download and regenerate a specific law
+Generic (country-agnostic) flows:
+- generic_fetch_one: fetch one norm for any country via dispatch
+- generic_fetch_all: fetch all norms for any country via discovery
+- generic_bootstrap: full bootstrap for any country
+- commit_one: generate commits for one law from local data
+- commit_all: generate commits for all laws in data/
+- reprocess: re-download and regenerate specific norms
+- bootstrap_from_local_xml: bootstrap from local XML (tests/pilot)
 """
 
 from __future__ import annotations
 
 import logging
-from datetime import date
 from pathlib import Path
 
 from rich.console import Console
@@ -23,7 +24,6 @@ from legalize.models import (
     CommitType,
     NormaCompleta,
     NormaMetadata,
-    Reform,
 )
 from legalize.state.mappings import IdToFilename
 from legalize.state.store import StateStore
@@ -34,229 +34,6 @@ from legalize.transformer.xml_parser import extract_reforms, parse_text_xml
 
 console = Console()
 logger = logging.getLogger(__name__)
-
-
-# ─────────────────────────────────────────────
-# FETCH — download data from the API, does not touch git
-# ─────────────────────────────────────────────
-
-
-def fetch_one(config: Config, boe_id: str, force: bool = False) -> NormaCompleta | None:
-    """Download XML + metadata of a law and save to data/.
-
-    If already exists in data/ and force=False, does not re-download.
-    Returns NormaCompleta or None on error.
-    """
-    from legalize.fetcher.cache import FileCache
-    from legalize.fetcher.es.client import BOEClient
-    from legalize.fetcher.es.metadata import parse_metadata
-
-    json_path = Path(config.data_dir) / "json" / f"{boe_id}.json"
-    if json_path.exists() and not force:
-        console.print(f"  [dim]{boe_id} already downloaded, skipping[/dim]")
-        return load_norma_from_json(json_path)
-
-    cache = FileCache(config.cache_dir)
-    with BOEClient(config.boe, cache) as client:
-        try:
-            console.print(f"  Downloading [bold]{boe_id}[/bold]...")
-            meta_xml = client.get_metadata(boe_id)
-            metadata = parse_metadata(meta_xml, boe_id)
-            text_xml = client.get_consolidated_text(boe_id, bypass_cache=force)
-
-            blocks = parse_text_xml(text_xml)
-            reforms = extract_reforms(blocks)
-
-            norm = NormaCompleta(
-                metadata=metadata,
-                bloques=tuple(blocks),
-                reforms=tuple(reforms),
-            )
-
-            save_raw_xml(config.data_dir, boe_id, text_xml)
-            save_structured_json(config.data_dir, norm)
-
-            console.print(
-                f"  [green]✓[/green] {metadata.titulo_corto}: "
-                f"{len(blocks)} bloques, {len(reforms)} versiones"
-            )
-            return norm
-
-        except Exception:
-            logger.error("Error downloading %s", boe_id, exc_info=True)
-            console.print(f"  [red]✗ Error downloading {boe_id}[/red]")
-            return None
-
-
-def fetch_all(config: Config, force: bool = False) -> list[str]:
-    """Download all norms from config.normas_fijas.
-
-    Returns list of successfully downloaded BOE-IDs.
-    """
-    console.print("[bold]Fetch — downloading norms from BOE[/bold]\n")
-    fetched = []
-    for boe_id in config.scope.normas_fijas:
-        norm = fetch_one(config, boe_id, force=force)
-        if norm is not None:
-            fetched.append(boe_id)
-    console.print(f"\n[bold green]✓ {len(fetched)} norms downloaded[/bold green]")
-    return fetched
-
-
-def fetch_catalog(config: Config, force: bool = False) -> list[str]:
-    """Download ALL state-level norms from the BOE catalog.
-
-    Paginates correctly (the API has a 10,000 per request limit).
-    Downloads all state-level norms, regardless of rango.
-    Skips those already in data/.
-    """
-    import requests
-
-    console.print("[bold]Fetch catalog — downloading full BOE catalog[/bold]\n")
-
-    # Paginate full catalog
-    base_url = f"{config.boe.base_url}/api/legislacion-consolidada"
-    all_items: list[dict] = []
-    offset = 0
-    batch = 1000
-
-    console.print("  Querying catalog (paginated)...")
-    while True:
-        resp = requests.get(
-            base_url,
-            headers={"Accept": "application/json"},
-            params={"limit": batch, "offset": offset},
-            timeout=60,
-        )
-        resp.raise_for_status()
-        items = resp.json().get("data", [])
-        if not items:
-            break
-        all_items.extend(items)
-        offset += batch
-
-    # Filter state-level only
-    in_scope = [
-        item["identificador"] for item in all_items if item.get("ambito", {}).get("codigo") == "1"
-    ]
-
-    console.print(f"  {len(in_scope)} state-level norms found\n")
-
-    # Download each one (skips those that already exist)
-    fetched = []
-    errors = 0
-    skipped = 0
-    for i, boe_id in enumerate(in_scope, 1):
-        json_path = Path(config.data_dir) / "json" / f"{boe_id}.json"
-        if json_path.exists() and not force:
-            skipped += 1
-            continue
-
-        norm = fetch_one(config, boe_id, force=force)
-        if norm is not None:
-            fetched.append(boe_id)
-        else:
-            errors += 1
-
-        # Progress every 100
-        if (len(fetched) + errors) % 100 == 0:
-            console.print(
-                f"  [{i}/{len(in_scope)}] {len(fetched)} new, {skipped} existing, {errors} errors"
-            )
-
-    console.print(f"\n[bold green]✓ {len(fetched)} new norms downloaded[/bold green]")
-    console.print(f"  {skipped} already existed, {errors} errors")
-
-    total = len(list((Path(config.data_dir) / "json").glob("*.json")))
-    console.print(f"  Total in data/: {total} norms")
-
-    return fetched
-
-
-def fetch_catalog_ccaa(config: Config, jurisdiction: str, force: bool = False) -> list[str]:
-    """Download all norms for an autonomous community from the BOE catalog.
-
-    Filters by ambito=2 (Autonómico) and the ELI jurisdiction code.
-    Uses the same BOE API — CCAA laws published in BOE have full consolidated text.
-
-    Args:
-        config: Pipeline configuration.
-        jurisdiction: ELI code (e.g., "es-pv", "es-ct", "es-an").
-        force: Re-download even if already cached.
-
-    Returns:
-        List of successfully downloaded BOE-IDs.
-    """
-    import requests
-
-    from legalize.fetcher.es.metadata import _DEPT_TO_JURISDICTION
-
-    # Reverse lookup: jurisdiction → all matching departamento codes
-    dept_codes = [code for code, jur in _DEPT_TO_JURISDICTION.items() if jur == jurisdiction]
-
-    if not dept_codes:
-        console.print(f"[red]Unknown jurisdiction: {jurisdiction}[/red]")
-        return []
-
-    console.print(f"[bold]Fetch CCAA catalog — {jurisdiction} (depts={dept_codes})[/bold]\n")
-
-    # Paginate full catalog
-    base_url = f"{config.boe.base_url}/api/legislacion-consolidada"
-    all_items: list[dict] = []
-    offset = 0
-    batch = 1000
-
-    console.print("  Querying catalog (paginated)...")
-    while True:
-        resp = requests.get(
-            base_url,
-            headers={"Accept": "application/json"},
-            params={"limit": batch, "offset": offset},
-            timeout=60,
-        )
-        resp.raise_for_status()
-        items = resp.json().get("data", [])
-        if not items:
-            break
-        all_items.extend(items)
-        offset += batch
-
-    # Filter by CCAA departamento (may have multiple codes)
-    dept_code_set = set(dept_codes)
-    in_scope = [
-        item["identificador"]
-        for item in all_items
-        if item.get("ambito", {}).get("codigo") == "2"
-        and item.get("departamento", {}).get("codigo") in dept_code_set
-    ]
-
-    console.print(f"  {len(in_scope)} norms found for {jurisdiction}\n")
-
-    # Download each one
-    fetched = []
-    errors = 0
-    skipped = 0
-    for i, boe_id in enumerate(in_scope, 1):
-        json_path = Path(config.data_dir) / "json" / f"{boe_id}.json"
-        if json_path.exists() and not force:
-            skipped += 1
-            continue
-
-        norm = fetch_one(config, boe_id, force=force)
-        if norm is not None:
-            fetched.append(boe_id)
-        else:
-            errors += 1
-
-        if (len(fetched) + errors) % 50 == 0:
-            console.print(
-                f"  [{i}/{len(in_scope)}] {len(fetched)} new, {skipped} existing, {errors} errors"
-            )
-
-    console.print(f"\n[bold green]✓ {len(fetched)} new norms downloaded[/bold green]")
-    console.print(f"  {skipped} already existed, {errors} errors")
-
-    return fetched
 
 
 # ─────────────────────────────────────────────
@@ -546,14 +323,29 @@ def commit_all(config: Config, dry_run: bool = False) -> int:
 
 
 # ─────────────────────────────────────────────
-# BOOTSTRAP — shortcut: fetch all + commit all
+# REPROCESS — re-download and regenerate norms
 # ─────────────────────────────────────────────
 
 
-def bootstrap(config: Config, dry_run: bool = False) -> int:
-    """Fetch + commit all norms in config."""
-    fetch_all(config)
-    return commit_all(config, dry_run=dry_run)
+def reprocess(
+    config: Config,
+    country: str,
+    norm_ids: list[str],
+    reason: str,
+    dry_run: bool = False,
+) -> int:
+    """Re-download and regenerate specific norms."""
+    console.print(f"[bold]Reprocess — {reason}[/bold]\n")
+    commits = 0
+    for norm_id in norm_ids:
+        generic_fetch_one(config, country, norm_id, force=True)
+        commits += commit_one(config, norm_id, dry_run=dry_run)
+    return commits
+
+
+# ─────────────────────────────────────────────
+# BOOTSTRAP FROM LOCAL XML — used by tests/pilot
+# ─────────────────────────────────────────────
 
 
 def bootstrap_from_local_xml(
@@ -577,162 +369,3 @@ def bootstrap_from_local_xml(
     save_structured_json(config.data_dir, norm)
 
     return commit_one(config, metadata.identificador, dry_run=dry_run)
-
-
-# ─────────────────────────────────────────────
-# DAILY — incremental, new reforms only
-# ─────────────────────────────────────────────
-
-
-def daily(
-    config: Config,
-    target_date: date | None = None,
-    dry_run: bool = False,
-) -> int:
-    """Daily processing: process BOE summary/summaries."""
-    from datetime import timedelta
-
-    from legalize.fetcher.cache import FileCache
-    from legalize.fetcher.es.client import BOEClient
-    from legalize.fetcher.es.sumario import parse_summary
-    from legalize.fetcher.es.metadata import parse_metadata
-
-    cache = FileCache(config.cache_dir)
-    state = StateStore(config.state_path)
-    state.load()
-    mappings = IdToFilename(config.mappings_path)
-    mappings.load()
-
-    if target_date:
-        dates_to_process = [target_date]
-    else:
-        start = state.last_summary_date
-        if start is None:
-            console.print("[yellow]No last summary found. Use --date or run bootstrap.[/yellow]")
-            return 0
-        start = start + timedelta(days=1)
-        end = date.today()
-        dates_to_process = []
-        current = start
-        while current <= end:
-            if current.weekday() != 6:
-                dates_to_process.append(current)
-            current += timedelta(days=1)
-
-    if not dates_to_process:
-        console.print("[green]Nothing to process — up to date[/green]")
-        return 0
-
-    console.print(f"[bold]Daily — processing {len(dates_to_process)} day(s)[/bold]")
-
-    repo = GitRepo(config.git.repo_path, config.git.committer_name, config.git.committer_email)
-    commits_created = 0
-    errors: list[str] = []
-
-    with BOEClient(config.boe, cache) as client:
-        for current_date in dates_to_process:
-            console.print(f"\n  [bold]{current_date}[/bold]")
-
-            try:
-                xml_data = client.get_sumario(current_date)
-                dispositions = parse_summary(xml_data, config.scope)
-            except Exception:
-                msg = f"Error fetching summary for {current_date}"
-                logger.error(msg, exc_info=True)
-                errors.append(msg)
-                continue
-
-            if not dispositions:
-                console.print("    No dispositions in scope")
-                continue
-
-            console.print(f"    {len(dispositions)} dispositions in scope")
-
-            for disp in dispositions:
-                if dry_run:
-                    console.print(f"    [dim]{disp.id_boe} — {disp.titulo[:60]}...[/dim]")
-                    continue
-
-                try:
-                    meta_xml = client.get_metadata(disp.id_boe)
-                    metadata = parse_metadata(meta_xml, disp.id_boe)
-                    text_xml = client.get_consolidated_text(metadata.identificador)
-                    blocks = parse_text_xml(text_xml)
-
-                    file_path = norm_to_filepath(metadata)
-                    markdown = render_norm_at_date(metadata, blocks, current_date)
-
-                    if repo.has_commit_with_source_id(disp.id_boe):
-                        continue
-
-                    changed = repo.write_and_add(file_path, markdown)
-                    if not changed:
-                        continue
-
-                    if disp.es_correccion:
-                        commit_type = CommitType.CORRECCION
-                    elif disp.es_nueva:
-                        commit_type = CommitType.NUEVA
-                    else:
-                        commit_type = CommitType.REFORMA
-
-                    reform = Reform(fecha=current_date, id_norma=disp.id_boe, bloques_afectados=())
-                    info = build_commit_info(
-                        commit_type, metadata, reform, blocks, file_path, markdown
-                    )
-                    sha = repo.commit(info)
-
-                    if sha:
-                        commits_created += 1
-                        console.print(f"    [green]✓[/green] {info.subject}")
-
-                    mappings.set(metadata.identificador, file_path)
-
-                except Exception:
-                    msg = f"Error processing {disp.id_boe}"
-                    logger.error(msg, exc_info=True)
-                    errors.append(msg)
-
-            state.last_summary_date = current_date
-
-    if not dry_run and config.git.push and commits_created > 0:
-        try:
-            repo.push(branch=config.git.branch)
-        except Exception:
-            logger.error("Error pushing", exc_info=True)
-            errors.append("Error pushing")
-
-    state.record_run(
-        summaries=[d.isoformat() for d in dates_to_process],
-        commits=commits_created,
-        errors=errors,
-    )
-    state.save()
-    mappings.save()
-
-    console.print(f"\n[bold green]✓ {commits_created} commits[/bold green]")
-    if errors:
-        console.print(f"[yellow]⚠ {len(errors)} errors[/yellow]")
-
-    return commits_created
-
-
-# ─────────────────────────────────────────────
-# REPROCESS — re-download and regenerate a law
-# ─────────────────────────────────────────────
-
-
-def reprocess(
-    config: Config,
-    boe_ids: list[str],
-    reason: str,
-    dry_run: bool = False,
-) -> int:
-    """Re-download and regenerate specific norms as [fix-pipeline]."""
-    console.print(f"[bold]Reprocess — {reason}[/bold]\n")
-    commits = 0
-    for boe_id in boe_ids:
-        fetch_one(config, boe_id, force=True)
-        # TODO: commit as fix-pipeline instead of bootstrap/reforma
-        commits += commit_one(config, boe_id, dry_run=dry_run)
-    return commits

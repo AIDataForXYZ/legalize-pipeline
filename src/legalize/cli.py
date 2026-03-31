@@ -116,7 +116,7 @@ def fetch(
         config.legi_dir = legi_dir
 
     if catalog and country == "es":
-        from legalize.pipeline import fetch_catalog
+        from legalize.fetcher.es.fetch import fetch_catalog
 
         fetch_catalog(config, force=force)
     elif fetch_all_flag:
@@ -244,7 +244,7 @@ def daily(
         legalize daily -c es --date 2026-03-28      # Spain, specific date
         legalize daily -c se                        # Sweden, today
     """
-    from legalize.pipeline import daily as run_daily
+    from legalize.fetcher.es.daily import daily as run_daily
 
     config = ctx.obj["config"]
     if push:
@@ -280,7 +280,7 @@ def reprocess(
     from legalize.pipeline import reprocess as run_reprocess
 
     config = ctx.obj["config"]
-    run_reprocess(config, list(norm_ids), reason, dry_run=dry_run)
+    run_reprocess(config, country, list(norm_ids), reason, dry_run=dry_run)
 
 
 # ─────────────────────────────────────────────
@@ -300,7 +300,7 @@ def fetch_ccaa(ctx: click.Context, jurisdiction: str | None, all_flag: bool, for
         legalize fetch-ccaa es-pv          # País Vasco only
         legalize fetch-ccaa --all          # All 17 CCAA
     """
-    from legalize.pipeline import fetch_catalog_ccaa
+    from legalize.fetcher.es.fetch import fetch_catalog_ccaa
 
     config = ctx.obj["config"]
 
@@ -339,7 +339,8 @@ def bootstrap_ccaa(
     import json
     from pathlib import Path
 
-    from legalize.pipeline import commit_one, fetch_catalog_ccaa
+    from legalize.fetcher.es.fetch import fetch_catalog_ccaa
+    from legalize.pipeline import commit_one
 
     config = ctx.obj["config"]
 
