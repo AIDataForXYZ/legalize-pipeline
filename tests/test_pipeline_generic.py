@@ -114,8 +114,8 @@ class TestCountryConfig:
 
     def test_get_country_unknown_raises(self):
         """Requesting unknown country raises ValueError."""
-        config = Config(country="es")
-        with pytest.raises(ValueError, match="Country 'xx' not configured"):
+        config = Config()
+        with pytest.raises(ValueError, match="not configured"):
             config.get_country("xx")
 
     def test_country_config_defaults_state_path(self):

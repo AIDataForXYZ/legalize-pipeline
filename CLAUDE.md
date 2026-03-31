@@ -190,3 +190,9 @@ Base: `https://www.boe.es/datosabiertos/`
 - Dates as `datetime.date` internally; parse at XML boundary, format at output
 - English for all code, comments, and variable names
 - CI via GitHub App (Legalize Pipeline); daily runs are local for now
+
+## Git Commits
+
+- The user is always the commit author (from their git config)
+- Add `Co-Authored-By: Claude <noreply@anthropic.com>` to commit messages
+- Never override the git author — Claude is a collaborator, not the author

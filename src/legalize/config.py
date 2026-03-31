@@ -65,7 +65,6 @@ class CountryConfig:
 class Config:
     """Global pipeline configuration."""
 
-    country: str = "es"  # ISO 3166-1 alpha-2
     boe: BOEConfig = field(default_factory=BOEConfig)
     scope: ScopeConfig = field(default_factory=ScopeConfig)
     git: GitConfig = field(default_factory=GitConfig)

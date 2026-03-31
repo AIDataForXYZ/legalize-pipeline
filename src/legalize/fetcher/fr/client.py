@@ -150,14 +150,6 @@ class LEGIClient(LegislativeClient):
         struct_path = text_dir / "texte" / "struct" / f"{norm_id}.xml"
         return struct_path.read_bytes()
 
-    def get_article(self, article_id: str) -> bytes:
-        """Reads the XML of an individual article (search by subpath)."""
-        subpath = _id_to_subpath(article_id)
-        # The article can be under article/ in any text directory
-        for article_path in self._base.rglob(f"article/{subpath}"):
-            return article_path.read_bytes()
-        raise FileNotFoundError(f"Article not found: {article_id}")
-
     def close(self) -> None:
         pass
 

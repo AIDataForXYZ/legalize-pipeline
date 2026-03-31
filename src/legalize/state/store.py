@@ -95,13 +95,6 @@ class StateStore:
     def last_summary_date(self, value: date) -> None:
         self._last_summary = value.isoformat()
 
-    def is_norma_processed(self, norm_id: str, target_date: date) -> bool:
-        """Check whether a specific version of a norm has been processed."""
-        state = self._norms.get(norm_id)
-        if state is None:
-            return False
-        return state.last_version_applied >= target_date.isoformat()
-
     def mark_norma_processed(self, norm_id: str, target_date: date, total_versions: int) -> None:
         """Mark a norm as processed up to a given date."""
         self._norms[norm_id] = NormState(
