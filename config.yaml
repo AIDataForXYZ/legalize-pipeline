@@ -3,15 +3,15 @@
 # Override with CLI args (--data-dir, --repo-path, etc.)
 
 git:
-  committer_name: "leyes-bot"
-  committer_email: "bot@legalize.dev"
+  committer_name: "Legalize"
+  committer_email: "legalize@legalize.dev"
   branch: "main"
   push: false
 
 countries:
   es:
-    repo_path: "../es"
-    data_dir: "../data"
+    repo_path: "../countries/es"
+    data_dir: "../countries/data-es"
     cache_dir: ".cache"
     max_workers: 1
     source:
@@ -22,8 +22,8 @@ countries:
       user_agent: "legalize-bot/1.0 (+https://github.com/legalize-dev/legalize)"
 
   fr:
-    repo_path: "../fr"
-    data_dir: "../data-fr"
+    repo_path: "../countries/fr"
+    data_dir: "../countries/data-fr"
     max_workers: 1
     source:
       # Download LEGI dump: ftp://echanges.dila.gouv.fr/LEGI/
@@ -31,7 +31,7 @@ countries:
       legi_dir: ""  # e.g.: "/data/legi" or "../legi-dump"
 
   se:
-    repo_path: "../se"
-    data_dir: "../data-se"
+    repo_path: "../countries/se"
+    data_dir: "../countries/data-se"
     max_workers: 1
     source: {}  # Riksdagen API, no config needed

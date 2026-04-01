@@ -9,7 +9,7 @@ on:
         type: string
         default: "es"
       repo_path:
-        description: "Output repo path (e.g., ../es)"
+        description: "Output repo path (e.g., ../countries/es)"
         required: false
         type: string
       dry_run:

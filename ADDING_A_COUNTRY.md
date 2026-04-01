@@ -247,8 +247,8 @@ Add your country's configuration:
 ```yaml
 countries:
   xx:
-    repo_path: "../xx"           # output git repo
-    data_dir: "../data-xx"       # raw data + parsed JSON
+    repo_path: "../countries/xx"           # output git repo
+    data_dir: "../countries/data-xx"       # raw data + parsed JSON
     cache_dir: ".cache"
     max_workers: 1
     source:                      # passed to client.create() as country_config.source
@@ -265,12 +265,12 @@ The `source` dict is passed through to your client's `create()` classmethod via 
 gh repo create legalize-dev/legalize-{code} --public \
   --description "Legislation from [Country] in Markdown, version-controlled with Git"
 
-git init ../xx/
-mkdir -p ../xx/{code}
-git -C ../xx commit --allow-empty --author="Legalize <legalize@legalize.es>" \
+git init ../countries/xx/
+mkdir -p ../countries/xx/{code}
+git -C ../countries/xx commit --allow-empty \
   -m "[bootstrap] Init legalize-{code}"
-git -C ../xx remote add origin git@github.com:legalize-dev/legalize-{code}.git
-git -C ../xx push -u origin main
+git -C ../countries/xx remote add origin git@github.com:legalize-dev/legalize-{code}.git
+git -C ../countries/xx push -u origin main
 ```
 
 Output structure is flat -- all laws in `{country_dir}/`, rango goes in YAML frontmatter:

@@ -49,10 +49,9 @@ src/legalize/
   committer/            # Generic: Markdown -> git commits
     git_ops.py            Git operations with historical dates
     message.py            Commit message formatting (6 types)
-    author.py             Legalize <legalize@legalize.es>
+    author.py             Author from git config (whoever runs the pipeline)
   state/                # Pipeline state tracking
     store.py              Last processed summary, run history
-    mappings.py           ID <-> filepath mapping
   countries.py          # Country registry (lazy import dispatch)
   config.py             # Config + CountryConfig from config.yaml
   models.py             # Domain models (generic, multi-country)

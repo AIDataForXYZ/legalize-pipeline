@@ -77,6 +77,8 @@ legalize reprocess -c es --reason "bug fix" BOE-A-1978-31229
 
 # Pipeline status
 legalize status
+legalize health -c es              # Repo health check (dates, empty files, remote, orphans)
+legalize health -c se --sample 1000
 ```
 
 ## Architecture
@@ -116,11 +118,10 @@ Country-specific fetchers live in subpackages. Each implements the 4 interfaces 
 ### Committer (`committer/`)
 - `git_ops.py` -- `GitRepo`: init, write_and_add, commit (historical dates), push, idempotency via `git log --grep`
 - `message.py` -- `build_commit_info()`, `format_commit_message()`. Six types: `[bootstrap]`, `[reforma]`, `[nueva]`, `[derogacion]`, `[correccion]`, `[fix-pipeline]`. Trailers: `Source-Id`, `Source-Date`, `Norm-Id`
-- `author.py` -- All commits by `Legalize <legalize@legalize.es>`
+- `author.py` -- Author from `git config user.name/email` (whoever runs the pipeline)
 
 ### State (`state/`)
-- `store.py` -- `StateStore`: state.json tracking processed norms and run history
-- `mappings.py` -- `IdToFilename`: norm ID <-> filepath mapping
+- `store.py` -- `StateStore`: state.json tracking last summary date and run history
 
 ### Multi-country (`countries.py`, `config.py`)
 - `countries.py` -- `REGISTRY` dict with lazy imports: maps country code to `(module, class)` tuples for client, discovery, text_parser, metadata_parser. Helper functions: `get_client_class()`, `get_discovery_class()`, `get_text_parser()`, `get_metadata_parser()`, `supported_countries()`
@@ -170,7 +171,7 @@ fuente: "https://www.boe.es/eli/es/c/1978/12/27/(1)"
 ```
 
 **Commit messages:** `[reforma] Constitucion Espanola -- art. 49`
-**Author:** `Legalize <legalize@legalize.es>` (always)
+**Author:** from `git config` (whoever runs the pipeline)
 **Trailers:** `Source-Id`, `Source-Date`, `Norm-Id`
 
 **Commit integrity rule:** Each law's git history must contain ONLY commits that correspond to real legislative modifications (bootstrap + reforms). No fix-up commits, no pipeline corrections, no "update content" patches. If a bug in the pipeline produced incorrect Markdown, the fix is to reprocess the affected law (rewrite its commits from data/), never an additional commit on top. The commit history IS the legislative record -- it must not contain artifacts from pipeline bugs. Integrity is per-file, not per-repository: each law's commits are independent from other laws, so a single law can be reprocessed (its commits removed and recreated via filter-branch) without affecting the rest of the repo.
