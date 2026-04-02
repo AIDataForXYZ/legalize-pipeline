@@ -118,7 +118,7 @@ def generic_fetch_all(
 
     # Discover all norm IDs
     with client_cls.create(cc) as client:
-        discovery = discovery_cls()
+        discovery = discovery_cls.create(cc.source)
         norm_ids = list(discovery.discover_all(client))
 
     if limit:

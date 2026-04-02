@@ -44,6 +44,11 @@ class LEGIDiscovery(NormDiscovery):
     whose NATURE is CODE or CONSTITUTION (initial phase).
     """
 
+    @classmethod
+    def create(cls, source: dict) -> LEGIDiscovery:
+        """Create from source config (requires legi_dir)."""
+        return cls(source["legi_dir"])
+
     def __init__(self, legi_dir: str | Path, natures: set[str] | None = None):
         self._base = Path(legi_dir)
         self._natures = natures or _NATURES_CODES

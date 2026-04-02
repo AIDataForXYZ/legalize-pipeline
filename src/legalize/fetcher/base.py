@@ -60,6 +60,15 @@ class NormDiscovery(ABC):
     - Germany: static XML with HTTP header change detection
     """
 
+    @classmethod
+    def create(cls, source: dict) -> NormDiscovery:
+        """Create a discovery instance from source config.
+
+        Override in subclass to read source-specific params.
+        Default: no-args constructor.
+        """
+        return cls()
+
     @abstractmethod
     def discover_all(self, client: LegislativeClient, **kwargs) -> Iterator[str]:
         """Discover all norm IDs in the catalog."""

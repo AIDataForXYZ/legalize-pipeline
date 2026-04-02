@@ -134,7 +134,8 @@ class TestGenericFetchErrorHandling:
         mock_discovery = MagicMock()
         mock_discovery.discover_all.return_value = iter(["NORM-001", "NORM-002", "NORM-003"])
 
-        mock_discovery_cls = MagicMock(return_value=mock_discovery)
+        mock_discovery_cls = MagicMock()
+        mock_discovery_cls.create.return_value = mock_discovery
 
         mock_client = MagicMock()
         mock_client.__enter__ = MagicMock(return_value=mock_client)
