@@ -7,7 +7,7 @@ from pathlib import Path
 
 from legalize.countries import get_metadata_parser, get_text_parser
 from legalize.fetcher.at.parser import RISMetadataParser, RISTextParser
-from legalize.models import EstadoNorma, NormaMetadata
+from legalize.models import NormStatus, NormMetadata
 from legalize.transformer.slug import norm_to_filepath
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -23,7 +23,7 @@ class TestRISTextParser:
         assert len(blocks) == 1
         block = blocks[0]
         assert block.id == "NOR12030057"
-        assert "§ 1" in block.titulo
+        assert "§ 1" in block.title
         assert len(block.versions) == 1
 
     def test_version_has_paragraphs(self):
@@ -36,7 +36,7 @@ class TestRISTextParser:
         xml = (FIXTURES / "ris-nor-NOR12030057.xml").read_bytes()
         blocks = self.parser.parse_text(xml)
         version = blocks[0].versions[0]
-        assert version.fecha_publicacion == date(1975, 1, 17)
+        assert version.publication_date == date(1975, 1, 17)
 
     def test_extract_reforms_returns_list(self):
         xml = (FIXTURES / "ris-nor-NOR12030057.xml").read_bytes()
@@ -51,24 +51,24 @@ class TestRISMetadataParser:
     def test_parse_metadata(self):
         json_data = (FIXTURES / "ris-metadata-10002333.json").read_bytes()
         meta = self.parser.parse(json_data, "10002333")
-        assert isinstance(meta, NormaMetadata)
-        assert meta.pais == "at"
-        assert meta.identificador == "AT-10002333"
+        assert isinstance(meta, NormMetadata)
+        assert meta.country == "at"
+        assert meta.identifier == "AT-10002333"
 
     def test_rank(self):
         json_data = (FIXTURES / "ris-metadata-10002333.json").read_bytes()
         meta = self.parser.parse(json_data, "10002333")
-        assert str(meta.rango) == "verordnung"
+        assert str(meta.rank) == "verordnung"
 
     def test_short_title(self):
         json_data = (FIXTURES / "ris-metadata-10002333.json").read_bytes()
         meta = self.parser.parse(json_data, "10002333")
-        assert "Produktdeklaration" in meta.titulo_corto
+        assert "Produktdeklaration" in meta.short_title
 
     def test_repealed_status(self):
         json_data = (FIXTURES / "ris-metadata-10002333.json").read_bytes()
         meta = self.parser.parse(json_data, "10002333")
-        assert meta.estado == EstadoNorma.DEROGADA
+        assert meta.status == NormStatus.REPEALED
 
 
 class TestCountriesDispatch:
@@ -83,15 +83,15 @@ class TestCountriesDispatch:
 
 class TestSlugAustria:
     def test_norm_path(self):
-        meta = NormaMetadata(
-            titulo="Test",
-            titulo_corto="Test",
-            identificador="AT-10002333",
-            pais="at",
-            rango="verordnung",
-            fecha_publicacion=date(1975, 1, 17),
-            estado=EstadoNorma.VIGENTE,
-            departamento="BKA",
-            fuente="https://ris.bka.gv.at",
+        meta = NormMetadata(
+            title="Test",
+            short_title="Test",
+            identifier="AT-10002333",
+            country="at",
+            rank="verordnung",
+            publication_date=date(1975, 1, 17),
+            status=NormStatus.IN_FORCE,
+            department="BKA",
+            source="https://ris.bka.gv.at",
         )
         assert norm_to_filepath(meta) == "at/AT-10002333.md"

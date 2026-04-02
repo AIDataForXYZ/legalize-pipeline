@@ -15,17 +15,17 @@ from xml.etree import ElementTree as ET
 
 from legalize.fetcher.base import MetadataParser, TextParser
 from legalize.models import (
-    Bloque,
-    EstadoNorma,
-    NormaMetadata,
+    Block,
+    NormStatus,
+    NormMetadata,
     Paragraph,
-    Rango,
+    Rank,
     Version,
 )
 
 NS = {"r": "http://www.bka.gv.at"}
 
-# Map RIS Typ codes to Rango values
+# Map RIS Typ codes to Rank values
 RIS_TYP_TO_RANGO: dict[str, str] = {
     "BVG": "bundesverfassungsgesetz",
     "G": "bundesgesetz",
@@ -156,10 +156,10 @@ def _elem_to_paragraphs(nutzdaten: ET.Element) -> list[Paragraph]:
 
 
 class RISTextParser(TextParser):
-    """Parses RIS XML documents (one or more NOR paragraphs) into Bloque objects."""
+    """Parses RIS XML documents (one or more NOR paragraphs) into Block objects."""
 
     def parse_text(self, data: bytes) -> list[Any]:
-        """Parse NOR XML(s) into Bloque objects.
+        """Parse NOR XML(s) into Block objects.
 
         Handles both single NOR documents and combined documents
         (wrapped in <combined_nor_documents> by the client).
@@ -174,7 +174,7 @@ class RISTextParser(TextParser):
         return self._parse_single(data)
 
     def _parse_single(self, data: bytes) -> list[Any]:
-        """Parse a single NOR XML into one Bloque."""
+        """Parse a single NOR XML into one Block."""
         root = ET.fromstring(data)
         nutzdaten = root.find(".//r:nutzdaten", NS)
         if nutzdaten is None:
@@ -188,16 +188,16 @@ class RISTextParser(TextParser):
         paragraphs = _elem_to_paragraphs(nutzdaten)
 
         version = Version(
-            id_norma=nor_id,
-            fecha_publicacion=pub_date,
-            fecha_vigencia=pub_date,
+            norm_id=nor_id,
+            publication_date=pub_date,
+            effective_date=pub_date,
             paragraphs=tuple(paragraphs),
         )
 
-        return [Bloque(id=nor_id, tipo="paragraph", titulo=para_label, versions=(version,))]
+        return [Block(id=nor_id, block_type="paragraph", title=para_label, versions=(version,))]
 
     def _parse_combined(self, data: bytes) -> list[Any]:
-        """Parse combined NOR documents into multiple Bloques."""
+        """Parse combined NOR documents into multiple Blocks."""
         import re
 
         text = data.decode("utf-8", errors="replace")
@@ -242,10 +242,10 @@ class RISTextParser(TextParser):
 
 
 class RISMetadataParser(MetadataParser):
-    """Parses RIS API JSON metadata into NormaMetadata."""
+    """Parses RIS API JSON metadata into NormMetadata."""
 
-    def parse(self, data: bytes, norm_id: str) -> NormaMetadata:
-        """Parse the JSON API response for a Gesetzesnummer into NormaMetadata.
+    def parse(self, data: bytes, norm_id: str) -> NormMetadata:
+        """Parse the JSON API response for a Gesetzesnummer into NormMetadata.
 
         norm_id is the Gesetzesnummer (e.g. '10002333').
         """
@@ -280,7 +280,7 @@ class RISMetadataParser(MetadataParser):
 
         ikra = _parse_date(brkons.get("Inkrafttretensdatum", ""))
         akra = _parse_date(brkons.get("Ausserkrafttretensdatum", ""))
-        estado = EstadoNorma.DEROGADA if akra else EstadoNorma.VIGENTE
+        estado = NormStatus.REPEALED if akra else NormStatus.IN_FORCE
 
         geaendert = _parse_date(allgemein.get("Geaendert", ""))
         eli_url = br.get("Eli", "") or brkons.get("GesamteRechtsvorschriftUrl", "")
@@ -289,21 +289,21 @@ class RISMetadataParser(MetadataParser):
         indizes = brkons.get("Indizes", {})
         if isinstance(indizes, dict):
             items = indizes.get("item", [])
-            materias: tuple[str, ...] = (items,) if isinstance(items, str) else tuple(items)
+            subjects: tuple[str, ...] = (items,) if isinstance(items, str) else tuple(items)
         else:
-            materias = ()
+            subjects = ()
 
-        return NormaMetadata(
-            titulo=titel,
-            titulo_corto=kurztitel,
-            identificador=f"AT-{norm_id}",
-            pais="at",
-            rango=Rango(rango_str),
-            fecha_publicacion=ikra or date(1900, 1, 1),
-            estado=estado,
-            departamento="BKA (Bundeskanzleramt)",
-            fuente=eli_url,
-            fecha_ultima_modificacion=geaendert,
-            materias=materias,
-            notas=bgbl,
+        return NormMetadata(
+            title=titel,
+            short_title=kurztitel,
+            identifier=f"AT-{norm_id}",
+            country="at",
+            rank=Rank(rango_str),
+            publication_date=ikra or date(1900, 1, 1),
+            status=estado,
+            department="BKA (Bundeskanzleramt)",
+            source=eli_url,
+            last_modified=geaendert,
+            subjects=subjects,
+            notes=bgbl,
         )
