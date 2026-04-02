@@ -42,6 +42,18 @@ countries:
     max_workers: 1
     source: {}  # RIS OGD API, no config needed
 
+  lt:
+    repo_path: "../countries/lt"
+    data_dir: "../countries/data-lt"
+    max_workers: 1
+    source:
+      api_url: "https://get.data.gov.lt"
+      dataset: "datasets/gov/lrsk/teises_aktai/Dokumentas"
+      text_base_url: "https://www.e-tar.lt"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
+
   pt:
     repo_path: "../countries/pt"
     data_dir: "../countries/data-pt"

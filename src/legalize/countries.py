@@ -48,6 +48,12 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.at.parser", "RISTextParser"),
         "metadata_parser": ("legalize.fetcher.at.parser", "RISMetadataParser"),
     },
+    "lt": {
+        "client": ("legalize.fetcher.lt.client", "TARClient"),
+        "discovery": ("legalize.fetcher.lt.discovery", "TARDiscovery"),
+        "text_parser": ("legalize.fetcher.lt.parser", "TARTextParser"),
+        "metadata_parser": ("legalize.fetcher.lt.parser", "TARMetadataParser"),
+    },
     "pt": {
         "client": ("legalize.fetcher.pt.client", "DREClient"),
         "discovery": ("legalize.fetcher.pt.discovery", "DREDiscovery"),

@@ -1,0 +1,23 @@
+{
+  "_data": [
+    {
+      "_type": "datasets/gov/lrsk/teises_aktai/Dokumentas",
+      "_id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+      "pavadinimas": "Dėl tam tikrų priemonių panaikinimo",
+      "trumpas_pavadinimas": "",
+      "numeris": "XIII-3200",
+      "rusis": "Įstatymas",
+      "priemimo_data": "2020-06-15",
+      "isigaliojimo_data": "2020-07-01",
+      "galiojimo_pabaigos_data": "2023-01-01",
+      "statusas": "Negaliojantis",
+      "institucija": "Seimas",
+      "tar_identifikatorius": "TAR-2020-99999",
+      "eli_identifikatorius": "",
+      "rusis_kodas": "IST"
+    }
+  ],
+  "_page": {
+    "next": null
+  }
+}

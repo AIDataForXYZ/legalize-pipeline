@@ -1,0 +1,23 @@
+{
+  "_data": [
+    {
+      "_type": "datasets/gov/lrsk/teises_aktai/Dokumentas",
+      "_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "pavadinimas": "Lietuvos Respublikos civilinis kodeksas",
+      "trumpas_pavadinimas": "Civilinis kodeksas",
+      "numeris": "VIII-1864",
+      "rusis": "Įstatymas",
+      "priemimo_data": "2000-07-18",
+      "isigaliojimo_data": "2001-07-01",
+      "galiojimo_pabaigos_data": null,
+      "statusas": "Galiojantis",
+      "institucija": "Seimas",
+      "tar_identifikatorius": "TAR-2000-12345",
+      "eli_identifikatorius": "https://www.e-tar.lt/eli/lt/2000/07/18/VIII-1864",
+      "rusis_kodas": "IST"
+    }
+  ],
+  "_page": {
+    "next": null
+  }
+}

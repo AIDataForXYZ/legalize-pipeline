@@ -1,0 +1,23 @@
+{
+  "_data": [
+    {
+      "_type": "datasets/gov/lrsk/teises_aktai/Dokumentas",
+      "_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "pavadinimas": "Lietuvos Respublikos Konstitucija",
+      "trumpas_pavadinimas": "",
+      "numeris": "",
+      "rusis": "Konstitucija",
+      "priemimo_data": "1992-10-25",
+      "isigaliojimo_data": "1992-11-02",
+      "galiojimo_pabaigos_data": null,
+      "statusas": "Galiojantis",
+      "institucija": "Tauta",
+      "tar_identifikatorius": "TAR-1992-00001",
+      "eli_identifikatorius": "",
+      "rusis_kodas": "KON"
+    }
+  ],
+  "_page": {
+    "next": null
+  }
+}
