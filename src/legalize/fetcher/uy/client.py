@@ -80,7 +80,12 @@ class IMPOClient(LegislativeClient):
         self._session.close()
 
     def _fetch_json(self, norm_id: str) -> bytes:
-        """Fetch JSON from IMPO with rate limiting and retries."""
+        """Fetch JSON from IMPO with rate limiting and retries.
+
+        IMPO returns HTTP 200 with an HTML login page (not 404) for
+        non-existent norms. We detect this by checking that the response
+        body starts with '{' (valid JSON object).
+        """
         url = f"{self._base_url}/bases/{norm_id}?json=true"
 
         for attempt in range(self._max_retries):
@@ -91,6 +96,14 @@ class IMPOClient(LegislativeClient):
                 if resp.status_code == 404:
                     return b""
                 resp.raise_for_status()
+
+                # IMPO returns 200 + HTML page for missing norms instead of 404.
+                # Valid responses are JSON objects starting with '{'.
+                content = resp.content.lstrip()
+                if not content or not content.startswith(b"{"):
+                    logger.debug("Non-JSON response for %s, treating as not found", norm_id)
+                    return b""
+
                 return resp.content
 
             except requests.RequestException:

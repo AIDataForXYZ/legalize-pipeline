@@ -96,7 +96,7 @@ def _make_identifier(doc: dict, collection: str) -> str:
         year = anio or _extract_year_from_collection(collection)
         return f"UY-constitucion-{year}"
 
-    if "decretos-ley" in collection or "decreto" in tipo and "ley" in tipo:
+    if "decretos-ley" in collection or ("decreto" in tipo and "ley" in tipo):
         return f"UY-decreto-ley-{nro}" if nro else "UY-decreto-ley-unknown"
 
     if "leyes" in collection or "ley" in tipo:
@@ -115,6 +115,23 @@ def _extract_year_from_collection(collection: str) -> str:
     """Extract year from collection path like 'constitucion/1967-1967'."""
     match = re.search(r"(\d{4})", collection)
     return match.group(1) if match else "unknown"
+
+
+def _heading_css_class(title: str) -> str:
+    """Map a section/chapter title to a CSS class the markdown renderer knows.
+
+    Uses the existing CSS→Markdown mapping from transformer/markdown.py:
+    - titulo → ## (TITULO, LIBRO)
+    - capitulo_tit → ### (CAPITULO)
+    - seccion → #### (SECCION, SUBSECCION)
+    """
+    upper = title.upper()
+    if upper.startswith(("TITULO", "LIBRO", "PARTE")):
+        return "titulo"
+    if upper.startswith("CAPITULO"):
+        return "capitulo_tit"
+    # SECCION, SUBSECCION, and anything else
+    return "seccion"
 
 
 class IMPOTextParser(TextParser):
@@ -144,17 +161,18 @@ class IMPOTextParser(TextParser):
             nro = (art.get("nroArticulo") or "").strip()
             texto = (art.get("textoArticulo") or "").strip()
             titulos_raw = art.get("titulosArticulo", "")
-            notas = art.get("notasArticulo", "")
 
-            # Emit section/chapter heading blocks
+            # Emit section/chapter heading blocks using css_classes
+            # that the markdown renderer already recognizes
             section_titles = _extract_section_titles(titulos_raw)
             for title in section_titles:
+                css = _heading_css_class(title)
                 heading_id = f"heading-{nro}"
                 heading_version = Version(
                     norm_id=norm_identifier,
                     publication_date=pub_date,
                     effective_date=pub_date,
-                    paragraphs=(Paragraph(css_class="heading", text=title),),
+                    paragraphs=(Paragraph(css_class=css, text=title),),
                 )
                 blocks.append(
                     Block(
@@ -167,19 +185,13 @@ class IMPOTextParser(TextParser):
 
             # Skip articles with only "(*)" (cross-reference placeholder)
             if texto == "(*)":
-                # Still emit a placeholder block with the note as content
-                note_text = _strip_html(notas) if notas else "(Remission)"
-                paragraphs = (Paragraph(css_class="nota", text=note_text),)
+                paragraphs = (Paragraph(css_class="articulo", text="(*)"),)
             else:
-                # Build paragraphs from the article text
+                # Build paragraphs from the article text only
+                # Notes (notasArticulo) are IMPO editorial content
+                # (cross-references, amendment history), not legal text
                 cleaned = _strip_html(texto)
                 paragraphs = (Paragraph(css_class="articulo", text=cleaned),) if cleaned else ()
-
-                # Add notes as a separate paragraph if present
-                if notas:
-                    note_cleaned = _strip_html(notas)
-                    if note_cleaned:
-                        paragraphs = paragraphs + (Paragraph(css_class="nota", text=note_cleaned),)
 
             if not paragraphs:
                 continue

@@ -49,10 +49,10 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "metadata_parser": ("legalize.fetcher.at.parser", "RISMetadataParser"),
     },
     "de": {
-        "client": ("legalize.fetcher.de.client", "NeuRISClient"),
-        "discovery": ("legalize.fetcher.de.discovery", "NeuRISDiscovery"),
-        "text_parser": ("legalize.fetcher.de.parser", "NeuRISTextParser"),
-        "metadata_parser": ("legalize.fetcher.de.parser", "NeuRISMetadataParser"),
+        "client": ("legalize.fetcher.de.client", "GIIClient"),
+        "discovery": ("legalize.fetcher.de.discovery", "GIIDiscovery"),
+        "text_parser": ("legalize.fetcher.de.parser", "GIITextParser"),
+        "metadata_parser": ("legalize.fetcher.de.parser", "GIIMetadataParser"),
     },
     "cl": {
         "client": ("legalize.fetcher.cl.client", "BCNClient"),

@@ -26,6 +26,7 @@ Structure:
 
 from __future__ import annotations
 
+import re
 from datetime import date, datetime
 from typing import Any
 from xml.etree import ElementTree as ET
@@ -67,21 +68,39 @@ def _parse_date(s: str) -> date | None:
 
 
 def _clean_text(text: str) -> str:
-    """Clean BCN article text: collapse whitespace, strip margin annotations."""
-    # BCN XML includes right-margin annotations like "CPR Art. 1° D.O.\n24.10.1980"
-    # These are layout artifacts from the Diario Oficial column format.
-    # Strip lines that look like margin refs (short lines with D.O. or dates).
+    """Clean BCN article text: strip margin annotations and normalize whitespace.
+
+    BCN formats some consolidated texts (esp. the Constitution) with reform
+    references in a right column, separated by 6+ spaces from the legal text.
+    Example:  "La familia es el núcleo                  CPR Art. 1° D.O."
+    These are layout artifacts from the Diario Oficial and must be removed.
+    """
+    # Patterns that identify margin annotations (reform references)
+    _ANNOTATION_RE = re.compile(
+        r"(?:CPR|LEY|D\.O\.|Art\.|Nº|N°|\d{2}\.\d{2}\.\d{4}"
+        r"|único|D\.S\.|D\.F\.L\.|D\.L\.)"
+    )
+    # Pure annotation continuation lines (e.g., "Nº1 D.O. 16.06.1999")
+    _CONTINUATION_RE = re.compile(r"^(?:Nº\d|único|N°\d|\d{2}\.\d{2}\.\d{4}|D\.O\.\s)")
+
     lines = text.split("\n")
     cleaned = []
     for line in lines:
-        stripped = line.strip()
-        # Skip empty lines and margin annotations
-        if not stripped:
-            cleaned.append("")
-            continue
-        # Keep the line — margin annotations are mixed in and hard to separate
-        # without losing content, so we just normalize whitespace.
-        cleaned.append(stripped)
+        line = line.rstrip()
+        # Check for content + 6+ spaces + annotation on the same line
+        match = re.match(r"^(.+?)\s{6,}(.+)$", line)
+        if match:
+            main_part = match.group(1).rstrip()
+            margin_part = match.group(2).strip()
+            if _ANNOTATION_RE.search(margin_part):
+                cleaned.append(main_part)
+                continue
+        else:
+            # Check if the entire line is a continuation of a margin annotation
+            stripped = line.strip()
+            if stripped and _CONTINUATION_RE.match(stripped):
+                continue
+        cleaned.append(line.strip())
     return "\n".join(cleaned)
 
 
@@ -208,6 +227,7 @@ class CLTextParser(TextParser):
 # Map BCN Tipo values to rank strings
 RANK_MAP: dict[str, str] = {
     "Ley": "ley",
+    "Código": "codigo",
     "Decreto con Fuerza de Ley": "dfl",
     "Decreto Ley": "dl",
     "Decreto": "decreto",
@@ -215,6 +235,7 @@ RANK_MAP: dict[str, str] = {
     "Tratado Internacional": "tratado",
     "Ley Orgánica Constitucional": "ley_organica_constitucional",
     "Ley de Quórum Calificado": "ley_quorum_calificado",
+    "Ley Interpretativa": "ley_interpretativa",
     "Resolución": "resolucion",
     "Reglamento": "reglamento",
     "Mensaje": "mensaje",
