@@ -171,27 +171,17 @@ def load_norma_from_json(json_path: Path) -> ParsedNorm:
 
     meta = data["metadata"]
     metadata = NormMetadata(
-        title=meta.get("title", meta.get("titulo", "")),
-        short_title=meta.get("short_title", meta.get("titulo_corto", "")),
-        identifier=meta.get("identifier", meta.get("identificador", "")),
-        country=meta.get("country", meta.get("pais", "")),
-        rank=Rank(meta.get("rank", meta.get("rango", "otro"))),
-        publication_date=date.fromisoformat(
-            meta.get("publication_date", meta.get("fecha_publicacion", "1970-01-01"))
-        ),
-        status=NormStatus(meta.get("status", meta.get("estado", "vigente"))),
-        department=meta.get("department", meta.get("departamento", "")),
-        source=meta.get("source", meta.get("fuente", "")),
-        jurisdiction=meta.get("jurisdiction", meta.get("jurisdiccion")),
-        last_modified=date.fromisoformat(
-            meta.get(
-                "last_updated",
-                meta.get(
-                    "ultima_actualizacion",
-                    meta.get("publication_date", meta.get("fecha_publicacion", "1970-01-01")),
-                ),
-            )
-        ),
+        title=meta["title"],
+        short_title=meta["short_title"],
+        identifier=meta["identifier"],
+        country=meta["country"],
+        rank=Rank(meta["rank"]),
+        publication_date=date.fromisoformat(meta["publication_date"]),
+        status=NormStatus(meta["status"]),
+        department=meta["department"],
+        source=meta["source"],
+        jurisdiction=meta.get("jurisdiction"),
+        last_modified=date.fromisoformat(meta["last_updated"]),
     )
 
     blocks = []

@@ -232,16 +232,16 @@ class TestStorageRoundTrip:
         # Simulate old JSON format (no css_classes key in versions)
         data = {
             "metadata": {
-                "titulo": "Ley Antigua",
-                "titulo_corto": "Ley Antigua",
-                "identificador": "OLD-001",
-                "pais": "es",
-                "rango": "ley",
-                "fecha_publicacion": "2020-01-01",
-                "ultima_actualizacion": "2020-01-01",
-                "estado": "vigente",
-                "departamento": "Test",
-                "fuente": "https://example.com",
+                "title": "Ley Antigua",
+                "short_title": "Ley Antigua",
+                "identifier": "OLD-001",
+                "country": "es",
+                "rank": "ley",
+                "publication_date": "2020-01-01",
+                "last_updated": "2020-01-01",
+                "status": "vigente",
+                "department": "Test",
+                "source": "https://example.com",
             },
             "articles": [
                 {

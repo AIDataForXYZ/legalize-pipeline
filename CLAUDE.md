@@ -36,7 +36,7 @@ Processing Spanish (BOE), French (LEGI), and Swedish (SFSR) legislation. Archite
 
 ## Language & Stack
 
-- **English only** — all code, comments, variable names, function names, and documentation must be in English. The only exceptions are dataclass field names in `models.py` that are part of the output data contract (e.g., `titulo`, `identificador`, `fecha_publicacion`) and string literals for XML element names or commit message content.
+- **English only** — all code, comments, variable names, function names, and documentation must be in English. The only exceptions are string literals for XML element names (BOE/LEGI tags) and commit message content.
 - **Python 3.12+** with `pyproject.toml` (hatchling build), src layout
 - Dependencies: `lxml`, `requests`, `pyyaml`, `click`, `rich`
 - Dev: `pytest`, `ruff`, `responses` (HTTP mocking)
@@ -109,11 +109,11 @@ Country-specific fetchers live in subpackages. Each implements the 4 interfaces 
   - `parser.py` -- `SwedishTextParser`, `SwedishMetadataParser`: Swedish XML parsing
 
 ### Transformer (`transformer/`)
-- `xml_parser.py` -- `parse_texto_xml(bytes) -> list[Bloque]`, `extract_reforms()`, `get_bloque_at_date()`
-- `markdown.py` -- `render_norma_at_date(metadata, bloques, date) -> str`. CSS->MD mapping is data-driven
-- `frontmatter.py` -- `render_frontmatter(NormaMetadata, date) -> str`
+- `xml_parser.py` -- `parse_text_xml(bytes) -> list[Block]`, `extract_reforms()`, `get_block_at_date()`
+- `markdown.py` -- `render_norm_at_date(metadata, blocks, date) -> str`. CSS->MD mapping is data-driven
+- `frontmatter.py` -- `render_frontmatter(NormMetadata, date) -> str`
 - `metadata.py` -- metadata parsing helpers
-- `slug.py` -- `norma_to_filepath(metadata) -> str` (e.g., `spain/BOE-A-1978-31229.md`)
+- `slug.py` -- `norm_to_filepath(metadata) -> str` (e.g., `es/BOE-A-1978-31229.md`)
 
 ### Committer (`committer/`)
 - `git_ops.py` -- `GitRepo`: init, write_and_add, commit (historical dates), push, idempotency via `git log --grep`
@@ -129,18 +129,18 @@ Country-specific fetchers live in subpackages. Each implements the 4 interfaces 
 
 ### Orchestration
 - `pipeline.py` -- Generic flows: `generic_fetch_all()`, `generic_fetch_one()`, `generic_bootstrap()`, `commit_all()`, `commit_one()`, `daily()`, `reprocess()`. All country-agnostic; dispatch via `countries.py`
-- `cli.py` -- Click CLI with unified `--country` / `-c` flag: `fetch`, `commit`, `bootstrap`, `daily`, `reprocess`, `status`. Deprecated aliases (`fetch-fr`, `bootstrap-se`, etc.) are hidden but still work
+- `cli.py` -- Click CLI with unified `--country` / `-c` flag: `fetch`, `commit`, `bootstrap`, `daily`, `reprocess`, `status`
 - `config.py` -- `Config` from `config.yaml` with CLI overrides
 
 ## Data Model (`models.py`)
 
 Multi-country ready. Key types:
-- `Rango` -- free-form string for normative rank (each country defines its own values)
-- `NormaMetadata` -- generic fields (`identificador`, `pais`, `fuente`)
-- `Bloque` -- structural unit (article, chapter) with versioned content
-- `Version` -- temporal version with `fecha_publicacion` and paragraphs
+- `Rank` -- free-form string for normative rank (each country defines its own values)
+- `NormMetadata` -- generic fields (`identifier`, `country`, `source`)
+- `Block` -- structural unit (article, chapter) with versioned content
+- `Version` -- temporal version with `publication_date` and paragraphs
 - `CommitInfo` -- generic trailers (`Source-Id`, `Source-Date`, `Norm-Id`)
-- Filenames = official ID: `spain/BOE-A-1978-31229.md`
+- Filenames = official ID: `es/BOE-A-1978-31229.md`
 
 ## Output Format (FINAL -- do not change without regenerating all commits)
 
@@ -152,21 +152,21 @@ legalize-es/
 legalize-at/
   at/AT-10002333.md            ← all laws flat in at/
 ```
-Never create subdirectories by rango, category, or any other grouping. The rango goes in the YAML frontmatter, not in the directory structure.
+Never create subdirectories by rank, category, or any other grouping. The rank goes in the YAML frontmatter, not in the directory structure.
 
-**Filename:** `{pais}/{identificador}.md` (e.g., `es/BOE-A-1978-31229.md`, `at/AT-10002333.md`)
+**Filename:** `{country}/{identifier}.md` (e.g., `es/BOE-A-1978-31229.md`, `at/AT-10002333.md`)
 
 **Frontmatter:**
 ```yaml
 ---
-titulo: "Constitucion Espanola"
-identificador: "BOE-A-1978-31229"
-pais: "es"
-rango: "constitucion"
-fecha_publicacion: "1978-12-29"
-ultima_actualizacion: "2024-02-17"
-estado: "vigente"
-fuente: "https://www.boe.es/eli/es/c/1978/12/27/(1)"
+title: "Constitucion Espanola"
+identifier: "BOE-A-1978-31229"
+country: "es"
+rank: "constitucion"
+publication_date: "1978-12-29"
+last_updated: "2024-02-17"
+status: "vigente"
+source: "https://www.boe.es/eli/es/c/1978/12/27/(1)"
 ---
 ```
 
@@ -198,7 +198,7 @@ Base: `https://www.boe.es/datosabiertos/`
 
 - Dates as `datetime.date` internally; parse at XML boundary, format at output
 - English for all code, comments, and variable names
-- CI via GitHub App (Legalize Pipeline); daily runs are local for now
+- CI via GitHub App (Legalize Pipeline); daily runs via cron workflow
 
 ## Git Commits
 
