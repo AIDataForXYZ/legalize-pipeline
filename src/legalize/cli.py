@@ -222,7 +222,7 @@ def _commit_in_batches(
             console.print(f"\n  [dim]Pushing batch {batch_num} ({commits} commits)...[/dim]")
             try:
                 subprocess.run(
-                    ["git", "push", "origin", config.git.branch],
+                    ["git", "push", "origin", "HEAD"],
                     cwd=cc.repo_path,
                     check=True,
                     capture_output=True,
@@ -308,6 +308,8 @@ def bootstrap(
 @cli.command()
 @_country_option()
 @click.option("--date", "target_date", default=None, help="Date to process (YYYY-MM-DD).")
+@click.option("--repo-path", default=None, help="Override output repo directory.")
+@click.option("--data-dir", default=None, help="Override data directory.")
 @click.option("--push", is_flag=True, help="Push to remote after commits.")
 @click.option("--dry-run", is_flag=True, help="Simulate without creating commits.")
 @click.pass_context
@@ -315,6 +317,8 @@ def daily(
     ctx: click.Context,
     country: str,
     target_date: str | None,
+    repo_path: str | None,
+    data_dir: str | None,
     push: bool,
     dry_run: bool,
 ) -> None:
@@ -328,6 +332,12 @@ def daily(
     from legalize.fetcher.es.daily import daily as run_daily
 
     config = ctx.obj["config"]
+    if repo_path:
+        cc = config.get_country(country)
+        cc.repo_path = repo_path
+    if data_dir:
+        cc = config.get_country(country)
+        cc.data_dir = data_dir
     if push:
         config.git.push = True
 

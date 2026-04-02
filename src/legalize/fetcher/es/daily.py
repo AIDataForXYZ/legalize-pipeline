@@ -26,6 +26,45 @@ console = Console()
 logger = logging.getLogger(__name__)
 
 
+def _infer_last_date_from_git(repo_path: str) -> date | None:
+    """Infer the last processed date from the most recent Source-Date trailer in git log.
+
+    Scans the last 20 commits for a Source-Date trailer (pipeline commits have these).
+    Falls back to the author date of the most recent commit.
+    """
+    try:
+        result = subprocess.run(
+            ["git", "log", "-20", "--format=%B%x00"],
+            cwd=repo_path,
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode == 0:
+            for body in result.stdout.split("\0"):
+                for line in body.splitlines():
+                    if line.startswith("Source-Date: "):
+                        inferred = date.fromisoformat(line[len("Source-Date: ") :].strip())
+                        logger.info("Inferred last date from git: %s", inferred)
+                        return inferred
+    except (OSError, ValueError):
+        pass
+    # Fallback: author date of most recent commit
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%aI"],
+            cwd=repo_path,
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            inferred = date.fromisoformat(result.stdout.strip()[:10])
+            logger.info("Inferred last date from author date: %s", inferred)
+            return inferred
+    except (OSError, ValueError):
+        pass
+    return None
+
+
 def daily(
     config: Config,
     target_date: date | None = None,
@@ -60,6 +99,9 @@ def daily(
         dates_to_process = [target_date]
     else:
         start = state.last_summary_date
+        if start is None:
+            # Infer from the most recent commit's Source-Date trailer
+            start = _infer_last_date_from_git(cc.repo_path)
         if start is None:
             console.print("[yellow]No last summary found. Use --date or run bootstrap.[/yellow]")
             return 0
@@ -148,7 +190,7 @@ def daily(
 
     if not dry_run and config.git.push and commits_created > 0:
         try:
-            repo.push(branch=config.git.branch)
+            repo.push()
         except subprocess.CalledProcessError:
             logger.error("Error pushing", exc_info=True)
             errors.append("Error pushing")

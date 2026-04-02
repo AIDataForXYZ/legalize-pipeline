@@ -173,8 +173,8 @@ class GitRepo:
 
         return (source_id, norm_id) in self._existing_commits
 
-    def push(self, remote: str = "origin", branch: str = "main") -> None:
-        """Push to the remote."""
+    def push(self, remote: str = "origin", branch: str = "HEAD") -> None:
+        """Push to the remote (defaults to current branch)."""
         self._run(["push", remote, branch])
         logger.info("Push completed: %s/%s", remote, branch)
 

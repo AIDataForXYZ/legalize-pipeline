@@ -42,17 +42,25 @@ jobs:
       - name: Install dependencies
         run: pip install -e .
 
+      - name: Compute target date
+        id: date
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            echo "target=${{ inputs.date }}" >> "$GITHUB_OUTPUT"
+          else
+            # Previous weekday (skip Sunday): Sat→Fri, Sun→Fri, Mon→Sat, else→yesterday
+            DOW=$(date -u +%u)  # 1=Mon, 7=Sun
+            if [ "$DOW" = "1" ]; then
+              TARGET=$(date -u -d "2 days ago" +%Y-%m-%d 2>/dev/null || date -u -v-2d +%Y-%m-%d)
+            elif [ "$DOW" = "7" ]; then
+              TARGET=$(date -u -d "2 days ago" +%Y-%m-%d 2>/dev/null || date -u -v-2d +%Y-%m-%d)
+            else
+              TARGET=$(date -u -d "yesterday" +%Y-%m-%d 2>/dev/null || date -u -v-1d +%Y-%m-%d)
+            fi
+            echo "target=$TARGET" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run daily pipeline
         run: |
           COUNTRY="${{ inputs.country || 'es' }}"
-          ARGS="-c $COUNTRY --repo-path repos/$COUNTRY"
-          if [ -n "${{ inputs.date }}" ]; then
-            ARGS="$ARGS --date ${{ inputs.date }}"
-          fi
-          legalize daily $ARGS
-
-      - name: Push to output repo
-        run: |
-          COUNTRY="${{ inputs.country || 'es' }}"
-          cd repos/$COUNTRY
-          git diff --quiet && echo "No changes to push" || git push origin main
+          legalize daily -c "$COUNTRY" --repo-path "repos/$COUNTRY" --date "${{ steps.date.outputs.target }}" --push
