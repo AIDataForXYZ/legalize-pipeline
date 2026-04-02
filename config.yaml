@@ -41,3 +41,12 @@ countries:
     data_dir: "../countries/data-at"
     max_workers: 1
     source: {}  # RIS OGD API, no config needed
+
+  pt:
+    repo_path: "../countries/pt"
+    data_dir: "../countries/data-pt"
+    max_workers: 1
+    source:
+      # Download SQLite dump from https://dre.tretas.org/about/
+      # Decompress: bunzip2 dre_tretas.db.bz2
+      db_path: ""  # e.g.: "../countries/data-pt/dre_tretas.db"

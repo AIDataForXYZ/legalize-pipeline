@@ -199,6 +199,11 @@ class MyMetadataParser(MetadataParser):
             status=NormStatus.IN_FORCE,
             department="Ministry of Justice",
             source="https://official-source.gov/law/123",
+            extra=(                    # country-specific fields (optional)
+                ("department", "Ministry of Justice"),
+                ("summary", "Establishes the legal framework for..."),
+                ("eli", "https://data.example.gov/eli/act/1/2024"),
+            ),
         )
 ```
 
@@ -211,6 +216,7 @@ class MyMetadataParser(MetadataParser):
 - `identifier` must be filesystem-safe: no `:`, no spaces, no `/\*?"<>|`. Use `-` as separator. Example: SFS `1962:700` becomes `SFS-1962-700`
 - `country` must be the ISO 3166-1 alpha-2 code (e.g., `"se"`, `"fr"`, `"es"`)
 - `rank` is a free-form string (`Rank("act")`, `Rank("code")`, `Rank("lag")`). Goes in YAML frontmatter, not in the file path
+- `extra` is a tuple of `(key, value)` pairs for country-specific metadata. These are rendered as additional YAML fields in the frontmatter, after the generic fields. Use English keys. Only countries that populate `extra` get these fields -- other countries are unaffected
 - You can reuse `extract_reforms()` from `transformer/xml_parser.py` -- it works with any list of Blocks
 
 **Reference:** `fetcher/fr/parser.py` (XML), `fetcher/es/parser.py` (XML)
@@ -284,9 +290,70 @@ legalize-{code}/
 
 The `norm_to_filepath()` function generates `{country}/{identifier}.md` automatically.
 
-## Step 5: Write tests
+## Step 5: Implement daily processing
 
-Create `tests/test_parser_{code}.py` with fixture data:
+Create `src/legalize/fetcher/{code}/daily.py` with a `daily()` function. The CLI dispatches to this file via dynamic import (`legalize.fetcher.{code}.daily`). Without it, `legalize daily -c {code}` will print "not yet implemented".
+
+```python
+from datetime import date, timedelta
+from legalize.config import Config
+from legalize.state.store import StateStore
+
+def daily(
+    config: Config,
+    target_date: date | None = None,
+    dry_run: bool = False,
+) -> int:
+    """Daily processing for {country}: discover + fetch + commit new norms."""
+    from legalize.fetcher.{code}.client import MyClient
+    from legalize.fetcher.{code}.discovery import MyDiscovery
+    from legalize.fetcher.{code}.parser import MyMetadataParser, MyTextParser
+
+    cc = config.get_country("{code}")
+    state = StateStore(cc.state_path)
+    state.load()
+
+    # Determine dates to process
+    if target_date:
+        dates_to_process = [target_date]
+    else:
+        start = state.last_summary_date
+        if start is None:
+            # Infer from git log Source-Date trailers or author date
+            ...
+        start = start + timedelta(days=1)
+        dates_to_process = [d for d in _daterange(start, date.today())
+                           if d.weekday() < 5]  # adapt to source's schedule
+
+    # For each date: discover → fetch → commit
+    with MyClient.create(cc) as client:
+        for current_date in dates_to_process:
+            norm_ids = list(discovery.discover_daily(client, current_date))
+            for norm_id in norm_ids:
+                # fetch metadata + text
+                # render markdown
+                # write_and_add + commit
+                ...
+            state.last_summary_date = current_date
+
+    state.save()
+    return commits_created
+```
+
+The flow is always the same — the country-specific part is how you discover and fetch. See `fetcher/at/daily.py` (API-based) and `fetcher/es/daily.py` (sumario-based) for complete examples.
+
+**Key responsibilities:**
+- Determine which dates need processing (state tracking via `StateStore`)
+- Call `discover_daily()` for each date
+- Fetch + parse + render markdown for each norm
+- Create git commits with appropriate `CommitType` (NEW, REFORM, CORRECTION)
+- Update `state.last_summary_date` after each date
+- Handle `--dry-run` (print what would happen, don't commit)
+- Handle `config.git.push` (push to remote after commits)
+
+## Step 6: Write tests
+
+Create `tests/test_parser_{code}.py` with fixture data (and optionally `tests/test_daily_{code}.py`):
 
 ```python
 import pytest
@@ -322,7 +389,7 @@ class TestCountryDispatch:
         assert isinstance(parser, MyTextParser)
 ```
 
-## Step 6: Test end-to-end
+## Step 7: Test end-to-end
 
 ```bash
 # Fetch 5 laws to verify the client and discovery work
@@ -333,6 +400,9 @@ legalize bootstrap -c xx --dry-run
 
 # Full bootstrap (creates git commits in the output repo)
 legalize bootstrap -c xx
+
+# Daily dry-run to verify daily processing
+legalize daily -c xx --date 2026-03-28 --dry-run
 ```
 
 ## Checklist
@@ -341,12 +411,14 @@ legalize bootstrap -c xx
 - [ ] `fetcher/{code}/client.py` -- with `create()`, rate limiting, retry
 - [ ] `fetcher/{code}/discovery.py` -- `discover_all()` and `discover_daily()`
 - [ ] `fetcher/{code}/parser.py` -- `TextParser` and `MetadataParser`
+- [ ] `fetcher/{code}/daily.py` -- `daily()` function for incremental updates
 - [ ] `countries.py` -- registry entry added
 - [ ] `config.yaml` -- country section with source params
 - [ ] `tests/test_parser_{code}.py` -- passing
 - [ ] GitHub repo `legalize-dev/legalize-{code}` -- with README in local language
 - [ ] Tested with `legalize fetch -c {code} --all --limit 5`
 - [ ] Tested with `legalize bootstrap -c {code} --dry-run`
+- [ ] Tested with `legalize daily -c {code} --date YYYY-MM-DD --dry-run`
 - [ ] Full bootstrap run
 
 ## Version history strategies
