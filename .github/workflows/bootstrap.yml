@@ -57,4 +57,4 @@ jobs:
         if: ${{ !inputs.dry_run }}
         run: |
           cd repos/${{ inputs.country }}
-          git push origin main
+          git push origin HEAD
