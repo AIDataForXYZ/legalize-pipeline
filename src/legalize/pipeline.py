@@ -261,7 +261,11 @@ def generic_fetch_one(
             meta_data = client.get_metadata(norm_id)
             metadata = meta_parser.parse(meta_data, norm_id)
 
-            text_data = client.get_text(norm_id)
+            # Pass pre-fetched metadata to avoid redundant API call
+            get_text_kwargs = {}
+            if hasattr(client, "get_text") and "meta_data" in client.get_text.__code__.co_varnames:
+                get_text_kwargs["meta_data"] = meta_data
+            text_data = client.get_text(norm_id, **get_text_kwargs)
             blocks = text_parser.parse_text(text_data)
             reforms = _extract_reforms_generic(text_parser, client, norm_id, blocks)
 

@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from legalize.fetcher.base import HttpClient
 
@@ -33,7 +34,7 @@ class RISClient(HttpClient):
     def __init__(self) -> None:
         super().__init__(requests_per_second=10.0)
 
-    def get_text(self, gesetzesnummer: str) -> bytes:
+    def get_text(self, gesetzesnummer: str, meta_data: bytes | None = None) -> bytes:
         """Fetch all NOR XMLs for a Gesetzesnummer and combine them.
 
         1. Fetches metadata to find all NOR IDs for this law
@@ -42,11 +43,13 @@ class RISClient(HttpClient):
 
         Args:
             gesetzesnummer: Stable law identifier, e.g. '10002333'
+            meta_data: Pre-fetched metadata bytes (avoids redundant API call).
 
         Returns:
             Combined XML bytes with all NOR documents.
         """
-        meta_data = self.get_metadata(gesetzesnummer)
+        if meta_data is None:
+            meta_data = self.get_metadata(gesetzesnummer)
         nor_ids = self._extract_nor_ids(meta_data)
 
         if not nor_ids:
@@ -54,19 +57,32 @@ class RISClient(HttpClient):
 
         logger.info("Fetching %d NOR documents for %s", len(nor_ids), gesetzesnummer)
 
-        parts = ['<?xml version="1.0" encoding="UTF-8"?>']
-        parts.append(f'<combined_nor_documents gesetzesnummer="{gesetzesnummer}">')
+        # Fetch NOR XMLs in parallel (up to 8 concurrent) for speed
+        nor_xmls: dict[str, str] = {}
 
-        for nor_id in nor_ids:
+        def _fetch_one(nor_id: str) -> tuple[str, str | None]:
             try:
                 xml = self._fetch_nor_xml(nor_id)
-                # Strip XML declaration from individual docs before combining
                 content = xml.decode("utf-8", errors="replace")
                 content = content.replace('<?xml version="1.0" encoding="UTF-8"?>', "").strip()
-                parts.append(content)
+                return (nor_id, content)
             except Exception:
                 logger.warning("Could not fetch NOR %s, skipping", nor_id)
+                return (nor_id, None)
 
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            futures = {pool.submit(_fetch_one, nid): nid for nid in nor_ids}
+            for future in as_completed(futures):
+                nid, content = future.result()
+                if content:
+                    nor_xmls[nid] = content
+
+        # Reassemble in original order
+        parts = ['<?xml version="1.0" encoding="UTF-8"?>']
+        parts.append(f'<combined_nor_documents gesetzesnummer="{gesetzesnummer}">')
+        for nor_id in nor_ids:
+            if nor_id in nor_xmls:
+                parts.append(nor_xmls[nor_id])
         parts.append("</combined_nor_documents>")
         return "\n".join(parts).encode("utf-8")
 
@@ -127,7 +143,7 @@ class RISClient(HttpClient):
         params: dict[str, str | int] = {
             "Applikation": "BrKons",
             "Seitennummer": page,
-            "Dokumentnummer": page_size,
+            "DokumenteProSeite": "OneHundred",
             **filters,
         }
         return self._get(f"{API_BASE}/Bundesrecht", params=params)
