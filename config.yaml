@@ -28,7 +28,7 @@ countries:
     source:
       # Download LEGI dump: ftp://echanges.dila.gouv.fr/LEGI/
       # Extract and set legi_dir to the root
-      legi_dir: ""  # e.g.: "/data/legi" or "../legi-dump"
+      legi_dir: "../countries/data-fr/legi"
 
   se:
     repo_path: "../countries/se"

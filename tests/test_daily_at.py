@@ -14,7 +14,7 @@ from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 from legalize.fetcher.at.client import RISClient
-from legalize.fetcher.at.daily import daily
+from legalize.pipeline import generic_daily
 from legalize.state.store import infer_last_date_from_git
 from legalize.fetcher.at.discovery import RISDiscovery
 
@@ -225,6 +225,8 @@ class TestInferLastDateFromGitAT:
 
 
 class TestDailyATOrchestration:
+    """Tests that generic_daily works correctly for Austria."""
+
     def _make_config(self, tmp_path: Path):
         from legalize.config import Config, CountryConfig, GitConfig
 
@@ -248,69 +250,72 @@ class TestDailyATOrchestration:
             },
         )
 
-    @patch("legalize.fetcher.at.client.RISClient", autospec=True)
-    @patch("legalize.fetcher.at.discovery.RISDiscovery", autospec=True)
-    def test_dry_run_does_not_commit(self, mock_disc_cls, mock_client_cls, tmp_path):
-        config = self._make_config(tmp_path)
+    def _mock_countries(self):
+        """Build mocks for client and discovery dispatched by generic_daily."""
+        mock_client = MagicMock()
+        mock_client.__enter__ = MagicMock(return_value=mock_client)
+        mock_client.__exit__ = MagicMock(return_value=False)
 
-        mock_discovery = mock_disc_cls.return_value
+        mock_client_cls = MagicMock()
+        mock_client_cls.create.return_value = mock_client
+
+        mock_discovery = MagicMock()
+        mock_disc_cls = MagicMock()
+        mock_disc_cls.create.return_value = mock_discovery
+
+        return mock_client, mock_client_cls, mock_discovery, mock_disc_cls
+
+    def test_dry_run_does_not_commit(self, tmp_path):
+        config = self._make_config(tmp_path)
+        mock_client, mock_client_cls, mock_discovery, mock_disc_cls = self._mock_countries()
         mock_discovery.discover_daily.return_value = iter(["10002333", "10001848"])
 
-        mock_client = mock_client_cls.return_value
-        mock_client.__enter__ = MagicMock(return_value=mock_client)
-        mock_client.__exit__ = MagicMock(return_value=False)
-
-        result = daily(config, target_date=date(2026, 4, 1), dry_run=True)
+        with (
+            patch("legalize.countries.get_client_class", return_value=mock_client_cls),
+            patch("legalize.countries.get_discovery_class", return_value=mock_disc_cls),
+        ):
+            result = generic_daily(config, "at", target_date=date(2026, 4, 1), dry_run=True)
 
         assert result == 0
 
-    @patch("legalize.fetcher.at.client.RISClient", autospec=True)
-    @patch("legalize.fetcher.at.discovery.RISDiscovery", autospec=True)
-    def test_no_changes_returns_zero(self, mock_disc_cls, mock_client_cls, tmp_path):
+    def test_no_changes_returns_zero(self, tmp_path):
         config = self._make_config(tmp_path)
-
-        mock_discovery = mock_disc_cls.return_value
+        mock_client, mock_client_cls, mock_discovery, mock_disc_cls = self._mock_countries()
         mock_discovery.discover_daily.return_value = iter([])
 
-        mock_client = mock_client_cls.return_value
-        mock_client.__enter__ = MagicMock(return_value=mock_client)
-        mock_client.__exit__ = MagicMock(return_value=False)
-
-        result = daily(config, target_date=date(2026, 4, 1))
+        with (
+            patch("legalize.countries.get_client_class", return_value=mock_client_cls),
+            patch("legalize.countries.get_discovery_class", return_value=mock_disc_cls),
+        ):
+            result = generic_daily(config, "at", target_date=date(2026, 4, 1))
 
         assert result == 0
 
-    @patch("legalize.fetcher.at.client.RISClient", autospec=True)
-    @patch("legalize.fetcher.at.discovery.RISDiscovery", autospec=True)
-    def test_discovery_error_continues(self, mock_disc_cls, mock_client_cls, tmp_path):
+    def test_discovery_error_continues(self, tmp_path):
         config = self._make_config(tmp_path)
-
-        mock_discovery = mock_disc_cls.return_value
+        mock_client, mock_client_cls, mock_discovery, mock_disc_cls = self._mock_countries()
         mock_discovery.discover_daily.side_effect = RuntimeError("API down")
 
-        mock_client = mock_client_cls.return_value
-        mock_client.__enter__ = MagicMock(return_value=mock_client)
-        mock_client.__exit__ = MagicMock(return_value=False)
-
-        result = daily(config, target_date=date(2026, 4, 1))
+        with (
+            patch("legalize.countries.get_client_class", return_value=mock_client_cls),
+            patch("legalize.countries.get_discovery_class", return_value=mock_disc_cls),
+        ):
+            result = generic_daily(config, "at", target_date=date(2026, 4, 1))
 
         assert result == 0
         state_path = Path(config.get_country("at").state_path)
         assert state_path.exists()
 
-    @patch("legalize.fetcher.at.client.RISClient", autospec=True)
-    @patch("legalize.fetcher.at.discovery.RISDiscovery", autospec=True)
-    def test_state_saved_after_run(self, mock_disc_cls, mock_client_cls, tmp_path):
+    def test_state_saved_after_run(self, tmp_path):
         config = self._make_config(tmp_path)
-
-        mock_discovery = mock_disc_cls.return_value
+        mock_client, mock_client_cls, mock_discovery, mock_disc_cls = self._mock_countries()
         mock_discovery.discover_daily.return_value = iter([])
 
-        mock_client = mock_client_cls.return_value
-        mock_client.__enter__ = MagicMock(return_value=mock_client)
-        mock_client.__exit__ = MagicMock(return_value=False)
-
-        daily(config, target_date=date(2026, 4, 1))
+        with (
+            patch("legalize.countries.get_client_class", return_value=mock_client_cls),
+            patch("legalize.countries.get_discovery_class", return_value=mock_disc_cls),
+        ):
+            generic_daily(config, "at", target_date=date(2026, 4, 1))
 
         state_path = Path(config.get_country("at").state_path)
         state = json.loads(state_path.read_text())

@@ -10,13 +10,10 @@ from __future__ import annotations
 
 import io
 import logging
-import time
 import zipfile
 from typing import TYPE_CHECKING
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient
 
 if TYPE_CHECKING:
     from legalize.config import CountryConfig
@@ -30,7 +27,7 @@ DEFAULT_MAX_RETRIES = 5
 DEFAULT_RPS = 2.0
 
 
-class GIIClient(LegislativeClient):
+class GIIClient(HttpClient):
     """HTTP client for gesetze-im-internet.de.
 
     Each law is a ZIP file containing a single gii-norm XML document.
@@ -43,7 +40,7 @@ class GIIClient(LegislativeClient):
         source = country_config.source or {}
         return cls(
             base_url=source.get("base_url", GII_BASE),
-            timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
+            request_timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
             max_retries=source.get("max_retries", DEFAULT_MAX_RETRIES),
             requests_per_second=source.get("requests_per_second", DEFAULT_RPS),
         )
@@ -51,20 +48,15 @@ class GIIClient(LegislativeClient):
     def __init__(
         self,
         base_url: str = GII_BASE,
-        timeout: int = DEFAULT_TIMEOUT,
+        request_timeout: int = DEFAULT_TIMEOUT,
         max_retries: int = DEFAULT_MAX_RETRIES,
         requests_per_second: float = DEFAULT_RPS,
     ) -> None:
-        self._base_url = base_url.rstrip("/")
-        self._timeout = timeout
-        self._max_retries = max_retries
-        self._min_interval = 1.0 / requests_per_second
-        self._last_request: float = 0
-        self._session = requests.Session()
-        self._session.headers.update(
-            {
-                "User-Agent": "legalize-bot/1.0 (+https://github.com/legalize-dev/legalize)",
-            }
+        super().__init__(
+            base_url=base_url,
+            request_timeout=request_timeout,
+            max_retries=max_retries,
+            requests_per_second=requests_per_second,
         )
 
     def get_text(self, norm_id: str) -> bytes:
@@ -91,49 +83,8 @@ class GIIClient(LegislativeClient):
     def head_zip(self, norm_id: str) -> dict[str, str]:
         """HEAD request for a law ZIP to check Last-Modified / ETag."""
         url = f"{self._base_url}/{norm_id}/xml.zip"
-        now = time.monotonic()
-        wait = self._min_interval - (now - self._last_request)
-        if wait > 0:
-            time.sleep(wait)
-        r = self._session.head(url, timeout=self._timeout)
-        self._last_request = time.monotonic()
-        r.raise_for_status()
-        return dict(r.headers)
-
-    def close(self) -> None:
-        self._session.close()
-
-    # -- Internal helpers --
-
-    def _get(self, url: str) -> bytes:
-        """GET with rate limiting and retry."""
-        now = time.monotonic()
-        wait = self._min_interval - (now - self._last_request)
-        if wait > 0:
-            time.sleep(wait)
-
-        last_exc: Exception | None = None
-        for attempt in range(self._max_retries):
-            try:
-                r = self._session.get(url, timeout=self._timeout)
-                self._last_request = time.monotonic()
-
-                if r.status_code == 429 or r.status_code >= 500:
-                    delay = 2**attempt
-                    logger.warning("GII %d on %s, retrying in %ds", r.status_code, url, delay)
-                    time.sleep(delay)
-                    continue
-
-                r.raise_for_status()
-                return r.content
-
-            except requests.RequestException as exc:
-                last_exc = exc
-                delay = 2**attempt
-                logger.warning("GII request error: %s, retry in %ds", exc, delay)
-                time.sleep(delay)
-
-        raise last_exc or RuntimeError(f"Failed to fetch {url}")
+        resp = self._request("HEAD", url)
+        return dict(resp.headers)
 
     @staticmethod
     def _extract_xml(zip_bytes: bytes, norm_id: str) -> bytes:

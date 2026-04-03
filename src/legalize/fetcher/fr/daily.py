@@ -3,16 +3,21 @@
 Downloads LEGI daily increments from DILA and processes modified texts.
 Increments are tar.gz files published Mon-Sat at:
   https://echanges.dila.gouv.fr/OPENDATA/LEGI/LEGI_YYYYMMDD-HHMMSS.tar.gz
+
+Unlike Spain (BOE), France does NOT have a reform/404 problem:
+LEGI increments contain the updated consolidated texts directly.
+When a law is reformed, the increment delivers the modified LEGITEXT
+XML with the new article versions already merged. There is no need
+to resolve "affected norms" from a reforming disposition.
 """
 
 from __future__ import annotations
 
 import logging
 import re
-import subprocess
 import tarfile
 import tempfile
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 
 import requests
@@ -22,7 +27,8 @@ from legalize.committer.git_ops import GitRepo
 from legalize.committer.message import build_commit_info
 from legalize.config import Config
 from legalize.models import CommitType, Reform
-from legalize.state.store import StateStore, infer_last_date_from_git
+from legalize.pipeline import finalize_daily
+from legalize.state.store import StateStore, resolve_dates_to_process
 from legalize.transformer.markdown import render_norm_at_date
 from legalize.transformer.slug import norm_to_filepath
 
@@ -112,24 +118,15 @@ def daily(
     state = StateStore(cc.state_path)
     state.load()
 
-    if target_date:
-        dates_to_process = [target_date]
-    else:
-        start = state.last_summary_date
-        if start is None:
-            start = infer_last_date_from_git(cc.repo_path)
-        if start is None:
-            console.print("[yellow]No last date found. Use --date or run bootstrap.[/yellow]")
-            return 0
-        start = start + timedelta(days=1)
-        end = date.today()
-        dates_to_process = []
-        current = start
-        while current <= end:
-            if current.weekday() != 6:
-                dates_to_process.append(current)
-            current += timedelta(days=1)
-
+    dates_to_process = resolve_dates_to_process(
+        state,
+        cc.repo_path,
+        target_date,
+        skip_weekdays={6},
+    )
+    if dates_to_process is None:
+        console.print("[yellow]No last date found. Use --date or run bootstrap.[/yellow]")
+        return 0
     if not dates_to_process:
         console.print("[green]Nothing to process — up to date[/green]")
         return 0
@@ -258,22 +255,12 @@ def daily(
 
     session.close()
 
-    if not dry_run and config.git.push and commits_created > 0:
-        try:
-            repo.push()
-        except subprocess.CalledProcessError:
-            logger.error("Error pushing", exc_info=True)
-            errors.append("Error pushing")
-
-    state.record_run(
-        summaries=[d.isoformat() for d in dates_to_process],
-        commits=commits_created,
-        errors=errors,
+    return finalize_daily(
+        repo,
+        state,
+        dates_to_process,
+        commits_created,
+        errors,
+        dry_run=dry_run,
+        push=config.git.push,
     )
-    state.save()
-
-    console.print(f"\n[bold green]✓ {commits_created} commits[/bold green]")
-    if errors:
-        console.print(f"[yellow]⚠ {len(errors)} errors[/yellow]")
-
-    return commits_created

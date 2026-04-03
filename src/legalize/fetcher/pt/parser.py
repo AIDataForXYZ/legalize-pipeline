@@ -275,18 +275,6 @@ class DRETextParser(TextParser):
             return []
         return _parse_text_to_blocks(html, pub_date, norm_id)
 
-    def extract_reforms(self, data: bytes) -> list[Any]:
-        """Extract reform timeline from text data.
-
-        The tretas.org dump only has current text (no version history),
-        so we delegate to the generic extract_reforms which creates
-        a single reform entry from the blocks.
-        """
-        blocks = self.parse_text(data)
-        from legalize.transformer.xml_parser import extract_reforms
-
-        return extract_reforms(blocks)
-
 
 def _parse_date(s: str) -> date | None:
     """Parse a date string in common formats."""

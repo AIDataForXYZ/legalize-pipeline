@@ -6,7 +6,6 @@ Processes BOE daily summaries (sumarios) and generates commits for new legislati
 from __future__ import annotations
 
 import logging
-import subprocess
 from datetime import date
 from pathlib import Path
 
@@ -19,7 +18,8 @@ from legalize.committer.git_ops import GitRepo
 from legalize.committer.message import build_commit_info
 from legalize.config import Config
 from legalize.models import CommitType, Disposition, Reform
-from legalize.state.store import StateStore, infer_last_date_from_git
+from legalize.pipeline import finalize_daily
+from legalize.state.store import StateStore, resolve_dates_to_process
 from legalize.transformer.markdown import render_norm_at_date
 from legalize.transformer.slug import norm_to_filepath
 from legalize.transformer.xml_parser import parse_text_xml
@@ -59,8 +59,6 @@ def daily(
     dry_run: bool = False,
 ) -> int:
     """Daily processing: process BOE summary/summaries."""
-    from datetime import timedelta
-
     from legalize.fetcher.cache import FileCache
     from legalize.fetcher.es.client import BOEClient
     from legalize.fetcher.es.config import BOEConfig, ScopeConfig
@@ -83,37 +81,15 @@ def daily(
     state = StateStore(cc.state_path)
     state.load()
 
-    if target_date:
-        dates_to_process = [target_date]
-    else:
-        start = state.last_summary_date
-        if start is None:
-            # Infer from the most recent commit's Source-Date trailer
-            start = infer_last_date_from_git(cc.repo_path)
-        if start is None:
-            console.print("[yellow]No last summary found. Use --date or run bootstrap.[/yellow]")
-            return 0
-        start = start + timedelta(days=1)
-        end = date.today()
-
-        # Safety cap: without an explicit --date, limit automatic lookback
-        # to 10 days to avoid processing months of history by accident
-        # (e.g., first CI run after setup, or after a long outage).
-        max_lookback = end - timedelta(days=10)
-        if start < max_lookback:
-            console.print(
-                f"[yellow]Clamping start from {start} to {max_lookback}"
-                f" (max 10 days). Use --date for older dates.[/yellow]"
-            )
-            start = max_lookback
-
-        dates_to_process = []
-        current = start
-        while current <= end:
-            if current.weekday() != 6:
-                dates_to_process.append(current)
-            current += timedelta(days=1)
-
+    dates_to_process = resolve_dates_to_process(
+        state,
+        cc.repo_path,
+        target_date,
+        skip_weekdays={6},
+    )
+    if dates_to_process is None:
+        console.print("[yellow]No last summary found. Use --date or run bootstrap.[/yellow]")
+        return 0
     if not dates_to_process:
         console.print("[green]Nothing to process — up to date[/green]")
         return 0
@@ -261,22 +237,12 @@ def daily(
 
             state.last_summary_date = current_date
 
-    if not dry_run and config.git.push and commits_created > 0:
-        try:
-            repo.push()
-        except subprocess.CalledProcessError:
-            logger.error("Error pushing", exc_info=True)
-            errors.append("Error pushing")
-
-    state.record_run(
-        summaries=[d.isoformat() for d in dates_to_process],
-        commits=commits_created,
-        errors=errors,
+    return finalize_daily(
+        repo,
+        state,
+        dates_to_process,
+        commits_created,
+        errors,
+        dry_run=dry_run,
+        push=config.git.push,
     )
-    state.save()
-
-    console.print(f"\n[bold green]✓ {commits_created} commits[/bold green]")
-    if errors:
-        console.print(f"[yellow]⚠ {len(errors)} errors[/yellow]")
-
-    return commits_created

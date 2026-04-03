@@ -395,6 +395,61 @@ class TestLEGIMetadataParser:
         # last_modified comes from DERNIERE_MODIFICATION, not from sentinels
         assert meta.last_modified == date(2024, 3, 1)
 
+    def test_extra_fields_from_version_file(self):
+        """Version file with NOR, JORF, NUM, ORIGINE_PUBLI → extra fields."""
+        version_xml = b"""\
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006071194</ID>
+<NATURE>CONSTITUTION</NATURE>
+<NOR>JUSX5800001C</NOR>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_VERSION>
+<TITRE>Constitution du 4 octobre 1958</TITRE>
+<TITREFULL>Constitution du 4 octobre 1958</TITREFULL>
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>1958-10-05</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<NUM>58-1067</NUM>
+</META_TEXTE_VERSION>
+<META_TEXTE_CHRONICLE>
+<CID>LEGITEXT000006071194</CID>
+<NOR>JUSX5800001C</NOR>
+<DATE_PUBLI>1958-10-05</DATE_PUBLI>
+<DATE_TEXTE>1958-10-04</DATE_TEXTE>
+<JORF>JORFTEXT000000571356</JORF>
+<DERNIERE_MODIFICATION>2024-03-01</DERNIERE_MODIFICATION>
+<ORIGINE_PUBLI>JORF</ORIGINE_PUBLI>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="1958-10-05" fin="2999-01-01" id="LEGITEXT000006071194" num=""/>
+</VERSION>
+</VERSIONS>
+</TEXTE_VERSION>
+"""
+        parser = LEGIMetadataParser()
+        meta = parser.parse(version_xml, "LEGITEXT000006071194")
+
+        extra_dict = dict(meta.extra)
+        assert extra_dict["nor"] == "JUSX5800001C"
+        assert extra_dict["enactment_date"] == "1958-10-04"
+        assert extra_dict["jorf"] == "JORFTEXT000000571356"
+        assert extra_dict["official_number"] == "58-1067"
+        assert extra_dict["official_journal"] == "JORF"
+
+    def test_extra_empty_when_no_optional_fields(self):
+        """Struct file without NOR/JORF/NUM → extra is empty."""
+        parser = LEGIMetadataParser()
+        meta = parser.parse(STRUCTURE_XML_CODE_CIVIL, "LEGITEXT000006069414")
+        # DATE_TEXTE=2999-01-01 is sentinel → no enactment_date
+        assert meta.extra == ()
+
 
 # ─────────────────────────────────────────────
 # Tests: LEGITextParser (interface)

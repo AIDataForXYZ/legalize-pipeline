@@ -8,20 +8,16 @@ from __future__ import annotations
 
 import json
 import logging
-import time
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient
 
 logger = logging.getLogger(__name__)
 
 API_BASE = "https://data.bka.gv.at/ris/api/v2.6"
 DOC_BASE = "https://www.ris.bka.gv.at/Dokumente/Bundesnormen"
-RATE_LIMIT_DELAY = 0.1  # seconds between requests (no documented rate limit)
 
 
-class RISClient(LegislativeClient):
+class RISClient(HttpClient):
     """HTTP client for the Austrian RIS open data API (Bundesrecht konsolidiert).
 
     Austria's API returns one XML per NOR (paragraph/article). To get a full law,
@@ -35,8 +31,7 @@ class RISClient(LegislativeClient):
         return cls()
 
     def __init__(self) -> None:
-        self._session = requests.Session()
-        self._session.headers.update({"User-Agent": "legalize-bot/1.0"})
+        super().__init__(requests_per_second=10.0)
 
     def get_text(self, gesetzesnummer: str) -> bytes:
         """Fetch all NOR XMLs for a Gesetzesnummer and combine them.
@@ -91,12 +86,12 @@ class RISClient(LegislativeClient):
                 "Seitennummer": page,
                 "DokumenteProSeite": "OneHundred",
             }
-            r = self._session.get(f"{API_BASE}/Bundesrecht", params=params, timeout=30)
-            r.raise_for_status()
-
-            data = json.loads(r.content)
+            resp = self._request("GET", f"{API_BASE}/Bundesrecht", params=params)
+            data = json.loads(resp.content)
             results = data.get("OgdSearchResult", {}).get("OgdDocumentResults", {})
             docs = results.get("OgdDocumentReference", [])
+            if isinstance(docs, dict):
+                docs = [docs]
 
             if not docs:
                 break
@@ -115,7 +110,6 @@ class RISClient(LegislativeClient):
             if len(all_docs) >= total:
                 break
             page += 1
-            time.sleep(RATE_LIMIT_DELAY)
 
         # Reconstruct a single response with all docs
         combined = {
@@ -136,23 +130,14 @@ class RISClient(LegislativeClient):
             "Dokumentnummer": page_size,
             **filters,
         }
-        r = self._session.get(f"{API_BASE}/Bundesrecht", params=params, timeout=30)
-        r.raise_for_status()
-        time.sleep(RATE_LIMIT_DELAY)
-        return r.content
-
-    def close(self) -> None:
-        self._session.close()
+        return self._get(f"{API_BASE}/Bundesrecht", params=params)
 
     # ── Internal helpers ──
 
     def _fetch_nor_xml(self, nor_id: str) -> bytes:
         """Fetch the XML of one NOR document."""
         url = f"{DOC_BASE}/{nor_id}/{nor_id}.xml"
-        r = self._session.get(url, timeout=30)
-        r.raise_for_status()
-        time.sleep(RATE_LIMIT_DELAY)
-        return r.content
+        return self._get(url)
 
     @staticmethod
     def _extract_nor_ids(meta_data: bytes) -> list[str]:
@@ -163,10 +148,13 @@ class RISClient(LegislativeClient):
             .get("OgdDocumentResults", {})
             .get("OgdDocumentReference", [])
         )
+        if isinstance(docs, dict):
+            docs = [docs]
         return [
             d["Data"]["Metadaten"]["Technisch"]["ID"]
             for d in docs
-            if "Data" in d
+            if isinstance(d, dict)
+            and "Data" in d
             and "Metadaten" in d["Data"]
             and "Technisch" in d["Data"]["Metadaten"]
             and "ID" in d["Data"]["Metadaten"]["Technisch"]

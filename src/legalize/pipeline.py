@@ -1,6 +1,7 @@
 """Legalize pipeline orchestrator.
 
 Generic (country-agnostic) flows:
+- generic_daily: daily incremental update for any country via dispatch
 - generic_fetch_one: fetch one norm for any country via dispatch
 - generic_fetch_all: fetch all norms for any country via discovery
 - generic_bootstrap: full bootstrap for any country
@@ -12,8 +13,10 @@ Generic (country-agnostic) flows:
 
 from __future__ import annotations
 
+import json
 import logging
 import subprocess
+from datetime import date
 from pathlib import Path
 
 import requests
@@ -27,8 +30,9 @@ from legalize.models import (
     CommitType,
     NormMetadata,
     ParsedNorm,
+    Reform,
 )
-from legalize.state.store import StateStore
+from legalize.state.store import StateStore, resolve_dates_to_process
 from legalize.storage import load_norma_from_json, save_structured_json
 from legalize.transformer.markdown import render_norm_at_date
 from legalize.transformer.slug import norm_to_filepath
@@ -36,6 +40,188 @@ from legalize.transformer.xml_parser import extract_reforms, parse_text_xml
 
 console = Console()
 logger = logging.getLogger(__name__)
+
+
+# ─────────────────────────────────────────────
+# GENERIC DAILY — works for any country via dispatch
+# ─────────────────────────────────────────────
+
+# Weekday schedule per country (skip these weekdays).
+# Defined here so config.yaml stays declarative. Override in country daily.py
+# only if the country needs a fully custom flow (ES, FR).
+_SKIP_WEEKDAYS: dict[str, set[int]] = {
+    "es": {6},  # Mon-Sat (BOE)
+    "fr": {6},  # Mon-Sat (DILA)
+    "at": {5, 6},  # Mon-Fri (RIS)
+    "pt": {5, 6},  # Mon-Fri (DRE)
+    "cl": {6},  # Mon-Sat (BCN)
+    "lt": set(),  # Every day
+    "se": {5, 6},  # Mon-Fri (Riksdag)
+    "de": {5, 6},  # Mon-Fri (GII)
+    "uy": {6},  # Mon-Sat (IMPO)
+}
+
+
+def finalize_daily(
+    repo: GitRepo,
+    state: StateStore,
+    dates_to_process: list[date],
+    commits_created: int,
+    errors: list[str],
+    *,
+    dry_run: bool = False,
+    push: bool = False,
+) -> int:
+    """Shared tail for all daily pipelines: push, record run, print summary.
+
+    Call this at the end of any daily() function (generic or custom).
+    """
+    if not dry_run and push and commits_created > 0:
+        try:
+            repo.push()
+        except subprocess.CalledProcessError:
+            logger.error("Error pushing", exc_info=True)
+            errors.append("Error pushing")
+
+    state.record_run(
+        summaries=[d.isoformat() for d in dates_to_process],
+        commits=commits_created,
+        errors=errors,
+    )
+    state.save()
+
+    console.print(f"\n[bold green]✓ {commits_created} commits[/bold green]")
+    if errors:
+        console.print(f"[yellow]⚠ {len(errors)} errors[/yellow]")
+
+    return commits_created
+
+
+def generic_daily(
+    config: Config,
+    country: str,
+    target_date: date | None = None,
+    dry_run: bool = False,
+) -> int:
+    """Daily incremental update for any country using the standard interfaces.
+
+    Works for countries whose daily flow is: discover → fetch → parse → commit.
+    Countries with custom flows (ES: reform resolution, FR: tar.gz increments)
+    keep their own daily.py and call finalize_daily() for the shared tail.
+    """
+    from legalize.countries import (
+        get_client_class,
+        get_discovery_class,
+        get_metadata_parser,
+        get_text_parser,
+    )
+
+    cc = config.get_country(country)
+    state = StateStore(cc.state_path)
+    state.load()
+
+    skip = _SKIP_WEEKDAYS.get(country, set())
+    dates_to_process = resolve_dates_to_process(
+        state,
+        cc.repo_path,
+        target_date,
+        skip_weekdays=skip,
+    )
+    if dates_to_process is None:
+        console.print("[yellow]No last date found. Use --date or run bootstrap.[/yellow]")
+        return 0
+    if not dates_to_process:
+        console.print("[green]Nothing to process — up to date[/green]")
+        return 0
+
+    console.print(
+        f"[bold]Daily {country.upper()} — processing {len(dates_to_process)} day(s)[/bold]"
+    )
+
+    repo = GitRepo(cc.repo_path, config.git.committer_name, config.git.committer_email)
+    commits_created = 0
+    errors: list[str] = []
+
+    text_parser = get_text_parser(country)
+    meta_parser = get_metadata_parser(country)
+    discovery_cls = get_discovery_class(country)
+    discovery = discovery_cls.create(cc.source or {})
+    client_cls = get_client_class(country)
+
+    with client_cls.create(cc) as client:
+        for current_date in dates_to_process:
+            console.print(f"\n  [bold]{current_date}[/bold]")
+
+            try:
+                modified_ids = list(discovery.discover_daily(client, current_date))
+            except Exception:
+                msg = f"Error discovering changes for {current_date}"
+                logger.error(msg, exc_info=True)
+                errors.append(msg)
+                continue
+
+            if not modified_ids:
+                console.print("    No changes found")
+                state.last_summary_date = current_date
+                continue
+
+            console.print(f"    {len(modified_ids)} norm(s) modified")
+
+            for norm_id in modified_ids:
+                if dry_run:
+                    console.print(f"    [dim]{norm_id} — would process[/dim]")
+                    continue
+
+                try:
+                    meta_data = client.get_metadata(norm_id)
+                    metadata = meta_parser.parse(meta_data, norm_id)
+
+                    text_data = client.get_text(norm_id)
+                    blocks = text_parser.parse_text(text_data)
+
+                    file_path = norm_to_filepath(metadata)
+                    markdown = render_norm_at_date(metadata, blocks, current_date)
+
+                    changed = repo.write_and_add(file_path, markdown)
+                    if not changed:
+                        console.print(f"    [dim]⏭ {metadata.short_title} — no changes[/dim]")
+                        continue
+
+                    reform = Reform(
+                        date=current_date,
+                        norm_id=f"{country.upper()}-DAILY-{current_date.isoformat()}",
+                        affected_blocks=(),
+                    )
+                    info = build_commit_info(
+                        CommitType.REFORM,
+                        metadata,
+                        reform,
+                        blocks,
+                        file_path,
+                        markdown,
+                    )
+                    sha = repo.commit(info)
+
+                    if sha:
+                        commits_created += 1
+                        console.print(f"    [green]✓[/green] {info.subject}")
+
+                except Exception as e:
+                    msg = f"Error processing {norm_id}: {e}"
+                    logger.error(msg, exc_info=True)
+                    errors.append(msg)
+
+            state.last_summary_date = current_date
+
+    return finalize_daily(
+        repo,
+        state,
+        dates_to_process,
+        commits_created,
+        errors,
+        dry_run=dry_run,
+        push=config.git.push,
+    )
 
 
 # ─────────────────────────────────────────────
@@ -165,6 +351,8 @@ def generic_bootstrap(
 
     console.print("\n[bold]Commit — generating git history[/bold]\n")
     total_commits = commit_all(config, country, dry_run=dry_run)
+
+    write_country_meta(config, country)
 
     console.print(f"\n[bold green]✓ Bootstrap {country.upper()} completed[/bold green]")
     console.print(f"  {len(fetched)} norms fetched, {total_commits} commits created")
@@ -377,3 +565,50 @@ def bootstrap_from_local_xml(
     save_structured_json(cc.data_dir, norm)
 
     return commit_one(config, country, metadata.identifier, dry_run=dry_run)
+
+
+# ─────────────────────────────────────────────
+# COUNTRY META — metadata for web/seed tooling
+# ─────────────────────────────────────────────
+
+
+def write_country_meta(config: Config, country: str) -> None:
+    """Write country_meta.yaml alongside the JSON data.
+
+    This file helps the web seed script auto-detect countries
+    and suggest configuration for new ones.
+    """
+    import yaml
+
+    cc = config.get_country(country)
+    json_dir = Path(cc.data_dir) / "json"
+    if not json_dir.exists():
+        return
+
+    json_files = list(json_dir.glob("*.json"))
+    if not json_files:
+        return
+
+    # Discover ranks from the actual data (sample first 200 files)
+    ranks_found: set[str] = set()
+    for jf in json_files[:200]:
+        try:
+            data = json.loads(jf.read_text(encoding="utf-8"))
+            rank = data.get("metadata", {}).get("rank", "")
+            if rank:
+                ranks_found.add(rank)
+        except (json.JSONDecodeError, OSError):
+            continue
+
+    meta = {
+        "code": country,
+        "law_count": len(json_files),
+        "ranks_found": sorted(ranks_found),
+        "last_updated": date.today().isoformat(),
+    }
+
+    meta_path = Path(cc.data_dir) / "country_meta.yaml"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        yaml.dump(meta, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+
+    console.print(f"  [dim]Wrote {meta_path}[/dim]")

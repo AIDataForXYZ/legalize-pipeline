@@ -150,17 +150,6 @@ class CLTextParser(TextParser):
 
         return blocks
 
-    def extract_reforms(self, data: bytes) -> list[Any]:
-        """Extract reform timeline from BCN XML.
-
-        BCN tracks amendments via Vinculaciones (separate endpoint).
-        From the XML itself we can extract version dates per article.
-        """
-        blocks = self.parse_text(data)
-        from legalize.transformer.xml_parser import extract_reforms
-
-        return extract_reforms(blocks)
-
     def _parse_estructuras(self, parent: ET.Element, norma_id: str) -> list[Block]:
         """Recursively parse EstructuraFuncional elements into Blocks."""
         blocks: list[Block] = []

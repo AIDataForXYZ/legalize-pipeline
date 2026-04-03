@@ -20,11 +20,6 @@ class BOETextParser(TextParser):
 
         return parse_text_xml(data)
 
-    def extract_reforms(self, data: bytes) -> list[Any]:
-        from legalize.transformer.xml_parser import extract_reforms
-
-        return extract_reforms(data)
-
 
 class BOEMetadataParser(MetadataParser):
     """Parse BOE metadata XML into NormMetadata."""

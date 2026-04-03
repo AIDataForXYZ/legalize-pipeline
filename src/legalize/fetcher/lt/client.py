@@ -8,24 +8,15 @@ License: Open data (Creative Commons)
 
 from __future__ import annotations
 
-import logging
-import time
 from typing import TYPE_CHECKING
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient
 
 if TYPE_CHECKING:
     from legalize.config import CountryConfig
 
-logger = logging.getLogger(__name__)
-
 DEFAULT_API_URL = "https://get.data.gov.lt"
 DEFAULT_DATASET = "datasets/gov/lrsk/teises_aktai/Dokumentas"
-DEFAULT_TIMEOUT = 30
-DEFAULT_MAX_RETRIES = 5
-DEFAULT_RATE_LIMIT = 2.0  # requests per second
 
 # Fields needed for metadata
 _META_FIELDS = (
@@ -37,7 +28,7 @@ _META_FIELDS = (
 _DISCOVERY_FIELDS = "dokumento_id,rusis,galioj_busena,priimtas,pavadinimas"
 
 
-class TARClient(LegislativeClient):
+class TARClient(HttpClient):
     """HTTP client for Lithuanian legislation via data.gov.lt Spinta API.
 
     Single-source: both metadata and full text (tekstas_lt field)
@@ -52,119 +43,55 @@ class TARClient(LegislativeClient):
         return cls(
             api_url=source.get("api_url", DEFAULT_API_URL),
             dataset=source.get("dataset", DEFAULT_DATASET),
-            timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
-            max_retries=source.get("max_retries", DEFAULT_MAX_RETRIES),
-            requests_per_second=source.get("requests_per_second", DEFAULT_RATE_LIMIT),
+            request_timeout=source.get("request_timeout", 30),
+            max_retries=source.get("max_retries", 5),
+            requests_per_second=source.get("requests_per_second", 2.0),
         )
 
     def __init__(
         self,
         api_url: str = DEFAULT_API_URL,
         dataset: str = DEFAULT_DATASET,
-        timeout: int = DEFAULT_TIMEOUT,
-        max_retries: int = DEFAULT_MAX_RETRIES,
-        requests_per_second: float = DEFAULT_RATE_LIMIT,
+        **kwargs,
     ) -> None:
-        self._api_url = api_url.rstrip("/")
+        super().__init__(base_url=api_url, **kwargs)
         self._dataset = dataset
-        self._timeout = timeout
-        self._max_retries = max_retries
-        self._delay = 1.0 / requests_per_second
-        self._session = requests.Session()
-        self._session.headers.update({"User-Agent": "legalize-bot/1.0"})
 
     def get_text(self, norm_id: str) -> bytes:
-        """Fetch full text from data.gov.lt via the tekstas_lt field.
-
-        Args:
-            norm_id: Document ID (dokumento_id), e.g. "TAR.47BB952431DA"
-
-        Returns:
-            Text content as UTF-8 bytes (plain text, not HTML).
-        """
+        """Fetch full text from data.gov.lt via the tekstas_lt field."""
         url = (
-            f"{self._api_url}/{self._dataset}"
+            f"{self._base_url}/{self._dataset}"
             f'?dokumento_id="{norm_id}"&select(tekstas_lt,priimtas)&limit(1)'
         )
-        return self._fetch_with_retry(url)
+        return self._get(url)
 
     def get_metadata(self, norm_id: str) -> bytes:
-        """Fetch metadata JSON from data.gov.lt Spinta API.
-
-        Args:
-            norm_id: Document ID (dokumento_id), e.g. "TAR.47BB952431DA"
-
-        Returns:
-            JSON bytes with document metadata.
-        """
+        """Fetch metadata JSON from data.gov.lt Spinta API."""
         url = (
-            f"{self._api_url}/{self._dataset}"
+            f"{self._base_url}/{self._dataset}"
             f'?dokumento_id="{norm_id}"&select({_META_FIELDS})&limit(1)'
         )
-        return self._fetch_with_retry(url)
+        return self._get(url)
 
     def get_page(self, page_size: int = 100, cursor: str | None = None) -> bytes:
-        """Fetch a page of documents from the Spinta API.
-
-        Args:
-            page_size: Number of results per page.
-            cursor: Cursor token for pagination (from _page.next).
-
-        Returns:
-            JSON bytes with _data array and _page.next cursor.
-        """
+        """Fetch a page of documents from the Spinta API."""
         url = (
-            f"{self._api_url}/{self._dataset}"
+            f"{self._base_url}/{self._dataset}"
             f"?select({_DISCOVERY_FIELDS})&sort(dokumento_id)&limit({page_size})"
         )
         if cursor:
             url += f'&page("{cursor}")'
-        return self._fetch_with_retry(url)
+        return self._get(url)
 
     def get_page_by_date(
         self, target_date: str, page_size: int = 100, cursor: str | None = None
     ) -> bytes:
-        """Fetch documents adopted on a specific date (server-side filter).
-
-        Args:
-            target_date: ISO date string (YYYY-MM-DD).
-            page_size: Number of results per page.
-            cursor: Cursor token for pagination.
-
-        Returns:
-            JSON bytes with _data array and _page.next cursor.
-        """
+        """Fetch documents adopted on a specific date (server-side filter)."""
         url = (
-            f"{self._api_url}/{self._dataset}"
+            f"{self._base_url}/{self._dataset}"
             f'?priimtas="{target_date}"'
             f"&select({_DISCOVERY_FIELDS})&sort(dokumento_id)&limit({page_size})"
         )
         if cursor:
             url += f'&page("{cursor}")'
-        return self._fetch_with_retry(url)
-
-    def close(self) -> None:
-        self._session.close()
-
-    # ── Internal helpers ──
-
-    def _fetch_with_retry(self, url: str) -> bytes:
-        """Fetch URL with exponential backoff retry."""
-        last_exc: Exception | None = None
-        for attempt in range(self._max_retries):
-            try:
-                time.sleep(self._delay)
-                r = self._session.get(url, timeout=self._timeout)
-                if r.status_code in (429, 503):
-                    wait = 2**attempt
-                    logger.warning("Rate limited (%d), waiting %ds", r.status_code, wait)
-                    time.sleep(wait)
-                    continue
-                r.raise_for_status()
-                return r.content
-            except requests.RequestException as exc:
-                last_exc = exc
-                wait = 2**attempt
-                logger.warning("Request failed (attempt %d): %s", attempt + 1, exc)
-                time.sleep(wait)
-        raise ConnectionError(f"Failed after {self._max_retries} retries: {last_exc}")
+        return self._get(url)

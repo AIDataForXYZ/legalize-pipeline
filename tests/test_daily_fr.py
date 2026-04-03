@@ -731,3 +731,74 @@ class TestDailyIntegration:
         # The safety check should prevent the commit because
         # the new markdown (~200 bytes frontmatter) < 50% of 10000 bytes
         assert result == 0
+
+
+# ─────────────────────────────────────────────
+# Tests: safety cap (10-day lookback limit)
+# ─────────────────────────────────────────────
+
+
+class TestSafetyCap:
+    def test_clamps_old_start_date(self, tmp_path):
+        """resolve_dates_to_process clamps lookback to MAX_LOOKBACK_DAYS."""
+        from datetime import timedelta
+
+        from legalize.state.store import MAX_LOOKBACK_DAYS, StateStore, resolve_dates_to_process
+
+        repo_path = tmp_path / "repo"
+        repo_path.mkdir()
+        subprocess.run(["git", "init"], cwd=repo_path, capture_output=True)
+
+        state_path = tmp_path / "state.json"
+        state = StateStore(str(state_path))
+        state.load()
+        # Set last date to 60 days ago (well beyond the cap)
+        state.last_summary_date = date.today() - timedelta(days=60)
+        state.save()
+
+        dates = resolve_dates_to_process(state, str(repo_path), target_date=None)
+        assert dates is not None
+        # Should have at most MAX_LOOKBACK_DAYS + 1 dates (today included)
+        assert len(dates) <= MAX_LOOKBACK_DAYS + 1
+        # Earliest date should be within the cap
+        assert dates[0] >= date.today() - timedelta(days=MAX_LOOKBACK_DAYS)
+
+    def test_explicit_date_bypasses_cap(self, tmp_path):
+        """With --date, the cap does not apply."""
+        from datetime import timedelta
+
+        from legalize.state.store import StateStore, resolve_dates_to_process
+
+        state_path = tmp_path / "state.json"
+        state = StateStore(str(state_path))
+        state.load()
+
+        old_date = date.today() - timedelta(days=90)
+        dates = resolve_dates_to_process(state, str(tmp_path), target_date=old_date)
+        assert dates == [old_date]
+
+    def test_skip_weekdays(self, tmp_path):
+        """skip_weekdays filters out specified days."""
+        from datetime import timedelta
+
+        from legalize.state.store import StateStore, resolve_dates_to_process
+
+        repo_path = tmp_path / "repo"
+        repo_path.mkdir()
+        subprocess.run(["git", "init"], cwd=repo_path, capture_output=True)
+
+        state_path = tmp_path / "state.json"
+        state = StateStore(str(state_path))
+        state.load()
+        state.last_summary_date = date.today() - timedelta(days=8)
+        state.save()
+
+        dates = resolve_dates_to_process(
+            state,
+            str(repo_path),
+            target_date=None,
+            skip_weekdays={5, 6},
+        )
+        assert dates is not None
+        for d in dates:
+            assert d.weekday() not in (5, 6), f"{d} is a weekend day"

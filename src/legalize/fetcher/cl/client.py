@@ -8,12 +8,9 @@ Full text: https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}
 from __future__ import annotations
 
 import logging
-import time
 from typing import TYPE_CHECKING
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient
 
 if TYPE_CHECKING:
     from legalize.config import CountryConfig
@@ -24,15 +21,13 @@ TEXT_URL = "https://www.leychile.cl/Consulta/obtxml"
 SEARCH_URL = "https://nuevo.leychile.cl/servicios/Consulta/script/exportarBSimpleMetas"
 
 # CloudFront blocks default python-requests UA; use a browser-like one.
-USER_AGENT = "legalize-bot/1.0 (+https://github.com/legalize-dev/legalize)"
-# Fallback if the polite UA gets blocked:
 _BROWSER_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
 
-class BCNClient(LegislativeClient):
+class BCNClient(HttpClient):
     """HTTP client for the Chilean BCN Ley Chile API.
 
     Two main endpoints:
@@ -46,8 +41,8 @@ class BCNClient(LegislativeClient):
         return cls(
             base_url=source.get("base_url", "https://www.leychile.cl"),
             search_url=source.get("search_url", SEARCH_URL),
-            rate_delay=1.0 / source.get("requests_per_second", 1.0),
-            timeout=source.get("request_timeout", 30),
+            requests_per_second=source.get("requests_per_second", 1.0),
+            request_timeout=source.get("request_timeout", 30),
             max_retries=source.get("max_retries", 3),
         )
 
@@ -55,23 +50,19 @@ class BCNClient(LegislativeClient):
         self,
         base_url: str = "https://www.leychile.cl",
         search_url: str = SEARCH_URL,
-        rate_delay: float = 1.0,
-        timeout: int = 30,
+        requests_per_second: float = 1.0,
+        request_timeout: int = 30,
         max_retries: int = 3,
     ) -> None:
-        self._base_url = base_url.rstrip("/")
-        self._search_url = search_url
-        self._rate_delay = rate_delay
-        self._timeout = timeout
-        self._max_retries = max_retries
-        self._session = requests.Session()
-        # BCN CloudFront rejects bare python-requests UA with 401.
-        self._session.headers.update(
-            {
-                "User-Agent": _BROWSER_UA,
-                "Accept": "application/xml, text/xml, text/csv, */*",
-            }
+        super().__init__(
+            base_url=base_url,
+            user_agent=_BROWSER_UA,
+            request_timeout=request_timeout,
+            max_retries=max_retries,
+            requests_per_second=requests_per_second,
+            extra_headers={"Accept": "application/xml, text/xml, text/csv, */*"},
         )
+        self._search_url = search_url
 
     def get_text(self, norm_id: str) -> bytes:
         """Fetch full XML text for a norm by idNorma."""
@@ -107,31 +98,3 @@ class BCNClient(LegislativeClient):
             "seleccionado": "0",
         }
         return self._get(self._search_url, params=params)
-
-    def close(self) -> None:
-        self._session.close()
-
-    # ── Internal helpers ──
-
-    def _get(self, url: str, params: dict | None = None) -> bytes:
-        """GET with retry and rate limiting."""
-        last_exc: Exception | None = None
-        for attempt in range(1, self._max_retries + 1):
-            try:
-                r = self._session.get(url, params=params, timeout=self._timeout)
-                r.raise_for_status()
-                time.sleep(self._rate_delay)
-                return r.content
-            except requests.RequestException as exc:
-                last_exc = exc
-                if attempt < self._max_retries:
-                    wait = 2**attempt
-                    logger.warning(
-                        "Request failed (attempt %d/%d): %s — retrying in %ds",
-                        attempt,
-                        self._max_retries,
-                        exc,
-                        wait,
-                    )
-                    time.sleep(wait)
-        raise last_exc  # type: ignore[misc]

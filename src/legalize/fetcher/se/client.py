@@ -5,19 +5,15 @@ Fetches Swedish statutes (SFS) from:
   https://data.riksdagen.se/dokument/{dok_id}.json — full document
   https://rkrattsbaser.gov.se/sfsr?bet={SFS} — amendment register (SFSR)
 
-Rate limited to 100ms between requests with retry on 429/503.
+Rate limited to 10 req/s with retry on 429/503.
 """
 
 from __future__ import annotations
 
 import logging
-import threading
-import time
 from urllib.parse import quote
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient
 
 logger = logging.getLogger(__name__)
 
@@ -26,12 +22,11 @@ _RIKSDAGEN_DOC_URL = "https://data.riksdagen.se/dokument"
 _SFSR_URL = "https://rkrattsbaser.gov.se/sfsr"
 
 _USER_AGENT = "legalize-bot/1.0"
-_RATE_LIMIT_MS = 100  # Riksdagen has no strict rate limit (tested: 10 burst OK)
+_RATE_LIMIT_RPS = 10.0  # 100ms between requests
 _MAX_RETRIES = 3
-_BACKOFF_BASE = 2.0
 
 
-class SwedishClient(LegislativeClient):
+class SwedishClient(HttpClient):
     """Fetches Swedish legislation from the Riksdagen Open Data API.
 
     Two-step fetch for text:
@@ -47,15 +42,13 @@ class SwedishClient(LegislativeClient):
         return cls()
 
     def __init__(self) -> None:
-        self._session = requests.Session()
-        self._session.headers.update(
-            {
-                "User-Agent": _USER_AGENT,
-                "Accept": "application/json",
-            }
+        super().__init__(
+            user_agent=_USER_AGENT,
+            request_timeout=30,
+            max_retries=_MAX_RETRIES,
+            requests_per_second=_RATE_LIMIT_RPS,
+            extra_headers={"Accept": "application/json"},
         )
-        self._last_request_time: float = 0.0
-        self._rate_lock = threading.Lock()
 
     def get_text(self, norm_id: str) -> bytes:
         """Fetch the full document JSON for a Swedish statute.
@@ -102,11 +95,7 @@ class SwedishClient(LegislativeClient):
         """
         url = f"{_SFSR_URL}?bet={quote(norm_id)}"
         logger.info("Fetching SFSR amendment register: %s", url)
-        return self._get(url, accept="text/html")
-
-    def close(self) -> None:
-        """Close the HTTP session."""
-        self._session.close()
+        return self._get(url, headers={"Accept": "text/html"})
 
     # ── Internal helpers ──
 
@@ -149,56 +138,3 @@ class SwedishClient(LegislativeClient):
             dok_id,
         )
         return dok_id
-
-    def _get(self, url: str, accept: str | None = None) -> bytes:
-        """HTTP GET with rate limiting and retry on 429/503.
-
-        Args:
-            url: The URL to fetch.
-            accept: Optional Accept header override.
-
-        Returns:
-            Response body as bytes.
-
-        Raises:
-            requests.HTTPError: On non-retryable HTTP errors.
-        """
-        self._rate_limit()
-
-        headers = {}
-        if accept:
-            headers["Accept"] = accept
-
-        for attempt in range(_MAX_RETRIES):
-            response = self._session.get(url, headers=headers, timeout=30)
-
-            if response.status_code in (429, 503):
-                wait = _BACKOFF_BASE ** (attempt + 1)
-                logger.warning(
-                    "HTTP %d from %s, retrying in %.1fs (attempt %d/%d)",
-                    response.status_code,
-                    url,
-                    wait,
-                    attempt + 1,
-                    _MAX_RETRIES,
-                )
-                time.sleep(wait)
-                self._rate_limit()
-                continue
-
-            response.raise_for_status()
-            return response.content
-
-        # Final attempt failed
-        response.raise_for_status()
-        return response.content  # unreachable, but satisfies type checker
-
-    def _rate_limit(self) -> None:
-        """Enforce minimum delay between requests."""
-        with self._rate_lock:
-            now = time.monotonic()
-            elapsed_ms = (now - self._last_request_time) * 1000
-            if elapsed_ms < _RATE_LIMIT_MS:
-                sleep_s = (_RATE_LIMIT_MS - elapsed_ms) / 1000
-                time.sleep(sleep_s)
-            self._last_request_time = time.monotonic()

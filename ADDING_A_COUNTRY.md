@@ -295,9 +295,9 @@ The `norm_to_filepath()` function generates `{country}/{identifier}.md` automati
 Create `src/legalize/fetcher/{code}/daily.py` with a `daily()` function. The CLI dispatches to this file via dynamic import (`legalize.fetcher.{code}.daily`). Without it, `legalize daily -c {code}` will print "not yet implemented".
 
 ```python
-from datetime import date, timedelta
+from datetime import date
 from legalize.config import Config
-from legalize.state.store import StateStore
+from legalize.state.store import StateStore, resolve_dates_to_process
 
 def daily(
     config: Config,
@@ -313,17 +313,17 @@ def daily(
     state = StateStore(cc.state_path)
     state.load()
 
-    # Determine dates to process
-    if target_date:
-        dates_to_process = [target_date]
-    else:
-        start = state.last_summary_date
-        if start is None:
-            # Infer from git log Source-Date trailers or author date
-            ...
-        start = start + timedelta(days=1)
-        dates_to_process = [d for d in _daterange(start, date.today())
-                           if d.weekday() < 5]  # adapt to source's schedule
+    # Determine dates to process (includes safety cap + weekday filter)
+    dates_to_process = resolve_dates_to_process(
+        state, cc.repo_path, target_date,
+        skip_weekdays={6},  # adapt to source's schedule
+    )
+    if dates_to_process is None:
+        console.print("[yellow]No last date found. Use --date or run bootstrap.[/yellow]")
+        return 0
+    if not dates_to_process:
+        console.print("[green]Nothing to process — up to date[/green]")
+        return 0
 
     # For each date: discover → fetch → commit
     with MyClient.create(cc) as client:
@@ -350,6 +350,35 @@ The flow is always the same — the country-specific part is how you discover an
 - Update `state.last_summary_date` after each date
 - Handle `--dry-run` (print what would happen, don't commit)
 - Handle `config.git.push` (push to remote after commits)
+
+### Date resolution (centralized)
+
+Use `resolve_dates_to_process()` from `state/store.py` instead of writing the date logic by hand. It handles state inference, git fallback, the 10-day safety cap, and weekday filtering:
+
+```python
+from legalize.state.store import StateStore, resolve_dates_to_process
+
+state = StateStore(cc.state_path)
+state.load()
+
+dates_to_process = resolve_dates_to_process(
+    state, cc.repo_path, target_date,
+    skip_weekdays={6},  # skip Sunday (Mon-Sat schedule)
+)
+if dates_to_process is None:
+    console.print("[yellow]No last date found. Use --date or run bootstrap.[/yellow]")
+    return 0
+if not dates_to_process:
+    console.print("[green]Nothing to process — up to date[/green]")
+    return 0
+```
+
+The safety cap (10 days) prevents accidentally processing months of history when no `--date` is given (e.g., first CI run after setup, or after a long outage). Users can still process older dates explicitly with `--date`.
+
+Common `skip_weekdays` values:
+- `{6}` — Mon-Sat (ES, FR, CL)
+- `{5, 6}` — Mon-Fri (AT, PT)
+- `None` — all days (LT)
 
 ### Handling reforms (affected norms pattern)
 

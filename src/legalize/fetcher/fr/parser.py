@@ -452,6 +452,30 @@ def _parse_metadata_legi(xml_data: bytes, norm_id: str) -> NormMetadata:
 
     short_title = _short_title_fr(title)
 
+    # Extra fields: LEGI metadata not captured in core fields
+    extra: list[tuple[str, str]] = []
+
+    nor = _text_of(root, "NOR")
+    if nor:
+        extra.append(("nor", nor))
+
+    date_texte = _text_of(root, "DATE_TEXTE")
+    enactment_date = _parse_date_legi(date_texte)
+    if enactment_date:
+        extra.append(("enactment_date", enactment_date.isoformat()))
+
+    jorf = _text_of(root, "JORF")
+    if jorf:
+        extra.append(("jorf", jorf))
+
+    numero = _text_of(root, "NUM") or _text_of(root, "NUMERO")
+    if numero:
+        extra.append(("official_number", numero))
+
+    origine = _text_of(root, "ORIGINE_PUBLI")
+    if origine:
+        extra.append(("official_journal", origine))
+
     return NormMetadata(
         title=title,
         short_title=short_title,
@@ -463,6 +487,7 @@ def _parse_metadata_legi(xml_data: bytes, norm_id: str) -> NormMetadata:
         department=department,
         source=source_url,
         last_modified=modif_date,
+        extra=tuple(extra),
     )
 
 
@@ -476,12 +501,6 @@ class LEGITextParser(TextParser):
 
     def parse_text(self, data: bytes) -> list[Any]:
         return _parse_legi_combined(data)
-
-    def extract_reforms(self, data: bytes) -> list[Any]:
-        blocks = _parse_legi_combined(data)
-        from legalize.transformer.xml_parser import extract_reforms
-
-        return extract_reforms(blocks)
 
 
 class LEGIMetadataParser(MetadataParser):

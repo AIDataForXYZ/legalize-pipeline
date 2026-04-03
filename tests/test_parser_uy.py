@@ -301,7 +301,7 @@ class TestIMPOClientNotFound:
         mock_resp.content = b"<html><head><title>Ingreso - IMPO</title></head></html>"
         mock_resp.raise_for_status = MagicMock()
 
-        with patch.object(client._session, "get", return_value=mock_resp):
+        with patch.object(client._session, "request", return_value=mock_resp):
             result = client.get_text("leyes/99999-2025")
             assert result == b""
 
@@ -317,7 +317,7 @@ class TestIMPOClientNotFound:
         mock_resp.content = json_bytes
         mock_resp.raise_for_status = MagicMock()
 
-        with patch.object(client._session, "get", return_value=mock_resp):
+        with patch.object(client._session, "request", return_value=mock_resp):
             result = client.get_text("leyes/19996-2021")
             assert result == json_bytes
 

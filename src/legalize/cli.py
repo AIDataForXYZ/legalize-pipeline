@@ -346,14 +346,16 @@ def daily(
 
     parsed_date = date.fromisoformat(target_date) if target_date else None
 
+    # Country-specific daily.py takes priority (ES, FR have custom flows).
+    # Falls back to generic_daily for countries using the standard interfaces.
     try:
         module = __import__(f"legalize.fetcher.{country}.daily", fromlist=["daily"])
         run_daily = module.daily
+        run_daily(config, target_date=parsed_date, dry_run=dry_run)
     except (ImportError, AttributeError):
-        console.print(f"[yellow]Daily for '{country}' not yet implemented.[/yellow]")
-        return
+        from legalize.pipeline import generic_daily
 
-    run_daily(config, target_date=parsed_date, dry_run=dry_run)
+        generic_daily(config, country, target_date=parsed_date, dry_run=dry_run)
 
 
 # ─────────────────────────────────────────────

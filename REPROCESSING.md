@@ -89,20 +89,19 @@ git push origin main
 
 ## One-liner (unattended)
 
-After steps 1-3, run fetch + commit + push in sequence:
+After steps 1-3, run fetch + commit + catchup + push in sequence:
 
 ```bash
 cd ~/autonomo/legalize/engine && \
   legalize fetch -c {code} --catalog --force 2>&1 | tee fetch-{code}-reprocess.log && \
   legalize commit -c {code} --all 2>&1 | tee commit-{code}-reprocess.log && \
+  while legalize daily -c {code} 2>&1 | tee -a daily-{code}-catchup.log | grep -qv "Nothing to process"; do :; done && \
   cd ../countries/{code} && \
   cp /tmp/legalize-backup-{code}/README.md /tmp/legalize-backup-{code}/LICENSE /tmp/legalize-backup-{code}/.gitignore . && \
   git add README.md LICENSE .gitignore && \
   git commit -m "chore: add README, LICENSE, and .gitignore" && \
   git push origin main
 ```
-
-Prevent system sleep if leaving unattended.
 
 ## When to reprocess
 
@@ -114,6 +113,47 @@ Prevent system sleep if leaving unattended.
 | Commit message format changed | No | Yes |
 | Bug in fetcher/parser fixed | Yes | Yes |
 | New norms added to source | No (use `daily` instead) | No |
+
+## Step 7: Catch up to today
+
+The bootstrap processes data up to the dump/fetch date. Run the daily incrementally to cover the gap between that date and today.
+
+Set the state to the dump date (so the daily knows where to start), then loop until caught up:
+
+```bash
+cd ~/autonomo/legalize/engine
+
+# Set state to the dump/fetch date
+python3 -c "
+from legalize.state.store import StateStore
+from datetime import date
+import os
+cc_state = '../countries/data-{code}/state/state.json'
+os.makedirs(os.path.dirname(cc_state), exist_ok=True)
+state = StateStore(cc_state)
+state.load()
+state.last_summary_date = date(YYYY, M, D)  # dump/fetch date
+state.save()
+"
+
+# Run daily in a loop (safety cap = 10 days per iteration)
+while true; do
+  output=$(legalize daily -c {code} 2>&1)
+  echo "$output" | tail -3
+  if echo "$output" | grep -q "Nothing to process"; then
+    break
+  fi
+done
+```
+
+For France, the dump date is the Freemium tar.gz date. For API-based countries (ES, AT, SE), it's the date the fetch completed.
+
+## Step 8: Push final state
+
+```bash
+cd ../countries/{code}
+git push origin main
+```
 
 ## Verify
 

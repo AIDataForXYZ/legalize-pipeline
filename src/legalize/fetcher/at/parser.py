@@ -49,8 +49,15 @@ _SKIP_CT = frozenset(
         "gesnr",
         "doknr",
         "adoknr",
+        "langtitel",
+        "aenderung",
+        "anmerkung",
     }
 )
+
+# Standalone date paragraphs (DD.MM.YYYY) in the Norm header entry have ct=""
+# instead of ct="ikra"/"akra" — detect and skip them.
+_DATE_ONLY_RE = re.compile(r"^\d{1,2}\.\d{1,2}\.\d{4}$")
 
 
 def _parse_date(s: str) -> date | None:
@@ -66,7 +73,11 @@ def _parse_date(s: str) -> date | None:
 
 
 def _strip_html(s: str) -> str:
-    return re.sub(r"<[^>]+>", "", s).strip()
+    """Strip HTML tags and remove trailing publication reference (StF: BGBl...)."""
+    text = re.sub(r"<[^>]+>", "", s).strip()
+    # Titles often have "StF: BGBl. Nr. 43/1975" appended after a <br/> tag
+    text = re.sub(r"\s*StF:.*$", "", text).strip()
+    return text
 
 
 # Tags to skip entirely (headers, footers, layout artifacts from Word)
@@ -74,6 +85,132 @@ _SKIP_TAGS = {"kzinhalt", "fzinhalt", "layoutdaten", "feld"}
 
 # Absatz typ values that are page headers/footers (not content)
 _SKIP_TYP = {"kz", "fz"}
+
+# Metadata headings to filter out (compared case-insensitively)
+_SKIP_HEADINGS = frozenset(
+    h.lower()
+    for h in (
+        "Kurztitel",
+        "Kundmachungsorgan",
+        "Inkrafttretensdatum",
+        "Außerkrafttretensdatum",
+        "Text",
+        "Beachte",
+        "Schlagworte",
+        "§/Artikel/Anlage",
+        "Langtitel",
+        "Typ",
+        "Änderung",
+        "Index",
+        "Gesetzesnummer",
+        "Dokumentnummer",
+        "Alte Dokumentnummer",
+        "Zuletzt aktualisiert am",
+        "Anmerkung",
+    )
+)
+
+
+def _tag(el: ET.Element) -> str:
+    """Strip namespace prefix from an element tag."""
+    t = el.tag
+    return t.split("}")[-1] if "}" in t else t
+
+
+def _extract_text(el: ET.Element) -> str:
+    """Extract text from an element, preserving inline formatting as Markdown.
+
+    Handles: <i> → *italic*, <u> → _underline_, <super> → <sup>,
+    <gldsym>/<span>/<n> → passthrough, <nbsp> → space.
+    Skips: <feld>, <tab>, <abstand>, <layoutdaten>, <binary>, <src>.
+    """
+    parts: list[str] = []
+    if el.text:
+        parts.append(el.text)
+    for child in el:
+        ctag = _tag(child)
+        child_text = _extract_text(child)
+        if ctag == "i" and child_text:
+            parts.append(f"*{child_text}*")
+        elif ctag == "u" and child_text:
+            parts.append(f"_{child_text}_")
+        elif ctag == "super" and child_text:
+            parts.append(f"<sup>{child_text}</sup>")
+        elif ctag == "nbsp":
+            parts.append("\u00a0")
+        elif ctag in ("abstand", "feld", "layoutdaten", "tab", "binary", "src"):
+            pass
+        else:
+            # gldsym, span, n, symbol, and unknown tags: passthrough text
+            parts.append(child_text)
+        if child.tail:
+            parts.append(child.tail)
+    return "".join(parts)
+
+
+def _cell_text(td: ET.Element) -> str:
+    """Extract all visible text from a table cell as a single line."""
+    cell_parts: list[str] = []
+    for el in td.iter():
+        tag = _tag(el)
+        if tag == "absatz":
+            ct = el.get("ct", "")
+            if ct in _SKIP_CT:
+                continue
+            text = _extract_text(el).strip()
+            if text:
+                cell_parts.append(text)
+        elif tag == "listelem":
+            sym_el = el.find("{http://www.bka.gv.at}symbol")
+            if sym_el is None:
+                sym_el = el.find("symbol")
+            sym = (_extract_text(sym_el).strip() + " ") if sym_el is not None else ""
+            body_parts: list[str] = []
+            if el.text and el.text.strip():
+                body_parts.append(el.text.strip())
+            for child in el:
+                if _tag(child) != "symbol":
+                    body_parts.append(_extract_text(child).strip())
+                if child.tail and child.tail.strip():
+                    body_parts.append(child.tail.strip())
+            body = " ".join(p for p in body_parts if p)
+            if body:
+                cell_parts.append(f"{sym}{body}")
+        elif tag == "schlussteil":
+            text = _extract_text(el).strip()
+            if text:
+                cell_parts.append(text)
+    text = " ".join(cell_parts)
+    # Escape pipes for Markdown tables and collapse whitespace
+    return re.sub(r"\s+", " ", text).replace("|", "\\|").strip()
+
+
+def _table_to_markdown(table_el: ET.Element) -> str:
+    """Convert a <table> XML element to a Markdown pipe table."""
+    rows: list[list[str]] = []
+    for child in table_el:
+        if _tag(child) != "tr":
+            continue
+        cells = [_cell_text(td) for td in child if _tag(td) == "td"]
+        if cells:
+            rows.append(cells)
+
+    if not rows:
+        return ""
+
+    # Normalize column count
+    max_cols = max(len(row) for row in rows)
+    for row in rows:
+        while len(row) < max_cols:
+            row.append("")
+
+    lines = []
+    lines.append("| " + " | ".join(rows[0]) + " |")
+    lines.append("| " + " | ".join("---" for _ in range(max_cols)) + " |")
+    for row in rows[1:]:
+        lines.append("| " + " | ".join(row) + " |")
+
+    return "\n".join(lines)
 
 
 def _elem_to_paragraphs(nutzdaten: ET.Element) -> list[Paragraph]:
@@ -85,12 +222,26 @@ def _elem_to_paragraphs(nutzdaten: ET.Element) -> list[Paragraph]:
     - metadata preamble (ct in _SKIP_CT: kurztitel, kundmachungsorgan, etc.)
     - feld elements (Word merge fields like page numbers)
 
-    Keeps everything else: actual law text (ct="text" or no ct).
+    Preserves:
+    - Inline formatting: <i> → *italic*, <u> → _underline_, <super> → <sup>
+    - Tables: <table>/<tr>/<td> → Markdown pipe tables
+    - Lists: <listelem> with symbols
     """
     paragraphs: list[Paragraph] = []
 
+    # Collect elements inside <table> so we skip them in the main loop
+    table_descendants: set[int] = set()
+    for tbl in nutzdaten.iter():
+        if _tag(tbl) == "table":
+            for desc in tbl.iter():
+                table_descendants.add(id(desc))
+
     for el in nutzdaten.iter():
-        tag = el.tag.split("}")[-1] if "}" in el.tag else el.tag
+        tag = _tag(el)
+
+        # Skip descendants of table elements (handled when we hit <table>)
+        if id(el) in table_descendants and tag != "table":
+            continue
 
         # Skip header/footer/layout elements entirely
         if tag in _SKIP_TAGS:
@@ -107,48 +258,41 @@ def _elem_to_paragraphs(nutzdaten: ET.Element) -> list[Paragraph]:
         if typ in _SKIP_TYP:
             continue
 
-        if tag == "ueberschrift":
-            # Skip metadata headings (e.g., "Kurztitel", "Text", "Kundmachungsorgan")
-            text = "".join(el.itertext()).strip()
-            if text and text not in (
-                "Kurztitel",
-                "Kundmachungsorgan",
-                "Inkrafttretensdatum",
-                "Außerkrafttretensdatum",
-                "Text",
-                "Beachte",
-                "Schlagworte",
-                "§/Artikel/Anlage",
-                "Langtitel",
-                "Typ",
-                "Änderung",
-                "Index",
-                "Gesetzesnummer",
-                "Alte Dokumentnummer",
-            ):
+        if tag == "table":
+            md_table = _table_to_markdown(el)
+            if md_table:
+                paragraphs.append(Paragraph(css_class="table", text=md_table))
+
+        elif tag == "ueberschrift":
+            text = _extract_text(el).strip()
+            if text and text.lower() not in _SKIP_HEADINGS:
                 paragraphs.append(Paragraph(css_class=f"heading_{typ or 'g1'}", text=text))
 
         elif tag == "absatz":
-            text = "".join(el.itertext()).strip()
-            if text:
+            text = _extract_text(el).strip()
+            # Skip standalone date paragraphs (Norm header has ct="" for dates)
+            if text and not _DATE_ONLY_RE.match(text):
                 paragraphs.append(Paragraph(css_class=typ or "abs", text=text))
 
         elif tag == "listelem":
             sym_el = el.find("r:symbol", NS)
-            sym = ("".join(sym_el.itertext()).strip() + " ") if sym_el is not None else ""
+            sym = (_extract_text(sym_el).strip() + " ") if sym_el is not None else ""
             parts: list[str] = []
             if el.text and el.text.strip():
                 parts.append(el.text.strip())
             for child in el:
-                ctag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
-                if ctag != "symbol":
-                    parts.append("".join(child.itertext()).strip())
+                if _tag(child) != "symbol":
+                    t = _extract_text(child).strip()
+                    if t:
+                        parts.append(t)
+                if child.tail and child.tail.strip():
+                    parts.append(child.tail.strip())
             body = " ".join(p for p in parts if p)
             if body:
                 paragraphs.append(Paragraph(css_class="listelem", text=f"{sym}{body}"))
 
         elif tag == "schlussteil":
-            text = "".join(el.itertext()).strip()
+            text = _extract_text(el).strip()
             if text:
                 paragraphs.append(Paragraph(css_class="schlussteil", text=text))
 
@@ -293,6 +437,67 @@ class RISMetadataParser(MetadataParser):
         else:
             subjects = ()
 
+        # Collect keywords (Schlagworte) from all paragraph entries
+        keywords: set[str] = set()
+        for ref in refs:
+            if not isinstance(ref, dict):
+                continue
+            try:
+                sw = ref["Data"]["Metadaten"]["Bundesrecht"]["BrKons"].get("Schlagworte", "")
+            except (KeyError, TypeError):
+                continue
+            if sw:
+                for kw in sw.split(","):
+                    kw = kw.strip()
+                    if kw:
+                        keywords.add(kw)
+
+        # Build country-specific extra fields
+        extra: list[tuple[str, str]] = []
+
+        if kurztitel:
+            extra.append(("short_title", kurztitel))
+
+        stammnorm_organ = brkons.get("StammnormPublikationsorgan", "").strip()
+        stammnorm_nr = brkons.get("StammnormBgblnummer", "").strip()
+        if stammnorm_organ and stammnorm_nr:
+            extra.append(("official_journal", f"{stammnorm_organ} {stammnorm_nr}"))
+        if stammnorm_nr:
+            extra.append(("bgbl_number", stammnorm_nr))
+
+        if akra:
+            extra.append(("repeal_date", akra.isoformat()))
+
+        novellen_nr = brkons.get("NovellenBgblnummer", "").strip()
+        novellen_bez = brkons.get("NovellenBeziehung", "").strip()
+        if novellen_nr:
+            extra.append(("amendment_bgbl", novellen_nr))
+        if novellen_bez:
+            extra.append(("amendment_relation", novellen_bez))
+
+        aenderung = brkons.get("Aenderung", "").replace("\r\n", " ").replace("\n", " ").strip()
+        if aenderung:
+            extra.append(("amendment_note", aenderung))
+
+        anmerkung_raw = brkons.get("Anmerkung", "").replace("\r\n", " ").replace("\n", " ")
+        anmerkung = _strip_html(anmerkung_raw)
+        if anmerkung:
+            extra.append(("annotation", anmerkung))
+
+        if subjects:
+            extra.append(("subjects", "; ".join(subjects)))
+
+        if keywords:
+            extra.append(("keywords", "; ".join(sorted(keywords))))
+
+        consolidated_url = brkons.get("GesamteRechtsvorschriftUrl", "").strip()
+        if consolidated_url and consolidated_url != eli_url:
+            extra.append(("consolidated_url", consolidated_url))
+
+        gesetzesnummer = brkons.get("Gesetzesnummer", "").strip()
+        if gesetzesnummer:
+            extra.append(("gesetzesnummer", gesetzesnummer))
+
         return NormMetadata(
             title=titel,
             short_title=kurztitel,
@@ -306,4 +511,5 @@ class RISMetadataParser(MetadataParser):
             last_modified=geaendert,
             subjects=subjects,
             summary=bgbl,
+            extra=tuple(extra),
         )

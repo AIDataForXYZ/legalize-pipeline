@@ -15,12 +15,9 @@ import json
 import logging
 import re
 import sqlite3
-import time
 from pathlib import Path
 
-import requests
-
-from legalize.fetcher.base import LegislativeClient
+from legalize.fetcher.base import HttpClient, LegislativeClient
 
 logger = logging.getLogger(__name__)
 
@@ -39,10 +36,8 @@ _DOC_DETAIL_URL = (
     "/Conteudo_Detalhe/DataActionGetConteudoDataAndApplicationSettings"
 )
 
-_RATE_LIMIT_DELAY = 0.5  # seconds between requests
 
-
-class DREHttpClient(LegislativeClient):
+class DREHttpClient(HttpClient):
     """HTTP client for Portuguese legislation via diariodarepublica.pt.
 
     Uses the OutSystems internal API to fetch document lists and full text.
@@ -57,15 +52,10 @@ class DREHttpClient(LegislativeClient):
         return cls(timeout=timeout)
 
     def __init__(self, timeout: int = 30) -> None:
-        self._timeout = timeout
-        self._session = requests.Session()
-        self._session.headers.update(
-            {
-                "User-Agent": (
-                    "legalize-bot/1.0 (+https://github.com/legalize-dev/legalize-pipeline)"
-                ),
-                "Content-Type": "application/json; charset=UTF-8",
-            }
+        super().__init__(
+            request_timeout=timeout,
+            requests_per_second=2.0,
+            extra_headers={"Content-Type": "application/json; charset=UTF-8"},
         )
         self._csrf_token: str = ""
         self._module_version: str = ""
@@ -76,14 +66,13 @@ class DREHttpClient(LegislativeClient):
     def _init_session(self) -> None:
         """Initialize session: fetch CSRF token and module version."""
         # 1. Get CSRF token from OutSystems.js
-        r = self._session.get(_OUTSYSTEMS_JS_URL, timeout=self._timeout)
-        r.raise_for_status()
-        match = re.search(r'"X-CSRFToken","([^"]+)"', r.text)
+        resp = self._request("GET", _OUTSYSTEMS_JS_URL)
+        match = re.search(r'"X-CSRFToken","([^"]+)"', resp.text)
         if match:
             self._csrf_token = match.group(1)
         else:
             # Fallback: look for csrfTokenValue
-            match = re.search(r'csrfTokenValue\s*=\s*"([^"]+)"', r.text)
+            match = re.search(r'csrfTokenValue\s*=\s*"([^"]+)"', resp.text)
             if match:
                 self._csrf_token = match.group(1)
         logger.info(
@@ -91,9 +80,8 @@ class DREHttpClient(LegislativeClient):
         )
 
         # 2. Get module version
-        r = self._session.get(_MODULE_VERSION_URL, timeout=self._timeout)
-        r.raise_for_status()
-        version_data = r.json()
+        resp = self._request("GET", _MODULE_VERSION_URL)
+        version_data = resp.json()
         if isinstance(version_data, dict):
             self._module_version = version_data.get("versionToken", "")
             self._api_version = version_data.get("apiVersion", "")
@@ -125,10 +113,8 @@ class DREHttpClient(LegislativeClient):
         if self._api_version:
             payload["versionInfo"]["apiVersion"] = self._api_version
 
-        r = self._session.post(url, json=payload, headers=headers, timeout=self._timeout)
-        r.raise_for_status()
-        time.sleep(_RATE_LIMIT_DELAY)
-        return r.json()
+        resp = self._request("POST", url, json=payload, headers=headers)
+        return resp.json()
 
     def get_journals_by_date(self, date_str: str) -> list[dict]:
         """Get journal (Diario da Republica) entries for a date.
@@ -263,10 +249,6 @@ class DREHttpClient(LegislativeClient):
             "parte": detail.get("Parte", ""),
         }
         return json.dumps(meta, ensure_ascii=False).encode("utf-8")
-
-    def close(self) -> None:
-        """Close the HTTP session."""
-        self._session.close()
 
 
 # ─── SQLite client (for bootstrap) ───
