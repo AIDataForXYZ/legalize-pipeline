@@ -474,7 +474,7 @@ class TestCountryDispatch:
         assert isinstance(parser, MyTextParser)
 ```
 
-## Step 7: Test end-to-end
+## Step 7: Test end-to-end and tune parallelism
 
 ```bash
 # Fetch 5 laws to verify the client and discovery work
@@ -489,6 +489,38 @@ legalize bootstrap -c xx
 # Daily dry-run to verify daily processing
 legalize daily -c xx --date 2026-03-28 --dry-run
 ```
+
+### Tuning `max_workers` for the full bootstrap
+
+Before running a full bootstrap, test the source API's capacity to set the right
+`max_workers` in `config.yaml`. Each worker creates its own client with its own
+rate limiter, so `max_workers: 8` at `requests_per_second: 2.0` = 16 req/sec total.
+
+```bash
+# 1. Quick benchmark: fetch 50 laws with 1 worker, note the time
+time legalize fetch -c xx --all --limit 50
+
+# 2. Increase max_workers in config.yaml (try 4, then 8)
+# 3. Re-run the same 50 laws with --force to bypass cache
+time legalize fetch -c xx --all --limit 50 --force
+
+# 4. Check for errors — if the API returns 429 (rate limit) or
+#    connection errors, reduce max_workers or requests_per_second
+# 5. Estimate total time: (total_laws / laws_per_minute) / 60 = hours
+```
+
+Reference benchmarks from existing countries:
+
+| Country | Laws | API type | max_workers | req/sec | Fetch time |
+|---------|------|----------|-------------|---------|------------|
+| ES | 1,065 | REST (BOE) | 1 | 2 | ~2h |
+| FR | 83 | Local XML dump | 1 | N/A | ~5min |
+| DE | 5,729 | ZIP download | 1 | 2 | ~1h |
+| AT | 4,000+ | REST (RIS) | 8 | 2 | ~30min |
+| LT | 14,957 | REST (data.gov.lt) | 8 | 2 | ~1-2h |
+
+Government open data APIs typically handle 10-20 req/sec without issues.
+Commercial/rate-limited APIs may need `max_workers: 1`.
 
 ## Checklist
 
@@ -516,6 +548,7 @@ Different countries provide different levels of historical data:
 |----------|---------|-------------|
 | **Embedded versions** | Spain (BOE), France (LEGI) | Full text at every point in time. Best case. |
 | **Amendment register** | Sweden (SFSR) | Timeline of which sections changed when, but only current text. Dates are approximate (Jan 1 of the SFS year) — multiple reforms per year share the same date. |
+| **Historical snapshots table** | Lithuania (Suvestine) | Separate API table with full text at each historical date. Pipeline fetches each version individually. |
 | **Snapshots over time** | Germany (gesetze-im-internet) | Only current text. Build history by re-downloading periodically. |
 | **Point-in-time API** | UK (legislation.gov.uk) | Request any law at any date via URL parameter. |
 

@@ -76,7 +76,7 @@ countries:
   lt:
     repo_path: "../countries/lt"
     data_dir: "../countries/data-lt"
-    max_workers: 1
+    max_workers: 8
     source:
       api_url: "https://get.data.gov.lt"
       dataset: "datasets/gov/lrsk/teises_aktai/Dokumentas"
