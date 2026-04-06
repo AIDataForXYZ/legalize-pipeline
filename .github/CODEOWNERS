@@ -1,0 +1,2 @@
+# Require explicit approval for CI/CD workflow changes
+.github/workflows/ @EnriqueLop
