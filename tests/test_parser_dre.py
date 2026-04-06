@@ -412,13 +412,12 @@ class TestSlugPortugal:
 
 
 def _create_test_db(db_path: str) -> None:
-    """Create a minimal SQLite database matching the tretas.org schema."""
+    """Create a minimal SQLite database matching the tretas.org 2026 schema."""
     conn = sqlite3.connect(db_path)
     conn.execute(
         """
         CREATE TABLE dreapp_document (
             id INTEGER PRIMARY KEY,
-            claint INTEGER UNIQUE,
             doc_type TEXT,
             number TEXT,
             emiting_body TEXT,
@@ -429,7 +428,6 @@ def _create_test_db(db_path: str) -> None:
             series INTEGER,
             dr_number TEXT,
             dre_pdf TEXT,
-            dre_key TEXT,
             part TEXT DEFAULT 'L'
         )
         """
@@ -445,16 +443,13 @@ def _create_test_db(db_path: str) -> None:
         )
         """
     )
-    # Insert two sample documents using parameterized queries
-    # (newlines in text values break raw SQL literals)
     conn.execute(
         """INSERT INTO dreapp_document
-            (id, claint, doc_type, number, emiting_body, source, date,
-             notes, in_force, series, dr_number, dre_pdf, dre_key)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            (id, doc_type, number, emiting_body, source, date,
+             notes, in_force, series, dr_number, dre_pdf)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (
             1,
-            100001,
             "LEI",
             "50/2024",
             "ASSEMBLEIA DA REPÚBLICA",
@@ -465,7 +460,6 @@ def _create_test_db(db_path: str) -> None:
             1,
             "145",
             "https://files.dre.pt/example.pdf",
-            "",
         ),
     )
     conn.execute(
@@ -480,12 +474,11 @@ def _create_test_db(db_path: str) -> None:
     )
     conn.execute(
         """INSERT INTO dreapp_document
-            (id, claint, doc_type, number, emiting_body, source, date,
-             notes, in_force, series, dr_number, dre_pdf, dre_key)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            (id, doc_type, number, emiting_body, source, date,
+             notes, in_force, series, dr_number, dre_pdf)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (
             2,
-            100002,
             "DECRETO LEI",
             "10/2024",
             "TRABALHO",
@@ -495,7 +488,6 @@ def _create_test_db(db_path: str) -> None:
             1,
             1,
             "145",
-            "",
             "",
         ),
     )
@@ -516,7 +508,7 @@ class TestDREClient:
         from legalize.fetcher.pt.client import DREClient
 
         client = DREClient(db_path=db_path)
-        text = client.get_text("100001")
+        text = client.get_text("1")
         assert b"Artigo 1" in text
         assert b"regime" in text
         client.close()
@@ -527,7 +519,7 @@ class TestDREClient:
         from legalize.fetcher.pt.client import DREClient
 
         client = DREClient(db_path=db_path)
-        meta_bytes = client.get_metadata("100001")
+        meta_bytes = client.get_metadata("1")
         meta = json.loads(meta_bytes)
         assert meta["doc_type"] == "LEI"
         assert meta["number"] == "50/2024"
@@ -552,7 +544,7 @@ class TestDREClient:
         from legalize.fetcher.pt.client import DREClient
 
         with DREClient(db_path=db_path) as client:
-            text = client.get_text("100001")
+            text = client.get_text("1")
             assert len(text) > 0
 
 
@@ -569,8 +561,8 @@ class TestDREDiscovery:
             discovery = DREDiscovery()
             ids = list(discovery.discover_all(client))
             assert len(ids) == 2
-            assert "100001" in ids
-            assert "100002" in ids
+            assert "1" in ids
+            assert "2" in ids
 
     def test_discover_daily(self, tmp_path):
         db_path = str(tmp_path / "test.db")

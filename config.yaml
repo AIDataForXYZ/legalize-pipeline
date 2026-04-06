@@ -89,9 +89,9 @@ countries:
     data_dir: "../countries/data-pt"
     max_workers: 1
     source:
-      # Download SQLite dump from https://dre.tretas.org/about/
-      # Decompress: bunzip2 dre_tretas.db.bz2
-      db_path: ""  # e.g.: "../countries/data-pt/dre_tretas.db"
+      # Download SQLite dump from https://uploads.tretas.org/
+      # Decompress: bunzip2 YYYY-MM-DD-DRE.sqlite3.bz2
+      db_path: "../countries/data-pt/2026-03-01-DRE.sqlite3"
 
   uy:
     repo_path: "../countries/uy"

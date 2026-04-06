@@ -44,17 +44,16 @@ class DREDiscovery(NormDiscovery):
         return cls()
 
     def discover_all(self, client: LegislativeClient, **kwargs) -> Iterator[str]:
-        """Yield all claint IDs for Series I major legislative types.
+        """Yield all document IDs for Series I major legislative types.
 
         Filters to series=1 (main legislative acts) and major doc_types.
         Ordered by date ascending so bootstrap commits are chronological.
         """
         assert isinstance(client, DREClient)
         placeholders = ",".join("?" for _ in self._doc_types)
-        # Normalize doc_type comparison: strip and upper
         cursor = client._conn.execute(
             f"""
-            SELECT DISTINCT d.claint
+            SELECT DISTINCT d.id
             FROM dreapp_document d
             JOIN dreapp_documenttext dt ON dt.document_id = d.id
             WHERE d.series = 1
@@ -75,7 +74,7 @@ class DREDiscovery(NormDiscovery):
     def discover_daily(
         self, client: LegislativeClient, target_date: date, **kwargs
     ) -> Iterator[str]:
-        """Yield claint IDs for documents published on target_date.
+        """Yield document IDs for documents published on target_date.
 
         For daily updates with a fresh SQLite dump, this finds new documents.
         """
@@ -85,13 +84,13 @@ class DREDiscovery(NormDiscovery):
 
         cursor = client._conn.execute(
             f"""
-            SELECT DISTINCT d.claint
+            SELECT DISTINCT d.id
             FROM dreapp_document d
             JOIN dreapp_documenttext dt ON dt.document_id = d.id
             WHERE d.series = 1
               AND UPPER(TRIM(d.doc_type)) IN ({placeholders})
               AND d.date = ?
-            ORDER BY d.claint ASC
+            ORDER BY d.id ASC
             """,
             (*tuple(t.upper() for t in self._doc_types), date_str),
         )

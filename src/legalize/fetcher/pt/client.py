@@ -399,11 +399,11 @@ class DREHttpClient(HttpClient):
 class DREClient(LegislativeClient):
     """Client for Portuguese legislation via dre.tretas.org SQLite dump.
 
-    The tretas.org project publishes weekly SQLite exports (~1.4 GB bzip2)
-    containing all legislation from the Diario da Republica since 2011.
+    The tretas.org project publishes weekly SQLite exports (~12 GB decompressed)
+    containing all legislation from the Diario da Republica since 1911.
 
     Tables used:
-    - dreapp_document: metadata (claint, doc_type, number, date, etc.)
+    - dreapp_document: metadata (id, doc_type, number, date, etc.)
     - dreapp_documenttext: full HTML text (text field)
     """
 
@@ -414,14 +414,14 @@ class DREClient(LegislativeClient):
         Expects config.yaml:
             pt:
               source:
-                db_path: "/path/to/dre_tretas.db"  # SQLite dump
+                db_path: "/path/to/YYYY-MM-DD-DRE.sqlite3"
         """
         db_path = country_config.source.get("db_path", "")
         if not db_path:
             raise ValueError(
                 "Portugal requires source.db_path in config.yaml "
                 "pointing to the dre.tretas.org SQLite dump. "
-                "Download from https://dre.tretas.org/about/"
+                "Download from https://uploads.tretas.org/"
             )
         return cls(db_path=db_path)
 
@@ -436,8 +436,8 @@ class DREClient(LegislativeClient):
         self._conn.row_factory = sqlite3.Row
         logger.info("Opened DRE SQLite database: %s", self._db_path)
 
-    def get_text(self, claint: str) -> bytes:
-        """Fetch the HTML text for a document by its claint (dre.pt ID).
+    def get_text(self, norm_id: str) -> bytes:
+        """Fetch the HTML text for a document by its ID.
 
         Returns the raw HTML from dreapp_documenttext as UTF-8 bytes.
         """
@@ -445,38 +445,38 @@ class DREClient(LegislativeClient):
             """
             SELECT dt.text
             FROM dreapp_documenttext dt
-            JOIN dreapp_document d ON dt.document_id = d.id
-            WHERE d.claint = ?
+            WHERE dt.document_id = ?
             ORDER BY dt.id DESC
             LIMIT 1
             """,
-            (int(claint),),
+            (int(norm_id),),
         )
         row = cursor.fetchone()
         if not row or not row["text"]:
-            raise ValueError(f"No text found for claint={claint}")
+            raise ValueError(f"No text found for id={norm_id}")
         return row["text"].encode("utf-8")
 
-    def get_metadata(self, claint: str) -> bytes:
-        """Fetch metadata for a document by its claint.
+    def get_metadata(self, norm_id: str) -> bytes:
+        """Fetch metadata for a document by its ID.
 
         Returns a JSON dict with Document fields as UTF-8 bytes.
         """
         cursor = self._conn.execute(
             """
-            SELECT claint, doc_type, number, emiting_body, source, date,
-                   notes, in_force, series, dr_number, dre_pdf, dre_key
+            SELECT id, doc_type, number, emiting_body, source, date,
+                   notes, in_force, series, dr_number, dre_pdf
             FROM dreapp_document
-            WHERE claint = ?
+            WHERE id = ?
             """,
-            (int(claint),),
+            (int(norm_id),),
         )
         row = cursor.fetchone()
         if not row:
-            raise ValueError(f"No document found for claint={claint}")
+            raise ValueError(f"No document found for id={norm_id}")
 
         data = dict(row)
-        # SQLite returns date as string — keep it as-is for parser
+        # Alias 'id' as 'claint' for parser compatibility
+        data["claint"] = data["id"]
         return json.dumps(data, ensure_ascii=False).encode("utf-8")
 
     def close(self) -> None:
