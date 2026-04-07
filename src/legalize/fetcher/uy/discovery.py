@@ -12,9 +12,11 @@ a few candidates around that estimate.
 
 from __future__ import annotations
 
+import json
 import logging
 from collections.abc import Iterator
 from datetime import date
+from pathlib import Path
 
 from legalize.fetcher.base import LegislativeClient, NormDiscovery
 from legalize.fetcher.uy.client import IMPOClient
@@ -91,10 +93,16 @@ class IMPODiscovery(NormDiscovery):
         collections = source.get("collections", list(DEFAULT_COLLECTIONS))
         law_number_max = source.get("law_number_max", 20500)
         law_number_start = source.get("law_number_start", 9000)
+        catalog_path = source.get("catalog_path")
+        # generic_fetch_all injects the data dir as `cache_dir`; that's where
+        # `scripts/build_uy_catalog.py` writes the pre-built catalog by default.
+        if catalog_path is None and source.get("cache_dir"):
+            catalog_path = str(Path(source["cache_dir"]) / "catalog.json")
         return cls(
             collections=collections,
             law_number_max=law_number_max,
             law_number_start=law_number_start,
+            catalog_path=catalog_path,
         )
 
     def __init__(
@@ -102,6 +110,7 @@ class IMPODiscovery(NormDiscovery):
         collections: list[str] | None = None,
         law_number_max: int = 20500,
         law_number_start: int = 9000,
+        catalog_path: str | None = None,
     ) -> None:
         self._collections = collections or list(DEFAULT_COLLECTIONS)
         self._law_number_max = law_number_max
@@ -109,6 +118,10 @@ class IMPODiscovery(NormDiscovery):
         # waste hours of HTTP probes for almost no hits. Default start is
         # 9000 — the dense post-1935 range. Override via source.law_number_start.
         self._law_number_start = law_number_start
+        # If a pre-built catalog exists (created by
+        # `scripts/build_uy_catalog.py`), use it instead of probing IMPO
+        # one number at a time. The catalog is a JSON list of norm IDs.
+        self._catalog_path = catalog_path
 
     def discover_all(self, client: LegislativeClient, **kwargs) -> Iterator[str]:
         """Yield norm IDs for all collections.
@@ -167,7 +180,28 @@ class IMPODiscovery(NormDiscovery):
         for the next number. We remember it and try it before the
         landmark-based estimate, which collapses runs of consecutive
         laws to a single HTTP probe per number.
+
+        Fast path: if a pre-built catalog file is available (created by
+        `scripts/build_uy_catalog.py`), it is used directly with no HTTP
+        probing at all.
         """
+        if self._catalog_path and Path(self._catalog_path).exists():
+            try:
+                cached = json.loads(Path(self._catalog_path).read_text())
+                logger.info(
+                    "Loaded %d laws from catalog cache at %s",
+                    len(cached),
+                    self._catalog_path,
+                )
+                yield from cached
+                return
+            except (json.JSONDecodeError, OSError) as exc:
+                logger.warning(
+                    "Catalog at %s unreadable, falling back to probing: %s",
+                    self._catalog_path,
+                    exc,
+                )
+
         limit = kwargs.get("limit", self._law_number_max)
         start = kwargs.get("start", self._law_number_start)
         found = 0
