@@ -9,6 +9,18 @@ git:
   push: false
 
 countries:
+  ad:
+    repo_path: "../countries/ad"
+    data_dir: "../countries/data-ad"
+    cache_dir: ".cache"
+    max_workers: 1
+    source:
+      api_base: "https://bopaazurefunctions.azurewebsites.net/api"
+      blob_base: "https://bopadocuments.blob.core.windows.net/bopa-documents"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 4.0
+
   es:
     repo_path: "../countries/es"
     data_dir: "../countries/data-es"

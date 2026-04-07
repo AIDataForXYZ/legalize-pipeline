@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Content-Length: 116348
+Content-Type: text/html
+Content-MD5: krVSwirhAiLS50AunmUEQw==
+Last-Modified: Fri, 29 Dec 2023 13:20:35 GMT
+ETag: 0x8DC0870F0F54D40
+Vary: Origin
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: f1fecc59-901e-003f-3b61-c65b59000000
+x-ms-version: 2009-09-19
+x-ms-meta-NomDocument: 7586
+x-ms-meta-OrganismePare: 7c349fc1-1867-4599-8209-dd60db435574
+x-ms-meta-FileType: html
+x-ms-meta-Name: 1
+x-ms-meta-AnyButlleti: 1993
+x-ms-meta-Tema: 9d0ca8c1-bcea-4b7c-98dc-34707d518303
+x-ms-meta-NumButlleti: 24
+x-ms-meta-OrganismeOrder: 2
+x-ms-meta-Organisme: b795497a-f008-4bb5-8cc5-f7b3d447cfaf
+x-ms-meta-DataPublicacioButlleti: 1993-05-03T10:00:00
+x-ms-meta-DataFiPublicacio: 3000-01-01T01:00:00
+x-ms-meta-TemaPare: 9a86caff-2fcd-4e39-82ae-4ebdfbcef0c5
+x-ms-meta-IsExtra: True
+x-ms-meta-Sumari: Constituci%c3%b3 del Principat d%27Andorra%2c de 28-4-93.
+x-ms-meta-DataArticle: 1993-04-27T10:00:00
+x-ms-meta-OrganismeChildOrder: 9
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Date: Tue, 07 Apr 2026 07:40:32 GMT
+

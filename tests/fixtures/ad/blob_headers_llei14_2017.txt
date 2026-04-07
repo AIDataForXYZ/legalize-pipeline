@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Content-Length: 441322
+Content-Type: text/html
+Content-MD5: wM3RJ//BQYsgtOqf0Ytlxw==
+Last-Modified: Tue, 02 Jan 2024 13:52:12 GMT
+ETag: 0x8DC0B9A05591A35
+Vary: Origin
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 0af20691-301e-006b-1262-c6140e000000
+x-ms-version: 2009-09-19
+x-ms-meta-NomDocument: CGL20170712_09_31_30
+x-ms-meta-OrganismePare: 7c349fc1-1867-4599-8209-dd60db435574
+x-ms-meta-FileType: html
+x-ms-meta-Name: CGL20170712_09_31_30
+x-ms-meta-AnyButlleti: 2017
+x-ms-meta-Tema: 5dec2044-bc97-4d7c-be45-fbf8bcd9d6e6
+x-ms-meta-NumButlleti: 48
+x-ms-meta-OrganismeOrder: 2
+x-ms-meta-Organisme: 47bded20-8156-4a8d-8df5-99871b0d343f
+x-ms-meta-DataPublicacioButlleti: 2017-07-18T10:00:00
+x-ms-meta-DataFiPublicacio: 3000-01-01T01:00:00
+x-ms-meta-TemaPare: 609f29a1-c0de-40b7-9bc3-c750cdb159dd
+x-ms-meta-IsExtra: False
+x-ms-meta-Sumari: Llei 14%2f2017%2c del 22 de juny%2c de prevenci%c3%b3 i lluita contra el blanqueig de diners o valors i el finan%c3%a7ament del terrorisme.
+x-ms-meta-DataArticle: 2017-06-22T12:00:00
+x-ms-meta-OrganismeChildOrder: 1
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Date: Tue, 07 Apr 2026 07:43:35 GMT
+
