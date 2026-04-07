@@ -22,6 +22,30 @@ from legalize.committer.message import format_commit_message
 logger = logging.getLogger(__name__)
 
 
+# Env vars that the parent shell may have set to point at a different repo
+# (e.g. when the pipeline runs from inside a git pre-commit / pre-push hook).
+# We must strip them so subprocess git calls operate on ``cwd``, not on the
+# parent context. Otherwise sandbox repos created by tests inherit the
+# parent's hooks and trigger recursive pre-commit failures.
+_GIT_ENV_VARS_TO_STRIP = (
+    "GIT_DIR",
+    "GIT_INDEX_FILE",
+    "GIT_WORK_TREE",
+    "GIT_OBJECT_DIRECTORY",
+    "GIT_COMMON_DIR",
+)
+
+
+def _clean_git_env(extra: dict | None = None) -> dict:
+    """Build a subprocess env dict that ignores inherited git context."""
+    env = os.environ.copy()
+    for var in _GIT_ENV_VARS_TO_STRIP:
+        env.pop(var, None)
+    if extra:
+        env.update(extra)
+    return env
+
+
 class GitRepo:
     """Manages a Git repository for the legislation output."""
 
@@ -31,10 +55,13 @@ class GitRepo:
         self._committer_email = committer_email
 
     def _run(self, args: list[str], env: dict | None = None, check: bool = True) -> str:
-        """Runs a git command and returns stdout."""
-        full_env = os.environ.copy()
-        if env:
-            full_env.update(env)
+        """Runs a git command and returns stdout.
+
+        Uses :func:`_clean_git_env` to strip any inherited GIT_DIR /
+        GIT_INDEX_FILE / GIT_WORK_TREE so the subprocess operates on
+        ``cwd=self._path``. See module docstring for context.
+        """
+        full_env = _clean_git_env(env)
 
         result = subprocess.run(
             ["git"] + args,
@@ -223,6 +250,7 @@ class FastImporter:
             stdin=subprocess.PIPE,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
+            env=_clean_git_env(),
         )
         return self
 
@@ -310,23 +338,27 @@ class FastImporter:
         self._path.mkdir(parents=True, exist_ok=True)
         git_dir = self._path / ".git"
         if not git_dir.exists():
+            env = _clean_git_env()
             subprocess.run(
                 ["git", "init"],
                 cwd=self._path,
                 capture_output=True,
                 check=True,
+                env=env,
             )
             subprocess.run(
                 ["git", "config", "user.name", self._committer_name],
                 cwd=self._path,
                 capture_output=True,
                 check=True,
+                env=env,
             )
             subprocess.run(
                 ["git", "config", "user.email", self._committer_email],
                 cwd=self._path,
                 capture_output=True,
                 check=True,
+                env=env,
             )
 
     def _checkout(self) -> None:
@@ -336,4 +368,5 @@ class FastImporter:
             cwd=self._path,
             capture_output=True,
             check=True,
+            env=_clean_git_env(),
         )

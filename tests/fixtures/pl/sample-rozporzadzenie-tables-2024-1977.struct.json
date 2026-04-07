@@ -1,0 +1,23 @@
+[
+
+            { 
+                "id" : "part_1",
+                "title" : "Treść rozporządzenia",
+                "type": "part",
+                "symbol" : "part_1",
+                "children" : [
+                    {"id": "para_1","symbol": "para_1","type": "para","name": "1","title": "§ 1."},{"id": "para_2","symbol": "para_2","type": "para","name": "2","title": "§ 2."}
+                ]
+            }
+        ,
+
+            { 
+                "id" : "part_2",
+                "title" : "Załącznik - Tekst załącznika",
+                "type": "part",
+                "symbol" : "part_2",
+                "children" : [
+                    
+                ]
+            }
+        ]

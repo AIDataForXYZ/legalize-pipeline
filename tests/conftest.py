@@ -3,11 +3,30 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 import pytest
 
 FIXTURES_DIR = Path(__file__).parent / "fixtures"
+
+
+# Tests create sandbox git repositories under ``tmp_path`` and shell out
+# to ``git`` via subprocess. When the test suite runs from inside another
+# git command's context (e.g. a pre-commit / pre-push hook), git's wrapper
+# variables (GIT_DIR, GIT_INDEX_FILE, GIT_WORK_TREE) are set in the parent
+# environment and would be inherited by every subprocess, making the
+# sandbox commits operate on the parent repo instead — which then triggers
+# the parent's pre-commit hook recursively. Strip them once at module load
+# so every test sees a clean git environment.
+for _var in (
+    "GIT_DIR",
+    "GIT_INDEX_FILE",
+    "GIT_WORK_TREE",
+    "GIT_OBJECT_DIRECTORY",
+    "GIT_COMMON_DIR",
+):
+    os.environ.pop(_var, None)
 
 
 @pytest.fixture

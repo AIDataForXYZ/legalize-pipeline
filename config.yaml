@@ -87,12 +87,17 @@ countries:
   cl:
     repo_path: "../countries/cl"
     data_dir: "../countries/data-cl"
-    max_workers: 1
+    # BCN's obtxml endpoint returns 429 above ~4 req/s sustained — measured
+    # 2026-04-07. The search endpoint tolerated more, but per-norm fetches
+    # are the bulk of the work, so we cap at 2 workers x 1 req/s = ~2 req/s
+    # effective. Conservative but reliable; full bootstrap of ~6.4k norms
+    # takes ~1h.
+    max_workers: 2
     source:
       base_url: "https://www.leychile.cl"
       search_url: "https://nuevo.leychile.cl/servicios/Consulta/script/exportarBSimpleMetas"
       request_timeout: 30
-      max_retries: 3
+      max_retries: 5
       requests_per_second: 1.0
       ranks:
         - "Ley"
@@ -128,10 +133,14 @@ countries:
   uy:
     repo_path: "../countries/uy"
     data_dir: "../countries/data-uy"
-    max_workers: 1
+    max_workers: 8
     source:
+      # IMPO has no documented rate limit. Benchmarked 2026-04-07:
+      # 1 worker × 1 req/s → ~5.3 sec/norm wall time (HTTP latency dominates).
+      # 8 workers × 2 req/s → ~3.5x speedup → ~1.5 sec/norm.
+      # Full ~20K leyes ≈ 4-5h (fetch only; discovery adds another ~2h).
       base_url: "https://www.impo.com.uy"
-      requests_per_second: 1.0
+      requests_per_second: 2.0
       request_timeout: 30
       max_retries: 3
       collections:
@@ -153,3 +162,31 @@ countries:
       request_timeout: 30
       max_retries: 5
       requests_per_second: 2.0
+
+  pl:
+    repo_path: "../countries/pl"
+    data_dir: "../countries/data-pl"
+    cache_dir: ".cache"
+    max_workers: 8
+    source:
+      # ELI API of the Polish Sejm — public, no auth.
+      # See RESEARCH-POLAND.md for the full inventory.
+      # Scope v1: DU publisher only, HTML-only client-side filter.
+      # The API's WAF rejects unknown query parameters, so `html_only` is
+      # enforced by the discovery layer, not by the URL.
+      #
+      # Benchmark 2026-04-07 (50 DU acts, metadata + text, 8 workers):
+      #    4 req/s → 0.51 s/act → ~8.5 h for 60K acts
+      #    8 req/s → 0.26 s/act → ~4.3 h for 60K acts
+      #   12 req/s → 0.19 s/act → ~3.2 h for 60K acts
+      # Zero 429/5xx at every rate. Settled on 8 req/s as a polite default.
+      #
+      # year_start=2000: HTML coverage is ~100% from ~2012, ~5-50% in 2000-2011,
+      # and ~0% before 2000. Iterating 1918-1999 just wastes discovery requests.
+      base_url: "https://api.sejm.gov.pl/eli"
+      publisher: "DU"
+      year_start: 2000
+      html_only: true
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 8.0

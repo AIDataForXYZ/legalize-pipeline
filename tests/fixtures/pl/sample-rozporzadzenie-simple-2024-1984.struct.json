@@ -1,0 +1,12 @@
+[
+
+            { 
+                "id" : "part_1",
+                "title" : "Treść rozporządzenia",
+                "type": "part",
+                "symbol" : "part_1",
+                "children" : [
+                    {"id": "para_1","symbol": "para_1","type": "para","name": "1","title": "§ 1.","children": [{"id": "para_1-pint_1","symbol": "pint_1","type": "pint","name": "1","title": "1)","children": [{"id": "para_1-pint_1-lett_a","symbol": "lett_a","type": "lett","name": "a","title": "a)"},{"id": "para_1-pint_1-lett_b","symbol": "lett_b","type": "lett","name": "b","title": "b)"}]},{"id": "para_1-pint_2","symbol": "pint_2","type": "pint","name": "2","title": "2)","children": [{"id": "para_1-pint_2-lett_a","symbol": "lett_a","type": "lett","name": "a","title": "a)"},{"id": "para_1-pint_2-lett_b","symbol": "lett_b","type": "lett","name": "b","title": "b)"}]}]},{"id": "para_2","symbol": "para_2","type": "para","name": "2","title": "§ 2."}
+                ]
+            }
+        ]
