@@ -1,0 +1,434 @@
+{  "tipoNorma" : "Ley" 
+  ,"nroNorma" : "18331" 
+  ,"anioNorma" : 2008 
+  ,"nombreNorma" : "LEY DE PROTECCION DE DATOS PERSONALES" 
+  ,"leyenda" : " Documento Actualizado " 
+    ,"urlVerImagen" : "/diariooficial/2008/08/18/5" 
+    ,"fechaPromulgacion" : "11/08/2008" 
+  ,"fechaPublicacion" : "18/08/2008" 
+ ,"RNLD" : {  
+  "tomo" : "1" 
+  ,"semestre" : 2 
+  ,"anio" : 2008 
+  ,"pagina" : 378 
+  } 
+  ,"referenciasNorma" : " <b>Reglamentada por:</b> Decreto <a class=\"linkFicha\" href=\"/bases/decretos/414-2009\" >Nº 414/009</a> de 31/08/2009.\r\n<b>Ver:</b> Ley Nº 19.438 de 14/10/2016 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19438-2016/189\" >189</a> (declara que se exceptua a \r\nUTE, ANTEL y OSE, de las limitaciones para brindar información a los \r\nGobiernos Departamentales).\r\n " 
+  ,"urlReferenciasTodaLaNorma" : "/bases/leyes/18331-2008?verreferencias=norma" 
+  ,"vistos" : "  " 
+  ,"articulos" : [  
+  { "nroArticulo" : "1" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO I - DISPOSICIONES GENERALES<br> " 
+  ,"tituloArticulo" : "Artículo 1" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/1" 
+ ,"textoArticulo" : "  Derecho Humano.- El derecho a la protección de datos personales es\r\ninherente a la persona humana, por lo que está comprendido en el artículo\r\n72 de la Constitución de la República.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/1?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "2" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 2" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/2" 
+ ,"textoArticulo" : "  Ambito subjetivo.- El derecho a la protección de los datos personales se\r\naplicará por extensión a las personas jurídicas, en cuanto corresponda.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/2?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "3" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 3" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/3" 
+ ,"textoArticulo" : "  Ambito objetivo.- El régimen de la presente ley será de aplicación a los\r\ndatos personales registrados en cualquier soporte que los haga\r\nsusceptibles de tratamiento, y a toda modalidad de uso posterior de estos\r\ndatos por los ámbitos público o privado.\r\nNo será de aplicación a las siguientes bases de datos:\r\nA) A las mantenidas por personas físicas en el ejercicio de\r\n   actividades exclusivamente personales o domésticas.\r\nB) Las que tengan por objeto la seguridad pública, la defensa, la\r\n   seguridad del Estado y sus actividades en materia penal, investigación\r\n   y represión del delito.\r\nC) A las bases de datos creadas y reguladas por leyes especiales.\r\n " 
+  ,"notasArticulo" : "Literal C) <b>reglamentado por:</b> Decreto <a class=\"linkFicha\" href=\"/bases/decretos/437-2009\" >Nº 437/009</a> de 28/09/2009.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/3?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "4" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 4" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/4" 
+ ,"textoArticulo" : "  Definiciones.- A los efectos de la presente ley se entiende por:\r\nA) Base de datos: indistintamente, designan al conjunto organizado de\r\n   datos personales que sean objeto de tratamiento o procesamiento,\r\n   electrónico o no, cualquiera que fuere la modalidad de su formación,\r\n   almacenamiento, organización o acceso.\r\nB) Comunicación de datos: toda revelación de datos realizada a una\r\n   persona distinta del titular de los datos.\r\nC) Consentimiento del titular: toda manifestación de voluntad, libre,\r\n   inequívoca, específica e informada, mediante la cual el titular\r\n   consienta el tratamiento de datos personales que le concierne.\r\nD) Dato personal: información de cualquier tipo referida a personas\r\n   físicas o jurídicas determinadas o determinables.\r\nE) Dato sensible: datos personales que revelen origen racial y étnico,\r\n   preferencias políticas, convicciones religiosas o morales, afiliación\r\n   sindical e informaciones referentes a la salud o a la vida sexual.\r\nF) Destinatario: persona física o jurídica, pública o privada, que\r\n   recibiere comunicación de datos, se trate o no de un tercero.\r\nG) Disociación de datos: todo tratamiento de datos personales de\r\n   manera que la información obtenida no pueda vincularse a persona\r\n   determinada o determinable.\r\nH) Encargado del tratamiento: persona física o jurídica, pública o\r\n   privada, que sola o en conjunto con otros trate datos personales por\r\n   cuenta del responsable de la base de datos o del tratamiento.\r\nI) Fuentes accesibles al público: aquellas bases de datos cuya\r\n   consulta puede ser realizada por cualquier persona, no impedida por una\r\n   norma limitativa o sin más exigencia que, en su caso, el abono de una\r\n   contraprestación.\r\nJ) Tercero: la persona física o jurídica, pública o privada, distinta\r\n   del titular del dato, del responsable de la base de datos o\r\n   tratamiento, del encargado y de las personas autorizadas para tratar\r\n   los datos bajo la autoridad directa del responsable o del encargado del\r\n   tratamiento.\r\nK) Responsable de la base de datos o del tratamiento: persona física o\r\n   jurídica, pública o privada, propietaria de la base de datos o que\r\n   decida sobre la finalidad, contenido y uso del tratamiento.\r\nL) Titular de los datos: persona cuyos datos sean objeto de un\r\n   tratamiento incluido dentro del ámbito de acción de la presente ley.\r\nM) Tratamiento de datos: operaciones y procedimientos sistemáticos, de\r\n   carácter automatizado o no, que permitan el procesamiento de datos\r\n   personales, así como también su cesión a terceros a través de\r\n   comunicaciones, consultas, interconexiones o transferencias.\r\nN) Usuario de datos: toda persona, pública o privada, que realice a su\r\n   arbitrio el tratamiento de datos, ya sea en una base de datos propia o\r\n   a través de conexión con los mismos.\r\nÑ) Datos biométricos: datos personales obtenidos a partir de un\r\n   tratamiento técnico específico, relativos a las características\r\n   físicas, fisiológicas o conductuales de una persona física que\r\n   permitan o confirmen la identificación única de dicha persona tales\r\n   como datos dactiloscópicos, reconocimiento de imagen o voz. (*)\r\n\r\n " 
+  ,"notasArticulo" : "Literal Ñ) <b><font color=\"#FF0000\">ver vigencia:</font></b> Ley Nº 19.924 de 18/12/2020 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19924-2020/3\" >3</a>.\r\nLiteral Ñ) <b><font color=\"#0000FF\">agregado/s por:</font></b> Ley Nº 19.924 de 18/12/2020 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19924-2020/86\" >86</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/4?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "5" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO II - PRINCIPIOS GENERALES<br> " 
+  ,"tituloArticulo" : "Artículo 5" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/5" 
+ ,"textoArticulo" : "  Valor y fuerza.- La actuación de los responsables de las bases de datos,\r\ntanto públicos como privados, y, en general, de todos quienes actúen en\r\nrelación a datos personales de terceros, deberá ajustarse a los siguientes\r\nprincipios generales:\r\nA)     Legalidad.\r\nB)     Veracidad.\r\nC)     Finalidad.\r\nD)     Previo consentimiento informado.\r\nE)     Seguridad de los datos.\r\nF)     Reserva.\r\nG)     Responsabilidad.\r\nDichos principios generales servirán también de criterio interpretativo\r\npara resolver las cuestiones que puedan suscitarse en la aplicación de las\r\ndisposiciones pertinentes.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/5?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "6" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 6" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/6" 
+ ,"textoArticulo" : "  Principio de legalidad.- La formación de bases de datos será lícita\r\ncuando se encuentren debidamente inscriptas, observando en su operación\r\nlos principios que establecen la presente ley y las reglamentaciones que\r\nse dicten en consecuencia.\r\nLas bases de datos no pueden tener finalidades violatorias de derechos\r\nhumanos o contrarias a las leyes o a la moral pública.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/6?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "7" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 7" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/7" 
+ ,"textoArticulo" : "  Principio de veracidad.- Los datos personales que se recogieren a los\r\nefectos de su tratamiento deberán ser veraces, adecuados, ecuánimes y no\r\nexcesivos en relación con la finalidad para la cual se hubieren obtenido.\r\nLa recolección de datos no podrá hacerse por medios desleales,\r\nfraudulentos, abusivos, extorsivos o en forma contraria a las\r\ndisposiciones a la presente ley.\r\nLos datos deberán ser exactos y actualizarse en el caso en que ello fuere\r\nnecesario.\r\nCuando se constate la inexactitud o falsedad de los datos, el responsable\r\ndel tratamiento, en cuanto tenga conocimiento de dichas circunstancias,\r\ndeberá suprimirlos, sustituirlos o completarlos por datos exactos, veraces\r\ny actualizados. Asimismo, deberán ser eliminados aquellos datos que hayan\r\ncaducado de acuerdo a lo previsto en la presente ley.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/7?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "8" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 8" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/8" 
+ ,"textoArticulo" : "  Principio de finalidad.- Los datos objeto de tratamiento no podrán ser\r\nutilizados para finalidades distintas o incompatibles con aquellas que\r\nmotivaron su obtención.\r\nLos datos deberán ser eliminados cuando hayan dejado de ser necesarios o\r\npertinentes a los fines para los cuales hubieren sido recolectados.\r\nLa reglamentación determinará los casos y procedimientos en los que, por\r\nexcepción, y atendidos los valores históricos, estadísticos o científicos,\r\ny de acuerdo con la legislación específica, se conserven datos personales\r\naún cuando haya perimido tal necesidad o pertinencia.\r\nTampoco podrán comunicarse datos entre bases de datos, sin que medie ley o\r\nprevio consentimiento informado del titular.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/8?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "9" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 9" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/9" 
+ ,"textoArticulo" : "  Principio del previo consentimiento informado.- El tratamiento de datos\r\npersonales es lícito cuando el titular hubiere prestado su consentimiento\r\nlibre, previo, expreso e informado, el que deberá documentarse.\r\n El referido consentimiento prestado con otras declaraciones, deberá figurar en forma expresa y destacada, previa notificación al requerido de datos, de la información descrita en el artículo 13 de la presente\r\nley. (*)\r\n No será necesario el previo consentimiento cuando:\r\nA) Los datos provengan de fuentes públicas de información, tales como\r\n   registros o publicaciones en medios masivos de comunicación.\r\nB) Se recaben para el ejercicio de funciones propias de los poderes\r\n   del Estado o en virtud de una obligación legal.\r\nC) Se trate de listados cuyos datos se limiten en el caso de personas\r\n   físicas a nombres y apellidos, documento de identidad, nacionalidad,\r\n   domicilio y fecha de nacimiento. En el caso de personas jurídicas,\r\n   razón social, nombre de fantasía, registro único de contribuyentes,\r\n   domicilio, teléfono e identidad de las personas a cargo de la misma.\r\nD) Deriven de una relación contractual, científica o profesional del\r\n   titular de los datos, y sean necesarios para su desarrollo o\r\n   cumplimiento.\r\nE) Se realice por personas físicas para su uso exclusivo personal,\r\n   individual o doméstico. (*)\r\n " 
+  ,"notasArticulo" : "Inciso 2º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\nInciso 3º) literal E) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 \r\nartículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/156\" >156</a>.\r\n<b>Ver en esta norma, artículos:</b> <a class=\"linkFicha\" href=\"/bases/leyes/18331-2008/17\" >17</a> y <a class=\"linkFicha\" href=\"/bases/leyes/18331-2008/18_BIS\" >18 - BIS</a>.\r\n<b>Ver:</b> Ley Nº 19.355 de 19/12/2015 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19355-2015/84\" >84</a> (interpretativo).\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/9\" >9</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/9?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "9" 
+   ,"secArticulo" : "BIS" 
+  ,"tituloArticulo" : "Artículo 9-BIS" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/9_BIS" 
+ ,"textoArticulo" : "    A los efectos de lo dispuesto por el literal I) del artículo 4°, por\r\nel literal A) del inciso tercero del artículo 9° y por los artículos 11,\r\n21 y 22 de la presente ley, se consideran como públicas o accesibles al\r\npúblico, las siguientes fuentes o documentos:\r\n    A) El Diario Oficial y las publicaciones oficiales, cualquiera sea su\r\n       soporte de registro o canal de comunicación.\r\n    B) Las publicaciones en medios masivos de comunicación, entendiendo\r\n       por tales los provenientes de la prensa, cualquiera sea el soporte\r\n       en el que figuren o el canal a través del cual se practique la\r\n       comunicación.\r\n    C) Las guías, anuarios, directorios y similares en los que figuren\r\n       nombres y domicilios, u otros datos personales que hayan sido\r\n       incluidos con el consentimiento del titular.\r\n    D) Todo otro registro o publicación en el que prevalezca el interés\r\n       general en cuanto a que los datos personales en ellos contenidos\r\n       puedan ser consultados, difundidos o utilizados por parte de\r\n       terceros. En caso contrario, se podrá hacer uso del registro o\r\n       publicación mediante técnicas de disociación u ocultamiento de los\r\n       datos personales.\r\n  La Unidad Reguladora de Control de Datos Personales, de oficio o a\r\nsolicitud de cualquier interesado, se expedirá sobre el derecho a la protección de datos personales, en situaciones relacionadas con los apartados precedentes literales A) y B) del inciso primero del artículo 34 de la presente ley. (*) " 
+  ,"notasArticulo" : "<b><font color=\"#FF0000\">Ver vigencia:</font></b> Ley Nº 18.996 de 07/11/2012 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18996-2012/2\" >2</a>.\r\n<b><font color=\"#0000FF\">Agregado/s por:</font></b> Ley Nº 18.996 de 07/11/2012 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18996-2012/43\" >43</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "10" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 10" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/10" 
+ ,"textoArticulo" : "  Principio de seguridad de los datos.- El responsable o usuario de la base\r\nde datos debe adoptar las medidas que resultaren necesarias para\r\ngarantizar la seguridad y confidencialidad de los datos personales. Dichas\r\nmedidas tendrán por objeto evitar su adulteración, pérdida, consulta o\r\ntratamiento no autorizado, así como detectar desviaciones de información,\r\nintencionales o no, ya sea que los riesgos provengan de la acción humana o\r\ndel medio técnico utilizado.\r\nLos datos deberán ser almacenados de modo que permitan el ejercicio del\r\nderecho de acceso de su titular.\r\nQueda prohibido registrar datos personales en bases de datos que no reúnan\r\ncondiciones técnicas de integridad y seguridad.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/10?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "11" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 11" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/11" 
+ ,"textoArticulo" : "  Principio de reserva.- Aquellas personas físicas o jurídicas que\r\nobtuvieren legítimamente información proveniente de una base de datos que\r\nles brinde tratamiento, están obligadas a utilizarla en forma reservada y\r\nexclusivamente para las operaciones habituales de su giro o actividad,\r\nestando prohibida toda difusión de la misma a terceros.\r\nLas personas que, por su situación laboral u otra forma de relación con el\r\nresponsable de una base de datos, tuvieren acceso o intervengan en\r\ncualquier fase del tratamiento de datos personales, están obligadas a\r\nguardar estricto secreto profesional sobre los mismos (artículo 302 del\r\nCódigo Penal), cuando hayan sido recogidos de fuentes no accesibles al\r\npúblico. Lo previsto no será de aplicación en los casos de orden de la\r\nJusticia competente, de acuerdo con las normas vigentes en esta materia o\r\nsi mediare consentimiento del titular.\r\nEsta obligación subsistirá aún después de finalizada la relación con el\r\nresponsable de la base de datos.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/11?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "12" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 12" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/12" 
+ ,"textoArticulo" : "    (Principio de responsabilidad).- El responsable de la base de datos o tratamiento y el encargado, en su caso, serán responsables de la violación\r\nde las disposiciones de la presente ley.\r\n\r\n   En ejercicio de una responsabilidad proactiva, deberán adoptar las\r\nmedidas técnicas y organizativas apropiadas: privacidad desde el diseño,\r\nprivacidad por defecto, evaluación de impacto a la protección de datos,\r\nentre otras, a fin de garantizar un tratamiento adecuado de los datos\r\npersonales y demostrar su efectiva implementación.\r\n\r\n   La reglamentación determinará las medidas que correspondan según los\r\ntipos de datos, tratamientos y responsables, así como la oportunidad para\r\nsu revisión y actualización. (*)\r\n " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Redacción dada por:</font></b> Ley Nº 19.670 de 15/10/2018 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19670-2018/39\" >39</a>.\r\n<b><font color=\"#FF0000\">Ver vigencia:</font></b> Ley Nº 19.670 de 15/10/2018 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19670-2018/2\" >2</a>.\r\n<b>Reglamentado por:</b> Decreto <a class=\"linkFicha\" href=\"/bases/decretos/64-2020\" >Nº 64/020</a> de 17/02/2020.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/12\" >12</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/12?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "13" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO III - DERECHOS DE LOS TITULARES DE LOS DATOS<br> " 
+  ,"tituloArticulo" : "Artículo 13" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/13" 
+ ,"textoArticulo" : "    Derecho de información frente al tratamiento y recolección de datos. Cuando se recaben datos personales se deberá informar previamente a sus titulares en forma expresa, precisa e inequívoca:\r\n\r\n     A) La finalidad para la que serán tratados y quiénes pueden ser sus\r\n        destinatarios o clase de destinatarios.\r\n\r\n     B) La existencia de la base de datos, electrónico o de cualquier otro\r\n        tipo, de que se trate, la identidad y domicilio de su responsable.\r\n\r\n     C) El carácter obligatorio o facultativo de las respuestas al\r\n        cuestionario que se le proponga, en especial en cuanto a los datos\r\n        sensibles.\r\n\r\n     D) Las consecuencias de proporcionar los datos y de la negativa a \r\n        hacerlo o su inexactitud.\r\n\r\n     E) La posibilidad del titular de ejercer los derechos previstos en \r\n        los artículos 14 a 16 de la presente ley.\r\n\r\n     F)  La existencia o no de transferencias internacionales de datos.\r\n\r\n     G) En el caso de tratamientos automatizados de datos regulados por el\r\n        artículo 16 de la presente ley, los criterios de valoración, los\r\n        procesos aplicados y la solución tecnológica o el programa \r\n        utilizado.\r\n\r\n   Cuando los datos personales no sean recolectados directamente de sus\r\n   titulares, la información referida en el presente artículo les deberá\r\n   ser proporcionada a estos en un plazo de cinco días hábiles de\r\n   recibida la solicitud por parte de los responsables. El incumplimiento\r\n   habilitará al titular a realizar las acciones que correspondan.\r\n\r\n   El órgano de control podrá establecer condiciones específicas para la\r\n   publicidad permanente de la información indicada en el presente\r\n   artículo, cuando las condiciones técnicas y el tipo de tratamiento\r\n   realizado así lo permitan. (*) " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Redacción dada por:</font></b> Ley Nº 20.075 de 20/10/2022 artículo <a class=\"linkFicha\" href=\"/bases/leyes/20075-2022/62\" >62</a>.\r\n<b><font color=\"#FF0000\">Ver vigencia:</font></b> Ley Nº 20.075 de 20/10/2022 artículo <a class=\"linkFicha\" href=\"/bases/leyes/20075-2022/5\" >5</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/13\" >13</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/13?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "14" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 14" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/14" 
+ ,"textoArticulo" : "  Derecho de acceso.- Todo titular de datos personales que previamente\r\nacredite su identificación con el documento de identidad o poder\r\nrespectivo, tendrá derecho a obtener toda la información que sobre sí\r\nmismo se halle en bases de datos públicas o privadas. Este derecho de\r\nacceso sólo podrá ser ejercido en forma gratuita a intervalos de seis\r\nmeses, salvo que se hubiere suscitado nuevamente un interés legítimo de\r\nacuerdo con el ordenamiento jurídico.\r\n Cuando se trate de datos de personas fallecidas, el ejercicio del derecho al cual refiere este artículo, corresponderá a cualesquiera de sus sucesores universales, cuyo carácter se acreditará debidamente. (*)\r\n La información debe ser proporcionada dentro de los cinco días hábiles de\r\nhaber sido solicitada. Vencido el plazo sin que el pedido sea satisfecho o\r\nsi fuera denegado por razones no justificadas de acuerdo con esta ley,\r\nquedará habilitada la acción de habeas data.\r\n La información debe ser suministrada en forma clara, exenta de\r\ncodificaciones y en su caso acompañada de una explicación, en lenguaje\r\naccesible al conocimiento medio de la población, de los términos que se\r\nutilicen.\r\n La información debe ser amplia y versar sobre la totalidad del registro\r\nperteneciente al titular, aún cuando el requerimiento sólo comprenda un\r\naspecto de los datos personales. En ningún caso el informe podrá revelar\r\ndatos pertenecientes a terceros, aún cuando se vinculen con el interesado.\r\n La información, a opción del titular, podrá suministrarse por escrito, por medios electrónicos, telefónicos, de imagen, u otro idóneo a tal fin.\r\n " 
+  ,"notasArticulo" : "Inciso 2º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/14\" >14</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/14?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "15" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 15" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/15" 
+ ,"textoArticulo" : "  Derecho de rectificación, actualización, inclusión o supresión.- Toda\r\npersona física o jurídica tendrá derecho a solicitar la rectificación,\r\nactualización, inclusión o supresión de los datos personales que le\r\ncorresponda incluidos en una base de datos, al constatarse error o\r\nfalsedad o exclusión en la información de la que es titular.\r\n El responsable de la base de datos o del tratamiento deberá proceder a\r\nrealizar la rectificación, actualización, inclusión o supresión, mediante\r\nlas operaciones necesarias a tal fin en un plazo máximo de cinco días\r\nhábiles de recibida la solicitud por el titular del dato o, en su caso,\r\ninformar de las razones por las que estime no corresponde.\r\n El incumplimiento de esta obligación por parte del responsable de la base\r\nde datos o del tratamiento o el vencimiento del plazo, habilitará al\r\ntitular del dato a promover la acción de habeas data prevista en esta ley.\r\n Procede la eliminación o supresión de datos personales en los siguientes casos:\r\n\r\nA)     Perjuicios a los derechos e intereses legítimos de terceros.\r\nB)     Notorio error.\r\nC)     Contravención a lo establecido por una obligación legal. (*)\r\n\r\n Durante el proceso de verificación, rectificación o inclusión de datos\r\npersonales, el responsable de la base de datos o tratamiento, ante el\r\nrequerimiento de terceros por acceder a informes sobre los mismos, deberá\r\ndejar constancia que dicha información se encuentra sometida a revisión.\r\n En el supuesto de comunicación o transferencia de datos, el responsable de la base de datos o del tratamiento debe notificar la rectificación,\r\ninclusión o supresión al destinatario dentro del quinto día hábil de\r\nefectuado el tratamiento del dato.\r\n La rectificación, actualización, inclusión, eliminación o supresión de\r\ndatos personales cuando corresponda, se efectuará sin cargo alguno para el\r\ntitular.\r\n " 
+  ,"notasArticulo" : "Inciso 4º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/15\" >15</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/15?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "16" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 16" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/16" 
+ ,"textoArticulo" : "   (Derecho a la impugnación de valoraciones personales).- Las personas tienen derecho a no verse sometidas a una decisión con efectos jurídicos que les afecte de manera significativa, que se base en un tratamiento automatizado de datos destinado a evaluar determinados aspectos de su personalidad, como su rendimiento laboral, crédito, fiabilidad, conducta, entre otros.\r\n\r\n     El afectado podrá impugnar los actos administrativos o decisiones\r\nprivadas que impliquen una valoración de su comportamiento, cuyo único\r\nfundamento sea un tratamiento de datos personales que ofrezca una\r\ndefinición de sus características o personalidad.\r\n\r\n     En este caso, el afectado tendrá derecho a obtener información del\r\nresponsable de la base de datos tanto sobre los criterios de valoración\r\ncomo sobre el programa utilizado en el tratamiento que sirvió para adoptar\r\nla decisión manifestada en el acto. (*)\r\n\r\n " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<b>Ver en esta norma, artículo:</b> <a class=\"linkFicha\" href=\"/bases/leyes/18331-2008/34\" >34</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/16\" >16</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/16?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "17" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 17" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/17" 
+ ,"textoArticulo" : "  Derechos referentes a la comunicación de datos.- Los datos personales\r\nobjeto de tratamiento sólo podrán ser comunicados para el cumplimiento de\r\nlos fines directamente relacionados con el interés legítimo del emisor y\r\ndel destinatario y con el previo consentimiento del titular de los datos,\r\nal que se le debe informar sobre la finalidad de la comunicación e\r\nidentificar al destinatario o los elementos que permitan hacerlo.\r\nEl previo consentimiento para la comunicación es revocable.\r\nEl previo consentimiento no será necesario cuando:\r\nA) así lo disponga una ley de interés general.\r\nB) en los supuestos del artículo 9° de la presente ley.\r\nC) se trate de datos personales relativos a la salud y sea necesaria\r\nsu comunicación por razones sanitarias, de emergencia o para la realización de estudios epidemiológicos, preservando la identidad de los\r\ntitulares de los datos mediante mecanismos de disociación adecuados cuando\r\nello sea pertinente. (*)\r\nD) se hubiera aplicado un procedimiento de disociación de la\r\n   información, de modo que los titulares de los datos no sean\r\n   identificables.\r\n\r\nEl destinatario quedará sujeto a las mismas obligaciones legales y\r\nreglamentarias del emisor y éste responderá solidaria y conjuntamente por\r\nla observancia de las mismas ante el organismo de control y el titular de\r\nlos datos de que se trate.\r\n\r\n               \r\n " 
+  ,"notasArticulo" : "Literal C) del inciso 3º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 \r\nartículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/153\" >153</a>.\r\n<b>Ver:</b> Ley Nº 19.355 de 19/12/2015 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19355-2015/84\" >84</a> (interpretativo).\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/17\" >17</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/17?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "18" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO IV - DATOS ESPECIALMENTE PROTEGIDOS<br> " 
+  ,"tituloArticulo" : "Artículo 18" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/18" 
+ ,"textoArticulo" : "  Datos sensibles.- Ninguna persona puede ser obligada a proporcionar datos\r\nsensibles. Estos sólo podrán ser objeto de tratamiento con el\r\nconsentimiento expreso y escrito del titular.\r\nLos datos sensibles sólo pueden ser recolectados y objeto de tratamiento\r\ncuando medien razones de interés general autorizadas por ley, o cuando el\r\norganismo solicitante tenga mandato legal para hacerlo. También podrán ser\r\ntratados con finalidades estadísticas o científicas cuando se disocien de\r\nsus titulares.\r\nQueda prohibida la formación de bases de datos que almacenen información\r\nque directa o indirectamente revele datos sensibles. Se exceptúan aquellos\r\nque posean los partidos políticos, sindicatos, iglesias, confesiones\r\nreligiosas, asociaciones, fundaciones y otras entidades sin fines de\r\nlucro, cuya finalidad sea política, religiosa, filosófica, sindical, que\r\nhagan referencia al origen racial o étnico, a la salud y a la vida sexual,\r\nen cuanto a los datos relativos a sus asociados o miembros, sin perjuicio\r\nque la comunicación de dichos datos precisará siempre el previo\r\nconsentimiento del titular del dato.\r\nLos datos personales relativos a la comisión de infracciones penales,\r\nciviles o administrativas sólo pueden ser objeto de tratamiento por parte\r\nde las autoridades públicas competentes, en el marco de las leyes y\r\nreglamentaciones respectivas, sin perjuicio de las autorizaciones que la\r\nley otorga u otorgare. Nada de lo establecido en esta ley impedirá a las\r\nautoridades públicas comunicar o hacer pública la identidad de las\r\npersonas físicas o jurídicas que estén siendo investigadas por, o hayan\r\ncometido, infracciones a la normativa vigente, en los casos en que otras\r\nnormas lo impongan o en los que lo consideren conveniente.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/18?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "18" 
+   ,"secArticulo" : "BIS" 
+  ,"titulosArticulo" : "  " 
+  ,"tituloArticulo" : "Artículo 18-BIS" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/18_BIS" 
+ ,"textoArticulo" : "    (Datos biométricos).- Los datos biométricos regulados en la presente ley podrán ser objeto de tratamiento en el marco de lo dispuesto en el artículo 9° de la presente ley, previa realización de una evaluación de impacto en la protección de datos personales. (*)\r\n " 
+  ,"notasArticulo" : "<b><font color=\"#FF0000\">Ver vigencia:</font></b> Ley Nº 19.924 de 18/12/2020 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19924-2020/3\" >3</a>.\r\n<b><font color=\"#0000FF\">Agregado/s por:</font></b> Ley Nº 19.924 de 18/12/2020 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19924-2020/87\" >87</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "19" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO IV - DATOS ESPECIALMENTE PROTEGIDOS<br> " 
+  ,"tituloArticulo" : "Artículo 19" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/19" 
+ ,"textoArticulo" : "  Datos relativos a la salud.- Los establecimientos sanitarios públicos o\r\nprivados y los profesionales vinculados a las ciencias de la salud pueden\r\nrecolectar y tratar los datos personales relativos a la salud física o\r\nmental de los pacientes que acudan a los mismos o que estén o hubieren\r\nestado bajo tratamiento de aquéllos, respetando los principios del secreto\r\nprofesional, la normativa específica y lo establecido en la presente ley.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/19?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "20" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 20" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/20" 
+ ,"textoArticulo" : "  Datos relativos a las telecomunicaciones.- Los operadores que exploten\r\nredes públicas o que presten servicios de comunicaciones electrónicas\r\ndisponibles al público deberán garantizar, en el ejercicio de su\r\nactividad, la protección de los datos personales conforme a la presente\r\nley.\r\nAsimismo, deberán adoptar las medidas técnicas y de gestiones adecuadas\r\npara preservar la seguridad en la explotación de su red o en la prestación\r\nde sus servicios, con el fin de garantizar sus niveles de protección de\r\nlos datos personales que sean exigidos por la normativa de desarrollo de\r\nesta ley en esta materia. En caso de que exista un riesgo particular de\r\nviolación de la seguridad de la red pública de comunicaciones\r\nelectrónicas, el operador que explote dicha red o preste el servicio de\r\ncomunicaciones electrónicas informará a los abonados sobre dicho riesgo y\r\nsobre las medidas a adoptar.\r\nLa regulación contenida en esta ley se entiende sin perjuicio de lo\r\nprevisto en la normativa específica sobre telecomunicaciones relacionadas\r\ncon la seguridad pública y la defensa nacional.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/20?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "21" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 21" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/21" 
+ ,"textoArticulo" : "   (Datos relativos a bases de datos con fines de publicidad).- En la recopilación de domicilios, reparto de documentos, publicidad, prospección comercial, venta u otras actividades análogas, se podrán tratar datos que sean aptos para establecer perfiles determinados con fines promocionales, comerciales o publicitarios; o permitan establecer hábitos de consumo, cuando éstos figuren en documentos accesibles al público o hayan sido facilitados por los propios titulares u obtenidos con su consentimiento. (*)\r\n En los supuestos contemplados en el presente artículo, el titular de los\r\ndatos podrá ejercer el derecho de acceso sin cargo alguno.\r\n El titular podrá en cualquier momento solicitar el retiro o bloqueo de sus datos de los bancos de datos a los que se refiere el presente artículo.\r\n " 
+  ,"notasArticulo" : "Inciso 1º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/21\" >21</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/21?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "22" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 22" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/22" 
+ ,"textoArticulo" : "  (Datos relativos a la actividad comercial o crediticia).- Queda expresamente autorizado el tratamiento de datos destinado a informar sobre la solvencia patrimonial o crediticia, incluyendo aquellos relativos al cumplimiento o incumplimiento de obligaciones de carácter comercial o crediticia que permitan evaluar la concertación de negocios en general, la conducta comercial o la capacidad de pago del titular de los datos, en aquellos casos en que los mismos sean obtenidos de fuentes de acceso público o procedentes de informaciones facilitadas por el acreedor o en las circunstancias previstas en la presente ley. Para el caso de las personas jurídicas, además de las circunstancias previstas en la presente ley, se permite el tratamiento de toda información autorizada por la normativa vigente. (*)\r\n Los datos personales relativos a obligaciones de carácter comercial de\r\npersonas físicas sólo podrán estar registrados por un plazo de cinco años\r\ncontados desde su incorporación. En caso que al vencimiento de dicho plazo\r\nla obligación permanezca incumplida, el acreedor podrá solicitar al\r\nresponsable de la base de datos, por única vez, su nuevo registro por\r\notros cinco años. Este nuevo registro deberá ser solicitado en el plazo de\r\ntreinta días anteriores al vencimiento original. Las obligaciones\r\ncanceladas o extinguidas por cualquier medio, permanecerán registradas,\r\ncon expresa mención de este hecho, por un plazo máximo de cinco años, no\r\nrenovable, a contar de la fecha de la cancelación o extinción.\r\n Los responsables de las bases de datos se limitarán a realizar el\r\ntratamiento objetivo de la información registrada tal cual ésta le fuera\r\nsuministrada, debiendo abstenerse de efectuar valoraciones subjetivas\r\nsobre la misma.\r\n Cuando se haga efectiva la cancelación de cualquier obligación incumplida\r\nregistrada en una base de datos, el acreedor deberá en un plazo máximo de\r\ncinco días hábiles de acontecido el hecho, comunicarlo al responsable de\r\nla base de datos o tratamiento correspondiente. Una vez recibida la\r\ncomunicación por el responsable de la base de datos o tratamiento, éste\r\ndispondrá de un plazo máximo de tres días hábiles para proceder a la\r\nactualización del dato, asentando su nueva situación.\r\n " 
+  ,"notasArticulo" : "Inciso 1º) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<b>Ver en esta norma, artículo:</b> <a class=\"linkFicha\" href=\"/bases/leyes/18331-2008/29\" >29</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/22\" >22</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/22?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "23" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 23" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/23" 
+ ,"textoArticulo" : "  Datos transferidos internacionalmente.- Se prohíbe la transferencia de\r\ndatos personales de cualquier tipo con países u organismos internacionales\r\nque no proporcionen niveles de protección adecuados de acuerdo a los\r\nestándares del Derecho Internacional o Regional en la materia.\r\nLa prohibición no regirá cuando se trate de:\r\n1) Cooperación judicial internacional, de acuerdo al respectivo\r\n   instrumento internacional, ya sea Tratado o Convención, atendidas las\r\n   circunstancias del caso.\r\n2) Intercambio de datos de carácter médico, cuando así lo exija el\r\n   tratamiento del afectado por razones de salud o higiene públicas.\r\n3) Transferencias bancarias o bursátiles, en lo relativo a las\r\n   transacciones respectivas y conforme la legislación que les resulte\r\n   aplicable.\r\n4) Acuerdos en el marco de tratados internacionales en los cuales la\r\n   República Oriental del Uruguay sea parte.\r\n5) Cooperación internacional entre organismos de inteligencia para la\r\n   lucha contra el crimen organizado, el terrorismo y el narcotráfico.\r\n\r\nTambién será posible realizar la transferencia internacional de datos en\r\nlos siguientes supuestos:\r\nA) Que el interesado haya dado su consentimiento inequívocamente a la\r\n   transferencia prevista.\r\nB) Que la transferencia sea necesaria para la ejecución de un contrato\r\n   entre el interesado y el responsable del tratamiento o para la\r\n   ejecución de medidas precontractuales tomadas a petición del\r\n   interesado.\r\nC) Que la transferencia sea necesaria para la celebración o ejecución\r\n   de un contrato celebrado o por celebrar en interés del interesado,\r\n   entre el responsable del tratamiento y un tercero.\r\nD) Que la transferencia sea necesaria o legalmente exigida para la\r\n   salvaguardia de un interés público importante, o para el\r\n   reconocimiento, ejercicio o defensa de un derecho en un procedimiento\r\n   judicial.\r\nE) Que la transferencia sea necesaria para la salvaguardia del interés\r\n   vital del interesado.\r\nF) Que la transferencia tenga lugar desde un registro que, en virtud\r\n   de disposiciones legales o reglamentarias, esté concebido para\r\n   facilitar información al público y esté abierto a la consulta por el\r\n   público en general o por cualquier persona que pueda demostrar un\r\n   interés legítimo, siempre que se cumplan, en cada caso particular, las\r\n   condiciones que establece la ley para su consulta.\r\nSin perjuicio de lo dispuesto en el primer inciso de este artículo, la\r\nUnidad Reguladora y de Control de Protección de Datos Personales podrá\r\nautorizar una transferencia o una serie de transferencias de datos\r\npersonales a un tercer país que no garantice un nivel adecuado de\r\nprotección, cuando el responsable del tratamiento ofrezca garantías\r\nsuficientes respecto a la protección de la vida privada, de los derechos y\r\nlibertades fundamentales de las personas, así como respecto al ejercicio\r\nde los respectivos derechos.\r\nDichas garantías podrán derivarse de cláusulas contractuales apropiadas.\r\n\r\n           \r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/23?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "24" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO V - BASES DE DATOS DE TITULARIDAD PUBLICA<br> " 
+  ,"tituloArticulo" : "Artículo 24" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/24" 
+ ,"textoArticulo" : "  Creación, modificación o supresión.- La creación, modificación o\r\nsupresión de bases de datos pertenecientes a organismos públicos deberán\r\nregistrarse conforme lo previsto en el capítulo siguiente.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "25" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 25" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/25" 
+ ,"textoArticulo" : "  Base de datos correspondientes a las Fuerzas Armadas, Organismos\r\nPoliciales o de Inteligencia.- Quedarán sujetos al régimen de la presente\r\nley, los datos personales que por haberse almacenado para fines\r\nadministrativos, deban ser objeto de registro permanente en las bases de\r\ndatos de las fuerzas armadas, organismos policiales o de inteligencia; y\r\naquellos sobre antecedentes personales que proporcionen dichas bases de\r\ndatos a las autoridades administrativas o judiciales que los requieran en\r\nvirtud de disposiciones legales.\r\nEl tratamiento de datos personales con fines de defensa nacional o\r\nseguridad pública por parte de las fuerzas armadas, organismos policiales\r\no inteligencia, sin previo consentimiento de los titulares, queda limitado\r\na aquellos supuestos y categoría de datos que resulten necesarios para el\r\nestricto cumplimiento de las misiones legalmente asignadas a aquéllos para\r\nla defensa nacional, la seguridad pública o para la represión de los\r\ndelitos. Las bases de datos, en tales casos, deberán ser específicas y\r\nestablecidas al efecto, debiendo clasificarse por categorías, en función\r\nde su grado de fiabilidad.\r\nLos datos personales registrados con fines policiales se cancelarán cuando\r\nno sean necesarios para las averiguaciones que motivaron su\r\nalmacenamiento.\r\n " 
+  ,"notasArticulo" : "<b>Ver en esta norma, artículo:</b> <a class=\"linkFicha\" href=\"/bases/leyes/18331-2008/26\" >26</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "26" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 26" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/26" 
+ ,"textoArticulo" : "  Excepciones a los derechos de acceso, rectificación y cancelación.- Los\r\nresponsables de las bases de datos que contengan los datos a que se\r\nrefieren los incisos segundo y tercero del artículo anterior podrán\r\ndenegar el acceso, la rectificación o cancelación en función de los\r\npeligros que pudieran derivarse para la defensa del Estado o la seguridad\r\npública, la protección de los derechos y libertades de terceros o las\r\nnecesidades de las investigaciones que se estén realizando.\r\nLos responsables de las bases de datos de la Hacienda Pública podrán,\r\nigualmente, denegar el ejercicio de los derechos a que se refiere el\r\ninciso anterior cuando el mismo obstaculice las actuaciones\r\nadministrativas tendientes a asegurar el cumplimiento de las obligaciones\r\ntributarias y, en todo caso, cuando el titular del dato esté siendo objeto\r\nde actuaciones inspectivas.\r\nEl titular del dato al que se deniegue total o parcialmente el ejercicio\r\nde los derechos mencionados en los incisos anteriores podrá ponerlo en\r\nconocimiento del Organo de Control, quien deberá asegurarse de la\r\nprocedencia o improcedencia de la denegación.\r\n " 
+  ,"notasArticulo" : "<b>Reglamentado por:</b> Decreto <a class=\"linkFicha\" href=\"/bases/decretos/664-2008\" >Nº 664/008</a> de 22/12/2008.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/26?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "27" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 27" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/27" 
+ ,"textoArticulo" : "  Excepciones al derecho a la información.- Lo dispuesto en la presente ley\r\nno será aplicable a la recolección de datos, cuando la información del\r\ntitular afecte a la defensa nacional, a la seguridad pública o a la\r\npersecución de infracciones penales.\r\n\r\n          \r\n " 
+  } 
+  
+ , { "nroArticulo" : "28" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO VI - BASES DE DATOS DE TITULARIDAD PRIVADA<br> " 
+  ,"tituloArticulo" : "Artículo 28" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/28" 
+ ,"textoArticulo" : "   (Creación, modificación o supresión).- Las personas físicas o jurídicas privadas que creen, modifiquen o supriman bases de datos de carácter personal, deberán registrarse conforme lo previsto en el artículo siguiente. (*)\r\n " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/28\" >28</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "29" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 29" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/29" 
+ ,"textoArticulo" : "  Inscripción registral.- Toda base de datos pública o privada debe\r\ninscribirse en el Registro que al efecto habilite el Organo de Control, de\r\nacuerdo a los criterios reglamentarios que se establezcan.\r\n Por vía reglamentaria se procederá a la regulación detallada de los\r\ndistintos extremos que deberá contener la inscripción, entre los cuales\r\nfigurarán necesariamente los siguientes:\r\nA) Identificación de la base de datos y el responsable de la misma.\r\nB) Naturaleza de los datos personales que contiene.\r\nC) Procedimientos de obtención y tratamiento de los datos.\r\nD) Medidas de seguridad y descripción técnica de la base de datos.\r\nE) Protección de datos personales y ejercicio de derechos.\r\nF) Destino de los datos y personas físicas o jurídicas a las que\r\n   pueden ser transmitidos.\r\nG) Tiempo de conservación de los datos.\r\nH) Forma y condiciones en que las personas pueden acceder a los datos\r\n   referidos a ellas y los procedimientos a realizar para la rectificación\r\n   o actualización de los datos.\r\nI) Cantidad de acreedores personas físicas que hayan cumplido los 5\r\n   años previstos en el artículo 22 de la presente ley.\r\nJ) Cantidad de cancelaciones por cumplimiento de la obligación de\r\n   pago si correspondiera, de acuerdo con lo previsto en el artículo 22 de\r\n   la presente ley. (*)\r\n Ningún usuario de datos podrán poseer datos personales de naturaleza\r\ndistinta a los declarados en el registro.\r\n El incumplimiento de estos requisitos dará lugar a las sanciones\r\nadministrativas previstas en la presente ley.\r\n Respecto a las bases de datos de carácter comercial ya inscriptos en el\r\nOrgano Regulador, se estará a lo previsto en la presente ley respecto del\r\nplazo de adecuación.\r\n " 
+  ,"notasArticulo" : "Literal J) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/154\" >154</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/29\" >29</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "30" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 30" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/30" 
+ ,"textoArticulo" : "  Prestación de servicios informatizados de datos personales.- Cuando por\r\ncuenta de terceros se presten servicios de tratamiento de datos\r\npersonales, éstos no podrán aplicarse o utilizarse con un fin distinto al\r\nque figure en el contrato de servicios, ni cederlos a otras personas, ni\r\naún para su conservación.\r\nUna vez cumplida la prestación contractual los datos personales tratados\r\ndeberán ser destruidos, salvo que medie autorización expresa de aquél por\r\ncuenta de quien se prestan tales servicios cuando razonablemente se\r\npresuma la posibilidad de ulteriores encargos, en cuyo caso se podrá\r\nalmacenar con las debidas condiciones de seguridad por un período de hasta\r\ndos años.\r\n\r\n                     \r\n " 
+  } 
+  
+ , { "nroArticulo" : "31" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO VII - ORGANO DE CONTROL<br> " 
+  ,"tituloArticulo" : "Artículo 31" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/31" 
+ ,"textoArticulo" : "  Organo de Control.- Créase como órgano desconcentrado de la Agencia para\r\nel Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la\r\nInformación y del Conocimiento (AGESIC), dotado de la más amplia autonomía\r\ntécnica, la Unidad Reguladora y de Control de Datos Personales. Estará\r\ndirigida por un Consejo integrado por tres miembros: el Director Ejecutivo\r\nde AGESIC y dos miembros designados por el Poder Ejecutivo entre personas\r\nque por sus antecedentes personales, profesionales y de conocimiento en la\r\nmateria aseguren independencia de criterio, eficiencia, objetividad e\r\nimparcialidad en el desempeño de sus cargos.\r\nA excepción del Director Ejecutivo de la AGESIC, los miembros durarán\r\ncuatro años en sus cargos, pudiendo ser designados nuevamente. Sólo\r\ncesarán por la expiración de su mandato y designación de sus sucesores, o\r\npor su remoción dispuesta por el Poder Ejecutivo en los casos de\r\nineptitud, omisión o delito, conforme a las garantías del debido proceso.\r\nDurante su mandato no recibirán órdenes ni instrucciones en el plano\r\ntécnico.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/31?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "32" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 32" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/32" 
+ ,"textoArticulo" : "  Consejo Consultivo.- El Consejo Ejecutivo de la Unidad Reguladora y de\r\nControl de Datos Personales funcionará asistido por un Consejo Consultivo,\r\nque estará integrado por 5 miembros:\r\n* Una persona con reconocida trayectoria en la promoción y defensa de\r\n  los derechos humanos, designado por el Poder Legislativo, el que no\r\n  podrá ser un Legislador en actividad.\r\n* Un representante del Poder Judicial.\r\n* Un representante del Ministerio Público.\r\n* Un representante del área académica.\r\n* Un representante del sector privado, que se elegirá en la forma\r\n  establecida reglamentariamente.\r\nSesionará presidido por el Presidente de la Unidad Reguladora y de Control\r\nde protección de Datos Personales.\r\nSus integrantes durarán 4 años en sus cargos y sesionarán a convocatoria\r\ndel Presidente de la Unidad Reguladora y de Control de Datos Personales o\r\nde la mayoría de sus miembros.\r\nPodrá ser consultado por el Consejo Ejecutivo sobre cualquier aspecto de\r\nsu competencia y deberá ser consultado por éste cuando ejerza potestades\r\nde reglamentación.\r\n " 
+  ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/32?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "33" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 33" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/33" 
+ ,"textoArticulo" : "  Recursos.- La Unidad Reguladora y de Control de Datos Personales\r\nformulará su propuesta de presupuesto de acuerdo a lo previsto en el\r\nartículo 214 de la Constitución de la República.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "34" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 34" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/34" 
+ ,"textoArticulo" : "  Cometidos.- El órgano de control deberá realizar todas las acciones\r\nnecesarias para el cumplimiento de los objetivos y demás disposiciones de\r\nla presente ley. A tales efectos tendrá las siguientes funciones y\r\natribuciones:\r\nA) Asistir y asesorar a las personas que lo requieran acerca de los\r\n   alcances de la presente ley y de los medios legales de que disponen\r\n   para la defensa de los derechos que ésta garantiza.\r\n\r\nB) Dictar las normas y reglamentaciones que se deben observar en el\r\n   desarrollo de las actividades comprendidas por esta ley.\r\n\r\nC) Realizar un censo de las bases de datos alcanzados por la ley y\r\n   mantener el registro permanente de los mismos.\r\n\r\nD) Controlar la observancia del régimen legal, en particular las normas\r\n   sobre legalidad, integridad, veracidad, proporcionalidad y seguridad de \r\n   datos, por parte de los sujetos alcanzados, pudiendo a tales efectos \r\n   realizar las actuaciones de fiscalización e inspección pertinentes.\r\n\r\n   A tales efectos la Unidad Reguladora y de Control de Datos Personales\r\n   tendrá las siguientes potestades:\r\n\r\n1)     Exigir a los responsables y encargados de tratamientos la\r\n       exhibición de los libros, documentos y archivos, informáticos o\r\n       convencionales, propios y ajenos, y requerir su comparecencia ante\r\n       la Unidad para proporcionar informaciones.\r\n\r\n2)     Intervenir los documentos y archivos inspeccionados, así como tomar\r\n       medidas de seguridad para su conservación, pudiendo copiarlos.\r\n\r\n3)     Incautarse de dichos elementos cuando la gravedad del caso lo\r\n       requiera hasta por un lapso de seis días hábiles; la medida será\r\n       debidamente documentada y sólo podrá prorrogarse por los órganos\r\n       jurisdiccionales competentes, cuando sea imprescindible.\r\n\r\n4)     Practicar inspecciones en bienes muebles o inmuebles ocupados a\r\n       cualquier título por los responsables, encargados de tratamiento y\r\n       demás sujetos alcanzados por el régimen legal. Sólo podrán\r\n       inspeccionarse domicilios particulares con previa orden judicial de\r\n       allanamiento.\r\n\r\n5)     Requerir informaciones a terceros, pudiendo intimarles su\r\n       comparecencia ante la autoridad administrativa cuando ésta lo\r\n       considere conveniente o cuando aquéllas no sean presentadas en\r\n       tiempo y forma.\r\n\r\n       La Unidad Reguladora y de Control de Datos Personales podrá \r\n       solicitar el auxilio de la fuerza pública para el desarrollo de sus \r\n       cometidos.\r\n\r\n       Cuando sea necesario para el debido cumplimiento de las diligencias\r\n       precedentes, requerirá orden judicial de allanamiento. (*)\r\n\r\nE) Solicitar información a las entidades públicas y privadas, las que\r\n   deberán proporcionar los antecedentes, documentos, programas u otros\r\n   elementos relativos al tratamiento de los datos personales que se le\r\n   requieran. En estos casos, la autoridad deberá garantizar la seguridad\r\n   y confidencialidad de la información y elementos suministrados.\r\nF) Emitir opinión toda vez que le sea requerida por las autoridades\r\n   competentes, incluyendo solicitudes relacionadas con el dictado de\r\n   sanciones administrativas que correspondan por la violación a las\r\n   disposiciones de esta ley, de los reglamentos o de las resoluciones que\r\n   regulan el tratamiento de datos personales comprendidos en ésta.\r\nG) Asesorar en forma necesaria al Poder Ejecutivo en la consideración\r\n   de los proyectos de ley que refieran total o parcialmente a protección\r\n   de datos personales.\r\nH) Informar a cualquier persona sobre la existencia de bases de datos\r\n   personales, sus finalidades y la identidad de sus responsables, en\r\n   forma gratuita.\r\nI) Establecer los criterios y procedimientos que deban observar los \r\n   responsables y encargados, en el tratamiento automatizado de datos \r\n   personales indicados en el artículo 16 de la presente ley. (*) " 
+  ,"notasArticulo" : "Literal D) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/155\" >155</a>.\r\nLiteral I) <b><font color=\"#FF0000\">ver vigencia:</font></b> Ley Nº 20.075 de 20/10/2022 artículo <a class=\"linkFicha\" href=\"/bases/leyes/20075-2022/5\" >5</a>.\r\nLiteral I) <b><font color=\"#0000FF\">agregado/s por:</font></b> Ley Nº 20.075 de 20/10/2022 artículo <a class=\"linkFicha\" href=\"/bases/leyes/20075-2022/63\" >63</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b> Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/34\" >34</a>.\r\n" 
+ } 
+  
+ , { "nroArticulo" : "35" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 35" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/35" 
+ ,"textoArticulo" : "  (Potestades sancionatorias).- El órgano de control podrá aplicar las siguientes sanciones a los responsables de las bases de datos, encargados de tratamiento de datos personales y demás sujetos alcanzados por el régimen legal, en caso que se violen las normas de la presente ley, las que se graduarán en atención a la gravedad, reiteración o reincidencia de la infracción cometida:\r\n\r\n1)     Observación.\r\n\r\n2)     Apercibimiento.\r\n\r\n3)     Multa de hasta 500.000 UI (quinientas mil unidades indexadas).\r\n\r\n4)     Suspensión de la base de datos respectiva por el plazo de cinco\r\n       días.\r\n\r\n5)     Clausura de la base de datos respectiva. A tal efecto se podrá   \r\n       promover ante los órganos jurisdiccionales competentes la clausura \r\n       de las bases de datos que se comprobare infringieren o \r\n       transgredieren la presente ley.(*)\r\n\r\n     Los hechos constitutivos de la infracción serán documentados de\r\nacuerdo a las formalidades legales. La clausura deberá decretarse dentro\r\nde los tres días siguientes a aquél en que la hubiere solicitado la Unidad\r\nReguladora y Control de Datos Personales, la cual quedará habilitada a\r\ndisponerla por sí en caso que el Juez no se pronunciare dentro de dicho\r\ntérmino.\r\n\r\n     En este último caso, si el Juez denegare posteriormente la clausura,\r\nésta deberá levantarse de inmediato por la Unidad Reguladora y Control de\r\nDatos Personales.\r\n\r\n     Los recursos que se interpongan contra la resolución judicial que\r\nhiciere lugar a la clausura, no tendrán efecto suspensivo.\r\n\r\n     Para hacer cumplir dicha resolución, la Unidad Reguladora y Control\r\nde Datos Personales podrá requerir el auxilio de la fuerza pública.\r\n\r\n     La competencia de los Tribunales actuantes se determinará por las\r\nnormas de la Ley Orgánica de la Judicatura N° 15.750, de 24 de junio de\r\n1985, sus modificativas y concordantes.\r\n\r\n     Las resoluciones firmes de la Unidad Reguladora y Control de Datos\r\nPersonales que impongan sanciones pecuniarias, constituyen título\r\nejecutivo a sus efectos. (*)\r\n " 
+  ,"notasArticulo" : "<b><font color=\"#0000FF\">Redacción dada por:</font></b> Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes/18719-2010/152\" >152</a>.\r\nNumeral 5) <b><font color=\"#0000FF\">redacción dada por:</font></b> Ley Nº 19.355 de 19/12/2015 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19355-2015/83\" >83</a>.\r\nNumeral 5) <b><font color=\"#FF0000\">ver vigencia:</font></b> Ley Nº 19.355 de 19/12/2015 artículo <a class=\"linkFicha\" href=\"/bases/leyes/19355-2015/3\" >3</a>.\r\n<br><b><font color=\"#008200\">TEXTO ORIGINAL:</font></b>\r\n      Ley Nº 18.719 de 27/12/2010 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18719-2010/152\" >152</a>,\r\n      Ley Nº 18.331 de 11/08/2008 artículo <a class=\"linkFicha\" href=\"/bases/leyes-originales/18331-2008/35\" >35</a>.\r\n" 
+ ,"urlReferenciasArticulo" : "/bases/leyes/18331-2008/35?verreferencias=articulo" 
+ } 
+  
+ , { "nroArticulo" : "36" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 36" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/36" 
+ ,"textoArticulo" : "  Códigos de conducta.- Las asociaciones o entidades representativas de\r\nresponsables o usuarios de bancos de datos de titularidad privada podrán\r\nelaborar códigos de conducta de práctica profesional, que establezcan\r\nnormas para el tratamiento de datos personales que tiendan a asegurar y\r\nmejorar las condiciones de operación de los sistemas de información en\r\nfunción de los principios establecidos en la presente ley.\r\nDichos códigos deberán ser inscriptos en el registro que al efecto lleve\r\nel organismo de control, quien podrá denegar la inscripción cuando\r\nconsidere que no se ajustan a las disposiciones legales y reglamentarias\r\nsobre la materia.\r\n\r\n " 
+  } 
+  
+ , { "nroArticulo" : "37" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO VIII - ACCION DE PROTECCION DE DATOS PERSONALES<br> " 
+  ,"tituloArticulo" : "Artículo 37" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/37" 
+ ,"textoArticulo" : "  Habeas Data.- Toda persona tendrá derecho a entablar una acción judicial\r\nefectiva para tomar conocimiento de los datos referidos a su persona y de\r\nsu finalidad y uso, que consten en bases de datos públicos o privados; y\r\n-en caso de error, falsedad, prohibición de tratamiento, discriminación o\r\ndesactualización- a exigir su rectificación, inclusión, supresión o lo que\r\nentienda corresponder.\r\nCuando se trate de datos personales cuyo registro esté amparado por una\r\nnorma legal que consagre el secreto a su respecto, el Juez apreciará el\r\nlevantamiento del mismo en atención a las circunstancias del caso.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "38" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 38" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/38" 
+ ,"textoArticulo" : "  Procedencia y competencia.- El titular de datos personales podrá entablar\r\nla acción de protección de datos personales o habeas data, contra todo\r\nresponsable de una base de datos pública o privada, en los siguientes\r\nsupuestos:\r\nA) Cuando quiera conocer sus datos personales que se encuentran\r\n   registrados en una base de datos o similar y dicha información le haya\r\n   sido denegada, o no le hubiese sido proporcionada por el responsable de\r\n   la base de datos, en las oportunidades y plazos previstos por la ley.\r\nB) Cuando haya solicitado al responsable de la base de datos o\r\n   tratamiento su rectificación, actualización, eliminación, inclusión o\r\n   supresión y éste no hubiese procedido a ello o dado razones suficientes\r\n   por las que no corresponde lo solicitado, en el plazo previsto al\r\n   efecto en la ley.\r\nSerán competentes para conocer en las acciones de protección de datos\r\npersonales o habeas data:\r\n1) En la Capital, los Juzgados Letrados de Primera Instancia en lo\r\n   Contencioso Administrativo, cuando la acción se dirija contra una\r\n   persona pública estatal, y los Juzgados Letrados de Primera Instancia\r\n   en lo Civil en los restantes casos.\r\n2) Los Juzgados Letrados de Primera Instancia del Interior a quienes\r\n   se haya asignado competencia en dichas materias.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "39" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 39" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/39" 
+ ,"textoArticulo" : "  Legitimación.- La acción de habeas data podrá ser ejercida por el propio\r\nafectado titular de los datos o sus representantes, ya sean tutores o\r\ncuradores y, en caso de personas fallecidas, por sus sucesores\r\nuniversales, en línea directa o colateral hasta el segundo grado, por sí o\r\npor medio de apoderado.\r\nEn el caso de personas jurídicas, la acción deberá ser interpuesta por sus\r\nrepresentantes legales o los apoderados designados a tales efectos.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "40" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 40" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/40" 
+ ,"textoArticulo" : "  Procedimiento.- Las acciones que se promuevan por violación a los\r\nderechos contemplados en la presente ley se regirán por las normas\r\ncontenidas en los artículos que siguen al presente. Serán aplicables en lo\r\npertinente los artículos 14 y 15 del Código General del Proceso.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "41" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 41" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/41" 
+ ,"textoArticulo" : "  Trámite de primera instancia.- Salvo que la acción fuera manifiestamente\r\nimprocedente, en cuyo caso el tribunal la rechazará sin sustanciarla y\r\ndispondrá el archivo de las actuaciones, se convocará a las partes a una\r\naudiencia pública dentro del plazo de tres días de la fecha de la\r\npresentación de la demanda.\r\nEn dicha audiencia se oirán las explicaciones del demandado, se recibirán\r\nlas pruebas y se producirán los alegatos. El tribunal, que podrá rechazar\r\nlas pruebas manifiestamente impertinentes o innecesarias, presidirá la\r\naudiencia so pena de nulidad, e interrogará a los testigos y a las partes,\r\nsin perjuicio de que aquéllos sean, a su vez, repreguntados por los\r\nabogados. Gozará de los más amplios poderes de policía y de dirección de\r\nla audiencia.\r\nEn cualquier momento podrá ordenar diligencias para mejor proveer.\r\nLa sentencia se dictará en la audiencia o a más tardar, dentro de las\r\nveinticuatro horas de su celebración. Sólo en casos excepcionales podrá\r\nprorrogarse la audiencia por hasta tres días.\r\nLas notificaciones podrán realizarse por intermedio de la autoridad\r\npolicial. A los efectos del cómputo de los plazos de cumplimiento de lo\r\nordenado por la sentencia, se dejará constancia de la hora en que se\r\nefectuó la notificación.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "42" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 42" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/42" 
+ ,"textoArticulo" : "  Medidas provisionales.- Si de la demanda o en cualquier otro momento del\r\nproceso resultare, a juicio del tribunal, la necesidad de su inmediata\r\nactuación, éste dispondrá, con carácter provisional, las medidas que\r\ncorrespondieren en amparo del derecho o libertad presuntamente violados.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "43" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 43" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/43" 
+ ,"textoArticulo" : "  Contenido de la sentencia.- La sentencia que haga lugar al habeas data\r\ndeberá contener:\r\nA) La identificación concreta de la autoridad o el particular a quien\r\n   se dirija y contra cuya acción, hecho u omisión se conceda el habeas\r\n   data.\r\nB) La determinación precisa de lo que deba o no deba hacerse y el\r\n   plazo por el cual dicha resolución regirá, si es que corresponde\r\n   fijarlo.\r\nC) El plazo para el cumplimiento de lo dispuesto, que será fijado por\r\n   el tribunal conforme las circunstancias de cada caso, y no será mayor\r\n   de quince días corridos e ininterrumpidos, computados a partir de la\r\n   notificación.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "44" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 44" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/44" 
+ ,"textoArticulo" : "  Recurso de apelación y segunda instancia.- En el proceso de habeas data\r\nsólo serán apelables la sentencia definitiva y la que rechaza la acción\r\npor ser manifiestamente improcedente.\r\nEl recurso de apelación deberá interponerse en escrito fundado, dentro del\r\nplazo perentorio de tres días. El tribunal elevará sin más trámite los\r\nautos al superior cuando hubiere desestimado la acción por improcedencia\r\nmanifiesta, y lo sustanciará con un traslado a la contraparte, por tres\r\ndías perentorios, cuando la sentencia apelada fuese la definitiva.\r\nEl tribunal de alzada resolverá en acuerdo, dentro de los cuatro días\r\nsiguientes a la recepción de los autos. La interposición del recurso no\r\nsuspenderá las medidas de amparo decretadas, las cuales serán cumplidas\r\ninmediatamente después de notificada la sentencia, sin necesidad de tener\r\nque esperar el transcurso del plazo para su impugnación.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "45" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 45" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/45" 
+ ,"textoArticulo" : "  Sumariedad. Otros aspectos.-\r\nEn los procesos de habeas data no podrán deducirse cuestiones previas,\r\nreconvenciones ni incidentes. El tribunal, a petición de parte o de\r\noficio, subsanará los vicios de procedimiento, asegurando, dentro de la\r\nnaturaleza sumaria del proceso, la vigencia del principio de\r\ncontradictorio.\r\nCuando se planteare la inconstitucionalidad por vía de excepción o de\r\noficio (artículos 509 numeral 2 y 510 numeral 2 del Código General del\r\nProceso) se procederá a la suspensión del procedimiento sólo después que\r\nel Magistrado actuante haya dispuesto la adopción de las medidas\r\nprovisorias referidas en la presente ley o, en su caso, dejando constancia\r\ncircunstanciada de las razones de considerarlas innecesarias.\r\n\r\n                 \r\n " 
+  } 
+  
+ , { "nroArticulo" : "46" 
+   ,"secArticulo" : "" 
+  ,"titulosArticulo" : " CAPITULO IX - DISPOSICIONES TRANSITORIAS<br> " 
+  ,"tituloArticulo" : "Artículo 46" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/46" 
+ ,"textoArticulo" : "  Adecuación de las bases de datos.- Las bases de datos deberán adecuarse a\r\nla presente ley dentro del plazo de un año de su entrada en vigor.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "47" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 47" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/47" 
+ ,"textoArticulo" : "  Traslado del órgano de control referente a datos comerciales.- Se\r\nestablece el plazo de ciento veinte días corridos para que el actual\r\nórgano de control en materia de protección de datos comerciales, a cargo\r\ndel Ministerio de Economía y Finanzas, realice el traslado de la\r\ninformación y documentación a la AGESIC.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "48" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 48" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/48" 
+ ,"textoArticulo" : "  Derogación.- Se deroga la Ley Nº 17.838, de 24 de setiembre de 2004.\r\n " 
+  } 
+  
+ , { "nroArticulo" : "49" 
+   ,"secArticulo" : "" 
+  ,"tituloArticulo" : "Artículo 49" 
+  ,"urlArticulo" : "/bases/leyes/18331-2008/49" 
+ ,"textoArticulo" : "  Reglamentación.- El Poder Ejecutivo deberá reglamentar la presente ley\r\ndentro de los ciento ochenta días de su promulgación.\r\n\r\n " 
+  } 
+  ] 
+  ,"firmantes" : " TABARE VAZQUEZ - DAISY TOURNE - GONZALO FERNANDEZ - DANILO ASTORI - JOSE BAYARDI - MARIA SIMON - VICTOR ROSSI - DANIEL MARTINEZ - EDUARDO BONOMI - MARIA JULIA MUÑOZ - ERNESTO AGAZZI - HECTOR LESCANO - CARLOS COLACCE - MARINA ARISMENDI\r\n " 
+ }

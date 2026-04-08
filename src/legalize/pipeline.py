@@ -421,7 +421,13 @@ def generic_bootstrap(
         return 0
 
     console.print("\n[bold]Commit — generating git history[/bold]\n")
-    total_commits = commit_all(config, country, dry_run=dry_run)
+    # Use fast-import for bootstrap: 10-50x faster than commit_all() and,
+    # critically, sorts commits by publication date so the resulting git
+    # history is chronological. The slow commit_all() walks json files in
+    # filename order, which for countries with mixed pre/post-1970 laws
+    # leaves clamped 1970-01-02 commits at HEAD and breaks the web's
+    # incremental sync (`?since=…` filter on committer date returns 0).
+    total_commits = commit_all_fast(config, country, dry_run=dry_run)
 
     write_country_meta(config, country)
 
@@ -598,6 +604,7 @@ def commit_all_fast(
     country: str,
     limit: int | None = None,
     offset: int = 0,
+    dry_run: bool = False,
 ) -> int:
     """Generate commits for ALL laws using git fast-import.
 
@@ -641,6 +648,10 @@ def commit_all_fast(
     all_reforms.sort(key=lambda x: x[0])
 
     console.print(f"  {len(all_reforms)} total commits to generate (sorted by date)\n")
+
+    if dry_run:
+        console.print("[yellow]dry-run: skipping fast-import[/yellow]")
+        return len(all_reforms)
 
     # Cache loaded norms to avoid re-reading JSON
     norm_cache: dict[str, ParsedNorm] = {}
