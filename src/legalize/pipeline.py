@@ -59,6 +59,7 @@ _SKIP_WEEKDAYS: dict[str, set[int]] = {
     "lt": set(),  # Every day
     "de": {5, 6},  # Mon-Fri (GII)
     "uy": {6},  # Mon-Sat (IMPO)
+    "be": {5, 6},  # Mon-Fri (Moniteur Belge — consolidations published on business days)
 }
 
 

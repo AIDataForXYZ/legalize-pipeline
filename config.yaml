@@ -243,3 +243,27 @@ countries:
       # reflects each real reform. Set to false for a lightweight bootstrap
       # that only commits the current state.
       include_history: true
+
+  be:
+    repo_path: "../countries/be"
+    data_dir: "../countries/data-be"
+    cache_dir: ".cache"
+    # Benchmark 2026-04-11 (50 recent laws × 1 version each, 10 older 1995
+    # laws × ~2 versions each):
+    #   1 worker  × 1.0 req/s → 0.45 laws/s  (22s for 10 old laws)
+    #   4 workers × 2.0 req/s → 1.94 laws/s  (5.2s for 10 old laws) — sweet spot
+    #   8 workers × 2.0 req/s → 1.78 laws/s  (5.6s) — no further gain
+    # 100% success, zero 429/503. 8 workers plateaus because the older
+    # laws spend most of their time fetching 1-3 archive pages per law,
+    # and the single-URL cache + per-client rate limiter leaves little
+    # parallelism headroom beyond 4.
+    #
+    # Full bootstrap projection (primary legislation only, ~40K norms):
+    #   40,000 laws × avg 2 versions = 80,000 fetches
+    #   at ~2 laws/s effective → ~5-6 hours end-to-end.
+    max_workers: 4
+    source:
+      base_url: "https://www.ejustice.just.fgov.be"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
