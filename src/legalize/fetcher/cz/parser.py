@@ -23,8 +23,10 @@ _CTRL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
 # Regex for extracting amendment numbers from full citation text.
 _AMENDMENT_RE = re.compile(r"č\.\s*(\d+)/(\d+)\s*Sb\.")
 
-# Fragment types that are structural containers (no text to render).
-_VIRTUAL_TYPES = frozenset(
+# Fragment types to skip (structural containers + prefix metadata).
+# Prefix fragments (law number, type, author, date) are redundant with
+# frontmatter. The body should start with the actual legal text.
+_SKIP_TYPES = frozenset(
     {
         "Virtual_Document",
         "Virtual_Prefix",
@@ -32,6 +34,12 @@ _VIRTUAL_TYPES = frozenset(
         "Virtual_Postfix",
         "Virtual_PPC",
         "Block_Ucinnostni_Ustanoveni",
+        "Prefix_Number",
+        "Prefix_Type",
+        "Prefix_Author",
+        "Prefix_Date",
+        "Prefix",
+        "Prefix_Title",
     }
 )
 
@@ -42,12 +50,6 @@ _VIRTUAL_TYPES = frozenset(
 #   Cast (Part) > Hlava (Title) > Dil (Division) > Oddil (Section)
 #   > Clanek/Paragraf (Article/§) > Odstavec (Paragraph) > Pismeno (Letter)
 _FRAGMENT_TYPE_MAP: dict[str, tuple[str, int | None]] = {
-    "Prefix_Number": ("centro_negrita", 1),
-    "Prefix_Type": ("centro_negrita", 1),
-    "Prefix_Author": ("parrafo", None),
-    "Prefix_Date": ("parrafo", None),
-    "Prefix": ("titulo_tit", 2),
-    "Prefix_Title": ("titulo_tit", 2),
     "Preambule": ("parrafo", None),
     "Cast": ("titulo_tit", 2),  # ## ČÁST — Part (highest structural)
     "Hlava": ("capitulo_tit", 3),  # ### HLAVA — Title
@@ -244,8 +246,8 @@ class ESbirkaTextParser(TextParser):
         for frag in fragments:
             frag_type = frag.get("kodTypuFragmentu", "")
 
-            # Skip structural containers
-            if frag_type in _VIRTUAL_TYPES:
+            # Skip structural containers and prefix metadata
+            if frag_type in _SKIP_TYPES:
                 continue
 
             # Skip fragments with no text
