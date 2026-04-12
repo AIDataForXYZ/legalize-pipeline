@@ -61,8 +61,68 @@ _FRAGMENT_TYPE_MAP: dict[str, tuple[str, int | None]] = {
     "Pismeno_Lb": ("list_item", None),
     "Bod_Dd": ("list_item", None),
     "Pokracovani_Text": ("parrafo", None),
+    "Tabulka": ("table", None),
     "Postfix": ("firma_rey", None),
 }
+
+
+def _html_table_to_markdown(html: str) -> str:
+    """Convert an HTML <table> to a Markdown pipe table.
+
+    Handles <th> (header) and <td> (data) cells. Multi-line cell
+    content (from <br/>) is joined with spaces. Returns a complete
+    Markdown table string.
+    """
+    # Extract rows
+    rows: list[list[str]] = []
+    is_header: list[bool] = []
+
+    for row_match in re.finditer(r"<tr[^>]*>(.*?)</tr>", html, re.DOTALL):
+        row_html = row_match.group(1)
+        cells = []
+        row_is_header = False
+
+        for cell_match in re.finditer(r"<(th|td)[^>]*>(.*?)</\1>", row_html, re.DOTALL):
+            tag = cell_match.group(1)
+            content = cell_match.group(2)
+            if tag == "th":
+                row_is_header = True
+            # Clean cell content
+            content = re.sub(r"<br\s*/?>", " ", content)
+            content = re.sub(r"<[^>]+>", "", content)
+            content = content.replace("&amp;", "&")
+            content = content.replace("&nbsp;", " ")
+            content = _CTRL.sub("", content)
+            content = re.sub(r"\s+", " ", content).strip()
+            # Escape pipe chars inside cells
+            content = content.replace("|", "\\|")
+            cells.append(content)
+
+        if cells:
+            rows.append(cells)
+            is_header.append(row_is_header)
+
+    if not rows:
+        return ""
+
+    # Normalize column count
+    max_cols = max(len(r) for r in rows)
+    for row in rows:
+        while len(row) < max_cols:
+            row.append("")
+
+    lines = []
+    for i, row in enumerate(rows):
+        lines.append("| " + " | ".join(row) + " |")
+        # Add separator after header row
+        if is_header[i] and (i + 1 >= len(rows) or not is_header[i + 1]):
+            lines.append("| " + " | ".join("---" for _ in row) + " |")
+
+    # If no header row found, add separator after first row
+    if not any(is_header):
+        lines.insert(1, "| " + " | ".join("---" for _ in rows[0]) + " |")
+
+    return "\n".join(lines)
 
 
 def _clean_text(text: str) -> str:
@@ -72,6 +132,7 @@ def _clean_text(text: str) -> str:
     - Converts <em> to *italic*
     - Converts <strong> to **bold**
     - Converts <sup> to ^superscript
+    - Converts <br/> to space
     - Strips remaining HTML tags
     - Removes C0/C1 control characters
     - Normalizes whitespace
@@ -79,17 +140,39 @@ def _clean_text(text: str) -> str:
     if not text:
         return ""
 
-    # Inline formatting before stripping tags
-    text = re.sub(r"<em>(.*?)</em>", r"*\1*", text, flags=re.DOTALL)
-    text = re.sub(r"<strong>(.*?)</strong>", r"**\1**", text, flags=re.DOTALL)
+    # Bold: <strong>, <b>
+    text = re.sub(r"<(?:strong|b)>(.*?)</(?:strong|b)>", r"**\1**", text, flags=re.DOTALL)
+    # Italic: <em>, <i>
+    text = re.sub(r"<(?:em|i)>(.*?)</(?:em|i)>", r"*\1*", text, flags=re.DOTALL)
+    # Superscript: <sup>
     text = re.sub(r"<sup>(.*?)</sup>", r"^\1", text, flags=re.DOTALL)
+    # Subscript: <sub> — keep content, no MD equivalent
+    text = re.sub(r"</?sub>", "", text)
+    # Underline: <u> — strip (no MD equivalent)
+    text = re.sub(r"</?u>", "", text)
+
+    # Links: <a ...>text</a> — keep link text only
+    text = re.sub(r"<a[^>]*>(.*?)</a>", r"\1", text, flags=re.DOTALL)
+
+    # Line breaks → space
+    text = re.sub(r"<br\s*/?>", " ", text)
+
+    # MathML: strip all MathML tags, keep text content
+    text = re.sub(
+        r"</?(?:math|mrow|mfrac|msub|msup|msubsup|munder|munderover"
+        r"|mfenced|mo|mi|mn)[^>]*>",
+        "",
+        text,
+    )
+
+    # Images: drop entirely (project policy: no binary assets)
+    text = re.sub(r"<img[^>]*>", "[image omitted]", text)
 
     # Strip <var> tags (keep content)
     text = re.sub(r"</?var>", "", text)
 
-    # Strip <czechvoc-termin ...>...</czechvoc-termin> (keep content)
-    text = re.sub(r"<czechvoc-termin[^>]*>", "", text)
-    text = re.sub(r"</czechvoc-termin>", "", text)
+    # Strip <czechvoc-termin ...>...</czechvoc-termin> and <czechvoc...> (keep content)
+    text = re.sub(r"</?czechvoc[^>]*>", "", text)
 
     # Strip any remaining HTML tags
     text = re.sub(r"<[^>]+>", "", text)
@@ -180,6 +263,13 @@ class ESbirkaTextParser(TextParser):
                 css_class = mapping[0]
             else:
                 css_class = "parrafo"
+
+            # Tables: convert HTML to Markdown pipe table
+            if css_class == "table":
+                md_table = _html_table_to_markdown(xhtml)
+                if md_table:
+                    paragraphs.append(Paragraph(css_class="parrafo", text=md_table))
+                continue
 
             # Prefix lettered/numbered points with "- " for Markdown lists
             if css_class == "list_item":

@@ -19,6 +19,7 @@ from legalize.fetcher.cz.parser import (
     ESbirkaMetadataParser,
     ESbirkaTextParser,
     _clean_text,
+    _html_table_to_markdown,
     _parse_date,
     _stale_url_to_identifier,
 )
@@ -96,6 +97,32 @@ class TestHelpers:
 
     def test_clean_text_normalizes_whitespace(self):
         assert _clean_text("  hello   world  ") == "hello world"
+
+    def test_clean_text_bold_b_tag(self):
+        assert _clean_text("<b>bold</b>") == "**bold**"
+
+    def test_clean_text_italic_i_tag(self):
+        assert _clean_text("<i>italic</i>") == "*italic*"
+
+    def test_clean_text_subscript_stripped(self):
+        assert _clean_text("CO<sub>2</sub>") == "CO2"
+
+    def test_clean_text_underline_stripped(self):
+        assert _clean_text("<u>16</u>") == "16"
+
+    def test_clean_text_link_keeps_text(self):
+        assert _clean_text('<a href="#" class="ext">Listina</a>') == "Listina"
+
+    def test_clean_text_image_replaced(self):
+        assert _clean_text('<img src="/foo"/>') == "[image omitted]"
+
+    def test_clean_text_mathml_stripped(self):
+        result = _clean_text("<math><mfrac><mi>α</mi><mi>β</mi></mfrac></math>")
+        assert "α" in result
+        assert "<" not in result
+
+    def test_clean_text_br_to_space(self):
+        assert _clean_text("line1<br/>line2") == "line1 line2"
 
     def test_clean_text_empty(self):
         assert _clean_text("") == ""
@@ -371,6 +398,61 @@ class TestTextParserEdgeCases:
         blocks = ESbirkaTextParser().parse_text(data)
         assert len(blocks) == 1
         assert blocks[0].versions[0].paragraphs[0].text == "Hello world"
+
+
+# ─────────────────────────────────────────────
+# Reform extraction
+# ─────────────────────────────────────────────
+
+
+# ─────────────────────────────────────────────
+# Table conversion
+# ─────────────────────────────────────────────
+
+
+class TestTableConversion:
+    def test_simple_table(self):
+        html = (
+            "<table><tbody>"
+            "<tr><th>A</th><th>B</th></tr>"
+            "<tr><td>1</td><td>2</td></tr>"
+            "</tbody></table>"
+        )
+        md = _html_table_to_markdown(html)
+        assert "| A | B |" in md
+        assert "| --- | --- |" in md
+        assert "| 1 | 2 |" in md
+
+    def test_table_with_br(self):
+        html = "<table><tbody><tr><th>Col<br/>1</th></tr><tr><td>val</td></tr></tbody></table>"
+        md = _html_table_to_markdown(html)
+        assert "Col 1" in md  # <br/> → space
+
+    def test_empty_table(self):
+        assert _html_table_to_markdown("") == ""
+        assert _html_table_to_markdown("<table></table>") == ""
+
+    def test_table_with_pipe_in_content(self):
+        html = "<table><tbody><tr><td>a|b</td></tr></tbody></table>"
+        md = _html_table_to_markdown(html)
+        assert "a\\|b" in md  # pipe escaped
+
+    def test_table_fragment_rendered(self):
+        """Tabulka fragments should produce table paragraphs."""
+        import json
+
+        frags = [
+            {
+                "kodTypuFragmentu": "Tabulka",
+                "xhtml": "<table><tbody><tr><th>X</th></tr><tr><td>1</td></tr></tbody></table>",
+            },
+        ]
+        data = json.dumps(frags).encode()
+        blocks = ESbirkaTextParser().parse_text(data)
+        assert len(blocks) == 1
+        text = blocks[0].versions[0].paragraphs[0].text
+        assert "| X |" in text
+        assert "| 1 |" in text
 
 
 # ─────────────────────────────────────────────

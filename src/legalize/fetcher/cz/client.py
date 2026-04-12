@@ -82,12 +82,13 @@ class ESbirkaClient(HttpClient):
         return self._get(url)
 
     def get_text(self, norm_id: str) -> bytes:
-        """Fetch text fragments for the current version of a law.
+        """Fetch ALL text fragments for a law (auto-paginates).
 
-        Returns JSON with {seznam: [...fragments], pocetStranek: N}.
-        For multi-page laws, call get_text_page() for additional pages.
+        Returns JSON list of all fragments merged across pages.
+        The pipeline calls this via generic_daily/bootstrap.
         """
-        return self.get_text_page(norm_id, page=0)
+        fragments = self._fetch_all_pages(norm_id)
+        return json.dumps(fragments).encode("utf-8")
 
     def get_text_page(self, norm_id: str, page: int = 0) -> bytes:
         """Fetch a specific page of text fragments."""
