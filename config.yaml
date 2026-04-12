@@ -285,9 +285,16 @@ countries:
     repo_path: "../countries/cz"
     data_dir: "../countries/data-cz"
     cache_dir: ".cache"
-    max_workers: 1
+    # Benchmark 2026-04-12 (50 laws, metadata-only):
+    #   1w × 5 r/s  →  4.9 laws/s (10s)
+    #   4w × 5 r/s  → 18.0 laws/s (2.8s) — sweet spot
+    #   8w × 5 r/s  → 29.2 laws/s (1.7s) — zero 429/503
+    # Full text fetches are heavier (multi-page fragments for big laws),
+    # so use 4 workers conservatively. Zero rate-limit errors observed
+    # up to 40 req/s aggregate.
+    max_workers: 4
     source:
       base_url: "https://e-sbirka.gov.cz/sbr-cache"
       request_timeout: 30
       max_retries: 3
-      requests_per_second: 2.0
+      requests_per_second: 5.0
