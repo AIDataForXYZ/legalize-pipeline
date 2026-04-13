@@ -1,0 +1,73 @@
+name: Monthly update (Argentina)
+
+# Argentina's InfoLEG catalog refreshes on the 1st of each month. This
+# workflow runs on the 2nd at 12:00 UTC (to give SAIJ a few hours of slack)
+# and replays the full AR bootstrap. The engine's idempotency layer skips
+# commits that already exist, so re-running is safe and fast for unchanged
+# norms.
+#
+# Unlike the daily-update workflow, AR is NOT on the matrix: the InfoLEG
+# catalog is published monthly, daily runs would be a pure no-op (enforced
+# by `_SKIP_WEEKDAYS["ar"] = {0..6}` in pipeline.py).
+
+on:
+  schedule:
+    - cron: "0 12 2 * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Force full re-bootstrap (ignore idempotency cache)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 480  # 8h ceiling — actual run is ~4-6h
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - uses: actions/create-github-app-token@d72941d797fd3113feb6b93fd0dec494b13a2547 # v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.LEGALIZE_APP_ID }}
+          private-key: ${{ secrets.LEGALIZE_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          repository: legalize-dev/legalize-ar
+          path: repos/ar
+          token: ${{ steps.app-token.outputs.token }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Configure git identity
+        working-directory: repos/ar
+        run: |
+          git config user.name "Legalize"
+          git config user.email "legalize@legalize.dev"
+
+      - name: Run AR bootstrap (idempotent — existing commits are skipped)
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          legalize bootstrap -c ar --repo-path repos/ar --data-dir data-ar
+
+      - name: Push updates
+        working-directory: repos/ar
+        run: |
+          if git diff --quiet HEAD origin/main; then
+            echo "No new commits to push."
+          else
+            git push origin HEAD:main
+          fi

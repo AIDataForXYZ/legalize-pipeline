@@ -60,6 +60,7 @@ _SKIP_WEEKDAYS: dict[str, set[int]] = {
     "de": {5, 6},  # Mon-Fri (GII)
     "uy": {6},  # Mon-Sat (IMPO)
     "be": {5, 6},  # Mon-Fri (Moniteur Belge — consolidations published on business days)
+    "ar": {0, 1, 2, 3, 4, 5, 6},  # InfoLEG catalog refreshes monthly; daily runs are no-ops
 }
 
 
@@ -244,7 +245,7 @@ def generic_fetch_one(
     from legalize.countries import get_client_class, get_metadata_parser, get_text_parser
 
     cc = config.get_country(country)
-    safe_id = norm_id.replace(":", "-").replace("/", "-")
+    safe_id = norm_id.replace(":", "-").replace("/", "-").replace(" ", "")
     json_path = Path(cc.data_dir) / "json" / f"{safe_id}.json"
 
     if json_path.exists() and not force:
@@ -325,11 +326,22 @@ def generic_fetch_all(
     client_cls = get_client_class(country)
     discovery_cls = get_discovery_class(country)
 
-    # Discover all norm IDs (pass data_dir for discovery cache)
+    # Discover all norm IDs — cache to disk so restarts skip rediscovery
     source_with_cache = {**cc.source, "cache_dir": cc.data_dir}
-    with client_cls.create(cc) as client:
-        discovery = discovery_cls.create(source_with_cache)
-        norm_ids = list(discovery.discover_all(client))
+    discovery_cache = Path(cc.data_dir) / "discovery_ids.txt"
+
+    if discovery_cache.exists() and not force:
+        norm_ids = [
+            line.strip() for line in discovery_cache.read_text().splitlines() if line.strip()
+        ]
+        console.print(f"[dim]Loaded {len(norm_ids)} IDs from discovery cache[/dim]")
+    else:
+        with client_cls.create(cc) as client:
+            discovery = discovery_cls.create(source_with_cache)
+            norm_ids = list(discovery.discover_all(client))
+        discovery_cache.parent.mkdir(parents=True, exist_ok=True)
+        discovery_cache.write_text("\n".join(norm_ids) + "\n")
+        console.print(f"[dim]Saved {len(norm_ids)} IDs to discovery cache[/dim]")
 
     if limit:
         norm_ids = norm_ids[:limit]
@@ -481,6 +493,17 @@ def commit_one(config: Config, country: str, norm_id: str, dry_run: bool = False
     metadata = norm.metadata
     blocks = norm.blocks
     reforms = norm.reforms
+
+    # Ensure at least one bootstrap reform so the law gets committed.
+    # Some sources (e.g. old Swedish SFS) have no amendment register entries.
+    if not reforms and blocks:
+        reforms = (
+            Reform(
+                date=metadata.publication_date,
+                norm_id=metadata.identifier,
+                affected_blocks=(),
+            ),
+        )
 
     logger.info("Committing %s: %d reforms", norm_id, len(reforms))
     console.print(
@@ -643,7 +666,18 @@ def commit_all_fast(
             logger.error("Error loading %s, skipping", json_file, exc_info=True)
             continue
 
-        for i, reform in enumerate(norm.reforms):
+        reforms = norm.reforms
+        # Ensure at least one bootstrap reform so the law gets committed.
+        if not reforms and norm.blocks:
+            reforms = (
+                Reform(
+                    date=norm.metadata.publication_date,
+                    norm_id=norm.metadata.identifier,
+                    affected_blocks=(),
+                ),
+            )
+
+        for i, reform in enumerate(reforms):
             all_reforms.append((reform.date, json_file.stem, i, json_file))
 
     all_reforms.sort(key=lambda x: x[0])
@@ -662,12 +696,22 @@ def commit_all_fast(
         for idx, (reform_date, norm_id, reform_idx, json_file) in enumerate(all_reforms):
             try:
                 if norm_id not in norm_cache:
-                    norm_cache[norm_id] = load_norma_from_json(json_file)
+                    loaded = load_norma_from_json(json_file)
+                    r = loaded.reforms
+                    if not r and loaded.blocks:
+                        r = (
+                            Reform(
+                                date=loaded.metadata.publication_date,
+                                norm_id=loaded.metadata.identifier,
+                                affected_blocks=(),
+                            ),
+                        )
+                    norm_cache[norm_id] = (loaded, r)
 
-                norm = norm_cache[norm_id]
+                norm, reforms_cached = norm_cache[norm_id]
                 metadata = norm.metadata
                 blocks = norm.blocks
-                reform = norm.reforms[reform_idx]
+                reform = reforms_cached[reform_idx]
 
                 is_first = reform_idx == 0
                 commit_type = CommitType.BOOTSTRAP if is_first else CommitType.REFORM
