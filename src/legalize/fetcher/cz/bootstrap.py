@@ -4,14 +4,15 @@ The e-Sbírka API provides point-in-time access to every law version:
 each version is accessible by appending the effective date to the
 staleUrl (/sb/{year}/{number}/{date}). This bootstrap:
 
-  1. Discovers all laws via paginated search.
-  2. For each law (parallelized):
-     - Fetches metadata → extracts amendment list from citation text.
-     - Fetches each amendment's metadata → gets effective date.
-     - Fetches the law's text at each historical date.
-     - Renders each version to Markdown.
-  3. Commits versions sequentially (oldest first per law), with
-     GIT_AUTHOR_DATE set to the version's effective date.
+  1. Discovers all laws via parallel year probing.
+  2. For each law (parallelized), fetches metadata + all version texts,
+     saves to data-cz/json/{id}.json. **Skips laws already on disk.**
+  3. Reads JSON files from disk, commits versions sequentially (oldest
+     first per law) with GIT_AUTHOR_DATE = effective date.
+
+Phases 1+2 are resumable: if the process crashes, rerunning skips
+already-fetched laws. Phase 3 is also crash-safe: write_and_add
+detects unchanged files.
 
 This module is discovered automatically by
 :func:`legalize.pipeline.generic_bootstrap` via the optional
@@ -26,11 +27,10 @@ import re
 import subprocess
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from dataclasses import dataclass, field
 from datetime import date
+from pathlib import Path
 
 import requests
-
 from rich.console import Console
 
 from legalize.committer.git_ops import GitRepo
@@ -45,16 +45,113 @@ from legalize.transformer.slug import norm_to_filepath
 console = Console()
 logger = logging.getLogger(__name__)
 
-# Regex for extracting amendment numbers from full citation text.
 _AMENDMENT_RE = re.compile(r"č\.\s*(\d+)/(\d+)\s*Sb\.")
-
-
 _MIN_YEAR = 1945
 _MAX_LAW_NUMBER = 800
 
 
+def bootstrap(
+    config: Config,
+    dry_run: bool = False,
+    limit: int | None = None,
+    workers: int | None = None,
+) -> int:
+    """CZ bootstrap: discover → parallel fetch to disk → sequential commits."""
+    cc = config.get_country("cz")
+    if workers is None:
+        workers = getattr(cc, "max_workers", 4) or 4
+
+    json_dir = Path(cc.data_dir) / "json"
+    json_dir.mkdir(parents=True, exist_ok=True)
+
+    console.print("[bold]Bootstrap CZ — e-Sbírka with version history[/bold]\n")
+    console.print(f"  Repo: {cc.repo_path}")
+    console.print(f"  Data: {json_dir}")
+    console.print(f"  Workers: {workers}\n")
+
+    # ── Phase 1: Discovery ──
+    console.print("[bold]Phase 1: Discovery (parallel by year)[/bold]")
+    disc_start = time.monotonic()
+    all_ids = _discover_parallel(cc, workers=workers, limit=limit)
+    console.print(f"  Found {len(all_ids)} laws in {time.monotonic() - disc_start:.0f}s\n")
+
+    if not all_ids:
+        return 0
+
+    # ── Phase 2: Fetch to disk (resumable) ──
+    already = sum(1 for sid in all_ids if _json_path(json_dir, sid).exists())
+    to_fetch = len(all_ids) - already
+    console.print(
+        f"[bold]Phase 2: Fetch versions ({workers} workers)[/bold]\n"
+        f"  {already} already on disk, {to_fetch} to fetch"
+    )
+
+    fetch_start = time.monotonic()
+    errors = 0
+    fetched = 0
+
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {
+            pool.submit(_fetch_and_save, cc, json_dir, sid): sid
+            for sid in all_ids
+            if not _json_path(json_dir, sid).exists()
+        }
+
+        for future in as_completed(futures):
+            try:
+                ok = future.result()
+                if ok:
+                    fetched += 1
+                else:
+                    errors += 1
+            except Exception as e:
+                errors += 1
+                logger.error("Fetch error: %s", e)
+
+            done = fetched + errors
+            if done % 100 == 0:
+                elapsed = time.monotonic() - fetch_start
+                rate = done / elapsed if elapsed > 0 else 0
+                console.print(f"  {done}/{to_fetch} ({rate:.1f}/s), {errors} errors")
+
+    console.print(
+        f"\n  Fetched {fetched} laws in {time.monotonic() - fetch_start:.0f}s ({errors} errors)\n"
+    )
+
+    if dry_run:
+        console.print("[yellow]Dry run — no commits created[/yellow]")
+        return 0
+
+    # ── Phase 3: Commit from disk ──
+    console.print("[bold]Phase 3: Commit versions from disk[/bold]")
+    repo = GitRepo(cc.repo_path, config.git.committer_name, config.git.committer_email)
+    total_commits = 0
+
+    json_files = sorted(json_dir.glob("*.json"))
+    for i, jf in enumerate(json_files, 1):
+        try:
+            commits = _commit_from_json(repo, jf)
+            total_commits += commits
+        except Exception as e:
+            logger.error("Commit error for %s: %s", jf.name, e)
+
+        if i % 500 == 0:
+            console.print(f"  {i}/{len(json_files)} files, {total_commits} commits")
+
+    console.print(
+        f"\n[bold green]✓ Bootstrap CZ complete[/bold green]\n"
+        f"  {len(json_files)} laws, {total_commits} commits"
+    )
+    return total_commits
+
+
+# ─────────────────────────────────────────────
+# Phase 1: Parallel discovery
+# ─────────────────────────────────────────────
+
+
 def _discover_year(cc, year: int) -> list[str]:
-    """Probe all law numbers for a single year. Runs in its own thread."""
+    """Probe all law numbers for a single year."""
     found: list[str] = []
     consecutive_misses = 0
 
@@ -73,15 +170,10 @@ def _discover_year(cc, year: int) -> list[str]:
     return found
 
 
-def _discover_parallel(
-    cc,
-    workers: int = 4,
-    limit: int | None = None,
-) -> list[str]:
+def _discover_parallel(cc, workers: int = 4, limit: int | None = None) -> list[str]:
     """Discover all laws by probing years in parallel."""
     current_year = date.today().year
     years = list(range(current_year, _MIN_YEAR - 1, -1))
-
     all_ids: list[str] = []
 
     with ThreadPoolExecutor(max_workers=workers) as pool:
@@ -98,7 +190,6 @@ def _discover_parallel(
                 logger.error("Discovery error for %d: %s", year, e)
 
             if limit and len(all_ids) >= limit:
-                # Cancel remaining futures
                 for f in futures:
                     f.cancel()
                 all_ids = all_ids[:limit]
@@ -107,191 +198,71 @@ def _discover_parallel(
     return all_ids
 
 
-@dataclass
-class _VersionSnapshot:
-    """One version of a law, ready to commit."""
-
-    effective_date: date
-    markdown: str
-    source_amendment: str  # e.g. "347/1997 Sb." or "original"
+# ─────────────────────────────────────────────
+# Phase 2: Fetch + save to disk
+# ─────────────────────────────────────────────
 
 
-@dataclass
-class _PreparedLaw:
-    """A law with all its versions fetched and rendered."""
-
-    stale_url: str
-    metadata: NormMetadata
-    file_path: str
-    versions: list[_VersionSnapshot] = field(default_factory=list)
-    error: str | None = None
+def _json_path(json_dir: Path, stale_url: str) -> Path:
+    """Get the JSON file path for a law."""
+    safe = stale_url.strip("/").replace("/", "-")
+    return json_dir / f"{safe}.json"
 
 
-def bootstrap(
-    config: Config,
-    dry_run: bool = False,
-    limit: int | None = None,
-    workers: int | None = None,
-) -> int:
-    """CZ bootstrap: discover → parallel fetch versions → sequential commits.
-
-    Returns the total number of commits created.
-    """
-    cc = config.get_country("cz")
-    if workers is None:
-        workers = getattr(cc, "max_workers", 4) or 4
-
-    console.print("[bold]Bootstrap CZ — e-Sbírka with version history[/bold]\n")
-    console.print(f"  Repo: {cc.repo_path}")
-    console.print(f"  Workers: {workers}\n")
-
-    # 1. Discovery — parallel by year (much faster than sequential)
-    console.print("[bold]Phase 1: Discovery (parallel by year)[/bold]")
-    disc_start = time.monotonic()
-    all_ids = _discover_parallel(cc, workers=workers, limit=limit)
-    disc_time = time.monotonic() - disc_start
-    console.print(f"  Found {len(all_ids)} laws in {disc_time:.0f}s\n")
-
-    if not all_ids:
-        return 0
-
-    # 2. Parallel fetch + version reconstruction
-    console.print(f"[bold]Phase 2: Fetch versions ({workers} workers)[/bold]")
-    start_time = time.monotonic()
-    prepared: list[_PreparedLaw] = []
-    errors = 0
-
-    with ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = {pool.submit(_prepare_one_law, cc, stale_url): stale_url for stale_url in all_ids}
-
-        for i, future in enumerate(as_completed(futures), 1):
-            stale_url = futures[future]
-            try:
-                law = future.result()
-                if law.error:
-                    errors += 1
-                    logger.warning("Error preparing %s: %s", stale_url, law.error)
-                else:
-                    prepared.append(law)
-            except Exception as e:
-                errors += 1
-                logger.error("Exception preparing %s: %s", stale_url, e)
-
-            if i % 100 == 0:
-                elapsed = time.monotonic() - start_time
-                rate = i / elapsed
-                console.print(f"  {i}/{len(all_ids)} laws fetched ({rate:.1f}/s), {errors} errors")
-
-    fetch_time = time.monotonic() - start_time
-    total_versions = sum(len(p.versions) for p in prepared)
-    console.print(
-        f"\n  Fetched {len(prepared)} laws with {total_versions} versions "
-        f"in {fetch_time:.0f}s ({errors} errors)\n"
-    )
-
-    if dry_run:
-        console.print("[yellow]Dry run — no commits created[/yellow]")
-        return 0
-
-    # 3. Sequential commits (oldest first per law)
-    console.print("[bold]Phase 3: Commit versions[/bold]")
-    repo = GitRepo(cc.repo_path, config.git.committer_name, config.git.committer_email)
-    total_commits = 0
-
-    for i, law in enumerate(prepared, 1):
-        commits = _commit_law(repo, law)
-        total_commits += commits
-        if i % 100 == 0:
-            console.print(f"  {i}/{len(prepared)} laws committed, {total_commits} total commits")
-
-    console.print(
-        f"\n[bold green]✓ Bootstrap CZ complete[/bold green]\n"
-        f"  {len(prepared)} laws, {total_versions} versions, "
-        f"{total_commits} commits"
-    )
-    return total_commits
-
-
-def _prepare_one_law(cc, stale_url: str) -> _PreparedLaw:
-    """Fetch metadata + all historical versions for one law.
-
-    Each worker creates its own client (with its own rate limiter).
-    """
+def _fetch_and_save(cc, json_dir: Path, stale_url: str) -> bool:
+    """Fetch all versions of a law and save to JSON file."""
     meta_parser = ESbirkaMetadataParser()
     text_parser = ESbirkaTextParser()
 
     with ESbirkaClient.create(cc) as client:
         try:
-            # Fetch current metadata
             meta_bytes = client.get_metadata(stale_url)
             metadata = meta_parser.parse(meta_bytes, stale_url)
-            file_path = norm_to_filepath(metadata)
             meta_json = json.loads(meta_bytes)
         except Exception as e:
-            return _PreparedLaw(
-                stale_url=stale_url,
-                metadata=NormMetadata(
-                    title="",
-                    short_title="",
-                    identifier=stale_url,
-                    country="cz",
-                    rank="unknown",
-                    publication_date=date(1970, 1, 1),
-                    status="unknown",
-                    department="",
-                    source="",
-                ),
-                file_path="",
-                error=str(e),
-            )
+            logger.warning("Metadata error for %s: %s", stale_url, e)
+            return False
 
         # Build version timeline
-        version_dates = _build_version_timeline(client, meta_json, stale_url)
+        timeline = _build_version_timeline(client, meta_json, stale_url)
 
-        # Fetch text at each version date
-        versions: list[_VersionSnapshot] = []
-        for v_date, source in version_dates:
+        # Fetch + render each version
+        versions = []
+        for v_date, source in timeline:
             try:
                 text_bytes = client.get_text(f"{stale_url}/{v_date.isoformat()}")
                 blocks = text_parser.parse_text(text_bytes)
                 md = render_norm_at_date(metadata, blocks, v_date)
                 versions.append(
-                    _VersionSnapshot(
-                        effective_date=v_date,
-                        markdown=md,
-                        source_amendment=source,
-                    )
+                    {
+                        "date": v_date.isoformat(),
+                        "source": source,
+                        "markdown": md,
+                    }
                 )
             except requests.HTTPError as e:
                 if e.response is not None and e.response.status_code in (400, 404):
-                    # Version not available at this date — skip
-                    logger.debug(
-                        "Version %s at %s not available: %s",
-                        stale_url,
-                        v_date,
-                        e,
-                    )
+                    logger.debug("Version %s at %s not available", stale_url, v_date)
                 else:
-                    logger.warning(
-                        "Error fetching %s at %s: %s",
-                        stale_url,
-                        v_date,
-                        e,
-                    )
+                    logger.warning("Error fetching %s at %s: %s", stale_url, v_date, e)
             except Exception as e:
-                logger.warning(
-                    "Error processing %s at %s: %s",
-                    stale_url,
-                    v_date,
-                    e,
-                )
+                logger.warning("Error processing %s at %s: %s", stale_url, v_date, e)
 
-    return _PreparedLaw(
-        stale_url=stale_url,
-        metadata=metadata,
-        file_path=file_path,
-        versions=versions,
-    )
+    if not versions:
+        return False
+
+    # Save to disk
+    record = {
+        "stale_url": stale_url,
+        "identifier": metadata.identifier,
+        "title": metadata.title,
+        "short_title": metadata.short_title,
+        "file_path": norm_to_filepath(metadata),
+        "versions": versions,
+    }
+    out = _json_path(json_dir, stale_url)
+    out.write_text(json.dumps(record, ensure_ascii=False, indent=1), encoding="utf-8")
+    return True
 
 
 def _build_version_timeline(
@@ -299,12 +270,7 @@ def _build_version_timeline(
     meta: dict,
     stale_url: str,
 ) -> list[tuple[date, str]]:
-    """Build a chronological list of (effective_date, source) for all versions.
-
-    Parses amendment numbers from the full citation text, then fetches
-    each amendment's metadata to get its effective date.
-    """
-    # Original version date
+    """Build chronological list of (effective_date, source) for all versions."""
     original_date_str = meta.get("datumUcinnostiOd", "")
     if not original_date_str:
         return []
@@ -312,18 +278,14 @@ def _build_version_timeline(
     original_date = date.fromisoformat(original_date_str[:10])
     timeline: list[tuple[date, str]] = [(original_date, "original")]
 
-    # Extract amendment numbers from full citation
     citation = meta.get("uplnaCitaceSNovelami", "")
     amendments = _AMENDMENT_RE.findall(citation)
 
     for num, year in amendments:
-        # Skip the law itself
         if f"/{year}/{num}" in stale_url:
             continue
-
-        amendment_url = f"/sb/{year}/{num}"
         try:
-            amend_bytes = client.get_metadata(amendment_url)
+            amend_bytes = client.get_metadata(f"/sb/{year}/{num}")
             amend_meta = json.loads(amend_bytes)
             eff_date_str = amend_meta.get("datumUcinnostiOd", "")
             if eff_date_str:
@@ -332,7 +294,6 @@ def _build_version_timeline(
         except Exception:
             logger.debug("Could not fetch amendment %s/%s metadata", num, year)
 
-    # Sort chronologically and deduplicate dates
     timeline.sort(key=lambda x: x[0])
     seen: set[date] = set()
     unique: list[tuple[date, str]] = []
@@ -344,43 +305,52 @@ def _build_version_timeline(
     return unique
 
 
-def _commit_law(repo: GitRepo, law: _PreparedLaw) -> int:
-    """Create git commits for all versions of a law (oldest first)."""
-    if not law.versions or not law.file_path:
+# ─────────────────────────────────────────────
+# Phase 3: Commit from JSON files on disk
+# ─────────────────────────────────────────────
+
+
+def _commit_from_json(repo: GitRepo, json_file: Path) -> int:
+    """Read a saved law JSON and create git commits for all versions."""
+    record = json.loads(json_file.read_text(encoding="utf-8"))
+    file_path = record["file_path"]
+    versions = record.get("versions", [])
+
+    if not versions or not file_path:
         return 0
 
     commits = 0
-    for i, version in enumerate(law.versions):
-        changed = repo.write_and_add(law.file_path, version.markdown)
+    for i, v in enumerate(versions):
+        md = v["markdown"]
+        v_date = date.fromisoformat(v["date"])
+        source = v["source"]
+
+        changed = repo.write_and_add(file_path, md)
         if not changed:
-            # No text difference from previous version (or file already
-            # exists with same content from a prior run) — skip to avoid
-            # empty commit error.
             continue
 
-        if i == 0:
-            commit_type = CommitType.BOOTSTRAP
-        else:
-            commit_type = CommitType.REFORM
+        commit_type = CommitType.BOOTSTRAP if i == 0 else CommitType.REFORM
+        reform = Reform(date=v_date, norm_id=source, affected_blocks=())
 
-        reform = Reform(
-            date=version.effective_date,
-            norm_id=version.source_amendment,
-            affected_blocks=(),
+        # Minimal metadata for commit message
+        metadata = NormMetadata(
+            title=record.get("title", ""),
+            short_title=record.get("short_title", ""),
+            identifier=record.get("identifier", ""),
+            country="cz",
+            rank="unknown",
+            publication_date=v_date,
+            status="unknown",
+            department="",
+            source="",
         )
-        info = build_commit_info(
-            commit_type,
-            law.metadata,
-            reform,
-            [],  # blocks not needed for commit message
-            law.file_path,
-            version.markdown,
-        )
+
+        info = build_commit_info(commit_type, metadata, reform, [], file_path, md)
         try:
             sha = repo.commit(info)
             if sha:
                 commits += 1
         except subprocess.CalledProcessError:
-            logger.debug("Commit skipped for %s (nothing to commit)", law.file_path)
+            logger.debug("Commit skipped for %s (nothing to commit)", file_path)
 
     return commits
