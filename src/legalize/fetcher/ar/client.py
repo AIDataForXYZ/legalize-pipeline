@@ -49,6 +49,11 @@ DEFAULT_MODIFICATIONS_URL = (
 )
 DEFAULT_BASE_URL = "http://servicios.infoleg.gob.ar/infolegInternet"
 
+# Module-level catalog cache — loaded once, shared across all client instances
+# (threads). Avoids re-reading the 241 MB CSV per worker thread.
+_CATALOG_CACHE: Optional[InfoLEGCatalog] = None
+_CATALOG_CACHE_LOADED = False
+
 
 class InfoLEGClient(HttpClient):
     """HTTP client for Argentine legislation via InfoLEG.
@@ -98,11 +103,13 @@ class InfoLEGClient(HttpClient):
     def ensure_catalog(self, *, refresh: bool = False) -> InfoLEGCatalog:
         """Download (if needed) and load the InfoLEG catalog.
 
-        The catalog ZIPs are saved to ``data_dir/catalog/``. If both files
-        already exist locally and ``refresh`` is False, they are reused.
-
-        Returns the loaded :class:`InfoLEGCatalog` (cached on the instance).
+        Uses a module-level cache so all worker threads share one copy
+        (~250 MB resident instead of N × 250 MB).
         """
+        global _CATALOG_CACHE, _CATALOG_CACHE_LOADED  # noqa: PLW0603
+        if not refresh and _CATALOG_CACHE_LOADED and _CATALOG_CACHE is not None:
+            self._catalog = _CATALOG_CACHE
+            return _CATALOG_CACHE
         if self._catalog is not None and not refresh:
             return self._catalog
 
@@ -125,6 +132,8 @@ class InfoLEGClient(HttpClient):
             logger.info("Saved modifications ZIP (%d bytes)", len(data))
 
         self._catalog = load_catalog(catalog_zip, mods_zip)
+        _CATALOG_CACHE = self._catalog
+        _CATALOG_CACHE_LOADED = True
         return self._catalog
 
     @property
@@ -195,6 +204,114 @@ class InfoLEGClient(HttpClient):
             "modifica_a": row.modifica_a,
         }
         return json.dumps(payload, ensure_ascii=False).encode("utf-8")
+
+    # ── Version reconstruction hook (called by pipeline._extract_reforms_generic) ──
+
+    def reconstruct_reforms(self, norm_id: str, initial_blocks: list) -> tuple[list, list]:
+        """Reconstruct multi-version blocks from the modifications graph.
+
+        Called by the generic pipeline during ``fetch``. Walks the catalog's
+        modification edges, downloads each modificatoria's ``norma.htm``,
+        extracts substitutions/repeals/insertions, and adds new
+        :class:`Version` objects to the affected blocks. Returns
+        ``(blocks, reforms)`` compatible with the standard
+        ``commit_one`` / ``commit_all_fast`` flow.
+        """
+        from legalize.fetcher.ar.reforms import ModificationKind, extract_modifications
+        from legalize.models import Block, Paragraph, Reform, Version
+
+        row = self.catalog.get(norm_id)
+        if row is None:
+            return initial_blocks, []
+
+        edges = self.catalog.reforms_for(norm_id)
+        if not edges:
+            return initial_blocks, []
+
+        relevant_types = frozenset({"Ley", "Decreto", "Decreto/Ley"})
+        blocks = list(initial_blocks)
+        reforms: list[Reform] = []
+        seen_dates: set = set()
+
+        for edge in edges:
+            if edge.tipo_norma not in relevant_types:
+                continue
+            if edge.fecha_boletin is None:
+                continue
+
+            try:
+                modif_html = self.get_modificatoria_text(edge.id_modificatoria)
+            except Exception:
+                continue
+
+            mods = extract_modifications(modif_html, row.numero_norma)
+            if not mods:
+                continue
+
+            affected: list[str] = []
+            for mod in mods:
+                idx = self._find_block_index(blocks, mod.article_id)
+                if mod.kind == ModificationKind.SUBSTITUTE and mod.new_text:
+                    new_version = Version(
+                        norm_id=norm_id,
+                        publication_date=edge.fecha_boletin,
+                        effective_date=edge.fecha_boletin,
+                        paragraphs=(
+                            Paragraph(
+                                css_class="articulo",
+                                text=f"ARTICULO {mod.article_id}.—",
+                            ),
+                            Paragraph(css_class="parrafo", text=mod.new_text.strip()),
+                        ),
+                    )
+                    if idx >= 0:
+                        old = blocks[idx]
+                        blocks[idx] = Block(
+                            id=old.id,
+                            block_type=old.block_type,
+                            title=old.title,
+                            versions=old.versions + (new_version,),
+                        )
+                    affected.append(mod.article_id)
+                elif mod.kind == ModificationKind.REPEAL:
+                    if idx >= 0:
+                        old = blocks[idx]
+                        tombstone = Version(
+                            norm_id=norm_id,
+                            publication_date=edge.fecha_boletin,
+                            effective_date=edge.fecha_boletin,
+                            paragraphs=(Paragraph(css_class="cita", text="(Artículo derogado)"),),
+                        )
+                        blocks[idx] = Block(
+                            id=old.id,
+                            block_type=old.block_type,
+                            title=old.title,
+                            versions=old.versions + (tombstone,),
+                        )
+                    affected.append(mod.article_id)
+
+            if affected and edge.fecha_boletin not in seen_dates:
+                reforms.append(
+                    Reform(
+                        date=edge.fecha_boletin,
+                        norm_id=edge.id_modificatoria,
+                        affected_blocks=tuple(sorted(set(affected))),
+                    )
+                )
+                seen_dates.add(edge.fecha_boletin)
+
+        reforms.sort(key=lambda r: r.date)
+        return blocks, reforms
+
+    @staticmethod
+    def _find_block_index(blocks: list, article_id: str) -> int:
+        target = article_id.strip().lower().replace("°", "").replace("º", "").replace(" ", "")
+        if not target.startswith("art"):
+            target = f"art{target}"
+        for i, b in enumerate(blocks):
+            if b.id.lower() == target:
+                return i
+        return -1
 
     # ── Helpers exposed to discovery / parser ──
 

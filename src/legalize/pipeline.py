@@ -312,11 +312,12 @@ def generic_fetch_all(
     country: str,
     force: bool = False,
     limit: int | None = None,
+    offset: int = 0,
 ) -> list[str]:
     """Fetch all norms for any country using discovery + dispatch.
 
     Uses NormDiscovery.discover_all() then fetches each norm.
-    Supports --limit for testing (fetch only N norms).
+    Supports --limit and --offset for splitting across multiple VMs.
     Uses max_workers from config for parallel fetching.
     """
     from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -344,10 +345,17 @@ def generic_fetch_all(
         discovery_cache.write_text("\n".join(norm_ids) + "\n")
         console.print(f"[dim]Saved {len(norm_ids)} IDs to discovery cache[/dim]")
 
+    if offset:
+        norm_ids = norm_ids[offset:]
     if limit:
         norm_ids = norm_ids[:limit]
 
-    console.print(f"[bold]Fetch — {len(norm_ids)} norms for {country.upper()}[/bold]\n")
+    console.print(f"[bold]Fetch — {len(norm_ids)} norms for {country.upper()}[/bold]")
+    if offset:
+        console.print(
+            f"  [dim](offset={offset}, processing IDs {offset}–{offset + len(norm_ids)})[/dim]"
+        )
+    console.print()
 
     workers = getattr(cc, "max_workers", 1) or 1
 
@@ -468,6 +476,22 @@ def _extract_reforms_generic(text_parser, client, norm_id, blocks, text_data=Non
         except Exception:
             logger.warning(
                 "Amendment register unavailable for %s, using text-based reforms",
+                norm_id,
+            )
+
+    # Argentine hook: reconstruct versions from per-modificatoria text.
+    # Adds Versions to existing blocks and returns Reform objects, making AR
+    # compatible with the standard fetch → commit_all_fast pipeline.
+    if hasattr(client, "reconstruct_reforms"):
+        try:
+            new_blocks, reforms = client.reconstruct_reforms(norm_id, blocks)
+            if reforms:
+                blocks.clear()
+                blocks.extend(new_blocks)
+                return reforms
+        except Exception:
+            logger.warning(
+                "Version reconstruction unavailable for %s, using text-based reforms",
                 norm_id,
             )
 

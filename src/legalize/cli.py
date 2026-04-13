@@ -78,7 +78,10 @@ def cli(ctx: click.Context, config_path: str, verbose: bool) -> None:
 @click.option("--force", is_flag=True, help="Re-download even if already exists.")
 @click.option("--data-dir", default=None, help="Override data directory.")
 @click.option("--legi-dir", default=None, help="France only: path to extracted LEGI dump.")
-@click.option("--limit", default=None, type=int, help="Max norms to fetch (for testing).")
+@click.option("--limit", default=None, type=int, help="Max norms to fetch.")
+@click.option(
+    "--offset", default=0, type=int, help="Skip first N norms (for splitting across VMs)."
+)
 @click.pass_context
 def fetch(
     ctx: click.Context,
@@ -90,14 +93,15 @@ def fetch(
     data_dir: str | None,
     legi_dir: str | None,
     limit: int | None,
+    offset: int,
 ) -> None:
     """Download laws to data/ (does not touch git).
 
     Examples:
-        legalize fetch BOE-A-1978-31229            # Single Spanish law
-        legalize fetch -c fr --all --legi-dir /path # All French codes
-        legalize fetch -c se --all                  # All Swedish statutes
-        legalize fetch -c de --limit 5              # Test: 5 German laws
+        legalize fetch -c ar --all                          # All Argentine norms
+        legalize fetch -c ar --all --limit 10000            # First 10K only
+        legalize fetch -c ar --all --offset 10000           # Skip first 10K
+        legalize fetch -c ar --all --offset 10000 --limit 10000  # Norms 10K-20K
     """
     from legalize.pipeline import generic_fetch_all, generic_fetch_one
 
@@ -114,7 +118,7 @@ def fetch(
 
         fetch_catalog(config, force=force)
     elif fetch_all_flag:
-        generic_fetch_all(config, country, force=force, limit=limit)
+        generic_fetch_all(config, country, force=force, limit=limit, offset=offset)
     elif norm_ids:
         for norm_id in norm_ids:
             generic_fetch_one(config, country, norm_id, force=force)
@@ -250,6 +254,7 @@ def _commit_in_batches(
 @click.option("--data-dir", default=None, help="Override data directory.")
 @click.option("--legi-dir", default=None, help="France only: path to extracted LEGI dump.")
 @click.option("--xml", "xml_path", default=None, help="Path to local XML (pilot, ES only).")
+@click.option("--limit", default=None, type=int, help="Process only the first N norms.")
 @click.option("--dry-run", is_flag=True, help="Simulate without creating commits.")
 @click.pass_context
 def bootstrap(
@@ -259,14 +264,15 @@ def bootstrap(
     data_dir: str | None,
     legi_dir: str | None,
     xml_path: str | None,
+    limit: int | None,
     dry_run: bool,
 ) -> None:
     """Fetch + commit all norms for a country.
 
     Examples:
-        legalize bootstrap                          # Spain (default)
+        legalize bootstrap -c ar                    # Argentina (32K norms)
+        legalize bootstrap -c ar --limit 50         # Quick test
         legalize bootstrap -c fr --legi-dir /path   # France
-        legalize bootstrap -c se --data-dir ../countries/data-se  # Sweden
     """
     from legalize.pipeline import generic_bootstrap
 
@@ -298,7 +304,7 @@ def bootstrap(
         )
         bootstrap_from_local_xml(config, metadata, xml_path, dry_run=dry_run)
     else:
-        generic_bootstrap(config, country, dry_run=dry_run)
+        generic_bootstrap(config, country, dry_run=dry_run, limit=limit)
 
 
 # ─────────────────────────────────────────────
