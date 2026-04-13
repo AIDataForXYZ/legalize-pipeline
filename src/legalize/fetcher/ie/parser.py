@@ -744,10 +744,10 @@ class ISBMetadataParser(MetadataParser):
             title = norm_id
 
         # Irish language title
-        title_ga = act.get("shortTitleGa", "")
+        title_ga = act.get("shortTitleGa") or ""
 
         # Long title (summary)
-        long_title = act.get("longTitleEn", "")
+        long_title = act.get("longTitleEn") or ""
         # Strip HTML from long title
         long_title = re.sub(r"<[^>]+>", "", long_title).strip()
 
