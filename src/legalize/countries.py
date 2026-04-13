@@ -144,6 +144,12 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.cz.parser", "ESbirkaTextParser"),
         "metadata_parser": ("legalize.fetcher.cz.parser", "ESbirkaMetadataParser"),
     },
+    "fi": {
+        "client": ("legalize.fetcher.fi.client", "FinlexClient"),
+        "discovery": ("legalize.fetcher.fi.discovery", "FinlexDiscovery"),
+        "text_parser": ("legalize.fetcher.fi.parser", "FinlexTextParser"),
+        "metadata_parser": ("legalize.fetcher.fi.parser", "FinlexMetadataParser"),
+    },
     "ua": {
         "client": ("legalize.fetcher.ua.client", "RadaClient"),
         "discovery": ("legalize.fetcher.ua.discovery", "RadaDiscovery"),

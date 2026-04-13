@@ -341,3 +341,29 @@ countries:
       requests_per_second: 1.5
       type_lists: ["t1", "t3", "t4", "t5", "t21", "t216"]
       include_perv1: true
+
+  fi:
+    repo_path: "../countries/fi"
+    data_dir: "../countries/data-fi"
+    cache_dir: ".cache"
+    # Finlex API: public REST, no auth, returns 429 on overload.
+    # No published rate limit. Discovery: 10 items/page, ~4,250 pages.
+    # Each law: 1 listing req + 1 XML req per version.
+    #
+    # Benchmark 2026-04-13 (50 acts, metadata + text, 2 reqs/law):
+    #   1w × 1.0 r/s → 0.63 laws/s (0 errors)
+    #   4w × 2.0 r/s → 1.25 laws/s (0 errors)
+    #   8w × 4.0 r/s → 2.46 laws/s (0 errors) — polite default
+    #   8w × 8.0 r/s → 4.72 laws/s (0 errors)
+    #  16w × 16  r/s → 8.96 laws/s (0 errors) — no rate limit hit
+    # Zero 429/5xx at every rate tested on per-law endpoints.
+    # BUT the /list endpoint (discovery) rate-limits at ~4 req/s
+    # (429 at page 244 of 4,250 with 4.0 r/s, 2026-04-13).
+    # Use 1.5 r/s for safe discovery pacing.
+    # Full bootstrap (~42K laws): ~8-10h at 4w × 1.5 r/s.
+    max_workers: 4
+    source:
+      api_base: "https://opendata.finlex.fi/finlex/avoindata/v1"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 1.5
