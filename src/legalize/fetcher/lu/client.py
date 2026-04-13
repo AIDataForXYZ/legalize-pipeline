@@ -310,9 +310,18 @@ LIMIT 1"""
 
         act_uri = _norm_id_to_eli(norm_id)
 
-        # 1. Get the original Act XML (deterministic URL — no SPARQL needed)
+        # 1. Get the original Act XML (deterministic URL — no SPARQL needed).
+        #    Falls back to SPARQL lookup if the deterministic URL returns 404
+        #    (common for pre-1900 laws that may not have XML in the filestore).
         xml_url = _eli_to_xml_url(act_uri)
-        original_xml = self.download_xml(xml_url)
+        try:
+            original_xml = self.download_xml(xml_url)
+        except Exception:
+            # Fallback: ask SPARQL for the real URL
+            sparql_url = self.get_xml_url(act_uri)
+            if not sparql_url:
+                raise ValueError(f"No XML available for {norm_id} ({act_uri})")
+            original_xml = self.download_xml(sparql_url)
 
         # 2. Look for consolidation versions (Complex Work derived from ELI)
         complex_work_uri = _eli_to_complex_work(act_uri)

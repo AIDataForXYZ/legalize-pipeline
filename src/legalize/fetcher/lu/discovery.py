@@ -52,54 +52,69 @@ class LegiluxDiscovery(NormDiscovery):
     def discover_all(self, client: LegislativeClient, **kwargs) -> Iterator[str]:
         """Discover all norm IDs in the Luxembourg catalog.
 
-        Queries the SPARQL endpoint for all Acts of the configured document
-        types. Paginates with LIMIT/OFFSET to handle large result sets.
+        Queries the SPARQL endpoint per document type to avoid Virtuoso
+        timeout errors on large OFFSET values (the endpoint returns 500
+        above ~10K offset). Within each type, uses cursor-based pagination
+        with ``FILTER (?act > <last_uri>)`` for robust paging.
         """
         if not isinstance(client, LegiluxClient):
             raise TypeError(f"Expected LegiluxClient, got {type(client).__name__}")
 
-        type_filter = self._build_type_filter()
-        offset = 0
         total_yielded = 0
         seen: set[str] = set()
 
-        while True:
-            query = f"""PREFIX jolux: <http://data.legilux.public.lu/resource/ontology/jolux#>
+        for doc_type in self._doc_types:
+            type_uri = f"{_TYPE_BASE}{doc_type}"
+            cursor = ""
+            page = 0
+
+            while True:
+                cursor_filter = f"FILTER (?act > <{cursor}>)" if cursor else ""
+                # Only discover acts that have an XML manifestation in the
+                # filestore. ~20% of old laws (pre-1900) have no XML, so
+                # filtering here avoids thousands of 404 errors during fetch.
+                query = f"""PREFIX jolux: <http://data.legilux.public.lu/resource/ontology/jolux#>
 SELECT DISTINCT ?act WHERE {{
   GRAPH ?g {{
     ?act a jolux:Act .
-    ?act jolux:typeDocument ?type .
-    {type_filter}
+    ?act jolux:typeDocument <{type_uri}> .
+    ?act jolux:isRealizedBy ?expr .
+    ?expr jolux:isEmbodiedBy ?manif .
+    ?manif jolux:format <http://publications.europa.eu/resource/authority/file-type/XML> .
+    {cursor_filter}
   }}
 }}
 ORDER BY ?act
-LIMIT {_PAGE_SIZE}
-OFFSET {offset}"""
+LIMIT {_PAGE_SIZE}"""
 
-            result = client.sparql_query(query)
-            bindings = result.get("results", {}).get("bindings", [])
+                result = client.sparql_query(query)
+                bindings = result.get("results", {}).get("bindings", [])
 
-            if not bindings:
-                break
+                if not bindings:
+                    break
 
-            for binding in bindings:
-                act_uri = binding["act"]["value"]
-                norm_id = _eli_to_norm_id(act_uri)
-                if norm_id not in seen:
-                    seen.add(norm_id)
-                    yield norm_id
-                    total_yielded += 1
+                page += 1
+                last_uri = ""
+                for binding in bindings:
+                    act_uri = binding["act"]["value"]
+                    last_uri = act_uri
+                    norm_id = _eli_to_norm_id(act_uri)
+                    if norm_id not in seen:
+                        seen.add(norm_id)
+                        yield norm_id
+                        total_yielded += 1
 
-            logger.info(
-                "Discovery page %d: %d results, %d total unique",
-                offset // _PAGE_SIZE + 1,
-                len(bindings),
-                total_yielded,
-            )
+                logger.info(
+                    "Discovery %s page %d: %d results, %d total unique",
+                    doc_type,
+                    page,
+                    len(bindings),
+                    total_yielded,
+                )
 
-            if len(bindings) < _PAGE_SIZE:
-                break
-            offset += _PAGE_SIZE
+                if len(bindings) < _PAGE_SIZE:
+                    break
+                cursor = last_uri
 
         logger.info("Discovery complete: %d total norms found", total_yielded)
 
