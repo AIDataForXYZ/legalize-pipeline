@@ -26,11 +26,24 @@ _OIREACHTAS_API = "https://api.oireachtas.ie"
 _REVISED_ACTS_BASE = "https://revisedacts.lawreform.ie"
 
 
-def _parse_norm_id(norm_id: str) -> tuple[int, int]:
-    """Parse norm_id 'IE-{year}-act-{number}' into (year, number)."""
+def _parse_norm_id(norm_id: str) -> tuple[int, str, str]:
+    """Parse norm_id into (year, act_type, number).
+
+    Formats:
+    - IE-2024-act-1  → (2024, "act", "1")
+    - IE-2015-act-C34 → (2015, "ca", "34")  (Constitutional Amendment)
+    - IE-2023-act-P1  → (2023, "prv", "1")  (Private Act)
+    """
     parts = norm_id.split("-")
     # IE-2024-act-1 → ["IE", "2024", "act", "1"]
-    return int(parts[1]), int(parts[3])
+    year = int(parts[1])
+    raw_num = parts[3]
+
+    if raw_num.startswith("C"):
+        return year, "ca", raw_num[1:]
+    if raw_num.startswith("P"):
+        return year, "prv", raw_num[1:]
+    return year, "act", raw_num
 
 
 class ISBClient(HttpClient):
@@ -75,25 +88,22 @@ class ISBClient(HttpClient):
         the print HTML view (/enacted/en/print) — pre-1995 acts
         only have HTML, not XML.
 
-        The response bytes are prefixed with b'<act' for XML or
-        b'<!DOCTYPE' / b'<html' for HTML so the parser can detect
-        the format.
+        Supports act types: act, ca (constitutional amendment), prv (private).
         """
-        year, number = _parse_norm_id(norm_id)
+        year, act_type, number = _parse_norm_id(norm_id)
+        eli_path = f"{self._base_url}/eli/{year}/{act_type}/{number}/enacted/en"
 
-        # Try XML first (available for ~1995+)
-        xml_url = f"{self._base_url}/eli/{year}/act/{number}/enacted/en/xml"
+        # Try XML first (available for ~1995+ acts)
         try:
-            return self._get(xml_url)
+            return self._get(f"{eli_path}/xml")
         except requests.HTTPError as e:
             if e.response is not None and e.response.status_code == 404:
                 logger.debug("No XML for %s, falling back to HTML print view", norm_id)
             else:
                 raise
 
-        # Fallback to HTML print view (available for all acts)
-        html_url = f"{self._base_url}/eli/{year}/act/{number}/enacted/en/print"
-        return self._get(html_url)
+        # Fallback to HTML print view
+        return self._get(f"{eli_path}/print")
 
     def get_metadata(self, norm_id: str) -> bytes:
         """Fetch Act metadata from Oireachtas API.
@@ -101,7 +111,7 @@ class ISBClient(HttpClient):
         URL: /v1/legislation?act_year={year}&act_no={number}&limit=1
         Returns the raw JSON response bytes.
         """
-        year, number = _parse_norm_id(norm_id)
+        year, act_type, number = _parse_norm_id(norm_id)
         url = f"{self._api_base}/v1/legislation"
         return self._get(
             url,
@@ -142,8 +152,8 @@ class ISBClient(HttpClient):
         Returns HTML bytes if the act has a revised version, None if 404.
         Only ~560 acts have revised versions.
         """
-        year, number = _parse_norm_id(norm_id)
-        url = f"{_REVISED_ACTS_BASE}/eli/{year}/act/{number}/revised/en/html"
+        year, act_type, number = _parse_norm_id(norm_id)
+        url = f"{_REVISED_ACTS_BASE}/eli/{year}/{act_type}/{number}/revised/en/html"
         try:
             return self._get(url)
         except requests.HTTPError as e:
