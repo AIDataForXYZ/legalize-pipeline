@@ -64,7 +64,7 @@ jobs:
           TOTAL=0
           ERRORS=0
 
-          while [[ "$CURRENT" <= "$END" ]]; do
+          while [ "$CURRENT" != "$(date -d "$END + 1 day" +%Y-%m-%d)" ]; do
             echo "::group::$CURRENT"
             if legalize daily -c "$INPUT_COUNTRY" --repo-path "repos/$INPUT_COUNTRY" --date "$CURRENT"; then
               echo "::endgroup::"
