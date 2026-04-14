@@ -148,7 +148,7 @@ class BOPADiscovery(NormDiscovery):
 
         for butlleti in butlletins:
             pub_date = _parse_iso_date(butlleti.get("dataPublicacio"))
-            if pub_date is None or pub_date < target_date:
+            if pub_date is None or pub_date != target_date:
                 continue
 
             year = (butlleti.get("dataPublicacio") or "")[:4]
