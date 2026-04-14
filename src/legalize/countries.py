@@ -96,6 +96,12 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.pt.parser", "DRETextParser"),
         "metadata_parser": ("legalize.fetcher.pt.parser", "DREMetadataParser"),
     },
+    "ro": {
+        "client": ("legalize.fetcher.ro.client", "RoClient"),
+        "discovery": ("legalize.fetcher.ro.discovery", "RoDiscovery"),
+        "text_parser": ("legalize.fetcher.ro.parser", "RoTextParser"),
+        "metadata_parser": ("legalize.fetcher.ro.parser", "RoMetadataParser"),
+    },
     "uy": {
         "client": ("legalize.fetcher.uy.client", "IMPOClient"),
         "discovery": ("legalize.fetcher.uy.discovery", "IMPODiscovery"),
@@ -150,11 +156,23 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.cz.parser", "ESbirkaTextParser"),
         "metadata_parser": ("legalize.fetcher.cz.parser", "ESbirkaMetadataParser"),
     },
+    "fi": {
+        "client": ("legalize.fetcher.fi.client", "FinlexClient"),
+        "discovery": ("legalize.fetcher.fi.discovery", "FinlexDiscovery"),
+        "text_parser": ("legalize.fetcher.fi.parser", "FinlexTextParser"),
+        "metadata_parser": ("legalize.fetcher.fi.parser", "FinlexMetadataParser"),
+    },
     "ua": {
         "client": ("legalize.fetcher.ua.client", "RadaClient"),
         "discovery": ("legalize.fetcher.ua.discovery", "RadaDiscovery"),
         "text_parser": ("legalize.fetcher.ua.parser", "RadaTextParser"),
         "metadata_parser": ("legalize.fetcher.ua.parser", "RadaMetadataParser"),
+    },
+    "sk": {
+        "client": ("legalize.fetcher.sk.client", "SlovLexClient"),
+        "discovery": ("legalize.fetcher.sk.discovery", "SlovLexDiscovery"),
+        "text_parser": ("legalize.fetcher.sk.parser", "SlovLexTextParser"),
+        "metadata_parser": ("legalize.fetcher.sk.parser", "SlovLexMetadataParser"),
     },
     # To add a new country:
     # 1. Create fetcher/{code}/ with client.py, discovery.py, parser.py

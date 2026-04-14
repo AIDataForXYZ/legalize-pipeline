@@ -1,0 +1,69 @@
+Version History Spike: Legea nr. 31/1990 (Companies Law)
+============================================================
+
+Source: https://legislatie.just.ro/Public/DetaliiDocument/798
+Total consolidated versions found: 44
+
+Versions (newest first):
+----------------------------------------
+  06.12.2024                 ID: 291512
+  08.10.2024                 ID: 288587
+  11.11.2023                 ID: 269164
+  24.08.2023                 ID: 268505
+  23.07.2023                 ID: 268265
+  26.11.2022                 ID: 261157
+  17.07.2022                 ID: 257120
+  23.07.2021                 ID: 243697
+  05.11.2020                 ID: 231464
+  05.07.2020                 ID: 227224
+  08.05.2020                 ID: 225189
+  05.08.2019                 ID: 216415
+  21.07.2019                 ID: 215842
+  15.09.2018                 ID: 204899
+  01.08.2018                 ID: 202991
+  15.07.2018                 ID: 202367
+  07.07.2017                 ID: 169689
+  16.07.2015                 ID: 169688
+  01.02.2014                 ID: 143107
+  15.02.2013                 ID: 141163
+  06.09.2012                 ID: 139596
+  02.03.2012                 ID: 135906
+  01.10.2011                 ID: 129712
+  22.04.2011                 ID: 128145
+  25.11.2010                 ID: 123148
+  04.10.2010                 ID: 122616
+  23.06.2010                 ID: 119909
+  13.05.2010                 ID: 118750
+  17.04.2009                 ID: 104814
+  23.11.2008                 ID: 99388
+  30.04.2008                 ID: 92050
+  29.06.2007                 ID: 83293
+  12.01.2007                 ID: 80896
+  01.12.2006                 ID: 77356
+  20.07.2006                 ID: 74586
+  21.05.2006                 ID: 71910
+  30.10.2005                 ID: 35041
+  Republicarea 2             ID: 56732
+  29.07.2004                 ID: 54591
+  21.04.2003                 ID: 43429
+  04.11.2002                 ID: 38830
+  31.05.2001                 ID: 35955
+  Republicarea 1             ID: 800
+  04.06.1991                 ID: 221405
+
+
+Verification:
+- Base document ID: 798 (original law from 1990)
+- Latest consolidated: ID 291512 (06.12.2024)
+- Oldest consolidated: ID 221405 (04.06.1991)
+- Includes 2 republications: 1998 (ID 800), 2004 (ID 56732)
+- Each version has a unique document ID accessible at
+  /Public/DetaliiDocumentAfis/{ID}
+
+Access pattern:
+1. Load /Public/DetaliiDocument/{base_id}
+2. Parse div.forme_act for consolidation links
+3. Each link has format: DD.MM.YYYY -> /Public/DetaliiDocument/{version_id}
+4. Load /Public/DetaliiDocumentAfis/{version_id} for the text of each version
+
+GATE: PASS — 44 distinct versions with dates extracted from 1 law.

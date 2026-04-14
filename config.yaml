@@ -187,6 +187,16 @@ countries:
       # Decompress: bunzip2 YYYY-MM-DD-DRE.sqlite3.bz2
       db_path: "../countries/data-pt/2026-03-01-DRE.sqlite3"
 
+  ro:
+    repo_path: "../countries/ro"
+    data_dir: "../countries/data-ro"
+    max_workers: 8
+    source:
+      base_url: "https://legislatie.just.ro"
+      requests_per_second: 2.0
+      request_timeout: 60
+      max_retries: 5
+
   uy:
     repo_path: "../countries/uy"
     data_dir: "../countries/data-uy"
@@ -375,3 +385,33 @@ countries:
       requests_per_second: 1.5
       type_lists: ["t1", "t3", "t4", "t5", "t21", "t216"]
       include_perv1: true
+
+  fi:
+    repo_path: "../countries/fi"
+    data_dir: "../countries/data-fi"
+    cache_dir: ".cache"
+    # Finlex API: discovery /list rate-limits at ~4 req/s.
+    # Per-law endpoints tolerate 16+ req/s but discovery needs 1.5 r/s.
+    max_workers: 4
+    source:
+      api_base: "https://opendata.finlex.fi/finlex/avoindata/v1"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 1.5
+
+  sk:
+    repo_path: "../countries/sk"
+    data_dir: "../countries/data-sk"
+    cache_dir: ".cache"
+    # Slov-Lex static site + API gateway. No documented rate limits.
+    # Response time ~50ms. No auth required. Zero 429/5xx observed in testing.
+    # Each law requires 1 history page + N version portal fragments.
+    # Full bootstrap (~26K laws × ~3-5 versions avg): ~80K-130K requests.
+    # At 4 workers × 2 req/s = 8 req/s → ~4-5h fetch time.
+    max_workers: 4
+    source:
+      api_base: "https://api-gateway.slov-lex.sk"
+      static_base: "https://static.slov-lex.sk"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
