@@ -8,7 +8,7 @@ from pathlib import Path
 import pytest
 
 from legalize.countries import get_metadata_parser, get_text_parser
-from legalize.fetcher.ca.client import JusticeCanadaClient, _parse_norm_id
+from legalize.fetcher.ca.client import _parse_norm_id
 from legalize.fetcher.ca.parser import CAMetadataParser, CATextParser
 from legalize.models import NormStatus
 from legalize.transformer.slug import norm_to_filepath

@@ -11,7 +11,6 @@ import logging
 import subprocess
 from collections.abc import Iterator
 from datetime import date
-from pathlib import Path
 
 from legalize.fetcher.base import LegislativeClient, NormDiscovery
 from legalize.fetcher.ca.client import JusticeCanadaClient

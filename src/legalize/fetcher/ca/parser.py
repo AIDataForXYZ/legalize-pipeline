@@ -394,7 +394,9 @@ def _parse_body(body: etree._Element) -> list[Paragraph]:
             if dtitle is not None:
                 heading_parts.append(_clean(_inline_text(dtitle)))
             if heading_parts:
-                paragraphs.append(Paragraph(css_class="capitulo_tit", text=" - ".join(heading_parts)))
+                paragraphs.append(
+                    Paragraph(css_class="capitulo_tit", text=" - ".join(heading_parts))
+                )
             paragraphs.extend(_parse_body(child))
 
         elif tag == "Oath":
@@ -409,9 +411,7 @@ def _parse_body(body: etree._Element) -> list[Paragraph]:
         elif tag == "Schedule":
             sched_label = child.find("Label")
             if sched_label is not None and sched_label.text:
-                paragraphs.append(
-                    Paragraph(css_class="titulo_tit", text=sched_label.text.strip())
-                )
+                paragraphs.append(Paragraph(css_class="titulo_tit", text=sched_label.text.strip()))
             paragraphs.extend(_parse_body(child))
 
         elif tag == "TableGroup":

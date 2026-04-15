@@ -8,7 +8,7 @@ from pathlib import Path
 import pytest
 
 from legalize.countries import get_metadata_parser, get_text_parser
-from legalize.fetcher.us.client import OLRCClient, build_norm_id, parse_norm_id
+from legalize.fetcher.us.client import build_norm_id, parse_norm_id
 from legalize.fetcher.us.parser import USMetadataParser, USTextParser
 from legalize.models import NormStatus
 from legalize.transformer.slug import norm_to_filepath
