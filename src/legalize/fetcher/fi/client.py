@@ -54,26 +54,36 @@ class FinlexClient(HttpClient):
         """Fetch the latest consolidated XML for a statute.
 
         *norm_id* is ``{year}/{number}`` — e.g. ``1999/731``.  The method
-        queries the multi-version listing endpoint (``page=1&limit=1``)
-        to obtain the latest Finnish expression, then fetches that specific
-        version.
+        paginates through the multi-version listing endpoint (max 4 per page)
+        to find the latest Finnish expression, then fetches that version.
+
+        Pagination is needed because the API returns mixed fin/swe expressions
+        and the first page may contain only Swedish versions for bilingual laws.
         """
         year, number = _split_norm_id(norm_id)
-        url = f"{self._api_base}/akn/fi/act/statute-consolidated/{year}/{number}?page=1&limit=1"
-        listing_xml = self._get(url)
 
-        # Parse the listing to extract the latest Finnish version URI
         from lxml import etree
 
-        root = etree.fromstring(listing_xml)
         ns = {"akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"}
-        # Find FRBRExpression with Finnish language
-        for expr in root.findall(".//akn:FRBRExpression", ns):
-            lang_el = expr.find("akn:FRBRlanguage", ns)
-            uri_el = expr.find("akn:FRBRuri", ns)
-            if lang_el is not None and lang_el.get("language") == "fin" and uri_el is not None:
-                version_path = uri_el.get("value", "")
-                return self._get(f"{self._api_base}{version_path}")
+
+        for page in range(1, 20):
+            url = (
+                f"{self._api_base}/akn/fi/act/statute-consolidated"
+                f"/{year}/{number}?page={page}&limit=4"
+            )
+            listing_xml = self._get(url)
+            root = etree.fromstring(listing_xml)
+            exprs = root.findall(".//akn:FRBRExpression", ns)
+            if not exprs:
+                break
+            for expr in exprs:
+                lang_el = expr.find("akn:FRBRlanguage", ns)
+                uri_el = expr.find("akn:FRBRuri", ns)
+                if lang_el is not None and lang_el.get("language") == "fin" and uri_el is not None:
+                    version_path = uri_el.get("value", "")
+                    return self._get(f"{self._api_base}{version_path}")
+            if len(exprs) < 4:
+                break
 
         # Fallback: try bare fin@ (for statutes with a single version)
         url_bare = f"{self._api_base}/akn/fi/act/statute-consolidated/{year}/{number}/fin@"
