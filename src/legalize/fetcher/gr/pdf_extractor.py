@@ -59,6 +59,7 @@ script:
 
 from __future__ import annotations
 
+import gc
 import hashlib
 import logging
 import re
@@ -342,8 +343,14 @@ def _read_pages(pdf_path: Path) -> list[tuple[str, float, float]]:
         # Pull all pages first so we can sample the first one for mojibake
         raw_pages: list[tuple[str, float, float]] = []
         for page in pdf:
-            text = page.get_textpage().get_text_range()
-            raw_pages.append((text, page.get_width(), page.get_height()))
+            w, h = page.get_width(), page.get_height()
+            textpage = page.get_textpage()
+            try:
+                text = textpage.get_text_range()
+            finally:
+                textpage.close()
+                page.close()
+            raw_pages.append((text, w, h))
     finally:
         pdf.close()
 
@@ -591,6 +598,11 @@ def _extract_text_uncached(path: Path) -> tuple[str, str, str]:
     raw = "\n".join(body_parts)
     full_text = _strip_blank_lines_preserving_tables(raw)
     clipped_text = "\n".join(part for part in clipped_parts if part)
+    # Release pypdfium2 / pdfplumber native memory eagerly — large COVID-era
+    # PDFs (2020+) can hold hundreds of MB in native C++ objects; without an
+    # explicit GC pass they accumulate across norms and exhaust RAM.
+    del pages, page_tables, body_parts, clipped_parts
+    gc.collect()
     return full_text, clipped_text, last_page_raw
 
 
