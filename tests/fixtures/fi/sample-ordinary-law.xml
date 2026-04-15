@@ -1,0 +1,836 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:finlex="http://data.finlex.fi/schema/finlex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <act contains="multipleVersions" name="main">
+        <meta>
+            <identification source="#organization_fi.finlex">
+                <FRBRWork>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/2024/224/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/2024/224"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2024/224/ajantasa"/>
+                    <FRBRdate date="2024-05-03" name="dateIssued"/>
+                    <FRBRdate date="2024-05-07" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.finlex"/>
+                    <FRBRcountry value="fi"/>
+                    <FRBRsubtype value="statute-consolidated"/>
+                    <FRBRnumber value="224"/>
+                    <FRBRprescriptive value="false"/>
+                    <FRBRauthoritative value="false"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/2024/224/fin@/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/2024/224/fin@"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2024/224/ajantasa/2024-05-03/fin"/>
+                    <FRBRdate date="2024-05-03" name="dateIssued"/>
+                    <FRBRdate date="2025-05-23" name="dateConsolidated"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.finlex"/>
+                    <FRBRversionNumber value="20240224"/>
+                    <FRBRlanguage language="fin"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/2024/224/fin@/!main.xml"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/2024/224/fin@.akn"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2024/224/ajantasa/2024-05-03/fin/xml"/>
+                    <FRBRdate date="2025-09-05" name="dateProduced"/>
+                    <FRBRdate date="2024-05-07" name="datePublished"/>
+                    <FRBRauthor as="#role_editor" href="#organization_fi.finlex"/>
+                    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+            <references source="#organization_fi.finlex">
+                <TLCOrganization eId="organization_fi.finlex" href="/akn/ontology/organization/fi.finlex" showAs="Finlex"/>
+                <TLCRole eId="role_author" href="/akn/ontology/role/author" showAs="Tekijä"/>
+                <TLCRole eId="role_editor" href="/akn/ontology/role/editor" showAs="Toimittaja"/>
+                <TLCOrganization eId="fi.ministry-of-economic-affairs-and-employment" href="/akn/ontology/organization/fi.ministry-of-economic-affairs-and-employment" showAs="Työ- ja elinkeinoministeriö"/>
+                <TLCConcept eId="act" href="/akn/ontology/concept/statute/type-statute.act" showAs="Laki"/>
+            </references>
+            <proprietary source="#organization_fi.finlex">
+                <finlex:documentYear>2024</finlex:documentYear>
+                <finlex:administrativeBranch refersTo="#fi.ministry-of-economic-affairs-and-employment"/>
+                <finlex:typeStatute refersTo="#act"/>
+                <finlex:isInForce value="true"/>
+                <finlex:inForce>
+                    <finlex:dateEntryIntoForce date="2024-05-13"/>
+                </finlex:inForce>
+                <finlex:amendedBy>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute/2025/256">256/2025</finlex:ref>
+                        <finlex:inForce>
+                            <finlex:dateEntryIntoForce date="2025-06-11">11.6.2025</finlex:dateEntryIntoForce>
+                        </finlex:inForce>
+                        <finlex:noteEditorial>muutt. 9 §; lis. 9 a §</finlex:noteEditorial>
+                    </finlex:statuteReference>
+                </finlex:amendedBy>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docNumber>224/2024</docNumber>
+                <docTitle>Laki kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa osaamistasoa vaativaa työtä varten</docTitle>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="enactingClause">
+                <p>Eduskunnan päätöksen mukaisesti säädetään:</p>
+            </formula>
+        </preamble>
+        <body>
+            <hcontainer finlex:outline="Säädöksen teksti" name="statuteProvisionsWrapper">
+                <chapter eId="chp_1">
+                    <num>1 luku</num>
+                    <heading eId="chp_1__heading">Yleiset säännökset</heading>
+                    <section eId="chp_1__sec_1">
+                        <num>1 §</num>
+                        <heading eId="chp_1__sec_1__heading">Lain tarkoitus</heading>
+                        <subsection eId="chp_1__sec_1__subsec_1">
+                            <content>
+                                <p>
+                                    Tällä lailla pannaan täytäntöön kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa osaamistasoa vaativaa työtä varten sekä neuvoston direktiivin 2009/50/EY kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2021/1883, jäljempänä 
+                                    <i>erityisosaajadirektiivi</i>.
+                                </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_2">
+                        <num>2 §</num>
+                        <heading eId="chp_1__sec_2__heading">Soveltamisala</heading>
+                        <subsection eId="chp_1__sec_2__subsec_1">
+                            <content>
+                                <p>Tätä lakia sovelletaan kolmansien maiden kansalaisiin, jotka hakevat oleskelulupaa tai joille on myönnetty pääsy jonkin jäsenvaltion alueelle erityisosaajadirektiivin nojalla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_2">
+                            <intro eId="chp_1__sec_2__subsec_2__intro">
+                                <p>Tätä lakia ei sovelleta kolmansien maiden kansalaisiin:</p>
+                            </intro>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>jotka hakevat kansainvälistä suojelua ja odottavat asemaansa koskevaa päätöstä tai jotka saavat tilapäistä suojelua vähimmäisvaatimuksista tilapäisen suojelun antamiseksi siirtymään joutuneiden henkilöiden joukottaisen maahantulon tilanteissa, ja toimenpiteistä näiden henkilöiden vastaanottamisen ja vastaanottamisesta jäsenvaltioille aiheutuvien rasitusten tasapuolisen jakautumisen edistämiseksi annetun neuvoston direktiivin 2001/55/EY mukaisesti jossakin jäsenvaltiossa;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>jotka hakevat kansallisen lainsäädännön, kansainvälisten velvoitteiden tai jäsenvaltion käytännön mukaisesti suojelua ja odottavat asemaansa koskevaa päätöstä tai jotka saavat kansallisen lainsäädännön, kansainvälisten velvoitteiden tai kyseisen jäsenvaltion käytännön mukaisesti suojelua;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>jotka hakevat oleskelulupaa jäsenvaltiossa tutkimusta, opiskelua, harjoittelua, vapaaehtoistyötä, oppilasvaihto-ohjelmaa tai koulutushanketta ja au pairina työskentelyä varten tapahtuvan kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä annetussa Euroopan parlamentin ja neuvoston direktiivissä (EU) 2016/801 tarkoitettuina tutkijoina toteuttaakseen tutkimushankkeen;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>joilla on Euroopan unionin (EU) alueella pitkään oleskelleen henkilön asema jäsenvaltiossa pitkään oleskelleiden kolmansien maiden kansalaisten asemasta annetun neuvoston direktiivin 2003/109/EY mukaisesti ja jotka käyttävät oikeuttaan oleskella toisessa jäsenvaltiossa harjoittaakseen taloudellista toimintaa palkattuna työntekijänä tai itsenäisenä ammatinharjoittajana;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_5">
+                                <num>5)</num>
+                                <content>
+                                    <p>jotka tulevat jäsenvaltioon sellaisten kansainväliseen sopimukseen sisältyvien sitoumusten nojalla, joilla helpotetaan tiettyjen kauppaan ja investointeihin liittyvien luonnollisten henkilöiden ryhmien maahantuloa ja tilapäistä oleskelua, lukuun ottamatta kolmansien maiden kansalaisia, joille on myönnetty pääsy jäsenvaltion alueelle yrityksen sisäisen siirron saaneina työntekijöinä kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä yrityksen sisäisen siirron yhteydessä annetun Euroopan parlamentin ja neuvoston direktiivin 2014/66/EU mukaisesti;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_6">
+                                <num>6)</num>
+                                <content>
+                                    <p>joiden maastapoistamista on lykätty tosiseikkoihin perustuvista tai oikeudellisista syistä;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_7">
+                                <num>7)</num>
+                                <content>
+                                    <p>joihin sovelletaan palvelujen tarjoamisen yhteydessä tapahtuvasta työntekijöiden lähettämisestä työhön toiseen jäsenvaltioon annettua Euroopan parlamentin ja neuvoston direktiiviä 96/71/EY niin kauan kuin he ovat lähetettyinä asianomaisen jäsenvaltion alueelle; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_2__subsec_2__para_8">
+                                <num>8)</num>
+                                <content>
+                                    <p>joilla on EU:n ja jäsenvaltioiden sekä EU:n ja kolmansien maiden välillä tehtyjen sopimusten perusteella kyseisten kolmansien maiden kansalaisina samanlainen oikeus vapaaseen liikkuvuuteen kuin EU:n kansalaisilla.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_3">
+                        <num>3 §</num>
+                        <heading eId="chp_1__sec_3__heading">Suhde ulkomaalaislakiin</heading>
+                        <subsection eId="chp_1__sec_3__subsec_1">
+                            <content>
+                                <p>
+                                    Tässä laissa tarkoitettujen kolmansien maiden kansalaisten maahantuloon, maastalähtöön, oleskeluun ja työntekoon sovelletaan ulkomaalaislakia 
+                                    <ref href="/akn/fi/act/statute-consolidated/2004/301">(301/2004)</ref>, jollei tässä laissa toisin säädetä.
+                                </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_4">
+                        <num>4 §</num>
+                        <heading eId="chp_1__sec_4__heading">Määritelmät</heading>
+                        <subsection eId="chp_1__sec_4__subsec_1">
+                            <intro eId="chp_1__sec_4__subsec_1__intro">
+                                <p>Tässä laissa tarkoitetaan:</p>
+                            </intro>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>
+                                        <i>kolmannen maan kansalaisella</i>
+                                         henkilöä, joka ei ole Euroopan unionin toiminnasta tehdyn sopimuksen 20 artiklan 1 kohdassa tarkoitettu unionin kansalainen;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_2">
+                                <num>2)</num>
+                                <intro eId="chp_1__sec_4__subsec_1__para_2__intro">
+                                    <p>
+                                        <i>korkeaa osaamistasoa vaativalla työllä</i>
+                                         työtä, jota tekee henkilö:
+                                    </p>
+                                </intro>
+                                <subparagraph eId="chp_1__sec_4__subsec_1__para_2__subpara_a">
+                                    <num>a)</num>
+                                    <content>
+                                        <p>jolla on suoja työntekijänä työlainsäädännön ja työehtosopimusten tai niiden yleissitovuuden perusteella aidon ja todellisen työn tekemiseksi toisen henkilön lukuun tai toisen henkilön johdolla;</p>
+                                    </content>
+                                </subparagraph>
+                                <subparagraph eId="chp_1__sec_4__subsec_1__para_2__subpara_b">
+                                    <num>b)</num>
+                                    <content>
+                                        <p>jolle maksetaan kyseisestä työstä korvaus; ja</p>
+                                    </content>
+                                </subparagraph>
+                                <subparagraph eId="chp_1__sec_4__subsec_1__para_2__subpara_c">
+                                    <num>c)</num>
+                                    <content>
+                                        <p>jolla on vaadittava korkea ammattipätevyys;</p>
+                                    </content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>
+                                        <i>EU:n sinisellä kortilla</i>
+                                         oleskelulupaa, jossa on merkintä "EU:n sininen kortti";
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>
+                                        <i>ensimmäisellä jäsenvaltiolla</i>
+                                         jäsenvaltiota, joka ensimmäisenä myöntää kolmannen maan kansalaiselle EU:n sinisen kortin;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_5">
+                                <num>5)</num>
+                                <content>
+                                    <p>
+                                        <i>toisella jäsenvaltiolla</i>
+                                         mitä tahansa jäsenvaltiota, jossa EU:n sinisen kortin haltija aikoo käyttää tai jossa hän käyttää erityisosaajadirektiivissä tarkoitettua oikeutta liikkuvuuteen ja joka on muu kuin ensimmäinen jäsenvaltio;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_6">
+                                <num>6)</num>
+                                <content>
+                                    <p>
+                                        <i>perheenjäsenillä</i>
+                                         kolmansien maiden kansalaisia, jotka ovat oikeudesta perheenyhdistämiseen annetun neuvoston direktiivin 2003/86/EY 4 artiklan 1 kohdassa tarkoitettuja perheenjäseniä;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_7">
+                                <num>7)</num>
+                                <content>
+                                    <p>
+                                        <i>korkealla ammattipätevyydellä</i>
+                                         pätevyyttä, josta on osoituksena korkea-asteen tutkinto tai korkea ammattiosaaminen;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_8">
+                                <num>8)</num>
+                                <content>
+                                    <p>
+                                        <i>korkea-asteen tutkinnolla</i>
+                                         sellaista tutkintotodistusta, todistusta tai muuta muodollista pätevyyttä osoittavaa asiakirjaa, jonka toimivaltainen viranomainen on antanut ja joka osoittaa henkilön suorittaneen toisen asteen jälkeisen sijaintivaltiossaan korkeakouluksi tai vastaavaksi korkea-asteen oppilaitokseksi tunnustetun oppilaitoksen tarjoamien kurssien muodostaman kokonaisuuden, jossa kyseisen tutkinnon hankkimiseksi tarvittavien opintojen kesto on vähintään kolme vuotta ja ne vastaavat vähintään kansainvälisen koulutusluokituksen (ISCED) 2011 tasoa 6 tai tapauksen mukaan eurooppalaisen tutkintojen viitekehyksen (EQF) tasoa 6 kansallisen lainsäädännön mukaisesti;
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_9">
+                                <num>9)</num>
+                                <intro eId="chp_1__sec_4__subsec_1__para_9__intro">
+                                    <p>
+                                        <i>korkealla ammattiosaamisella</i>
+                                        :
+                                    </p>
+                                </intro>
+                                <subparagraph eId="chp_1__sec_4__subsec_1__para_9__subpara_a">
+                                    <num>a)</num>
+                                    <content>
+                                        <p>ISCO-08 -luokitukseen kuuluvissa ryhmissä 133 ja 25 lueteltujen ammattien osalta vähintään kolmen vuoden ammatin tosiasiallista ja luvallista harjoittamista EU:n sinisen kortin hakemista edeltävältä seitsemältä vuodelta;</p>
+                                    </content>
+                                </subparagraph>
+                                <subparagraph eId="chp_1__sec_4__subsec_1__para_9__subpara_b">
+                                    <num>b)</num>
+                                    <content>
+                                        <p>muiden kuin a kohdassa tarkoitettujen ammattien osalta vähintään viiden vuoden ammatin tosiasiallista ja luvallista harjoittamista, joka on tasoltaan verrattavissa korkea-asteen tutkintoon ja joka on merkityksellistä työsopimuksessa tai sitovassa työtarjouksessa mainitulle ammatille tai siinä mainitulle alalle;</p>
+                                    </content>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph eId="chp_1__sec_4__subsec_1__para_10">
+                                <num>10)</num>
+                                <content>
+                                    <p>
+                                        <i>kansainvälisellä suojelulla</i>
+                                         vaatimuksista kolmansien maiden kansalaisten ja kansalaisuudettomien henkilöiden määrittelemiseksi kansainvälistä suojelua saaviksi henkilöiksi, pakolaisten ja henkilöiden, jotka voivat saada toissijaista suojelua, yhdenmukaiselle asemalle sekä myönnetyn suojelun sisällölle annetun Euroopan parlamentin ja neuvoston direktiivin 2011/95/EU 2 artiklan a alakohdassa tarkoitettua kansainvälistä suojelua.
+                                    </p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_2">
+                    <num>2 luku</num>
+                    <heading eId="chp_2__heading">EU:n sininen kortti</heading>
+                    <section eId="chp_2__sec_5">
+                        <num>5 §</num>
+                        <heading eId="chp_2__sec_5__heading">EU:n sinisen kortin myöntäminen</heading>
+                        <subsection eId="chp_2__sec_5__subsec_1">
+                            <intro eId="chp_2__sec_5__subsec_1__intro">
+                                <p>EU:n sininen kortti myönnetään hakemuksesta kolmannen maan kansalaiselle, jos hänellä on: </p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_5__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>vähintään kuuden kuukauden pituinen korkeaa osaamistasoa vaativa työtä koskeva työsopimus tai sitova työtarjous, jossa sovittu palkka on vähintään keskimääräinen palkansaajan bruttopalkka;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_5__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>korkean ammattipätevyyden osoittavat asiakirjat; ja</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_5__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>asiakirjat, jotka osoittavat, jos työssä vaaditaan erityistä pätevyyttä, lupaa tai hyväksyttyä terveydentilaa, että hän täyttää niitä koskevat vaatimukset.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_5__subsec_2">
+                            <content>
+                                <p>EU:n sinisen kortin myöntäminen edellyttää lisäksi, että ulkomaalaislain 71 §:n 1 kohdan edellytykset täyttyvät.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_5__subsec_3">
+                            <content>
+                                <p>EU:n sininen kortti myönnetään kahdeksi vuodeksi. Jos työsuhde on voimassa tätä lyhyemmän ajan, EU:n sininen kortti myönnetään työsuhteen voimassaoloajaksi lisättynä kolmella kuukaudella, mutta enintään kahdeksi vuodeksi. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_6">
+                        <num>6 §</num>
+                        <heading eId="chp_2__sec_6__heading">EU:n sinisen kortin hakijan ja työnantajan selvittämisvelvollisuus</heading>
+                        <subsection eId="chp_2__sec_6__subsec_1">
+                            <content>
+                                <p>EU:n sinisen kortin hakijan on esitettävä hakemuksessaan ulkomaalaislain 71 a §:n 1 momentin ja työnantajan 71 b §:n 1 momentin mukaiset tiedot. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_2">
+                            <content>
+                                <p>EU:n sinisen kortin hakija ja työnantaja voidaan velvoittaa esittämään 5 §:n 1 momentissa tarkoitetut asiakirjat, jos on perusteltua aihetta epäillä, että hakija ei täytä EU:n sinisen kortin myöntämisen edellytyksiä. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_3">
+                            <content>
+                                <p>Jos EU:n sinistä korttia hakee kolmannen maan kansalainen, jolla on voimassa oleva ulkomaalaislain 73 §:ssä tarkoitettu erityisasiantuntijan oleskelulupa, hakemukseen ei sovelleta tämän lain 5 §:n 1 momentin 2 ja 3 kohtaa, jos asiakirjat on esitetty erityisasiantuntijan oleskelulupahakemuksessa. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_7">
+                        <num>7 §</num>
+                        <heading eId="chp_2__sec_7__heading">Hakemuksen jättäminen </heading>
+                        <subsection eId="chp_2__sec_7__subsec_1">
+                            <content>
+                                <p>Hakemuksen tekee kolmannen maan kansalainen itse. Oleskelulupaa haetaan sähköisesti Maahanmuuttoviraston sähköisessä asiointipalvelussa. Jos sähköinen asiointi ei ole mahdollista, hakemus voidaan jättää paperisena. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_7__subsec_2">
+                            <content>
+                                <p>Hakemus jätetään Suomessa Maahanmuuttovirastolle. Ensimmäistä oleskelulupaa koskeva hakemus jätetään ulkomailla Suomen edustustolle tai ulkoiselle palveluntarjoajalle taikka toisen Schengen-valtion edustustolle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_8">
+                        <num>8 §</num>
+                        <heading eId="chp_2__sec_8__heading">EU:n sinistä korttia koskevan hakemuksen hylkääminen</heading>
+                        <subsection eId="chp_2__sec_8__subsec_1">
+                            <intro eId="chp_2__sec_8__subsec_1__intro">
+                                <p>EU:n sinistä korttia koskeva hakemus on hylättävä, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_8__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>5 §:ssä säädettyjä vaatimuksia ei ole noudatettu;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_8__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>esitetyt asiakirjat on hankittu vilpillisin keinoin, ne on väärennetty tai niitä on muutettu;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_8__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>kolmannen maan kansalainen on uhka yleiselle järjestykselle, yleiselle turvallisuudelle tai kansanterveydelle; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_8__subsec_1__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>työnantajan liiketoiminnan perustamisen tai sen pääasiallisena tarkoituksena on helpottaa kolmansien maiden kansalaisten maahantuloa.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_8__subsec_2">
+                            <intro eId="chp_2__sec_8__subsec_2__intro">
+                                <p>EU:n sinistä korttia koskeva hakemus voidaan hylätä, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_8__subsec_2__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>työnantaja ei ole täyttänyt sosiaaliturvaan, verotukseen, työntekijöiden oikeuksiin tai työoloihin liittyviä oikeudellisia velvoitteitaan;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_8__subsec_2__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>työnantaja on haettu konkurssiin tai sillä ei ole mitään taloudellista toimintaa; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_8__subsec_2__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>
+                                        jos työnantaja tai tämän edustaja on tuomittu rikoslain 
+                                        <ref href="/akn/fi/act/statute-consolidated/1889/39-001#chp_47__sec_6a">(39/1889) 47 luvun 6 a §:ssä</ref>
+                                         tarkoitetusta luvattoman ulkomaisen työvoiman käytöstä tai ulkomaalaislain 186 §:n 1 momentin 1 kohdassa tarkoitetusta työnantajan ulkomaalaisrikkomuksesta.
+                                    </p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_8__subsec_3">
+                            <content>
+                                <p>Sovellettaessa 2 momenttia on otettava huomioon tapauksen olosuhteet kokonaisuudessaan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_9">
+                        <num>9 §</num>
+                        <heading eId="chp_2__sec_9__heading">EU:n sinisen kortin peruuttaminen tai uusimatta jättäminen</heading>
+                        <subsection eId="chp_2__sec_9__subsec_1">
+                            <intro eId="chp_2__sec_9__subsec_1__intro">
+                                <p>EU:n sininen kortti on peruutettava tai jätettävä uusimatta, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_9__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>EU:n sininen kortti tai esitetyt asiakirjat on hankittu vilpillisin keinoin, ne on väärennetty tai niitä on vääristelty;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>kolmannen maan kansalaisella ei enää ole voimassa olevaa työsopimusta korkeaa osaamistasoa vaativaan työhön;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>kolmannen maan kansalaisella ei enää ole 5 §:n 1 momentin 2 tai 3 kohdassa tarkoitettua pätevyyttä; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_1__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>kolmannen maan kansalaisen palkka ei enää ole 5 §:n 1 momentin 1 kohdassa säädetyn mukainen.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_2">
+                            <intro eId="chp_2__sec_9__subsec_2__intro">
+                                <p>EU:n sininen kortti voidaan peruuttaa tai jättää uusimatta, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>siihen on yleiseen järjestykseen, yleiseen turvallisuuteen tai kansanterveyteen liittyvät syyt;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>työnantaja ei ole täyttänyt sosiaaliturvaan, verotukseen, työntekijöiden oikeuksiin tai työoloihin liittyviä oikeudellisia velvoitteitaan;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>kortin haltijalla ei ole hänen itsensä ja soveltuvissa tapauksissa perheenjäsentensä ylläpitoon riittäviä varoja ilman, että hänen on turvauduttava kyseisen jäsenvaltion sosiaalihuoltojärjestelmään;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>kortin haltija oleskelee kyseisessä jäsenvaltiossa muuta kuin sitä tarkoitusta varten, jonka perusteella hänelle on myönnetty lupa oleskeluun;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_5">
+                                <num>5)</num>
+                                <content>
+                                    <p>asiaankuuluvilla ammattialoilla sovellettavissa laeissa, työehtosopimuksissa tai käytännöissä asetetut korkeaa osaamistasoa vaativaa työtä koskevat ehdot eivät enää täyty; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_2__para_6">
+                                <num>6)</num>
+                                <content>
+                                    <p>kortin haltija ei noudata erityisosaajadirektiivin V luvun liikkuvuutta koskevia ehtoja.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_3">
+                            <content>
+                                <p>Jos EU:n sinisen kortin haltija ei täytä tilapäisesti ja korkeintaan 12 kuukauden ajan 5 §:n 1 momentissa säädettyjä oleskeluluvan myöntämisen edellytyksiä sairauden, toimintarajoitteen tai vanhempainvapaan vuoksi, tämän pykälän 1 momentin 2 ja 4 kohtaa ei sovelleta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_4">
+                            <intro eId="chp_2__sec_9__subsec_4__intro">
+                                <p>Jos EU:n sinisen kortin haltija on työtön, 1 momentin 2 ja 4 kohtaa ja 2 momentin 3 kohtaa ei sovelleta, jos työttömyysjakso on kestänyt korkeintaan:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_9__subsec_4__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>kolme kuukautta ja hänellä on ollut EU:n sininen kortti alle kahden vuoden ajan; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_9__subsec_4__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>kuusi kuukautta ja hänellä on ollut EU:n sininen kortti vähintään kahden vuoden ajan.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_5">
+                            <content>
+                                <p>Jos Maahanmuuttovirasto soveltaa 2 momentin 2 tai 5 kohtaa, sen on kuultava EU:n sinisen kortin haltijaa ja asetettava kolmen kuukauden määräaika uuden työpaikan hakemiseksi. Määräajaksi on asetettava kuusi kuukautta, jos kortin haltija on aiemmin työskennellyt vähintään kaksi vuotta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_6">
+                            <content>
+                                <p>Sovellettaessa 2–5 momenttia on otettava huomioon tapauksen erityiset olosuhteet kokonaisuudessaan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_10">
+                        <num>10 §</num>
+                        <heading eId="chp_2__sec_10__heading">Työnteko-oikeus</heading>
+                        <subsection eId="chp_2__sec_10__subsec_1">
+                            <content>
+                                <p>Kolmannen maan kansalaisella, jolle on myönnetty tämän lain mukainen EU:n sininen kortti, on luvan perusteen mukainen työnteko-oikeus.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_11">
+                        <num>11 § </num>
+                        <heading eId="chp_2__sec_11__heading">Perheenjäsenten oleskelu- ja työnteko-oikeus</heading>
+                        <subsection eId="chp_2__sec_11__subsec_1">
+                            <content>
+                                <p>EU:n sinisen kortin saaneen perheenjäsenelle myönnetään hakemuksesta oleskelulupa perhesiteen perusteella vastaavaksi ajaksi kuin EU:n sinisen kortin haltijan oleskelulupa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_11__subsec_2">
+                            <content>
+                                <p>Perheenjäsenellä on rajoittamaton työnteko-oikeus.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_3">
+                    <num>3 luku</num>
+                    <heading eId="chp_3__heading">Liikkuminen Euroopan unionin jäsenvaltioiden alueella</heading>
+                    <section eId="chp_3__sec_12">
+                        <num>12 §</num>
+                        <heading eId="chp_3__sec_12__heading">Lyhytaikainen liikkuminen</heading>
+                        <subsection eId="chp_3__sec_12__subsec_1">
+                            <content>
+                                <p>Kolmannen maan kansalaisella, joka on saanut ensimmäisessä jäsenvaltiossa EU:n sinisen kortin, on oikeus sen nojalla harjoittaa Suomessa tilapäistä liiketoimintaa, joka liittyy suoraan työnantajan liiketaloudellisiin etuihin ja ensimmäisessä jäsenvaltiossa tehtyyn työsopimuksen mukaisiin työtehtäviin, enintään 90 päivän ajan minkä tahansa 180 päivän jakson aikana.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_13">
+                        <num>13 §</num>
+                        <heading eId="chp_3__sec_13__heading">Pitkäaikainen liikkuminen</heading>
+                        <subsection eId="chp_3__sec_13__subsec_1">
+                            <content>
+                                <p>Kolmannen maan kansalaisella, joka on oleskellut 12 kuukauden ajan laillisesti ensimmäisessä jäsenvaltiossa EU:n sinisen kortin haltijana, on oikeus tulla Suomeen ja työskennellä Suomessa mainitun EU:n sinisen kortin ja voimassa olevan matkustusasiakirjan perusteella, jos hän täyttää 14 ja 16 §:ssä säädetyt edellytykset. Kolmannen maan kansalaisella on sama oikeus kuuden kuukauden laillisen oleskelun jälkeen, jos hän on aikaisemmin käyttänyt erityisosaajadirektiivissä säädettyä oikeutta pitkäaikaiseen liikkumiseen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_14">
+                        <num>14 §</num>
+                        <heading eId="chp_3__sec_14__heading">Pitkäaikaista liikkumista koskeva hakemus</heading>
+                        <subsection eId="chp_3__sec_14__subsec_1">
+                            <intro eId="chp_3__sec_14__subsec_1__intro">
+                                <p>Kolmannen maan kansalaisen on viimeistään kuukauden kuluttua maahan saapumisestaan haettava EU:n sinistä korttia. Pitkäaikaista liikkumista koskeva EU:n sininen kortti myönnetään, jos hänellä on: </p>
+                            </intro>
+                            <paragraph eId="chp_3__sec_14__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>ensimmäisen jäsenvaltion myöntämä voimassa oleva EU:n sininen kortti;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_3__sec_14__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>korkeaa osaamistasoa vaativaa vähintään kuuden kuukauden pituista työtä koskeva voimassa oleva työsopimus tai sitova työtarjous, jossa sovittu palkka on 5 §:n 1 momentin 1 kohdan mukainen; ja</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_3__sec_14__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>asiakirjat, jotka osoittavat, jos työssä vaaditaan erityistä pätevyyttä, lupaa tai hyväksyttyä terveydentilaa, että hän täyttää niitä koskevat vaatimukset.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_2">
+                            <content>
+                                <p>Kolmannen maan kansalaisen on esitettävä 1 momentin 2 kohdan mukaiset tiedot ulkomaalaislain 71 a §:n 1 momentin ja työnantajan 71 b §:n 1 momentin mukaisesti. EU:n sinisen kortin hakija ja työnantaja voidaan velvoittaa esittämään 1 momentissa tarkoitetut asiakirjat, jos on perusteltua aihetta epäillä, että hakija ei täytä pitkäaikaisen liikkumisen edellytyksiä. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_3">
+                            <content>
+                                <p>Kolmannen maan kansalaisen työnteko-oikeus alkaa EU:n sinisen kortin myöntämisestä tai, jos sitä ei ole myönnetty, 30 päivän kuluttua täydellisen hakemuksen jättämisestä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_15">
+                        <num>15 §</num>
+                        <heading eId="chp_3__sec_15__heading">Perheenjäsenen pitkäaikainen liikkuminen</heading>
+                        <subsection eId="chp_3__sec_15__subsec_1">
+                            <content>
+                                <p>Jos EU:n sinisen kortin haltija on liikkunut tai aikoo liikkua Suomeen 13 §:n perusteella, hänen perheenjäsenellään on oikeus liikkua hänen mukanaan tai myöhemmin. Perheenjäsenen on haettava oleskelulupaa viimeistään kuukauden kuluttua maahan saapumisestaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_15__subsec_2">
+                            <content>
+                                <p>Oleskelulupa myönnetään hakemuksesta, jos perheenjäsenellä on ensimmäisen jäsenvaltion myöntämä oleskelulupa ja voimassa oleva matkustusasiakirja tai niiden oikeaksi todistetut jäljennökset ja hän on oleskellut ensimmäisessä jäsenvaltiossa EU:n sinisen kortin haltijan perheenjäsenenä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_15__subsec_3">
+                            <content>
+                                <p>Perheenjäsenellä, jolle on myönnetty oleskelulupa tämän pykälän nojalla, on rajoittamaton työnteko-oikeus.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_16">
+                        <num>16 §</num>
+                        <heading eId="chp_3__sec_16__heading">Pitkäaikaista liikkumista koskevan hakemuksen hylkääminen</heading>
+                        <subsection eId="chp_3__sec_16__subsec_1">
+                            <intro eId="chp_3__sec_16__subsec_1__intro">
+                                <p>Pitkäaikaista liikkumista koskeva hakemus on hylättävä, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_3__sec_16__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>14 §:n 1 momentin tarkoittamia tietoja tai asiakirjoja ei esitetä;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_3__sec_16__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>esitetyt asiakirjat on hankittu vilpillisin keinoin tai ne on väärennetty tai niitä on vääristelty;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_3__sec_16__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>työ ei täytä sovellettavissa laeissa, työehtosopimuksissa tai käytännöissä asetettuja ehtoja; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_3__sec_16__subsec_1__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>EU:n sinisen kortin haltija on uhka yleiselle järjestykselle, yleiselle turvallisuudelle tai kansanterveydelle.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_3__sec_16__subsec_2">
+                            <content>
+                                <p>Pitkäaikaista liikkuvuutta koskevan hakemuksen hylkäämistä koskevassa päätöksessä on otettava huomioon tapauksen olosuhteet kokonaisuudessaan. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_17">
+                        <num>17 §</num>
+                        <heading eId="chp_3__sec_17__heading">Käsittelyajat ja ilmoitus ensimmäiselle jäsenvaltiolle</heading>
+                        <subsection eId="chp_3__sec_17__subsec_1">
+                            <content>
+                                <p>Maahanmuuttoviraston on annettava pitkäaikaista liikkumista koskevaan hakemukseen tekemänsä päätös tiedoksi hakijalle ja ilmoitettava siitä ensimmäiselle jäsenvaltiolle viimeistään 30 päivän kuluessa täydellisen hakemuksen jättämispäivästä. Perheenjäsenen hakemukseen tehty päätös on annettava tiedoksi perheenjäsenelle samassa yhteydessä tai viimeistään 30 päivän kuluessa, jos hakemus on tehty eri aikaan kuin EU:n sinistä korttia koskeva hakemus. Poikkeuksellisissa ja asianmukaisesti perustelluissa olosuhteissa, jotka liittyvät hakemuksen monimutkaisuuteen, Maahanmuuttovirasto voi jatkaa määräaikaa 30 päivällä. Sen on ilmoitettava hakijalle määräajan jatkamisesta viimeistään 30 päivän kuluessa täydellisen hakemuksen jättämispäivästä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_17__subsec_2">
+                            <content>
+                                <p>Maahanmuuttoviraston on ilmoitettava ensimmäiselle jäsenvaltiolle tekemässään ilmoituksessa hakemuksen 16 §:n 1 momentin 2 ja 4 kohdassa säädetyt hylkäämisperusteet.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_18">
+                        <num>18 §</num>
+                        <heading eId="chp_3__sec_18__heading">Liikkuminen toiseen jäsenvaltioon</heading>
+                        <subsection eId="chp_3__sec_18__subsec_1">
+                            <content>
+                                <p>Jos EU:n sinisen kortin haltija liikkuu pitkäaikaisesti toiseen jäsenvaltioon, EU:n sinistä korttia ei saa peruuttaa 9 §:n 1 momentin 1 kohdan tai 2 momentin 1 kohdan perusteella ennen kuin toinen jäsenvaltio on tehnyt päätöksen pitkäaikaista liikkuvuutta koskevasta hakemuksesta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_18__subsec_2">
+                            <content>
+                                <p>Jos toinen jäsenvaltio hylkää EU:n sinistä korttia koskevan hakemuksen tai Suomen myöntämä oleskelulupa ei ole enää voimassa taikka se on peruutettu liikkumisen aikana, EU:n sinisen kortin haltijalla ja tämän perheenjäsenellä on oikeus palata Suomeen ilman muodollisuuksia ja viipymättä. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_4">
+                    <num>4 luku</num>
+                    <heading eId="chp_4__heading">Menettely ja toimivaltainen viranomainen</heading>
+                    <section eId="chp_4__sec_19">
+                        <num>19 §</num>
+                        <heading eId="chp_4__sec_19__heading">Maahanmuuttoviraston toimivalta</heading>
+                        <subsection eId="chp_4__sec_19__subsec_1">
+                            <content>
+                                <p>Maahanmuuttovirasto vastaanottaa oleskelulupahakemuksen ja päättää oleskeluluvan myöntämisestä, peruuttamisesta ja uusimatta jättämisestä sekä hakemuksen hylkäämisestä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_19__subsec_2">
+                            <content>
+                                <p>Maahanmuuttovirasto käsittelee perheenjäsenen oleskelulupahakemuksen samaan aikaan kuin EU:n sinistä korttia koskevan hakemuksen, jos hakemukset tehdään samaan aikaan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_20">
+                        <num>20 §</num>
+                        <heading eId="chp_4__sec_20__heading">Merkintä oleskelulupakorttiin</heading>
+                        <subsection eId="chp_4__sec_20__subsec_1">
+                            <content>
+                                <p>EU:n sinisen kortin saaneen oleskelulupakorttiin merkitään oleskeluluvan lajin kirjaintunnus ja oleskeluluvan tyyppi -kenttään "EU:n sininen kortti".</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_20__subsec_2">
+                            <content>
+                                <p>EU:n sinisen kortin saaneen kolmannen maan kansalaisen, jolle on myönnetty kansainvälistä suojelua, oleskelulupakorttiin merkitään oleskeluluvan lajin kirjaintunnus ja huomautuksia-kenttään "[Jäsenvaltion nimi] myöntänyt kansainvälistä suojelua [päivämäärä]". Jos EU:n sinisen kortin haltijan kansainvälisen suojelun asema peruutetaan, kolmannen maan kansalaiselle on tämän pyynnöstä myönnettävä uusi EU:n sininen kortti, joka ei sisällä kyseistä huomautusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_20__subsec_3">
+                            <content>
+                                <p>Jos EU:n sininen kortti myönnetään 4 §:n 9 kohdan b alakohdassa tarkoitetun korkean ammattipätevyyden perusteella, oleskelulupakortin huomautuksia-kenttään merkitään "Muu kuin liitteessä I lueteltu ammatti". </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_20__subsec_4">
+                            <content>
+                                <p>EU:n sinisen kortin haltijan, jolle myönnetään ulkomaalaislain 56 a §:ssä tarkoitettu pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa, oleskelulupakortin huomautuksia-kenttää merkitään "Entinen EU:n sinisen kortin haltija".</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_21">
+                        <num>21 §</num>
+                        <heading eId="chp_4__sec_21__heading">Käsittelyajat </heading>
+                        <subsection eId="chp_4__sec_21__subsec_1">
+                            <content>
+                                <p>Maahanmuuttoviraston on tehtävä päätös EU:n sinistä korttia koskevasta hakemuksesta ja perheenjäsenen hakemuksesta sekä annettava päätös kirjallisesti tiedoksi viimeistään 60 päivän kuluessa täydellisen hakemuksen jättämispäivästä. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_21__subsec_2">
+                            <content>
+                                <p>Jos työnantaja on sertifioitu ulkomaalaislain 76 §:n mukaisesti, päätös EU:n sinistä korttia koskevasta hakemuksesta on annettava tiedoksi viimeistään 30 päivän kuluessa täydellisen hakemuksen jättämispäivästä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_21__subsec_3">
+                            <content>
+                                <p>Jos hakemuksen liitteenä esitetyt tiedot tai toimitetut asiakirjat ovat riittämättömät tai puutteelliset, Maahanmuuttoviraston on ilmoitettava hakijalle, mitä lisäasiakirjoja tai -tietoja vaaditaan, ja asetettava niiden esittämistä tai toimittamista varten kohtuullinen määräaika. Edellä 1 momentissa tarkoitetun määräajan kuluminen keskeytyy, kunnes Maahanmuuttovirasto on saanut vaaditut lisäasiakirjat tai -tiedot. Jos vaadittuja lisätietoja tai asiakirjoja ei ole toimitettu kyseisessä määräajassa, hakemus voidaan hylätä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_5">
+                    <num>5 luku</num>
+                    <heading eId="chp_5__heading">Erinäiset säännökset</heading>
+                    <section eId="chp_5__sec_22">
+                        <num>22 §</num>
+                        <heading eId="chp_5__sec_22__heading">Työnantajaan kohdistettavat seuraamukset</heading>
+                        <subsection eId="chp_5__sec_22__subsec_1">
+                            <content>
+                                <p>
+                                    Ulkomaalaislain 186 §:ssä säädetään työnantajan ulkomaalaisrikkomuksesta ja 
+                                    <ref href="/akn/fi/act/statute-consolidated/1889/39-001#chp_47__sec_6a">rikoslain 47 luvun 6 a §:ssä</ref>
+                                     luvattomasta ulkomaisen työvoiman käytöstä.
+                                </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_22__subsec_2">
+                            <content>
+                                <p>Maahanmuuttoviraston päätöksestä pidättäytyä määräajaksi myöntämästä oleskelulupa työnantajan palvelukseen säädetään ulkomaalaislain 187 §:ssä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_23">
+                        <num>23 §</num>
+                        <heading eId="chp_5__sec_23__heading">Yhteyspiste</heading>
+                        <subsection eId="chp_5__sec_23__subsec_1">
+                            <content>
+                                <p>Maahanmuuttovirasto toimii erityisosaajadirektiivin 28 artiklassa tarkoitettuna yhteyspisteenä, joka tekee yhteistyötä muiden jäsenvaltioiden yhteyspisteiden kanssa ja vastaa tässä laissa säädettyjen tietojen vastaanottamisesta ja toimittamisesta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_24">
+                        <num>24 §</num>
+                        <heading eId="chp_5__sec_24__heading">Muutoksenhaku</heading>
+                        <subsection eId="chp_5__sec_24__subsec_1">
+                            <content>
+                                <p>
+                                    Muutoksenhaussa sovelletaan toimivaltaisen hallinto-oikeuden määräytymisen osalta ulkomaalaislain 192 §:n 1 ja 2 momenttia. Lisäksi muutoksenhaussa sovelletaan mainitun lain 194 §:ää työnantajan valitusoikeudesta, 196 §:n 4 momenttia valitusluvan myöntämisestä korkeimpaan hallinto-oikeuteen ja 197 §:n 1 ja 3 momenttia valituskirjelmän toimittamisesta. Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan oikeudenkäynnistä hallintoasioissa annettua lakia 
+                                    <ref href="/akn/fi/act/statute-consolidated/2019/808">(808/2019)</ref>.
+                                </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_25" finlex:entryIntoForce="true" finlex:vsId="224/2024">
+                        <num>25 §</num>
+                        <heading eId="chp_5__sec_25__heading">Voimaantulo</heading>
+                        <subsection eId="chp_5__sec_25__subsec_1">
+                            <content>
+                                <p>Tämä laki tulee voimaan 13 päivänä toukokuuta 2024.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+            </hcontainer>
+            <hcontainer finlex:outline="Esityöt ja allekirjoitukset" name="conclusions">
+                <hcontainer finlex:outline="Esityöt" name="preliminaryWork">
+                    <content>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2024/6">HE 6/2024</ref>
+                        </p>
+                        <p>HaVM 3/2024</p>
+                        <p>EV 21/2024</p>
+                        <p>Euroopan parlamentin ja neuvoston direktiivi 2021/1883/EU (32021L1883); EUVL L 382, 28.10.2021, s. 1</p>
+                    </content>
+                </hcontainer>
+            </hcontainer>
+        </body>
+    </act>
+</akomaNtoso>

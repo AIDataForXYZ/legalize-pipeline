@@ -1,0 +1,2399 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:finlex="http://data.finlex.fi/schema/finlex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <act contains="multipleVersions" name="main">
+        <meta>
+            <identification source="#organization_fi.finlex">
+                <FRBRWork>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/1999/731/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/1999/731"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/1999/731/ajantasa"/>
+                    <FRBRdate date="1999-06-11" name="dateIssued"/>
+                    <FRBRdate date="1999-06-17" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.finlex"/>
+                    <FRBRcountry value="fi"/>
+                    <FRBRsubtype value="statute-consolidated"/>
+                    <FRBRnumber value="731"/>
+                    <FRBRprescriptive value="false"/>
+                    <FRBRauthoritative value="false"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/1999/731/fin@20180817/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/1999/731/fin@20180817"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/1999/731/ajantasa/2018-10-05/fin"/>
+                    <FRBRdate date="1999-06-11" name="dateIssued"/>
+                    <FRBRdate date="2018-10-05" name="dateConsolidated"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.finlex"/>
+                    <FRBRversionNumber value="20180817"/>
+                    <FRBRlanguage language="fin"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/fi/act/statute-consolidated/1999/731/fin@20180817/!main.xml"/>
+                    <FRBRuri value="/akn/fi/act/statute-consolidated/1999/731/fin@20180817.akn"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/1999/731/ajantasa/2018-10-05/fin/xml"/>
+                    <FRBRdate date="2025-09-29" name="dateProduced"/>
+                    <FRBRdate date="1999-06-17" name="datePublished"/>
+                    <FRBRauthor as="#role_editor" href="#organization_fi.finlex"/>
+                    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+            <classification source="#organization_fi.finlex">
+                <keyword dictionary="/akn/ontology/concept/statute-keyword" showAs="Perustuslaki" value="/akn/ontology/concept/statute-keyword.3089"/>
+                <keyword dictionary="/akn/ontology/concept/statute-keyword" showAs="Suomen perustuslaki" value="/akn/ontology/concept/statute-keyword.3664"/>
+            </classification>
+            <references source="#organization_fi.finlex">
+                <TLCOrganization eId="organization_fi.finlex" href="/akn/ontology/organization/fi.finlex" showAs="Finlex"/>
+                <TLCRole eId="role_author" href="/akn/ontology/role/author" showAs="Tekijä"/>
+                <TLCRole eId="role_editor" href="/akn/ontology/role/editor" showAs="Toimittaja"/>
+                <TLCOrganization eId="fi.ministry-of-justice" href="/akn/ontology/organization/fi.ministry-of-justice" showAs="Oikeusministeriö"/>
+                <TLCConcept eId="act" href="/akn/ontology/concept/statute/type-statute.act" showAs="Laki"/>
+            </references>
+            <proprietary source="#organization_fi.finlex">
+                <finlex:documentYear>1999</finlex:documentYear>
+                <finlex:administrativeBranch refersTo="#fi.ministry-of-justice"/>
+                <finlex:typeStatute refersTo="#act"/>
+                <finlex:isInForce value="true"/>
+                <finlex:inForce>
+                    <finlex:dateEntryIntoForce date="2000-03-01"/>
+                </finlex:inForce>
+                <finlex:amendedBy>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute/2007/802">802/2007</finlex:ref>
+                        <finlex:inForce>
+                            <finlex:dateEntryIntoForce date="2007-10-01">1.10.2007</finlex:dateEntryIntoForce>
+                        </finlex:inForce>
+                        <finlex:noteEditorial>muutt. 9 ja 38 §:ää</finlex:noteEditorial>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute/2018/817">817/2018</finlex:ref>
+                        <finlex:inForce>
+                            <finlex:dateEntryIntoForce date="2018-10-15">15.10.2018</finlex:dateEntryIntoForce>
+                        </finlex:inForce>
+                        <finlex:noteEditorial>muutt. 10 §:ää</finlex:noteEditorial>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute/2007/596">596/2007</finlex:ref>
+                        <finlex:inForce>
+                            <finlex:dateEntryIntoForce date="2007-06-01">1.6.2007</finlex:dateEntryIntoForce>
+                        </finlex:inForce>
+                        <finlex:noteEditorial>muutt. 35 ja 90 §:ää</finlex:noteEditorial>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute/2011/1112">1112/2011</finlex:ref>
+                        <finlex:inForce>
+                            <finlex:dateEntryIntoForce date="2012-03-01">1.3.2012</finlex:dateEntryIntoForce>
+                        </finlex:inForce>
+                    </finlex:statuteReference>
+                </finlex:amendedBy>
+                <finlex:issuedUnderThisAct>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2000/745">745/2000</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2002/1262">1262/2002</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2000/1289">1289/2000</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2000/724">724/2000</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2002/209">209/2002</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2002/107">107/2002</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2001/753">753/2001</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/2000/867">867/2000</finlex:ref>
+                    </finlex:statuteReference>
+                </finlex:issuedUnderThisAct>
+                <finlex:repeals>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/1919/94-001">94/1919</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/1928/7">7/1928</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/1922/273">273/1922</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/1922/274">274/1922</finlex:ref>
+                    </finlex:statuteReference>
+                    <finlex:statuteReference>
+                        <finlex:ref href="/akn/fi/act/statute-consolidated/1919/94">94/1919</finlex:ref>
+                    </finlex:statuteReference>
+                </finlex:repeals>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docNumber>731/1999</docNumber>
+                <docTitle>Suomen perustuslaki</docTitle>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="enactingClause">
+                <p>Eduskunnan päätöksen mukaisesti, joka on tehty valtiopäiväjärjestyksen 67 §:ssä määrätyllä tavalla, säädetään:</p>
+            </formula>
+        </preamble>
+        <body>
+            <hcontainer finlex:outline="Säädöksen teksti" name="statuteProvisionsWrapper">
+                <chapter eId="chp_1">
+                    <num>1 luku</num>
+                    <heading eId="chp_1__heading">Valtiojärjestyksen perusteet</heading>
+                    <section eId="chp_1__sec_1">
+                        <num>1 §</num>
+                        <heading eId="chp_1__sec_1__heading">Valtiosääntö</heading>
+                        <subsection eId="chp_1__sec_1__subsec_1">
+                            <content>
+                                <p>Suomi on täysivaltainen tasavalta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_1__subsec_2">
+                            <content>
+                                <p>Suomen valtiosääntö on vahvistettu tässä perustuslaissa. Valtiosääntö turvaa ihmisarvon loukkaamattomuuden ja yksilön vapauden ja oikeudet sekä edistää oikeudenmukaisuutta yhteiskunnassa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_1__subsec_3v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Suomi osallistuu kansainväliseen yhteistyöhön rauhan ja ihmisoikeuksien turvaamiseksi sekä yhteiskunnan kehittämiseksi. Suomi on Euroopan unionin jäsen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_2">
+                        <num>2 §</num>
+                        <heading eId="chp_1__sec_2__heading">Kansanvaltaisuus ja oikeusvaltioperiaate</heading>
+                        <subsection eId="chp_1__sec_2__subsec_1">
+                            <content>
+                                <p>Valtiovalta Suomessa kuuluu kansalle, jota edustaa valtiopäiville kokoontunut eduskunta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_2">
+                            <content>
+                                <p>Kansanvaltaan sisältyy yksilön oikeus osallistua ja vaikuttaa yhteiskunnan ja elinympäristönsä kehittämiseen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_3">
+                            <content>
+                                <p>Julkisen vallan käytön tulee perustua lakiin. Kaikessa julkisessa toiminnassa on noudatettava tarkoin lakia.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_3">
+                        <num>3 §</num>
+                        <heading eId="chp_1__sec_3__heading">Valtiollisten tehtävien jako ja parlamentarismi</heading>
+                        <subsection eId="chp_1__sec_3__subsec_1">
+                            <content>
+                                <p>Lainsäädäntövaltaa käyttää eduskunta, joka päättää myös valtiontaloudesta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_3__subsec_2">
+                            <content>
+                                <p>Hallitusvaltaa käyttävät tasavallan presidentti sekä valtioneuvosto, jonka jäsenten tulee nauttia eduskunnan luottamusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_3__subsec_3">
+                            <content>
+                                <p>Tuomiovaltaa käyttävät riippumattomat tuomioistuimet, ylimpinä tuomioistuimina korkein oikeus ja korkein hallinto-oikeus.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_4">
+                        <num>4 §</num>
+                        <heading eId="chp_1__sec_4__heading">Valtakunnan alue</heading>
+                        <subsection eId="chp_1__sec_4__subsec_1">
+                            <content>
+                                <p>Suomen alue on jakamaton. Valtakunnan rajoja ei voida muuttaa ilman eduskunnan suostumusta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_5">
+                        <num>5 §</num>
+                        <heading eId="chp_1__sec_5__heading">Suomen kansalaisuus</heading>
+                        <subsection eId="chp_1__sec_5__subsec_1">
+                            <content>
+                                <p>Suomen kansalaisuus saadaan syntymän ja vanhempien kansalaisuuden perusteella sen mukaan kuin lailla tarkemmin säädetään. Kansalaisuus voidaan myöntää laissa säädetyin edellytyksin myös ilmoituksen tai hakemuksen perusteella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_5__subsec_2">
+                            <content>
+                                <p>Suomen kansalaisuudesta voidaan vapauttaa vain laissa säädetyillä perusteilla ja sillä edellytyksellä, että henkilöllä on tai hän saa toisen valtion kansalaisuuden.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_2">
+                    <num>2 luku</num>
+                    <heading eId="chp_2__heading">Perusoikeudet</heading>
+                    <section eId="chp_2__sec_6">
+                        <num>6 §</num>
+                        <heading eId="chp_2__sec_6__heading">Yhdenvertaisuus</heading>
+                        <subsection eId="chp_2__sec_6__subsec_1">
+                            <content>
+                                <p>Ihmiset ovat yhdenvertaisia lain edessä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_2">
+                            <content>
+                                <p>Ketään ei saa ilman hyväksyttävää perustetta asettaa eri asemaan sukupuolen, iän, alkuperän, kielen, uskonnon, vakaumuksen, mielipiteen, terveydentilan, vammaisuuden tai muun henkilöön liittyvän syyn perusteella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_3">
+                            <content>
+                                <p>Lapsia on kohdeltava tasa-arvoisesti yksilöinä, ja heidän tulee saada vaikuttaa itseään koskeviin asioihin kehitystään vastaavasti.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_4">
+                            <content>
+                                <p>Sukupuolten tasa-arvoa edistetään yhteiskunnallisessa toiminnassa sekä työelämässä, erityisesti palkkauksesta ja muista palvelussuhteen ehdoista määrättäessä, sen mukaan kuin lailla tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_7">
+                        <num>7 §</num>
+                        <heading eId="chp_2__sec_7__heading">Oikeus elämään sekä henkilökohtaiseen vapauteen ja koskemattomuuteen</heading>
+                        <subsection eId="chp_2__sec_7__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus elämään sekä henkilökohtaiseen vapauteen, koskemattomuuteen ja turvallisuuteen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_7__subsec_2">
+                            <content>
+                                <p>Ketään ei saa tuomita kuolemaan, kiduttaa eikä muutoinkaan kohdella ihmisarvoa loukkaavasti.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_7__subsec_3">
+                            <content>
+                                <p>Henkilökohtaiseen koskemattomuuteen ei saa puuttua eikä vapautta riistää mielivaltaisesti eikä ilman laissa säädettyä perustetta. Rangaistuksen, joka sisältää vapaudenmenetyksen, määrää tuomioistuin. Muun vapaudenmenetyksen laillisuus voidaan saattaa tuomioistuimen tutkittavaksi. Vapautensa menettäneen oikeudet turvataan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_8">
+                        <num>8 §</num>
+                        <heading eId="chp_2__sec_8__heading">Rikosoikeudellinen laillisuusperiaate</heading>
+                        <subsection eId="chp_2__sec_8__subsec_1">
+                            <content>
+                                <p>Ketään ei saa pitää syyllisenä rikokseen eikä tuomita rangaistukseen sellaisen teon perusteella, jota ei tekohetkellä ole laissa säädetty rangaistavaksi. Rikoksesta ei saa tuomita ankarampaa rangaistusta kuin tekohetkellä on laissa säädetty.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_9">
+                        <num>9 §</num>
+                        <heading eId="chp_2__sec_9__heading">Liikkumisvapaus</heading>
+                        <subsection eId="chp_2__sec_9__subsec_1">
+                            <content>
+                                <p>Suomen kansalaisella ja maassa laillisesti oleskelevalla ulkomaalaisella on vapaus liikkua maassa ja valita asuinpaikkansa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_2">
+                            <content>
+                                <p>Jokaisella on oikeus lähteä maasta. Tähän oikeuteen voidaan lailla säätää välttämättömiä rajoituksia oikeudenkäynnin tai rangaistuksen täytäntöönpanon varmistamiseksi taikka maanpuolustusvelvollisuuden täyttämisen turvaamiseksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_3v20070802" finlex:originalVersion="@20070802" finlex:originalVersionLabel="24.8.2007/802">
+                            <content>
+                                <p>Suomen kansalaista ei saa estää saapumasta maahan, karkottaa maasta eikä vastoin tahtoaan luovuttaa tai siirtää toiseen maahan. Lailla voidaan kuitenkin säätää, että Suomen kansalainen voidaan rikoksen johdosta tai oikeudenkäyntiä varten taikka lapsen huoltoa tai hoitoa koskevan päätöksen täytäntöönpanemiseksi luovuttaa tai siirtää maahan, jossa hänen ihmisoikeutensa ja oikeusturvansa on taattu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_9__subsec_4">
+                            <content>
+                                <p>Ulkomaalaisen oikeudesta tulla Suomeen ja oleskella maassa säädetään lailla. Ulkomaalaista ei saa karkottaa, luovuttaa tai palauttaa, jos häntä tämän vuoksi uhkaa kuolemanrangaistus, kidutus tai muu ihmisarvoa loukkaava kohtelu.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_10">
+                        <num>10 §</num>
+                        <heading eId="chp_2__sec_10__heading">Yksityiselämän suoja</heading>
+                        <subsection eId="chp_2__sec_10__subsec_1">
+                            <content>
+                                <p>Jokaisen yksityiselämä, kunnia ja kotirauha on turvattu. Henkilötietojen suojasta säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_10__subsec_2">
+                            <content>
+                                <p>Kirjeen, puhelun ja muun luottamuksellisen viestin salaisuus on loukkaamaton.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_10__subsec_3v20180817" finlex:originalVersion="@20180817" finlex:originalVersionLabel="5.10.2018/817">
+                            <content>
+                                <p>Lailla voidaan säätää perusoikeuksien turvaamiseksi tai rikosten selvittämiseksi välttämättömistä kotirauhan piiriin ulottuvista toimenpiteistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_10__subsec_4v20180817" finlex:originalVersion="@20180817" finlex:originalVersionLabel="5.10.2018/817">
+                            <content>
+                                <p>Lailla voidaan säätää välttämättömistä rajoituksista viestin salaisuuteen yksilön tai yhteiskunnan turvallisuutta taikka kotirauhaa vaarantavien rikosten tutkinnassa, oikeudenkäynnissä, turvallisuustarkastuksessa ja vapaudenmenetyksen aikana sekä tiedon hankkimiseksi sotilaallisesta toiminnasta taikka sellaisesta muusta toiminnasta, joka vakavasti uhkaa kansallista turvallisuutta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_11">
+                        <num>11 §</num>
+                        <heading eId="chp_2__sec_11__heading">Uskonnon ja omantunnon vapaus</heading>
+                        <subsection eId="chp_2__sec_11__subsec_1">
+                            <content>
+                                <p>Jokaisella on uskonnon ja omantunnon vapaus.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_11__subsec_2">
+                            <content>
+                                <p>Uskonnon ja omantunnon vapauteen sisältyy oikeus tunnustaa ja harjoittaa uskontoa, oikeus ilmaista vakaumus ja oikeus kuulua tai olla kuulumatta uskonnolliseen yhdyskuntaan. Kukaan ei ole velvollinen osallistumaan omantuntonsa vastaisesti uskonnon harjoittamiseen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_12">
+                        <num>12 §</num>
+                        <heading eId="chp_2__sec_12__heading">Sananvapaus ja julkisuus</heading>
+                        <subsection eId="chp_2__sec_12__subsec_1">
+                            <content>
+                                <p>Jokaisella on sananvapaus. Sananvapauteen sisältyy oikeus ilmaista, julkistaa ja vastaanottaa tietoja, mielipiteitä ja muita viestejä kenenkään ennakolta estämättä. Tarkempia säännöksiä sananvapauden käyttämisestä annetaan lailla. Lailla voidaan säätää kuvaohjelmia koskevia lasten suojelemiseksi välttämättömiä rajoituksia.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_12__subsec_2">
+                            <content>
+                                <p>Viranomaisen hallussa olevat asiakirjat ja muut tallenteet ovat julkisia, jollei niiden julkisuutta ole välttämättömien syiden vuoksi lailla erikseen rajoitettu. Jokaisella on oikeus saada tieto julkisesta asiakirjasta ja tallenteesta. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_13">
+                        <num>13 §</num>
+                        <heading eId="chp_2__sec_13__heading">Kokoontumis- ja yhdistymisvapaus</heading>
+                        <subsection eId="chp_2__sec_13__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus lupaa hankkimatta järjestää kokouksia ja mielenosoituksia sekä osallistua niihin.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_13__subsec_2">
+                            <content>
+                                <p>Jokaisella on yhdistymisvapaus. Yhdistymisvapauteen sisältyy oikeus ilman lupaa perustaa yhdistys, kuulua tai olla kuulumatta yhdistykseen ja osallistua yhdistyksen toimintaan. Samoin on turvattu ammatillinen yhdistymisvapaus ja vapaus järjestäytyä muiden etujen valvomiseksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_13__subsec_3">
+                            <content>
+                                <p>Tarkempia säännöksiä kokoontumisvapauden ja yhdistymisvapauden käyttämisestä annetaan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_14">
+                        <num>14 §</num>
+                        <heading eId="chp_2__sec_14__heading">Vaali- ja osallistumisoikeudet</heading>
+                        <subsection eId="chp_2__sec_14__subsec_1">
+                            <content>
+                                <p>Jokaisella Suomen kansalaisella, joka on täyttänyt kahdeksantoista vuotta, on oikeus äänestää valtiollisissa vaaleissa ja kansanäänestyksessä. Vaalikelpoisuudesta valtiollisissa vaaleissa on voimassa, mitä siitä erikseen säädetään tässä perustuslaissa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_14__subsec_2v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Jokaisella Suomen kansalaisella ja maassa asuvalla muulla Euroopan unionin kansalaisella, joka on täyttänyt kahdeksantoista vuotta, on oikeus äänestää Euroopan parlamentin vaaleissa sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_14__subsec_3">
+                            <content>
+                                <p>Jokaisella Suomen kansalaisella ja maassa vakinaisesti asuvalla ulkomaalaisella, joka on täyttänyt kahdeksantoista vuotta, on oikeus äänestää kunnallisvaaleissa ja kunnallisessa kansanäänestyksessä sen mukaan kuin lailla säädetään. Oikeudesta muutoin osallistua kuntien hallintoon säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_14__subsec_4">
+                            <content>
+                                <p>Julkisen vallan tehtävänä on edistää yksilön mahdollisuuksia osallistua yhteiskunnalliseen toimintaan ja vaikuttaa häntä itseään koskevaan päätöksentekoon.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_15">
+                        <num>15 §</num>
+                        <heading eId="chp_2__sec_15__heading">Omaisuuden suoja</heading>
+                        <subsection eId="chp_2__sec_15__subsec_1">
+                            <content>
+                                <p>Jokaisen omaisuus on turvattu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_15__subsec_2">
+                            <content>
+                                <p>Omaisuuden pakkolunastuksesta yleiseen tarpeeseen täyttä korvausta vastaan säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_16">
+                        <num>16 §</num>
+                        <heading eId="chp_2__sec_16__heading">Sivistykselliset oikeudet</heading>
+                        <subsection eId="chp_2__sec_16__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus maksuttomaan perusopetukseen. Oppivelvollisuudesta säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_16__subsec_2">
+                            <content>
+                                <p>Julkisen vallan on turvattava, sen mukaan kuin lailla tarkemmin säädetään, jokaiselle yhtäläinen mahdollisuus saada kykyjensä ja erityisten tarpeidensa mukaisesti myös muuta kuin perusopetusta sekä kehittää itseään varattomuuden sitä estämättä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_16__subsec_3">
+                            <content>
+                                <p>Tieteen, taiteen ja ylimmän opetuksen vapaus on turvattu.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_17">
+                        <num>17 §</num>
+                        <heading eId="chp_2__sec_17__heading">Oikeus omaan kieleen ja kulttuuriin</heading>
+                        <subsection eId="chp_2__sec_17__subsec_1">
+                            <content>
+                                <p>Suomen kansalliskielet ovat suomi ja ruotsi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_17__subsec_2">
+                            <content>
+                                <p>Jokaisen oikeus käyttää tuomioistuimessa ja muussa viranomaisessa asiassaan omaa kieltään, joko suomea tai ruotsia, sekä saada toimituskirjansa tällä kielellä turvataan lailla. Julkisen vallan on huolehdittava maan suomen- ja ruotsinkielisen väestön sivistyksellisistä ja yhteiskunnallisista tarpeista samanlaisten perusteiden mukaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_17__subsec_3">
+                            <content>
+                                <p>Saamelaisilla alkuperäiskansana sekä romaneilla ja muilla ryhmillä on oikeus ylläpitää ja kehittää omaa kieltään ja kulttuuriaan. Saamelaisten oikeudesta käyttää saamen kieltä viranomaisessa säädetään lailla. Viittomakieltä käyttävien sekä vammaisuuden vuoksi tulkitsemis- ja käännösapua tarvitsevien oikeudet turvataan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_18">
+                        <num>18 §</num>
+                        <heading eId="chp_2__sec_18__heading">Oikeus työhön ja elinkeinovapaus</heading>
+                        <subsection eId="chp_2__sec_18__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus lain mukaan hankkia toimeentulonsa valitsemallaan työllä, ammatilla tai elinkeinolla. Julkisen vallan on huolehdittava työvoiman suojelusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_18__subsec_2">
+                            <content>
+                                <p>Julkisen vallan on edistettävä työllisyyttä ja pyrittävä turvaamaan jokaiselle oikeus työhön. Oikeudesta työllistävään koulutukseen säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_18__subsec_3">
+                            <content>
+                                <p>Ketään ei saa ilman lakiin perustuvaa syytä erottaa työstä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_19">
+                        <num>19 §</num>
+                        <heading eId="chp_2__sec_19__heading">Oikeus sosiaaliturvaan</heading>
+                        <subsection eId="chp_2__sec_19__subsec_1">
+                            <content>
+                                <p>Jokaisella, joka ei kykene hankkimaan ihmisarvoisen elämän edellyttämää turvaa, on oikeus välttämättömään toimeentuloon ja huolenpitoon. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_19__subsec_2">
+                            <content>
+                                <p>Lailla taataan jokaiselle oikeus perustoimeentulon turvaan työttömyyden, sairauden, työkyvyttömyyden ja vanhuuden aikana sekä lapsen syntymän ja huoltajan menetyksen perusteella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_19__subsec_3">
+                            <content>
+                                <p>Julkisen vallan on turvattava, sen mukaan kuin lailla tarkemmin säädetään, jokaiselle riittävät sosiaali- ja terveyspalvelut ja edistettävä väestön terveyttä. Julkisen vallan on myös tuettava perheen ja muiden lapsen huolenpidosta vastaavien mahdollisuuksia turvata lapsen hyvinvointi ja yksilöllinen kasvu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_19__subsec_4">
+                            <content>
+                                <p>Julkisen vallan tehtävänä on edistää jokaisen oikeutta asuntoon ja tukea asumisen omatoimista järjestämistä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_20">
+                        <num>20 §</num>
+                        <heading eId="chp_2__sec_20__heading">Vastuu ympäristöstä</heading>
+                        <subsection eId="chp_2__sec_20__subsec_1">
+                            <content>
+                                <p>Vastuu luonnosta ja sen monimuotoisuudesta, ympäristöstä ja kulttuuriperinnöstä kuuluu kaikille.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_20__subsec_2">
+                            <content>
+                                <p>Julkisen vallan on pyrittävä turvaamaan jokaiselle oikeus terveelliseen ympäristöön sekä mahdollisuus vaikuttaa elinympäristöään koskevaan päätöksentekoon.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_21">
+                        <num>21 §</num>
+                        <heading eId="chp_2__sec_21__heading">Oikeusturva</heading>
+                        <subsection eId="chp_2__sec_21__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus saada asiansa käsitellyksi asianmukaisesti ja ilman aiheetonta viivytystä lain mukaan toimivaltaisessa tuomioistuimessa tai muussa viranomaisessa sekä oikeus saada oikeuksiaan ja velvollisuuksiaan koskeva päätös tuomioistuimen tai muun riippumattoman lainkäyttöelimen käsiteltäväksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_21__subsec_2">
+                            <content>
+                                <p>Käsittelyn julkisuus sekä oikeus tulla kuulluksi, saada perusteltu päätös ja hakea muutosta samoin kuin muut oikeudenmukaisen oikeudenkäynnin ja hyvän hallinnon takeet turvataan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_22">
+                        <num>22 §</num>
+                        <heading eId="chp_2__sec_22__heading">Perusoikeuksien turvaaminen</heading>
+                        <subsection eId="chp_2__sec_22__subsec_1">
+                            <content>
+                                <p>Julkisen vallan on turvattava perusoikeuksien ja ihmisoikeuksien toteutuminen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_23v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                        <num>23 §</num>
+                        <heading eId="chp_2__sec_23v20111112__heading">Perusoikeudet poikkeusoloissa</heading>
+                        <subsection eId="chp_2__sec_23v20111112__subsec_1v20111112">
+                            <content>
+                                <p>Perusoikeuksista voidaan säätää lailla tai laissa erityisestä syystä säädetyn ja soveltamisalaltaan täsmällisesti rajatun valtuuden nojalla annettavalla valtioneuvoston asetuksella sellaisia tilapäisiä poikkeuksia, jotka ovat välttämättömiä Suomeen kohdistuvan aseellisen hyökkäyksen samoin kuin muiden kansakuntaa vakavasti uhkaavien, laissa säädettyjen poikkeusolojen aikana ja jotka ovat Suomen kansainvälisten ihmisoikeusvelvoitteiden mukaisia. Lailla on kuitenkin säädettävä tilapäisten poikkeusten perusteet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_2__sec_23v20111112__subsec_2v20111112">
+                            <content>
+                                <p>Tilapäisiä poikkeuksia koskevat valtioneuvoston asetukset on saatettava viipymättä eduskunnan käsiteltäviksi. Eduskunta voi päättää asetusten voimassaolosta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_3">
+                    <num>3 luku</num>
+                    <heading eId="chp_3__heading">Eduskunta ja kansanedustajat</heading>
+                    <section eId="chp_3__sec_24">
+                        <num>24 §</num>
+                        <heading eId="chp_3__sec_24__heading">Eduskunnan kokoonpano ja vaalikausi</heading>
+                        <subsection eId="chp_3__sec_24__subsec_1">
+                            <content>
+                                <p>Eduskunta on yksikamarinen. Siihen kuuluu kaksisataa kansanedustajaa, jotka valitaan neljäksi vuodeksi kerrallaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_24__subsec_2">
+                            <content>
+                                <p>Eduskunnan toimikausi alkaa, kun eduskuntavaalien tulos on vahvistettu, ja jatkuu, kunnes seuraavat eduskuntavaalit on toimitettu.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_25">
+                        <num>25 §</num>
+                        <heading eId="chp_3__sec_25__heading">Eduskuntavaalien toimittaminen</heading>
+                        <subsection eId="chp_3__sec_25__subsec_1">
+                            <content>
+                                <p>Kansanedustajat valitaan välittömillä, suhteellisilla ja salaisilla vaaleilla. Jokaisella äänioikeutetulla on vaaleissa yhtäläinen äänioikeus.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_25__subsec_2">
+                            <content>
+                                <p>Eduskuntavaaleja varten maa jaetaan Suomen kansalaisten lukumäärän perusteella vähintään kahteentoista ja enintään kahdeksaantoista vaalipiiriin. Ahvenanmaan maakunta muodostaa lisäksi oman vaalipiirinsä yhden kansanedustajan valitsemista varten.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_25__subsec_3">
+                            <content>
+                                <p>Oikeus asettaa ehdokkaita eduskuntavaaleissa on rekisteröidyillä puolueilla ja laissa säädetyllä määrällä äänioikeutettuja.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_25__subsec_4">
+                            <content>
+                                <p>Eduskuntavaalien ajankohdasta, ehdokkaiden asettamisesta, vaalien toimittamisesta ja vaalipiireistä säädetään tarkemmin lailla. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_26">
+                        <num>26 §</num>
+                        <heading eId="chp_3__sec_26__heading">Ennenaikaisten eduskuntavaalien määrääminen</heading>
+                        <subsection eId="chp_3__sec_26__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti voi pääministerin perustellusta aloitteesta ja eduskuntaryhmiä kuultuaan sekä eduskunnan ollessa koolla määrätä ennenaikaiset eduskuntavaalit toimitettavaksi. Eduskunta päättää tämän jälkeen, milloin se ennen vaalien toimittamista lopettaa työskentelynsä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_26__subsec_2">
+                            <content>
+                                <p>Ennenaikaisten eduskuntavaalien jälkeen eduskunta kokoontuu valtiopäiville sen kuukauden ensimmäisenä päivänä, joka alkaa lähinnä yhdeksänkymmenen päivän kuluttua vaalimääräyksen antamisesta, jollei eduskunta ole päättänyt aikaisempaa kokoontumispäivää.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_27">
+                        <num>27 §</num>
+                        <heading eId="chp_3__sec_27__heading">Vaalikelpoisuus ja kelpoisuus edustajantoimeen</heading>
+                        <subsection eId="chp_3__sec_27__subsec_1">
+                            <content>
+                                <p>Eduskuntavaaleissa on vaalikelpoinen jokainen äänioikeutettu, joka ei ole vajaavaltainen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_27__subsec_2">
+                            <content>
+                                <p>Kansanedustajaksi ei kuitenkaan voida valita sotilasvirassa olevaa henkilöä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_27__subsec_3">
+                            <content>
+                                <p>Kansanedustajana eivät voi olla valtioneuvoston oikeuskansleri, eduskunnan oikeusasiamies, korkeimman oikeuden tai korkeimman hallinto-oikeuden jäsen eikä valtakunnansyyttäjä. Jos kansanedustaja valitaan tasavallan presidentiksi taikka nimitetään tai valitaan johonkin edellä tarkoitetuista tehtävistä, hänen edustajantoimensa lakkaa siitä päivästä, jolloin hänet on valittu tai nimitetty. Edustajantoimi lakkaa myös, jos kansanedustaja menettää vaalikelpoisuutensa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_28">
+                        <num>28 §</num>
+                        <heading eId="chp_3__sec_28__heading">Edustajantoimen keskeytyminen sekä siitä vapauttaminen ja erottaminen</heading>
+                        <subsection eId="chp_3__sec_28__subsec_1">
+                            <content>
+                                <p>Edustajantoimen hoitaminen keskeytyy siksi ajaksi, jonka kansanedustaja toimii Euroopan parlamentin jäsenenä. Edustajantointa hoitaa tänä aikana hänen varaedustajansa. Edustajantoimen hoitaminen keskeytyy myös asevelvollisuuden suorittamisen ajaksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_28__subsec_2">
+                            <content>
+                                <p>Eduskunta voi myöntää kansanedustajalle tämän pyynnöstä vapautuksen edustajantoimesta, jos se katsoo, että vapautuksen myöntämiseen on hyväksyttävä syy.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_28__subsec_3">
+                            <content>
+                                <p>Jos kansanedustaja olennaisesti ja toistuvasti laiminlyö edustajantoimensa hoitamisen, eduskunta voi hankittuaan asiasta perustuslakivaliokunnan kannanoton erottaa hänet edustajantoimesta joko kokonaan tai määräajaksi päätöksellä, jota on kannattanut vähintään kaksi kolmasosaa annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_28__subsec_4">
+                            <content>
+                                <p>Jos kansanedustajaksi valittu on täytäntöönpanokelpoisella päätöksellä tuomittu tahallisesta rikoksesta vankeuteen taikka vaaleihin kohdistuneesta rikoksesta rangaistukseen, eduskunta voi tutkia, sallitaanko hänen edelleen olla kansanedustajana. Jos rikos osoittaa, ettei tuomittu ansaitse edustajantoimen edellyttämää luottamusta ja kunnioitusta, eduskunta voi hankittuaan asiasta perustuslakivaliokunnan kannanoton julistaa hänen edustajantoimensa lakanneeksi päätöksellä, jota on kannattanut vähintään kaksi kolmasosaa annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_29">
+                        <num>29 §</num>
+                        <heading eId="chp_3__sec_29__heading">Kansanedustajan riippumattomuus</heading>
+                        <subsection eId="chp_3__sec_29__subsec_1">
+                            <content>
+                                <p>Kansanedustaja on velvollinen toimessaan noudattamaan oikeutta ja totuutta. Hän on siinä velvollinen noudattamaan perustuslakia, eivätkä häntä sido muut määräykset.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_30">
+                        <num>30 §</num>
+                        <heading eId="chp_3__sec_30__heading">Kansanedustajan koskemattomuus</heading>
+                        <subsection eId="chp_3__sec_30__subsec_1">
+                            <content>
+                                <p>Kansanedustajaa ei saa estää hoitamasta edustajantointaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_30__subsec_2">
+                            <content>
+                                <p>Kansanedustajaa ei saa asettaa syytteeseen eikä hänen vapauttaan riistää hänen valtiopäivillä lausumiensa mielipiteiden tai asian käsittelyssä noudattamansa menettelyn johdosta, ellei eduskunta ole siihen suostunut päätöksellä, jota vähintään viisi kuudesosaa annetuista äänistä on kannattanut.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_30__subsec_3">
+                            <content>
+                                <p>Kansanedustajan pidättämisestä ja vangitsemisesta on heti ilmoitettava eduskunnan puhemiehelle. Kansanedustajaa ei saa ilman eduskunnan suostumusta pidättää tai vangita ennen oikeudenkäynnin alkamista, ellei häntä painavista syistä epäillä syylliseksi rikokseen, josta säädetty lievin rangaistus on vähintään kuusi kuukautta vankeutta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_31">
+                        <num>31 §</num>
+                        <heading eId="chp_3__sec_31__heading">Kansanedustajan puhevapaus ja esiintyminen</heading>
+                        <subsection eId="chp_3__sec_31__subsec_1">
+                            <content>
+                                <p>Kansanedustajalla on eduskunnassa oikeus vapaasti puhua kaikista keskusteltavana olevista asioista sekä niiden käsittelystä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_31__subsec_2">
+                            <content>
+                                <p>Kansanedustajan tulee esiintyä vakaasti ja arvokkaasti sekä loukkaamatta toista henkilöä. Jos kansanedustaja rikkoo tätä vastaan, puhemies voi huomauttaa asiasta tai kieltää edustajaa jatkamasta puhetta. Eduskunta voi antaa toistuvasti järjestystä rikkoneelle kansanedustajalle varoituksen tai pidättää hänet enintään kahdeksi viikoksi eduskunnan istunnoista.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_32">
+                        <num>32 §</num>
+                        <heading eId="chp_3__sec_32__heading">Kansanedustajan esteellisyys</heading>
+                        <subsection eId="chp_3__sec_32__subsec_1">
+                            <content>
+                                <p>Kansanedustaja on esteellinen osallistumaan valmisteluun ja päätöksentekoon asiassa, joka koskee häntä henkilökohtaisesti. Hän saa kuitenkin osallistua asiasta täysistunnossa käytävään keskusteluun. Valiokunnassa kansanedustaja ei saa myöskään osallistua virkatointensa tarkastamista koskevan asian käsittelyyn.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_4">
+                    <num>4 luku</num>
+                    <heading eId="chp_4__heading">Eduskunnan toiminta</heading>
+                    <section eId="chp_4__sec_33">
+                        <num>33 §</num>
+                        <heading eId="chp_4__sec_33__heading">Valtiopäivät</heading>
+                        <subsection eId="chp_4__sec_33__subsec_1">
+                            <content>
+                                <p>Eduskunta kokoontuu valtiopäiville vuosittain eduskunnan päättämänä ajankohtana, minkä jälkeen tasavallan presidentti julistaa valtiopäivät avatuiksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_33__subsec_2">
+                            <content>
+                                <p>Valtiopäivät jatkuvat seuraavien valtiopäivien kokoontumiseen. Vaalikauden viimeiset valtiopäivät kuitenkin jatkuvat, kunnes eduskunta päättää lopettaa työskentelynsä. Presidentti julistaa tämän jälkeen eduskunnan työn päättyneeksi siltä vaalikaudelta. Eduskunnan puhemiehellä on kuitenkin oikeus tarvittaessa kutsua valtiopäivät uudelleen koolle ennen uusien vaalien toimittamista.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_34">
+                        <num>34 §</num>
+                        <heading eId="chp_4__sec_34__heading">Eduskunnan puhemies ja puhemiesneuvosto</heading>
+                        <subsection eId="chp_4__sec_34__subsec_1">
+                            <content>
+                                <p>Eduskunta valitsee keskuudestaan valtiopäiviksi kerrallaan puhemiehen ja kaksi varapuhemiestä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_34__subsec_2">
+                            <content>
+                                <p>Eduskunnan puhemiehen ja varapuhemiesten vaalit toimitetaan umpilipuin. Vaalissa valituksi tulee kansanedustaja, joka saa enemmän kuin puolet annetuista äänistä. Jos kukaan ei ole saanut kahdessa ensimmäisessä äänestyksessä tarvittavaa enemmistöä annetuista äänistä, valituksi tulee kolmannessa äänestyksessä eniten ääniä saanut edustaja.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_34__subsec_3">
+                            <content>
+                                <p>Puhemies ja varapuhemiehet sekä valiokuntien puheenjohtajat muodostavat puhemiesneuvoston. Puhemiesneuvosto antaa ohjeita eduskuntatyön järjestämiseksi ja päättää, sen mukaan kuin tässä perustuslaissa tai eduskunnan työjärjestyksessä erikseen säädetään, asioiden käsittelyssä valtiopäivillä noudatettavista menettelytavoista. Puhemiesneuvosto voi tehdä aloitteen eduskunnan virkamiehiä koskevan lain ja eduskunnan työjärjestyksen säätämisestä tai muuttamisesta sekä ehdotuksia muiksi eduskunnan toimintaa koskeviksi säännöksiksi.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_35">
+                        <num>35 §</num>
+                        <heading eId="chp_4__sec_35__heading">Eduskunnan valiokunnat</heading>
+                        <subsection eId="chp_4__sec_35__subsec_1v20070596" finlex:originalVersion="@20070596" finlex:originalVersionLabel="25.5.2007/596">
+                            <content>
+                                <p>Eduskunta asettaa vaalikaudekseen suuren valiokunnan sekä perustuslakivaliokunnan, ulkoasiainvaliokunnan, valtiovarainvaliokunnan, tarkastusvaliokunnan ja eduskunnan työjärjestyksessä säädetyt muut pysyvät valiokunnat. Eduskunta voi lisäksi asettaa tilapäisen valiokunnan valmistelemaan tai tutkimaan erityistä asiaa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_35__subsec_2">
+                            <content>
+                                <p>Suuressa valiokunnassa on kaksikymmentäviisi jäsentä. Perustuslakivaliokunnassa, ulkoasiainvaliokunnassa ja valtiovarainvaliokunnassa on vähintään seitsemäntoista jäsentä. Muissa pysyvissä valiokunnissa on vähintään yksitoista jäsentä. Valiokunnissa on lisäksi tarpeellinen määrä varajäseniä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_35__subsec_3">
+                            <content>
+                                <p>Valiokunta on päätösvaltainen, kun vähintään kaksi kolmasosaa jäsenistä on läsnä, jollei jotakin asiaa varten ole erikseen säädetty suurempaa jäsenmäärää.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_36">
+                        <num>36 §</num>
+                        <heading eId="chp_4__sec_36__heading">Eduskunnan valitsemat muut toimielimet ja edustajat</heading>
+                        <subsection eId="chp_4__sec_36__subsec_1">
+                            <content>
+                                <p>Eduskunta valitsee valtuutetut valvomaan kansaneläkelaitoksen hallintoa ja toimintaa sen mukaan kuin lailla tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_36__subsec_2">
+                            <content>
+                                <p>Eduskunta valitsee muita tarvittavia toimielimiä sen mukaan kuin tässä perustuslaissa, muussa laissa tai eduskunnan työjärjestyksessä säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_36__subsec_3">
+                            <content>
+                                <p>Eduskunnan edustajien valitsemisesta kansainväliseen sopimukseen perustuvaan tai muuhun kansainväliseen toimielimeen säädetään lailla tai eduskunnan työjärjestyksessä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_37">
+                        <num>37 §</num>
+                        <heading eId="chp_4__sec_37__heading">Eduskunnan toimielinten valinta</heading>
+                        <subsection eId="chp_4__sec_37__subsec_1">
+                            <content>
+                                <p>Valiokunnat ja muut eduskunnan toimielimet asetetaan vaalikauden ensimmäisillä valtiopäivillä koko vaalikaudeksi, jollei tässä perustuslaissa, eduskunnan työjärjestyksessä tai eduskunnan hyväksymässä toimielimen johtosäännössä toisin säädetä. Eduskunta voi kuitenkin vaalikauden aikana päättää puhemiesneuvoston ehdotuksesta asettaa toimielimen uudelleen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_37__subsec_2">
+                            <content>
+                                <p>Eduskunta toimittaa valiokuntien ja muiden toimielinten vaalit. Jollei eduskunta ole vaalista yksimielinen, vaali toimitetaan suhteellisen vaalitavan mukaan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_38">
+                        <num>38 §</num>
+                        <heading eId="chp_4__sec_38__heading">Eduskunnan oikeusasiamies</heading>
+                        <subsection eId="chp_4__sec_38__subsec_1v20070802" finlex:originalVersion="@20070802" finlex:originalVersionLabel="24.8.2007/802">
+                            <content>
+                                <p>Eduskunta valitsee neljän vuoden toimikaudeksi oikeusasiamiehen sekä kaksi apulaisoikeusasiamiestä, joiden tulee olla eteviä laintuntijoita. Apulaisoikeusasiamiehellä voi olla sijainen sen mukaan kuin lailla tarkemmin säädetään. Apulaisoikeusasiamiehestä ja apulaisoikeusasiamiehen sijaisesta on soveltuvin osin voimassa, mitä oikeusasiamiehestä säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_38__subsec_2">
+                            <content>
+                                <p>Eduskunta voi saatuaan asiasta perustuslakivaliokunnan kannanoton vapauttaa erityisen painavasta syystä oikeusasiamiehen tämän tehtävästä kesken toimikauden päätöksellä, jota vähintään kaksi kolmasosaa annetuista äänistä on kannattanut.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_39">
+                        <num>39 §</num>
+                        <heading eId="chp_4__sec_39__heading">Asian vireilletulo eduskunnassa</heading>
+                        <subsection eId="chp_4__sec_39__subsec_1v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Asia tulee eduskunnassa vireille valtioneuvoston antamalla hallituksen esityksellä tai kansanedustajan aloitteella taikka muulla tässä perustuslaissa tai eduskunnan työjärjestyksessä säädetyllä tavalla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_39__subsec_2">
+                            <intro eId="chp_4__sec_39__subsec_2__intro">
+                                <p>Kansanedustajalla on oikeus tehdä:</p>
+                            </intro>
+                            <paragraph eId="chp_4__sec_39__subsec_2__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>lakialoite, joka sisältää ehdotuksen lain säätämisestä;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_4__sec_39__subsec_2__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>talousarvioaloite, joka sisältää ehdotuksen talousarvioon tai lisätalousarvioon otettavasta määrärahasta tai muusta päätöksestä; sekä</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_4__sec_39__subsec_2__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>toimenpidealoite, joka sisältää ehdotuksen lainvalmisteluun tai muuhun toimenpiteeseen ryhtymisestä.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_40">
+                        <num>40 §</num>
+                        <heading eId="chp_4__sec_40__heading">Asian valmistelu</heading>
+                        <subsection eId="chp_4__sec_40__subsec_1">
+                            <content>
+                                <p>Hallituksen esitykset, kansanedustajien aloitteet, eduskunnalle annetut kertomukset sekä ne muut asiat, joista tässä perustuslaissa tai eduskunnan työjärjestyksessä niin säädetään, on käsiteltävä valmistelevasti valiokunnassa ennen niiden lopullista käsittelyä täysistunnossa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_41">
+                        <num>41 §</num>
+                        <heading eId="chp_4__sec_41__heading">Asian käsittely täysistunnossa</heading>
+                        <subsection eId="chp_4__sec_41__subsec_1">
+                            <content>
+                                <p>Lakiehdotus sekä ehdotus eduskunnan työjärjestykseksi otetaan täysistunnossa kahteen käsittelyyn. Lepäämään hyväksytty lakiehdotus tai vahvistamatta jäänyt laki käsitellään täysistunnossa kuitenkin yhdessä käsittelyssä. Muut asiat käsitellään täysistunnossa ainoassa käsittelyssä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_41__subsec_2">
+                            <content>
+                                <p>Päätökset täysistunnossa tehdään annettujen äänten enemmistöllä, jollei tässä perustuslaissa erikseen toisin säädetä. Äänten mennessä tasan ratkaisee arpa, paitsi milloin ehdotuksen hyväksymiseen vaaditaan määräenemmistö. Äänestysmenettelystä säädetään tarkemmin eduskunnan työjärjestyksessä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_42">
+                        <num>42 §</num>
+                        <heading eId="chp_4__sec_42__heading">Puhemiehen tehtävät täysistunnossa</heading>
+                        <subsection eId="chp_4__sec_42__subsec_1">
+                            <content>
+                                <p>Puhemies kutsuu koolle täysistunnot, esittelee niissä asiat ja johtaa keskusteluja sekä valvoo, että asioita täysistunnossa käsiteltäessä noudatetaan perustuslakia.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_42__subsec_2">
+                            <content>
+                                <p>Puhemies ei saa kieltäytyä ottamasta asiaa käsittelyyn eikä tehtyä ehdotusta äänestykseen, ellei hän katso sen olevan vastoin perustuslakia, muuta lakia tai eduskunnan jo tekemää päätöstä. Puhemiehen tulee tällöin ilmoittaa kieltäytymisen syyt. Jos eduskunta ei tyydy puhemiehen menettelyyn, asia lähetetään perustuslakivaliokuntaan, jonka tulee viipymättä ratkaista, onko puhemies menetellyt oikein.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_42__subsec_3">
+                            <content>
+                                <p>Puhemies ei osallistu täysistunnossa keskusteluun eikä äänestykseen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_43">
+                        <num>43 §</num>
+                        <heading eId="chp_4__sec_43__heading">Välikysymys</heading>
+                        <subsection eId="chp_4__sec_43__subsec_1">
+                            <content>
+                                <p>Vähintään kaksikymmentä kansanedustajaa voi tehdä valtioneuvostolle tai ministerille näiden toimialaan kuuluvasta asiasta välikysymyksen. Välikysymykseen tulee vastata eduskunnan täysistunnossa viidentoista päivän kuluessa siitä, kun kysymys on saatettu valtioneuvoston tietoon.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_43__subsec_2">
+                            <content>
+                                <p>Välikysymyksen käsittelyn päätteeksi toimitetaan äänestys valtioneuvoston tai ministerin nauttimasta luottamuksesta, jos keskustelun aikana on tehty ehdotus epäluottamuslauseen antamisesta valtioneuvostolle tai ministerille.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_44">
+                        <num>44 §</num>
+                        <heading eId="chp_4__sec_44__heading">Valtioneuvoston tiedonanto ja selonteko</heading>
+                        <subsection eId="chp_4__sec_44__subsec_1">
+                            <content>
+                                <p>Valtioneuvosto voi antaa eduskunnalle tiedonannon tai selonteon valtakunnan hallintoa tai kansainvälisiä suhteita koskevasta asiasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_44__subsec_2">
+                            <content>
+                                <p>Tiedonannon käsittelyn päätteeksi toimitetaan äänestys valtioneuvoston tai ministerin nauttimasta luottamuksesta, jos keskustelun aikana on tehty ehdotus epäluottamuslauseen antamisesta valtioneuvostolle tai ministerille. Selonteon käsittelyssä ei voida tehdä päätöstä valtioneuvoston tai sen jäsenen nauttimasta luottamuksesta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_45">
+                        <num>45 §</num>
+                        <heading eId="chp_4__sec_45__heading">Kysymykset, ilmoitukset ja keskustelut</heading>
+                        <subsection eId="chp_4__sec_45__subsec_1">
+                            <content>
+                                <p>Kansanedustajalla on oikeus tehdä ministerin vastattavaksi kysymyksiä tämän toimialaan kuuluvista asioista. Kysymysten tekemisestä ja niihin vastaamisesta säädetään eduskunnan työjärjestyksessä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_45__subsec_2">
+                            <content>
+                                <p>Pääministeri tai hänen määräämänsä ministeri voi antaa ajankohtaisesta asiasta eduskunnalle ilmoituksen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_45__subsec_3">
+                            <content>
+                                <p>Täysistunnossa voidaan järjestää keskustelu ajankohtaisesta asiasta sen mukaan kuin eduskunnan työjärjestyksessä tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_45__subsec_4">
+                            <content>
+                                <p>Eduskunta ei tee päätöstä tässä pykälässä tarkoitetuista asioista. Niiden käsittelyssä voidaan poiketa siitä, mitä puheenvuoroista 31 §:n 1 momentissa säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_46">
+                        <num>46 §</num>
+                        <heading eId="chp_4__sec_46__heading">Eduskunnalle annettavat kertomukset</heading>
+                        <subsection eId="chp_4__sec_46__subsec_1v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Valtioneuvoston tulee antaa vuosittain eduskunnalle kertomus hallituksen toiminnasta sekä niistä toimenpiteistä, joihin se on eduskunnan päätösten johdosta ryhtynyt, samoin kuin kertomus valtiontalouden hoidosta ja talousarvion noudattamisesta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_46__subsec_2">
+                            <content>
+                                <p>Eduskunnalle annetaan muita kertomuksia sen mukaan kuin tässä perustuslaissa, muussa laissa tai eduskunnan työjärjestyksessä säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_47">
+                        <num>47 §</num>
+                        <heading eId="chp_4__sec_47__heading">Eduskunnan tietojensaantioikeus</heading>
+                        <subsection eId="chp_4__sec_47__subsec_1">
+                            <content>
+                                <p>Eduskunnalla on oikeus saada valtioneuvostolta asioiden käsittelyssä tarvitsemansa tiedot. Asianomaisen ministerin tulee huolehtia siitä, että valiokunta tai muu eduskunnan toimielin saa viipymättä tarvitsemansa viranomaisen hallussa olevat asiakirjat ja muut tiedot.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_47__subsec_2">
+                            <content>
+                                <p>Valiokunnalla on oikeus saada valtioneuvostolta tai asianomaiselta ministeriöltä selvitys toimialaansa kuuluvasta asiasta. Valiokunta voi selvityksen johdosta antaa asiasta lausunnon valtioneuvostolle tai ministeriölle.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_47__subsec_3">
+                            <content>
+                                <p>Kansanedustajalla on oikeus saada viranomaiselta tämän hallussa olevia edustajantoimen hoitamiseksi tarpeellisia tietoja, jotka eivät ole salassa pidettäviä eivätkä koske valmisteilla olevaa valtion talousarvioesitystä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_47__subsec_4">
+                            <content>
+                                <p>Eduskunnan oikeudesta saada tietoja kansainvälisissä asioissa on lisäksi voimassa, mitä siitä muualla tässä perustuslaissa säädetään. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_48">
+                        <num>48 §</num>
+                        <heading eId="chp_4__sec_48__heading">Ministerin sekä oikeusasiamiehen ja oikeuskanslerin läsnäolo-oikeus</heading>
+                        <subsection eId="chp_4__sec_48__subsec_1">
+                            <content>
+                                <p>Ministerillä on oikeus olla läsnä ja osallistua keskusteluun täysistunnossa, vaikka hän ei olisikaan eduskunnan jäsen. Ministeri ei voi olla jäsenenä eduskunnan valiokunnassa. Hoitaessaan 59 §:n mukaisesti tasavallan presidentin tehtäviä ministeri ei voi osallistua eduskuntatyöhön.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_48__subsec_2">
+                            <content>
+                                <p>Eduskunnan oikeusasiamies ja valtioneuvoston oikeuskansleri voivat olla läsnä ja osallistua keskusteluun täysistunnossa käsiteltäessä heidän omia kertomuksiaan tai muutoin heidän omasta aloitteestaan vireille tullutta asiaa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_49v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                        <num>49 §</num>
+                        <heading eId="chp_4__sec_49v20111112__heading">Asioiden käsittelyn jatkuvuus</heading>
+                        <subsection eId="chp_4__sec_49v20111112__subsec_1v20111112">
+                            <content>
+                                <p>Valtiopäivillä kesken jääneiden asioiden käsittelyä jatketaan seuraavilla valtiopäivillä, jollei eduskuntavaaleja ole sillä välin toimitettu. Eduskunnassa vireillä olevan kansainvälisen asian käsittelyä voidaan tarvittaessa jatkaa myös eduskuntavaalien jälkeen pidettävillä valtiopäivillä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_50">
+                        <num>50 §</num>
+                        <heading eId="chp_4__sec_50__heading">Eduskunnan toiminnan julkisuus</heading>
+                        <subsection eId="chp_4__sec_50__subsec_1">
+                            <content>
+                                <p>Eduskunnan täysistunnot ovat julkisia, jollei eduskunta jonkin asian osalta erityisen painavasta syystä toisin päätä. Eduskunta julkaisee valtiopäiväasiakirjat sen mukaan kuin eduskunnan työjärjestyksessä tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_50__subsec_2">
+                            <content>
+                                <p>Valiokunnan kokoukset eivät ole julkisia. Valiokunta voi kuitenkin määrätä kokouksensa julkiseksi siltä osin kuin valiokunta hankkii tietoja asian käsittelyä varten. Valiokunnan pöytäkirjat ja niihin liittyvät muut asiakirjat ovat julkisia, jollei välttämättömien syiden vuoksi eduskunnan työjärjestyksessä toisin säädetä tai valiokunta jonkin asian osalta toisin päätä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_50__subsec_3">
+                            <content>
+                                <p>Valiokunnan jäsenten on noudatettava sitä vaiteliaisuutta, jota valiokunta katsoo välttämättömästä syystä asian erityisesti vaativan. Käsiteltäessä Suomen kansainvälisiä suhteita tai Euroopan unionin asioita valiokunnan jäsenten on kuitenkin noudatettava sitä vaiteliaisuutta, jota ulkoasiainvaliokunta tai suuri valiokunta valtioneuvostoa kuultuaan on katsonut asian laadun vaativan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_51">
+                        <num>51 §</num>
+                        <heading eId="chp_4__sec_51__heading">Eduskuntatyössä käytettävät kielet</heading>
+                        <subsection eId="chp_4__sec_51__subsec_1">
+                            <content>
+                                <p>Eduskuntatyössä käytetään suomen tai ruotsin kieltä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_51__subsec_2">
+                            <content>
+                                <p>Hallituksen ja muiden viranomaisten on toimitettava asian vireille panemiseksi eduskunnassa tarvittavat asiakirjat suomen ja ruotsin kielellä. Eduskunnan vastaukset ja kirjelmät, valiokuntien mietinnöt ja lausunnot sekä puhemiesneuvoston kirjalliset ehdotukset laaditaan niin ikään suomen ja ruotsin kielellä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_52">
+                        <num>52 §</num>
+                        <heading eId="chp_4__sec_52__heading">Eduskunnan työjärjestys sekä ohje- ja johtosäännöt</heading>
+                        <subsection eId="chp_4__sec_52__subsec_1">
+                            <content>
+                                <p>Eduskunnan työjärjestyksessä annetaan tarkempia säännöksiä valtiopäivillä noudatettavasta menettelystä sekä eduskunnan toimielimistä ja eduskuntatyöstä. Työjärjestys hyväksytään täysistunnossa lakiehdotuksen käsittelystä säädetyssä järjestyksessä ja julkaistaan Suomen säädöskokoelmassa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_52__subsec_2">
+                            <content>
+                                <p>Eduskunta voi antaa ohjesääntöjä eduskunnan sisäistä hallintoa, eduskunnan toimitettavia vaaleja ja muuta eduskuntatyön yksityiskohtaista järjestämistä varten. Lisäksi eduskunta voi hyväksyä valitsemilleen toimielimille johtosääntöjä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_53">
+                        <num>53 §</num>
+                        <heading eId="chp_4__sec_53__heading" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            Kansanäänestys ja kansalaisaloite 
+                            <ref href="#entryIntoForce_20111112">(4.11.2011/1112)</ref>
+                        </heading>
+                        <subsection eId="chp_4__sec_53__subsec_1">
+                            <content>
+                                <p>Neuvoa-antavan kansanäänestyksen järjestämisestä päätetään lailla, jossa on säädettävä äänestyksen ajankohdasta ja äänestäjille esitettävistä vaihtoehdoista.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_53__subsec_2">
+                            <content>
+                                <p>Kansanäänestyksissä noudatettavasta menettelystä säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_53__subsec_3v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Vähintään viidelläkymmenellätuhannella äänioikeutetulla Suomen kansalaisella on oikeus tehdä eduskunnalle aloite lain säätämiseksi sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_5">
+                    <num>5 luku</num>
+                    <heading eId="chp_5__heading">Tasavallan presidentti ja valtioneuvosto</heading>
+                    <section eId="chp_5__sec_54">
+                        <num>54 §</num>
+                        <heading eId="chp_5__sec_54__heading">Tasavallan presidentin valinta</heading>
+                        <subsection eId="chp_5__sec_54__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti valitaan välittömällä vaalilla syntyperäisistä Suomen kansalaisista kuuden vuoden toimikaudeksi. Sama henkilö voidaan valita presidentiksi enintään kahdeksi peräkkäiseksi toimikaudeksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_54__subsec_2">
+                            <content>
+                                <p>Presidentiksi valitaan ehdokas, joka saa vaalissa enemmän kuin puolet annetuista äänistä. Jos kukaan ehdokkaista ei ole saanut enemmistöä annetuista äänistä, toimitetaan uusi vaali kahden eniten ääniä saaneen ehdokkaan välillä. Presidentiksi valitaan tällöin uudessa vaalissa enemmän ääniä saanut ehdokas. Jos on asetettu vain yksi ehdokas, hän tulee valituksi presidentiksi ilman vaalia.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_54__subsec_3">
+                            <content>
+                                <p>Oikeus asettaa ehdokas presidentin vaaliin on rekisteröidyllä puolueella, jonka ehdokaslistalta on viimeksi toimitetuissa eduskuntavaaleissa valittu vähintään yksi kansanedustaja, sekä kahdellakymmenellätuhannella äänioikeutetulla. Vaalin ajankohdasta ja presidentin valitsemisessa noudatettavasta menettelystä säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_55">
+                        <num>55 §</num>
+                        <heading eId="chp_5__sec_55__heading">Presidentin toimikausi</heading>
+                        <subsection eId="chp_5__sec_55__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti ryhtyy toimeensa valitsemista seuraavan kuukauden ensimmäisenä päivänä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_55__subsec_2">
+                            <content>
+                                <p>Presidentin toimikausi päättyy seuraavassa vaalissa valitun presidentin ryhtyessä toimeensa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_55__subsec_3">
+                            <content>
+                                <p>Jos presidentti kuolee tai valtioneuvosto toteaa hänet pysyvästi estyneeksi hoitamaan presidentintointa, on niin pian kuin mahdollista valittava uusi presidentti.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_56">
+                        <num>56 §</num>
+                        <heading eId="chp_5__sec_56__heading">Presidentin juhlallinen vakuutus</heading>
+                        <subsection eId="chp_5__sec_56__subsec_1">
+                            <intro eId="chp_5__sec_56__subsec_1__intro">
+                                <p>Ryhtyessään toimeensa tasavallan presidentti antaa eduskunnan edessä seuraavan juhlallisen vakuutuksen:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_56__subsec_1__para_1">
+                                <content>
+                                    <p>"Minä – –, jonka Suomen kansa on valinnut Suomen tasavallan presidentiksi, vakuutan, että minä presidentintoimessani vilpittömästi ja uskollisesti noudatan tasavallan valtiosääntöä ja lakeja sekä kaikin voimin edistän Suomen kansan menestystä."</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_57">
+                        <num>57 §</num>
+                        <heading eId="chp_5__sec_57__heading">Presidentin tehtävät</heading>
+                        <subsection eId="chp_5__sec_57__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti hoitaa hänelle tässä perustuslaissa tai muussa laissa erikseen säädetyt tehtävät.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_58">
+                        <num>58 §</num>
+                        <heading eId="chp_5__sec_58__heading">Presidentin päätöksenteko</heading>
+                        <subsection eId="chp_5__sec_58__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti tekee päätöksensä valtioneuvostossa sen ratkaisuehdotuksesta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_58__subsec_2v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Jos presidentti ei päätä asiasta valtioneuvoston ratkaisuehdotuksen mukaisesti, asia palautuu valtioneuvoston valmisteltavaksi. Valtioneuvosto voi tällöin antaa eduskunnalle muusta kuin lain vahvistamista, virkaan nimittämistä tai tehtävään määräämistä koskevasta asiasta selonteon. Tämän jälkeen asiasta päätetään eduskunnan selonteon johdosta hyväksymän kannanoton mukaisesti, jos valtioneuvosto tätä ehdottaa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_58__subsec_3">
+                            <intro eId="chp_5__sec_58__subsec_3__intro">
+                                <p>Presidentti päättää 1 momentissa säädetystä poiketen ilman valtioneuvoston ratkaisuehdotusta:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_58__subsec_3__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>valtioneuvoston ja sen jäsenen nimittämisestä sekä eron myöntämisestä valtioneuvostolle tai sen jäsenelle;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_58__subsec_3__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>ennenaikaisten eduskuntavaalien määräämisestä;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_58__subsec_3__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>armahduksesta sekä sellaisista muista laissa erikseen säädetyistä asioista, jotka koskevat yksityistä henkilöä tai jotka sisältönsä vuoksi eivät edellytä valtioneuvoston yleisistunnon käsittelyä; sekä</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_58__subsec_3__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>Ahvenanmaan itsehallintolaissa tarkoitetuista muista kuin maakunnan taloutta koskevista asioista.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_58__subsec_4">
+                            <content>
+                                <p>Asianomainen ministeri esittelee asian presidentin päätettäväksi. Valtioneuvoston kokoonpanon muutoksen, joka koskee koko valtioneuvostoa, esittelee kuitenkin valtioneuvoston asianomainen esittelijä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_58__subsec_5">
+                            <content>
+                                <p>Presidentti päättää sotilaskäskyasioista ministerin myötävaikutuksella sen mukaan kuin lailla tarkemmin säädetään. Sotilaallisista nimitysasioista ja tasavallan presidentin kansliaa koskevista asioista presidentti päättää sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_58__subsec_6v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Suomen osallistumisesta sotilaalliseen kriisinhallintaan päätetään sen mukaan kuin lailla erikseen säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_59">
+                        <num>59 §</num>
+                        <heading eId="chp_5__sec_59__heading">Presidentin este</heading>
+                        <subsection eId="chp_5__sec_59__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentin ollessa estyneenä hänen tehtäviään hoitaa pääministeri tai tämänkin ollessa estyneenä pääministerin sijaisena toimiva ministeri.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_60">
+                        <num>60 §</num>
+                        <heading eId="chp_5__sec_60__heading">Valtioneuvosto</heading>
+                        <subsection eId="chp_5__sec_60__subsec_1">
+                            <content>
+                                <p>Valtioneuvostoon kuuluu pääministeri ja tarvittava määrä muita ministereitä. Ministerien on oltava rehellisiksi ja taitaviksi tunnettuja Suomen kansalaisia.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_60__subsec_2">
+                            <content>
+                                <p>Ministerit ovat virkatoimistaan vastuunalaisia eduskunnalle. Jokainen asian käsittelyyn valtioneuvostossa osallistunut ministeri vastaa päätöksestä, jollei hän ole ilmoittanut eriävää mielipidettään pöytäkirjaan merkittäväksi.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_61">
+                        <num>61 §</num>
+                        <heading eId="chp_5__sec_61__heading">Valtioneuvoston muodostaminen</heading>
+                        <subsection eId="chp_5__sec_61__subsec_1">
+                            <content>
+                                <p>Eduskunta valitsee pääministerin, jonka tasavallan presidentti nimittää tähän tehtävään. Muut ministerit presidentti nimittää pääministeriksi valitun tekemän ehdotuksen mukaisesti.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_61__subsec_2">
+                            <content>
+                                <p>Ennen pääministerin valintaa eduskuntaryhmät neuvottelevat hallitusohjelmasta ja valtioneuvoston kokoonpanosta. Näiden neuvottelujen tuloksen perusteella, kuultuaan eduskunnan puhemiestä presidentti antaa eduskunnalle tiedon pääministeriehdokkaasta. Ehdokas valitaan pääministeriksi, jos eduskunnassa toimitetussa avoimessa äänestyksessä enemmän kuin puolet annetuista äänistä on kannattanut hänen valitsemistaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_61__subsec_3">
+                            <content>
+                                <p>Jos ehdokas ei saa vaadittavaa enemmistöä, asetetaan samassa järjestyksessä uusi pääministeriehdokas. Jollei uusikaan ehdokas saa yli puolta annetuista äänistä, toimitetaan eduskunnassa avoimena äänestyksenä pääministerin vaali. Valituksi tulee tällöin eniten ääniä saanut henkilö.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_61__subsec_4">
+                            <content>
+                                <p>Valtioneuvostoa nimitettäessä ja sen kokoonpanoa merkittävästi muutettaessa eduskunnan on oltava koolla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_62">
+                        <num>62 §</num>
+                        <heading eId="chp_5__sec_62__heading">Tiedonanto hallitusohjelmasta</heading>
+                        <subsection eId="chp_5__sec_62__subsec_1">
+                            <content>
+                                <p>Valtioneuvoston on viivytyksettä annettava ohjelmansa tiedonantona eduskunnalle. Samoin on meneteltävä valtioneuvoston kokoonpanon merkittävästi muuttuessa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_63">
+                        <num>63 §</num>
+                        <heading eId="chp_5__sec_63__heading">Ministerin sidonnaisuudet</heading>
+                        <subsection eId="chp_5__sec_63__subsec_1">
+                            <content>
+                                <p>Valtioneuvoston jäsen ei saa ministeriaikanaan hoitaa julkista virkaa eikä sellaista muuta tehtävää, joka voi haitata ministerin tehtävien hoitamista tai vaarantaa luottamusta hänen toimintaansa valtioneuvoston jäsenenä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_63__subsec_2">
+                            <content>
+                                <p>Ministerin on viivytyksettä nimitetyksi tultuaan annettava eduskuntaa varten selvitys elinkeinotoiminnastaan, omistuksistaan yrityksissä ja muusta merkittävästä varallisuudestaan sekä sellaisista ministerin virkatoimiin kuulumattomista tehtävistään ja muista sidonnaisuuksistaan, joilla voi olla merkitystä arvioitaessa hänen toimintaansa valtioneuvoston jäsenenä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_64">
+                        <num>64 §</num>
+                        <heading eId="chp_5__sec_64__heading">Valtioneuvoston ja ministerin ero</heading>
+                        <subsection eId="chp_5__sec_64__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti myöntää pyynnöstä eron valtioneuvostolle tai ministerille. Ministerille presidentti voi myöntää eron myös pääministerin aloitteesta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_64__subsec_2">
+                            <content>
+                                <p>Presidentin on ilman esitettyä pyyntöäkin myönnettävä ero valtioneuvostolle tai ministerille, jos tämä ei enää nauti eduskunnan luottamusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_64__subsec_3">
+                            <content>
+                                <p>Jos ministeri valitaan tasavallan presidentiksi tai eduskunnan puhemieheksi, hänet katsotaan eronneeksi tehtävästään siitä päivästä, jolloin hänet on valittu.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_65">
+                        <num>65 §</num>
+                        <heading eId="chp_5__sec_65__heading">Valtioneuvoston tehtävät</heading>
+                        <subsection eId="chp_5__sec_65__subsec_1">
+                            <content>
+                                <p>Valtioneuvostolle kuuluvat tässä perustuslaissa erikseen säädetyt tehtävät sekä ne muut hallitus- ja hallintoasiat, jotka on säädetty valtioneuvoston tai ministeriön päätettäväksi tai joita ei ole osoitettu tasavallan presidentin taikka muun viranomaisen toimivaltaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_65__subsec_2">
+                            <content>
+                                <p>Valtioneuvosto panee täytäntöön presidentin päätökset.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_66">
+                        <num>66 §</num>
+                        <heading eId="chp_5__sec_66__heading">Pääministerin tehtävät</heading>
+                        <subsection eId="chp_5__sec_66__subsec_1">
+                            <content>
+                                <p>Pääministeri johtaa valtioneuvoston toimintaa ja huolehtii valtioneuvostolle kuuluvien asioiden valmistelun ja käsittelyn yhteensovittamisesta. Pääministeri johtaa asioiden käsittelyä valtioneuvoston yleisistunnossa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_66__subsec_2v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Pääministeri edustaa Suomea Eurooppa-neuvostossa. Pääministeri edustaa Suomea myös muussa valtion ylimmän johdon osallistumista vaativassa Euroopan unionin toiminnassa, jollei valtioneuvosto poikkeuksellisesti toisin päätä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_66__subsec_3">
+                            <content>
+                                <p>Pääministerin ollessa estyneenä hänen tehtäviään hoitaa pääministerin sijaiseksi määrätty ministeri ja tämänkin ollessa estynyt virkavuosiltaan vanhin ministeri.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_67">
+                        <num>67 §</num>
+                        <heading eId="chp_5__sec_67__heading">Valtioneuvoston päätöksenteko</heading>
+                        <subsection eId="chp_5__sec_67__subsec_1">
+                            <content>
+                                <p>Valtioneuvostolle kuuluvat asiat ratkaistaan valtioneuvoston yleisistunnossa tai asianomaisessa ministeriössä. Yleisistunnossa ratkaistaan laajakantoiset ja periaatteellisesti tärkeät asiat sekä ne muut asiat, joiden merkitys sitä vaatii. Valtioneuvoston ratkaisuvallan järjestämisen perusteista säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_67__subsec_2">
+                            <content>
+                                <p>Valtioneuvostossa käsiteltävät asiat on valmisteltava asianomaisessa ministeriössä. Valtioneuvostossa voi olla ministerivaliokuntia asioiden valmistelua varten.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_67__subsec_3">
+                            <content>
+                                <p>Valtioneuvoston yleisistunto on päätösvaltainen viisijäsenisenä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_68">
+                        <num>68 §</num>
+                        <heading eId="chp_5__sec_68__heading">Ministeriöt</heading>
+                        <subsection eId="chp_5__sec_68__subsec_1">
+                            <content>
+                                <p>Valtioneuvostossa on tarvittava määrä ministeriöitä. Kukin ministeriö vastaa toimialallaan valtioneuvostolle kuuluvien asioiden valmistelusta ja hallinnon asianmukaisesta toiminnasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_68__subsec_2">
+                            <content>
+                                <p>Ministeriön päällikkönä on ministeri.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_68__subsec_3">
+                            <content>
+                                <p>Ministeriöiden enimmäismäärästä ja niiden muodostamisen yleisistä perusteista säädetään lailla. Ministeriöiden toimialasta ja asioiden jaosta niiden kesken sekä valtioneuvoston muusta järjestysmuodosta säädetään lailla tai valtioneuvoston antamalla asetuksella.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_69">
+                        <num>69 §</num>
+                        <heading eId="chp_5__sec_69__heading">Valtioneuvoston oikeuskansleri</heading>
+                        <subsection eId="chp_5__sec_69__subsec_1">
+                            <content>
+                                <p>Valtioneuvoston yhteydessä on oikeuskansleri ja apulaisoikeuskansleri, jotka tasavallan presidentti nimittää ja joiden tulee olla eteviä laintuntijoita. Presidentti määrää lisäksi apulaisoikeuskanslerille enintään viiden vuoden määräajaksi sijaisen, joka apulaisoikeuskanslerin ollessa estyneenä hoitaa tämän tehtäviä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_69__subsec_2">
+                            <content>
+                                <p>Apulaisoikeuskanslerista ja tämän sijaisesta on soveltuvin osin voimassa, mitä oikeuskanslerista säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_6">
+                    <num>6 luku</num>
+                    <heading eId="chp_6__heading">Lainsäädäntö</heading>
+                    <section eId="chp_6__sec_70">
+                        <num>70 §</num>
+                        <heading eId="chp_6__sec_70__heading">Lainsäädäntöaloite</heading>
+                        <subsection eId="chp_6__sec_70__subsec_1">
+                            <content>
+                                <p>Lain säätäminen tulee eduskunnassa vireille hallituksen esityksellä taikka kansanedustajan lakialoitteella, joka voidaan tehdä eduskunnan ollessa koolla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_71">
+                        <num>71 §</num>
+                        <heading eId="chp_6__sec_71__heading">Hallituksen esityksen täydentäminen ja peruuttaminen</heading>
+                        <subsection eId="chp_6__sec_71__subsec_1">
+                            <content>
+                                <p>Hallituksen esitystä voidaan täydentää antamalla uusi täydentävä esitys, tai se voidaan peruuttaa. Täydentävää esitystä ei voida antaa sen jälkeen, kun asiaa valmistellut valiokunta on antanut mietintönsä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_72">
+                        <num>72 §</num>
+                        <heading eId="chp_6__sec_72__heading">Lakiehdotuksen käsittely eduskunnassa</heading>
+                        <subsection eId="chp_6__sec_72__subsec_1">
+                            <content>
+                                <p>Lakiehdotus otetaan asiaa valmistelleen valiokunnan annettua siitä mietintönsä eduskunnan täysistunnossa kahteen käsittelyyn.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_72__subsec_2">
+                            <content>
+                                <p>Lakiehdotuksen ensimmäisessä käsittelyssä esitellään valiokunnan mietintö ja käydään siitä keskustelu sekä päätetään lakiehdotuksen sisällöstä. Toisessa käsittelyssä, joka pidetään aikaisintaan kolmantena päivänä ensimmäisen käsittelyn päätyttyä, päätetään lakiehdotuksen hyväksymisestä tai hylkäämisestä. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_72__subsec_3">
+                            <content>
+                                <p>Lakiehdotus voidaan ensimmäisen käsittelyn aikana lähettää suuren valiokunnan käsiteltäväksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_72__subsec_4">
+                            <content>
+                                <p>Lakiehdotuksen käsittelystä säädetään tarkemmin eduskunnan työjärjestyksessä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_73">
+                        <num>73 §</num>
+                        <heading eId="chp_6__sec_73__heading">Perustuslain säätämisjärjestys</heading>
+                        <subsection eId="chp_6__sec_73__subsec_1">
+                            <content>
+                                <p>Ehdotus perustuslain säätämisestä, muuttamisesta tai kumoamisesta taikka perustuslakiin tehtävästä rajatusta poikkeuksesta on toisessa käsittelyssä äänten enemmistöllä hyväksyttävä lepäämään ensimmäisiin eduskuntavaalien jälkeisiin valtiopäiviin. Ehdotus on tuolloin valiokunnan annettua siitä mietintönsä hyväksyttävä asiasisällöltään muuttamattomana täysistunnossa yhden käsittelyn asiana päätöksellä, jota on kannattanut vähintään kaksi kolmasosaa annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_73__subsec_2">
+                            <content>
+                                <p>Ehdotus voidaan kuitenkin julistaa kiireelliseksi päätöksellä, jota on kannattanut vähintään viisi kuudesosaa annetuista äänistä. Ehdotusta ei tällöin jätetä lepäämään, ja se voidaan hyväksyä vähintään kahden kolmasosan enemmistöllä annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_74">
+                        <num>74 §</num>
+                        <heading eId="chp_6__sec_74__heading">Perustuslainmukaisuuden valvonta</heading>
+                        <subsection eId="chp_6__sec_74__subsec_1">
+                            <content>
+                                <p>Eduskunnan perustuslakivaliokunnan tehtävänä on antaa lausuntonsa sen käsittelyyn tulevien lakiehdotusten ja muiden asioiden perustuslainmukaisuudesta sekä suhteesta kansainvälisiin ihmisoikeussopimuksiin.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_75">
+                        <num>75 §</num>
+                        <heading eId="chp_6__sec_75__heading">Ahvenanmaan erityislait</heading>
+                        <subsection eId="chp_6__sec_75__subsec_1">
+                            <content>
+                                <p>Ahvenanmaan itsehallintolain ja Ahvenanmaan maanhankintalain säätämisjärjestyksestä on voimassa, mitä siitä mainituissa laeissa erikseen säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_75__subsec_2">
+                            <content>
+                                <p>Ahvenanmaan maakuntapäivien oikeudesta tehdä aloitteita sekä Ahvenanmaan maakuntalakien säätämisestä on voimassa, mitä niistä itsehallintolaissa säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_76">
+                        <num>76 §</num>
+                        <heading eId="chp_6__sec_76__heading">Kirkkolaki</heading>
+                        <subsection eId="chp_6__sec_76__subsec_1">
+                            <content>
+                                <p>Kirkkolaissa säädetään evankelis-luterilaisen kirkon järjestysmuodosta ja hallinnosta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_76__subsec_2">
+                            <content>
+                                <p>Kirkkolain säätämisjärjestyksestä ja kirkkolakia koskevasta aloiteoikeudesta on voimassa, mitä niistä mainitussa laissa erikseen säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_77">
+                        <num>77 §</num>
+                        <heading eId="chp_6__sec_77__heading">Lain vahvistaminen</heading>
+                        <subsection eId="chp_6__sec_77__subsec_1">
+                            <content>
+                                <p>Eduskunnan hyväksymä laki on esiteltävä tasavallan presidentin vahvistettavaksi. Presidentin on päätettävä lain vahvistamisesta kolmen kuukauden kuluessa siitä, kun laki on toimitettu vahvistettavaksi. Presidentti voi hankkia laista lausunnon korkeimmalta oikeudelta tai korkeimmalta hallinto-oikeudelta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_77__subsec_2">
+                            <content>
+                                <p>Jollei presidentti vahvista lakia, se palautuu eduskunnan käsiteltäväksi. Jos eduskunta hyväksyy lain uudelleen asiasisällöltään muuttamattomana, se tulee voimaan ilman vahvistusta. Lain katsotaan rauenneen, jos eduskunta ei ole sitä uudestaan hyväksynyt.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_78">
+                        <num>78 §</num>
+                        <heading eId="chp_6__sec_78__heading">Vahvistamatta jääneen lain käsittely</heading>
+                        <subsection eId="chp_6__sec_78__subsec_1">
+                            <content>
+                                <p>Laki otetaan viipymättä uudelleen käsiteltäväksi eduskunnassa, jos tasavallan presidentti ei ole säädetyn määräajan kuluessa vahvistanut sitä. Laki on valiokunnan annettua siitä mietintönsä hyväksyttävä asiasisällöltään muuttamattomana tai hylättävä eduskunnan täysistunnossa yhden käsittelyn asiana äänten enemmistöllä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_79">
+                        <num>79 §</num>
+                        <heading eId="chp_6__sec_79__heading">Lain julkaiseminen ja voimaantulo</heading>
+                        <subsection eId="chp_6__sec_79__subsec_1">
+                            <content>
+                                <p>Jos laki on säädetty perustuslain säätämisjärjestyksessä, tämän tulee ilmetä laista.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_79__subsec_2">
+                            <content>
+                                <p>Laki, joka on vahvistettu tai tulee voimaan ilman vahvistusta, on tasavallan presidentin allekirjoitettava ja asianomaisen ministerin varmennettava. Valtioneuvoston on tämän jälkeen viipymättä julkaistava laki Suomen säädöskokoelmassa. </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_79__subsec_3">
+                            <content>
+                                <p>Laista tulee käydä ilmi, milloin se tulee voimaan. Erityisestä syystä laissa voidaan säätää, että sen voimaantuloajankohdasta säädetään asetuksella. Jollei lakia ole julkaistu viimeistään säädettynä voimaantuloajankohtana, se tulee voimaan julkaisemispäivänä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_79__subsec_4">
+                            <content>
+                                <p>Lait säädetään ja julkaistaan suomen ja ruotsin kielellä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_80">
+                        <num>80 §</num>
+                        <heading eId="chp_6__sec_80__heading">Asetuksen antaminen ja lainsäädäntövallan siirtäminen</heading>
+                        <subsection eId="chp_6__sec_80__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti, valtioneuvosto ja ministeriö voivat antaa asetuksia tässä perustuslaissa tai muussa laissa säädetyn valtuuden nojalla. Lailla on kuitenkin säädettävä yksilön oikeuksien ja velvollisuuksien perusteista sekä asioista, jotka perustuslain mukaan muuten kuuluvat lain alaan. Jos asetuksen antajasta ei ole erikseen säädetty, asetuksen antaa valtioneuvosto.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_80__subsec_2">
+                            <content>
+                                <p>Myös muu viranomainen voidaan lailla valtuuttaa antamaan oikeussääntöjä määrätyistä asioista, jos siihen on sääntelyn kohteeseen liittyviä erityisiä syitä eikä sääntelyn asiallinen merkitys edellytä, että asiasta säädetään lailla tai asetuksella. Tällaisen valtuutuksen tulee olla soveltamisalaltaan täsmällisesti rajattu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_80__subsec_3">
+                            <content>
+                                <p>Yleiset säännökset asetusten ja muiden oikeussääntöjen julkaisemisesta ja voimaantulosta annetaan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_7">
+                    <num>7 luku</num>
+                    <heading eId="chp_7__heading">Valtiontalous</heading>
+                    <section eId="chp_7__sec_81">
+                        <num>81 §</num>
+                        <heading eId="chp_7__sec_81__heading">Valtion verot ja maksut</heading>
+                        <subsection eId="chp_7__sec_81__subsec_1">
+                            <content>
+                                <p>Valtion verosta säädetään lailla, joka sisältää säännökset verovelvollisuuden ja veron suuruuden perusteista sekä verovelvollisen oikeusturvasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_81__subsec_2">
+                            <content>
+                                <p>Valtion viranomaisten virkatoimien, palvelujen ja muun toiminnan maksullisuuden sekä maksujen suuruuden yleisistä perusteista säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_82">
+                        <num>82 §</num>
+                        <heading eId="chp_7__sec_82__heading">Valtion lainanotto ja valtion antamat vakuudet</heading>
+                        <subsection eId="chp_7__sec_82__subsec_1">
+                            <content>
+                                <p>Valtion lainanoton tulee perustua eduskunnan suostumukseen, josta ilmenee uuden lainanoton tai valtionvelan enimmäismäärä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_82__subsec_2">
+                            <content>
+                                <p>Valtiontakaus ja valtiontakuu voidaan antaa eduskunnan suostumuksen nojalla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_83">
+                        <num>83 §</num>
+                        <heading eId="chp_7__sec_83__heading">Valtion talousarvio</heading>
+                        <subsection eId="chp_7__sec_83__subsec_1">
+                            <content>
+                                <p>Eduskunta päättää varainhoitovuodeksi kerrallaan valtion talousarvion, joka julkaistaan Suomen säädöskokoelmassa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_83__subsec_2">
+                            <content>
+                                <p>Hallituksen esitys valtion talousarvioksi ja siihen liittyvät muut hallituksen esitykset annetaan hyvissä ajoin ennen varainhoitovuoden alkua eduskunnan käsiteltäväksi. Talousarvioesityksen täydentämisestä ja peruuttamisesta on voimassa, mitä 71 §:ssä säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_83__subsec_3">
+                            <content>
+                                <p>Kansanedustaja voi talousarvioesityksen johdosta tehdä ehdotuksen valtion talousarvioon otettavaksi määrärahaksi tai muuksi päätökseksi talousarvioaloitteella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_83__subsec_4">
+                            <content>
+                                <p>Valtion talousarvio hyväksytään eduskunnan valtiovarainvaliokunnan annettua siitä mietintönsä täysistunnossa ainoassa käsittelyssä. Eduskunnan työjärjestyksessä säädetään tarkemmin talousarvioesityksen käsittelystä eduskunnassa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_83__subsec_5">
+                            <content>
+                                <p>Jos valtion talousarvion julkaiseminen viivästyy yli varainhoitovuoden vaihteen, hallituksen talousarvioesitystä noudatetaan väliaikaisesti talousarviona eduskunnan päättämällä tavalla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_84">
+                        <num>84 §</num>
+                        <heading eId="chp_7__sec_84__heading">Talousarvion sisältö</heading>
+                        <subsection eId="chp_7__sec_84__subsec_1">
+                            <content>
+                                <p>Valtion talousarvioon otetaan arviot vuotuisista tuloista ja määrärahat vuotuisiin menoihin sekä määrärahojen käyttötarkoitukset ja muut talousarvion perustelut. Lailla voidaan säätää, että talousarvioon voidaan ottaa joistakin toisiinsa välittömästi liittyvistä tuloista ja menoista niiden erotusta vastaavat tuloarviot tai määrärahat.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_84__subsec_2">
+                            <content>
+                                <p>Talousarvioon otettavien tuloarvioiden on katettava siihen otettavat määrärahat. Määrärahoja katettaessa voidaan ottaa huomioon valtion tilinpäätöksen mukainen ylijäämä tai alijäämä sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_84__subsec_3">
+                            <content>
+                                <p>Toisiinsa liittyviä tuloja ja menoja vastaavat tuloarviot ja määrärahat voidaan ottaa talousarvioon usealta varainhoitovuodelta sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_84__subsec_4">
+                            <content>
+                                <p>Valtion liikelaitosten toiminnan ja talouden yleisistä perusteista säädetään lailla. Liikelaitoksia koskevia tuloarvioita ja määrärahoja otetaan talousarvioon vain siltä osin kuin lailla säädetään. Eduskunta hyväksyy talousarvion käsittelyn yhteydessä liikelaitosten keskeiset palvelutavoitteet ja muut toimintatavoitteet.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_85">
+                        <num>85 §</num>
+                        <heading eId="chp_7__sec_85__heading">Talousarvion määrärahat</heading>
+                        <subsection eId="chp_7__sec_85__subsec_1">
+                            <content>
+                                <p>Määrärahat otetaan valtion talousarvioon kiinteinä määrärahoina, arviomäärärahoina tai siirtomäärärahoina. Arviomäärärahaa saa ylittää ja siirtomäärärahaa siirtää käytettäväksi varainhoitovuoden jälkeen sen mukaan kuin lailla säädetään. Kiinteää määrärahaa ja siirtomäärärahaa ei saa ylittää eikä kiinteää määrärahaa siirtää, ellei sitä ole lailla sallittu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_85__subsec_2">
+                            <content>
+                                <p>Määrärahaa ei saa siirtää talousarvion kohdasta toiseen, ellei sitä ole talousarviossa sallittu. Lailla voidaan kuitenkin sallia määrärahan siirtäminen sellaiseen kohtaan, johon sen käyttötarkoitus läheisesti liittyy.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_85__subsec_3">
+                            <content>
+                                <p>Talousarviossa voidaan antaa määrältään ja käyttötarkoitukseltaan rajoitettu valtuus sitoutua varainhoitovuonna menoihin, joita varten tarvittavat määrärahat otetaan seuraavien varainhoitovuosien talousarvioihin.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_86">
+                        <num>86 §</num>
+                        <heading eId="chp_7__sec_86__heading">Lisätalousarvio</heading>
+                        <subsection eId="chp_7__sec_86__subsec_1">
+                            <content>
+                                <p>Eduskunnalle annetaan hallituksen esitys lisätalousarvioksi, jos talousarvion muuttamiseen on perusteltua tarvetta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_86__subsec_2">
+                            <content>
+                                <p>Kansanedustaja voi tehdä talousarvioaloitteen lisätalousarvioesitykseen välittömästi liittyväksi talousarvion muutokseksi.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_87">
+                        <num>87 §</num>
+                        <heading eId="chp_7__sec_87__heading">Talousarvion ulkopuoliset rahastot</heading>
+                        <subsection eId="chp_7__sec_87__subsec_1">
+                            <content>
+                                <p>Lailla voidaan säätää valtion rahaston jättämisestä talousarvion ulkopuolelle, jos valtion pysyvän tehtävän hoitaminen sitä välttämättä edellyttää. Talousarvion ulkopuolisen rahaston perustamista taikka tällaisen rahaston tai sen käyttötarkoituksen olennaista laajentamista tarkoittavan lakiehdotuksen hyväksymiseen vaaditaan eduskunnassa vähintään kahden kolmasosan enemmistö annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_88">
+                        <num>88 §</num>
+                        <heading eId="chp_7__sec_88__heading">Yksityisen laillinen saatava valtiolta</heading>
+                        <subsection eId="chp_7__sec_88__subsec_1">
+                            <content>
+                                <p>Jokaisella on oikeus talousarviosta riippumatta saada valtiolta se, mitä hänelle laillisesti kuuluu.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_89">
+                        <num>89 §</num>
+                        <heading eId="chp_7__sec_89__heading">Valtion palvelussuhteen ehtojen hyväksyminen</heading>
+                        <subsection eId="chp_7__sec_89__subsec_1">
+                            <content>
+                                <p>Eduskunnan asianomainen valiokunta hyväksyy eduskunnan puolesta valtion henkilöstön palvelussuhteen ehtoja koskevan sopimuksen siltä osin kuin eduskunnan suostumus on tarpeen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_90">
+                        <num>90 §</num>
+                        <heading eId="chp_7__sec_90__heading">Valtiontalouden valvonta ja tarkastus</heading>
+                        <subsection eId="chp_7__sec_90__subsec_1v20070596" finlex:originalVersion="@20070596" finlex:originalVersionLabel="25.5.2007/596">
+                            <content>
+                                <p>Eduskunta valvoo valtion taloudenhoitoa ja valtion talousarvion noudattamista. Tätä varten eduskunnassa on tarkastusvaliokunta, jonka tulee saattaa eduskunnan tietoon merkittävät valvontahavaintonsa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_90__subsec_2">
+                            <content>
+                                <p>Valtion taloudenhoidon ja valtion talousarvion noudattamisen tarkastamista varten eduskunnan yhteydessä on riippumaton valtiontalouden tarkastusvirasto. Tarkastusviraston asemasta ja tehtävistä säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_90__subsec_3v20070596" finlex:originalVersion="@20070596" finlex:originalVersionLabel="25.5.2007/596">
+                            <content>
+                                <p>Tarkastusvaliokunnalla ja valtiontalouden tarkastusvirastolla on oikeus saada viranomaisilta ja muilta valvontansa kohteina olevilta tehtävänsä hoitamiseksi tarvitsemansa tiedot.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_91">
+                        <num>91 §</num>
+                        <heading eId="chp_7__sec_91__heading">Suomen Pankki</heading>
+                        <subsection eId="chp_7__sec_91__subsec_1">
+                            <content>
+                                <p>Suomen Pankki toimii eduskunnan takuulla ja hoidossa sen mukaan kuin lailla säädetään. Eduskunta valitsee pankkivaltuutetut valvomaan Suomen Pankin toimintaa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_91__subsec_2">
+                            <content>
+                                <p>Eduskunnan asianomaisella valiokunnalla ja pankkivaltuutetuilla on oikeus saada Suomen Pankin valvontaa varten tarvitsemansa tiedot.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_7__sec_92">
+                        <num>92 §</num>
+                        <heading eId="chp_7__sec_92__heading">Valtion omistukset</heading>
+                        <subsection eId="chp_7__sec_92__subsec_1">
+                            <content>
+                                <p>Lailla säädetään toimivallasta ja menettelystä käytettäessä valtion osakasvaltaa yhtiöissä, joissa valtiolla on määräysvalta. Niin ikään lailla säädetään, milloin määräysvallan hankkimiseen valtiolle yhtiössä tai määräysvallasta luopumiseen vaaditaan eduskunnan suostumus.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_7__sec_92__subsec_2">
+                            <content>
+                                <p>Valtion kiinteää omaisuutta voidaan luovuttaa vain eduskunnan suostumuksella tai sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_8">
+                    <num>8 luku</num>
+                    <heading eId="chp_8__heading">Kansainväliset suhteet</heading>
+                    <section eId="chp_8__sec_93">
+                        <num>93 §</num>
+                        <heading eId="chp_8__sec_93__heading">Toimivalta kansainvälisissä asioissa</heading>
+                        <subsection eId="chp_8__sec_93__subsec_1">
+                            <content>
+                                <p>Suomen ulkopolitiikkaa johtaa tasavallan presidentti yhteistoiminnassa valtioneuvoston kanssa. Eduskunta hyväksyy kuitenkin kansainväliset velvoitteet ja niiden irtisanomisen sekä päättää kansainvälisten velvoitteiden voimaansaattamisesta siltä osin kuin tässä perustuslaissa säädetään. Sodasta ja rauhasta presidentti päättää eduskunnan suostumuksella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_93__subsec_2">
+                            <content>
+                                <p>Valtioneuvosto vastaa Euroopan unionissa tehtävien päätösten kansallisesta valmistelusta ja päättää niihin liittyvistä Suomen toimenpiteistä, jollei päätös vaadi eduskunnan hyväksymistä. Eduskunta osallistuu Euroopan unionissa tehtävien päätösten kansalliseen valmisteluun sen mukaan kuin tässä perustuslaissa säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_93__subsec_3">
+                            <content>
+                                <p>Ulkopoliittisesti merkittävien kannanottojen ilmoittamisesta muille valtioille ja kansainvälisille järjestöille vastaa ministeri, jonka toimialaan kansainväliset suhteet kuuluvat.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_8__sec_94">
+                        <num>94 §</num>
+                        <heading eId="chp_8__sec_94__heading">Kansainvälisten velvoitteiden ja niiden irtisanomisen hyväksyminen</heading>
+                        <subsection eId="chp_8__sec_94__subsec_1">
+                            <content>
+                                <p>Eduskunta hyväksyy sellaiset valtiosopimukset ja muut kansainväliset velvoitteet, jotka sisältävät lainsäädännön alaan kuuluvia määräyksiä tai ovat muutoin merkitykseltään huomattavia taikka vaativat perustuslain mukaan muusta syystä eduskunnan hyväksymisen. Eduskunnan hyväksyminen vaaditaan myös tällaisen velvoitteen irtisanomiseen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_94__subsec_2v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Kansainvälisen velvoitteen tai sen irtisanomisen hyväksymisestä päätetään äänten enemmistöllä. Jos ehdotus velvoitteen hyväksymisestä koskee perustuslakia tai valtakunnan alueen muuttamista taikka Suomen täysivaltaisuuden kannalta merkittävää toimivallan siirtoa Euroopan unionille, kansainväliselle järjestölle tai kansainväliselle toimielimelle, se on kuitenkin hyväksyttävä päätöksellä, jota on kannattanut vähintään kaksi kolmasosaa annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_94__subsec_3">
+                            <content>
+                                <p>Kansainvälinen velvoite ei saa vaarantaa valtiosäännön kansanvaltaisia perusteita.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_8__sec_95">
+                        <num>95 §</num>
+                        <heading eId="chp_8__sec_95__heading">Kansainvälisten velvoitteiden voimaansaattaminen</heading>
+                        <subsection eId="chp_8__sec_95__subsec_1v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Valtiosopimuksen ja muun kansainvälisen velvoitteen lainsäädännön alaan kuuluvat määräykset saatetaan voimaan lailla. Muilta osin kansainväliset velvoitteet saatetaan voimaan asetuksella.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_95__subsec_2v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Lakiehdotus kansainvälisen velvoitteen voimaansaattamisesta käsitellään tavallisen lain säätämisjärjestyksessä. Jos ehdotus kuitenkin koskee perustuslakia tai valtakunnan alueen muuttamista taikka Suomen täysivaltaisuuden kannalta merkittävää toimivallan siirtoa Euroopan unionille, kansainväliselle järjestölle tai kansainväliselle toimielimelle, eduskunnan on se hyväksyttävä sitä lepäämään jättämättä päätöksellä, jota on kannattanut vähintään kaksi kolmasosaa annetuista äänistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_95__subsec_3">
+                            <content>
+                                <p>Laissa kansainvälisen velvoitteen voimaansaattamisesta voidaan säätää, että sen voimaantulosta säädetään asetuksella. Yleiset säännökset valtiosopimusten ja muiden kansainvälisten velvoitteiden julkaisemisesta annetaan lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_8__sec_96">
+                        <num>96 §</num>
+                        <heading eId="chp_8__sec_96__heading">Eduskunnan osallistuminen Euroopan unionin asioiden kansalliseen valmisteluun</heading>
+                        <subsection eId="chp_8__sec_96__subsec_1">
+                            <content>
+                                <p>Eduskunta käsittelee ehdotukset sellaisiksi säädöksiksi, sopimuksiksi tai muiksi toimiksi, joista päätetään Euroopan unionissa ja jotka muutoin perustuslain mukaan kuuluisivat eduskunnan toimivaltaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_96__subsec_2">
+                            <content>
+                                <p>Valtioneuvoston on toimitettava kirjelmällään 1 momentissa tarkoitettu ehdotus eduskunnalle viipymättä siitä tiedon saatuaan eduskunnan kannan määrittelyä varten. Ehdotus käsitellään suuressa valiokunnassa ja yleensä yhdessä tai useammassa sille lausuntonsa antavassa muussa valiokunnassa. Ulko- ja turvallisuuspolitiikkaa koskeva ehdotus käsitellään kuitenkin ulkoasiainvaliokunnassa. Suuri valiokunta tai ulkoasiainvaliokunta voi tarvittaessa antaa ehdotuksesta lausunnon valtioneuvostolle. Puhemiesneuvosto voi päättää tällaisen asian ottamisesta keskusteltavaksi myös täysistunnossa, jolloin eduskunta ei kuitenkaan tee päätöstä asiasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_96__subsec_3">
+                            <content>
+                                <p>Valtioneuvoston on annettava asianomaisille valiokunnille tiedot asian käsittelystä Euroopan unionissa. Suurelle valiokunnalle tai ulkoasiainvaliokunnalle on ilmoitettava myös valtioneuvoston kanta asiassa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_8__sec_97">
+                        <num>97 §</num>
+                        <heading eId="chp_8__sec_97__heading">Eduskunnan tietojensaantioikeus kansainvälisissä asioissa</heading>
+                        <subsection eId="chp_8__sec_97__subsec_1">
+                            <content>
+                                <p>Eduskunnan ulkoasiainvaliokunnan tulee pyynnöstään ja muutoinkin tarpeen mukaan saada valtioneuvostolta selvitys ulko- ja turvallisuuspolitiikkaa koskevista asioista. Eduskunnan suuren valiokunnan tulee vastaavasti saada selvitys muiden asioiden valmistelusta Euroopan unionissa. Puhemiesneuvosto voi päättää selvityksen ottamisesta keskusteltavaksi täysistunnossa, jolloin eduskunta ei kuitenkaan tee päätöstä asiasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_97__subsec_2">
+                            <content>
+                                <p>Pääministerin tulee antaa eduskunnalle tai sen valiokunnalle tietoja Eurooppa-neuvoston kokouksessa käsiteltävistä asioista etukäteen sekä viipymättä kokouksen jälkeen. Samoin on meneteltävä valmisteltaessa muutoksia niihin sopimuksiin, joihin Euroopan unioni perustuu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_8__sec_97__subsec_3">
+                            <content>
+                                <p>Eduskunnan asianomainen valiokunta voi edellä tarkoitettujen selvitysten tai tietojen johdosta antaa valtioneuvostolle lausunnon.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_9">
+                    <num>9 luku</num>
+                    <heading eId="chp_9__heading">Lainkäyttö</heading>
+                    <section eId="chp_9__sec_98">
+                        <num>98 §</num>
+                        <heading eId="chp_9__sec_98__heading">Tuomioistuimet</heading>
+                        <subsection eId="chp_9__sec_98__subsec_1">
+                            <content>
+                                <p>Yleisiä tuomioistuimia ovat korkein oikeus, hovioikeudet ja käräjäoikeudet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_98__subsec_2">
+                            <content>
+                                <p>Yleisiä hallintotuomioistuimia ovat korkein hallinto-oikeus ja alueelliset hallinto-oikeudet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_98__subsec_3">
+                            <content>
+                                <p>Tuomiovaltaa erikseen määrätyillä toimialoilla käyttävistä erityistuomioistuimista säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_98__subsec_4">
+                            <content>
+                                <p>Satunnaisten tuomioistuinten asettaminen on kielletty.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_99">
+                        <num>99 §</num>
+                        <heading eId="chp_9__sec_99__heading">Ylimpien tuomioistuinten tehtävät</heading>
+                        <subsection eId="chp_9__sec_99__subsec_1">
+                            <content>
+                                <p>Ylintä tuomiovaltaa riita- ja rikosasioissa käyttää korkein oikeus sekä hallintolainkäyttöasioissa korkein hallinto-oikeus.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_99__subsec_2">
+                            <content>
+                                <p>Ylimmät tuomioistuimet valvovat lainkäyttöä omalla toimialallaan. Ne voivat tehdä valtioneuvostolle esityksiä lainsäädäntötoimeen ryhtymisestä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_100">
+                        <num>100 §</num>
+                        <heading eId="chp_9__sec_100__heading">Ylimpien tuomioistuinten kokoonpano</heading>
+                        <subsection eId="chp_9__sec_100__subsec_1">
+                            <content>
+                                <p>Korkeimmassa oikeudessa ja korkeimmassa hallinto-oikeudessa on presidentti ja tarpeellinen määrä muita jäseniä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_100__subsec_2">
+                            <content>
+                                <p>Ylimmät tuomioistuimet ovat tuomionvoipia viisijäsenisinä, jollei laissa erikseen säädetä muuta jäsenmäärää.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_101">
+                        <num>101 §</num>
+                        <heading eId="chp_9__sec_101__heading">Valtakunnanoikeus</heading>
+                        <subsection eId="chp_9__sec_101__subsec_1">
+                            <content>
+                                <p>Valtakunnanoikeus käsittelee syytteen, joka nostetaan valtioneuvoston jäsentä tai oikeuskansleria, eduskunnan oikeusasiamiestä taikka korkeimman oikeuden tai korkeimman hallinto-oikeuden jäsentä vastaan lainvastaisesta menettelystä virkatoimessa. Valtakunnanoikeus käsittelee myös 113 §:ssä tarkoitetun syytteen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_101__subsec_2">
+                            <content>
+                                <p>Valtakunnanoikeuteen kuuluvat korkeimman oikeuden presidentti puheenjohtajana sekä korkeimman hallinto-oikeuden presidentti ja kolme virkaiältään vanhinta hovioikeuden presidenttiä sekä viisi eduskunnan valitsemaa jäsentä, joiden toimikausi on neljä vuotta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_101__subsec_3">
+                            <content>
+                                <p>Valtakunnanoikeuden kokoonpanosta, tuomionvoivasta jäsenmäärästä ja toiminnasta säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_102">
+                        <num>102 §</num>
+                        <heading eId="chp_9__sec_102__heading">Tuomarien nimittäminen</heading>
+                        <subsection eId="chp_9__sec_102__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti nimittää vakinaiset tuomarit laissa säädetyn menettelyn mukaisesti. Muiden tuomarien nimittämisestä säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_103">
+                        <num>103 §</num>
+                        <heading eId="chp_9__sec_103__heading">Tuomarien virassapysymisoikeus</heading>
+                        <subsection eId="chp_9__sec_103__subsec_1">
+                            <content>
+                                <p>Tuomaria ei voida julistaa virkansa menettäneeksi muutoin kuin tuomioistuimen tuomiolla. Häntä ei saa myöskään ilman suostumustaan siirtää toiseen virkaan, ellei siirto aiheudu tuomioistuinlaitoksen uudelleen järjestämisestä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_103__subsec_2">
+                            <content>
+                                <p>Lailla säädetään tuomarin velvollisuudesta erota virasta määräiässä tai työkykynsä menetettyään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_103__subsec_3">
+                            <content>
+                                <p>Tuomarien virkasuhteen perusteista muutoin säädetään erikseen lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_104">
+                        <num>104 §</num>
+                        <heading eId="chp_9__sec_104__heading">Syyttäjät</heading>
+                        <subsection eId="chp_9__sec_104__subsec_1">
+                            <content>
+                                <p>Syyttäjälaitosta johtaa ylimpänä syyttäjänä valtakunnansyyttäjä, jonka nimittää tasavallan presidentti. Syyttäjälaitoksesta säädetään tarkemmin lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_9__sec_105">
+                        <num>105 §</num>
+                        <heading eId="chp_9__sec_105__heading">Armahdus</heading>
+                        <subsection eId="chp_9__sec_105__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti voi yksittäisessä tapauksessa saatuaan lausunnon korkeimmalta oikeudelta armahtaa tuomioistuimen määräämästä rangaistuksesta tai muusta rikosoikeudellisesta seuraamuksesta joko kokonaan tai osittain.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_9__sec_105__subsec_2">
+                            <content>
+                                <p>Yleisestä armahduksesta on säädettävä lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_10">
+                    <num>10 luku</num>
+                    <heading eId="chp_10__heading">Laillisuusvalvonta</heading>
+                    <section eId="chp_10__sec_106">
+                        <num>106 §</num>
+                        <heading eId="chp_10__sec_106__heading">Perustuslain etusija</heading>
+                        <subsection eId="chp_10__sec_106__subsec_1">
+                            <content>
+                                <p>Jos tuomioistuimen käsiteltävänä olevassa asiassa lain säännöksen soveltaminen olisi ilmeisessä ristiriidassa perustuslain kanssa, tuomioistuimen on annettava etusija perustuslain säännökselle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_107">
+                        <num>107 §</num>
+                        <heading eId="chp_10__sec_107__heading">Lakia alemmanasteisten säädösten soveltamisrajoitus</heading>
+                        <subsection eId="chp_10__sec_107__subsec_1">
+                            <content>
+                                <p>Jos asetuksen tai muun lakia alemmanasteisen säädöksen säännös on ristiriidassa perustuslain tai muun lain kanssa, sitä ei saa soveltaa tuomioistuimessa tai muussa viranomaisessa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_108">
+                        <num>108 §</num>
+                        <heading eId="chp_10__sec_108__heading">Valtioneuvoston oikeuskanslerin tehtävät</heading>
+                        <subsection eId="chp_10__sec_108__subsec_1">
+                            <content>
+                                <p>Oikeuskanslerin tehtävänä on valvoa valtioneuvoston ja tasavallan presidentin virkatointen lainmukaisuutta. Oikeuskanslerin tulee myös valvoa, että tuomioistuimet ja muut viranomaiset sekä virkamiehet, julkisyhteisön työntekijät ja muutkin julkista tehtävää hoitaessaan noudattavat lakia ja täyttävät velvollisuutensa. Tehtäväänsä hoitaessaan oikeuskansleri valvoo perusoikeuksien ja ihmisoikeuksien toteutumista.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_108__subsec_2">
+                            <content>
+                                <p>Oikeuskanslerin on pyydettäessä annettava presidentille, valtioneuvostolle ja ministeriöille tietoja ja lausuntoja oikeudellisista kysymyksistä.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_108__subsec_3">
+                            <content>
+                                <p>Oikeuskansleri antaa joka vuodelta kertomuksen virkatoimistaan ja lain noudattamista koskevista havainnoistaan eduskunnalle ja valtioneuvostolle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_109">
+                        <num>109 §</num>
+                        <heading eId="chp_10__sec_109__heading">Eduskunnan oikeusasiamiehen tehtävät</heading>
+                        <subsection eId="chp_10__sec_109__subsec_1">
+                            <content>
+                                <p>Oikeusasiamiehen tulee valvoa, että tuomioistuimet ja muut viranomaiset sekä virkamiehet, julkisyhteisön työntekijät ja muutkin julkista tehtävää hoitaessaan noudattavat lakia ja täyttävät velvollisuutensa. Tehtäväänsä hoitaessaan oikeusasiamies valvoo perusoikeuksien ja ihmisoikeuksien toteutumista.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_109__subsec_2">
+                            <content>
+                                <p>Oikeusasiamies antaa joka vuodelta kertomuksen toiminnastaan sekä lainkäytön tilasta ja lainsäädännössä havaitsemistaan puutteista eduskunnalle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_110">
+                        <num>110 §</num>
+                        <heading eId="chp_10__sec_110__heading">Oikeuskanslerin ja oikeusasiamiehen syyteoikeus ja tehtävien jako</heading>
+                        <subsection eId="chp_10__sec_110__subsec_1">
+                            <content>
+                                <p>Syytteen nostamisesta tuomaria vastaan lainvastaisesta menettelystä virkatoimessa päättää oikeuskansleri tai oikeusasiamies. Nämä voivat ajaa syytettä tai määrätä syytteen nostettavaksi myös muussa laillisuusvalvontaansa kuuluvassa asiassa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_110__subsec_2">
+                            <content>
+                                <p>Oikeuskanslerin ja oikeusasiamiehen välisestä tehtävien jaosta voidaan säätää lailla, kaventamatta kuitenkaan kummankaan laillisuusvalvontaa koskevaa toimivaltaa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_111">
+                        <num>111 §</num>
+                        <heading eId="chp_10__sec_111__heading">Oikeuskanslerin ja oikeusasiamiehen tietojensaantioikeus</heading>
+                        <subsection eId="chp_10__sec_111__subsec_1">
+                            <content>
+                                <p>Oikeuskanslerilla ja oikeusasiamiehellä on oikeus saada viranomaisilta ja muilta julkista tehtävää hoitavilta laillisuusvalvontaansa varten tarvitsemansa tiedot.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_111__subsec_2">
+                            <content>
+                                <p>Oikeuskanslerin tulee olla läsnä valtioneuvoston istunnoissa ja esiteltäessä asioita tasavallan presidentille valtioneuvostossa. Oikeusasiamiehellä on oikeus olla läsnä näissä istunnoissa ja esittelyissä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_112">
+                        <num>112 §</num>
+                        <heading eId="chp_10__sec_112__heading">Valtioneuvoston ja tasavallan presidentin virkatointen laillisuuden valvonta</heading>
+                        <subsection eId="chp_10__sec_112__subsec_1">
+                            <content>
+                                <p>Jos oikeuskansleri havaitsee valtioneuvoston tai ministerin taikka tasavallan presidentin päätöksen tai toimenpiteen laillisuuden antavan aihetta huomautukseen, hänen tulee esittää huomautuksensa perusteluineen. Jos se jätetään ottamatta huomioon, oikeuskanslerin tulee merkityttää kannanottonsa valtioneuvoston pöytäkirjaan ja tarvittaessa ryhtyä muihin toimenpiteisiin. Myös oikeusasiamiehellä on vastaava oikeus tehdä huomautus ja ryhtyä muihin toimenpiteisiin.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_112__subsec_2">
+                            <content>
+                                <p>Jos presidentin päätös on lainvastainen, valtioneuvoston tulee saatuaan lausunnon oikeuskanslerilta ilmoittaa, ettei päätöstä voida panna täytäntöön, sekä esittää presidentille päätöksen muuttamista tai peruuttamista.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_113">
+                        <num>113 §</num>
+                        <heading eId="chp_10__sec_113__heading">Tasavallan presidentin rikosoikeudellinen vastuu</heading>
+                        <subsection eId="chp_10__sec_113__subsec_1">
+                            <content>
+                                <p>Jos oikeuskansleri, oikeusasiamies tai valtioneuvosto katsoo tasavallan presidentin syyllistyneen maanpetosrikokseen, valtiopetosrikokseen tai rikokseen ihmisyyttä vastaan, asiasta on ilmoitettava eduskunnalle. Jos eduskunta tällöin kolmella neljäsosalla annetuista äänistä päättää syytteen nostettavaksi, valtakunnansyyttäjän on ajettava syytettä valtakunnanoikeudessa ja presidentin on pidättäydyttävä siksi ajaksi toimestaan. Muissa tapauksissa presidentin virkatoimesta ei saa nostaa syytettä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_114">
+                        <num>114 §</num>
+                        <heading eId="chp_10__sec_114__heading">Ministerisyytteen nostaminen ja käsittely</heading>
+                        <subsection eId="chp_10__sec_114__subsec_1">
+                            <content>
+                                <p>Syyte valtioneuvoston jäsentä vastaan lainvastaisesta menettelystä virkatoimessa käsitellään valtakunnanoikeudessa sen mukaan kuin lailla tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_114__subsec_2">
+                            <content>
+                                <p>Syytteen nostamisesta päättää eduskunta saatuaan perustuslakivaliokunnan kannanoton valtioneuvoston jäsenen menettelyn lainvastaisuudesta. Eduskunnan tulee ennen päätöstä syytteen nostamisesta varata valtioneuvoston jäsenelle tilaisuus selityksen antamiseen. Asiaa käsitellessään valiokunnan tulee olla täysilukuinen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_114__subsec_3">
+                            <content>
+                                <p>Syytettä valtioneuvoston jäsentä vastaan ajaa valtakunnansyyttäjä.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_115">
+                        <num>115 §</num>
+                        <heading eId="chp_10__sec_115__heading">Ministerivastuuasian vireillepano</heading>
+                        <subsection eId="chp_10__sec_115__subsec_1">
+                            <intro eId="chp_10__sec_115__subsec_1__intro">
+                                <p>Valtioneuvoston jäsenen virkatoimen lainmukaisuuden tutkinta eduskunnan perustuslakivaliokunnassa voidaan panna vireille:</p>
+                            </intro>
+                            <paragraph eId="chp_10__sec_115__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>oikeuskanslerin tai oikeusasiamiehen perustuslakivaliokunnalle tekemällä ilmoituksella;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_10__sec_115__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>vähintään kymmenen kansanedustajan allekirjoittamalla muistutuksella; sekä</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_10__sec_115__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>eduskunnan muun valiokunnan perustuslakivaliokunnalle esittämällä tutkintapyynnöllä.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_10__sec_115__subsec_2">
+                            <content>
+                                <p>Perustuslakivaliokunta voi myös omasta aloitteestaan ryhtyä tutkimaan valtioneuvoston jäsenen virkatoimen lainmukaisuutta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_116">
+                        <num>116 §</num>
+                        <heading eId="chp_10__sec_116__heading">Ministerisyytteen nostamisen edellytykset</heading>
+                        <subsection eId="chp_10__sec_116__subsec_1">
+                            <content>
+                                <p>Syyte valtioneuvoston jäsentä vastaan voidaan päättää nostettavaksi, jos tämä tahallaan tai törkeästä huolimattomuudesta on olennaisesti rikkonut ministerin tehtävään kuuluvat velvollisuutensa tai menetellyt muutoin virkatoimessaan selvästi lainvastaisesti.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_117">
+                        <num>117 §</num>
+                        <heading eId="chp_10__sec_117__heading">Oikeuskanslerin ja oikeusasiamiehen oikeudellinen vastuu</heading>
+                        <subsection eId="chp_10__sec_117__subsec_1">
+                            <content>
+                                <p>Oikeuskanslerin ja oikeusasiamiehen virkatointen lainmukaisuuden tutkimisesta, syytteen nostamisesta heitä vastaan lainvastaisesta menettelystä virkatoimessa sekä tällaisen syytteen käsittelystä on voimassa, mitä 114 ja 115 §:ssä valtioneuvoston jäsenestä säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_10__sec_118">
+                        <num>118 §</num>
+                        <heading eId="chp_10__sec_118__heading">Vastuu virkatoimista</heading>
+                        <subsection eId="chp_10__sec_118__subsec_1">
+                            <content>
+                                <p>Virkamies vastaa virkatoimiensa lainmukaisuudesta. Hän on myös vastuussa sellaisesta monijäsenisen toimielimen päätöksestä, jota hän on toimielimen jäsenenä kannattanut.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_118__subsec_2">
+                            <content>
+                                <p>Esittelijä on vastuussa siitä, mitä hänen esittelystään on päätetty, jollei hän ole jättänyt päätökseen eriävää mielipidettään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_10__sec_118__subsec_3v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Jokaisella, joka on kärsinyt oikeudenloukkauksen tai vahinkoa virkamiehen tai muun julkista tehtävää hoitavan henkilön lainvastaisen toimenpiteen tai laiminlyönnin vuoksi, on oikeus vaatia tämän tuomitsemista rangaistukseen sekä vahingonkorvausta julkisyhteisöltä taikka virkamieheltä tai muulta julkista tehtävää hoitavalta sen mukaan kuin lailla säädetään. Tässä tarkoitettua syyteoikeutta ei kuitenkaan ole, jos syyte on perustuslain mukaan käsiteltävä valtakunnanoikeudessa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_11">
+                    <num>11 luku</num>
+                    <heading eId="chp_11__heading">Hallinnon järjestäminen ja itsehallinto</heading>
+                    <section eId="chp_11__sec_119">
+                        <num>119 §</num>
+                        <heading eId="chp_11__sec_119__heading">Valtionhallinto</heading>
+                        <subsection eId="chp_11__sec_119__subsec_1">
+                            <content>
+                                <p>Valtion keskushallintoon voi kuulua valtioneuvoston ja ministeriöiden lisäksi virastoja, laitoksia ja muita toimielimiä. Valtiolla voi lisäksi olla alueellisia ja paikallisia viranomaisia. Eduskunnan alaisesta hallinnosta säädetään erikseen lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_119__subsec_2">
+                            <content>
+                                <p>Valtionhallinnon toimielinten yleisistä perusteista on säädettävä lailla, jos niiden tehtäviin kuuluu julkisen vallan käyttöä. Valtion alue- ja paikallishallinnon perusteista säädetään niin ikään lailla. Valtionhallinnon yksiköistä voidaan muutoin säätää asetuksella.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_120">
+                        <num>120 §</num>
+                        <heading eId="chp_11__sec_120__heading">Ahvenanmaan erityisasema</heading>
+                        <subsection eId="chp_11__sec_120__subsec_1">
+                            <content>
+                                <p>Ahvenanmaan maakunnalla on itsehallinto sen mukaan kuin Ahvenanmaan itsehallintolaissa erikseen säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_121">
+                        <num>121 §</num>
+                        <heading eId="chp_11__sec_121__heading">Kunnallinen ja muu alueellinen itsehallinto</heading>
+                        <subsection eId="chp_11__sec_121__subsec_1">
+                            <content>
+                                <p>Suomi jakaantuu kuntiin, joiden hallinnon tulee perustua kunnan asukkaiden itsehallintoon.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_121__subsec_2">
+                            <content>
+                                <p>Kuntien hallinnon yleisistä perusteista ja kunnille annettavista tehtävistä säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_121__subsec_3">
+                            <content>
+                                <p>Kunnilla on verotusoikeus. Lailla säädetään verovelvollisuuden ja veron määräytymisen perusteista sekä verovelvollisen oikeusturvasta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_121__subsec_4">
+                            <content>
+                                <p>Itsehallinnosta kuntia suuremmilla hallintoalueilla säädetään lailla. Saamelaisilla on saamelaisten kotiseutualueella kieltään ja kulttuuriaan koskeva itsehallinto sen mukaan kuin lailla säädetään.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_122">
+                        <num>122 §</num>
+                        <heading eId="chp_11__sec_122__heading">Hallinnolliset jaotukset</heading>
+                        <subsection eId="chp_11__sec_122__subsec_1">
+                            <content>
+                                <p>Hallintoa järjestettäessä tulee pyrkiä yhteensopiviin aluejaotuksiin, joissa turvataan suomen- ja ruotsinkielisen väestön mahdollisuudet saada palveluja omalla kielellään samanlaisten perusteiden mukaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_122__subsec_2">
+                            <content>
+                                <p>Kuntajaon perusteista säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_123">
+                        <num>123 §</num>
+                        <heading eId="chp_11__sec_123__heading">Yliopistot ja muut opetuksen järjestäjät</heading>
+                        <subsection eId="chp_11__sec_123__subsec_1">
+                            <content>
+                                <p>Yliopistoilla on itsehallinto sen mukaan kuin lailla tarkemmin säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_123__subsec_2">
+                            <content>
+                                <p>Valtion ja kuntien järjestämän muun opetuksen perusteista samoin kuin oikeudesta järjestää vastaavaa opetusta yksityisissä oppilaitoksissa säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_124">
+                        <num>124 §</num>
+                        <heading eId="chp_11__sec_124__heading">Hallintotehtävän antaminen muulle kuin viranomaiselle</heading>
+                        <subsection eId="chp_11__sec_124__subsec_1">
+                            <content>
+                                <p>Julkinen hallintotehtävä voidaan antaa muulle kuin viranomaiselle vain lailla tai lain nojalla, jos se on tarpeen tehtävän tarkoituksenmukaiseksi hoitamiseksi eikä vaaranna perusoikeuksia, oikeusturvaa tai muita hyvän hallinnon vaatimuksia. Merkittävää julkisen vallan käyttöä sisältäviä tehtäviä voidaan kuitenkin antaa vain viranomaiselle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_125">
+                        <num>125 §</num>
+                        <heading eId="chp_11__sec_125__heading">Virkojen kelpoisuusvaatimukset ja nimitysperusteet</heading>
+                        <subsection eId="chp_11__sec_125__subsec_1">
+                            <content>
+                                <p>Lailla voidaan säätää, että määrättyihin julkisiin virkoihin tai tehtäviin voidaan nimittää vain Suomen kansalainen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_125__subsec_2">
+                            <content>
+                                <p>Yleiset nimitysperusteet julkisiin virkoihin ovat taito, kyky ja koeteltu kansalaiskunto.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_11__sec_126v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                        <num>126 §</num>
+                        <heading eId="chp_11__sec_126v20111112__heading">Nimittäminen valtion virkoihin</heading>
+                        <subsection eId="chp_11__sec_126v20111112__subsec_1v20111112">
+                            <content>
+                                <p>Valtioneuvosto nimittää valtion virkoihin, jollei nimittämistä ole säädetty tasavallan presidentin, ministeriön tai muun viranomaisen tehtäväksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_11__sec_126v20111112__subsec_2v20111112">
+                            <content>
+                                <p>Presidentti nimittää tasavallan presidentin kanslian päällikön sekä määrää tehtävään edustustojen päälliköt.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_12">
+                    <num>12 luku</num>
+                    <heading eId="chp_12__heading">Maanpuolustus</heading>
+                    <section eId="chp_12__sec_127">
+                        <num>127 §</num>
+                        <heading eId="chp_12__sec_127__heading">Maanpuolustusvelvollisuus</heading>
+                        <subsection eId="chp_12__sec_127__subsec_1">
+                            <content>
+                                <p>Jokainen Suomen kansalainen on velvollinen osallistumaan isänmaan puolustukseen tai avustamaan sitä sen mukaan kuin laissa säädetään.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_12__sec_127__subsec_2">
+                            <content>
+                                <p>Oikeudesta saada vakaumuksen perusteella vapautus osallistumisesta sotilaalliseen maanpuolustukseen säädetään lailla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_12__sec_128">
+                        <num>128 §</num>
+                        <heading eId="chp_12__sec_128__heading">Puolustusvoimien ylipäällikkyys</heading>
+                        <subsection eId="chp_12__sec_128__subsec_1v20111112" finlex:originalVersion="@20111112" finlex:originalVersionLabel="4.11.2011/1112">
+                            <content>
+                                <p>Tasavallan presidentti on Suomen puolustusvoimien ylipäällikkö. Presidentti voi valtioneuvoston esityksestä poikkeusoloissa luovuttaa ylipäällikkyyden toiselle Suomen kansalaiselle.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_12__sec_128__subsec_2">
+                            <content>
+                                <p>Presidentti nimittää upseerit.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_12__sec_129">
+                        <num>129 §</num>
+                        <heading eId="chp_12__sec_129__heading">Liikekannallepano</heading>
+                        <subsection eId="chp_12__sec_129__subsec_1">
+                            <content>
+                                <p>Tasavallan presidentti päättää valtioneuvoston esityksestä puolustusvoimien liikekannallepanosta. Jollei eduskunta ole tällöin kokoontuneena, se on heti kutsuttava koolle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_13" finlex:entryIntoForce="true" finlex:vsId="731/1999">
+                    <num>13 luku</num>
+                    <heading eId="chp_13__heading">Loppusäännökset</heading>
+                    <section eId="chp_13__sec_130">
+                        <num>130 §</num>
+                        <heading eId="chp_13__sec_130__heading">Voimaantulo</heading>
+                        <subsection eId="chp_13__sec_130__subsec_1">
+                            <content>
+                                <p>Tämä perustuslaki tulee voimaan 1 päivänä maaliskuuta 2000.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_13__sec_130__subsec_2">
+                            <content>
+                                <p>Perustuslain täytäntöön panemiseksi tarvittavat säännökset annetaan erityisellä lailla. </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_13__sec_131">
+                        <num>131 §</num>
+                        <heading eId="chp_13__sec_131__heading">Kumottavat perustuslait</heading>
+                        <subsection eId="chp_13__sec_131__subsec_1">
+                            <intro eId="chp_13__sec_131__subsec_1__intro">
+                                <p>Tällä perustuslailla kumotaan niihin myöhemmin tehtyine muutoksineen:</p>
+                            </intro>
+                            <paragraph eId="chp_13__sec_131__subsec_1__para_1">
+                                <num>1)</num>
+                                <content>
+                                    <p>17 päivänä heinäkuuta 1919 annettu Suomen Hallitusmuoto;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_13__sec_131__subsec_1__para_2">
+                                <num>2)</num>
+                                <content>
+                                    <p>13 päivänä tammikuuta 1928 annettu valtiopäiväjärjestys;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_13__sec_131__subsec_1__para_3">
+                                <num>3)</num>
+                                <content>
+                                    <p>
+                                        valtakunnanoikeudesta 25 päivänä marraskuuta 1922 annettu laki 
+                                        <ref href="/akn/fi/act/statute-consolidated/1922/273">(273/1922)</ref>; sekä
+                                    </p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_13__sec_131__subsec_1__para_4">
+                                <num>4)</num>
+                                <content>
+                                    <p>
+                                        eduskunnan oikeudesta tarkastaa valtioneuvoston jäsenten ja oikeuskanslerin sekä eduskunnan oikeusasiamiehen virkatointen lainmukaisuutta 25 päivänä marraskuuta 1922 annettu laki 
+                                        <ref href="/akn/fi/act/statute-consolidated/1922/274">(274/1922)</ref>.
+                                    </p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                </chapter>
+            </hcontainer>
+            <hcontainer finlex:outline="Esityöt ja allekirjoitukset" name="conclusions">
+                <hcontainer finlex:outline="Esityöt" name="preliminaryWork">
+                    <content>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/1998/1">HE 1/1998</ref>
+                        </p>
+                        <p>PeVM 10/1998</p>
+                        <p>EV 262/1998</p>
+                        <p>LJL 1/1999</p>
+                        <p>PeVM 1/1999</p>
+                        <p>EK 15/1999</p>
+                    </content>
+                </hcontainer>
+            </hcontainer>
+            <hcontainer name="amendmentEntryIntoForceAndApplianceProvisions">
+                <heading>Muutossäädösten voimaantulo ja soveltaminen</heading>
+                <hcontainer eId="entryIntoForce_20070596" name="entryIntoForce">
+                    <heading>25.5.2007/596:</heading>
+                    <content>
+                        <p>Tämä laki tulee voimaan 1 päivänä kesäkuuta 2007.</p>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2006/71">HE 71/2006</ref>, PNE 2/2006, PeVM 10/2006, EV 202/2006, LJL 2/2007, PeVM 1/2007, EK 9/2007
+                        </p>
+                    </content>
+                </hcontainer>
+                <hcontainer eId="entryIntoForce_20070802" name="entryIntoForce">
+                    <heading>24.8.2007/802:</heading>
+                    <content>
+                        <p>Tämä laki tulee voimaan 1 päivänä lokakuuta 2007.</p>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2003/102">HE 102/2003</ref>, PeVM 5/2005, EV 111/2005, LJL 1/2007, PeVM 2/2007, EK 11/2007
+                        </p>
+                    </content>
+                </hcontainer>
+                <hcontainer eId="entryIntoForce_20111112" name="entryIntoForce">
+                    <heading>4.11.2011/1112:</heading>
+                    <content>
+                        <p>Tämä laki tulee voimaan 1 päivänä maaliskuuta 2012.</p>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2010/60">HE 60/2010</ref>, LA 44/2010, PeVM 9/2010, EV 310/2010, LJL 3/2011, PeVM 3/2011, EK 16/2011
+                        </p>
+                    </content>
+                </hcontainer>
+                <hcontainer eId="entryIntoForce_20180817" name="entryIntoForce">
+                    <heading>5.10.2018/817:</heading>
+                    <content>
+                        <p>Tämä laki tulee voimaan 15 päivänä lokakuuta 2018.</p>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2017/198">HE 198/2017</ref>, PeVM 4/2018, EV 77/2018
+                        </p>
+                    </content>
+                </hcontainer>
+            </hcontainer>
+        </body>
+    </act>
+</akomaNtoso>
