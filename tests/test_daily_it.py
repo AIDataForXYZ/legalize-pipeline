@@ -32,10 +32,12 @@ def _make_act(codice: str, desc: str = "Test act") -> dict:
 class TestDailyDiscovery:
     def test_yields_updated_codices(self):
         mock_client = MagicMock(spec=NormattivaClient)
-        mock_client.search_updated.return_value = _updated_response([
-            _make_act("26G00042", "Legge 42/2026"),
-            _make_act("26G00043", "Legge 43/2026"),
-        ])
+        mock_client.search_updated.return_value = _updated_response(
+            [
+                _make_act("26G00042", "Legge 42/2026"),
+                _make_act("26G00043", "Legge 43/2026"),
+            ]
+        )
 
         discovery = NormattivaDiscovery.__new__(NormattivaDiscovery)
         ids = list(discovery.discover_daily(mock_client, date(2026, 4, 10)))
@@ -68,11 +70,13 @@ class TestDailyDiscovery:
 
     def test_skips_acts_without_codice(self):
         mock_client = MagicMock(spec=NormattivaClient)
-        mock_client.search_updated.return_value = _updated_response([
-            _make_act("26G00042"),
-            {"descrizioneAtto": "No codice"},
-            _make_act("26G00044"),
-        ])
+        mock_client.search_updated.return_value = _updated_response(
+            [
+                _make_act("26G00042"),
+                {"descrizioneAtto": "No codice"},
+                _make_act("26G00044"),
+            ]
+        )
 
         discovery = NormattivaDiscovery.__new__(NormattivaDiscovery)
         ids = list(discovery.discover_daily(mock_client, date(2026, 4, 1)))
@@ -81,10 +85,12 @@ class TestDailyDiscovery:
 
     def test_duplicate_codices_both_yielded(self):
         mock_client = MagicMock(spec=NormattivaClient)
-        mock_client.search_updated.return_value = _updated_response([
-            _make_act("26G00042"),
-            _make_act("26G00042"),
-        ])
+        mock_client.search_updated.return_value = _updated_response(
+            [
+                _make_act("26G00042"),
+                _make_act("26G00042"),
+            ]
+        )
 
         discovery = NormattivaDiscovery.__new__(NormattivaDiscovery)
         ids = list(discovery.discover_daily(mock_client, date(2026, 4, 1)))
