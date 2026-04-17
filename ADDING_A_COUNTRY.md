@@ -1115,6 +1115,15 @@ from an existing country repo (`legalize-lv`, `legalize-ad`).
 
 ### 9.2 Run the full bootstrap
 
+**Always run the first bootstrap locally, never via the `bootstrap.yml`
+CI workflow.** The CI bootstrap job is for incremental re-runs and
+recovery once the country is live. First runs are multi-hour operations
+that need interactive debugging (rate-limit tuning, transient failures,
+source-specific quirks that only surface at scale) — running them in
+GitHub Actions wastes compute and makes iteration slow. After the
+local bootstrap succeeds and the full history is pushed, the CI
+workflow becomes useful for scheduled refreshes.
+
 ```bash
 # Kick off the bootstrap. Tail the log to a file so you can review afterwards.
 legalize bootstrap -c xx 2>&1 | tee bootstrap-xx.log
