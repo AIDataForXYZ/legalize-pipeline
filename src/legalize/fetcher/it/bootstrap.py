@@ -185,9 +185,7 @@ def _download_and_process_collections(data_dir: Path, json_dir: Path, discovery_
         zf.close()
 
     if total == 0:
-        console.print(
-            "[yellow]Phase 1 yielded 0 acts — all collections empty or failed[/yellow]"
-        )
+        console.print("[yellow]Phase 1 yielded 0 acts — all collections empty or failed[/yellow]")
         logger.warning("Phase 1 yielded 0 acts — falling through to Phase 2 as primary path")
 
     return total

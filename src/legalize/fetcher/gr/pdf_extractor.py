@@ -554,8 +554,8 @@ def _extract_text_uncached(path: Path) -> tuple[str, str, str]:
         tables almost always follow an introducing line like
         "σύμφωνα με την ακόλουθη κλίμακα:".
         """
-        for md_table in page_tables.get(idx, []):
-            body_parts.append(GR_TABLE_OPEN + md_table + GR_TABLE_CLOSE)
+        for md_table in page_tables.get(idx, []):  # noqa: F821 (closure capture from outer)
+            body_parts.append(GR_TABLE_OPEN + md_table + GR_TABLE_CLOSE)  # noqa: F821
 
     n_pages = len(pages)
     # Process pages 0..n-2 (we handle the last page separately for footer trim)

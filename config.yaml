@@ -453,6 +453,26 @@ countries:
       max_retries: 5
       requests_per_second: 2.0
 
+  li:
+    repo_path: "../countries/li"
+    data_dir: "../countries/data-li"
+    cache_dir: ".cache"
+    # Lilex (gesetze.li) — HTML scraping, no public API.
+    # Catalog: ~3,622 in-force consolidated laws + multiple historical
+    # versions per law (Constitution alone has 41 versions). Each law
+    # needs 1 meta-page fetch + N version-iframe fetches.
+    # Site sits behind Citrix NetScaler with a per-IP redirect-loop
+    # bot defence. Stays under the radar at 2 req/s with 1 outer
+    # worker (the client uses an inner pool of 2 for per-law version
+    # fetches). Total requests for full bootstrap: ~30-40K, projected
+    # ~5-7 hours.
+    max_workers: 1
+    source:
+      base_url: "https://www.gesetze.li"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
+
   eu:
     repo_path: "../countries/eu"
     data_dir: "../countries/data-eu"

@@ -75,8 +75,12 @@ class TestBuildNorm:
             {"html": '<div class="bodyTesto">Version 2</div>', "date": "2022-04-01"},
         ]
         norm = _build_norm(
-            "047U0001", "LEGGE COSTITUZIONALE_20021018_1", versions,
-            self._make_discovery_meta(), tp, mp,
+            "047U0001",
+            "LEGGE COSTITUZIONALE_20021018_1",
+            versions,
+            self._make_discovery_meta(),
+            tp,
+            mp,
         )
         assert norm is not None
         assert norm.metadata.identifier == "047U0001"
@@ -90,8 +94,12 @@ class TestBuildNorm:
             {"html": '<div class="bodyTesto">Only version</div>', "date": "1990-08-07"},
         ]
         norm = _build_norm(
-            "090G0294", "LEGGE_19900807_241", versions,
-            {}, tp, mp,
+            "090G0294",
+            "LEGGE_19900807_241",
+            versions,
+            {},
+            tp,
+            mp,
         )
         assert norm is not None
         assert len(norm.reforms) == 1
@@ -104,8 +112,12 @@ class TestBuildNorm:
         ]
         with caplog.at_level(logging.WARNING):
             norm = _build_norm(
-                "047U0001", "LEGGE COSTITUZIONALE_20021018_1", versions,
-                self._make_discovery_meta(), tp, mp,
+                "047U0001",
+                "LEGGE COSTITUZIONALE_20021018_1",
+                versions,
+                self._make_discovery_meta(),
+                tp,
+                mp,
             )
         assert norm is not None
         assert len(norm.reforms) == 1
@@ -115,8 +127,12 @@ class TestBuildNorm:
         tp, mp = parsers
         with pytest.raises(IndexError):
             _build_norm(
-                "047U0001", "TEST_DIR", [],
-                self._make_discovery_meta(), tp, mp,
+                "047U0001",
+                "TEST_DIR",
+                [],
+                self._make_discovery_meta(),
+                tp,
+                mp,
             )
 
 
