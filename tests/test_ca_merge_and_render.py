@@ -360,6 +360,235 @@ class TestParseSuvestineDispatch:
 # ─────────────────────────────────────────────
 
 
+class TestStreamingSuvestine:
+    """parse_suvestine_stream: streaming counterpart of parse_suvestine.
+
+    Tests the same dispatch + ordering rules hold when entries arrive via
+    a generator rather than a decoded JSON blob.
+    """
+
+    def test_stream_routes_gazette_and_xml(self):
+        entries = [
+            {
+                "source_type": "annual-statute",
+                "source_id": "as-2020-c13",
+                "date": "2020-11-19",
+                "xml": base64.b64encode(_BILL_XML).decode("ascii"),
+            },
+            {
+                "source_type": "gazette-pdf",
+                "source_id": "gazette-1999-c5",
+                "date": "1999-06-14",
+                "body_text": "Section 1 text.",
+                "amending_title": "An Act to amend X",
+                "bill_number": "C-5",
+                "ocr_confidence": 1.0,
+            },
+        ]
+        blocks, reforms = CATextParser().parse_suvestine_stream(iter(entries), "eng/acts/I-3.3")
+        # Stream preserves insertion order (client sorts upstream); the
+        # parser itself doesn't re-sort.
+        assert [r.norm_id for r in reforms] == ["as-2020-c13", "gazette-1999-c5"]
+
+    def test_stream_skips_invalid_entries(self):
+        """Bad dates, missing fields, empty gazette bodies are silently
+        dropped — same behaviour as the bytes path."""
+        entries = [
+            {"source_type": "annual-statute"},  # missing source_id/date
+            {"source_type": "annual-statute", "source_id": "as-1", "date": "bogus"},
+            {
+                "source_type": "annual-statute",
+                "source_id": "as-2020-c13",
+                "date": "2020-11-19",
+                "xml": base64.b64encode(_BILL_XML).decode("ascii"),
+            },
+            {
+                "source_type": "gazette-pdf",
+                "source_id": "gazette-x",
+                "date": "1999-06-14",
+                "body_text": "",  # empty body — skipped
+                "amending_title": "X",
+                "bill_number": "",
+                "ocr_confidence": 1.0,
+            },
+        ]
+        blocks, reforms = CATextParser().parse_suvestine_stream(iter(entries), "eng/acts/I-3.3")
+        assert len(reforms) == 1
+        assert reforms[0].norm_id == "as-2020-c13"
+
+    def test_stream_and_bytes_produce_same_output(self):
+        """Parity check: bytes path and stream path must produce the same
+        Block / Reform structure when fed the same entries."""
+        entries = [
+            {
+                "source_type": "annual-statute",
+                "source_id": "as-2020-c13",
+                "date": "2020-11-19",
+                "xml": base64.b64encode(_BILL_XML).decode("ascii"),
+            }
+        ]
+        # Bytes path
+        blob = json.dumps({"versions": list(entries)}).encode("utf-8")
+        b_blocks, b_reforms = CATextParser().parse_suvestine(blob, "eng/acts/I-3.3")
+        # Stream path (build fresh entries — the bytes path pops "xml")
+        entries_stream = [
+            {
+                "source_type": "annual-statute",
+                "source_id": "as-2020-c13",
+                "date": "2020-11-19",
+                "xml": base64.b64encode(_BILL_XML).decode("ascii"),
+            }
+        ]
+        s_blocks, s_reforms = CATextParser().parse_suvestine_stream(
+            iter(entries_stream), "eng/acts/I-3.3"
+        )
+        assert len(b_reforms) == len(s_reforms) == 1
+        assert b_reforms[0].norm_id == s_reforms[0].norm_id
+        assert b_reforms[0].date == s_reforms[0].date
+        # Same paragraph count and texts.
+        b_texts = [p.text for p in b_blocks[0].versions[0].paragraphs]
+        s_texts = [p.text for p in s_blocks[0].versions[0].paragraphs]
+        assert b_texts == s_texts
+
+    def test_stream_empty_iter_returns_empty(self):
+        blocks, reforms = CATextParser().parse_suvestine_stream(iter([]), "eng/acts/I-3.3")
+        assert blocks == []
+        assert reforms == []
+
+
+class TestIterSuvestineManifest:
+    """iter_suvestine: manifest-then-load streaming at the client level."""
+
+    def test_falls_back_when_no_clone(self, tmp_path: Path):
+        """Without a clone ``iter_suvestine`` yields a single ``http-current``
+        entry via the legacy fallback path."""
+        client = JusticeCanadaClient(
+            xml_dir=str(tmp_path / "nonexistent"),
+            data_dir=str(tmp_path),
+            wayback_enabled=False,
+        )
+        client.get_text = lambda norm_id: b"<Statute/>"  # type: ignore[assignment]
+        entries = list(client.iter_suvestine("eng/acts/A-1"))
+        assert len(entries) == 1
+        assert entries[0]["source_type"] == "http-current"
+        assert entries[0]["source_id"] == "current"
+
+    def test_yields_in_chronological_order(self, tmp_path: Path):
+        """Manifest sort happens on the date field — ``iter_suvestine``
+        yields oldest-first even if a source returns out-of-order rows."""
+        from legalize.fetcher.ca.client import _SvManifestEntry
+
+        client = JusticeCanadaClient(
+            xml_dir=str(tmp_path),
+            data_dir=str(tmp_path),
+            wayback_enabled=False,
+        )
+        (tmp_path).mkdir(exist_ok=True)
+        # Stub all four source iterators. ``_iter_wayback_manifest`` can
+        # stay empty; the other three produce one manifest entry each with
+        # distinct dates.
+        client._iter_git_log_manifest = lambda n: iter(
+            [  # type: ignore[assignment]
+                _SvManifestEntry(
+                    source_type="upstream-git",
+                    source_id="abc" * 14,
+                    date="2021-03-01",
+                    loader=lambda: {
+                        "source_type": "upstream-git",
+                        "source_id": "abc" * 14,
+                        "date": "2021-03-01",
+                        "xml": "PFN0YXR1dGUvPg==",  # <Statute/>
+                    },
+                )
+            ]
+        )
+        client._iter_wayback_manifest = lambda n: iter([])  # type: ignore[assignment]
+        client._iter_gazette_manifest = lambda n: iter(
+            [  # type: ignore[assignment]
+                _SvManifestEntry(
+                    source_type="gazette-pdf",
+                    source_id="gazette-1999-c5",
+                    date="1999-06-14",
+                    loader=lambda: {
+                        "source_type": "gazette-pdf",
+                        "source_id": "gazette-1999-c5",
+                        "date": "1999-06-14",
+                        "body_text": "body",
+                        "amending_title": "X",
+                        "bill_number": "C-5",
+                        "ocr_confidence": 1.0,
+                    },
+                )
+            ]
+        )
+        client._iter_annual_statute_manifest = lambda n: iter(
+            [  # type: ignore[assignment]
+                _SvManifestEntry(
+                    source_type="annual-statute",
+                    source_id="as-2020-c13",
+                    date="2020-11-19",
+                    loader=lambda: {
+                        "source_type": "annual-statute",
+                        "source_id": "as-2020-c13",
+                        "date": "2020-11-19",
+                        "xml": "PEJpbGwvPg==",
+                    },
+                )
+            ]
+        )
+
+        dates = [e["date"] for e in client.iter_suvestine("eng/acts/X-1")]
+        assert dates == ["1999-06-14", "2020-11-19", "2021-03-01"]
+
+    def test_dedup_suppresses_gazette_when_annual_matches(self, tmp_path: Path):
+        """gazette-pdf with the same (year, chapter) as an annual-statute
+        must be suppressed in the stream — same rule as the bytes path."""
+        from legalize.fetcher.ca.client import _SvManifestEntry
+
+        client = JusticeCanadaClient(
+            xml_dir=str(tmp_path),
+            data_dir=str(tmp_path),
+            wayback_enabled=False,
+        )
+        client._iter_git_log_manifest = lambda n: iter([])  # type: ignore[assignment]
+        client._iter_wayback_manifest = lambda n: iter([])  # type: ignore[assignment]
+        client._iter_annual_statute_manifest = lambda n: iter(
+            [  # type: ignore[assignment]
+                _SvManifestEntry(
+                    source_type="annual-statute",
+                    source_id="as-2020-c13",
+                    date="2020-11-19",
+                    loader=lambda: {
+                        "source_type": "annual-statute",
+                        "source_id": "as-2020-c13",
+                        "date": "2020-11-19",
+                        "xml": "",
+                    },
+                )
+            ]
+        )
+        client._iter_gazette_manifest = lambda n: iter(
+            [  # type: ignore[assignment]
+                _SvManifestEntry(
+                    source_type="gazette-pdf",
+                    source_id="gazette-2020-c13",
+                    date="2020-11-19",
+                    loader=lambda: {
+                        "source_type": "gazette-pdf",
+                        "source_id": "gazette-2020-c13",
+                        "date": "2020-11-19",
+                        "body_text": "",
+                    },
+                )
+            ]
+        )
+
+        yielded = list(client.iter_suvestine("eng/acts/X-1"))
+        # Only the annual-statute entry makes it through.
+        assert len(yielded) == 1
+        assert yielded[0]["source_type"] == "annual-statute"
+
+
 class TestClientMergeDedup:
     def test_gazette_dedupes_against_annual_statute(self, tmp_path: Path):
         """When the same (year, chapter) appears in both gazette-pdf and

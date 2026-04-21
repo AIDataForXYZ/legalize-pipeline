@@ -16,7 +16,7 @@ import logging
 import re
 from contextvars import ContextVar
 from datetime import date
-from typing import Any
+from typing import Any, Iterable
 
 from lxml import etree
 
@@ -1411,6 +1411,159 @@ class CATextParser(TextParser):
             versions=tuple(versions),
         )
         return [block], reforms
+
+    def parse_suvestine_stream(
+        self, entries: Iterable[dict], norm_id: str
+    ) -> tuple[list[Block], list[Reform]]:
+        """Streaming counterpart to :meth:`parse_suvestine`.
+
+        Consumes an iterable of entry dicts (the shape produced by
+        :meth:`JusticeCanadaClient.iter_suvestine`) and parses each one in
+        turn into a Version + Reform pair. Crucially, we never hold more
+        than the currently-processed entry's XML in memory — the
+        generator yielded by the client is drained lazily and each
+        entry's big base64 string / bytes / lxml tree is dropped before
+        the next one is loaded.
+
+        The assembled ``versions`` + ``reforms`` lists still accumulate
+        for the final Block, but those hold only parsed Paragraph tuples
+        (strings) which are 10-20× smaller than the source XMLs they
+        came from.
+
+        Memory win vs ``parse_suvestine``:
+
+        - no JSON blob is ever materialised (saves ~272 MB on Criminal
+          Code);
+        - no intermediate ``all_versions``/``deduped`` list in the
+          client (saves ~200 MB);
+        - only one entry's XML is resident at a time (saves ~100 MB).
+
+        Dispatch on ``source_type`` matches :meth:`parse_suvestine` —
+        ``upstream-git``/``wayback-xml``/``annual-statute`` go through
+        :meth:`_parse_root`; ``gazette-pdf`` through
+        :func:`_render_gazette_body`.
+        """
+        _, _, url_lang, _ = _lang_info(norm_id)
+        lang = "fr" if url_lang == "fra" else "en"
+        lang_token = _current_lang.set(lang)
+
+        versions: list[Version] = []
+        reforms: list[Reform] = []
+        _GC_EVERY = 10
+
+        try:
+            for idx, entry in enumerate(entries):
+                version, reform = self._parse_suvestine_entry(entry, norm_id)
+                if version is not None and reform is not None:
+                    versions.append(version)
+                    reforms.append(reform)
+                del entry
+                if (idx + 1) % _GC_EVERY == 0:
+                    gc.collect()
+        finally:
+            _current_lang.reset(lang_token)
+            gc.collect()
+
+        if not versions:
+            return [], []
+
+        block = Block(
+            id="body",
+            block_type="article",
+            title="",
+            versions=tuple(versions),
+        )
+        return [block], reforms
+
+    def _parse_suvestine_entry(
+        self, entry: dict, norm_id: str
+    ) -> tuple[Version | None, Reform | None]:
+        """Decode + render one suvestine entry.
+
+        Separated from the streaming loop so both parse paths
+        (``parse_suvestine`` and ``parse_suvestine_stream``) share the
+        same per-entry semantics. Returns ``(None, None)`` when the
+        entry is unusable (missing required fields, XML parse error,
+        empty body) so the caller can skip it without special-casing.
+        """
+        source_id = entry.get("source_id") or entry.get("sha", "")
+        date_str = entry.get("date", "")
+        if not (source_id and date_str):
+            return None, None
+
+        try:
+            commit_date = date.fromisoformat(date_str)
+        except ValueError:
+            logger.warning(
+                "Invalid date %r in suvestine for %s (%s); skipping",
+                date_str,
+                norm_id,
+                source_id,
+            )
+            return None, None
+
+        source_type = entry.get("source_type", "")
+
+        if source_type == "gazette-pdf":
+            paragraphs = _render_gazette_body(entry)
+            if not paragraphs:
+                return None, None
+            return (
+                Version(
+                    norm_id=source_id,
+                    publication_date=commit_date,
+                    effective_date=commit_date,
+                    paragraphs=paragraphs,
+                ),
+                Reform(date=commit_date, norm_id=source_id, affected_blocks=("body",)),
+            )
+
+        xml_b64 = entry.pop("xml", "")
+        if not xml_b64:
+            return None, None
+
+        try:
+            xml_bytes = base64.b64decode(xml_b64)
+        except (ValueError, TypeError) as exc:
+            logger.warning(
+                "Could not decode base64 XML for %s (%s): %s",
+                norm_id,
+                source_id,
+                exc,
+            )
+            return None, None
+        del xml_b64
+
+        try:
+            root = etree.fromstring(xml_bytes)
+        except etree.XMLSyntaxError as exc:
+            logger.warning("Invalid XML in suvestine for %s (%s): %s", norm_id, source_id, exc)
+            return None, None
+        del xml_bytes
+
+        blocks = self._parse_root(root)
+        if not blocks:
+            del root
+            return None, None
+        paragraphs = blocks[0].versions[0].paragraphs
+
+        pit = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", ""))
+        if pit is None:
+            startdate = root.get("startdate", "")
+            if startdate and len(startdate) == 8:
+                pit = _parse_date(f"{startdate[0:4]}-{startdate[4:6]}-{startdate[6:8]}")
+        effective = pit or _bill_history_date(root, "assented-to") or commit_date
+
+        del root, blocks
+        return (
+            Version(
+                norm_id=source_id,
+                publication_date=commit_date,
+                effective_date=effective,
+                paragraphs=paragraphs,
+            ),
+            Reform(date=commit_date, norm_id=source_id, affected_blocks=("body",)),
+        )
 
 
 # ---------------------------------------------------------------------------

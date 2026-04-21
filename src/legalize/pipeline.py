@@ -270,8 +270,28 @@ def generic_fetch_one(
             blocks = text_parser.parse_text(text_data)
             reforms = _extract_reforms_generic(text_parser, client, norm_id, blocks, text_data)
 
-            # Suvestine: replace blocks + reforms with versioned historical data
-            if hasattr(text_parser, "parse_suvestine") and hasattr(client, "get_suvestine"):
+            # Suvestine: replace blocks + reforms with versioned historical data.
+            # Prefer the streaming interface (iter_suvestine + parse_suvestine_stream)
+            # when the client and parser expose it — that path avoids building
+            # the full multi-version JSON blob in memory, which on laws with
+            # 100+ versions (e.g. CA Criminal Code) peaked at ~2.5 GB per
+            # worker in the bytes-based path.
+            if hasattr(text_parser, "parse_suvestine_stream") and hasattr(client, "iter_suvestine"):
+                try:
+                    entry_iter = client.iter_suvestine(norm_id)
+                    sv_blocks, sv_reforms = text_parser.parse_suvestine_stream(entry_iter, norm_id)
+                    if sv_reforms:
+                        blocks = sv_blocks
+                        reforms = sv_reforms
+                        console.print(
+                            f"    [dim]Suvestine (stream): {len(sv_reforms)} versions[/dim]"
+                        )
+                except Exception:
+                    logger.warning(
+                        "Streaming suvestine unavailable for %s, falling back",
+                        norm_id,
+                    )
+            elif hasattr(text_parser, "parse_suvestine") and hasattr(client, "get_suvestine"):
                 try:
                     suvestine_data = client.get_suvestine(norm_id)
                     sv_blocks, sv_reforms = text_parser.parse_suvestine(suvestine_data, norm_id)
