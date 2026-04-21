@@ -10,7 +10,11 @@ updates when the git clone is not available.
 
 from __future__ import annotations
 
+import base64
+import json
 import logging
+import subprocess
+from datetime import date
 from pathlib import Path
 from typing import TYPE_CHECKING
 
@@ -59,9 +63,15 @@ class JusticeCanadaClient(HttpClient):
     @classmethod
     def create(cls, country_config: CountryConfig) -> JusticeCanadaClient:
         source = country_config.source or {}
+        # xml_dir defaults to {data_dir}/laws-lois-xml so CI can just override
+        # --data-dir and clone the upstream repo into the right place without
+        # editing config.yaml for each environment.
+        xml_dir = source.get("xml_dir", "")
+        if not xml_dir and country_config.data_dir:
+            xml_dir = str(Path(country_config.data_dir) / "laws-lois-xml")
         return cls(
             base_url=source.get("base_url", BASE_URL),
-            xml_dir=source.get("xml_dir", ""),
+            xml_dir=xml_dir,
             data_dir=country_config.data_dir,
             request_timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
             max_retries=source.get("max_retries", DEFAULT_MAX_RETRIES),
@@ -90,6 +100,113 @@ class JusticeCanadaClient(HttpClient):
     def get_metadata(self, norm_id: str) -> bytes:
         """Same data as get_text -- metadata is embedded in the XML."""
         return self.get_text(norm_id)
+
+    def get_suvestine(self, norm_id: str) -> bytes:
+        """Return all historical versions of a norm as a JSON blob.
+
+        Walks ``git log`` of the upstream ``justicecanada/laws-lois-xml``
+        clone for this specific file and emits one entry per commit that
+        touched it. Each entry carries the commit SHA, commit date, and
+        the full XML at that revision (base64-encoded so binary-safe).
+
+        The pipeline hook in ``pipeline.py`` picks this up via
+        ``hasattr(client, "get_suvestine")`` and feeds the blob to
+        ``CATextParser.parse_suvestine`` which turns it into one Block
+        with N Versions + N Reforms — one commit per upstream revision.
+
+        If the upstream clone is not available (e.g. the daily runner
+        didn't clone it), falls back to a single-version blob wrapping
+        the current text so the pipeline degrades gracefully to
+        single-snapshot rather than crashing.
+        """
+        if self._xml_dir is None or not self._xml_dir.exists():
+            logger.warning(
+                "No upstream clone at %s; suvestine falls back to single snapshot",
+                self._xml_dir,
+            )
+            current = self.get_text(norm_id)
+            today = date.today().isoformat()
+            return json.dumps(
+                {
+                    "versions": [
+                        {
+                            "sha": "current",
+                            "date": today,
+                            "xml": base64.b64encode(current).decode("ascii"),
+                        }
+                    ]
+                }
+            ).encode("utf-8")
+
+        rel_path = f"{norm_id}.xml"
+        # List every commit that touched this file, newest first.
+        # --follow tracks renames (unlikely in this repo, but cheap safety).
+        log_result = subprocess.run(
+            [
+                "git",
+                "-C",
+                str(self._xml_dir),
+                "log",
+                "--format=%H %aI",
+                "--follow",
+                "--",
+                rel_path,
+            ],
+            capture_output=True,
+            text=True,
+            timeout=60,
+        )
+        if log_result.returncode != 0:
+            logger.warning(
+                "git log failed for %s: %s — falling back to current", norm_id, log_result.stderr
+            )
+            current = self.get_text(norm_id)
+            today = date.today().isoformat()
+            return json.dumps(
+                {
+                    "versions": [
+                        {
+                            "sha": "current",
+                            "date": today,
+                            "xml": base64.b64encode(current).decode("ascii"),
+                        }
+                    ]
+                }
+            ).encode("utf-8")
+
+        versions: list[dict] = []
+        for line in log_result.stdout.strip().split("\n"):
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split(" ", 1)
+            if len(parts) != 2:
+                continue
+            sha, iso_datetime = parts
+            # `git show SHA:path` writes binary; keep stdout as bytes.
+            show_result = subprocess.run(
+                ["git", "-C", str(self._xml_dir), "show", f"{sha}:{rel_path}"],
+                capture_output=True,
+                timeout=30,
+            )
+            if show_result.returncode != 0:
+                # File may not have existed at this commit (e.g. before creation).
+                # Skip rather than fail the whole norm.
+                continue
+            commit_date = iso_datetime[:10]  # YYYY-MM-DD from ISO timestamp
+            versions.append(
+                {
+                    "sha": sha,
+                    "date": commit_date,
+                    "xml": base64.b64encode(show_result.stdout).decode("ascii"),
+                }
+            )
+
+        # git log yields newest-first; the pipeline expects oldest-first so
+        # commits are written in chronological order (priority #4 in the
+        # playbook: per-file commits in enactment order).
+        versions.reverse()
+        return json.dumps({"versions": versions}).encode("utf-8")
 
 
 def _parse_norm_id(norm_id: str) -> tuple[str, str, str]:

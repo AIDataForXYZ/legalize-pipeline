@@ -453,20 +453,41 @@ countries:
       max_retries: 5
       requests_per_second: 2.0
 
+  li:
+    repo_path: "../countries/li"
+    data_dir: "../countries/data-li"
+    cache_dir: ".cache"
+    # Lilex (gesetze.li) — HTML scraping, no public API.
+    # Catalog: ~3,622 in-force consolidated laws + multiple historical
+    # versions per law (Constitution alone has 41 versions). Each law
+    # needs 1 meta-page fetch + N version-iframe fetches.
+    # Site sits behind Citrix NetScaler with a per-IP redirect-loop
+    # bot defence. Stays under the radar at 2 req/s with 1 outer
+    # worker (the client uses an inner pool of 2 for per-law version
+    # fetches). Total requests for full bootstrap: ~30-40K, projected
+    # ~5-7 hours.
+    max_workers: 1
+    source:
+      base_url: "https://www.gesetze.li"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
+
   ca:
     repo_path: "../countries/ca"
     data_dir: "../countries/data-ca"
     cache_dir: ".cache"
-    # Justice Canada publishes consolidated XML via GitHub repo
-    # (justicecanada/laws-lois-xml). Primary mode: local clone scan.
-    # Fallback: per-file HTTP download at ~1 req/s.
-    # Full bootstrap from local clone: ~5 min (no HTTP needed).
-    # Daily updates: git pull + discover changed files.
-    # ~11,600 norms total (956 acts + 4,845 regs × 2 languages).
-    max_workers: 1
+    # Justice Canada publishes consolidated XML in a public GitHub repo
+    # (justicecanada/laws-lois-xml). Primary mode: local clone scan —
+    # both bootstrap and historical versions come from walking its git log.
+    # Fallback: per-file HTTP download at ~1 req/s when the clone is absent.
+    # Bilingual: English (~5,800 norms in ca-en/) + French (~5,800 in ca-fr/).
+    # Total ~11,600 norms × ~5–50 versions each on average.
+    # xml_dir defaults to {data_dir}/laws-lois-xml; CI overrides via --data-dir.
+    # Local filesystem + no rate limits → parallelize the git log walk aggressively.
+    max_workers: 8
     source:
       base_url: "https://laws-lois.justice.gc.ca"
-      xml_dir: "../countries/data-ca/laws-lois-xml"
       request_timeout: 30
       max_retries: 3
       requests_per_second: 1.0
@@ -514,3 +535,60 @@ countries:
         - "REG_IMPL"
         - "REG_DEL"
         - "REG_FINANC"
+
+  ch:
+    repo_path: "../countries/ch"
+    data_dir: "../countries/data-ch"
+    cache_dir: ".cache"
+    # Fedlex JOLux SPARQL + filestore. Same stack as Luxembourg.
+    # Public, no auth, public domain per URG Art. 5 (Swiss federal law).
+    # Scope v1: Classified Compilation (eli/cc/, ~5,139 laws with DE XML).
+    # Akoma Ntoso 3.0 XML available only for ~5,454 consolidations
+    # (earliest 2011-01-01 for old codes, 2021-01-01 for most laws);
+    # older consolidations exist as PDF/DOC only — tracked via
+    # extra.history_from. DOCX fallback is a v2 follow-up.
+    #
+    # Discovery: paginated SPARQL on jolux:ConsolidationAbstract, cursor-
+    # based paging because Virtuoso caps OFFSET at 10K rows.
+    # Daily discovery: jolux:dateApplicability = target_date.
+    #
+    # At 4 workers x 2 req/s = 8 req/s, full bootstrap projection:
+    #   - ~5,139 SPARQL queries (consolidation listings)
+    #   - ~5,454 XML downloads (~100 KB avg = ~500 MB total)
+    #   - ~10,600 requests → ~22 min raw HTTP, ~1h with parse + commits.
+    max_workers: 4
+    source:
+      sparql_url: "https://fedlex.data.admin.ch/sparqlendpoint"
+      filestore_url: "https://fedlex.data.admin.ch/filestore"
+      language: "de"
+      request_timeout: 30
+      max_retries: 5
+      requests_per_second: 2.0
+
+  uk:
+    repo_path: "../countries/uk"
+    data_dir: "../countries/data-uk"
+    cache_dir: ".cache"
+    # legislation.gov.uk CLML + Atom. Public, OGL v3.0. robots.txt sets
+    # Crawl-delay: 5 but no hard rate limit is documented. We keep each
+    # worker at 1 req/s and run 4 workers — effective 4 req/s, well
+    # under what the service tolerates in practice.
+    # Phase 1 scope: primary legislation only (ukpga, asp, asc, anaw,
+    # mwa, nia) — ~3,971 Acts with ~15K point-in-time versions.
+    # Full bootstrap observed 2026-04-18: ~3h fetch + ~1h commits
+    # (fast-import), producing 38,004 commits across 4 jurisdictions.
+    max_workers: 4
+    source:
+      base_url: "https://www.legislation.gov.uk"
+      request_timeout: 45
+      max_retries: 4
+      requests_per_second: 1.0
+      # Primary-legislation type codes to discover. Secondary legislation
+      # (uksi/ssi/wsi/nisr) is deferred to phase 2.
+      types:
+        - "ukpga"
+        - "asp"
+        - "asc"
+        - "anaw"
+        - "mwa"
+        - "nia"

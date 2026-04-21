@@ -176,9 +176,34 @@ Summary:
 4. Use `lims:pit-date` from XML as `publication_date` (more precise than commit date)
 5. Use commit date as `effective_date` (when the consolidation was published)
 
-**Initial bootstrap:** Use current HEAD only (single-snapshot). Version history
-can be added later by walking git log — the pipeline's per-file ordering rule
-makes this safe.
+**Version strategy — IMPLEMENTED as suvestine walk**
+
+`JusticeCanadaClient.get_suvestine(norm_id)` shells out to `git log --follow
+-- <file>` in the upstream clone, then `git show SHA:<file>` for each
+commit, and packs the result as a JSON blob of
+`{sha, date, base64(xml)}` entries. `CATextParser.parse_suvestine` parses
+each historical XML through the same `_parse_root` used for the current
+snapshot and emits one `Version` per upstream commit on that file. The
+pipeline auto-picks this path via the `hasattr(client, "get_suvestine")`
+hook in `pipeline.py::_fetch_single_norm`, so both bootstrap and daily
+use full history for free.
+
+Per-version mapping:
+- `Version.publication_date` = upstream commit date
+- `Version.effective_date` = `lims:pit-date` from the XML at that commit
+  (more precise), falling back to commit date
+- `Reform.norm_id` = upstream SHA (unique dedup key per revision — the
+  committer's `(Source-Id, Norm-Id)` check skips re-runs safely)
+
+**Why this works cleanly for Canada:**
+- The upstream repo IS the archive; no remote API calls, no rate limits
+- Identifier is stable across versions (`ConsolidatedNumber` never changes)
+- `--follow` tracks any future renames defensively
+- Missing XML at a given commit (file not yet created) is skipped, not fatal
+
+**CI cadence:** `.github/workflows/biweekly-update-ca.yml` runs on the
+2nd and 16th of each month. Full bootstrap runs idempotently: existing
+commits (by SHA key) are skipped, only new upstream revisions land.
 
 ## 0.6 Scope estimate
 
@@ -202,16 +227,35 @@ Use the **git clone** approach (primary source) for bootstrap, not the API.
 The local XML clone provides instant access to all ~11,600 files without
 HTTP overhead. Daily updates via `git pull` are trivial.
 
-### Bilingual handling
+### Bilingual handling — DECIDED
 
-Each law exists as two separate files (English and French). The pipeline
-should produce two norms per law:
-- `ca/A-1.md` (English)
-- `ca-fr/A-1.md` (French)
+Canada's Constitution makes English and French equally authoritative for
+federal law, and `justicecanada/laws-lois-xml` ships each act/regulation
+as two parallel files (`eng/acts/A-1.xml` and `fra/lois/A-1.xml`) sharing
+the same identifier. We therefore emit **both languages symmetrically**
+as separate jurisdictions within a single repo (`legalize-ca`):
 
-Or alternatively:
-- `ca/eng/A-1.md`
-- `ca/fra/A-1.md`
+- `ca-en/A-1.md` — English text (`jurisdiction: "ca-en"`, `country: "ca"`, `extra.lang: "en"`)
+- `ca-fr/A-1.md` — French text (`jurisdiction: "ca-fr"`, `country: "ca"`, `extra.lang: "fr"`)
 
-The exact structure should follow the `norm_to_filepath()` convention.
-Jurisdiction field: `"ca"` for English, `"ca"` with `extra.lang="fra"` for French.
+Nothing is written directly to `ca/`. Neither language is privileged as
+a "default" — the split mirrors the source's layout and matches how Canada
+itself treats the two texts. The `norm_id` prefix (`eng/...` / `fra/...`)
+drives the jurisdiction assignment in `CAMetadataParser`.
+
+Upstream scope (`eng/` + `fra/`, per language):
+- ~956 consolidated acts
+- ~4,845 regulations
+- Total per language: ~5,800 norms
+- **Total across both languages: ~11,600 norms**
+
+**Web-app implication:** `legalize.dev/ca` has no content of its own;
+consumers will need to route to `ca-en` or `ca-fr` (via a language toggle
+or a redirect from the locale). Document this as a web-side follow-up.
+
+**Out of scope for v1 ingestion:**
+- `annual-statutes-lois-annuelles/` — statutes as-enacted per year (bill
+  texts before consolidation). Useful for reconstructing history but
+  redundant with the git-log walk over `eng/acts/*.xml`. Skip for v1.
+- `tops-tdlp/`, `lookup/`, `xslt/` — indices and stylesheets, no
+  legislative content.

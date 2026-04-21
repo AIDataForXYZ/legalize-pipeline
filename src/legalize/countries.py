@@ -192,6 +192,24 @@ REGISTRY: dict[str, dict[str, tuple[str, str]]] = {
         "text_parser": ("legalize.fetcher.eu.parser", "EURLexTextParser"),
         "metadata_parser": ("legalize.fetcher.eu.parser", "EURLexMetadataParser"),
     },
+    "li": {
+        "client": ("legalize.fetcher.li.client", "LilexClient"),
+        "discovery": ("legalize.fetcher.li.discovery", "LilexDiscovery"),
+        "text_parser": ("legalize.fetcher.li.parser", "LilexTextParser"),
+        "metadata_parser": ("legalize.fetcher.li.parser", "LilexMetadataParser"),
+    },
+    "ch": {
+        "client": ("legalize.fetcher.ch.client", "FedlexClient"),
+        "discovery": ("legalize.fetcher.ch.discovery", "FedlexDiscovery"),
+        "text_parser": ("legalize.fetcher.ch.parser", "FedlexTextParser"),
+        "metadata_parser": ("legalize.fetcher.ch.parser", "FedlexMetadataParser"),
+    },
+    "uk": {
+        "client": ("legalize.fetcher.uk.client", "LegislationGovUkClient"),
+        "discovery": ("legalize.fetcher.uk.discovery", "LegislationGovUkDiscovery"),
+        "text_parser": ("legalize.fetcher.uk.parser", "UKTextParser"),
+        "metadata_parser": ("legalize.fetcher.uk.parser", "UKMetadataParser"),
+    },
     "ca": {
         "client": ("legalize.fetcher.ca.client", "JusticeCanadaClient"),
         "discovery": ("legalize.fetcher.ca.discovery", "CADiscovery"),

@@ -2,7 +2,14 @@
 
 Primary mode: scan a local clone of justicecanada/laws-lois-xml to yield
 all act and regulation IDs. Daily mode: use git log to find files changed
-since a given date.
+on a specific date.
+
+Both official languages are ingested: English in ``jurisdiction=ca-en``
+(output path ``ca-en/<id>.md``) and French in ``jurisdiction=ca-fr``
+(``ca-fr/<id>.md``). Canada's two official languages are constitutionally
+equal, so we treat them symmetrically rather than privileging one as
+``ca/``. The parser derives the language from the ``norm_id`` prefix
+(``eng/...`` vs ``fra/...``).
 """
 
 from __future__ import annotations
@@ -10,14 +17,16 @@ from __future__ import annotations
 import logging
 import subprocess
 from collections.abc import Iterator
-from datetime import date
+from datetime import date, timedelta
 
 from legalize.fetcher.base import LegislativeClient, NormDiscovery
 from legalize.fetcher.ca.client import JusticeCanadaClient
 
 logger = logging.getLogger(__name__)
 
-# Directories to scan in the laws-lois-xml clone.
+# Directories to scan in the laws-lois-xml clone, with the norm_id prefix
+# to emit. English and French are both ingested; the prefix encodes the
+# language, which the parser maps to jurisdiction ``ca-en`` / ``ca-fr``.
 _SCAN_DIRS: list[tuple[str, str]] = [
     ("eng/acts", "eng/acts"),
     ("eng/regulations", "eng/regulations"),
@@ -62,21 +71,23 @@ class CADiscovery(NormDiscovery):
     def discover_daily(
         self, client: LegislativeClient, target_date: date, **kwargs
     ) -> Iterator[str]:
-        """Yield norm_ids for files changed on or after target_date.
+        """Yield norm_ids for files changed exactly on target_date.
 
-        Uses git log on the local clone to find changed XML files.
-        Falls back to discover_all if git is not available.
+        Scopes ``git log`` to the single-day window
+        ``[target_date 00:00, target_date + 1 day)``. Using ``--since``
+        alone would be cumulative (every commit since that date), which
+        duplicates norms when generic_daily iterates over a range of
+        past dates during backfill.
         """
         assert isinstance(client, JusticeCanadaClient)
         xml_dir = client._xml_dir
 
         if xml_dir is None or not xml_dir.exists():
-            logger.warning("No xml_dir for daily discovery; falling back to discover_all")
-            yield from self.discover_all(client, **kwargs)
+            logger.warning("No xml_dir for daily discovery; skipping")
             return
 
-        # Use git diff to find changed files since target_date.
-        date_str = target_date.isoformat()
+        since = target_date.isoformat()
+        until = (target_date + timedelta(days=1)).isoformat()
         try:
             result = subprocess.run(
                 [
@@ -84,7 +95,8 @@ class CADiscovery(NormDiscovery):
                     "-C",
                     str(xml_dir),
                     "log",
-                    f"--since={date_str}",
+                    f"--since={since} 00:00:00",
+                    f"--until={until} 00:00:00",
                     "--name-only",
                     "--pretty=format:",
                     "--diff-filter=ACMR",
@@ -98,8 +110,8 @@ class CADiscovery(NormDiscovery):
                 return
 
             seen: set[str] = set()
-            for line in result.stdout.strip().split("\n"):
-                line = line.strip()
+            for raw_line in result.stdout.strip().split("\n"):
+                line = raw_line.strip()
                 if not line or not line.endswith(".xml"):
                     continue
                 # Convert file path to norm_id: "eng/acts/A-1.xml" → "eng/acts/A-1"
@@ -110,7 +122,7 @@ class CADiscovery(NormDiscovery):
                         seen.add(norm_id)
                         yield norm_id
 
-            logger.info("Daily discovery found %d changed norms since %s", len(seen), date_str)
+            logger.info("Daily discovery found %d changed norms on %s", len(seen), since)
 
         except (subprocess.TimeoutExpired, FileNotFoundError) as exc:
             logger.warning("git not available for daily discovery: %s", exc)

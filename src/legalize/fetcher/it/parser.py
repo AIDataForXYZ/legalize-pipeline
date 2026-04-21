@@ -16,6 +16,7 @@ from typing import Any
 from lxml import html as lxml_html
 
 from legalize.fetcher.base import MetadataParser, TextParser
+from legalize.fetcher.it.client import TIPO_TO_CODE, URN_TYPE_MAP
 from legalize.models import Block, NormMetadata, NormStatus, Paragraph, Rank, Version
 
 logger = logging.getLogger(__name__)
@@ -396,7 +397,12 @@ def _parse_vigenza_date(s: str) -> date | None:
     if len(s) != 8:
         return None
     try:
-        return date(int(s[:4]), int(s[4:6]), int(s[6:8]))
+        parsed = date(int(s[:4]), int(s[4:6]), int(s[6:8]))
+        # Reject far-future dates — sentinel values other than 99999999
+        # (matches the guard used by ES and FR parsers)
+        if parsed.year > 2100:
+            return None
+        return parsed
     except ValueError:
         return None
 
@@ -614,6 +620,10 @@ RANK_MAP: dict[str, str] = {
     "DECRETO DEL CAPO DEL GOVERNO": "decreto_capo_governo",
     "DECRETO DEL DUCE DEL FASCISMO, CAPO DEL GOVERNO": "decreto_duce_fascismo",
     "DECRETO PRESIDENZIALE": "decreto_presidenziale",
+    "DECRETO DEL CAPO DEL GOVERNO, PRIMO MINISTRO SEGRETARIO DI STATO": "decreto_capo_governo_primo_ministro",
+    "DETERMINAZIONE DEL COMMISSARIO PER LE FINANZE": "determinazione_commissario_finanze",
+    "DETERMINAZIONE DEL COMMISSARIO PER LA PRODUZIONE BELLICA": "determinazione_commissario_produzione_bellica",
+    "DETERMINAZIONE INTERCOMMISSARIALE": "determinazione_intercommissariale",
 }
 
 
@@ -661,10 +671,12 @@ class NormattivaMetadataParser(MetadataParser):
         # otherwise default to in_force
         status = NormStatus.IN_FORCE
 
-        # Source URL (ELI)
-        tipo_code = atto.get("tipoProvvedimentoCodice", "")
+        # Source URL — use URN_TYPE_MAP (dot-separated) for valid Normattiva URNs.
+        # RANK_MAP values use underscores (for frontmatter), but URNs require dots.
+        tipo_code = atto.get("tipoProvvedimentoCodice", "") or TIPO_TO_CODE.get(tipo_desc, "")
         numero = atto.get("numeroProvvedimento", 0)
-        source_url = f"https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:{RANK_MAP.get(tipo_desc, 'legge')}:{pub_date.isoformat()};{numero}"
+        urn_type = URN_TYPE_MAP.get(tipo_code, "legge")
+        source_url = f"https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:{urn_type}:{pub_date.isoformat()};{numero}"
 
         # Extra fields
         extra: list[tuple[str, str]] = []

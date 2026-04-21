@@ -28,6 +28,7 @@ from pathlib import Path
 import requests
 
 from legalize.config import Config
+from legalize.fetcher.it.client import TIPO_TO_CODE
 from legalize.models import ParsedNorm, Reform
 from legalize.pipeline import (
     commit_all_fast,
@@ -64,22 +65,6 @@ BULK_COLLECTIONS = [
 
 API_BASE = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1"
 
-TIPO_TO_CODE = {
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA": "PPR",
-    "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI": "PCM_DPC",
-    "DECRETO LEGISLATIVO": "PLL",
-    "DECRETO": "DCT",
-    "LEGGE COSTITUZIONALE": "PLC",
-    "DECRETO-LEGGE": "PDL",
-    "LEGGE": "PLE",
-    "REGIO DECRETO": "PRD",
-    "REGIO DECRETO-LEGGE": "PRL",
-    "DECRETO LUOGOTENENZIALE": "PLU",
-    "REGIO DECRETO LEGISLATIVO": "RDL",
-    "DECRETO LEGISLATIVO LUOGOTENENZIALE": "PLG",
-    "COSTITUZIONE": "COS",
-}
-
 FNAME_RE = re.compile(
     r"(\d{4}-\d{2}-\d{2})_([A-Z0-9]+)_(ORIGINALE|VIGENZA)"
     r"(?:_(\d{4}-\d{2}-\d{2}))?_V(\d+)\.html"
@@ -115,7 +100,7 @@ def bootstrap(
 
     # Phase 2: Version-walk remaining acts via API
     console.print("\n[bold]Phase 2: API version-walking for uncovered acts[/bold]\n")
-    phase2_acts = _version_walk_remaining(data_dir, json_dir, discovery_meta, limit=limit)
+    phase2_acts = _version_walk_remaining(config, data_dir, json_dir, discovery_meta, limit=limit)
 
     total_fetched = phase1_acts + phase2_acts
     console.print(f"\n[bold green]✓ {total_fetched} norms fetched[/bold green]\n")
@@ -142,11 +127,17 @@ def _download_and_process_collections(data_dir: Path, json_dir: Path, discovery_
     mp = NormattivaMetadataParser()
     total = 0
 
+    # Clean up stale empty ZIPs from previous broken runs
+    for stale in data_dir.glob("*-multi.zip"):
+        if stale.stat().st_size < 100:
+            stale.unlink()
+            logger.info("Removed stale empty ZIP: %s", stale.name)
+
     for col_name in BULK_COLLECTIONS:
         zip_path = data_dir / f"{col_name.replace(' ', '_')}-multi.zip"
 
         # Download if not already cached
-        if not zip_path.exists() or zip_path.stat().st_size < 100:
+        if not zip_path.exists():
             console.print(f"  Downloading [bold]{col_name}[/bold] multivigente...")
             url = (
                 f"{API_BASE}/collections/download/collection-preconfezionata"
@@ -166,9 +157,17 @@ def _download_and_process_collections(data_dir: Path, json_dir: Path, discovery_
                     for chunk in r.iter_content(chunk_size=1024 * 1024):
                         f.write(chunk)
                         downloaded += len(chunk)
+                if downloaded == 0:
+                    logger.warning(
+                        "Collection %s returned 0 bytes — endpoint may be offline", col_name
+                    )
+                    console.print("    [yellow]0 bytes — skipping (endpoint offline?)[/yellow]")
+                    zip_path.unlink(missing_ok=True)
+                    continue
                 console.print(f"    {downloaded / 1024 / 1024:.1f} MB downloaded")
             except Exception as e:
                 console.print(f"    [red]Download failed: {e}[/red]")
+                logger.warning("Download failed for collection %s: %s", col_name, e)
                 continue
 
         # Verify ZIP
@@ -176,6 +175,7 @@ def _download_and_process_collections(data_dir: Path, json_dir: Path, discovery_
             zf = zipfile.ZipFile(zip_path)
         except Exception:
             console.print(f"    [red]Invalid ZIP: {zip_path.name}[/red]")
+            logger.warning("Invalid ZIP file: %s", zip_path.name, exc_info=True)
             continue
 
         # Process HTML versions
@@ -183,6 +183,10 @@ def _download_and_process_collections(data_dir: Path, json_dir: Path, discovery_
         total += acts_in_zip
         console.print(f"    [green]✓[/green] {col_name}: {acts_in_zip} acts")
         zf.close()
+
+    if total == 0:
+        console.print("[yellow]Phase 1 yielded 0 acts — all collections empty or failed[/yellow]")
+        logger.warning("Phase 1 yielded 0 acts — falling through to Phase 2 as primary path")
 
     return total
 
@@ -293,8 +297,8 @@ def _build_norm(
                         affected_blocks=(),
                     )
                 )
-            except Exception:
-                pass
+            except (ValueError, IndexError) as e:
+                logger.warning("Malformed version date %r for %s: %s", v.get("date"), codice, e)
         if not reforms:
             reforms = [Reform(date=metadata.publication_date, norm_id=codice, affected_blocks=())]
 
@@ -305,14 +309,18 @@ def _build_norm(
 
 
 def _version_walk_remaining(
+    config: Config,
     data_dir: Path,
     json_dir: Path,
     discovery_meta: dict,
     limit: int | None = None,
 ) -> int:
-    """Version-walk acts not covered by bulk collections via URN API."""
+    """Version-walk acts not covered by bulk collections via URN API.
+
+    Probes articles 1, 2, and 5 of each law to discover reform dates
+    across different parts of the act, not just Art. 1.
+    """
     import time
-    from datetime import timedelta
 
     from legalize.fetcher.it.client import NormattivaClient, _act_to_urn
     from legalize.fetcher.it.parser import (
@@ -335,7 +343,7 @@ def _version_walk_remaining(
                         if m:
                             covered.add(m.group(2))
         except Exception:
-            pass
+            logger.warning("Could not read ZIP for covered-set: %s", zp.name, exc_info=True)
 
     # Find acts that need API version-walking
     need_api = [
@@ -352,14 +360,14 @@ def _version_walk_remaining(
     if not need_api:
         return 0
 
-    # Use the client for API calls
-    from legalize.config import Config
-
-    config = Config.from_yaml()
     cc = config.get_country("it")
-
     total = 0
     errors = 0
+
+    # Probe multiple articles to discover reform dates across the law.
+    # Art. 1 = general provisions (often unamended), Art. 2/5 = substantive
+    # provisions that catch amendments Art. 1 misses.
+    probe_articles = ["1", "2", "5"]
 
     with NormattivaClient.create(cc) as client:
         for i, (codice, act) in enumerate(need_api):
@@ -371,66 +379,51 @@ def _version_walk_remaining(
                 errors += 1
                 continue
 
-            # Fetch @originale
-            resp = client._fetch_urn(f"{urn}~art1@originale")
-            if not resp or not resp.get("data", {}).get("atto"):
+            # Probe multiple articles to collect all reform dates
+            all_version_dates: set[str] = set()
+            latest_html = ""
+
+            for art_num in probe_articles:
+                try:
+                    versions = client.walk_article_versions(urn, art_num)
+                except Exception:
+                    continue
+                for v in versions:
+                    inizio = v.get("vigenza_inizio", "")
+                    if inizio:
+                        all_version_dates.add(inizio)
+                if not latest_html and versions:
+                    latest_html = versions[-1].get("html", "")
+
+            # Fallback: fetch base URN for current text if no article worked
+            if not latest_html:
                 resp = client._fetch_urn(urn)
-            if not resp or not resp.get("data", {}).get("atto"):
+                if resp and resp.get("data", {}).get("atto"):
+                    atto = resp["data"]["atto"]
+                    latest_html = atto.get("articoloHtml", "")
+                    inizio = atto.get("articoloDataInizioVigenza", "")
+                    if inizio:
+                        all_version_dates.add(inizio)
+
+            if not latest_html and not all_version_dates:
                 errors += 1
                 time.sleep(0.5)
                 continue
 
-            atto = resp["data"]["atto"]
-            versions = [
-                {
-                    "date": atto.get("articoloDataInizioVigenza", ""),
-                    "fine": atto.get("articoloDataFineVigenza", ""),
-                }
-            ]
+            # Build reforms from collected dates
+            reforms = []
+            for ds in sorted(all_version_dates):
+                d = _parse_vigenza_date(ds)
+                if d:
+                    reforms.append(Reform(date=d, norm_id=codice, affected_blocks=()))
 
-            # Walk forward
-            while (
-                versions[-1]["fine"] and versions[-1]["fine"] != "99999999" and len(versions) < 50
-            ):
-                fine = versions[-1]["fine"]
-                if len(fine) != 8:
-                    break
-                try:
-                    d = date(int(fine[:4]), int(fine[4:6]), int(fine[6:8])) + timedelta(days=1)
-                except ValueError:
-                    break
-                r = client._fetch_urn(f"{urn}~art1!vig={d.strftime('%Y-%m-%d')}")
-                if not r or not r.get("data", {}).get("atto"):
-                    break
-                a2 = r["data"]["atto"]
-                if not a2.get("articoloHtml"):
-                    break
-                versions.append(
-                    {
-                        "date": a2.get("articoloDataInizioVigenza", ""),
-                        "fine": a2.get("articoloDataFineVigenza", ""),
-                    }
-                )
-                time.sleep(0.5)
-
-            # Build reforms from version dates
-            reforms = [
-                Reform(
-                    date=_parse_vigenza_date(v["date"]),
-                    norm_id=codice,
-                    affected_blocks=(),
-                )
-                for v in versions
-                if _parse_vigenza_date(v["date"])
-            ]
-
-            # Use the latest API response for text
+            # Build atto dict for parser
             gu = act.get("dataGU", "")
             gp = gu.split("-") if gu and len(gu) >= 10 else ["0", "0", "0"]
             atto_out = {
                 "titolo": act.get("descrizioneAtto", ""),
                 "sottoTitolo": act.get("titoloAtto", ""),
-                "articoloHtml": atto.get("articoloHtml", ""),
+                "articoloHtml": latest_html,
                 "tipoProvvedimentoDescrizione": act.get("denominazioneAtto", ""),
                 "tipoProvvedimentoCodice": TIPO_TO_CODE.get(act.get("denominazioneAtto", ""), ""),
                 "annoProvvedimento": int(act.get("annoProvvedimento", 0) or 0),
@@ -469,6 +462,7 @@ def _version_walk_remaining(
                 )
                 total += 1
             except Exception:
+                logger.warning("Failed to parse/save %s", codice, exc_info=True)
                 errors += 1
 
             if total % 500 == 0 and total > 0:

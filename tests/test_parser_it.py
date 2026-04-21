@@ -8,7 +8,9 @@ from pathlib import Path
 
 
 from legalize.countries import get_metadata_parser, get_text_parser
+from legalize.fetcher.it.client import TIPO_TO_CODE, URN_TYPE_MAP
 from legalize.fetcher.it.parser import (
+    RANK_MAP,
     NormattivaMetadataParser,
     NormattivaTextParser,
     _clean,
@@ -76,6 +78,15 @@ class TestVigenzaDate:
 
     def test_empty(self):
         assert _parse_vigenza_date("") is None
+
+    def test_far_future_sentinel_rejected(self):
+        """Dates beyond year 2100 are treated as sentinel values."""
+        assert _parse_vigenza_date("21010101") is None
+        assert _parse_vigenza_date("29991231") is None
+
+    def test_near_future_accepted(self):
+        """Laws with future effective dates (e.g. 2027) are legitimate."""
+        assert _parse_vigenza_date("20270101") == date(2027, 1, 1)
 
 
 # ─────────────────────────────────────────────
@@ -283,6 +294,12 @@ class TestMetadataOrdinaryLaw:
     def test_source_url(self):
         assert "normattiva.it" in self.meta.source
 
+    def test_source_url_uses_dots_not_underscores(self):
+        """Source URL must use dot-separated URN types, not underscored rank values."""
+        # A "legge" is the same either way, so check a more distinctive type
+        assert "urn:nir:stato:legge:" in self.meta.source
+        assert "legge_" not in self.meta.source  # no underscores in URN
+
     def test_extra_has_act_type_code(self):
         extra_dict = dict(self.meta.extra)
         assert extra_dict.get("act_type_code") == "PLE"
@@ -311,6 +328,11 @@ class TestMetadataRegulation:
     def test_publication_date(self):
         assert self.meta.publication_date == date(2006, 4, 3)
 
+    def test_source_url_uses_dots_for_decreto_legislativo(self):
+        """D.Lgs. source URL must use 'decreto.legislativo' (dots), not 'decreto_legislativo'."""
+        assert "decreto.legislativo" in self.meta.source
+        assert "decreto_legislativo" not in self.meta.source
+
     def test_extra_has_supplement(self):
         extra_dict = dict(self.meta.extra)
         assert extra_dict.get("supplement_type") == "SO"
@@ -326,6 +348,11 @@ class TestMetadataCodiceCivile:
 
     def test_publication_date(self):
         assert self.meta.publication_date == date(1942, 3, 16)
+
+    def test_source_url_uses_dots_for_regio_decreto(self):
+        """Regio Decreto source URL must use 'regio.decreto' (dots), not 'regio_decreto'."""
+        assert "regio.decreto" in self.meta.source
+        assert "regio_decreto" not in self.meta.source
 
 
 # ─────────────────────────────────────────────
@@ -436,3 +463,83 @@ class TestAsciiTable:
         result = _extract_ascii_table(el)
         assert "| A | B |" in result
         assert "| 1 | 2 |" in result
+
+
+# ─────────────────────────────────────────────
+# Act type mapping completeness
+# ─────────────────────────────────────────────
+
+# All 30 denomination codes returned by the Normattiva Open Data API
+# endpoint /tipologiche/denominazione-atto (fetched 2026-04-13).
+NORMATTIVA_API_CODES = [
+    "COS",
+    "DCT",
+    "PCG",
+    "3NA",
+    "PCS",
+    "DDD",
+    "FAC",
+    "PCM_DPC",
+    "PPR",
+    "PDL",
+    "DLL",
+    "PLL",
+    "DCS",
+    "PLG",
+    "PZP",
+    "PLU",
+    "PDM",
+    "DPP",
+    "SNI",
+    "DEL",
+    "GRC",
+    "DPB",
+    "8ZL",
+    "PLE",
+    "PLC",
+    "POR",
+    "PRD",
+    "PRL",
+    "RDL",
+    "D10",
+]
+
+
+class TestActTypeMappings:
+    def test_all_api_codes_in_urn_type_map(self):
+        """Every denomination code from the Normattiva API has a URN mapping."""
+        for code in NORMATTIVA_API_CODES:
+            assert code in URN_TYPE_MAP, f"Missing URN mapping for code: {code}"
+
+    def test_all_api_codes_in_tipo_to_code(self):
+        """Every denomination code from the Normattiva API has a reverse mapping."""
+        mapped_codes = set(TIPO_TO_CODE.values())
+        for code in NORMATTIVA_API_CODES:
+            assert code in mapped_codes, f"No description→code mapping produces: {code}"
+
+    def test_all_tipo_descriptions_in_rank_map(self):
+        """Every denomination description in TIPO_TO_CODE also has a RANK_MAP entry."""
+        for desc in TIPO_TO_CODE:
+            assert desc in RANK_MAP, f"Missing RANK_MAP entry for: {desc}"
+
+    def test_rank_format(self):
+        """Rank values must be lowercase with underscores, no spaces."""
+        for desc, rank in RANK_MAP.items():
+            assert rank == rank.lower(), f"Rank for '{desc}' not lowercase: {rank}"
+            assert " " not in rank, f"Rank for '{desc}' contains spaces: {rank}"
+
+    def test_tipo_to_code_and_urn_type_map_same_codes(self):
+        """TIPO_TO_CODE values and URN_TYPE_MAP keys must cover the same codes."""
+        tipo_codes = set(TIPO_TO_CODE.values())
+        urn_codes = set(URN_TYPE_MAP.keys())
+        assert tipo_codes == urn_codes, (
+            f"Mismatch — in TIPO_TO_CODE but not URN_TYPE_MAP: {tipo_codes - urn_codes}, "
+            f"in URN_TYPE_MAP but not TIPO_TO_CODE: {urn_codes - tipo_codes}"
+        )
+
+    def test_historical_act_types(self):
+        """Pre-republican and transitional act types are correctly categorized."""
+        assert RANK_MAP["REGIO DECRETO"] == "regio_decreto"
+        assert RANK_MAP["DECRETO DEL CAPO PROVVISORIO DELLO STATO"] == "decreto_capo_provvisorio"
+        assert RANK_MAP["DECRETO DEL DUCE"] == "decreto_duce"
+        assert RANK_MAP["DETERMINAZIONE INTERCOMMISSARIALE"] == "determinazione_intercommissariale"
