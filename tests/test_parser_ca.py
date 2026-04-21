@@ -434,7 +434,9 @@ class TestCASuvestine:
         from legalize.fetcher.ca.client import JusticeCanadaClient
 
         repo = self._build_upstream_repo(tmp_path)
-        client = JusticeCanadaClient(xml_dir=str(repo))
+        # Disable Wayback so the test doesn't depend on a live internet
+        # connection — we're verifying the git-log → parse roundtrip only.
+        client = JusticeCanadaClient(xml_dir=str(repo), wayback_enabled=False)
         parser = CATextParser()
 
         blob = client.get_suvestine("eng/acts/B-9.8")
@@ -469,4 +471,5 @@ class TestCASuvestine:
 
         data = json.loads(blob)
         assert len(data["versions"]) == 1
-        assert data["versions"][0]["sha"] == "current"
+        assert data["versions"][0]["source_id"] == "current"
+        assert data["versions"][0]["source_type"] == "http-current"

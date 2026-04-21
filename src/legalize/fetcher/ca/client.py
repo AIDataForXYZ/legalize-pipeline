@@ -6,6 +6,30 @@ Fallback mode: download individual XML files via HTTPS.
 The local clone is strongly preferred for bootstrap (instant access to all
 ~11,600 files without HTTP overhead). The HTTP fallback exists for daily
 updates when the git clone is not available.
+
+Suvestine (version timeline) sources
+------------------------------------
+
+``get_suvestine(norm_id)`` returns a chronologically-sorted JSON blob
+that merges every known version of a law from up to four sources:
+
+- ``upstream-git`` — the commit history of ``justicecanada/laws-lois-xml``
+  (covers 2021-02-26 to today). Consolidated XML per commit.
+- ``annual-statute`` — bill XMLs from
+  ``annual-statutes-lois-annuelles/{en,fr}/{year}/{year}-c{N}_{E,F}.xml``
+  (covers 2001 to today). Amendment bills as-enacted, not consolidated.
+  Attached only to norms whose title appears in the bill title (primary
+  attribution, see :class:`AnnualStatuteIndex`).
+- ``wayback-xml`` (future) — Wayback Machine snapshots of the XML API
+  (covers 2011-05 to 2021-02). Same consolidated format as upstream.
+- ``gazette-pdf`` (future) — Canada Gazette Part III PDF segments
+  (covers 1974 to 2000). Bill as-enacted, extracted by OCR.
+
+Each version carries ``source_type`` so the parser can route to the right
+renderer. Pre-2011 versions (annual-statute / gazette-pdf) emit amendment-
+bill bodies; 2011+ versions emit consolidated bodies. This is the hard
+boundary — see RESEARCH-CA-HISTORY.md for why consolidated text is not
+available pre-2011.
 """
 
 from __future__ import annotations
@@ -19,6 +43,17 @@ from pathlib import Path
 from typing import TYPE_CHECKING
 
 from legalize.fetcher.base import HttpClient
+from legalize.fetcher.ca.annual_statute_index import (
+    AnnualStatuteIndex,
+    load_or_build_annual_statute_index,
+)
+from legalize.fetcher.ca.gazette_index import (
+    GazetteIndex,
+    GazetteRef,
+    load_or_build_gazette_index,
+)
+from legalize.fetcher.ca.title_index import load_or_build_title_index
+from legalize.fetcher.ca.wayback_client import WaybackClient
 
 if TYPE_CHECKING:
     from legalize.config import CountryConfig
@@ -50,6 +85,8 @@ class JusticeCanadaClient(HttpClient):
         request_timeout: int = DEFAULT_TIMEOUT,
         max_retries: int = DEFAULT_MAX_RETRIES,
         requests_per_second: float = DEFAULT_RPS,
+        wayback_enabled: bool = True,
+        wayback_categories: tuple[str, ...] = ("eng/acts", "fra/lois"),
     ) -> None:
         super().__init__(
             base_url=base_url,
@@ -59,6 +96,19 @@ class JusticeCanadaClient(HttpClient):
         )
         self._xml_dir = Path(xml_dir) if xml_dir else None
         self._data_dir = Path(data_dir) if data_dir else Path(".")
+        # Lazy-loaded indices. Built on first suvestine call and cached for
+        # the life of the client — they're heavy to rebuild (~8s) but
+        # stable across all norms in a single bootstrap run.
+        self._annual_statute_idx: AnnualStatuteIndex | None = None
+        # Wayback: opt-in per-category so bootstrap can include acts
+        # (2011-2021 history is high-value) without pulling 4,845 regulation
+        # snapshot trees (diminishing return, ~10 GB).
+        self._wayback_enabled = wayback_enabled
+        self._wayback_categories = wayback_categories
+        self._wayback_client: WaybackClient | None = None
+        # Gazette PDF: only used if the PDF cache exists on disk and is
+        # non-empty. The first bootstrap call triggers a lazy scan.
+        self._gazette_idx: GazetteIndex | None = None
 
     @classmethod
     def create(cls, country_config: CountryConfig) -> JusticeCanadaClient:
@@ -76,6 +126,8 @@ class JusticeCanadaClient(HttpClient):
             request_timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
             max_retries=source.get("max_retries", DEFAULT_MAX_RETRIES),
             requests_per_second=source.get("requests_per_second", DEFAULT_RPS),
+            wayback_enabled=source.get("wayback_enabled", True),
+            wayback_categories=tuple(source.get("wayback_categories", ("eng/acts", "fra/lois"))),
         )
 
     # -- LegislativeClient interface ------------------------------------------
@@ -101,46 +153,38 @@ class JusticeCanadaClient(HttpClient):
         """Same data as get_text -- metadata is embedded in the XML."""
         return self.get_text(norm_id)
 
-    def get_suvestine(self, norm_id: str) -> bytes:
-        """Return all historical versions of a norm as a JSON blob.
+    # -- Suvestine -----------------------------------------------------------
 
-        Walks ``git log`` of the upstream ``justicecanada/laws-lois-xml``
-        clone for this specific file and emits one entry per commit that
-        touched it. Each entry carries the commit SHA, commit date, and
-        the full XML at that revision (base64-encoded so binary-safe).
+    def _annual_statute_index(self) -> AnnualStatuteIndex | None:
+        """Build (or reuse) the annual-statute cross-reference index.
 
-        The pipeline hook in ``pipeline.py`` picks this up via
-        ``hasattr(client, "get_suvestine")`` and feeds the blob to
-        ``CATextParser.parse_suvestine`` which turns it into one Block
-        with N Versions + N Reforms — one commit per upstream revision.
-
-        If the upstream clone is not available (e.g. the daily runner
-        didn't clone it), falls back to a single-version blob wrapping
-        the current text so the pipeline degrades gracefully to
-        single-snapshot rather than crashing.
+        Returns ``None`` if the upstream clone isn't present — in that case
+        the suvestine falls back to git-log-only behavior.
         """
+        if self._annual_statute_idx is not None:
+            return self._annual_statute_idx
         if self._xml_dir is None or not self._xml_dir.exists():
-            logger.warning(
-                "No upstream clone at %s; suvestine falls back to single snapshot",
-                self._xml_dir,
+            return None
+        try:
+            title_idx = load_or_build_title_index(self._xml_dir, self._data_dir)
+            self._annual_statute_idx = load_or_build_annual_statute_index(
+                self._xml_dir, title_idx, self._data_dir
             )
-            current = self.get_text(norm_id)
-            today = date.today().isoformat()
-            return json.dumps(
-                {
-                    "versions": [
-                        {
-                            "sha": "current",
-                            "date": today,
-                            "xml": base64.b64encode(current).decode("ascii"),
-                        }
-                    ]
-                }
-            ).encode("utf-8")
+        except FileNotFoundError as exc:
+            logger.warning("Annual-statute index unavailable: %s", exc)
+            return None
+        return self._annual_statute_idx
 
+    def _git_log_versions(self, norm_id: str) -> list[dict]:
+        """Walk upstream git log for ``{norm_id}.xml`` and return versions.
+
+        Each version is a dict with ``source_type`` ``"upstream-git"``,
+        the commit SHA as ``source_id``, the commit date, and the full XML
+        at that revision (base64-encoded).
+        """
+        if self._xml_dir is None:
+            return []
         rel_path = f"{norm_id}.xml"
-        # List every commit that touched this file, newest first.
-        # --follow tracks renames (unlikely in this repo, but cheap safety).
         log_result = subprocess.run(
             [
                 "git",
@@ -157,24 +201,10 @@ class JusticeCanadaClient(HttpClient):
             timeout=60,
         )
         if log_result.returncode != 0:
-            logger.warning(
-                "git log failed for %s: %s — falling back to current", norm_id, log_result.stderr
-            )
-            current = self.get_text(norm_id)
-            today = date.today().isoformat()
-            return json.dumps(
-                {
-                    "versions": [
-                        {
-                            "sha": "current",
-                            "date": today,
-                            "xml": base64.b64encode(current).decode("ascii"),
-                        }
-                    ]
-                }
-            ).encode("utf-8")
+            logger.warning("git log failed for %s: %s", norm_id, log_result.stderr)
+            return []
 
-        versions: list[dict] = []
+        out: list[dict] = []
         for line in log_result.stdout.strip().split("\n"):
             line = line.strip()
             if not line:
@@ -183,30 +213,272 @@ class JusticeCanadaClient(HttpClient):
             if len(parts) != 2:
                 continue
             sha, iso_datetime = parts
-            # `git show SHA:path` writes binary; keep stdout as bytes.
             show_result = subprocess.run(
                 ["git", "-C", str(self._xml_dir), "show", f"{sha}:{rel_path}"],
                 capture_output=True,
                 timeout=30,
             )
             if show_result.returncode != 0:
-                # File may not have existed at this commit (e.g. before creation).
-                # Skip rather than fail the whole norm.
                 continue
-            commit_date = iso_datetime[:10]  # YYYY-MM-DD from ISO timestamp
-            versions.append(
+            commit_date = iso_datetime[:10]
+            out.append(
                 {
-                    "sha": sha,
+                    "source_type": "upstream-git",
+                    "source_id": sha,
                     "date": commit_date,
                     "xml": base64.b64encode(show_result.stdout).decode("ascii"),
                 }
             )
+        # git log yields newest-first; reverse to oldest-first for the pipeline.
+        out.reverse()
+        return out
 
-        # git log yields newest-first; the pipeline expects oldest-first so
-        # commits are written in chronological order (priority #4 in the
-        # playbook: per-file commits in enactment order).
-        versions.reverse()
-        return json.dumps({"versions": versions}).encode("utf-8")
+    def _gazette_index(self) -> GazetteIndex | None:
+        """Build (or reuse) the Gazette PDF cross-reference index.
+
+        Returns ``None`` if the PDF cache is absent — the first bootstrap
+        run skips gazette entirely unless the operator has populated
+        ``{data_dir}/gazette-pdf/`` via ``GazetteClient.fetch_range``.
+        """
+        if self._gazette_idx is not None:
+            return self._gazette_idx
+        pdf_root = self._data_dir / "gazette-pdf"
+        if not pdf_root.is_dir():
+            return None
+        try:
+            title_idx = load_or_build_title_index(self._xml_dir, self._data_dir)  # type: ignore[arg-type]
+        except (FileNotFoundError, TypeError):
+            return None
+        self._gazette_idx = load_or_build_gazette_index(pdf_root, title_idx, self._data_dir)
+        return self._gazette_idx
+
+    def _gazette_versions(self, norm_id: str) -> list[dict]:
+        """Return Gazette-PDF chapter events attributed to ``norm_id``.
+
+        Each entry carries the raw extracted body text (per language) plus
+        metadata. The parser wraps the text as amendment-event paragraphs
+        rather than feeding it through the XML renderer — there's no
+        structured XML to route through when the source is a PDF.
+        """
+        idx = self._gazette_index()
+        if idx is None:
+            return []
+        refs = idx.refs_for(norm_id)
+        if not refs:
+            return []
+
+        out: list[dict] = []
+        _, _, lang_code = _lang_for_norm(norm_id)
+        for ref in refs:
+            body = self._gazette_body_for(ref, lang_code)
+            if not body:
+                continue
+            out.append(
+                {
+                    "source_type": "gazette-pdf",
+                    "source_id": f"gazette-{ref.year}-c{ref.chapter}",
+                    "date": ref.assent_date,
+                    "body_text": body,
+                    "bill_number": ref.bill_number,
+                    "amending_title": (ref.title_en if lang_code == "en" else ref.title_fr),
+                    "gazette_pdf_path": ref.pdf_path,
+                    "ocr_confidence": ref.ocr_confidence,
+                }
+            )
+        return out
+
+    def _gazette_body_for(self, ref: GazetteRef, lang: str) -> str:
+        """Extract and return the body text for one chapter in one language.
+
+        Re-reads the PDF from cache and re-segments it — the on-disk index
+        stores only metadata + page ranges, not the bulky body text. This
+        keeps the index JSON tiny (a few hundred KB instead of tens of MB)
+        while still giving callers fast per-norm lookup.
+        """
+        from legalize.fetcher.ca.gazette_segmenter import segment
+        from legalize.fetcher.ca.pdf_extractor import extract_text_from_pdf
+
+        pdf_path = self._data_dir / ref.pdf_path
+        if not pdf_path.exists():
+            logger.warning("Gazette PDF missing at %s", pdf_path)
+            return ""
+        try:
+            extraction = extract_text_from_pdf(pdf_path)
+        except Exception as exc:  # noqa: BLE001
+            logger.warning("Gazette extraction failed for %s: %s", pdf_path, exc)
+            return ""
+        for seg in segment(extraction):
+            if seg.chapter == ref.chapter and seg.year == ref.year:
+                return seg.body_en if lang == "en" else seg.body_fr
+        return ""
+
+    def _wayback_enabled_for(self, norm_id: str) -> bool:
+        """Wayback is gated per-category to keep the cache footprint sane.
+
+        Acts in both languages opt-in by default (high value: 10 years of
+        consolidated history). Regulations opt-out by default (diminishing
+        return at ~4,845 regs × 15 snapshots = ~70K extra downloads).
+        """
+        if not self._wayback_enabled:
+            return False
+        for prefix in self._wayback_categories:
+            if norm_id.startswith(prefix + "/"):
+                return True
+        return False
+
+    def _wayback_versions(self, norm_id: str) -> list[dict]:
+        """Return Wayback-archived versions of the consolidated XML."""
+        if not self._wayback_enabled_for(norm_id):
+            return []
+        if self._wayback_client is None:
+            self._wayback_client = WaybackClient(cache_dir=self._data_dir)
+        try:
+            return self._wayback_client.fetch_versions(norm_id)
+        except Exception as exc:  # noqa: BLE001 — Wayback is best-effort
+            logger.warning("Wayback fetch failed for %s: %s", norm_id, exc)
+            return []
+
+    def _annual_statute_versions(self, norm_id: str) -> list[dict]:
+        """Return amendment-bill versions attached to ``norm_id`` from the
+        annual-statute index."""
+        idx = self._annual_statute_index()
+        if idx is None or self._xml_dir is None:
+            return []
+        refs = idx.refs_for(norm_id)
+        out: list[dict] = []
+        for ref in refs:
+            xml_path = self._xml_dir / ref.xml_path
+            if not xml_path.exists():
+                logger.debug("Missing annual-statute XML %s (referenced from index)", ref.xml_path)
+                continue
+            try:
+                xml_bytes = xml_path.read_bytes()
+            except OSError as exc:
+                logger.warning("Could not read %s: %s", xml_path, exc)
+                continue
+            out.append(
+                {
+                    "source_type": "annual-statute",
+                    "source_id": f"as-{ref.year}-c{ref.chapter}",
+                    "date": ref.assent_date,
+                    "xml": base64.b64encode(xml_bytes).decode("ascii"),
+                    "bill_number": ref.bill_number,
+                    "amending_title": ref.amending_title,
+                }
+            )
+        return out
+
+    def get_suvestine(self, norm_id: str) -> bytes:
+        """Return a merged chronological timeline of all known versions.
+
+        Merges git-log consolidations (2021+) with annual-statute
+        amendments (2001+) and (future) Wayback + Gazette PDF sources. The
+        returned blob is a JSON object:
+
+            {
+              "versions": [
+                {"source_type": "annual-statute", "source_id": "as-2020-c13",
+                 "date": "2020-11-19", "xml": "<base64>", …},
+                {"source_type": "upstream-git", "source_id": "<sha>",
+                 "date": "2021-02-26", "xml": "<base64>"},
+                …
+              ]
+            }
+
+        Dedupe rules:
+        - Same ``source_id`` appears at most once.
+        - Consolidated duplicates by content digest are handled by the
+          parser, not here (we can't decode base64 cheaply here).
+        """
+        all_versions: list[dict] = []
+
+        if self._xml_dir is None or not self._xml_dir.exists():
+            logger.warning(
+                "No upstream clone at %s; suvestine falls back to single snapshot",
+                self._xml_dir,
+            )
+            current = self.get_text(norm_id)
+            today = date.today().isoformat()
+            all_versions.append(
+                {
+                    "source_type": "http-current",
+                    "source_id": "current",
+                    "date": today,
+                    "xml": base64.b64encode(current).decode("ascii"),
+                }
+            )
+            return json.dumps({"versions": all_versions}).encode("utf-8")
+
+        # 1. Upstream git log (2021-02 → today).
+        all_versions.extend(self._git_log_versions(norm_id))
+
+        # 2. Wayback Machine XML snapshots (2011-05 → 2021-02). Same
+        #    consolidated shape as upstream — the boundary at 2021 is
+        #    invisible in the body except for metadata.
+        all_versions.extend(self._wayback_versions(norm_id))
+
+        # 3. Gazette Part III PDF segments (1998 → 2000 in v1). Filled in
+        #    only when the operator has populated the PDF cache.
+        all_versions.extend(self._gazette_versions(norm_id))
+
+        # 4. Annual-statute amendments (2001 → today, primary attribution).
+        #    Many of these predate the upstream git log so they push history
+        #    further back without overlap. When they overlap (same bill was
+        #    both recorded via git-log commit AND cross-referenced), we
+        #    keep both: the git-log version is the consolidated text AFTER
+        #    the amendment, the annual-statute version is the amendment
+        #    itself — different content, not duplicates.
+        all_versions.extend(self._annual_statute_versions(norm_id))
+
+        # Chronological sort: oldest-first. Stable ties preserve source
+        # order (git log was appended first, so git-log versions win on
+        # same-day ties — matters at the 2021 boundary where Wayback
+        # should yield to upstream).
+        all_versions.sort(key=lambda v: v["date"])
+
+        # Deduplicate. Two rules in priority order:
+        # 1. Exact source_id match — a bug-level duplicate, drop.
+        # 2. Same (year, chapter) across annual-statute and gazette-pdf —
+        #    the annual-statute XML is authoritative and wins over the
+        #    OCR-inferred gazette-pdf content. Source_ids encode the key:
+        #    ``as-{Y}-c{N}`` vs ``gazette-{Y}-c{N}``.
+        seen_ids: set[str] = set()
+        annual_keys: set[tuple[int, int]] = set()
+        for v in all_versions:
+            if v.get("source_type") == "annual-statute":
+                key = _statute_year_chapter(v.get("source_id", ""))
+                if key:
+                    annual_keys.add(key)
+
+        deduped: list[dict] = []
+        for v in all_versions:
+            sid = v.get("source_id", "")
+            if sid in seen_ids:
+                continue
+            if v.get("source_type") == "gazette-pdf":
+                key = _statute_year_chapter(sid.replace("gazette-", "as-", 1))
+                if key and key in annual_keys:
+                    # Annual-statute covers this chapter — skip the PDF entry.
+                    continue
+            seen_ids.add(sid)
+            deduped.append(v)
+
+        if not deduped:
+            # Final degradation: no git log, no annual statute, no clone —
+            # emit the current text as a single snapshot so the pipeline
+            # can still produce a valid bootstrap commit.
+            current = self.get_text(norm_id)
+            today = date.today().isoformat()
+            deduped.append(
+                {
+                    "source_type": "http-current",
+                    "source_id": "current",
+                    "date": today,
+                    "xml": base64.b64encode(current).decode("ascii"),
+                }
+            )
+
+        return json.dumps({"versions": deduped}).encode("utf-8")
 
 
 def _parse_norm_id(norm_id: str) -> tuple[str, str, str]:
@@ -221,3 +493,33 @@ def _parse_norm_id(norm_id: str) -> tuple[str, str, str]:
     if len(parts) != 3:
         raise ValueError(f"Invalid CA norm_id: {norm_id!r} (expected lang/category/id)")
     return parts[0], parts[1], parts[2]
+
+
+def _statute_year_chapter(source_id: str) -> tuple[int, int] | None:
+    """Parse an ``as-{Y}-c{N}`` source_id into ``(year, chapter)``.
+
+    Returns ``None`` for source_ids that don't match (git SHAs, Wayback
+    timestamps, etc). Used by the dedup logic to cross-reference
+    annual-statute and gazette-pdf entries.
+    """
+    import re
+
+    m = re.fullmatch(r"(?:as|gazette)-(\d{4})-c(\d{1,3})", source_id)
+    if not m:
+        return None
+    try:
+        return int(m.group(1)), int(m.group(2))
+    except (TypeError, ValueError):
+        return None
+
+
+def _lang_for_norm(norm_id: str) -> tuple[str, str, str]:
+    """Return ``(url_lang, category, short_lang)`` for a norm_id.
+
+    ``short_lang`` is the 2-letter code used by the Gazette / title
+    indices (``"en"``/``"fr"``) — note that in norm_id we use the 3-letter
+    ``"eng"``/``"fra"`` matching Justice Canada's URL structure.
+    """
+    url_lang, category, _ = _parse_norm_id(norm_id)
+    short_lang = "fr" if url_lang == "fra" else "en"
+    return url_lang, category, short_lang

@@ -175,7 +175,9 @@ def _inline_text(el: etree._Element) -> str:
         parts.append(el.text)
 
     for child in el:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         child_text = _inline_text(child)
         stripped = child_text.strip()
 
@@ -188,6 +190,16 @@ def _inline_text(el: etree._Element) -> str:
                 ref_type = child.get("reference-type", "act")
                 url = _xref_url(ref_type, link, _current_lang.get())
                 parts.append(f"[{stripped}]({url})")
+            elif stripped:
+                parts.append(stripped)
+        elif tag == "a":
+            # Anchor links in pre-2016 Wayback XMLs. Render as plain text
+            # unless an href is present, in which case preserve it as a
+            # Markdown link. The URLs point at the active Justice Canada
+            # site so they remain live.
+            href = child.get("href", "").strip()
+            if stripped and href:
+                parts.append(f"[{stripped}]({href})")
             elif stripped:
                 parts.append(stripped)
         elif tag == "Repealed":
@@ -283,7 +295,9 @@ def _parse_section(section: etree._Element) -> list[Paragraph]:
 
     # Iterate children in document order.
     for child in section:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         if tag == "Text":
             txt = _clean(_inline_text(child))
             if txt:
@@ -303,13 +317,62 @@ def _parse_section(section: etree._Element) -> list[Paragraph]:
             formula_text = _parse_formula(child)
             if formula_text:
                 paragraphs.append(Paragraph(css_class="pre", text=formula_text))
+        elif tag == "FormulaGroup":
+            for f_el in child.findall("./Formula"):
+                f_text = _parse_formula(f_el)
+                if f_text:
+                    paragraphs.append(Paragraph(css_class="pre", text=f_text))
         elif tag == "Definition":
             paragraphs.extend(_parse_definition(child))
+        elif tag in ("AmendedText", "ReadAsText"):
+            # Bill constructs: the replacement/insertion text for an amendment.
+            # Render as a blockquote so readers can visually separate "the
+            # amendment says: replace X with Y" — the Y being quoted content
+            # of the new statute — from the amendment instruction itself.
+            paragraphs.extend(_parse_amended_text(child))
         elif tag == "ContinuedParagraph":
             for text_el in child.findall("./Text"):
                 txt = _clean(_inline_text(text_el))
                 if txt:
                     paragraphs.append(Paragraph(css_class="parrafo", text=txt))
+        elif tag == "ContinuedSectionSubsection":
+            for text_el in child.findall("./Text"):
+                t = _clean(_inline_text(text_el))
+                if t:
+                    paragraphs.append(Paragraph(css_class="parrafo", text=t))
+        elif tag == "SectionPiece":
+            for sub in child:
+                sub_tag = etree.QName(sub).localname if isinstance(sub.tag, str) else ""
+                if sub_tag == "Text":
+                    t = _clean(_inline_text(sub))
+                    if t:
+                        paragraphs.append(Paragraph(css_class="parrafo", text=t))
+                elif sub_tag == "Formula":
+                    f = _parse_formula(sub)
+                    if f:
+                        paragraphs.append(Paragraph(css_class="pre", text=f))
+        elif tag == "a":
+            # Anchor element appearing as direct Section child in pre-2016
+            # Wayback XMLs — typically a bookmark target with no rendered
+            # content. Preserve any text via the inline helper and move on.
+            t = _clean(_inline_text(child))
+            if t:
+                href = child.get("href", "").strip()
+                paragraphs.append(
+                    Paragraph(css_class="parrafo", text=f"[{t}]({href})" if href else t)
+                )
+        elif tag == "Note":
+            status = child.get("status", "")
+            txt = _clean(_inline_text(child))
+            if txt:
+                marker = f"*[{status}]* " if status else ""
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> {marker}{txt}"))
+        elif tag == "Provision":
+            paragraphs.extend(_parse_provision(child))
+        elif tag == "Oath":
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> *{txt}*"))
         elif tag == "HistoricalNote":
             items = []
             for sub in child.findall("./HistoricalNoteSubItem"):
@@ -348,7 +411,9 @@ def _parse_subsection(subsec: etree._Element) -> list[Paragraph]:
     first_text_emitted = False
 
     for child in subsec:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         if tag == "Text":
             txt = _clean(_inline_text(child))
             if not txt:
@@ -377,14 +442,68 @@ def _parse_subsection(subsec: etree._Element) -> list[Paragraph]:
                 t = _clean(_inline_text(text_el))
                 if t:
                     paragraphs.append(Paragraph(css_class="parrafo", text=t))
+        elif tag == "ContinuedSectionSubsection":
+            # Pre-2016 XML idiom (and still in some bills): a continuation
+            # clause at the subsection level. Text children only — same
+            # rendering as ContinuedParagraph.
+            for text_el in child.findall("./Text"):
+                t = _clean(_inline_text(text_el))
+                if t:
+                    paragraphs.append(Paragraph(css_class="parrafo", text=t))
+        elif tag == "SectionPiece":
+            # A grouping of Text + Formula + ContinuedSectionSubsection
+            # used mid-section when a formula splits the prose in two.
+            # Recurse over its children rather than special-case each kind.
+            for sub in child:
+                sub_tag = etree.QName(sub).localname if isinstance(sub.tag, str) else ""
+                if sub_tag == "Text":
+                    t = _clean(_inline_text(sub))
+                    if t:
+                        paragraphs.append(Paragraph(css_class="parrafo", text=t))
+                elif sub_tag == "Formula":
+                    f = _parse_formula(sub)
+                    if f:
+                        paragraphs.append(Paragraph(css_class="pre", text=f))
+                elif sub_tag == "ContinuedSectionSubsection":
+                    for text_el in sub.findall("./Text"):
+                        t = _clean(_inline_text(text_el))
+                        if t:
+                            paragraphs.append(Paragraph(css_class="parrafo", text=t))
         elif tag == "Item":
             paragraphs.extend(_parse_item(child, indent=0))
         elif tag == "Formula":
             formula_text = _parse_formula(child)
             if formula_text:
                 paragraphs.append(Paragraph(css_class="pre", text=formula_text))
+        elif tag == "FormulaGroup":
+            # Wrapper used by tax and benefits legislation when multiple
+            # formulas live adjacent. Walk the contained Formula elements.
+            for f_el in child.findall("./Formula"):
+                f_text = _parse_formula(f_el)
+                if f_text:
+                    paragraphs.append(Paragraph(css_class="pre", text=f_text))
+        elif tag == "FormulaDefinition":
+            # Variable definition stub that some bill XMLs place directly
+            # under a Subsection rather than inside the Formula element.
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"`{txt}`"))
         elif tag == "Definition":
             paragraphs.extend(_parse_definition(child))
+        elif tag in ("AmendedText", "ReadAsText"):
+            paragraphs.extend(_parse_amended_text(child))
+        elif tag == "Note":
+            status = child.get("status", "")
+            txt = _clean(_inline_text(child))
+            if txt:
+                marker = f"*[{status}]* " if status else ""
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> {marker}{txt}"))
+        elif tag == "Provision":
+            paragraphs.extend(_parse_provision(child))
+        elif tag == "Oath":
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> *{txt}*"))
         elif tag == "TableGroup":
             md_table = _table_to_markdown(child)
             if md_table:
@@ -395,6 +514,55 @@ def _parse_subsection(subsec: etree._Element) -> list[Paragraph]:
             _warn_unknown_tag(tag, "subsection")
             paragraphs.extend(_fallback_unknown_block(child))
 
+    return paragraphs
+
+
+def _parse_amended_text(el: etree._Element) -> list[Paragraph]:
+    """Render a Bill's ``<AmendedText>`` or ``<ReadAsText>`` as blockquoted text.
+
+    These elements wrap the NEW statute text being inserted/replaced by an
+    amendment. The surrounding sentence reads "Subsection X(2) of the Act is
+    replaced by the following:" and the AmendedText is what follows the
+    colon. Rendering it as a blockquote signals "this is the post-amendment
+    statute text" and keeps it visually distinct from the amendment
+    instruction prose.
+    """
+    paragraphs: list[Paragraph] = []
+    for child in el:
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
+        if tag == "Section":
+            nested = _parse_section(child)
+            for p in nested:
+                paragraphs.append(Paragraph(css_class=p.css_class, text=f"> {p.text}"))
+        elif tag == "Subsection":
+            nested = _parse_subsection(child)
+            for p in nested:
+                paragraphs.append(Paragraph(css_class=p.css_class, text=f"> {p.text}"))
+        elif tag == "Paragraph":
+            nested = _parse_paragraph(child)
+            for p in nested:
+                paragraphs.append(Paragraph(css_class=p.css_class, text=f"> {p.text}"))
+        elif tag == "Text":
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> {txt}"))
+        elif tag == "TableGroup":
+            md_table = _table_to_markdown(child)
+            if md_table:
+                # Prefix each row line so the whole table sits in the quote.
+                quoted = "\n".join(f"> {line}" for line in md_table.splitlines() if line)
+                paragraphs.append(Paragraph(css_class="table", text=quoted))
+        elif tag == "Formula":
+            f = _parse_formula(child)
+            if f:
+                paragraphs.append(Paragraph(css_class="pre", text=f"> {f}"))
+        else:
+            # Last resort: flatten to plain text so nothing is silently dropped.
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> {txt}"))
     return paragraphs
 
 
@@ -494,7 +662,9 @@ def _parse_formula(formula: etree._Element) -> str:
     """Parse a <Formula> element into code-formatted text."""
     parts: list[str] = []
     for child in formula:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         if tag in ("FormulaTerm", "FormulaText", "FormulaDefinition", "FormulaConnector"):
             txt = _clean(_inline_text(child))
             if txt:
@@ -545,6 +715,123 @@ def _parse_heading_block(child: etree._Element, top_css: str, sub_css: str) -> l
     return paragraphs
 
 
+def _render_gazette_body(entry: dict) -> tuple[Paragraph, ...]:
+    """Turn a Gazette-PDF entry's extracted text into amendment paragraphs.
+
+    The text comes from :class:`GazetteSegmenter` after column-aware
+    extraction — one chapter's bilingual body, double-newline-separated
+    per source page. We render it as:
+
+    - A ``> **Amendment bill**`` lead-in quote block naming the bill
+      and assent date (visual cue for amendment-event commits, mirroring
+      the ``> **Summary.**`` block emitted by annual-statute entries).
+    - The body text split on paragraph boundaries, each paragraph kept
+      as plain prose. No numbered sections are re-synthesized — Gazette
+      PDFs use prose-style legal drafting without the tight XML-style
+      structure that annual-statute bills provide.
+
+    An OCR-quality disclaimer is prepended as a blockquote when the
+    confidence probe tripped below 0.85 (OCR'd pre-1998 scans).
+    """
+    body_text = entry.get("body_text", "")
+    if not body_text:
+        return ()
+
+    lead: list[str] = []
+    amending_title = entry.get("amending_title", "").strip()
+    bill_number = entry.get("bill_number", "").strip()
+    assent = entry.get("date", "")
+
+    if amending_title:
+        if bill_number:
+            lead.append(
+                f"> **Amendment bill.** *{amending_title}* "
+                f"(Bill {bill_number}, assented to {assent})."
+            )
+        else:
+            lead.append(f"> **Amendment bill.** *{amending_title}* (assented to {assent}).")
+
+    ocr = entry.get("ocr_confidence", 1.0)
+    if isinstance(ocr, (int, float)) and ocr < 0.85:
+        lead.append(
+            f"> **OCR quality {ocr:.0%}** — this text is reconstructed from a "
+            "scanned Gazette issue and may contain optical recognition errors."
+        )
+
+    paragraphs: list[Paragraph] = [Paragraph(css_class="parrafo", text=line) for line in lead]
+
+    # Body: split on blank lines, emit each paragraph cleaned of control chars.
+    for chunk in re.split(r"\n\s*\n", body_text):
+        cleaned = _clean(chunk)
+        if cleaned:
+            paragraphs.append(Paragraph(css_class="parrafo", text=cleaned))
+
+    return tuple(paragraphs)
+
+
+def _parse_bill_introduction(intro: etree._Element) -> list[Paragraph]:
+    """Render a ``<Bill>``'s Introduction (Recommendation + Summary).
+
+    Annual-statute bills carry two pre-enactment blocks:
+
+    - ``Recommendation`` — the Governor General's recommendation line naming
+      the appropriation authority. Short (1-2 sentences).
+    - ``Summary`` — a plain-English paragraph explaining what the bill does.
+      Often multiple Provisions, each a paragraph of the summary.
+
+    We render both as blockquote lead-ins so the amendment commit's body
+    starts with the same structural cue as a consolidated commit's
+    Preamble — one "> " prefix, leading the reader in before the numbered
+    section body begins.
+    """
+    paragraphs: list[Paragraph] = []
+
+    rec_el = intro.find("Recommendation")
+    if rec_el is not None:
+        rec_paragraphs: list[str] = []
+        for prov in rec_el.findall("./Provision"):
+            for child in prov:
+                if not isinstance(child.tag, str):
+                    continue
+                tag = etree.QName(child).localname
+                if tag == "Text":
+                    txt = _clean(_inline_text(child))
+                    if txt:
+                        rec_paragraphs.append(txt)
+        if rec_paragraphs:
+            joined = " ".join(rec_paragraphs)
+            paragraphs.append(
+                Paragraph(css_class="parrafo", text=f"> **Recommendation.** {joined}")
+            )
+
+    summary_el = intro.find("Summary")
+    if summary_el is not None:
+        summary_paragraphs: list[str] = []
+        for prov in summary_el.findall("./Provision"):
+            for child in prov:
+                if not isinstance(child.tag, str):
+                    continue
+                tag = etree.QName(child).localname
+                if tag == "Text":
+                    txt = _clean(_inline_text(child))
+                    if txt:
+                        summary_paragraphs.append(txt)
+                elif tag in ("DocumentInternal", "Group"):
+                    for sub in child.iter("Text"):
+                        t = _clean(_inline_text(sub))
+                        if t:
+                            summary_paragraphs.append(t)
+        if summary_paragraphs:
+            # Split across multiple blockquote paragraphs so long summaries
+            # stay readable. The first carries the "Summary." label.
+            first = summary_paragraphs[0]
+            paragraphs.append(Paragraph(css_class="parrafo", text=f"> **Summary.** {first}"))
+            for para in summary_paragraphs[1:]:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> {para}"))
+
+    return paragraphs
+
+
 def _parse_provision(provision: etree._Element) -> list[Paragraph]:
     """Render a <Provision> (used inside Introduction/Enacts and Schedules).
 
@@ -554,7 +841,9 @@ def _parse_provision(provision: etree._Element) -> list[Paragraph]:
     """
     paragraphs: list[Paragraph] = []
     for child in provision:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         if tag == "Text":
             txt = _clean(_inline_text(child))
             if txt:
@@ -589,7 +878,9 @@ def _parse_body(body: etree._Element) -> list[Paragraph]:
     paragraphs: list[Paragraph] = []
 
     for child in body:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
 
         if tag == "Heading":
             title_text = child.find("TitleText")
@@ -707,7 +998,9 @@ def _parse_schedule(sched: etree._Element) -> list[Paragraph]:
     # Body content: iterate children once, handling each tag inline (not via
     # _parse_body, which would re-enter the full list and risk double-emission).
     for child in sched:
-        tag = etree.QName(child).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue  # lxml comments and processing instructions — skip silently
+        tag = etree.QName(child).localname
         if tag in ("ScheduleFormHeading", "Label"):
             continue  # Handled in the header block above.
         if tag == "Provision":
@@ -761,6 +1054,42 @@ def _parse_schedule(sched: etree._Element) -> list[Paragraph]:
                         md_table = _table_to_markdown(sub)
                         if md_table:
                             paragraphs.append(Paragraph(css_class="table", text=md_table))
+        elif tag == "Schedule":
+            # Nested schedule (rare — some amendment bills enact a Schedule
+            # that itself contains a Schedule). Recurse.
+            paragraphs.extend(_parse_schedule(child))
+        elif tag == "FormGroup":
+            # Schedule form grouping (multiple <Form> elements sharing a
+            # heading). Walk children and emit each Form's text content.
+            for sub in child:
+                sub_tag = etree.QName(sub).localname if isinstance(sub.tag, str) else ""
+                if sub_tag in ("Provision", "Form"):
+                    paragraphs.extend(_parse_provision(sub))
+                elif sub_tag == "Text":
+                    t = _clean(_inline_text(sub))
+                    if t:
+                        paragraphs.append(Paragraph(css_class="parrafo", text=t))
+        elif tag == "Repealed":
+            # Legacy schedule item marked as repealed (the item text is kept
+            # for historical accuracy but flagged).
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=f"> *[Repealed]* {txt}"))
+        elif tag == "BillPiece":
+            # Amendment-bill schedule fragment: the "Schedule appended to
+            # this Act is amended by replacing …". Typically wraps Provisions
+            # or Text children — treat as a flat provision walker.
+            paragraphs.extend(_parse_provision(child))
+        elif tag in ("AmendedText", "ReadAsText"):
+            paragraphs.extend(_parse_amended_text(child))
+        elif tag == "BilingualGroup":
+            # Appears in Wayback XMLs pre-2016 for side-by-side EN/FR
+            # listing of schedule items. Extract the plain text — in the
+            # language-specific file we receive, only the relevant language
+            # is present anyway.
+            txt = _clean(_inline_text(child))
+            if txt:
+                paragraphs.append(Paragraph(css_class="parrafo", text=txt))
 
         elif tag in _KNOWN_SKIPPED_TAGS:
             continue
@@ -807,9 +1136,34 @@ class CATextParser(TextParser):
             _current_lang.reset(lang_token)
 
     def _parse_root(self, root: etree._Element) -> list[Any]:
-        """Actual body parsing, run inside the language context."""
-        # Publication date from pit-date.
-        pub_date = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", "")) or date.today()
+        """Actual body parsing, run inside the language context.
+
+        Handles three root element types:
+        - ``Statute``/``Act`` — consolidated act (pit-date present)
+        - ``Regulation`` — consolidated regulation
+        - ``Bill`` — annual-statute amendment bill (BillHistory provides date;
+          Introduction carries RECOMMENDATION/SUMMARY which we render as
+          preamble-style quote blocks so the output shape stays uniform with
+          consolidated commits)
+        """
+        root_tag = etree.QName(root).localname if isinstance(root.tag, str) else ""
+        is_bill = root_tag == "Bill"
+
+        # Publication date:
+        # - modern consolidated XML (post-2016 Wayback + upstream) carries
+        #   ``lims:pit-date`` on the root.
+        # - pre-2016 Wayback XML predates the lims namespace; they carry a
+        #   ``startdate="YYYYMMDD"`` attribute instead.
+        # - Bills carry the assent date in ``BillHistory/Stages[assented-to]``.
+        pub_date = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", ""))
+        if pub_date is None:
+            startdate = root.get("startdate", "")
+            if startdate and len(startdate) == 8:
+                pub_date = _parse_date(f"{startdate[0:4]}-{startdate[4:6]}-{startdate[6:8]}")
+        if pub_date is None and is_bill:
+            pub_date = _bill_history_date(root, "assented-to")
+        if pub_date is None:
+            pub_date = date.today()
 
         paragraphs: list[Paragraph] = []
 
@@ -820,19 +1174,23 @@ class CATextParser(TextParser):
             if preamble_text:
                 paragraphs.append(Paragraph(css_class="parrafo", text=f"> {preamble_text}"))
 
-        # Root-level Introduction (contains <Enacts>: "Her Majesty, by and with
-        # the advice...") — the official enacting clause. Previously dropped.
+        # Root-level Introduction. For Statute/Regulation: contains <Enacts>
+        # ("Her Majesty, by and with the advice…"). For Bill: contains
+        # Recommendation + Summary that explain what the bill does.
         intro_el = root.find("Introduction")
         if intro_el is not None:
-            enacts_el = intro_el.find("Enacts")
-            if enacts_el is not None:
-                for prov in enacts_el.findall("./Provision"):
-                    paragraphs.extend(_parse_provision(prov))
-            # Direct Text children of Introduction (rare, but defensive).
-            for text_el in intro_el.findall("./Text"):
-                txt = _clean(_inline_text(text_el))
-                if txt:
-                    paragraphs.append(Paragraph(css_class="parrafo", text=txt))
+            if is_bill:
+                paragraphs.extend(_parse_bill_introduction(intro_el))
+            else:
+                enacts_el = intro_el.find("Enacts")
+                if enacts_el is not None:
+                    for prov in enacts_el.findall("./Provision"):
+                        paragraphs.extend(_parse_provision(prov))
+                # Direct Text children of Introduction (rare, but defensive).
+                for text_el in intro_el.findall("./Text"):
+                    txt = _clean(_inline_text(text_el))
+                    if txt:
+                        paragraphs.append(Paragraph(css_class="parrafo", text=txt))
 
         # Body.
         body_el = root.find("Body")
@@ -864,20 +1222,28 @@ class CATextParser(TextParser):
     def parse_suvestine(
         self, suvestine_data: bytes, norm_id: str
     ) -> tuple[list[Block], list[Reform]]:
-        """Parse a multi-version JSON blob (from ``JusticeCanadaClient.get_suvestine``)
-        into one versioned Block plus a chronological list of Reforms.
+        """Parse a merged multi-source JSON blob into versioned Block + Reforms.
 
-        The blob comes from walking ``git log`` on the upstream repo per file.
-        Each entry carries the commit SHA, date, and full XML at that revision.
-        We parse every version through the same ``_parse_root`` used for the
-        current snapshot, which keeps bootstrap and history rendering identical.
+        Accepts the shape produced by :meth:`JusticeCanadaClient.get_suvestine`:
 
-        Output contract (matches BE/RO pattern):
-        - One ``Block`` with ``id="body"`` containing one ``Version`` per
-          upstream commit, ordered by ``publication_date`` (oldest first).
-        - One ``Reform`` per version, ``Reform.norm_id`` set to the upstream
-          SHA so the committer's ``(Source-Id, Norm-Id)`` dedupe key is
-          unique per historical revision — re-running is idempotent.
+            {"versions": [
+                {"source_type": "...", "source_id": "...",
+                 "date": "YYYY-MM-DD", "xml": "<base64>", …},
+                …
+            ]}
+
+        Each entry is parsed through ``_parse_root`` regardless of its
+        ``source_type`` — the renderer already handles the three XML root
+        element variants (``Statute``/``Regulation`` from git log and
+        Wayback, ``Bill`` from annual-statute) uniformly.
+
+        ``Reform.norm_id`` is set to ``source_id`` so the committer's
+        ``(Source-Id, Norm-Id)`` dedupe key remains unique per historical
+        event (a commit SHA, an annual-statute citation, a Wayback
+        timestamp, or a Gazette PDF locator).
+
+        Backward-compat: entries using the legacy ``sha`` key (from
+        pre-merge suvestine blobs cached on disk) are still recognised.
         """
         if not suvestine_data:
             return [], []
@@ -892,9 +1258,8 @@ class CATextParser(TextParser):
         if not payload:
             return [], []
 
-        # Derive language once from norm_id (stable across all versions of
-        # the same law) and push it into the context so every inline XRef
-        # resolves to the right official URL.
+        # Derive language once from norm_id and push it into the context so
+        # every inline XRef resolves to the right official URL.
         _, _, url_lang, _ = _lang_info(norm_id)
         lang = "fr" if url_lang == "fra" else "en"
         lang_token = _current_lang.set(lang)
@@ -903,30 +1268,60 @@ class CATextParser(TextParser):
         reforms: list[Reform] = []
         try:
             for entry in payload:
-                sha = entry.get("sha", "")
+                source_id = entry.get("source_id") or entry.get("sha", "")
                 date_str = entry.get("date", "")
-                xml_b64 = entry.get("xml", "")
-                if not (sha and date_str and xml_b64):
+                if not (source_id and date_str):
                     continue
 
                 try:
                     commit_date = date.fromisoformat(date_str)
                 except ValueError:
                     logger.warning(
-                        "Invalid date %r in suvestine for %s (sha %s); skipping",
+                        "Invalid date %r in suvestine for %s (%s); skipping",
                         date_str,
                         norm_id,
-                        sha,
+                        source_id,
                     )
+                    continue
+
+                source_type = entry.get("source_type", "")
+
+                # Gazette-PDF branch: the entry carries pre-extracted plain
+                # text (no XML) plus metadata. Wrap as amendment-event
+                # paragraphs rather than going through _parse_root.
+                if source_type == "gazette-pdf":
+                    paragraphs = _render_gazette_body(entry)
+                    if not paragraphs:
+                        continue
+                    versions.append(
+                        Version(
+                            norm_id=source_id,
+                            publication_date=commit_date,
+                            effective_date=commit_date,
+                            paragraphs=paragraphs,
+                        )
+                    )
+                    reforms.append(
+                        Reform(
+                            date=commit_date,
+                            norm_id=source_id,
+                            affected_blocks=("body",),
+                        )
+                    )
+                    continue
+
+                # XML branch: upstream-git / wayback-xml / annual-statute.
+                xml_b64 = entry.get("xml", "")
+                if not xml_b64:
                     continue
 
                 try:
                     xml_bytes = base64.b64decode(xml_b64)
                 except (ValueError, TypeError) as exc:
                     logger.warning(
-                        "Could not decode base64 XML for %s (sha %s): %s",
+                        "Could not decode base64 XML for %s (%s): %s",
                         norm_id,
-                        sha,
+                        source_id,
                         exc,
                     )
                     continue
@@ -935,27 +1330,32 @@ class CATextParser(TextParser):
                     root = etree.fromstring(xml_bytes)
                 except etree.XMLSyntaxError as exc:
                     logger.warning(
-                        "Invalid XML in suvestine for %s (sha %s): %s",
+                        "Invalid XML in suvestine for %s (%s): %s",
                         norm_id,
-                        sha,
+                        source_id,
                         exc,
                     )
                     continue
 
                 blocks = self._parse_root(root)
                 if not blocks:
-                    # Empty body (minimal/placeholder act) — skip this version.
+                    # Empty body (minimal/placeholder) — skip this version.
                     continue
                 paragraphs = blocks[0].versions[0].paragraphs
 
-                # Prefer the XML's own pit-date (precise effective date) when
-                # present, falling back to the commit date.
+                # Effective date: prefer XML's pit-date (consolidated, post-
+                # 2016) or startdate (pre-2016 Wayback) or assent date (bill);
+                # fall back to the event date itself.
                 pit = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", ""))
-                effective = pit or commit_date
+                if pit is None:
+                    startdate = root.get("startdate", "")
+                    if startdate and len(startdate) == 8:
+                        pit = _parse_date(f"{startdate[0:4]}-{startdate[4:6]}-{startdate[6:8]}")
+                effective = pit or _bill_history_date(root, "assented-to") or commit_date
 
                 versions.append(
                     Version(
-                        norm_id=sha,
+                        norm_id=source_id,
                         publication_date=commit_date,
                         effective_date=effective,
                         paragraphs=paragraphs,
@@ -964,7 +1364,7 @@ class CATextParser(TextParser):
                 reforms.append(
                     Reform(
                         date=commit_date,
-                        norm_id=sha,  # upstream SHA — unique per reform
+                        norm_id=source_id,
                         affected_blocks=("body",),
                     )
                 )
