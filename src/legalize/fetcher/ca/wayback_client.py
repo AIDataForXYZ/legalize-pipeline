@@ -39,6 +39,7 @@ and are skipped gracefully in the parser layer.
 
 from __future__ import annotations
 
+import base64
 import gzip
 import json
 import logging
@@ -135,14 +136,20 @@ class WaybackClient:
             if xml_bytes is None:
                 continue
 
-            import base64  # local import — keep module import surface tight
+            encoded = base64.b64encode(xml_bytes).decode("ascii")
+            # Drop the raw bytes as soon as we have the base64 form — both
+            # strings otherwise sit in memory simultaneously, which on
+            # 40-snapshot laws (Income Tax Act, Criminal Code) doubles
+            # the transient peak. The encoded form is what the parser
+            # consumes downstream.
+            del xml_bytes
 
             out.append(
                 {
                     "source_type": "wayback-xml",
                     "source_id": f"wayback-{ts}",
                     "date": _timestamp_to_iso_date(ts),
-                    "xml": base64.b64encode(xml_bytes).decode("ascii"),
+                    "xml": encoded,
                     "wayback_digest": digest,
                     "wayback_url": WAYBACK_ORIGINAL_URL_TEMPLATE.format(
                         timestamp=ts, url=target_url

@@ -17,6 +17,7 @@ in ``unresolved_events`` for inspection. Modern issues segment cleanly.
 
 from __future__ import annotations
 
+import gc
 import json
 import logging
 from dataclasses import asdict, dataclass, field
@@ -156,10 +157,23 @@ def build_gazette_index(
         segments = segment(extraction)
         if not segments:
             logger.info("No chapters segmented in %s", rel)
+            # Still release the extraction before moving on — a 400-page
+            # issue holds several MB of per-column text that the next PDF
+            # doesn't need.
+            del extraction
+            gc.collect()
             continue
 
+        ocr_confidence = extraction.ocr_confidence
         for seg in segments:
-            _attribute_segment(seg, rel, extraction.ocr_confidence, title_index, result)
+            _attribute_segment(seg, rel, ocr_confidence, title_index, result)
+
+        # Drop the heavy per-PDF objects (each extraction can hold 5-20 MB
+        # of text across EN + FR columns for a full issue; segments retain
+        # most of that via body strings). Explicit del + gc ensures the
+        # next PDF starts from a cold memory state rather than piling on.
+        del extraction, segments
+        gc.collect()
 
     # Sort each norm's timeline chronologically.
     for refs in result.by_norm.values():

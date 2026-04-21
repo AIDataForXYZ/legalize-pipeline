@@ -10,6 +10,7 @@ Adapted from legalize-ca-pipeline/legalize_ca/fetchers/federal.py.
 from __future__ import annotations
 
 import base64
+import gc
 import json
 import logging
 import re
@@ -1266,8 +1267,17 @@ class CATextParser(TextParser):
 
         versions: list[Version] = []
         reforms: list[Reform] = []
+
+        # Memory hygiene: each iteration parses one XML through lxml, which
+        # holds native C-level memory until the Element is deallocated. On
+        # high-amendment acts (Criminal Code has 100+ versions) the
+        # accumulated native memory is what pushes bootstrap peak RAM up —
+        # see the Greek PR (commit b2e146e). We mirror the same pattern:
+        # drop large intermediates at the end of each iteration, and force
+        # a GC cycle every ``_GC_EVERY`` iterations.
+        _GC_EVERY = 10
         try:
-            for entry in payload:
+            for idx, entry in enumerate(payload):
                 source_id = entry.get("source_id") or entry.get("sha", "")
                 date_str = entry.get("date", "")
                 if not (source_id and date_str):
@@ -1311,7 +1321,11 @@ class CATextParser(TextParser):
                     continue
 
                 # XML branch: upstream-git / wayback-xml / annual-statute.
-                xml_b64 = entry.get("xml", "")
+                # ``pop`` instead of ``get`` — the base64 string (often
+                # MBs per entry on big acts) is released from the dict as
+                # soon as we decode it, avoiding a duplicate copy hanging
+                # around in ``payload`` for the rest of the loop.
+                xml_b64 = entry.pop("xml", "")
                 if not xml_b64:
                     continue
 
@@ -1324,7 +1338,9 @@ class CATextParser(TextParser):
                         source_id,
                         exc,
                     )
+                    del xml_b64
                     continue
+                del xml_b64  # ~MB-scale string — release ASAP
 
                 try:
                     root = etree.fromstring(xml_bytes)
@@ -1335,11 +1351,14 @@ class CATextParser(TextParser):
                         source_id,
                         exc,
                     )
+                    del xml_bytes
                     continue
+                del xml_bytes  # lxml has copied it into the tree
 
                 blocks = self._parse_root(root)
                 if not blocks:
                     # Empty body (minimal/placeholder) — skip this version.
+                    del root
                     continue
                 paragraphs = blocks[0].versions[0].paragraphs
 
@@ -1368,8 +1387,19 @@ class CATextParser(TextParser):
                         affected_blocks=("body",),
                     )
                 )
+                # Release the parsed tree + transient block list BEFORE the
+                # next iteration allocates its own copies. lxml's native
+                # memory is only reclaimed on Python GC; without this
+                # sweep the per-law peak scales linearly with version count.
+                del root, blocks
+                if (idx + 1) % _GC_EVERY == 0:
+                    gc.collect()
         finally:
             _current_lang.reset(lang_token)
+            # Final sweep to ensure lxml releases every tree before the
+            # pipeline moves to the next norm — otherwise a worker thread
+            # hands the accumulated native memory to the next law it picks.
+            gc.collect()
 
         if not versions:
             return [], []

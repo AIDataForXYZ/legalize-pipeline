@@ -221,12 +221,18 @@ class JusticeCanadaClient(HttpClient):
             if show_result.returncode != 0:
                 continue
             commit_date = iso_datetime[:10]
+            # Encode once, then immediately drop the raw bytes reference —
+            # on big acts (Income Tax Act: 41 commits x ~1 MB XML each) the
+            # subprocess stdout + base64 string otherwise coexist twice
+            # until the next iteration reassigns ``show_result``.
+            encoded = base64.b64encode(show_result.stdout).decode("ascii")
+            del show_result
             out.append(
                 {
                     "source_type": "upstream-git",
                     "source_id": sha,
                     "date": commit_date,
-                    "xml": base64.b64encode(show_result.stdout).decode("ascii"),
+                    "xml": encoded,
                 }
             )
         # git log yields newest-first; reverse to oldest-first for the pipeline.
@@ -478,7 +484,17 @@ class JusticeCanadaClient(HttpClient):
                 }
             )
 
-        return json.dumps({"versions": deduped}).encode("utf-8")
+        blob = json.dumps({"versions": deduped}).encode("utf-8")
+        # Release the intermediate lists before returning so the caller's
+        # next call (same worker, next norm) doesn't start on top of the
+        # previous law's peak. The encoded blob alone can be 100s of MB
+        # for Criminal Code; holding ``all_versions`` + ``deduped`` on top
+        # doubles the transient footprint until the GC decides to run.
+        del all_versions, deduped, seen_ids, annual_keys
+        import gc as _gc
+
+        _gc.collect()
+        return blob
 
 
 def _parse_norm_id(norm_id: str) -> tuple[str, str, str]:
