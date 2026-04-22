@@ -24,11 +24,11 @@ from datetime import date
 
 from lxml import etree
 
-_BOE_ID_RE = re.compile(r"\bBOE-[A-Z]-\d{4}-\d+\b")
-
 from legalize.fetcher._tables import render_table
 from legalize.fetcher._text import clean as _clean_bytes
 from legalize.models import Block, Paragraph, Reform, Version
+
+_BOE_ID_RE = re.compile(r"\bBOE-[A-Z]-\d{4}-\d+\b")
 
 logger = logging.getLogger(__name__)
 
@@ -455,9 +455,7 @@ def parse_diario_xml(xml_data: bytes | str) -> list[Block]:
             if ip is not None:
                 paragraphs.append(ip)
         elif tag == "pre":
-            paragraphs.append(
-                Paragraph(css_class="pre", text=_extract_inline(child))
-            )
+            paragraphs.append(Paragraph(css_class="pre", text=_extract_inline(child)))
         elif tag == "blockquote":
             paragraphs.extend(_parse_blockquote(child))
 

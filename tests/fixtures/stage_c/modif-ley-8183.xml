@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241020175821">
+  <metadatos>
+    <identificador>BOE-A-2022-8183</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>20220511</fecha_disposicion>
+    <numero_oficial>2545/2022</numero_oficial>
+    <titulo>Recurso de inconstitucionalidad n.º 2545-2022, contra artículo tercero.Tres y disposición transitoria primera.4 de la Ley 11/2021, de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20220519</fecha_publicacion>
+    <diario_numero>119</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>69207</pagina_inicial>
+    <pagina_final>69207</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2022/05/19/pdfs/BOE-A-2022-8183.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2022-8183</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="3822" orden="1">Fraudes</materia>
+      <materia codigo="4107" orden="1">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4114" orden="1">Impuesto sobre Sucesiones y Donaciones</materia>
+      <materia codigo="4281" orden="1">Inspección fiscal</materia>
+      <materia codigo="5876" orden="1">Recaudación</materia>
+      <materia codigo="5904" orden="1">Recursos de inconstitucionalidad</materia>
+      <materia codigo="6658" orden="1">Sistema tributario</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2021-11473" orden="4050">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>el art. 3.3 y la disposición transitoria 1.4 de la Ley 11/2021, de 9 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-20764" orden="4051">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>el art. 36 de la Ley 35/2006, de 28 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2023-14930" orden="">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en el mismo y SE DECLARA su desestimación, por Sentencia 62/2023, de 24 de mayo</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="1">Derecho Constitucional</alerta>
+      <alerta codigo="127" orden="1">Sistema financiero</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Pleno del Tribunal Constitucional, por providencia de 11 de mayo de 2022, ha acordado admitir a trámite el recurso de inconstitucionalidad número 2545-2022, promovido por la Xunta de Galicia, contra el artículo tercero.Tres y la disposición transitoria primera.4 de la Ley 11/2021, de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego.</p>
+    <p class="parrafo_2">Madrid, 11 de mayo de 2022.–El Secretario de Justicia del Pleno del Tribunal Constitucional, Alfonso Pérez Camino.</p>
+  </texto>
+</documento>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251220202601">
+  <metadatos>
+    <identificador>BOE-A-2025-7094</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <fecha_disposicion/>
+    <numero_oficial/>
+    <titulo>Corrección de errores del Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20250409</fecha_publicacion>
+    <diario_numero>86</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>48936</pagina_inicial>
+    <pagina_final>48936</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2025/04/09/pdfs/BOE-A-2025-7094.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2025-7094</url_epub>
+    <url_pdf_catalan>/boe_catalan/dias/2025/04/09/pdfs/BOE-A-2025-7094-C.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-7094</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-01</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/420"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3771"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4108"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4461"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5651"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5762"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6800"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-7094</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-01</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/420"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3771"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4108"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4461"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5651"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5703"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5762"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6800"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrects rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de errores del Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-09</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correcció d'errors del Reial decret llei 3/2025, d'1 d'abril, pel qual s'estableix el programa d'incentius lligats a la mobilitat elèctrica (MOVES III) per a l'any 2025.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-09</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2025/04/01/3/corrigendum/20250409/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="3188" orden="1">Energía eléctrica</materia>
+      <materia codigo="3771" orden="1">Fondo CE</materia>
+      <materia codigo="4107" orden="1">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4108" orden="1">Impuesto sobre la Renta de los no Residentes</materia>
+      <materia codigo="4113" orden="1">Impuesto sobre Sociedades</materia>
+      <materia codigo="4461" orden="1">Instituto para la Diversificación y Ahorro de la Energía</materia>
+      <materia codigo="5651" orden="1">Políticas de medio ambiente</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="5762" orden="1">Programas</materia>
+      <materia codigo="6800" orden="1">Subvenciones</materia>
+      <materia codigo="7116" orden="1">Vehículos de motor</materia>
+    </materias>
+    <notas>
+      <nota codigo="0" orden="999">La corrección de errores de la Ley 35/2006, de 28 de noviembre, se establece por estar modificada por el Real Decreto-ley 3/2025, de 1 de abril</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2025-6596" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>del Real Decreto-ley 3/2025, de 1 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-20764" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>de la Ley 35/2006, de 28 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="115" orden="1">Energía</alerta>
+      <alerta codigo="119" orden="1">Medio ambiente</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+      <alerta codigo="132" orden="1">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos errores en el Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025, publicado en el «Boletín Oficial del Estado» número 79, de 1 de abril de 2025, se procede a efectuar las oportunas rectificaciones:</p>
+    <p class="parrafo_2">En la página 44741, en el penúltimo párrafo del preámbulo, donde dice: «Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª, 23.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, en materia de legislación básica…», debe decir: «Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª, 14.ª, 23.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, sobre Hacienda general y Deuda del Estado, en materia de legislación básica…».</p>
+    <p class="parrafo">En la página 44744, apartado 2, punto 2.º), en la segunda línea, donde dice: <span class="no_partir">«…(http</span>://coches.idae.es/base-datos/vehiculos-elegibles-programa-MOVES)...», debe decir: «…(https://coches.idae.es/base-datos/vehiculos-elegibles-programa-MOVES-III)...».</p>
+    <p class="parrafo">En la página 44746, disposición final segunda, en la segunda línea, donde dice: «…14.ª, 23.ª y 25.ª de la Constitución Española que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, sobre Hacienda y deuda pública,...», debe decir: «…14.ª, 23.ª y 25.ª de la Constitución Española que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, sobre Hacienda general y Deuda del Estado,...».</p>
+  </texto>
+</documento>

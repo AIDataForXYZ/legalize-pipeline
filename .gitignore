@@ -31,6 +31,11 @@ data/
 .env
 .env.*
 
+# API keys / secrets (never commit; read via env var or explicit path)
+groq_api_key
+*_api_key
+*.secret
+
 # OS
 .DS_Store
 Thumbs.db
