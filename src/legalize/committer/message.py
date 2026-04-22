@@ -3,11 +3,11 @@
 Generic multi-country format:
     [type] Title — affected articles
 
-    Norma: BOE-A-1978-31229
-    Disposición: BOE-A-2024-3099
-    Fecha: 2024-02-17
-    URL: https://www.boe.es/...
-    Artículos afectados: Artículo 49
+    Norm: BOE-A-1978-31229
+    Disposition: BOE-A-2024-3099
+    Date: 2024-02-17
+    Source: https://www.boe.es/...
+    Affected articles: art. 49
 
     Source-Id: BOE-A-2024-3099
     Source-Date: 2024-02-17
@@ -84,16 +84,16 @@ def _build_subject(
 ) -> str:
     """Build the first line of the commit message.
 
-    [reforma] Constitución Española — art. 49
+    [reform] Constitución Española — art. 49
     """
     prefix = f"[{commit_type.value}]"
     title = metadata.short_title
 
     if commit_type == CommitType.BOOTSTRAP:
-        return f"{prefix} {title} — versión original {reform.date.year}"
+        return f"{prefix} {title} — original version {reform.date.year}"
 
     if commit_type == CommitType.FIX_PIPELINE:
-        return f"{prefix} Regenerar {title}"
+        return f"{prefix} Regenerate {title}"
 
     if affected:
         arts_brief = _abbreviate_articles(affected)
@@ -114,28 +114,28 @@ def _build_body(
 
     if commit_type == CommitType.BOOTSTRAP:
         return (
-            f"Publicación original de {metadata.short_title}.\n"
+            f"Original publication of {metadata.short_title}.\n"
             f"\n"
-            f"Norma: {metadata.identifier}\n"
-            f"Fecha: {date_str}\n"
-            f"Fuente: {metadata.source}"
+            f"Norm: {metadata.identifier}\n"
+            f"Date: {date_str}\n"
+            f"Source: {metadata.source}"
         )
 
     return (
-        f"Norma: {metadata.identifier}\n"
-        f"Disposición: {reform.norm_id}\n"
-        f"Fecha: {date_str}\n"
-        f"Fuente: {metadata.source}\n"
+        f"Norm: {metadata.identifier}\n"
+        f"Disposition: {reform.norm_id}\n"
+        f"Date: {date_str}\n"
+        f"Source: {metadata.source}\n"
         f"\n"
-        f"Artículos afectados: {affected_str}"
+        f"Affected articles: {affected_str}"
     )
 
 
 def _abbreviate_articles(articles: list[str]) -> str:
     """Abbreviate list of articles for the commit subject.
 
-    ['Artículo 49'] → 'art. 49'
-    ['Artículo 13', 'Artículo 14'] → 'arts. 13, 14'
+    ['Article 49'] → 'art. 49'
+    ['Article 13', 'Article 14'] → 'arts. 13, 14'
     """
     nums = []
     for art in articles:
@@ -153,7 +153,7 @@ def _abbreviate_articles(articles: list[str]) -> str:
         return f"arts. {', '.join(nums)}"
 
     shown = ", ".join(nums[:3])
-    return f"arts. {shown} y {len(nums) - 3} más"
+    return f"arts. {shown} and {len(nums) - 3} more"
 
 
 def _get_affected_articles(reform: Reform, blocks: list[Block] | tuple[Block, ...]) -> list[str]:
