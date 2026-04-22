@@ -59,19 +59,20 @@ logger = logging.getLogger(__name__)
 
 Backend = Literal["groq", "ollama"]
 
-# Escalation ladder. Order matters: cheapest first. A higher-rung model is
-# consulted only when the previous one returned low-confidence output or
-# an invalid JSON shape.
-GROQ_ESCALATION: tuple[str, ...] = (
-    "openai/gpt-oss-20b",
-    "openai/gpt-oss-120b",
-    "llama-3.3-70b-versatile",
-)
+# Model ladder. The "escalation" idea (cheapest-first with retry) was
+# deferred out of MVP after an independent review: the optimization is
+# worth ~$0.20 on 1200 calls but costs hours of debugging complexity
+# (silent short-circuits when the cheap rung is confidently wrong, mixed
+# extractor provenance in the fidelity loop). We keep the tuple interface
+# so Phase 3 can re-introduce escalation with real data, but the MVP
+# default is a single model.
+#
+# gpt-oss-120b strikes the best quality/cost for Spanish legal text
+# ($0.15/$0.75 per MTok, ~500ms/call on Groq). Stage C MVP budget is
+# ~$0.60 total at this model — noise at our scale.
+GROQ_ESCALATION: tuple[str, ...] = ("openai/gpt-oss-120b",)
 
-OLLAMA_ESCALATION: tuple[str, ...] = (
-    "qwen2.5:32b-instruct",
-    "llama3.3:70b-instruct",
-)
+OLLAMA_ESCALATION: tuple[str, ...] = ("qwen2.5:32b-instruct",)
 
 
 class LLMError(RuntimeError):
@@ -374,8 +375,12 @@ class AmendmentLLM:
             source_boe_id=source_boe_id,
             source_date=source_date,
             new_text=new_text,
-            confidence=conf,
-            extractor="llm",
+            # Both axes collapse to the model's own confidence when the
+            # LLM constructed the patch from scratch — it owns both the
+            # anchor decision and the text extraction.
+            anchor_confidence=conf,
+            new_text_confidence=conf if op != "delete" else 1.0,
+            extractor="llm_parse",
             ordering_key=ordering_key,
         )
 
@@ -433,12 +438,19 @@ class AmendmentLLM:
                 corrected_op = corrected.get("operation") or patch.operation
                 if corrected_op not in ("replace", "insert", "delete"):
                     corrected_op = patch.operation
+                cconf = float(corrected.get("confidence", 0.0))
                 corrected_patch = dc_replace(
                     patch,
                     operation=corrected_op,
                     new_text=corrected_new_text,
-                    confidence=float(corrected.get("confidence", 0.0)),
-                    extractor="llm",
+                    anchor_confidence=cconf,
+                    new_text_confidence=cconf if corrected_op != "delete" else 1.0,
+                    # Distinct from "llm_parse": this patch started as a
+                    # regex candidate the verifier disagreed with. Keeping
+                    # the provenance separate lets the fidelity loop see
+                    # whether verifier-corrections agree with the base
+                    # text as often as from-scratch parses.
+                    extractor="llm_verify_correct",
                 )
 
         return VerifyResult(
@@ -460,11 +472,22 @@ class AmendmentLLM:
         """Try each model in the ladder until one returns a valid JSON.
 
         Returns (model_used, parsed_json). Raises LLMError if every rung
-        fails. Honors the disk cache at the prompt level (not per-model):
-        a prompt resolved by gpt-oss-20b last week is not re-asked even if
-        you bump the ladder later, because the ANSWER is what matters.
+        fails.
+
+        Cache semantics (hardened post-review):
+
+        - Key = hash(system || user || model_ladder). If we change the
+          ladder or the prompt, the cache is invalidated — no stale
+          answers from a different question.
+        - Payload = {model, response_id, groq_model_reported, parsed}.
+          Groq silently updates weights under the same alias (e.g. a
+          `gpt-oss-120b` response today may not match the same alias
+          tomorrow). We cannot pin weights, but we can OBSERVE drift by
+          recording the response_id + the model name Groq echoes back. A
+          separate script can flag cache entries whose metadata changed
+          between runs even though the cached parse is reused.
         """
-        cache_key = _prompt_hash(system, user)
+        cache_key = _prompt_hash(system, user, self.cfg.resolved_escalation())
         cached = self._cache_get(cache_key)
         if cached is not None:
             return cached["model"], cached["parsed"]
@@ -472,26 +495,38 @@ class AmendmentLLM:
         errors: list[str] = []
         for model in self.cfg.resolved_escalation():
             try:
-                parsed = self._call_once(model=model, system=system, user=user, schema=schema)
+                parsed, meta = self._call_once(
+                    model=model,
+                    system=system,
+                    user=user,
+                    schema=schema,
+                )
             except LLMError as e:
                 errors.append(f"{model}: {e}")
                 continue
 
             conf = parsed.get("confidence")
             if isinstance(conf, (int, float)) and conf < self.cfg.rung_threshold:
-                # This rung isn't confident. Escalate to the next one.
                 errors.append(f"{model}: confidence {conf:.2f} below rung threshold")
                 continue
 
-            self._cache_put(cache_key, {"model": model, "parsed": parsed})
+            self._cache_put(
+                cache_key,
+                {
+                    "model": model,
+                    "parsed": parsed,
+                    "response_id": meta.get("response_id", ""),
+                    "groq_model_reported": meta.get("model_reported", ""),
+                },
+            )
             return model, parsed
 
-        # Every rung either errored or returned low-confidence. The caller
-        # must fall back to a commit-pointer reform; LLMError carries the
-        # per-rung diagnostics so the fidelity loop can log them.
         raise LLMError("all models failed: " + "; ".join(errors))
 
-    def _call_once(self, *, model: str, system: str, user: str, schema: dict) -> dict:
+    def _call_once(self, *, model: str, system: str, user: str, schema: dict) -> tuple[dict, dict]:
+        """One HTTP round-trip. Returns (parsed_json, response_meta) where
+        response_meta carries the opaque response_id + the model Groq
+        echoed back — both are used for drift observability."""
         api_key = self.cfg.resolved_api_key()
         if self.cfg.backend == "groq" and not api_key:
             raise LLMError("GROQ_API_KEY not set")
@@ -509,9 +544,6 @@ class AmendmentLLM:
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ],
-            # Groq + Ollama both honor json_object mode. Some models also
-            # accept a json_schema; we keep to json_object for portability
-            # and validate the shape client-side.
             "response_format": {"type": "json_object"},
         }
 
@@ -538,14 +570,15 @@ class AmendmentLLM:
         if not isinstance(parsed, dict):
             raise LLMError(f"{model} returned non-object JSON: {type(parsed).__name__}")
 
-        # Best-effort schema validation. We don't pull jsonschema as a
-        # dependency for this; the required keys are few and structural
-        # errors are caught by the caller's business logic downstream.
         missing = set(schema.get("required", [])) - set(parsed.keys())
         if missing:
             raise LLMError(f"{model} missing required keys: {sorted(missing)}")
 
-        return parsed
+        response_meta = {
+            "response_id": data.get("id", ""),
+            "model_reported": data.get("model", ""),
+        }
+        return parsed, response_meta
 
     # ── cache ─────────────────────────────────────────────
 
@@ -577,13 +610,21 @@ class AmendmentLLM:
 # ──────────────────────────────────────────────────────────
 
 
-def _prompt_hash(system: str, user: str) -> str:
-    """Stable cache key: blake2b of system+user prompt. Model-independent —
-    we want to reuse the answer even if we change the ladder later."""
+def _prompt_hash(system: str, user: str, ladder: tuple[str, ...] = ()) -> str:
+    """Stable cache key: blake2b of (system || user || ladder).
+
+    The ladder is part of the key so that changing it (e.g. swapping
+    gpt-oss-120b for a reasoning model) invalidates the cache. The
+    alternative — a model-independent key — would happily serve a 20b
+    answer when a 120b was requested, which is exactly the class of bug
+    the fidelity loop is supposed to catch.
+    """
     h = hashlib.blake2b(digest_size=16)
     h.update(system.encode("utf-8"))
     h.update(b"\x00")
     h.update(user.encode("utf-8"))
+    h.update(b"\x00")
+    h.update("|".join(ladder).encode("utf-8"))
     return h.hexdigest()
 
 

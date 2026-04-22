@@ -168,14 +168,25 @@ oficial; si quiere, va al BOE a leerla.
 
 Sobre la muestra de **~500 Circulares BdE/CNMV** (subset de Stage C MVP):
 
-- ≥ 90 % de operaciones MODIFICA + AÑADE + SUPRIME aplicadas con hash-check OK.
+- **≥ 85 %** de operaciones MODIFICA + AÑADE + SUPRIME aplicadas con hash-check OK.
+  Target revisado de 90 → 85 % tras review externo. Aritmética honesta con los
+  datos medidos: 71 % regex-only + ~55 % del resto vía LLM ≈ 87 % esperado.
+  Go/no-go a Fase 2 se decide por **trayectoria** entre iteraciones del fidelity
+  loop, no por el absoluto.
 - ≥ 0.95 text_ratio medio contra BOE HTML cuando exista consolidación oficial de algún test case (Circulares del BdE de antes de 2010 a veces están en `/legislacion-consolidada`).
 - 0 corrupciones silenciosas (todo fallo visible en logs + commit-pointer fallback).
 - Tiempo de procesado aceptable: ≤ 2 segundos por patch de media (incluido LLM).
+- **Idempotencia de reruns** — tres cláusulas inviolables, definidas en
+  `tests/test_stage_c_idempotency.py`:
+  - A. bit-identical rerun (SHAs iguales sobre el mismo input)
+  - B. detect-and-skip en reruns parciales (via `git log --grep Source-Id`)
+  - C. commit-pointers sticky (solo `legalize reprocess --norm {id}` reconstruye)
 
 Métrica alcanzada con la muestra del subagente:
 - Circular BdE 1/2025: 92 % match regex-only.
 - Circular BdE 6/2021: 64 % regex-only (sube con LLM).
+- 5 fixtures internos (14 patches MVP): 67 % text-patches filled por regex tras
+  el split de confidence en dos ejes (anchor_confidence + new_text_confidence).
 
 ## Fases y dependencias
 
@@ -194,8 +205,10 @@ Métrica alcanzada con la muestra del subagente:
   └─ Semana 5: wiring (módulo 7) + tests (módulo 8) + push
 
 [FASE 2] Decisión go/no-go
-  └─ Si cobertura ≥ 90 % sobre Circulares → seguir
-     Si < 90 % → iterar parser antes de extender
+  └─ Si cobertura ≥ 85 % sobre Circulares → seguir
+     Si < 85 % → iterar parser antes de extender
+  (Gate por trayectoria: si iter N+1 sube ≥ 3 pp sobre iter N, continuar
+   aunque el absoluto esté por debajo de 85 %.)
 
 [FASE 3] Extensión — Órdenes, Instrucciones, Convenios  (3-4 semanas)
   ├─ Adapt patterns: cada rango tiene variantes de redacción

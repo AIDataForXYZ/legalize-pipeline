@@ -71,20 +71,34 @@ def operation_for_verb(code: str) -> Operation | None:
 # ──────────────────────────────────────────────────────────
 
 
+Extractor = Literal["regex", "llm_parse", "llm_verify_correct", "none"]
+# "regex"               → fully deterministic extraction
+# "llm_parse"           → LLM parse_difficult_case produced this patch from scratch
+# "llm_verify_correct"  → LLM verify() said the regex patch was wrong and returned
+#                         a correction. Useful to separate populations in the
+#                         fidelity loop: a regression in regex vs a regression in
+#                         verifier calibration have different diagnoses.
+
+
 @dataclass(frozen=True)
 class AmendmentPatch:
     """A structured modification of one norm by another.
 
-    `new_text` is populated when the extractor found a «...» block matching
-    this patch; otherwise it stays None and the caller decides whether to
-    invoke the LLM or emit a commit-pointer reform.
+    Two orthogonal confidence axes:
 
-    `confidence` is a heuristic in [0.0, 1.0]:
-      - 1.0: direct 1-to-1 match between a single <anterior> and a single
-             TextBlock in the body (happy path).
-      - 0.9: match via anchor-hint similarity, single best candidate.
-      - 0.5-0.8: multiple plausible candidates; the extractor picked one.
-      - <0.5: no «...» block found; caller should invoke LLM or fallback.
+    - `anchor_confidence`   — how sure we are the anchor (target+position) is
+      correct. High when <anterior> has exactly one matching TextBlock with a
+      strong Jaccard overlap, or when there's only one patch in scope (so the
+      target is unambiguous).
+    - `new_text_confidence` — how sure we are the extracted new_text is the
+      literal text the modifier intends. High when a «...» block was attached;
+      zero when no block matched. For delete verbs this is always 1.0 (no text
+      is needed).
+
+    Keeping them separate lets the LLM stage make a tighter ask: "I have a
+    solid anchor but missing new_text, find only the text" vs "parse from
+    scratch". Downstream `confidence` (compound) is `min(anchor, new_text)`
+    so existing callers still get the worst-axis score.
     """
 
     target_id: str  # BOE-A-... being modified
@@ -95,9 +109,17 @@ class AmendmentPatch:
     source_boe_id: str  # BOE-A-... of the modifier
     source_date: date  # fecha_disposicion of modifier
     new_text: tuple[str, ...] | None = None
-    confidence: float = 0.0
-    extractor: Literal["regex", "llm", "none"] = "none"
+    anchor_confidence: float = 0.0
+    new_text_confidence: float = 0.0
+    extractor: Extractor = "none"
     ordering_key: str = ""  # "orden" attr, for stable sort
+
+    @property
+    def confidence(self) -> float:
+        """Compound confidence = worst of the two axes. Callers that need a
+        single number (legacy code, logs) use this; routing logic should
+        consult the axes directly."""
+        return min(self.anchor_confidence, self.new_text_confidence)
 
 
 @dataclass(frozen=True)
@@ -169,12 +191,45 @@ def _modifier_identity(root: etree._Element) -> tuple[str, date | None]:
     return src_id, src_date
 
 
+# Verb codes that Stage C has classified as out-of-scope but are known to
+# appear in the BOE corpus. When we see one of these, log at DEBUG and
+# carry on — they produce commit-pointers downstream. Anything NOT on this
+# list and NOT in _VERB_TO_OPERATION is a "drift signal" and is counted
+# separately so the fidelity loop can alert on BOE schema changes
+# (e.g. new verbs introduced for EU-directive transpositions, which was
+# the case at least twice since 2012).
+_KNOWN_OUT_OF_SCOPE_VERBS: frozenset[str] = frozenset(
+    {
+        "201",  # CORRECCION de errores
+        "203",  # CORRIGE errores
+        "440",  # DE CONFORMIDAD con
+        "470",  # DECLARA (sentencia TC)
+        "552",  # Recurso promovido contra
+        "693",  # DICTADA (auto TC)
+        "260",  # COMPLEMENTA
+        "287",  # TRANSPONE
+        "630",  # COMPETENCIA
+        "690",  # AUTO
+        "691",  # RECURSO
+        "694",  # SENTENCIA
+        "695",  # PROVIDENCIA
+        # leave room for more; do NOT remove entries without checking the
+        # fidelity loop for regressions.
+    }
+)
+
+
 def parse_anteriores(xml_data: bytes | str) -> list[AmendmentPatch]:
     """Extract raw AmendmentPatch rows from a modifier's <anteriores>.
 
     Verbs outside the MVP set (corrections, judicial acts, references) are
     skipped with a debug log. The caller can still recover them by walking
     the XML directly; we deliberately filter here to keep Stage C focused.
+
+    Unknown verb codes (not in _VERB_TO_OPERATION and not in
+    _KNOWN_OUT_OF_SCOPE_VERBS) are logged at WARNING level so the fidelity
+    loop can alert on BOE schema drift. See the "drift signal" metric in
+    scripts/es_fidelity_c/report.py.
     """
     root = _load_root(xml_data)
     src_id, src_date = _modifier_identity(root)
@@ -195,12 +250,22 @@ def parse_anteriores(xml_data: bytes | str) -> list[AmendmentPatch]:
 
         op = operation_for_verb(verb_code)
         if op is None:
-            logger.debug(
-                "skipping out-of-scope verb code=%s verb=%r target=%s",
-                verb_code,
-                verb_text,
-                target_id,
-            )
+            if verb_code and verb_code not in _KNOWN_OUT_OF_SCOPE_VERBS:
+                logger.warning(
+                    "unknown BOE verb code=%s verb=%r target=%s (modifier=%s) "
+                    "— possible schema drift, review _KNOWN_OUT_OF_SCOPE_VERBS",
+                    verb_code,
+                    verb_text,
+                    target_id,
+                    src_id,
+                )
+            else:
+                logger.debug(
+                    "out-of-scope verb code=%s verb=%r target=%s",
+                    verb_code,
+                    verb_text,
+                    target_id,
+                )
             continue
 
         anchor_hint = _text_of(ant, "texto")
@@ -232,6 +297,43 @@ def parse_anteriores(xml_data: bytes | str) -> list[AmendmentPatch]:
 # ──────────────────────────────────────────────────────────
 # «...» extractor (module 2)
 # ──────────────────────────────────────────────────────────
+
+
+# Quote-delimiter normalization. BOE XML has used at least five distinct
+# quote conventions across decades:
+#
+#   «...»  (U+00AB / U+00BB)          — post-2000 standard
+#   &laquo;...&raquo;                  — XML entity form, older docs
+#   "..." (U+201C / U+201D)           — when typesetter used smart quotes
+#   "..." (ASCII straight)            — pre-2010 plain text drops
+#   "..." (sometimes with inner „")   — Germanic-influenced typographers
+#
+# We normalize to «...» at the text-iteration boundary so the downstream
+# regex only ever sees one shape. Without this, a silent-failure class
+# kicks in: the amendment shows up in <anteriores> but the regex finds no
+# «...» block and emits a commit-pointer for no good reason.
+_QUOTE_NORMALIZATION: tuple[tuple[str, str], ...] = (
+    ("&laquo;", "«"),
+    ("&raquo;", "»"),
+    ("“", "«"),  # LEFT DOUBLE QUOTATION MARK
+    ("”", "»"),  # RIGHT DOUBLE QUOTATION MARK
+    ("„", "«"),  # DOUBLE LOW-9 (Germanic)
+    ("‟", "»"),  # DOUBLE HIGH-REVERSED-9
+)
+
+
+def normalize_quotes(text: str) -> str:
+    """Map the various BOE quote conventions to the canonical «...» pair.
+
+    ASCII ``"..."`` is NOT mapped: a paired-straight-quote detector needs
+    state (opening vs closing) and BOE uses straight quotes legitimately
+    inside e.g. code-like content. We prefer the false-negative (miss a
+    rare pre-2010 Circular with straight quotes) over the false-positive
+    (mistake an inline term for a modification block).
+    """
+    for src, dst in _QUOTE_NORMALIZATION:
+        text = text.replace(src, dst)
+    return text
 
 
 # Paragraph classes that the BOE uses for *quoted content*. A run of
@@ -319,6 +421,7 @@ def _iter_body(root: etree._Element) -> list[_BodyItem]:
 
         if tag == "p":
             flat = " ".join("".join(child.itertext()).split()).strip()
+            flat = normalize_quotes(flat)
             if flat:
                 items.append(_BodyItem("p", css, (flat,)))
             continue
@@ -331,6 +434,7 @@ def _iter_body(root: etree._Element) -> list[_BodyItem]:
                 if etree.QName(p.tag).localname != "p":
                     continue
                 flat = " ".join("".join(p.itertext()).split()).strip()
+                flat = normalize_quotes(flat)
                 if flat:
                     inner.append(flat)
             if inner:
@@ -617,7 +721,8 @@ def _attach_text_blocks(
 
     out: list[AmendmentPatch] = list(patches)
 
-    # Pass 1: delete patches don't consume blocks and are trivially confident.
+    # Pass 1: delete patches don't consume blocks and are trivially confident
+    # on both axes (anchor comes from <anterior>, new_text is not applicable).
     delete_idx: list[int] = []
     text_idx: list[int] = []
     for i, p in enumerate(patches):
@@ -627,12 +732,29 @@ def _attach_text_blocks(
             text_idx.append(i)
 
     for i in delete_idx:
-        out[i] = _replace(out[i], confidence=1.0, extractor="regex")
+        out[i] = _replace(
+            out[i],
+            anchor_confidence=1.0,
+            new_text_confidence=1.0,
+            extractor="regex",
+        )
 
     if not text_idx or not blocks:
+        # Text-patches without body blocks: the anchor may still be clear
+        # (single patch → target unambiguous) but new_text is missing.
+        if text_idx and len(text_idx) == 1 and not blocks:
+            i = text_idx[0]
+            out[i] = _replace(
+                out[i],
+                anchor_confidence=1.0,
+                new_text_confidence=0.0,
+                extractor="regex",
+            )
         return out
 
-    # Pass 2a: exactly one text-patch → all blocks collapse into it.
+    # Pass 2a: exactly one text-patch → all blocks collapse into it. Anchor
+    # is trivially unambiguous (one <anterior>), new_text is strong
+    # (concatenation of every quoted run in the body).
     if len(text_idx) == 1:
         i = text_idx[0]
         joined_stripped: list[str] = []
@@ -641,7 +763,8 @@ def _attach_text_blocks(
         out[i] = _replace(
             out[i],
             new_text=tuple(joined_stripped),
-            confidence=1.0,
+            anchor_confidence=1.0,
+            new_text_confidence=1.0,
             extractor="regex",
         )
         return out
@@ -667,12 +790,18 @@ def _attach_text_blocks(
             continue
         assigned[pi].append(bi)
         used_blocks.add(bi)
-        # Do NOT break after one: we want a patch to collect ALL blocks it
-        # matches strongly. Without this, a patch that edits 3 apartados
-        # would only catch 1 block.
 
     for pi, block_indices in assigned.items():
         if not block_indices:
+            # Patch landed with no blocks assigned: anchor is ambiguous in
+            # this multi-patch context AND we have no text. Both axes low;
+            # caller will route to LLM or commit-pointer.
+            out[pi] = _replace(
+                out[pi],
+                anchor_confidence=0.3,
+                new_text_confidence=0.0,
+                extractor="regex",
+            )
             continue
         block_indices.sort()  # document order
         paragraphs: list[str] = []
@@ -680,11 +809,16 @@ def _attach_text_blocks(
         for bi in block_indices:
             paragraphs.extend(blocks[bi].paragraphs)
             best_score = max(best_score, _score_match(patches[pi].anchor_hint, blocks[bi].intro))
-        conf = 0.95 if best_score >= 0.95 else best_score
+        # Anchor confidence tracks how tightly the patch and its block(s)
+        # agree on structural signals. New_text confidence is high when we
+        # did extract text; when extraction is empty it is 0.
+        anchor_conf = 0.95 if best_score >= 0.95 else best_score
+        new_text_conf = 0.95 if paragraphs else 0.0
         out[pi] = _replace(
             out[pi],
             new_text=tuple(paragraphs),
-            confidence=conf,
+            anchor_confidence=anchor_conf,
+            new_text_confidence=new_text_conf,
             extractor="regex",
         )
 

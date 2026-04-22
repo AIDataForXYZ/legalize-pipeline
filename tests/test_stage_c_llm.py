@@ -100,8 +100,10 @@ def test_parse_difficult_case_returns_structured_patch(tmp_path: Path) -> None:
 
     assert patch.operation == "replace"
     assert patch.new_text == ("c) Nuevo texto de la letra c del apartado 2 del articulo 5.",)
-    assert patch.extractor == "llm"
-    assert patch.confidence == 0.95
+    assert patch.extractor == "llm_parse"
+    assert patch.confidence == 0.95  # compound via @property
+    assert patch.anchor_confidence == 0.95
+    assert patch.new_text_confidence == 0.95
     assert patch.target_id == "BOE-A-2017-14334"
 
 
@@ -192,9 +194,10 @@ def test_parse_difficult_case_rejects_invalid_operation(tmp_path: Path) -> None:
 
 
 @responses.activate
-def test_escalates_to_next_model_on_low_confidence(tmp_path: Path) -> None:
-    """First rung returns confidence below threshold; second rung clears it.
-    The final patch must come from the second model."""
+def test_escalates_through_explicit_ladder(tmp_path: Path) -> None:
+    """When a caller opts into a multi-model ladder, the first rung's low
+    confidence triggers the second rung. The MVP default is single-model
+    (no escalation) but the mechanism remains in the code for Phase 3."""
 
     # First call (20b): low confidence
     responses.add(
@@ -243,7 +246,11 @@ def test_escalates_to_next_model_on_low_confidence(tmp_path: Path) -> None:
         status=200,
     )
 
-    llm = _make_llm(tmp_path, rung_threshold=0.8)
+    llm = _make_llm(
+        tmp_path,
+        rung_threshold=0.8,
+        escalation=("openai/gpt-oss-20b", "openai/gpt-oss-120b"),
+    )
     patch = llm.parse_difficult_case(
         base_context="articulo 1",
         modifier_excerpt="se modifica el art. 1 por «texto definitivo»",
@@ -395,7 +402,8 @@ def test_verify_returns_corrected_patch(tmp_path: Path) -> None:
         source_boe_id="BOE-A-Y",
         source_date=date(2021, 1, 1),
         new_text=("texto propuesto INCORRECTO",),
-        confidence=0.7,
+        anchor_confidence=0.7,
+        new_text_confidence=0.7,
         extractor="regex",
     )
     result = llm.verify(patch=original, base_context="base", modifier_excerpt="excerpt")
@@ -403,7 +411,7 @@ def test_verify_returns_corrected_patch(tmp_path: Path) -> None:
     assert result.verdict == "wrong"
     assert result.corrected_patch is not None
     assert result.corrected_patch.new_text == ("texto correcto",)
-    assert result.corrected_patch.extractor == "llm"
+    assert result.corrected_patch.extractor == "llm_verify_correct"
     # target/source metadata is preserved from the original patch.
     assert result.corrected_patch.target_id == "BOE-A-X"
     assert result.corrected_patch.source_boe_id == "BOE-A-Y"
@@ -438,9 +446,13 @@ def test_build_anchor_context_empty_inputs() -> None:
 # ──────────────────────────────────────────────────────────
 
 
-def test_default_escalation_is_groq_cheapest_first() -> None:
+def test_default_ladder_is_single_model_for_mvp() -> None:
+    """Post-review: the multi-rung escalation was deferred until Phase 3.
+    MVP default is one model (gpt-oss-120b). The tuple interface remains
+    so future versions can opt back into a ladder without API changes."""
     cfg = LLMConfig()
-    assert cfg.resolved_escalation()[0] == "openai/gpt-oss-20b"
+    assert len(cfg.resolved_escalation()) == 1
+    assert cfg.resolved_escalation()[0] == "openai/gpt-oss-120b"
     assert cfg.resolved_escalation() == GROQ_ESCALATION
 
 

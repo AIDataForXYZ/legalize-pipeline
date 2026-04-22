@@ -239,6 +239,121 @@ def test_parse_amendments_delete_verbs_have_full_confidence() -> None:
         assert p.extractor == "regex"
 
 
+# ──────────────────────────────────────────────────────────
+# Split confidence axes
+# ──────────────────────────────────────────────────────────
+
+
+def test_confidence_compound_is_minimum_of_axes() -> None:
+    """The compound confidence property must equal min(anchor, new_text).
+    Downstream LLM routing depends on this semantics: a patch with strong
+    anchor but missing new_text should be flagged low-confidence overall
+    so the caller sends it to the LLM new_text extractor."""
+    from legalize.fetcher.es.amendments import AmendmentPatch
+
+    p = AmendmentPatch(
+        target_id="BOE-A-X",
+        operation="replace",
+        verb_code="270",
+        verb_text="MODIFICA",
+        anchor_hint="art. 5",
+        source_boe_id="BOE-A-Y",
+        source_date=date(2021, 1, 1),
+        anchor_confidence=0.95,
+        new_text_confidence=0.3,
+    )
+    assert p.confidence == 0.3
+
+
+def test_single_text_patch_with_blocks_is_fully_confident_on_both_axes() -> None:
+    """modif-1.xml (Circular BdE) has 1 text patch + ~19 blocks; both axes
+    must be 1.0 because anchor is unambiguous (one target) and new_text is
+    complete (all blocks concatenated)."""
+    patches = parse_amendments(_read("modif-1.xml"))
+    modifica = [p for p in patches if p.operation == "replace"][0]
+    assert modifica.anchor_confidence == 1.0
+    assert modifica.new_text_confidence == 1.0
+
+
+# ──────────────────────────────────────────────────────────
+# Quote delimiter normalization
+# ──────────────────────────────────────────────────────────
+
+
+def test_normalize_quotes_maps_entity_form() -> None:
+    from legalize.fetcher.es.amendments import normalize_quotes
+
+    assert normalize_quotes("texto &laquo;nuevo&raquo;.") == "texto «nuevo»."
+
+
+def test_normalize_quotes_maps_smart_quotes() -> None:
+    """Typesetter-supplied smart quotes (U+201C/U+201D) normalize to «»."""
+    from legalize.fetcher.es.amendments import normalize_quotes
+
+    assert normalize_quotes("texto “nuevo”.") == "texto «nuevo»."
+
+
+def test_normalize_quotes_leaves_ascii_straight_alone() -> None:
+    """ASCII straight quotes are ambiguous (defined term vs modification)
+    so we do not normalize them — see the comment in normalize_quotes."""
+    from legalize.fetcher.es.amendments import normalize_quotes
+
+    assert normalize_quotes('texto "nuevo".') == 'texto "nuevo".'
+
+
+# ──────────────────────────────────────────────────────────
+# Unknown verb code → warning (drift signal)
+# ──────────────────────────────────────────────────────────
+
+
+def test_unknown_verb_code_emits_warning(caplog) -> None:
+    """An <anterior> with a verb code not in the known set must log at
+    WARNING level so the fidelity loop can detect BOE schema drift.
+    Known-out-of-scope verbs (201 corrections, 552 judicial, etc.) log
+    only at DEBUG because we've already triaged them."""
+    import logging
+
+    # Synthetic XML with a bogus verb code 9999
+    xml = b"""<?xml version="1.0" encoding="UTF-8"?>
+<documento>
+  <metadatos>
+    <identificador>BOE-A-2099-1</identificador>
+    <fecha_disposicion>20990101</fecha_disposicion>
+    <fecha_publicacion>20990102</fecha_publicacion>
+  </metadatos>
+  <analisis>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-1">
+          <palabra codigo="9999">VERBO_NUEVO</palabra>
+          <texto>desconocido</texto>
+        </anterior>
+      </anteriores>
+    </referencias>
+  </analisis>
+  <texto></texto>
+</documento>
+"""
+    with caplog.at_level(logging.WARNING, logger="legalize.fetcher.es.amendments"):
+        patches = parse_anteriores(xml)
+    assert patches == []
+    assert any("unknown BOE verb code" in r.message and "9999" in r.message for r in caplog.records)
+
+
+def test_known_out_of_scope_verb_does_not_warn(caplog) -> None:
+    """Code 201 (CORRECCION de errores) is a known out-of-scope verb — the
+    parser must skip it silently (no WARNING)."""
+    import logging
+
+    with caplog.at_level(logging.WARNING, logger="legalize.fetcher.es.amendments"):
+        patches = parse_anteriores(_read("modif-5-ley.xml"))  # only 201/203 verbs
+    assert patches == []
+    warnings = [r for r in caplog.records if r.levelno == logging.WARNING]
+    assert not warnings, (
+        f"unexpected warnings on known out-of-scope verbs: {[w.message for w in warnings]}"
+    )
+
+
 def test_parse_amendments_does_not_fabricate_on_empty_body() -> None:
     """modif-ley-8183 has no usable body → no patches, no exceptions."""
     patches = parse_amendments(_read("modif-ley-8183.xml"))
