@@ -86,6 +86,16 @@ def test_parse_articulo_with_bis_ter() -> None:
     assert a.articulo is not None and "bis" in a.articulo.lower()
 
 
+def test_parse_short_abbreviated_articulo() -> None:
+    """BOE mixes 'articulo' and 'art.' freely in anchor hints."""
+    a = parse_anchor_from_hint("un art. 61 bis a la Ley 35/2006")
+    assert a.articulo is not None and "61" in a.articulo and "bis" in a.articulo.lower()
+
+    a2 = parse_anchor_from_hint("arts. 9.3.c) y 28.2.d) de la Ley del IS")
+    # Only the first match is kept per parser contract.
+    assert a2.articulo is not None and a2.articulo.startswith("9")
+
+
 def test_parse_disposicion_compound() -> None:
     a = parse_anchor_from_hint("la disposicion adicional primera")
     assert a.disposicion == "adicional primera"

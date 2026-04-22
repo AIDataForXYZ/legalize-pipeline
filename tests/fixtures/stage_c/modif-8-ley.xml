@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251220162601">
+  <metadatos>
+    <identificador>BOE-A-2022-6764</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <fecha_disposicion/>
+    <numero_oficial/>
+    <titulo>Corrección de errores del Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20220427</fecha_publicacion>
+    <diario_numero>100</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>57089</pagina_inicial>
+    <pagina_final>57090</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2022/04/27/pdfs/BOE-A-2022-6764.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2022-6764</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2022-6764</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-29</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/93"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/158"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/329"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/397"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/530"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1624"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1640"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3879"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3892"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4021"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5343"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6836"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6936"/>
+        <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2022-6764</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-29</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/93"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/158"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/329"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/397"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/530"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1624"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1640"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3879"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3892"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4021"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5343"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6836"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6936"/>
+            <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrects rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de errores del Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-27</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2022/03/29/6/corrigendum/20220427/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="93" orden="1">Administraciones Públicas</materia>
+      <materia codigo="158" orden="1">Agricultura</materia>
+      <materia codigo="329" orden="1">Asistencia social</materia>
+      <materia codigo="397" orden="1">Autorizaciones</materia>
+      <materia codigo="530" orden="1">Buques</materia>
+      <materia codigo="1624" orden="1">Consumidores y usuarios</materia>
+      <materia codigo="1640" orden="1">Contratación administrativa</materia>
+      <materia codigo="3188" orden="1">Energía eléctrica</materia>
+      <materia codigo="3879" orden="1">Ganadería</materia>
+      <materia codigo="3892" orden="1">Gasoductos</materia>
+      <materia codigo="4021" orden="1">Homologación de títulos académicos</materia>
+      <materia codigo="4107" orden="1">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="5343" orden="1">Pagos</materia>
+      <materia codigo="6836" orden="1">Tasas</materia>
+      <materia codigo="6936" orden="1">Transportes marítimos</materia>
+    </materias>
+    <notas>
+      <nota codigo="0" orden="999">Las correcciones de errores de las normas relacionadas, se establecen por estar modificadas por el Real Decreto-ley 6/2022, de 29 de marzo.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2022-4972" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>del Real Decreto-ley 6/2022, de 29 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2020-17340" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>del Real Decreto-ley 36/2020, de 30 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2017-11532" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>de la Orden ETU/943/2017, de 6 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2017-11505" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>del Real Decreto 897/2017, de 6 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2014-13256" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>del Real Decreto 1075/2014, de 19 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-20764" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>de la Ley 35/2006, de 28 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1998-23284" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>de la Ley 34/1998, de 7 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1988-3987" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>del Real Decreto 104/1988, de 29 de enero</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="101" orden="1">Agricultura</alerta>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="106" orden="1">Consumidores y usuarios</alerta>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="114" orden="1">Educación y enseñanza</alerta>
+      <alerta codigo="115" orden="1">Energía</alerta>
+      <alerta codigo="117" orden="1">Ganadería y animales</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+      <alerta codigo="132" orden="1">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos errores en el Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania, publicado en el «Boletín Oficial del Estado» número 76, de 30 de marzo de 2022, se procede a efectuar las oportunas rectificaciones:</p>
+    <p class="parrafo_2">En la página 41420, segundo párrafo, en la primera fila, donde dice: «La disposición final trigésima cuarta modifica el artículo 4, el artículo 7, el artículo 9, la disposición adicional octava…», debe decir: «La disposición final trigésima cuarta modifica el artículo 4, la disposición adicional octava…».</p>
+    <p class="parrafo">En la página 41454, artículo 25, apartado 4, en la tabla, en la columna «Código CNAE», en la última fila, donde dice: «8016», debe decir: «8690».</p>
+    <p class="parrafo">En la página 41487, disposición final segunda, en el primer párrafo, donde dice: «Se introduce una disposición transitoria segunda, con el siguiente contenido: “Disposición transitoria segunda. 1. Las personas beneficiarias del régimen de protección temporal a que hacen referencia los artículos 2 y 11 Real Decreto 1325/2003, de 24 de octubre…”», debe decir: «Se modifica el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria, en los siguientes términos: Uno. La disposición transitoria pasa a ser disposición transitoria primera. Dos. Se introduce una disposición transitoria segunda, con el siguiente contenido: “Disposición transitoria segunda. 1. Las personas beneficiarias del régimen de protección temporal a que hacen referencia los artículos 2 y 11 Real Decreto 1325/2003, de 24 de octubre, por el que…”».</p>
+    <p class="parrafo">En la página 41489, disposición final cuarta, apartado cinco, donde dice: «Se añade una nueva letra ag) en el artículo 110 con la siguiente redacción: “ag) El incumplimiento…”», debe decir: «Se añade una nueva letra aq) en el artículo 110 con la siguiente redacción: “aq) El incumplimiento…”».</p>
+    <p class="parrafo">En la página 41495, disposición final décima, en el texto de la disposición adicional quincuagésima primera, primera línea, donde dice: «3. Estarán exentas...», debe decir: «Estarán exentas...».</p>
+    <p class="parrafo">En la página 41503, disposición final decimonovena, en la segunda línea, donde dice: «… se incluye el siguiente párrafo:…», debe decir: «… se incluye un nuevo apartado 6 con la siguiente redacción:…»; en el párrafo segundo, en la primera línea, donde dice: «En el año 2022, por derogación del artículo 44.4 del Reglamento 1307/2013,…», debe decir: «6. En el año 2022, por derogación del artículo 44.4 del Reglamento (UE) n.º 1307/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013,…»; en el apartado dos, primer párrafo, en la última línea, donde dice: «… se incluye el siguiente párrafo:…», debe decir: «… se incluye un nuevo apartado 7 con la siguiente redacción:…»; y en el mismo apartado dos, en el segundo párrafo, en la primera línea, donde dice: «En el año 2022, por derogación del artículo 45.2 del Reglamento 639/2014,…», debe decir: «7. En el año 2022, por derogación del artículo 45.2 del Reglamento Delegado (UE) n.º 639/2014 de la Comisión, de 11 de marzo de 2014,…».</p>
+    <p class="parrafo">En la página 41508, disposición final vigésima tercera, en el apartado cinco, en la primera línea, donde dice: «Se introduce un capítulo IV con la siguiente redacción:…», debe decir: «El capítulo IV queda redactado del siguiente modo:…».</p>
+    <p class="parrafo">En la página 41509, disposición final vigésima tercera, en el apartado seis, en la primera línea, donde dice: «Se introduce un capítulo V con la siguiente redacción:…», debe decir: «El capítulo V queda redactado del siguiente modo:…».</p>
+    <p class="parrafo">En la página 41516, disposición final vigésima cuarta, en el apartado tres, en la primera línea, donde dice: «Se modifica el artículo 6.1 y se añade un párrafo en el artículo 6.4 de la siguiente manera:…», debe decir: «Los apartados 1 y 4 del artículo 6 quedan redactados del siguiente modo:…».</p>
+    <p class="parrafo">En la página 41528, disposición final trigésima primera, en el segundo párrafo, donde dice: «Uno. Se añade un apartado 5 al artículo1 2, que queda redactado como sigue:…», debe decir: «Uno. Se añade un apartado 5 al artículo 2, que queda redactado como sigue:...».</p>
+  </texto>
+</documento>

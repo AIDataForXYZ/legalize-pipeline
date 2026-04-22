@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251220175601">
+  <metadatos>
+    <identificador>BOE-A-2023-5478</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <fecha_disposicion/>
+    <numero_oficial/>
+    <titulo>Corrección de errores de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20230302</fecha_publicacion>
+    <diario_numero>52</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>31060</pagina_inicial>
+    <pagina_final>31062</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2023/03/02/pdfs/BOE-A-2023-5478.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2023-5478</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2023-5478</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-23</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/385"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1754"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3089"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4087"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4102"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5023"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5541"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5686"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6658"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6836"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8113"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8126"/>
+        <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2023-5478</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-23</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/385"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1754"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3089"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4087"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4102"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5023"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5541"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5686"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6658"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6836"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8113"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8126"/>
+            <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrects rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de errores de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2022/12/23/31/corrigendum/20230302/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="385" orden="1">Auditoría de Cuentas</materia>
+      <materia codigo="1754" orden="1">Cotización a la Seguridad Social</materia>
+      <materia codigo="5023" orden="1">Discapacidad</materia>
+      <materia codigo="3089" orden="1">Dominio Público Radioeléctrico</materia>
+      <materia codigo="4087" orden="1">Impuesto General Indirecto Canario</materia>
+      <materia codigo="4102" orden="1">Impuesto sobre el Valor Añadido</materia>
+      <materia codigo="4107" orden="1">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4113" orden="1">Impuesto sobre Sociedades</materia>
+      <materia codigo="8113" orden="1">Instituto de Mayores y Servicios Sociales</materia>
+      <materia codigo="5541" orden="1">Pensiones</materia>
+      <materia codigo="5686" orden="1">Presupuestos Generales del Estado</materia>
+      <materia codigo="8126" orden="1">Renta Mínima de Inserción</materia>
+      <materia codigo="6658" orden="1">Sistema tributario</materia>
+      <materia codigo="6836" orden="1">Tasas</materia>
+    </materias>
+    <notas>
+      <nota codigo="0" orden="999">Las correciones de errores de las normas indicadas, se establecen por estar modificadas por la Ley 31/2022, de 23 de diciembre.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2022-22128" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>de la Ley 31/2022, de 23 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2021-21007" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 19/2021, de 20 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-8147" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 22/2015, de 20 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2014-12328" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 27/2014, de 27 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-20764" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 35/2006, de 28 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1998-16714" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 25/1998, de 13 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1994-15794" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 19/1994, de 6 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1991-14463" orden="2140">
+          <palabra codigo="203">CORRIGE errores</palabra>
+          <texto>en la Ley 20/1991, de 7 de junio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="142" orden="1">Discapacidad</alerta>
+      <alerta codigo="125" orden="1">Seguridad Social</alerta>
+      <alerta codigo="127" orden="1">Sistema financiero</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+      <alerta codigo="130" orden="1">Telecomunicaciones</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos errores en la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, publicada en el «Boletín Oficial del Estado» número 308, de 24 de diciembre de 2022, se procede a efectuar las oportunas rectificaciones:</p>
+    <p class="parrafo_2">En la página 180555, preámbulo, apartado IV, séptimo párrafo, en las cuatro últimas líneas, donde dice: «… Se regula la contratación de personal laboral con cargo a los créditos de inversiones y la competencia del Ministerio de Hacienda y Función Pública en materia de costes del personal al servicio del sector público en el ámbito de la negociación colectiva.», debe decir: «… Se regula la competencia del Ministerio de Hacienda y Función Pública en materia de costes del personal al servicio del sector público en el ámbito de la negociación colectiva.».</p>
+    <p class="parrafo">En la página 180559, preámbulo, apartado VII, debe suprimirse el antepenúltimo párrafo, donde dice: «En el Impuesto sobre las Transacciones Financieras, resulta necesario realizar una mejora técnica de la redacción existente, introducida por la Ley 12/2022, de 30 de junio, de regulación para el impulso de los planes de pensiones de empleo, por la que se modifica el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre, delimitando con precisión el ámbito subjetivo de aplicación de la exención a las adquisiciones realizadas por fondos de pensiones de empleo, mutualidades de previsión social o entidades de previsión social voluntaria, con la finalidad de reforzar la seguridad jurídica.».</p>
+    <p class="parrafo">En la página 180574, artículo 8.Dos, apartado 3, en la última línea, donde dice: «… y los créditos 19.01.281M.628 y 19.01.281M.638 “Patrimonio Sindical Acumulado”.», debe decir: «… y los créditos 19.01.281M.627 y 19.01.281M.637 “Patrimonio Sindical Acumulado”.».</p>
+    <p class="parrafo">En la página 180576, artículo 9.Cuatro, primer párrafo, en la cuarta línea, donde dice: «… Texto refundido de la Ley General de la Seguridad Social, …», debe decir: «… texto refundido de la Ley General de la Seguridad Social,…», y en el segundo párrafo, en la antepenúltima línea, donde dice: «… Texto refundido de la Ley General de la Seguridad Social,…», debe decir: «… texto refundido de la Ley General de la Seguridad Social,…».</p>
+    <p class="parrafo">En la página 180580, artículo 12.Cinco, en la tabla «Concepto», primera columna, cuarta fila, en la primera línea, donde dice: «… establecidas por la Leyes…», debe decir: «… establecidas por las Leyes…».</p>
+    <p class="parrafo">En la página 180580, artículo 12.Cinco, en la tabla «Concepto», primera columna, en la octava fila, donde dice: «… Ingreso Mínimo Vital.», debe decir: «… ingreso mínimo vital.».</p>
+    <p class="parrafo">En la página 180583, artículo 17, en el título, donde dice: «… remanentes de Tesorería…», debe decir: «… remanentes de tesorería…».</p>
+    <p class="parrafo">En la página 180584, artículo 17, segundo párrafo, en la primera línea, donde dice: «… remanente de Tesorería…», debe decir: «…remanente de tesorería…», y en la segunda línea, donde dice: «… Pensiones no Contributivas por Invalidez y Jubilación…», debe decir: «… pensiones no contributivas por invalidez y jubilación…».</p>
+    <p class="parrafo">En la página 180621, artículo 39.Dos, en la primera línea, donde dice: «… punto Uno, del Texto refundido…», debe decir: «… apartado 1, del texto refundido…».</p>
+    <p class="parrafo">En la página 180623, artículo 42.Uno, primer párrafo, en la octava línea, donde dice: «… apartado uno del artículo 43…», debe decir: «… apartado Uno del artículo 43…»; y en el cuarto párrafo, en la sexta línea, donde dice: «… apartado uno del artículo 43…», debe decir: «… apartado Uno del artículo 43…».</p>
+    <p class="parrafo">En la página 180624, artículo 42.Cuatro, primer párrafo, en la tercera línea, donde dice: «… apartado cuatro del artículo 43…», debe decir: «… apartado Cuatro del artículo 43…».</p>
+    <p class="parrafo">En la página 180635, artículo 60, en el título, donde dice: «Reducción del Impuesto sobre la Renta de las Personas a empresarios y…», debe decir: «Reducción del Impuesto sobre la Renta de las Personas Físicas a empresarios y…».</p>
+    <p class="parrafo">En la página 180635, artículo 60.Dos, donde dice: «Se añade una disposición adicional quincuagésima tercera, que queda redactada de la siguiente forma:</p>
+    <p class="parrafo_2">“Disposición adicional quincuagésima tercera. Gastos de difícil justificación…”»,</p>
+    <p class="parrafo_2">debe decir: «Se añade una disposición adicional quincuagésima sexta, que queda redactada de la siguiente forma:</p>
+    <p class="parrafo_2">“Disposición adicional quincuagésima sexta. Gastos de difícil justificación…”».</p>
+    <p class="parrafo_2">En la página 180636, artículo 61, en el título, donde dice: «Reducción del Impuesto sobre la Renta de las Personas a empresarios…», debe decir: «Reducción del Impuesto sobre la Renta de las Personas Físicas a empresarios…».</p>
+    <p class="parrafo">En la página 180640, artículo 64, primer párrafo, en la primera línea, donde dice: «Con efectos desde 1 de enero de 2023 se modifica el artículo 81 de la Ley 35/2006…», debe decir: «Con efectos desde 1 de enero de 2023 y vigencia indefinida, se modifica el artículo 81 de la Ley 35/2006…».</p>
+    <p class="parrafo">En la página 180641, artículo 64, apartado 3, segundo párrafo, en la segunda línea, donde dice: «… en la Seguridad social…», debe decir: «… en la Seguridad Social…».</p>
+    <p class="parrafo">En la página 180643, artículo 67, en el título, donde dice: «Deducción por residencial habitual y efectiva…», debe decir: «Deducción por residencia habitual y efectiva…»; en el primer párrafo del texto marco, en la segunda línea, donde dice: «… adicional quincuagésima tercera…», debe decir: «… adicional quincuagésima séptima…»; en el texto de regulación, en la disposición adicional que se añade, en el título, donde dice: «Disposición adicional quincuagésima tercera. Deducción por residencial habitual…», debe decir: «Disposición adicional quincuagésima séptima. Deducción por residencia habitual…»; y en el primer párrafo, al final de la segunda línea, donde dice: «… en los términos y condiciones…», debe decir: «… en los mismos términos y condiciones…».</p>
+    <p class="parrafo">En la página 180643, en el título de la sección 2.ª, donde dice: «Impuesto sobre sociedades», debe decir: «Impuesto sobre Sociedades».</p>
+    <p class="parrafo">En la página 180643, artículo 68, apartado 1, segundo párrafo, en la última línea, donde dice: «… del artículo 101 de esta ley.», debe decir: «… del artículo 101 de esta Ley.».</p>
+    <p class="parrafo">En la página 180672, artículo 82.Cuatro, en el texto de regulación, primer párrafo, en la primera línea, donde dice: «2.º Si la entrega resultare exenta o no sujeta…», debe decir: «Si la entrega resultare exenta o no sujeta…».</p>
+    <p class="parrafo">En la página 180674, artículo 85.Uno, en la segunda línea, donde dice: «… Ley 9/2014, de 9 de mayo, General de Telecomunicaciones…», debe decir: «… Ley 11/2022, de 28 de junio, General de Telecomunicaciones…».</p>
+    <p class="parrafo">En la página 180748, artículo 123.Uno, en la tabla, en el título de la segunda columna, donde dice: «Cuota mensual en euros», debe decir: «Haber regulador euros/año».</p>
+    <p class="parrafo">En la página 180765, disposición adicional trigésima sexta, apartado uno, letra a), segundo párrafo, en la cuarta línea, donde dice: «… del apartado uno de la disposición…», debe decir: «… del apartado Uno de la disposición…»</p>
+    <p class="parrafo">En la página 180766, disposición adicional trigésima sexta, apartado uno, letra d), cuarto párrafo, en la quinta línea, donde dice: «… en el apartado uno…», debe decir: «… en el apartado Uno…».</p>
+    <p class="parrafo">En la página 180767, disposición adicional trigésima séptima, en la tabla, segunda columna, filas primera y segunda, donde dice:</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_coma">«149,86</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_coma">58,45»</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Debe decir:</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_coma">«149,86 Euros/mes</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_coma">58,45 Euros/mes»</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">En la página 180767, disposición adicional trigésima séptima, segundo párrafo, en la primera línea, donde dice: «En caso del subsidio el de movilidad y compensación…», debe decir: «En caso del subsidio de movilidad y compensación…»; y en la tercera línea, donde dice: «… subsidio apartado uno de la disposición…», debe decir: «… subsidio en el apartado Uno de la disposición…».</p>
+    <p class="parrafo">En la página 180767, disposición adicional trigésima séptima, apartado dos, en la cuarta línea, donde dice: «… apartado dos de la disposición adicional…», debe decir: «… apartado Dos de la disposición adicional…».</p>
+    <p class="parrafo">En la página 180824, disposición adicional centésima décima primera, segundo párrafo, en la primera línea, donde dice: «-Concepto 768…», debe decir: «-Concepto 764…».</p>
+    <p class="parrafo">En la página 180830, disposición adicional centésima vigésima, primer párrafo, en la última línea, donde dice: «… un total de 250 miles de euros.», debe decir: «…un total de 250 M€.».</p>
+    <p class="parrafo">En la página 180852, disposición final séptima, apartado dos, en la nueva redacción del artículo 44, apartado 1, letra c), en el segundo párrafo, donde dice: «(i) En el caso de entidades que…», debe decir: «En el caso de entidades que…».</p>
+    <p class="parrafo">En la página 180854, disposición final séptima, apartado dos, en la nueva redacción del artículo 44, apartado 7, en la última línea, donde dice: «… éstas.», debe decir: «… estas.».</p>
+    <p class="parrafo">En la página 180855, disposición final novena, segundo párrafo, en la segunda línea, donde dice: «… nueva redacción al apartado dos del artículo 15 de la Ley 25/1998, de 13 de julio…», debe decir: «… nueva redacción al párrafo primero del apartado dos del artículo 15 de la Ley 25/1998, de 13 de julio…».</p>
+    <p class="parrafo">En la página 180867, disposición final vigésima segunda, en la modificación del artículo 40.1 de la Ley 22/2015, de 20 de julio, primer párrafo, en la primera línea, donde dice: «En relación con la duración del contrato de auditoría…», debe decir: «1. En relación con la duración del contrato de auditoría…».</p>
+    <p class="parrafo">En la página 180890, disposición final trigésima segunda, quinto párrafo, en la segunda línea, donde dice: «… será incompatible con las pensiones asistenciales…», debe decir: «… será incompatible con la de beneficiario de las pensiones asistenciales…».</p>
+    <p class="parrafo">En la página 180894, disposición final trigésima sexta, cuatro, apartado 3, al final de la segunda línea, donde dice: «… en el apartado cuatro…», debe decir: «… en el apartado tres…»; y en el apartado 4, en la última línea, donde dice: «… apartado cuatro de la presente disposición adicional.», debe decir: «… apartado tres de la presente disposición adicional.».</p>
+    <p class="parrafo">En la página 180899, anexo I, tabla, segunda columna «Explicación», séptima fila, en la segunda línea, donde dice: «… Ingreso Mínimo Vital.», debe decir: «… ingreso mínimo vital.».</p>
+  </texto>
+</documento>

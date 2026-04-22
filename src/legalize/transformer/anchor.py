@@ -90,8 +90,12 @@ class Anchor:
 # separately so we can normalise it.
 
 # Articulo: "art. 5" "artículo 5.º" "arts. 9 y 10" "artículo 5 bis"
+#
+# Accepts both the long form ("artículo" / "articulos") and the short
+# abbreviated form ("art." / "arts."). BOE uses both interchangeably;
+# a hint like "un art. 61 bis a la Ley 35/2006" must parse.
 _RE_ARTICULO = re.compile(
-    r"art[ií]culo?s?\.?\s+(?P<ref>\d+\s*(?:bis|ter|quater)?(?:\.[º°ª]?)?)",
+    r"(?:art[ií]culos?|arts?\.)\s+(?P<ref>\d+\s*(?:bis|ter|quater)?(?:\.[º°ª]?)?)",
     re.IGNORECASE,
 )
 

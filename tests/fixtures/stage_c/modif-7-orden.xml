@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251219122601">
+  <metadatos>
+    <identificador>BOE-A-2007-4731</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <fecha_disposicion/>
+    <numero_oficial/>
+    <titulo>Corrección de errores de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20070307</fecha_publicacion>
+    <diario_numero>57</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>9634</pagina_inicial>
+    <pagina_final>9634</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2007/03/07/pdfs/A09634-09634.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/2007/03/16/pdfs/A01248-01248.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego>/boe_gallego/dias/2007/03/16/pdfs/A00979-00979.pdf</url_pdf_gallego>
+    <url_pdf_valenciano>/boe_valenciano/dias/2007/04/02/pdfs/A00299-00299.pdf</url_pdf_valenciano>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2007-4731</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-28</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4101"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4108"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+        <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2007-4731</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-28</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4101"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4107"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4108"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4113"/>
+            <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrects rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de errores de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-03-07</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correcció d'errors de la Llei 35/2006, de 28 de novembre, de l'impost sobre la renda de les persones físiques i de modificació parcial de les lleis dels impostos sobre societats, sobre la renda de no residents i sobre el patrimoni.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-03-16</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/glg">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/glg"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de erros da Lei 35/2006, do 28 de novembro, do imposto sobre a renda das personas físicas e de modificación parcial das leis dos impostos sobre sociedades, sobre a renda de non-residentes e sobre o patrimonio. («BOE» 57, do 7-3-2007.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-03-16</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/glg/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/glg"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/vci">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/vci"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correcció d'errors de la Llei 35/2006, de 28 de novembre, de l'Impost sobre la Renda de les Persones Físiques i de modificació parcial de les lleis dels Impostos sobre Societats, sobre la Renda de no Residents i sobre el Patrimoni. («BOE» 57, de 7-3-2007.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-04-02</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/vci/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/2006/11/28/35/corrigendum/20070307/dof/vci"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="4101" orden="">Impuesto sobre el Patrimonio</materia>
+      <materia codigo="4107" orden="">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4108" orden="">Impuesto sobre la Renta de los no Residentes</materia>
+      <materia codigo="4113" orden="">Impuesto sobre Sociedades</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2006-20764" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>de la Ley 35/2006, de 28 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="128" orden="">Sistema tributario</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTO_NORMAL">
+Advertidos errores en la publicación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, publicada en el «Boletín Oficial del Estado» número 285, de 29 de noviembre de 2006, se procede a efectuar las oportunas rectificaciones:
+</p>
+    <p class="ATEXTO_BLANCO_4">
+En el Índice, entre la «Disposición adicional vigésima cuarta» y la «Disposición transitoria primera» debe decir: «Disposición adicional vigésima quinta. Gastos e inversiones para habituar a los empleados en la utilización de las nuevas tecnologías de la comunicación y de la información.»
+</p>
+    <p class="ATEXTO_NORMAL">
+En la página 41752, primera columna, artículo 25.3.2.°, sexto párrafo, donde dice: «20 por ciento, cuando el perceptor tenga más de 66 y 69 años», debe decir: «20 por ciento, cuando el perceptor tenga entre 66 y 69 años».
+En la página 41760, segunda columna, artículo 49.2, cuarta línea, donde dice: «... a que se refiere el párrafo anterior...», debe decir: «... a que se refiere el apartado anterior...».
+En la página 41766, primera columna, artículo 68.1.4.°, d), segunda línea, donde dice: «... en el párrafo a) del apartado 1 anterior, será de 12.020 euros anuales», debe decir: «... en el número 1.º anterior, será de 12.020 euros anuales».
+En la página 41783, segunda columna, disposición adicional tercera, d), sexta línea, donde dice: «... que la cantidad recuperada, corresponda...», debe decir: «... que la cantidad recuperada, corresponde...».</p>
+  </texto>
+</documento>
