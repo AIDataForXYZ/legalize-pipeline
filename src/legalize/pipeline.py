@@ -33,7 +33,7 @@ from legalize.models import (
     Reform,
 )
 from legalize.state.store import StateStore, resolve_dates_to_process
-from legalize.storage import load_norma_from_json, save_structured_json
+from legalize.storage import json_path_for, load_norma_from_json, save_structured_json
 from legalize.transformer.markdown import render_norm_at_date
 from legalize.transformer.slug import norm_to_filepath
 from legalize.transformer.xml_parser import extract_reforms, parse_text_xml
@@ -244,12 +244,15 @@ def generic_fetch_one(
     from legalize.countries import get_client_class, get_metadata_parser, get_text_parser
 
     cc = config.get_country(country)
-    safe_id = norm_id.replace(":", "-").replace("/", "-").replace(" ", "")
-    json_path = Path(cc.data_dir) / "json" / f"{safe_id}.json"
 
-    if json_path.exists() and not force:
+    # Legacy flat-path check — for countries where ``identifier`` doesn't
+    # collide with other jurisdictions, this is the correct cache path
+    # and we can skip cheaply without touching the client at all.
+    safe_id = norm_id.replace(":", "-").replace("/", "-").replace(" ", "")
+    legacy_flat_path = Path(cc.data_dir) / "json" / f"{safe_id}.json"
+    if legacy_flat_path.exists() and not force:
         console.print(f"  [dim]{norm_id} already processed, skipping[/dim]")
-        return load_norma_from_json(json_path)
+        return load_norma_from_json(legacy_flat_path)
 
     client_cls = get_client_class(country)
     text_parser = get_text_parser(country)
@@ -261,6 +264,15 @@ def generic_fetch_one(
 
             meta_data = client.get_metadata(norm_id)
             metadata = meta_parser.parse(meta_data, norm_id)
+
+            # Multi-jurisdiction aware skip: re-check using the canonical
+            # ``{jurisdiction}/{identifier}.json`` path. This catches
+            # countries like CA where two norms (EN + FR) share the same
+            # ``identifier`` but land in different ``jurisdiction`` dirs.
+            json_path = json_path_for(cc.data_dir, metadata)
+            if json_path.exists() and not force:
+                console.print(f"  [dim]{norm_id} already processed, skipping[/dim]")
+                return load_norma_from_json(json_path)
 
             # Pass pre-fetched metadata to avoid redundant API call
             get_text_kwargs = {}
