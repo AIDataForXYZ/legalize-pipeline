@@ -13,5 +13,38 @@ from legalize.llm.amendment_parser import (
     LLMError,
     VerifyResult,
 )
+from legalize.llm.queue import (
+    CaseResolution,
+    CaseTier,
+    PendingCase,
+    PendingCaseQueue,
+    case_id_for,
+    classify_case,
+)
+from legalize.llm.resolver import (
+    build_full_prompt,
+    build_resolver_prompt,
+    ingest_resolutions,
+    load_batch,
+    parse_resolutions_json,
+)
 
-__all__ = ["AmendmentLLM", "LLMConfig", "LLMError", "VerifyResult"]
+__all__ = [
+    "AmendmentLLM",
+    "LLMConfig",
+    "LLMError",
+    "VerifyResult",
+    # queue
+    "CaseResolution",
+    "CaseTier",
+    "PendingCase",
+    "PendingCaseQueue",
+    "case_id_for",
+    "classify_case",
+    # resolver
+    "build_full_prompt",
+    "build_resolver_prompt",
+    "ingest_resolutions",
+    "load_batch",
+    "parse_resolutions_json",
+]
