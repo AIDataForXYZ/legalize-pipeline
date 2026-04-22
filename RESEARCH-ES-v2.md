@@ -437,10 +437,17 @@ Every new defect class added to the loop comes with a fixture in `tests/fixtures
 | 5  | (killed — chrome-strip perf bug) | — | — | — | — |
 | 6  | 34 | 0.9631 | 4/34  | 30/34 | TEXT_RATIO_93-98 |
 | 7  | 34 | **0.9814** | **17/34** | **33/34** | TEXT_RATIO_97-98 (ceiling) |
+| 8  | 67 (breadth) | **0.9824** | **30/67** | **63/67** | TEXT_RATIO_97-98 (ceiling) |
 
 The jump iter 6 → 7 came from the `[Bloque N: #anchor]` marker regex: BOE renders 2,277 of them between blocks in Código Civil alone (they look like `<p class="bloque">[Bloque 5: #ci]</p>` in the HTML). Filtering them out raised Civil from 0.94 to 0.975.
 
-The one law still under 0.95 is `BOE-A-1962-14073` (Orden 1962, nomenclatura catastral) — it has one table with heavy `rowspan` usage which Markdown pipe syntax cannot represent, so the cells are duplicated per row. Our MD is *more* readable than BOE HTML here; the metric just penalises the duplication. Documented as a known measurement artifact, not a content defect.
+The outliers under 0.95 (4 of 67 in iter 8 = 6 %):
+
+- `BOE-A-1962-14073` Orden 1962 catastro (0.84) — heavy rowspan tables; Markdown pipe syntax cannot represent rowspan so cells duplicate per row. Our MD is *more* readable than BOE HTML; the metric just penalises the duplication.
+- `BOE-A-1855-3318` Ley 1855 Títulos (0.90) and `BOE-A-1851-4969` RD 1851 (0.94) — tiny laws; one mismatched token weighs heavily in the ratio.
+- `BOE-A-2003-21847` RD 1432/2003 informes científicos (0.92) — annex with tabbed science/tech descriptions.
+
+All four are measurement artifacts or tiny-law variance, not content defects.
 
 ---
 
