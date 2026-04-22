@@ -74,20 +74,9 @@ The big missing classes:
 | RD "non-consolidated" (one-shot, puntual) | ❌ | ✅ | Approvals of statutes, designations with erga omnes effect. |
 | Instrucción, Acuerdo | partial | ✅ | Rare but load-bearing (e.g. Acuerdo CM aprobando Plan Estadístico). |
 
-### 1.3 Data-quality regression caught during the audit
+### 1.3 False alarm: "test data" in Código Penal
 
-`legalize-es/es/BOE-A-1995-25444.md` HEAD (Código Penal) has:
-
-```yaml
-title: "test"
-publication_date: "2000-01-01"
-rank: "ley"
-source: "https://www.boe.es/eli/"
-```
-
-Commit `ff5798c2`, 2026-04-09, `[reform]`. The prior commit (`8930ad3a`, 2024-06-10) had the correct frontmatter. The daily-update flow wrote placeholder values into the most-visited law of Spain. This is a critical bug that predates the refactor and needs a fix commit in the main branch on its own — it is not blocking the refactor scope, but deserves to be raised urgently.
-
-Action: scan the entire `es/` tree with `grep -l '^title: "test"' **/*.md` to see whether BOE-A-1995-25444 is alone, then reprocess every match. Track separately from this refactor.
+An earlier audit pass flagged `legalize-es/es/BOE-A-1995-25444.md` HEAD as having `title: "test"` placeholder frontmatter written by commit `ff5798c2` (2026-04-09). Re-checked against `main` via `gh api` on 2026-04-22: HEAD is correct (`title: "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal"`, `publication_date: "1995-11-24"`). The commit is a legitimate `[reform]` with real article-text changes. No production bug exists. Stale cache in the previous audit agent, ignored going forward.
 
 ### 1.4 Per-law scorecard (8 sample laws)
 
@@ -95,7 +84,7 @@ Action: scan the entire `es/` tree with `grep -l '^title: "test"' **/*.md` to se
 |---|---|---|---|---|---|---|---|
 | BOE-A-1978-31229 | Constitución | PASS | PASS | PASS | PASS (no tables/citas) | PASS | Ship quality |
 | BOE-A-1889-4763 | Código Civil | PASS | PASS | FAIL (libros flat) | FAIL (citas + sup) | PASS | Degraded |
-| BOE-A-1995-25444 | Código Penal | PASS | **FAIL — test data** | PASS | FAIL (notas + citas) | PASS | **Blocking bug** |
+| BOE-A-1995-25444 | Código Penal | PASS | PASS (false alarm in earlier audit, see §1.3) | PASS | FAIL (notas + citas) | PASS | Degraded |
 | BOE-A-2003-23186 | LGT | PASS | PASS | PARTIAL | FAIL (sangrado) | PASS | Minor |
 | BOE-A-2004-4214 | TR Haciendas Locales | **FAIL — tables dropped** | PASS | PASS | **FAIL — 21 tables + sup/sub** | PASS | **Wrong law text** |
 | BOE-A-2006-20764 | TR IRPF | **FAIL — 84 tables dropped** | PASS | PASS | FAIL | PASS | **Wrong law text** |
@@ -493,13 +482,9 @@ All four are measurement artifacts or tiny-law variance, not content defects.
 | `scripts/es_fidelity_sample.py`, `…_score.py`, `…_report.py` (new) | The §5 loop |
 | `tests/test_parser_es.py` | Fixtures per defect class; wired to the §5 loop |
 
-### P4 — orthogonal bug
+### P4 — orthogonal bug (retracted)
 
-| File | Change |
-|---|---|
-| `legalize-dev/legalize-es/es/BOE-A-1995-25444.md` | Revert commit `ff5798c2`; investigate the daily path that wrote `title: "test"`; scan `es/*.md` for other instances |
-
-This is NOT blocked by the refactor. It should be a separate small PR on main. Mentioned here because §1.3 found it during the audit.
+Previous version of this section flagged a test-data frontmatter regression on `BOE-A-1995-25444`. On re-check the commit in question was a legitimate reform with correct frontmatter. No production bug exists — retracted.
 
 ---
 
