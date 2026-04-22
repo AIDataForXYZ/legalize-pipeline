@@ -130,7 +130,11 @@ def daily(
                     # Process the disposition itself (new law or correction)
                     try:
                         meta_xml = client.get_metadata(disp.id_boe)
-                        metadata = parse_metadata(meta_xml, disp.id_boe)
+                        try:
+                            diario_xml = client.get_disposition_xml(disp.id_boe)
+                        except (requests.RequestException, ValueError):
+                            diario_xml = None
+                        metadata = parse_metadata(meta_xml, disp.id_boe, diario_xml=diario_xml)
                         text_xml = client.get_consolidated_text(metadata.identifier)
                         blocks = parse_text_xml(text_xml)
 
@@ -181,7 +185,11 @@ def daily(
 
                         try:
                             meta_xml = client.get_metadata(affected_id)
-                            metadata = parse_metadata(meta_xml, affected_id)
+                            try:
+                                diario_xml = client.get_disposition_xml(affected_id)
+                            except (requests.RequestException, ValueError):
+                                diario_xml = None
+                            metadata = parse_metadata(meta_xml, affected_id, diario_xml=diario_xml)
                             text_xml = client.get_consolidated_text(
                                 metadata.identifier, bypass_cache=True
                             )

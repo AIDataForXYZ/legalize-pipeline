@@ -3,32 +3,55 @@
 Converts the XML from endpoint /api/legislacion-consolidada/id/{id}/texto
 into domain data models (Block, Version, Reform).
 
-Generalized from scripts/parser.py — works with any norm,
-not just the Constitution.
+This parser is Spain-specific (it walks BOE's <bloque>/<version>/<p> schema)
+but the module path is kept here so pre-existing callers keep working.
+Peer countries use their own fetcher/<cc>/parser.py.
+
+Refactored 2026-04-22 (RESEARCH-ES-v2.md):
+- Per-tag dispatch (no more findall("p") that dropped tables/lists/images)
+- Rich inline extractor (sup/sub/a-href/br preserved)
+- Images linked to BOE CDN as Markdown image references (policy §11)
+- nota_pie retained as styled paragraphs (no longer silently dropped)
+- UTF-8 + control-char hygiene
+- Recover-mode XML parser (BOE occasionally ships ill-formed disposiciones)
 """
 
 from __future__ import annotations
 
 import logging
+import re
 from datetime import date
 
 from lxml import etree
 
+_BOE_ID_RE = re.compile(r"\bBOE-[A-Z]-\d{4}-\d+\b")
+
+from legalize.fetcher._tables import render_table
+from legalize.fetcher._text import clean as _clean_bytes
 from legalize.models import Block, Paragraph, Reform, Version
 
 logger = logging.getLogger(__name__)
 
+BOE_BASE = "https://www.boe.es"
+
+# CSS classes that should NEVER appear as standalone paragraphs — they are
+# either table-cell fragments (handled by the table renderer) or chrome
+# injected by the BOE viewer that has no legal weight.
+_STRIP_CLASSES = {
+    "cabeza_tabla",
+    "cuerpo_tabla_izq",
+    "cuerpo_tabla_centro",
+    "cuerpo_tabla_der",
+    "textoCompleto",
+}
+
 
 def _parse_date(date_str: str) -> date | None:
-    """Converts YYYYMMDD → date. Handles invalid BOE dates (e.g.: 99999999).
-
-    Returns None for sentinel values like 99999999 (indefinite validity).
-    """
+    """Converts YYYYMMDD → date. Handles BOE's indefinite-validity sentinel 99999999."""
     if not date_str or date_str.strip() in ("", "99999999"):
         return None
     try:
         parsed = date(int(date_str[:4]), int(date_str[4:6]), int(date_str[6:8]))
-        # Reject dates in the future beyond a reasonable margin (BOE data quality issue)
         if parsed.year > 2100:
             return None
         return parsed
@@ -37,11 +60,24 @@ def _parse_date(date_str: str) -> date | None:
         return None
 
 
-def _extract_text(element: etree._Element) -> str:
-    """Extracts all text from an element, including sub-elements.
+# ─────────────────────────────────────────────
+# Inline text extraction
+# ─────────────────────────────────────────────
 
-    Handles <a>, <b>, <i>, <em>, <strong>, <span> and other inline elements.
-    Preserves bold/italic formatting with Markdown markers.
+
+def _extract_inline(element: etree._Element) -> str:
+    """Extract the text of an element preserving inline formatting.
+
+    Handles:
+    - <b>, <strong>           -> **text**
+    - <i>, <em>               -> *text*
+    - <sup>                   -> <sup>text</sup>  (HTML passthrough)
+    - <sub>                   -> <sub>text</sub>  (HTML passthrough)
+    - <br>                    -> two spaces + newline (Markdown hard break)
+    - <a href="...">          -> [text](url)
+    - <a class="refPost|refAnt" referencia="BOE-A-...">
+                              -> [text](https://www.boe.es/buscar/doc.php?id=BOE-A-...)
+    - <span>, <font>, others  -> transparent passthrough
     """
     parts: list[str] = []
 
@@ -49,20 +85,60 @@ def _extract_text(element: etree._Element) -> str:
         parts.append(element.text)
 
     for child in element:
-        tag = etree.QName(child.tag).localname if isinstance(child.tag, str) else ""
+        if not isinstance(child.tag, str):
+            continue
+        tag = etree.QName(child.tag).localname
 
-        # Inline formatting → Markdown
         if tag in ("b", "strong"):
-            inner = _extract_text(child)
-            if inner.strip():
-                parts.append(f"**{inner.strip()}**")
+            inner = _extract_inline(child).strip()
+            if inner:
+                parts.append(f"**{inner}**")
         elif tag in ("i", "em"):
-            inner = _extract_text(child)
-            if inner.strip():
-                parts.append(f"*{inner.strip()}*")
+            inner = _extract_inline(child).strip()
+            if inner:
+                parts.append(f"*{inner}*")
+        elif tag == "sup":
+            inner = _extract_inline(child).strip()
+            if inner:
+                parts.append(f"<sup>{inner}</sup>")
+        elif tag == "sub":
+            inner = _extract_inline(child).strip()
+            if inner:
+                parts.append(f"<sub>{inner}</sub>")
+        elif tag == "br":
+            parts.append("  \n")
+        elif tag == "a":
+            inner = _extract_inline(child)
+            href = child.get("href") or ""
+            ref = child.get("referencia") or ""
+            # Normalise relative/anchor hrefs
+            if href.startswith("/"):
+                href = f"{BOE_BASE}{href}"
+            elif href.startswith("#"):
+                href = ""
+            # Derive href from explicit `referencia` attribute
+            if not href and ref.startswith("BOE-"):
+                href = f"{BOE_BASE}/buscar/doc.php?id={ref}"
+            # Fallback: BOE uses <a class="refPost">Ref. BOE-A-YYYY-NN</a>
+            # with NO href and NO referencia attribute — scrape the ID from
+            # the anchor text so cross-refs still work.
+            if not href:
+                m = _BOE_ID_RE.search(inner)
+                if m:
+                    href = f"{BOE_BASE}/buscar/doc.php?id={m.group(0)}"
+            if href:
+                parts.append(f"[{inner.strip()}]({href})")
+            else:
+                parts.append(inner)
+        elif tag == "img":
+            alt = child.get("alt") or ""
+            src = child.get("src") or ""
+            if src:
+                if src.startswith("/"):
+                    src = f"{BOE_BASE}{src}"
+                parts.append(f"![{alt}]({src})")
         else:
-            # <a>, <span>, etc. → just extract text
-            inner = _extract_text(child)
+            inner = _extract_inline(child)
             if inner:
                 parts.append(inner)
 
@@ -72,19 +148,146 @@ def _extract_text(element: etree._Element) -> str:
     return "".join(parts)
 
 
-def parse_text_xml(xml_data: bytes | str) -> list[Block]:
-    """Parses the BOE consolidated text XML and returns a list of Block.
+def _cell_text(cell: etree._Element) -> str:
+    """Cell text extractor for the generic table renderer."""
+    inner_parts: list[str] = []
+    for child in cell:
+        if not isinstance(child.tag, str):
+            continue
+        t = _extract_inline(child).strip()
+        if t:
+            inner_parts.append(t)
+    if not inner_parts and cell.text:
+        return cell.text.strip()
+    return " ".join(inner_parts)
 
-    Args:
-        xml_data: Raw XML from the /texto endpoint (bytes or string).
 
-    Returns:
-        List of Block with their historical versions.
+# ─────────────────────────────────────────────
+# Paragraph-level dispatch
+# ─────────────────────────────────────────────
+
+
+def _image_paragraph(img: etree._Element) -> Paragraph | None:
+    alt = img.get("alt") or ""
+    src = img.get("src") or ""
+    if not src:
+        return None
+    if src.startswith("/"):
+        src = f"{BOE_BASE}{src}"
+    text = f"![{alt}]({src})"
+    return Paragraph(css_class="image", text=text)
+
+
+def _table_paragraph(table: etree._Element) -> Paragraph | None:
+    md = render_table(table, _cell_text)
+    if not md:
+        return None
+    return Paragraph(css_class="table", text=md)
+
+
+def _list_paragraphs(list_el: etree._Element, ordered: bool) -> list[Paragraph]:
+    """Render an <ol>/<ul> into a sequence of list_item paragraphs."""
+    out: list[Paragraph] = []
+    i = 1
+    for li in list_el:
+        if not isinstance(li.tag, str):
+            continue
+        tag = etree.QName(li.tag).localname
+        if tag != "li":
+            continue
+        text = _extract_inline(li).strip()
+        if not text:
+            continue
+        prefix = f"{i}. " if ordered else "- "
+        out.append(Paragraph(css_class="list_item", text=prefix + text))
+        i += 1
+    return out
+
+
+def _parse_blockquote(bq_el: etree._Element) -> list[Paragraph]:
+    """Render a <blockquote> (child of <version>) as a list of Paragraphs.
+
+    BOE uses <blockquote> to wrap two kinds of content:
+    - nota_pie footnotes (the legislative audit trail for a given block)
+    - quoted amending text (verbatim prior wording of the block being modified)
+
+    For footnotes we let the normal nota_pie CSS mapping (`> <small>`) do its
+    thing. For quoted amending text (p class="parrafo" / "parrafo_2" /
+    "sangrado*" inside a blockquote) we force a `> ` prefix on the rendered
+    text so the quotation marker survives into Markdown.
     """
-    if isinstance(xml_data, str):
-        xml_data = xml_data.encode("utf-8")
+    WRAP_CLASSES = {
+        "parrafo",
+        "parrafo_2",
+        "parrafo_3",
+        "sangrado",
+        "sangrado_2",
+        "sangrado_articulo",
+        "",
+    }
+    out: list[Paragraph] = []
+    for inner_el in bq_el:
+        if not isinstance(inner_el.tag, str):
+            continue
+        inner_tag = etree.QName(inner_el.tag).localname
+        if inner_tag == "p":
+            p = _parse_p(inner_el)
+            if p is None:
+                continue
+            if p.css_class in WRAP_CLASSES:
+                # Prefix with `> ` so it renders as a Markdown blockquote.
+                p = Paragraph(css_class="cita", text=p.text)
+            out.append(p)
+        elif inner_tag == "table":
+            t = _table_paragraph(inner_el)
+            if t is not None:
+                out.append(t)
+        elif inner_tag == "blockquote":
+            # Nested blockquotes (rare). Flatten.
+            out.extend(_parse_blockquote(inner_el))
+        elif inner_tag == "ol":
+            out.extend(_list_paragraphs(inner_el, ordered=True))
+        elif inner_tag == "ul":
+            out.extend(_list_paragraphs(inner_el, ordered=False))
+    return out
 
-    root = etree.fromstring(xml_data)
+
+def _parse_p(p_el: etree._Element) -> Paragraph | None:
+    """Turn one <p> element into a Paragraph (or None if it should be dropped)."""
+    css = (p_el.get("class") or "").strip()
+
+    # Image-only paragraphs — many BOE laws emit <p class="imagen"><img .../></p>
+    if css in ("imagen", "imagen_girada"):
+        img = p_el.find("img")
+        if img is not None:
+            return _image_paragraph(img)
+
+    if css in _STRIP_CLASSES:
+        return None
+
+    text = _extract_inline(p_el).strip()
+    if not text:
+        return None
+
+    return Paragraph(css_class=css, text=text)
+
+
+# ─────────────────────────────────────────────
+# Main parse
+# ─────────────────────────────────────────────
+
+
+def parse_text_xml(xml_data: bytes | str) -> list[Block]:
+    """Parse the BOE consolidated text XML and return a list of Block."""
+    if isinstance(xml_data, str):
+        xml_bytes = xml_data.encode("utf-8")
+    else:
+        xml_bytes = xml_data
+
+    text = _clean_bytes(xml_bytes)
+    parser = etree.XMLParser(recover=True, huge_tree=True, remove_blank_text=False)
+    root = etree.fromstring(text.encode("utf-8"), parser=parser)
+
     blocks: list[Block] = []
 
     for block_el in root.iter("bloque"):
@@ -93,16 +296,37 @@ def parse_text_xml(xml_data: bytes | str) -> list[Block]:
         for version_el in block_el.findall("version"):
             paragraphs: list[Paragraph] = []
 
-            for p_el in version_el.findall("p"):
-                css_class = p_el.get("class", "")
-
-                # Skip footnotes (reform metadata, not legal text)
-                if "nota_pie" in css_class:
+            for child in version_el:
+                if not isinstance(child.tag, str):
                     continue
+                tag = etree.QName(child.tag).localname
 
-                text = _extract_text(p_el)
-                if text.strip():
-                    paragraphs.append(Paragraph(css_class=css_class, text=text.strip()))
+                if tag == "p":
+                    p = _parse_p(child)
+                    if p is not None:
+                        paragraphs.append(p)
+                elif tag == "table":
+                    t = _table_paragraph(child)
+                    if t is not None:
+                        paragraphs.append(t)
+                elif tag == "ol":
+                    paragraphs.extend(_list_paragraphs(child, ordered=True))
+                elif tag == "ul":
+                    paragraphs.extend(_list_paragraphs(child, ordered=False))
+                elif tag == "img":
+                    ip = _image_paragraph(child)
+                    if ip is not None:
+                        paragraphs.append(ip)
+                elif tag == "pre":
+                    paragraphs.append(Paragraph(css_class="pre", text=_extract_inline(child)))
+                elif tag == "blockquote":
+                    paragraphs.extend(_parse_blockquote(child))
+                else:
+                    logger.debug(
+                        "unhandled element <%s> inside version %s",
+                        tag,
+                        version_el.get("id_norma", "?"),
+                    )
 
             fecha_pub = version_el.get("fecha_publicacion", "")
             fecha_vig = version_el.get("fecha_vigencia", "")
@@ -137,14 +361,13 @@ def parse_text_xml(xml_data: bytes | str) -> list[Block]:
     return blocks
 
 
+# ─────────────────────────────────────────────
+# Reform extraction
+# ─────────────────────────────────────────────
+
+
 def extract_reforms(blocks: list[Block]) -> list[Reform]:
-    """Extracts the list of unique reforms sorted chronologically.
-
-    Each reform is a point in time where at least one block changed.
-    The first "reform" is always the original publication.
-    """
     reform_map: dict[tuple[date, str], list[str]] = {}
-
     for block in blocks:
         for version in block.versions:
             key = (version.publication_date, version.norm_id)
@@ -152,20 +375,13 @@ def extract_reforms(blocks: list[Block]) -> list[Reform]:
                 reform_map[key] = []
             reform_map[key].append(block.id)
 
-    reforms = [
-        Reform(
-            date=reform_date,
-            norm_id=norm_id,
-            affected_blocks=tuple(block_ids),
-        )
+    return [
+        Reform(date=reform_date, norm_id=norm_id, affected_blocks=tuple(block_ids))
         for (reform_date, norm_id), block_ids in sorted(reform_map.items())
     ]
 
-    return reforms
-
 
 def get_block_at_date(block: Block, target_date: date) -> Version | None:
-    """Returns the version of a block in effect at target_date."""
     applicable = [v for v in block.versions if v.publication_date <= target_date]
     if not applicable:
         return None

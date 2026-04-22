@@ -35,13 +35,21 @@ class TestParseTextoXml:
             for version in block.versions:
                 assert isinstance(version.paragraphs, tuple)
 
-    def test_notas_pie_excluded(self, constitucion_xml: bytes):
-        """Footnotes (reform metadata) must not appear as paragraphs."""
+    def test_notas_pie_retained(self, constitucion_xml: bytes):
+        """Footnotes (reform provenance) are retained as `nota_pie` paragraphs.
+
+        Refactor 2026-04-22: we no longer drop them; the note body is the
+        legislative audit trail for each block and the markdown renderer
+        emits it as a quoted small-text line. See RESEARCH-ES-v2.md §1.1.
+        """
         blocks = parse_text_xml(constitucion_xml)
+        note_classes: set[str] = set()
         for block in blocks:
             for version in block.versions:
                 for p in version.paragraphs:
-                    assert "nota_pie" not in p.css_class
+                    if p.css_class.startswith("nota_pie"):
+                        note_classes.add(p.css_class)
+        assert note_classes.issubset({"nota_pie", "nota_pie_2"})
 
     def test_constitucion_has_17_blocks(self, constitucion_xml: bytes):
         """The sample Constitution has 17 blocks."""

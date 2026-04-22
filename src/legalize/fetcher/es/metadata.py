@@ -238,12 +238,21 @@ def _extract_jurisdiction(meta: etree._Element) -> str | None:
     return jurisdiction
 
 
-def parse_metadata(xml_data: bytes, id_boe: str) -> NormMetadata:
-    """Parses the XML response from the BOE /metadatos endpoint.
+def parse_metadata(
+    xml_data: bytes,
+    id_boe: str,
+    diario_xml: bytes | None = None,
+) -> NormMetadata:
+    """Parse the XML response from the BOE /metadatos endpoint.
 
     Args:
-        xml_data: Raw XML from the endpoint.
-        id_boe: BOE identifier (fallback if not in XML).
+        xml_data: Raw XML from /api/legislacion-consolidada/id/{id}/metadatos.
+        id_boe: BOE identifier (fallback when not in XML).
+        diario_xml: Optional raw XML from /diario_boe/xml.php?id={id}. When
+            supplied, we pull the richer fields only present in the diary
+            XML (pagina_inicial/final, url_pdf, multilingual URLs, subjects
+            from <analisis><materias>, cross-references from <analisis>
+            <referencias>, notes, alerts).
 
     Returns:
         Parsed NormMetadata.
@@ -253,7 +262,6 @@ def parse_metadata(xml_data: bytes, id_boe: str) -> NormMetadata:
     """
     root = etree.fromstring(xml_data)
 
-    # Navigate to <metadatos> inside <response><data>
     meta = root.find(".//metadatos")
     if meta is None:
         raise ValueError(f"<metadatos> not found in response for {id_boe}")
@@ -283,47 +291,45 @@ def parse_metadata(xml_data: bytes, id_boe: str) -> NormMetadata:
         or f"https://www.boe.es/buscar/act.php?id={identifier}"
     )
 
-    # Detect autonomous community jurisdiction from ELI URL or ambito
     jurisdiction = _extract_jurisdiction(meta)
 
-    # Extra fields: all available BOE metadata not captured in core fields
+    # Extra fields: everything BOE exposes that does not fit core NormMetadata.
     extra: list[tuple[str, str]] = []
 
-    official_number = _text_of(meta, "numero_oficial")
-    if official_number:
-        extra.append(("official_number", official_number))
+    def add(key: str, val: str | None) -> None:
+        if val:
+            extra.append((key, val))
 
+    # From /metadatos
+    add("department_code", _code_of(meta, "departamento"))
+    add("rank_code", _code_of(meta, "rango"))
+    add("ambito_code", _code_of(meta, "ambito"))
+    add("official_number", _text_of(meta, "numero_oficial"))
     enactment_date = _parse_date_boe(_text_of(meta, "fecha_disposicion"))
     if enactment_date:
-        extra.append(("enactment_date", enactment_date.isoformat()))
-
-    journal = _text_of(meta, "diario")
-    if journal:
-        extra.append(("official_journal", journal))
-
-    journal_issue = _text_of(meta, "diario_numero")
-    if journal_issue:
-        extra.append(("journal_issue", journal_issue))
-
+        add("enactment_date", enactment_date.isoformat())
+    add("official_journal", _text_of(meta, "diario"))
+    add("journal_issue", _text_of(meta, "diario_numero"))
     repeal_date = _parse_date_boe(_text_of(meta, "fecha_derogacion"))
     if repeal_date:
-        extra.append(("repeal_date", repeal_date.isoformat()))
-
+        add("repeal_date", repeal_date.isoformat())
     annulment = _text_of(meta, "estatus_anulacion")
     if annulment and annulment != "N":
-        extra.append(("annulment_status", annulment))
-
+        add("annulment_status", annulment)
     validity_exhausted = _text_of(meta, "vigencia_agotada")
     if validity_exhausted and validity_exhausted != "N":
-        extra.append(("validity_exhausted", validity_exhausted))
+        add("validity_exhausted", validity_exhausted)
+    add("consolidation_status", _text_of(meta, "estado_consolidacion"))
+    add("scope", _text_of(meta, "ambito"))
+    add("url_eli", _text_of(meta, "url_eli"))
+    add("url_html_consolidada", _text_of(meta, "url_html_consolidada"))
 
-    consolidation = _text_of(meta, "estado_consolidacion")
-    if consolidation:
-        extra.append(("consolidation_status", consolidation))
-
-    scope = _text_of(meta, "ambito")
-    if scope:
-        extra.append(("scope", scope))
+    # From /diario_boe/xml.php (richer, if provided)
+    subjects: list[str] = []
+    pdf_url: str | None = None
+    if diario_xml:
+        subjects, pdf_url, diario_extra = _parse_diario_xml(diario_xml)
+        extra.extend(diario_extra)
 
     return NormMetadata(
         title=title,
@@ -337,5 +343,90 @@ def parse_metadata(xml_data: bytes, id_boe: str) -> NormMetadata:
         source=source_url,
         jurisdiction=jurisdiction,
         last_modified=effective_date,
+        pdf_url=pdf_url,
+        subjects=tuple(subjects),
         extra=tuple(extra),
     )
+
+
+def _parse_diario_xml(
+    diario_xml: bytes,
+) -> tuple[list[str], str | None, list[tuple[str, str]]]:
+    """Extract subjects, pdf_url and cross-reference metadata from the
+    /diario_boe/xml.php payload.
+
+    Returns:
+        (subjects, pdf_url, extra_fields)
+    """
+    subjects: list[str] = []
+    pdf_url: str | None = None
+    extra: list[tuple[str, str]] = []
+
+    try:
+        root = etree.fromstring(diario_xml)
+    except Exception:
+        logger.warning("diario XML parse failed")
+        return subjects, pdf_url, extra
+
+    dm = root.find("metadatos")
+    if dm is not None:
+        url_pdf = _text_of(dm, "url_pdf")
+        if url_pdf:
+            pdf_url = f"https://www.boe.es{url_pdf}" if url_pdf.startswith("/") else url_pdf
+            extra.append(("url_pdf", pdf_url))
+        for name, key in (
+            ("url_epub", "url_epub"),
+            ("url_pdf_catalan", "url_pdf_catalan"),
+            ("url_pdf_euskera", "url_pdf_euskera"),
+            ("url_pdf_gallego", "url_pdf_gallego"),
+            ("url_pdf_valenciano", "url_pdf_valenciano"),
+            ("pagina_inicial", "page_start"),
+            ("pagina_final", "page_end"),
+            ("letra_imagen", "image_marker"),
+            ("estatus_legislativo", "legislative_status"),
+        ):
+            v = _text_of(dm, name)
+            if v:
+                if name.startswith("url_") and v.startswith("/"):
+                    v = f"https://www.boe.es{v}"
+                extra.append((key, v))
+
+    analisis = root.find("analisis")
+    if analisis is not None:
+        materias = analisis.find("materias")
+        if materias is not None:
+            for m in materias.findall("materia"):
+                if m.text:
+                    subjects.append(m.text.strip())
+        alertas = analisis.find("alertas")
+        if alertas is not None:
+            alist = [a.text.strip() for a in alertas.findall("alerta") if a.text]
+            if alist:
+                extra.append(("alerts", "; ".join(alist)))
+        referencias = analisis.find("referencias")
+        if referencias is not None:
+            ants = referencias.find("anteriores")
+            if ants is not None:
+                refs = []
+                for a in ants.findall("anterior"):
+                    rid = a.get("referencia", "")
+                    if rid.startswith("BOE-"):
+                        verb_el = a.find("palabra")
+                        verb = verb_el.text if verb_el is not None and verb_el.text else ""
+                        refs.append(f"{verb} {rid}".strip())
+                if refs:
+                    extra.append(("references_previous", "; ".join(refs)))
+            posts = referencias.find("posteriores")
+            if posts is not None:
+                refs = []
+                for p in posts.findall("posterior"):
+                    rid = p.get("referencia", "")
+                    if rid.startswith("BOE-"):
+                        verb_el = p.find("palabra")
+                        verb = verb_el.text if verb_el is not None and verb_el.text else ""
+                        refs.append(f"{verb} {rid}".strip())
+                if refs:
+                    extra.append(("references_subsequent", "; ".join(refs[:20])))
+                    extra.append(("references_subsequent_count", str(len(refs))))
+
+    return subjects, pdf_url, extra

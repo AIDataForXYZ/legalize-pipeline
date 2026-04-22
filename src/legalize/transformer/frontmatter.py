@@ -56,6 +56,9 @@ def render_frontmatter(metadata: NormMetadata, version_date: date) -> str:
         lines.append(f'jurisdiction: "{metadata.jurisdiction}"')
     if metadata.pdf_url:
         lines.append(f'pdf_url: "{metadata.pdf_url}"')
+    if metadata.subjects:
+        subj_yaml = ", ".join(f'"{_escape_yaml(s)}"' for s in metadata.subjects)
+        lines.append(f"subjects: [{subj_yaml}]")
 
     for key, value in metadata.extra:
         lines.append(f'{key}: "{_escape_yaml(value)}"')

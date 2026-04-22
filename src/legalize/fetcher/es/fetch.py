@@ -50,7 +50,11 @@ def fetch_one(config: Config, boe_id: str, force: bool = False) -> ParsedNorm | 
         try:
             console.print(f"  Downloading [bold]{boe_id}[/bold]...")
             meta_xml = client.get_metadata(boe_id)
-            metadata = parse_metadata(meta_xml, boe_id)
+            try:
+                diario_xml = client.get_disposition_xml(boe_id)
+            except (requests.RequestException, ValueError):
+                diario_xml = None
+            metadata = parse_metadata(meta_xml, boe_id, diario_xml=diario_xml)
             text_xml = client.get_consolidated_text(boe_id, bypass_cache=force)
 
             blocks = parse_text_xml(text_xml)
