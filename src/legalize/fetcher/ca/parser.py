@@ -194,7 +194,7 @@ def _inline_text(el: etree._Element) -> str:
             elif stripped:
                 parts.append(stripped)
         elif tag == "a":
-            # Anchor links in pre-2016 Wayback XMLs. Render as plain text
+            # Anchor links in older pre-2016 XML variants. Render as plain text
             # unless an href is present, in which case preserve it as a
             # Markdown link. The URLs point at the active Justice Canada
             # site so they remain live.
@@ -354,7 +354,7 @@ def _parse_section(section: etree._Element) -> list[Paragraph]:
                         paragraphs.append(Paragraph(css_class="pre", text=f))
         elif tag == "a":
             # Anchor element appearing as direct Section child in pre-2016
-            # Wayback XMLs — typically a bookmark target with no rendered
+            # pre-2016 XMLs — typically a bookmark target with no rendered
             # content. Preserve any text via the inline helper and move on.
             t = _clean(_inline_text(child))
             if t:
@@ -1084,7 +1084,7 @@ def _parse_schedule(sched: etree._Element) -> list[Paragraph]:
         elif tag in ("AmendedText", "ReadAsText"):
             paragraphs.extend(_parse_amended_text(child))
         elif tag == "BilingualGroup":
-            # Appears in Wayback XMLs pre-2016 for side-by-side EN/FR
+            # Appears in pre-2016 XML variants for side-by-side EN/FR
             # listing of schedule items. Extract the plain text — in the
             # language-specific file we receive, only the relevant language
             # is present anyway.
@@ -1151,9 +1151,9 @@ class CATextParser(TextParser):
         is_bill = root_tag == "Bill"
 
         # Publication date:
-        # - modern consolidated XML (post-2016 Wayback + upstream) carries
+        # - modern consolidated XML (post-2016 upstream) carries
         #   ``lims:pit-date`` on the root.
-        # - pre-2016 Wayback XML predates the lims namespace; they carry a
+        # - pre-2016 XML variants predate the lims namespace; they carry a
         #   ``startdate="YYYYMMDD"`` attribute instead.
         # - Bills carry the assent date in ``BillHistory/Stages[assented-to]``.
         pub_date = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", ""))
@@ -1236,12 +1236,12 @@ class CATextParser(TextParser):
         Each entry is parsed through ``_parse_root`` regardless of its
         ``source_type`` — the renderer already handles the three XML root
         element variants (``Statute``/``Regulation`` from git log and
-        Wayback, ``Bill`` from annual-statute) uniformly.
+        annual-statute's ``Bill``) uniformly.
 
         ``Reform.norm_id`` is set to ``source_id`` so the committer's
         ``(Source-Id, Norm-Id)`` dedupe key remains unique per historical
-        event (a commit SHA, an annual-statute citation, a Wayback
-        timestamp, or a Gazette PDF locator).
+        event (a commit SHA, an annual-statute citation, a PIT snapshot
+        date, or a Gazette PDF locator).
 
         Backward-compat: entries using the legacy ``sha`` key (from
         pre-merge suvestine blobs cached on disk) are still recognised.
@@ -1320,7 +1320,51 @@ class CATextParser(TextParser):
                     )
                     continue
 
-                # XML branch: upstream-git / wayback-xml / annual-statute.
+                # PIT-HTML branch: Justice Canada's point-in-time HTML.
+                # Delegates to pit_parser which emits the same Paragraph
+                # shape as the XML parser so downstream rendering is
+                # identical across source_types.
+                if source_type == "pit-html":
+                    from legalize.fetcher.ca.pit_parser import parse_pit_html
+
+                    html_b64 = entry.pop("body_html", "")
+                    if not html_b64:
+                        continue
+                    try:
+                        html_bytes = base64.b64decode(html_b64)
+                    except (ValueError, TypeError) as exc:
+                        logger.warning(
+                            "Could not decode PIT HTML for %s (%s): %s",
+                            norm_id,
+                            source_id,
+                            exc,
+                        )
+                        continue
+                    del html_b64
+                    pit_paragraphs = tuple(parse_pit_html(html_bytes, lang=lang))
+                    del html_bytes
+                    if not pit_paragraphs:
+                        continue
+                    versions.append(
+                        Version(
+                            norm_id=source_id,
+                            publication_date=commit_date,
+                            effective_date=commit_date,
+                            paragraphs=pit_paragraphs,
+                        )
+                    )
+                    reforms.append(
+                        Reform(
+                            date=commit_date,
+                            norm_id=source_id,
+                            affected_blocks=("body",),
+                        )
+                    )
+                    if (idx + 1) % _GC_EVERY == 0:
+                        gc.collect()
+                    continue
+
+                # XML branch: upstream-git / annual-statute.
                 # ``pop`` instead of ``get`` — the base64 string (often
                 # MBs per entry on big acts) is released from the dict as
                 # soon as we decode it, avoiding a duplicate copy hanging
@@ -1363,7 +1407,7 @@ class CATextParser(TextParser):
                 paragraphs = blocks[0].versions[0].paragraphs
 
                 # Effective date: prefer XML's pit-date (consolidated, post-
-                # 2016) or startdate (pre-2016 Wayback) or assent date (bill);
+                # 2016) or startdate (pre-2016 XML) or assent date (bill);
                 # fall back to the event date itself.
                 pit = _parse_date(root.get(f"{{{LIMS_NS}}}pit-date", ""))
                 if pit is None:
@@ -1439,9 +1483,9 @@ class CATextParser(TextParser):
         - only one entry's XML is resident at a time (saves ~100 MB).
 
         Dispatch on ``source_type`` matches :meth:`parse_suvestine` —
-        ``upstream-git``/``wayback-xml``/``annual-statute`` go through
-        :meth:`_parse_root`; ``gazette-pdf`` through
-        :func:`_render_gazette_body`.
+        ``upstream-git``/``annual-statute`` go through :meth:`_parse_root`,
+        ``pit-html`` through :func:`pit_parser.parse_pit_html`, and
+        ``gazette-pdf`` through :func:`_render_gazette_body`.
         """
         _, _, url_lang, _ = _lang_info(norm_id)
         lang = "fr" if url_lang == "fra" else "en"
@@ -1514,6 +1558,37 @@ class CATextParser(TextParser):
                     publication_date=commit_date,
                     effective_date=commit_date,
                     paragraphs=paragraphs,
+                ),
+                Reform(date=commit_date, norm_id=source_id, affected_blocks=("body",)),
+            )
+
+        if source_type == "pit-html":
+            from legalize.fetcher.ca.pit_parser import parse_pit_html
+
+            html_b64 = entry.pop("body_html", "")
+            if not html_b64:
+                return None, None
+            try:
+                html_bytes = base64.b64decode(html_b64)
+            except (ValueError, TypeError) as exc:
+                logger.warning(
+                    "Could not decode PIT HTML for %s (%s): %s",
+                    norm_id,
+                    source_id,
+                    exc,
+                )
+                return None, None
+            del html_b64
+            pit_paragraphs = tuple(parse_pit_html(html_bytes, lang=_current_lang.get()))
+            del html_bytes
+            if not pit_paragraphs:
+                return None, None
+            return (
+                Version(
+                    norm_id=source_id,
+                    publication_date=commit_date,
+                    effective_date=commit_date,
+                    paragraphs=pit_paragraphs,
                 ),
                 Reform(date=commit_date, norm_id=source_id, affected_blocks=("body",)),
             )

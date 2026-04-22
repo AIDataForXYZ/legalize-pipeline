@@ -51,8 +51,8 @@ class TestStatuteYearChapter:
     def test_upstream_sha_returns_none(self):
         assert _statute_year_chapter("0123456789abcdef" * 2) is None
 
-    def test_wayback_timestamp_returns_none(self):
-        assert _statute_year_chapter("wayback-20141215143022") is None
+    def test_pit_source_id_returns_none(self):
+        assert _statute_year_chapter("pit-20141215") is None
 
     def test_malformed_returns_none(self):
         assert _statute_year_chapter("as-2020") is None
@@ -465,7 +465,7 @@ class TestIterSuvestineManifest:
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path / "nonexistent"),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         client.get_text = lambda norm_id: b"<Statute/>"  # type: ignore[assignment]
         entries = list(client.iter_suvestine("eng/acts/A-1"))
@@ -481,10 +481,10 @@ class TestIterSuvestineManifest:
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         (tmp_path).mkdir(exist_ok=True)
-        # Stub all four source iterators. ``_iter_wayback_manifest`` can
+        # Stub all four source iterators. ``_iter_pit_manifest`` can
         # stay empty; the other three produce one manifest entry each with
         # distinct dates.
         client._iter_git_log_manifest = lambda n: iter(
@@ -502,7 +502,7 @@ class TestIterSuvestineManifest:
                 )
             ]
         )
-        client._iter_wayback_manifest = lambda n: iter([])  # type: ignore[assignment]
+        client._iter_pit_manifest = lambda n: iter([])  # type: ignore[assignment]
         client._iter_gazette_manifest = lambda n: iter(
             [  # type: ignore[assignment]
                 _SvManifestEntry(
@@ -548,10 +548,10 @@ class TestIterSuvestineManifest:
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         client._iter_git_log_manifest = lambda n: iter([])  # type: ignore[assignment]
-        client._iter_wayback_manifest = lambda n: iter([])  # type: ignore[assignment]
+        client._iter_pit_manifest = lambda n: iter([])  # type: ignore[assignment]
         client._iter_annual_statute_manifest = lambda n: iter(
             [  # type: ignore[assignment]
                 _SvManifestEntry(
@@ -596,12 +596,12 @@ class TestClientMergeDedup:
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path / "no-such-clone"),  # forces fallback branches
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         # Monkeypatch the private source enumerators so we don't need a
         # real upstream clone.
         client._git_log_versions = lambda norm_id: []  # type: ignore[assignment]
-        client._wayback_versions = lambda norm_id: []  # type: ignore[assignment]
+        client._pit_versions = lambda norm_id: []  # type: ignore[assignment]
         client._annual_statute_versions = lambda norm_id: [  # type: ignore[assignment]
             {
                 "source_type": "annual-statute",
@@ -638,10 +638,10 @@ class TestClientMergeDedup:
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         client._git_log_versions = lambda norm_id: []  # type: ignore[assignment]
-        client._wayback_versions = lambda norm_id: []  # type: ignore[assignment]
+        client._pit_versions = lambda norm_id: []  # type: ignore[assignment]
         client._annual_statute_versions = lambda norm_id: []  # type: ignore[assignment]
         client._gazette_versions = lambda norm_id: [  # type: ignore[assignment]
             {
@@ -660,32 +660,32 @@ class TestClientMergeDedup:
         types = [v["source_type"] for v in data["versions"]]
         assert types == ["gazette-pdf"]
 
-    def test_wayback_disabled_for_regulations(self, tmp_path: Path):
+    def test_pit_disabled_for_regulations(self, tmp_path: Path):
         """By default Wayback is opted-in only for ``eng/acts`` and ``fra/lois``."""
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=True,
+            pit_enabled=True,
         )
-        assert client._wayback_enabled_for("eng/acts/A-1") is True
-        assert client._wayback_enabled_for("fra/lois/I-3.3") is True
-        assert client._wayback_enabled_for("eng/regulations/SOR-85-567") is False
-        assert client._wayback_enabled_for("fra/reglements/SOR-85-567") is False
+        assert client._pit_enabled_for("eng/acts/A-1") is True
+        assert client._pit_enabled_for("fra/lois/I-3.3") is True
+        assert client._pit_enabled_for("eng/regulations/SOR-85-567") is False
+        assert client._pit_enabled_for("fra/reglements/SOR-85-567") is False
 
-    def test_wayback_fully_disabled_short_circuits(self, tmp_path: Path):
+    def test_pit_fully_disabled_short_circuits(self, tmp_path: Path):
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
-        assert client._wayback_enabled_for("eng/acts/A-1") is False
+        assert client._pit_enabled_for("eng/acts/A-1") is False
 
     def test_versions_sorted_chronologically(self, tmp_path: Path):
         """Entries from all sources should come out oldest-first."""
         client = JusticeCanadaClient(
             xml_dir=str(tmp_path),
             data_dir=str(tmp_path),
-            wayback_enabled=False,
+            pit_enabled=False,
         )
         client._git_log_versions = lambda norm_id: [  # type: ignore[assignment]
             {
@@ -695,7 +695,7 @@ class TestClientMergeDedup:
                 "xml": "PFN0YXR1dGUvPg==",  # "<Statute/>"
             }
         ]
-        client._wayback_versions = lambda norm_id: []  # type: ignore[assignment]
+        client._pit_versions = lambda norm_id: []  # type: ignore[assignment]
         client._annual_statute_versions = lambda norm_id: [  # type: ignore[assignment]
             {
                 "source_type": "annual-statute",

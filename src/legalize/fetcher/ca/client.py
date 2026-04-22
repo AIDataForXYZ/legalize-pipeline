@@ -10,26 +10,29 @@ updates when the git clone is not available.
 Suvestine (version timeline) sources
 ------------------------------------
 
-``get_suvestine(norm_id)`` returns a chronologically-sorted JSON blob
-that merges every known version of a law from up to four sources:
+``get_suvestine(norm_id)`` / ``iter_suvestine(norm_id)`` merges every
+known version of a law from up to four sources:
 
 - ``upstream-git`` — the commit history of ``justicecanada/laws-lois-xml``
   (covers 2021-02-26 to today). Consolidated XML per commit.
+- ``pit-html`` — Justice Canada's own Point-in-Time HTML archive at
+  ``/{lang}/{category}/{id}/{YYYYMMDD}/P1TT3xt3.html`` (covers
+  2002-12-31 to 2021-02, overlapping the upstream git history safely).
+  Consolidated HTML per snapshot, parsed into the same Paragraph shape
+  as the XML versions.
 - ``annual-statute`` — bill XMLs from
   ``annual-statutes-lois-annuelles/{en,fr}/{year}/{year}-c{N}_{E,F}.xml``
   (covers 2001 to today). Amendment bills as-enacted, not consolidated.
   Attached only to norms whose title appears in the bill title (primary
   attribution, see :class:`AnnualStatuteIndex`).
-- ``wayback-xml`` (future) — Wayback Machine snapshots of the XML API
-  (covers 2011-05 to 2021-02). Same consolidated format as upstream.
-- ``gazette-pdf`` (future) — Canada Gazette Part III PDF segments
-  (covers 1974 to 2000). Bill as-enacted, extracted by OCR.
+- ``gazette-pdf`` — Canada Gazette Part III PDF segments (covers 1998 to
+  2000 in v1). Bill as-enacted, extracted by OCR.
 
 Each version carries ``source_type`` so the parser can route to the right
 renderer. Pre-2011 versions (annual-statute / gazette-pdf) emit amendment-
-bill bodies; 2011+ versions emit consolidated bodies. This is the hard
-boundary — see RESEARCH-CA-HISTORY.md for why consolidated text is not
-available pre-2011.
+bill bodies; PIT and upstream-git versions emit consolidated bodies. The
+transition at 2011 is a hard content-model boundary (amendment → full
+consolidation) documented in RESEARCH-CA-HISTORY.md.
 """
 
 from __future__ import annotations
@@ -38,6 +41,7 @@ import base64
 import json
 import logging
 import subprocess
+import threading
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -53,8 +57,8 @@ from legalize.fetcher.ca.gazette_index import (
     GazetteRef,
     load_or_build_gazette_index,
 )
+from legalize.fetcher.ca.pit_client import PITClient
 from legalize.fetcher.ca.title_index import load_or_build_title_index
-from legalize.fetcher.ca.wayback_client import WaybackClient
 
 if TYPE_CHECKING:
     from legalize.config import CountryConfig
@@ -101,8 +105,8 @@ class JusticeCanadaClient(HttpClient):
         request_timeout: int = DEFAULT_TIMEOUT,
         max_retries: int = DEFAULT_MAX_RETRIES,
         requests_per_second: float = DEFAULT_RPS,
-        wayback_enabled: bool = True,
-        wayback_categories: tuple[str, ...] = ("eng/acts", "fra/lois"),
+        pit_enabled: bool = True,
+        pit_categories: tuple[str, ...] = ("eng/acts", "fra/lois"),
     ) -> None:
         super().__init__(
             base_url=base_url,
@@ -116,12 +120,12 @@ class JusticeCanadaClient(HttpClient):
         # the life of the client — they're heavy to rebuild (~8s) but
         # stable across all norms in a single bootstrap run.
         self._annual_statute_idx: AnnualStatuteIndex | None = None
-        # Wayback: opt-in per-category so bootstrap can include acts
-        # (2011-2021 history is high-value) without pulling 4,845 regulation
-        # snapshot trees (diminishing return, ~10 GB).
-        self._wayback_enabled = wayback_enabled
-        self._wayback_categories = wayback_categories
-        self._wayback_client: WaybackClient | None = None
+        # PIT: opt-in per-category. Acts + lois by default because they
+        # have rich amendment history worth the network cost; regulations
+        # rarely have meaningful PIT trails on Justice Canada's site.
+        self._pit_enabled = pit_enabled
+        self._pit_categories = pit_categories
+        self._pit_client: PITClient | None = None
         # Gazette PDF: only used if the PDF cache exists on disk and is
         # non-empty. The first bootstrap call triggers a lazy scan.
         self._gazette_idx: GazetteIndex | None = None
@@ -142,8 +146,8 @@ class JusticeCanadaClient(HttpClient):
             request_timeout=source.get("request_timeout", DEFAULT_TIMEOUT),
             max_retries=source.get("max_retries", DEFAULT_MAX_RETRIES),
             requests_per_second=source.get("requests_per_second", DEFAULT_RPS),
-            wayback_enabled=source.get("wayback_enabled", True),
-            wayback_categories=tuple(source.get("wayback_categories", ("eng/acts", "fra/lois"))),
+            pit_enabled=source.get("pit_enabled", True),
+            pit_categories=tuple(source.get("pit_categories", ("eng/acts", "fra/lois"))),
         )
 
     # -- LegislativeClient interface ------------------------------------------
@@ -192,57 +196,28 @@ class JusticeCanadaClient(HttpClient):
         return self._annual_statute_idx
 
     def _git_log_versions(self, norm_id: str) -> list[dict]:
-        """Walk upstream git log for ``{norm_id}.xml`` and return versions.
+        """Return all upstream-git versions of ``norm_id``, oldest first.
 
-        Each version is a dict with ``source_type`` ``"upstream-git"``,
-        the commit SHA as ``source_id``, the commit date, and the full XML
-        at that revision (base64-encoded).
+        Uses the module-level batched git-log cache + ``cat-file --batch``
+        pool (see ``_get_git_log_cache`` / ``_cat_file_read``), so the
+        per-norm subprocess cost that used to dominate the bootstrap is
+        replaced by two dict lookups and one pipe write/read.
         """
         if self._xml_dir is None:
             return []
         rel_path = f"{norm_id}.xml"
-        log_result = subprocess.run(
-            [
-                "git",
-                "-C",
-                str(self._xml_dir),
-                "log",
-                "--format=%H %aI",
-                "--follow",
-                "--",
-                rel_path,
-            ],
-            capture_output=True,
-            text=True,
-            timeout=60,
-        )
-        if log_result.returncode != 0:
-            logger.warning("git log failed for %s: %s", norm_id, log_result.stderr)
+        cache = _get_git_log_cache(self._xml_dir)
+        commits = cache.get(rel_path, [])
+        if not commits:
             return []
 
         out: list[dict] = []
-        for line in log_result.stdout.strip().split("\n"):
-            line = line.strip()
-            if not line:
+        for sha, commit_date in commits:
+            blob = _cat_file_read(self._xml_dir, f"{sha}:{rel_path}")
+            if blob is None:
                 continue
-            parts = line.split(" ", 1)
-            if len(parts) != 2:
-                continue
-            sha, iso_datetime = parts
-            show_result = subprocess.run(
-                ["git", "-C", str(self._xml_dir), "show", f"{sha}:{rel_path}"],
-                capture_output=True,
-                timeout=30,
-            )
-            if show_result.returncode != 0:
-                continue
-            commit_date = iso_datetime[:10]
-            # Encode once, then immediately drop the raw bytes reference —
-            # on big acts (Income Tax Act: 41 commits x ~1 MB XML each) the
-            # subprocess stdout + base64 string otherwise coexist twice
-            # until the next iteration reassigns ``show_result``.
-            encoded = base64.b64encode(show_result.stdout).decode("ascii")
-            del show_result
+            encoded = base64.b64encode(blob).decode("ascii")
+            del blob
             out.append(
                 {
                     "source_type": "upstream-git",
@@ -251,8 +226,6 @@ class JusticeCanadaClient(HttpClient):
                     "xml": encoded,
                 }
             )
-        # git log yields newest-first; reverse to oldest-first for the pipeline.
-        out.reverse()
         return out
 
     def _gazette_index(self) -> GazetteIndex | None:
@@ -334,30 +307,31 @@ class JusticeCanadaClient(HttpClient):
                 return seg.body_en if lang == "en" else seg.body_fr
         return ""
 
-    def _wayback_enabled_for(self, norm_id: str) -> bool:
-        """Wayback is gated per-category to keep the cache footprint sane.
+    def _pit_enabled_for(self, norm_id: str) -> bool:
+        """PIT-HTML is gated per-category to keep the cache footprint sane.
 
-        Acts in both languages opt-in by default (high value: 10 years of
-        consolidated history). Regulations opt-out by default (diminishing
-        return at ~4,845 regs × 15 snapshots = ~70K extra downloads).
+        Acts + lois opt-in by default (rich amendment history: ~120
+        snapshots per heavily-amended act like A-1 or C-46).
+        Regulations opt-out by default — their PIT trails are shorter
+        and the cache cost-to-value ratio is lower.
         """
-        if not self._wayback_enabled:
+        if not self._pit_enabled:
             return False
-        for prefix in self._wayback_categories:
+        for prefix in self._pit_categories:
             if norm_id.startswith(prefix + "/"):
                 return True
         return False
 
-    def _wayback_versions(self, norm_id: str) -> list[dict]:
-        """Return Wayback-archived versions of the consolidated XML."""
-        if not self._wayback_enabled_for(norm_id):
+    def _pit_versions(self, norm_id: str) -> list[dict]:
+        """Return Justice Canada PIT-HTML snapshots for ``norm_id``."""
+        if not self._pit_enabled_for(norm_id):
             return []
-        if self._wayback_client is None:
-            self._wayback_client = WaybackClient(cache_dir=self._data_dir)
+        if self._pit_client is None:
+            self._pit_client = PITClient(cache_dir=self._data_dir)
         try:
-            return self._wayback_client.fetch_versions(norm_id)
-        except Exception as exc:  # noqa: BLE001 — Wayback is best-effort
-            logger.warning("Wayback fetch failed for %s: %s", norm_id, exc)
+            return self._pit_client.fetch_versions(norm_id)
+        except Exception as exc:  # noqa: BLE001 — PIT is best-effort
+            logger.warning("PIT fetch failed for %s: %s", norm_id, exc)
             return []
 
     def _annual_statute_versions(self, norm_id: str) -> list[dict]:
@@ -395,58 +369,29 @@ class JusticeCanadaClient(HttpClient):
     def _iter_git_log_manifest(self, norm_id: str) -> Iterator[_SvManifestEntry]:
         """Yield one lightweight entry per upstream-git commit (no XML yet).
 
-        The ``loader`` closure does the ``git show`` for its specific SHA
-        only when the caller actually consumes the entry — so at no point
-        do we hold more than one commit's XML in memory.
+        Backed by the batched git-log cache (one ``git log --all`` call
+        shared across all workers) and the ``cat-file --batch`` pool, so
+        both manifest construction AND per-entry blob loading avoid the
+        per-norm subprocess-spawn storm that used to dominate bootstrap
+        wall-clock time.
         """
         if self._xml_dir is None:
             return
         rel_path = f"{norm_id}.xml"
-        log_result = subprocess.run(
-            [
-                "git",
-                "-C",
-                str(self._xml_dir),
-                "log",
-                "--format=%H %aI",
-                "--follow",
-                "--",
-                rel_path,
-            ],
-            capture_output=True,
-            text=True,
-            timeout=60,
-        )
-        if log_result.returncode != 0:
-            logger.warning("git log failed for %s: %s", norm_id, log_result.stderr)
+        cache = _get_git_log_cache(self._xml_dir)
+        entries = cache.get(rel_path, [])
+        if not entries:
             return
-
-        entries: list[tuple[str, str]] = []
-        for line in log_result.stdout.strip().split("\n"):
-            line = line.strip()
-            if not line:
-                continue
-            parts = line.split(" ", 1)
-            if len(parts) != 2:
-                continue
-            sha, iso_datetime = parts
-            entries.append((sha, iso_datetime[:10]))
-        # Reverse to oldest-first (matches the legacy output ordering).
-        entries.reverse()
 
         xml_dir = self._xml_dir  # capture for the closures
 
         def _loader_for(sha: str, commit_date: str) -> Callable[[], dict]:
             def _load() -> dict:
-                show_result = subprocess.run(
-                    ["git", "-C", str(xml_dir), "show", f"{sha}:{rel_path}"],
-                    capture_output=True,
-                    timeout=30,
-                )
-                if show_result.returncode != 0:
+                blob = _cat_file_read(xml_dir, f"{sha}:{rel_path}")
+                if blob is None:
                     return {}
-                encoded = base64.b64encode(show_result.stdout).decode("ascii")
-                del show_result
+                encoded = base64.b64encode(blob).decode("ascii")
+                del blob
                 return {
                     "source_type": "upstream-git",
                     "source_id": sha,
@@ -464,27 +409,24 @@ class JusticeCanadaClient(HttpClient):
                 loader=_loader_for(sha, commit_date),
             )
 
-    def _iter_wayback_manifest(self, norm_id: str) -> Iterator[_SvManifestEntry]:
-        """Yield one lightweight entry per Wayback snapshot (no XML yet).
+    def _iter_pit_manifest(self, norm_id: str) -> Iterator[_SvManifestEntry]:
+        """Yield one lightweight entry per Justice Canada PIT HTML snapshot.
 
-        The CDX query happens up front (one HTTP call); the individual
-        snapshot downloads + base64 encoding happen inside the loader so
-        at most one snapshot's bytes are resident at a time.
+        The PIT index HTML is fetched once up front (one HTTP call, a
+        few KB); each snapshot's HTML is downloaded + base64-encoded
+        inside the loader so at most one snapshot's payload sits in
+        memory at a time.
         """
-        if not self._wayback_enabled_for(norm_id):
+        if not self._pit_enabled_for(norm_id):
             return
-        if self._wayback_client is None:
-            self._wayback_client = WaybackClient(cache_dir=self._data_dir)
-        client = self._wayback_client
+        if self._pit_client is None:
+            self._pit_client = PITClient(cache_dir=self._data_dir)
+        client = self._pit_client
 
-        # fetch_versions already returns fully-loaded entries. To preserve
-        # the streaming semantic we materialise them once here (CDX call
-        # + cached downloads) but release xml strings between yields so
-        # the consumer sees them one at a time.
         try:
             entries = client.fetch_versions(norm_id)
-        except Exception as exc:  # noqa: BLE001 — Wayback is best-effort
-            logger.warning("Wayback fetch failed for %s: %s", norm_id, exc)
+        except Exception as exc:  # noqa: BLE001 — PIT is best-effort
+            logger.warning("PIT fetch failed for %s: %s", norm_id, exc)
             return
 
         def _loader_for(entry: dict) -> Callable[[], dict]:
@@ -626,7 +568,7 @@ class JusticeCanadaClient(HttpClient):
         # no XML loaded yet. For a 100-version act the manifest is ~20 KB.
         manifest: list[_SvManifestEntry] = []
         manifest.extend(self._iter_git_log_manifest(norm_id))
-        manifest.extend(self._iter_wayback_manifest(norm_id))
+        manifest.extend(self._iter_pit_manifest(norm_id))
         manifest.extend(self._iter_gazette_manifest(norm_id))
         manifest.extend(self._iter_annual_statute_manifest(norm_id))
 
@@ -663,24 +605,10 @@ class JusticeCanadaClient(HttpClient):
     def get_suvestine(self, norm_id: str) -> bytes:
         """Return a merged chronological timeline of all known versions.
 
-        Merges git-log consolidations (2021+) with annual-statute
-        amendments (2001+) and (future) Wayback + Gazette PDF sources. The
-        returned blob is a JSON object:
-
-            {
-              "versions": [
-                {"source_type": "annual-statute", "source_id": "as-2020-c13",
-                 "date": "2020-11-19", "xml": "<base64>", …},
-                {"source_type": "upstream-git", "source_id": "<sha>",
-                 "date": "2021-02-26", "xml": "<base64>"},
-                …
-              ]
-            }
-
-        Dedupe rules:
-        - Same ``source_id`` appears at most once.
-        - Consolidated duplicates by content digest are handled by the
-          parser, not here (we can't decode base64 cheaply here).
+        Merges git-log consolidations (2021+) with PIT-HTML snapshots
+        (2002+), annual-statute amendments (2001+), and Gazette PDF
+        segments (1998-2000). Legacy bytes-based interface — the
+        streaming ``iter_suvestine`` is preferred for memory reasons.
         """
         all_versions: list[dict] = []
 
@@ -704,10 +632,10 @@ class JusticeCanadaClient(HttpClient):
         # 1. Upstream git log (2021-02 → today).
         all_versions.extend(self._git_log_versions(norm_id))
 
-        # 2. Wayback Machine XML snapshots (2011-05 → 2021-02). Same
+        # 2. Justice Canada PIT-HTML snapshots (2002-12 → 2021-02). Same
         #    consolidated shape as upstream — the boundary at 2021 is
         #    invisible in the body except for metadata.
-        all_versions.extend(self._wayback_versions(norm_id))
+        all_versions.extend(self._pit_versions(norm_id))
 
         # 3. Gazette Part III PDF segments (1998 → 2000 in v1). Filled in
         #    only when the operator has populated the PDF cache.
@@ -724,7 +652,7 @@ class JusticeCanadaClient(HttpClient):
 
         # Chronological sort: oldest-first. Stable ties preserve source
         # order (git log was appended first, so git-log versions win on
-        # same-day ties — matters at the 2021 boundary where Wayback
+        # same-day ties — matters at the 2021 boundary where PIT-HTML
         # should yield to upstream).
         all_versions.sort(key=lambda v: v["date"])
 
@@ -800,7 +728,7 @@ def _parse_norm_id(norm_id: str) -> tuple[str, str, str]:
 def _statute_year_chapter(source_id: str) -> tuple[int, int] | None:
     """Parse an ``as-{Y}-c{N}`` source_id into ``(year, chapter)``.
 
-    Returns ``None`` for source_ids that don't match (git SHAs, Wayback
+    Returns ``None`` for source_ids that don't match (git SHAs, PIT
     timestamps, etc). Used by the dedup logic to cross-reference
     annual-statute and gazette-pdf entries.
     """
@@ -825,3 +753,171 @@ def _lang_for_norm(norm_id: str) -> tuple[str, str, str]:
     url_lang, category, _ = _parse_norm_id(norm_id)
     short_lang = "fr" if url_lang == "fra" else "en"
     return url_lang, category, short_lang
+
+
+# ─────────────────────────────────────────────
+# Batched git access for the upstream clone
+# ─────────────────────────────────────────────
+#
+# Per-norm ``git log`` + ``git show`` calls (one subprocess spawn per call)
+# are the single biggest bottleneck on a full bootstrap. With 11.6 K norms
+# and ~5 commits each, the naive path forks 60+ thousand git subprocesses
+# — fork/exec alone dominates wall-clock time and git's repository lock
+# serialises the 8 worker threads.
+#
+# The replacement below uses two batched operations, shared across every
+# worker in the process:
+#
+# 1. ``_get_git_log_cache(xml_dir)`` runs **ONE** ``git log --all
+#    --name-only --format=COMMIT|%H|%aI`` at first use, parses the output
+#    into a dict ``{rel_path: [(sha, YYYY-MM-DD), …]}``, and caches it
+#    module-globally keyed on ``xml_dir``. Each worker's subsequent
+#    ``_git_log_versions`` call is a dict lookup.
+#
+# 2. ``_cat_file_read(xml_dir, spec)`` streams blobs through a persistent
+#    ``git cat-file --batch`` subprocess. A module-level lock serialises
+#    reads (the subprocess has one stdin/stdout pair) but fork cost is
+#    paid once, not N times.
+#
+# Both caches survive for the life of the process — safe because the
+# upstream clone is read-only during a bootstrap and the cache
+# invalidation story is "kill the process and re-run".
+
+_GIT_LOG_CACHE: dict[str, dict[str, list[tuple[str, str]]]] = {}
+_GIT_LOG_CACHE_LOCK = threading.Lock()
+
+_CAT_FILE_POOL: dict[str, subprocess.Popen] = {}
+_CAT_FILE_LOCKS: dict[str, threading.Lock] = {}
+_CAT_FILE_POOL_LOCK = threading.Lock()
+
+
+def _get_git_log_cache(xml_dir: Path) -> dict[str, list[tuple[str, str]]]:
+    """Return the cached ``{rel_path: [(sha, iso_date), …]}`` for ``xml_dir``.
+
+    Built lazily on first access via ONE ``git log --all --name-only``.
+    Commit→path pairs are accumulated per-file, then reversed to
+    oldest-first order (matching the pipeline's commit-ordering contract).
+    """
+    key = str(xml_dir.resolve())
+    with _GIT_LOG_CACHE_LOCK:
+        cached = _GIT_LOG_CACHE.get(key)
+        if cached is not None:
+            return cached
+        logger.info("Building git log cache for %s (one-time, ~5-10 s)", xml_dir)
+        result = subprocess.run(
+            [
+                "git",
+                "-C",
+                str(xml_dir),
+                "log",
+                "--all",
+                "--name-only",
+                "--format=COMMIT|%H|%aI",
+            ],
+            capture_output=True,
+            text=True,
+            timeout=600,
+        )
+        if result.returncode != 0:
+            logger.error("git log --all failed: %s", result.stderr[:500])
+            _GIT_LOG_CACHE[key] = {}
+            return _GIT_LOG_CACHE[key]
+
+        cache: dict[str, list[tuple[str, str]]] = {}
+        sha = ""
+        iso_date = ""
+        for line in result.stdout.splitlines():
+            if line.startswith("COMMIT|"):
+                parts = line.split("|", 2)
+                if len(parts) == 3:
+                    sha = parts[1]
+                    iso_date = parts[2][:10]
+                continue
+            path = line.strip()
+            if not path or not sha:
+                continue
+            cache.setdefault(path, []).append((sha, iso_date))
+
+        # git log yields newest-first; the pipeline writes oldest-first.
+        for path in cache:
+            cache[path].reverse()
+
+        _GIT_LOG_CACHE[key] = cache
+        logger.info(
+            "git log cache ready: %d files with history, %d total commits recorded",
+            len(cache),
+            sum(len(v) for v in cache.values()),
+        )
+        return cache
+
+
+def _get_cat_file_process(
+    xml_dir: Path,
+) -> tuple[subprocess.Popen, threading.Lock]:
+    """Return the persistent ``git cat-file --batch`` subprocess + its lock.
+
+    Spawned once per ``xml_dir``. The lock serialises stdin writes and
+    stdout reads so multiple worker threads can share one subprocess
+    safely (cat-file's protocol is request-per-line, response-per-blob).
+    """
+    key = str(xml_dir.resolve())
+    with _CAT_FILE_POOL_LOCK:
+        proc = _CAT_FILE_POOL.get(key)
+        if proc is not None and proc.poll() is None:
+            return proc, _CAT_FILE_LOCKS[key]
+        # (Re-)spawn.
+        proc = subprocess.Popen(
+            ["git", "-C", str(xml_dir), "cat-file", "--batch"],
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+        )
+        _CAT_FILE_POOL[key] = proc
+        _CAT_FILE_LOCKS[key] = threading.Lock()
+        return proc, _CAT_FILE_LOCKS[key]
+
+
+def _cat_file_read(xml_dir: Path, spec: str) -> bytes | None:
+    """Return the blob bytes for ``{sha}:{path}`` via batched cat-file.
+
+    ``spec`` is whatever ``git cat-file`` accepts (SHA, ``SHA:path``,
+    ref names). Returns ``None`` for missing objects so callers can
+    treat "not present at this commit" as a clean skip.
+    """
+    proc, lock = _get_cat_file_process(xml_dir)
+    with lock:
+        try:
+            assert proc.stdin is not None and proc.stdout is not None
+            proc.stdin.write(spec.encode("utf-8") + b"\n")
+            proc.stdin.flush()
+            header = proc.stdout.readline()
+        except (BrokenPipeError, OSError) as exc:
+            logger.warning("cat-file pipe broken for %s: %s", spec, exc)
+            # Force respawn on next call.
+            with _CAT_FILE_POOL_LOCK:
+                _CAT_FILE_POOL.pop(str(xml_dir.resolve()), None)
+            return None
+
+        if not header:
+            return None
+        parts = header.decode("utf-8", errors="replace").rstrip("\n").split(" ")
+        if len(parts) != 3 or parts[1] != "blob":
+            # "SHA missing" or non-blob (tree, tag, commit) — drain nothing.
+            return None
+        try:
+            size = int(parts[2])
+        except ValueError:
+            return None
+
+        # Read exactly size bytes + 1 trailing newline.
+        chunks: list[bytes] = []
+        remaining = size
+        while remaining > 0:
+            chunk = proc.stdout.read(remaining)
+            if not chunk:
+                return None
+            chunks.append(chunk)
+            remaining -= len(chunk)
+        # Drain trailing newline.
+        proc.stdout.read(1)
+        return b"".join(chunks)

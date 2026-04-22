@@ -436,7 +436,7 @@ class TestCASuvestine:
         repo = self._build_upstream_repo(tmp_path)
         # Disable Wayback so the test doesn't depend on a live internet
         # connection — we're verifying the git-log → parse roundtrip only.
-        client = JusticeCanadaClient(xml_dir=str(repo), wayback_enabled=False)
+        client = JusticeCanadaClient(xml_dir=str(repo), pit_enabled=False)
         parser = CATextParser()
 
         blob = client.get_suvestine("eng/acts/B-9.8")
