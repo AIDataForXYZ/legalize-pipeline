@@ -180,3 +180,36 @@ class TestMalformedXml:
         xml = b'<?xml version="1.0" encoding="UTF-8"?><texto><bloque id="b1"><version fecha_publicacion="19900101" id_norma="X"><p>Hello <b>world</p></version></bloque></texto>'
         blocks = parse_text_xml(xml)  # must not raise
         assert len(blocks) == 1
+
+
+class TestDiarioXml:
+    """Stage B: parser for /diario_boe/xml.php?id=... (non-consolidated norms)."""
+
+    def test_parses_flat_texto_schema(self):
+        from legalize.transformer.xml_parser import parse_diario_xml
+
+        xml = (
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            "<documento>"
+            "<metadatos>"
+            "<identificador>BOE-A-2017-14334</identificador>"
+            "<fecha_publicacion>20171206</fecha_publicacion>"
+            "</metadatos>"
+            "<texto>"
+            '<p class="articulo">Artículo 1</p>'
+            '<p class="parrafo">Contenido del artículo.</p>'
+            '<table><tr><td><p>hola</p></td></tr></table>'
+            '<p class="imagen"><img alt="1" src="/datos/imagenes/disp/2017/296/14334_46947.png"/></p>'
+            "</texto>"
+            "</documento>"
+        ).encode("utf-8")
+        blocks = parse_diario_xml(xml)
+        assert len(blocks) == 1
+        v = blocks[0].versions[0]
+        assert v.norm_id == "BOE-A-2017-14334"
+        assert v.publication_date.isoformat() == "2017-12-06"
+        classes = [p.css_class for p in v.paragraphs]
+        assert "articulo" in classes
+        assert "parrafo" in classes
+        assert "table" in classes
+        assert "image" in classes
