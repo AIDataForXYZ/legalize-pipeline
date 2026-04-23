@@ -99,8 +99,14 @@ _RE_ARTICULO = re.compile(
     re.IGNORECASE,
 )
 
-# Norma (Circulares BdE): "norma 67" "Norma 3ª"
-_RE_NORMA = re.compile(r"\bnorma\s+(?P<ref>\d+\s*(?:bis)?)", re.IGNORECASE)
+# Norma (Circulares BdE): "norma 67" "Norma 3ª" "normas 1 a 3"
+#
+# Plural form ``normas`` is deliberately included because BOE modifier
+# hints frequently enumerate several ("las normas 1, 2 y 5..."). Before
+# this addition, "normas 1" was skipped and the hint fell back to the
+# bucket-A no-struct path with a 0.3 confidence cap — 9 live-run
+# patches were lost to this single-character omission.
+_RE_NORMA = re.compile(r"\bnormas?\s+(?P<ref>\d+\s*(?:bis)?)", re.IGNORECASE)
 
 # Apartado: "apartado 2" "apartado uno" "apartado primero" "apdo. 3"
 _RE_APARTADO = re.compile(
@@ -293,23 +299,61 @@ def _parse_heading_outline(lines: list[str]) -> list[_HeadingNode]:
 # ──────────────────────────────────────────────────────────
 
 
+# CSS class markers that Stage A/B renderer prepends to headings:
+#   "[precepto]Norma 14.ª …"  "[capítulo_num]CAPÍTULO PRIMERO"  etc.
+# These are an artefact of the Markdown renderer and MUST NOT prevent
+# anchor resolution. We strip them before running the per-kind matcher.
+_CSS_MARKER_RE = re.compile(r"^\s*\[[\wÁÉÍÓÚáéíóúñ_\-]+\]\s*")
+
+
+def _strip_css_marker(heading_text: str) -> str:
+    """Remove the leading [css_class] tag the renderer prepends, if any.
+
+    Leaves the rest of the heading untouched (case, punctuation, inner
+    marks like º/ª). Callers should pass the already-lowercased or
+    canonical-ised text to their regex matchers."""
+    return _CSS_MARKER_RE.sub("", heading_text)
+
+
+def _canonical_num(token: str) -> str:
+    """Normalise a heading number / hint ref to a common form so
+    "decimosexta" and "16" compare equal.
+
+    - strips ordinal markers (º/°/ª) and trailing punctuation,
+    - maps Spanish ordinal / cardinal words to their digit form,
+    - lowercases the result.
+
+    Roman numerals are left as-is because Anexos routinely use them
+    ("Anexo I", "Anexo III") and converting would introduce collisions.
+    """
+    s = _normalize_ref(token).lower()
+    return _ORDINAL_WORDS_CARDINAL.get(s, s)
+
+
 def _match_articulo(heading_text: str, ref: str) -> bool:
     """True when the heading text is 'Artículo N' (optionally with title)."""
+    text = _strip_css_marker(heading_text)
     m = re.match(
-        r"^art[ií]culo\s+(?P<n>\d+\s*(?:bis|ter|quater)?)",
-        heading_text,
+        r"^art[ií]culo\s+(?P<n>\S+(?:\s*(?:bis|ter|quater))?)",
+        text,
         re.IGNORECASE,
     )
     if not m:
         return False
-    return _normalize_ref(m.group("n")).lower() == ref.lower()
+    return _canonical_num(m.group("n")) == _canonical_num(ref)
 
 
 def _match_norma(heading_text: str, ref: str) -> bool:
-    m = re.match(r"^norma\s+(?P<n>\d+(?:\s*bis)?)", heading_text, re.IGNORECASE)
+    """True when heading is 'Norma N' / 'Norma primera' for the requested
+    ref. Normalises ordinal words ↔ digits — Circulares del Banco de
+    España render Normas as "Norma decimosexta" while modifier hints
+    use "norma 16". Also tolerates the leading [css_class] marker the
+    renderer prepends to some headings."""
+    text = _strip_css_marker(heading_text)
+    m = re.match(r"^norma\s+(?P<n>\S+(?:\s*bis)?)", text, re.IGNORECASE)
     if not m:
         return False
-    return _normalize_ref(m.group("n")).lower() == ref.lower()
+    return _canonical_num(m.group("n")) == _canonical_num(ref)
 
 
 def _match_disposicion(heading_text: str, ref: str) -> bool:
@@ -317,18 +361,40 @@ def _match_disposicion(heading_text: str, ref: str) -> bool:
 
     `ref` is the compound string from parse_anchor_from_hint:
       "adicional primera" / "final tercera" / "transitoria segunda"
+
+    We canonicalise the ordinal part so "1" in the hint matches "primera"
+    in the heading (and vice-versa). "única" is its own ordinal and does
+    NOT map to a number — callers that want to target a "disposición
+    adicional única" must use that word literally in the hint.
     """
-    # Stage A renders disposiciones as "Disposición adicional primera." or
-    # sometimes just the bare text without a leading heading marker. We
-    # match the type + ordinal substring (case-insensitive).
-    return ref.lower() in heading_text.lower() and "disposici" in heading_text.lower()
+    h = _strip_css_marker(heading_text).lower()
+    if "disposici" not in h:
+        return False
+    parts = ref.lower().split(maxsplit=1)
+    if len(parts) < 2:
+        # Bare type ("adicional") with no ordinal: substring match is fine.
+        return parts[0] in h
+    d_type, ord_part = parts[0], parts[1]
+    if d_type not in h:
+        return False
+    # Extract the ordinal token from the heading's own "disposición
+    # {type} {ordinal}" shape and compare canonically.
+    m = re.search(
+        rf"disposici[oó]n\s+{d_type}\s+(?P<ord>\S+)",
+        h,
+        re.IGNORECASE,
+    )
+    if not m:
+        return False
+    return _canonical_num(m.group("ord").rstrip(".,;:)")) == _canonical_num(ord_part)
 
 
 def _match_anexo(heading_text: str, ref: str) -> bool:
-    m = re.match(r"^anexo\s+(?P<n>[IVXLCDM\d]+)", heading_text, re.IGNORECASE)
+    text = _strip_css_marker(heading_text)
+    m = re.match(r"^anexo\s+(?P<n>[IVXLCDM\d]+)", text, re.IGNORECASE)
     if not m:
         return False
-    return _normalize_ref(m.group("n")).lower() == ref.lower()
+    return _canonical_num(m.group("n")) == _canonical_num(ref)
 
 
 # ──────────────────────────────────────────────────────────
@@ -342,6 +408,7 @@ def _match_anexo(heading_text: str, ref: str) -> bool:
 #   "Primero. " (ordinal)
 #   "I. " "II. " (roman, less common)
 _ORDINAL_WORDS_CARDINAL: dict[str, str] = {
+    # Cardinal words (used in "Apartado uno", "Apartado dos", …)
     "uno": "1",
     "dos": "2",
     "tres": "3",
@@ -363,6 +430,7 @@ _ORDINAL_WORDS_CARDINAL: dict[str, str] = {
     "dieciocho": "18",
     "diecinueve": "19",
     "veinte": "20",
+    # Masculine ordinals ("apartado primero", "párrafo segundo", …)
     "primero": "1",
     "segundo": "2",
     "tercero": "3",
@@ -375,6 +443,94 @@ _ORDINAL_WORDS_CARDINAL: dict[str, str] = {
     "noveno": "9",
     "decimo": "10",
     "décimo": "10",
+    # Feminine ordinals. Circulares del Banco de España render their
+    # top-level structural units as "Norma primera", "Norma segunda",
+    # …, "Norma decimosexta". Modifier hints on the other hand use
+    # cardinal numbers: "la norma 16 de la Circular 1/2013". Without
+    # this mapping the resolver compared "Norma decimosexta" heading
+    # text against "16" and returned None. Observed: ~14 live-run
+    # patches in bucket F were lost to this single omission.
+    "primera": "1",
+    "segunda": "2",
+    "tercera": "3",
+    "cuarta": "4",
+    "quinta": "5",
+    "sexta": "6",
+    "septima": "7",
+    "séptima": "7",
+    "octava": "8",
+    "novena": "9",
+    "decima": "10",
+    "décima": "10",
+    "undecima": "11",
+    "undécima": "11",
+    "duodecima": "12",
+    "duodécima": "12",
+    "decimotercera": "13",
+    "decimocuarta": "14",
+    "decimoquinta": "15",
+    "decimosexta": "16",
+    "decimoseptima": "17",
+    "decimoséptima": "17",
+    "decimoctava": "18",
+    "decimonovena": "19",
+    "vigesima": "20",
+    "vigésima": "20",
+    "vigesimoprimera": "21",
+    "vigesimosegunda": "22",
+    "vigesimotercera": "23",
+    "vigesimocuarta": "24",
+    "vigesimoquinta": "25",
+    "vigesimosexta": "26",
+    "vigesimoseptima": "27",
+    "vigesimoséptima": "27",
+    "vigesimoctava": "28",
+    "vigesimonovena": "29",
+    "trigesima": "30",
+    "trigésima": "30",
+    "trigesimoprimera": "31",
+    "trigesimosegunda": "32",
+    "trigesimotercera": "33",
+    "trigesimocuarta": "34",
+    "trigesimoquinta": "35",
+    "cuadragesima": "40",
+    "cuadragésima": "40",
+    "quincuagesima": "50",
+    "quincuagésima": "50",
+    "sexagesima": "60",
+    "sexagésima": "60",
+    "septuagesima": "70",
+    "septuagésima": "70",
+    "octogesima": "80",
+    "octogésima": "80",
+    "nonagesima": "90",
+    "nonagésima": "90",
+    "centesima": "100",
+    "centésima": "100",
+    # Masculine equivalents for non-norma contexts ("Capítulo
+    # decimoctavo", etc. — rare but observed on some legacy Leyes).
+    "undecimo": "11",
+    "undécimo": "11",
+    "duodecimo": "12",
+    "duodécimo": "12",
+    "decimotercero": "13",
+    "decimocuarto": "14",
+    "decimoquinto": "15",
+    "decimosexto": "16",
+    "decimoseptimo": "17",
+    "decimoséptimo": "17",
+    "decimoctavo": "18",
+    "decimonoveno": "19",
+    "vigesimo": "20",
+    "vigésimo": "20",
+    # "única" / "único" collapse to their own literal token. Disposiciones
+    # únicas exist as a bare ordinal; we keep them as text so the
+    # structured matcher compares hint↔heading literally instead of
+    # mapping to a digit (there is no numeric equivalent).
+    "única": "unica",
+    "unica": "unica",
+    "único": "unico",
+    "unico": "unico",
 }
 
 _RE_APARTADO_LEADER = re.compile(

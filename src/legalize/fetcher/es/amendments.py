@@ -71,7 +71,15 @@ def operation_for_verb(code: str) -> Operation | None:
 # ──────────────────────────────────────────────────────────
 
 
-Extractor = Literal["regex", "llm_parse", "llm_verify_correct", "none"]
+Extractor = Literal[
+    "regex",
+    "regex_split",
+    "llm_parse",
+    "llm_structured",
+    "llm_verify_correct",
+    "claude_code",
+    "none",
+]
 # "regex"               → fully deterministic extraction
 # "llm_parse"           → LLM parse_difficult_case produced this patch from scratch
 # "llm_verify_correct"  → LLM verify() said the regex patch was wrong and returned
@@ -208,6 +216,7 @@ _KNOWN_OUT_OF_SCOPE_VERBS: frozenset[str] = frozenset(
         "693",  # DICTADA (auto TC)
         "260",  # COMPLEMENTA
         "287",  # TRANSPONE
+        "330",  # CITA (surfaced by live Circulares BdE/CNMV run)
         "630",  # COMPETENCIA
         "690",  # AUTO
         "691",  # RECURSO
@@ -358,14 +367,24 @@ _QUOTED_CLASSES: frozenset[str] = frozenset(
 _INTRO_PATTERNS: tuple[re.Pattern[str], ...] = tuple(
     re.compile(p, re.IGNORECASE)
     for p in (
-        r"queda\s+redactad[oa]s?\s+(?:como\s+sigue|en\s+los?\s+siguientes?\s+t[eé]rminos|"
-        r"del\s+siguiente\s+modo|de\s+la\s+siguiente\s+forma)",
+        # "queda redactado como sigue / en los siguientes términos / del
+        # siguiente modo / de la siguiente forma|manera / en la forma
+        # siguiente". The trailing alternative is kept generous because
+        # Circulares BdE use at least 6 distinct prepositional phrases
+        # after "redactad[oa]s?" (observed in live-run 2026-04-23,
+        # bucket I of STAGE-C-LIVE-FIDELITY.md).
+        r"queda[n]?\s+redactad[oa]s?\s+(?:"
+        r"como\s+sigue|en\s+los?\s+siguientes?\s+t[eé]rminos|"
+        r"del\s+siguiente\s+modo|de\s+la\s+siguiente\s+(?:forma|manera)|"
+        r"en\s+la\s+(?:forma|manera)\s+siguiente|del\s+modo\s+siguiente"
+        r")",
         r"con\s+la\s+siguiente\s+redacci[oó]n",
         r"pasa\s+a\s+tener\s+la\s+siguiente\s+redacci[oó]n",
         r"tendr[aá]\s+la\s+siguiente\s+redacci[oó]n",
         r"con\s+el\s+siguiente\s+(?:texto|tenor)",
+        r"con\s+el\s+tenor\s+(?:literal\s+)?siguiente",
         r"(?:en\s+los?\s+)?siguientes?\s+t[eé]rminos",
-        r"que\s+queda\s+redactad[oa]",
+        r"que\s+queda[n]?\s+redactad[oa]s?",
         r"se\s+a[nñ]ade[^\.]{0,200}?(?:con\s+el\s+siguiente\s+texto|con\s+la\s+siguiente\s+redacci[oó]n|:\s*$)",
         r"se\s+sustituy[eo][^\.]{0,200}?por\s*:\s*$",
     )
@@ -521,11 +540,20 @@ def extract_new_text_blocks(xml_data: bytes | str) -> list[TextBlock]:
 
         if run_items:
             raw: list[str] = []
-            stripped: list[str] = []
+            run_paragraphs: list[str] = []
             for ri in run_items:
                 for p in ri.paragraphs:
                     raw.append(p)
-                    stripped.append(_strip_quote_markers(p))
+                    run_paragraphs.append(p)
+            # Strip the OUTER «...» only on the first/last paragraph of
+            # the run. Inner typographic quotes (smart quotes normalized
+            # to «...» earlier) are part of the content and must survive
+            # — otherwise a paragraph ending at `...tasaciones".»` gets
+            # its closing chewed off to `...tasaciones` because the
+            # previous per-paragraph strip assumed every paragraph was
+            # self-contained. See STAGE-C-LIVE-FIDELITY.md Agent A
+            # finding 4.
+            stripped = _strip_run_outer_markers(run_paragraphs)
             blocks.append(
                 TextBlock(
                     intro=cur.flat,
@@ -543,18 +571,39 @@ def extract_new_text_blocks(xml_data: bytes | str) -> list[TextBlock]:
     return blocks
 
 
+def _strip_run_outer_markers(paragraphs: list[str]) -> list[str]:
+    """Strip the OUTER «...» envelope that spans an entire quoted run.
+
+    Only the first paragraph loses its leading «; only the last loses
+    its trailing » (plus optional punctuation). Inner typographic
+    quotes — `"..."` normalized to `«...»` earlier in the pipeline —
+    belong to the amendment content and must survive untouched.
+
+    This replaces the old per-paragraph stripper which incorrectly
+    chewed the trailing `».` off the FIRST paragraph of a multi-line
+    blockquote whenever that paragraph ended with a nested quote
+    (observed on 3+ modifiers in the live fidelity run).
+    """
+    if not paragraphs:
+        return []
+    out = [p.strip() for p in paragraphs]
+    if out[0].startswith("«"):
+        out[0] = out[0][1:].strip()
+    last = out[-1]
+    if last.endswith("»"):
+        out[-1] = last[:-1].strip()
+    elif last.endswith("».") or last.endswith("»,") or last.endswith("»;"):
+        out[-1] = last[:-2].strip()
+    return out
+
+
 def _strip_quote_markers(s: str) -> str:
-    """Remove leading « and trailing » (and optional trailing period inside),
-    keeping internal angle quotes (which BOE uses legitimately for nested
-    titles like «Boletin Oficial del Estado»)."""
-    s = s.strip()
-    if s.startswith("«"):
-        s = s[1:]
-    if s.endswith("»"):
-        s = s[:-1]
-    elif s.endswith("».") or s.endswith("»,") or s.endswith("»;"):
-        s = s[:-2]
-    return s.strip()
+    """Legacy single-paragraph stripper — kept for callers that still
+    pass a lone paragraph (tests). New code must use
+    :func:`_strip_run_outer_markers`, which handles multi-paragraph
+    blockquotes with nested inner quotes correctly.
+    """
+    return _strip_run_outer_markers([s])[0] if s else s
 
 
 # ──────────────────────────────────────────────────────────
@@ -578,7 +627,7 @@ _STRUCT_RE = re.compile(
     r"|p[aá]rrafo|p[aá]rrafos"
     r"|disposici[oó]n(?:\s+adicional|\s+transitoria|\s+final|\s+derogatoria)?"
     r"|anexos?"
-    r"|norma"
+    r"|normas?"
     r")"
     r"\s*(?P<ref>[\w\.\-ºª]+)",
     re.IGNORECASE,
@@ -677,42 +726,79 @@ _ORDINAL_WORDS: tuple[str, ...] = (
 )
 
 
+def _has_structural_signal(hint: str) -> bool:
+    """True when the hint carries at least one sub-heading signal
+    (article/apartado/letra/párrafo/disposición/anexo/norma + ref).
+
+    Norm identity alone (``Ley 4/2017``, ``Circular 1/2013``) does NOT
+    count — that identifies WHICH target norm is being amended, not
+    WHERE inside it the edit lands. Hints lacking any struct signal
+    describe the relationship at the norm level and cannot be resolved
+    against a specific heading in the target's Markdown.
+
+    Used by :func:`_attach_text_blocks` to cap ``anchor_confidence``.
+    Without this cap, the confidence scorer rewards a clean modifier
+    grammar regardless of whether the anchor could possibly match a
+    heading — and the applier later fails with ``anchor_not_found``
+    on 50%+ of supposedly ``regex_ready`` patches (see the live
+    fidelity run at ``STAGE-C-LIVE-FIDELITY.md``).
+    """
+    return any(s.startswith("struct:") for s in _extract_signals(hint))
+
+
+_NO_STRUCT_ANCHOR_CONF = 0.3
+"""Anchor confidence when the hint lacks any structural signal. Picked
+to land the patch in the ``hard`` tier (so LLM / Claude queue get a
+chance) without masquerading as ``regex_ready``."""
+
+
 def _score_match(anchor_hint: str, block_intro: str) -> float:
     """Return a similarity score in [0,1] between an <anterior><texto> and
     a TextBlock intro. Based on overlap of structural signals, not bare
-    string distance — string distance would be dominated by boilerplate."""
+    string distance — string distance would be dominated by boilerplate.
+
+    When either side has no extractable signals the result is 0.0 (no
+    overlap possible). The Pass 2b matcher interprets "every scored
+    pair == 0" as a total failure and triggers the target-scoped
+    fallback instead of silently assigning blocks to arbitrary patches
+    by tuple-ordering tie-break.
+    """
     a = _extract_signals(anchor_hint)
     b = _extract_signals(block_intro)
     if not a or not b:
-        # Nothing to hang similarity on. Return a neutral, low score so
-        # that downstream prefers a TextBlock with explicit signal overlap
-        # when one exists.
-        return 0.1
+        return 0.0
     inter = a & b
     if not inter:
         return 0.0
-    # Jaccard on the signals.
     return len(inter) / len(a | b)
 
 
 def _attach_text_blocks(
     patches: list[AmendmentPatch],
     blocks: list[TextBlock],
+    *,
+    sections: "list | None" = None,
+    assignments_out: "dict[int, list[int]] | None" = None,
 ) -> list[AmendmentPatch]:
     """Attach TextBlocks to AmendmentPatches.
 
     Policy:
       - delete verbs (SUPRIME/DEROGA) never need body text; they keep
         new_text=None and get confidence=1.0 straight away.
+      - When ``sections`` splits the modifier into per-target zones
+        (``<p class="articulo">`` titled "Norma N. Modificación de la
+        Circular X/YYYY"), each zone's blocks collapse into the matching
+        patch — reducing the multi-target omnibus case to a sequence of
+        single-target cases.
       - When only one replace/insert patch exists in this modifier, ALL
         TextBlocks belong to it (a modifier that edits only one target
         often contains many "...apartado X queda redactado: «...»"
         stanzas — one per apartado). Paragraphs are concatenated in
         document order; the final patch confidence is 1.0.
-      - When multiple replace/insert patches exist, we fall back to greedy
-        Jaccard matching on anchor signals. Tie-breaker: the patch-block
-        pair with the highest score wins; the remaining assignments run
-        on what's left.
+      - When multiple replace/insert patches exist and no section split
+        resolved them, we fall back to greedy Jaccard matching on anchor
+        signals. Tie-breaker: the patch-block pair with the highest score
+        wins; the remaining assignments run on what's left.
 
     Returns a fresh list; never mutates inputs.
     """
@@ -732,9 +818,15 @@ def _attach_text_blocks(
             text_idx.append(i)
 
     for i in delete_idx:
+        # DEROGA / SUPRIME: new_text_confidence is always 1.0 (no text
+        # needed). Anchor confidence depends on whether the hint can be
+        # located — a full-norm repeal ("DEROGA la Circular 1/2013") is
+        # NOT locatable as a sub-heading; cap to 0.3 so the applier does
+        # not trust a bogus structural match.
+        has_struct = _has_structural_signal(patches[i].anchor_hint)
         out[i] = _replace(
             out[i],
-            anchor_confidence=1.0,
+            anchor_confidence=1.0 if has_struct else _NO_STRUCT_ANCHOR_CONF,
             new_text_confidence=1.0,
             extractor="regex",
         )
@@ -744,29 +836,98 @@ def _attach_text_blocks(
         # (single patch → target unambiguous) but new_text is missing.
         if text_idx and len(text_idx) == 1 and not blocks:
             i = text_idx[0]
+            has_struct = _has_structural_signal(patches[i].anchor_hint)
             out[i] = _replace(
                 out[i],
-                anchor_confidence=1.0,
+                anchor_confidence=1.0 if has_struct else _NO_STRUCT_ANCHOR_CONF,
                 new_text_confidence=0.0,
                 extractor="regex",
             )
         return out
 
+    # Pass 1b: if the modifier body is split into per-target <p class="articulo">
+    # sections ("Norma 1. Modificación de la Circular 4/2017, ..."), use
+    # that structural partition to bind each section's blocks to the patch
+    # that names the same identifier. Any patch resolved this way drops out
+    # of text_idx so the residual Jaccard pass is not confused by blocks
+    # that were already consumed.
+    if sections and len(sections) >= 2 and len({patches[i].target_id for i in text_idx}) >= 2:
+        from legalize.fetcher.es.modifier_structure import (
+            blocks_in_section,
+            match_sections_to_patches,
+        )
+
+        section_to_patch = match_sections_to_patches(sections, patches)
+        consumed_blocks: set[int] = set()
+        resolved_patches: set[int] = set()
+        for si, pi in section_to_patch.items():
+            if pi not in text_idx:
+                continue
+            section_block_idx = blocks_in_section(blocks, sections[si])
+            if not section_block_idx:
+                continue
+            paragraphs: list[str] = []
+            for bi in section_block_idx:
+                paragraphs.extend(blocks[bi].paragraphs)
+                consumed_blocks.add(bi)
+            has_struct = _has_structural_signal(patches[pi].anchor_hint)
+            out[pi] = _replace(
+                out[pi],
+                new_text=tuple(paragraphs),
+                # Anchor signal: the section title itself is a strong
+                # positional signal; hints lacking sub-structural tokens
+                # (norma N / apartado M) still cap at 0.3 so the patcher
+                # knows the target is located but the exact edit point
+                # inside needs LLM or pointer handling.
+                anchor_confidence=0.95 if has_struct else _NO_STRUCT_ANCHOR_CONF,
+                new_text_confidence=0.95,
+                extractor="regex",
+            )
+            resolved_patches.add(pi)
+            if assignments_out is not None:
+                assignments_out[pi] = list(section_block_idx)
+
+        if resolved_patches:
+            # Remove resolved patches from the residual search space. We
+            # keep the FULL blocks list but mark the section-consumed ones
+            # so the Jaccard pass can skip them by index.
+            text_idx = [i for i in text_idx if i not in resolved_patches]
+            if not text_idx:
+                return out
+            # Rewrite blocks view: preserve original-index mapping for the
+            # assignments_out contract. We pass a filtered copy forward but
+            # remember the original indices via remap.
+            original_block_indices = [bi for bi in range(len(blocks)) if bi not in consumed_blocks]
+            blocks = [blocks[bi] for bi in original_block_indices]
+            if not blocks:
+                return out
+        else:
+            original_block_indices = list(range(len(blocks)))
+    else:
+        original_block_indices = list(range(len(blocks)))
+
     # Pass 2a: exactly one text-patch → all blocks collapse into it. Anchor
     # is trivially unambiguous (one <anterior>), new_text is strong
-    # (concatenation of every quoted run in the body).
+    # (concatenation of every quoted run in the body). But we still cap
+    # anchor confidence when the hint lacks structural signal — the
+    # modifier has ONE anterior, yet the hint might describe the whole
+    # norm ("modifica preceptos de la Circular 4/2017") and still be
+    # unlocatable against a specific heading.
     if len(text_idx) == 1:
         i = text_idx[0]
         joined_stripped: list[str] = []
         for b in blocks:
             joined_stripped.extend(b.paragraphs)
+        has_struct = _has_structural_signal(patches[i].anchor_hint)
         out[i] = _replace(
             out[i],
             new_text=tuple(joined_stripped),
-            anchor_confidence=1.0,
+            anchor_confidence=1.0 if has_struct else _NO_STRUCT_ANCHOR_CONF,
             new_text_confidence=1.0,
             extractor="regex",
         )
+        if assignments_out is not None:
+            assignments_out[i] = list(original_block_indices)
         return out
 
     # Pass 2b: multiple text-patches → greedy Jaccard matcher. Each block
@@ -791,6 +952,25 @@ def _attach_text_blocks(
         assigned[pi].append(bi)
         used_blocks.add(bi)
 
+    # Fallback for Jaccard total-failure: if NOT A SINGLE block was
+    # assigned but the modifier body DOES contain blocks, the anchor
+    # hints lack structural overlap with the block intros. Losing the
+    # blocks entirely would silently hide real amendment content from
+    # the downstream LLM tier (live run observed 60-111 blocks vanishing
+    # per modifier). Collapse every block into the first patch of the
+    # dominant target (by ordering_key), concatenated in document order.
+    # Guard: only fire the fallback when every text-patch points at the
+    # SAME target_id. If the modifier edits multiple targets, blocks
+    # cannot be safely routed without evidence — dumping them all into
+    # one target would corrupt another. In that multi-target case we
+    # leave every patch empty and let the LLM tier sort it out.
+    if not used_blocks and blocks:
+        distinct_targets = {patches[pi].target_id for pi in text_idx}
+        if len(distinct_targets) == 1:
+            first_pi = min(text_idx, key=lambda pi: (patches[pi].ordering_key, pi))
+            assigned[first_pi] = list(range(len(blocks)))
+            used_blocks.update(range(len(blocks)))
+
     for pi, block_indices in assigned.items():
         if not block_indices:
             # Patch landed with no blocks assigned: anchor is ambiguous in
@@ -813,6 +993,12 @@ def _attach_text_blocks(
         # agree on structural signals. New_text confidence is high when we
         # did extract text; when extraction is empty it is 0.
         anchor_conf = 0.95 if best_score >= 0.95 else best_score
+        # Even with a clean Jaccard match, a hint with no structural
+        # signal is not resolvable downstream: the block's intro may
+        # mention "articulo 5" but the hint only names the norm. Cap
+        # confidence so the applier does not over-trust it.
+        if not _has_structural_signal(patches[pi].anchor_hint):
+            anchor_conf = min(anchor_conf, _NO_STRUCT_ANCHOR_CONF)
         new_text_conf = 0.95 if paragraphs else 0.0
         out[pi] = _replace(
             out[pi],
@@ -821,6 +1007,10 @@ def _attach_text_blocks(
             new_text_confidence=new_text_conf,
             extractor="regex",
         )
+        if assignments_out is not None:
+            # Translate back to original block indices (Pass 1b may have
+            # filtered the blocks view).
+            assignments_out[pi] = [original_block_indices[bi] for bi in block_indices]
 
     return out
 
@@ -832,6 +1022,73 @@ def _replace(p: AmendmentPatch, **kwargs) -> AmendmentPatch:
     from dataclasses import replace as _r
 
     return _r(p, **kwargs)
+
+
+def _split_multi_block_patches(
+    patches: list[AmendmentPatch],
+    blocks: list[TextBlock],
+    assignments: dict[int, list[int]],
+) -> list[AmendmentPatch]:
+    """Expand multi-block text patches into one sub-patch per block.
+
+    When a single ``<anterior>`` covers several ``«...»`` runs — typical
+    in BOE omnibus modifiers where the patch-level hint is a coarse
+    "determinados preceptos de la Circular X" but each block intro says
+    "En la norma N, se modifica el apartado P, ..." — we gain much more
+    applied coverage by promoting every block's intro to its own anchor.
+    The intro carries the sub-structural tokens (norma/apartado/letra)
+    that the patcher's ``parse_anchor_from_hint`` needs; the patch-level
+    hint alone capped ``anchor_confidence`` at 0.3 via ``_has_structural_signal``.
+
+    A sub-patch inherits every identity field from its parent except:
+      - ``anchor_hint``  replaced with ``block.intro``
+      - ``new_text``     replaced with ``block.paragraphs``
+      - ``ordering_key`` suffixed with ``.NNN`` so stable sort keeps the
+                         parent's position and orders sub-patches in
+                         document order
+      - ``anchor_confidence`` re-evaluated against the new hint
+      - ``extractor``    marked ``"regex_split"`` so fidelity logs can
+                         tell a split patch from a pristine one
+
+    Delete patches and patches with only one block are returned unchanged.
+    The splitter is intentionally pure: same (patches, blocks, assignments)
+    always produces the same expansion, so idempotency of the Stage C
+    driver is preserved.
+    """
+    if not assignments:
+        return patches
+
+    expanded: list[AmendmentPatch] = []
+    for idx, patch in enumerate(patches):
+        block_indices = assignments.get(idx, [])
+        # Only split when the patch is text-producing and carries ≥2 blocks.
+        if patch.operation == "delete" or len(block_indices) < 2:
+            expanded.append(patch)
+            continue
+        # Guard: if the patch's current new_text_confidence is 0, the
+        # attach pass failed to bind blocks confidently; splitting won't
+        # help — the residual anchor_hint is what the LLM tier gets.
+        if not patch.new_text:
+            expanded.append(patch)
+            continue
+
+        for sub_idx, bi in enumerate(block_indices):
+            block = blocks[bi]
+            if not block.paragraphs:
+                continue
+            intro_has_struct = _has_structural_signal(block.intro)
+            expanded.append(
+                _replace(
+                    patch,
+                    anchor_hint=block.intro,
+                    new_text=tuple(block.paragraphs),
+                    anchor_confidence=0.95 if intro_has_struct else _NO_STRUCT_ANCHOR_CONF,
+                    new_text_confidence=0.95,
+                    extractor="regex_split",
+                    ordering_key=f"{patch.ordering_key}.{sub_idx:03d}",
+                )
+            )
+    return expanded
 
 
 # ──────────────────────────────────────────────────────────
@@ -854,4 +1111,14 @@ def parse_amendments(xml_data: bytes | str) -> list[AmendmentPatch]:
     if not patches:
         return patches
     blocks = extract_new_text_blocks(xml_data)
-    return _attach_text_blocks(patches, blocks)
+    from legalize.fetcher.es.modifier_structure import extract_modifier_sections
+
+    sections = extract_modifier_sections(xml_data)
+    assignments: dict[int, list[int]] = {}
+    attached = _attach_text_blocks(
+        patches,
+        blocks,
+        sections=sections,
+        assignments_out=assignments,
+    )
+    return _split_multi_block_patches(attached, blocks, assignments)

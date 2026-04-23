@@ -40,6 +40,7 @@ import hashlib
 import json
 import logging
 import os
+import re
 from dataclasses import dataclass, replace as dc_replace
 from datetime import date
 from pathlib import Path
@@ -47,7 +48,8 @@ from typing import Literal
 
 import requests
 
-from legalize.fetcher.es.amendments import AmendmentPatch, operation_for_verb
+from legalize.fetcher.es.amendments import AmendmentPatch, Operation, operation_for_verb
+from legalize.transformer.anchor import Anchor
 
 logger = logging.getLogger(__name__)
 
@@ -278,6 +280,272 @@ def _build_verify_prompt(
 
 
 # ──────────────────────────────────────────────────────────
+# Structured-edit extraction (session 3 redesign)
+# ──────────────────────────────────────────────────────────
+#
+# The parse_difficult_case / verify pair kept the anchor as a free-text
+# string, which the downstream patcher then had to re-parse with brittle
+# regexes (parse_anchor_from_hint). That roundtrip lost the anchor detail
+# the LLM had clearly resolved. The structured-edit path below returns
+# the anchor fields directly (as the Anchor dataclass the patcher already
+# consumes), and packs multiple edits into one call so a modifier with N
+# sub-patches costs one LLM round-trip instead of N.
+
+
+@dataclass(frozen=True)
+class StructuredEdit:
+    """An LLM-produced edit ready to feed ``apply_patch_structured`` directly.
+
+    Fields mirror what apply_patch actually needs — no more roundtripping
+    through string hints.
+
+    - ``anchor``       already a parsed ``Anchor`` object; resolver consumes it.
+    - ``operation``    one of replace / insert / delete.
+    - ``old_text``     literal quote of the region we expect to replace. Used
+                       by the length-sanity gate and for provenance logs; does
+                       NOT drive resolution (the anchor does).
+    - ``new_text``     tuple of paragraphs or None for delete ops.
+    - ``confidence``   model's self-reported confidence in THIS edit, independent
+                       of other edits in the same batch.
+    - ``reason``       free-text rationale; kept for fidelity logs.
+    - ``patch_index``  optional pointer back to the AmendmentPatch this edit
+                       resolves, so the dispatcher can correlate one LLM call
+                       across multiple patches.
+    """
+
+    anchor: Anchor
+    operation: Operation
+    old_text: str
+    new_text: tuple[str, ...] | None
+    confidence: float = 0.0
+    reason: str = ""
+    patch_index: int | None = None
+
+
+# JSON schema for the multi-edit response. We allow the model to return an
+# empty list (if nothing can be resolved) so the caller can degrade to
+# regex instead of us faking confidence.
+_EXTRACT_SCHEMA: dict = {
+    "type": "object",
+    "additionalProperties": False,
+    "required": ["edits"],
+    "properties": {
+        "edits": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": False,
+                "required": ["operation", "anchor", "new_text", "confidence", "reason"],
+                "properties": {
+                    "patch_index": {"type": ["integer", "null"]},
+                    "operation": {"enum": ["replace", "insert", "delete"]},
+                    "anchor": {
+                        "type": "object",
+                        "additionalProperties": False,
+                        "properties": {
+                            "articulo": {"type": ["string", "null"]},
+                            "norma": {"type": ["string", "null"]},
+                            "apartado": {"type": ["string", "null"]},
+                            "letra": {"type": ["string", "null"]},
+                            "parrafo": {"type": ["string", "null"]},
+                            "disposicion": {"type": ["string", "null"]},
+                            "anexo": {"type": ["string", "null"]},
+                            "libro": {"type": ["string", "null"]},
+                            "titulo": {"type": ["string", "null"]},
+                            "capitulo": {"type": ["string", "null"]},
+                            "seccion": {"type": ["string", "null"]},
+                        },
+                    },
+                    "old_text": {"type": ["string", "null"]},
+                    "new_text": {
+                        "type": ["array", "null"],
+                        "items": {"type": "string"},
+                    },
+                    "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+                    "reason": {"type": "string", "maxLength": 280},
+                },
+            },
+        },
+    },
+}
+
+
+_SYS_EXTRACT = (
+    "Eres un asistente juridico especializado en legislacion espanola del BOE. "
+    "Recibes: (1) un fragmento del texto base de una norma en Markdown, (2) el "
+    "cuerpo completo de otra norma que la modifica, (3) una lista de pistas de "
+    "ancla (hints) — una por sub-modificacion — cada una con su verbo BOE.\n\n"
+    "Tu tarea: devolver UN SOLO JSON con una lista 'edits', una entrada por hint. "
+    "Cada edit debe ubicar el punto exacto en la norma base y el texto nuevo "
+    "literal que aparece en el cuerpo modificador (entre comillas «...»).\n\n"
+    "ESQUEMA EXACTO:\n"
+    "{\n"
+    '  "edits": [\n'
+    "    {\n"
+    '      "patch_index": integer,             // indice de la pista en la lista de entrada\n'
+    '      "operation": "replace"|"insert"|"delete",  // EN INGLES, literal\n'
+    '      "anchor": {                         // todos los campos son opcionales; usa solo los relevantes\n'
+    '        "articulo": null | string,        // "5" | "5 bis" | "12"\n'
+    '        "norma": null | string,           // "16" (Circulares BdE)\n'
+    '        "apartado": null | string,        // "2" | "uno" | "primero"\n'
+    '        "letra": null | string,           // "a" | "c"\n'
+    '        "parrafo": null | string,         // "primero" | "3"\n'
+    '        "disposicion": null | string,     // "adicional primera" | "final tercera"\n'
+    '        "anexo": null | string,           // "I" | "III" | "1"\n'
+    '        "libro": null | string,\n'
+    '        "titulo": null | string,\n'
+    '        "capitulo": null | string,\n'
+    '        "seccion": null | string\n'
+    "      },\n"
+    '      "old_text": string | null,          // cita literal del texto base que se sustituye (para gate)\n'
+    '      "new_text": [string, ...] | null,   // parrafos literales entre «»; null si operation=delete\n'
+    '      "confidence": 0.0..1.0,\n'
+    '      "reason": string (max 280)\n'
+    "    },\n"
+    "    ...\n"
+    "  ]\n"
+    "}\n\n"
+    "MAPEO VERBO BOE → operation:\n"
+    '  MODIFICA / 270 / 407 → "replace"\n'
+    '  AÑADE / ANADE / 210  → "insert"\n'
+    '  SUPRIME / 235 / DEROGA → "delete"\n\n'
+    "REGLAS ESTRICTAS:\n"
+    "- NO INVENTES TEXTO. Si no encuentras el new_text literal entre «...» en "
+    "  el cuerpo modificador, pon new_text=null y confidence<0.5.\n"
+    "- Si operation=delete, new_text=null SIEMPRE.\n"
+    "- Usa SOLO los campos del anchor que realmente identifican la ubicacion; "
+    "  deja null los demas. Un anchor bueno para una Circular BdE suele ser "
+    "  {norma, apartado, letra}; para una Ley suele ser {articulo, apartado, letra}.\n"
+    "- El 'patch_index' DEBE coincidir con el indice 0-based de la pista en la "
+    "  lista de entrada. Si una pista no es resoluble, incluyela en 'edits' con "
+    "  confidence=0 en lugar de omitirla.\n"
+    "- Prefiero commit-pointer a patch erroneo: si dudas, baja confidence."
+)
+
+
+def _build_extract_prompt(
+    base_context: str,
+    modifier_body: str,
+    hints: list[tuple[str, str]],  # [(anchor_hint, verb_code), ...]
+) -> str:
+    hint_lines: list[str] = []
+    for idx, (hint, verb) in enumerate(hints):
+        hint_lines.append(f"  [{idx}] verb={verb or '?'}  hint={hint!r}")
+    hints_block = "\n".join(hint_lines) if hint_lines else "  (lista vacia)"
+    return (
+        f"PISTAS DE ANCLA (una por sub-modificacion):\n"
+        f"{hints_block}\n\n"
+        f"TEXTO BASE (fragmento, Markdown):\n---\n{base_context}\n---\n\n"
+        f"CUERPO MODIFICADOR (completo):\n---\n{modifier_body}\n---\n\n"
+        f"Devuelve UN SOLO JSON con {{edits: [...]}} — una entrada por hint, "
+        f"en el mismo orden. Nada mas."
+    )
+
+
+_ANCHOR_FIELDS: tuple[str, ...] = (
+    "articulo",
+    "norma",
+    "apartado",
+    "letra",
+    "parrafo",
+    "disposicion",
+    "anexo",
+    "libro",
+    "titulo",
+    "capitulo",
+    "seccion",
+)
+
+
+# Law-identifier pattern ("168/2025", "8/2015", "27/2014") — BOE's
+# canonical citation form. The model keeps shoving this into the
+# ``norma`` field even though our schema reserves ``norma`` for
+# Circular-BdE internal units (Norma 1, Norma 2, …). Detect and drop.
+_LAW_IDENT_RE = re.compile(r"^\s*\d+\s*/\s*\d{4}\s*$")
+
+# Combined article reference ("96.2", "32.1.a") that should be split into
+# articulo + apartado (+ optional letra). Captures the parts so we can
+# repack them into the correct fields.
+_ARTICLE_COMPOUND_RE = re.compile(
+    r"^\s*(?P<art>\d+\s*(?:bis|ter|quater)?)"
+    r"(?:\s*\.\s*(?P<ap>\d+))?"
+    r"(?:\s*\.\s*(?P<letra>[a-z]))?\s*$",
+    re.IGNORECASE,
+)
+
+# "disposición transitoria cuarta.6" / "adicional primera.3" — the model
+# appends the apartado to the ordinal with a literal dot. Separate.
+_DISPOSICION_COMPOUND_RE = re.compile(
+    r"^\s*(?P<disp>[\wÁÉÍÓÚáéíóúñ]+\s+[\wÁÉÍÓÚáéíóúñ]+)"
+    r"\s*\.\s*(?P<ap>\d+)\s*$",
+    re.IGNORECASE,
+)
+
+
+def _anchor_from_dict(raw: dict | None) -> Anchor:
+    """Build an Anchor from the LLM's JSON payload.
+
+    Beyond trimming/nulling empty strings we run three LLM-quirk fixes
+    uncovered by session-3 live diagnostics:
+
+      1. ``norma`` carrying a law identifier like ``"168/2025"`` is
+         dropped — ``norma`` in our Anchor is reserved for the internal
+         structural unit of a Circular BdE ("Norma 1", "Norma 67"),
+         not for the modified law's BOE citation. The model confuses
+         the two.
+      2. ``articulo`` given as ``"N.M"`` is split into articulo + apartado
+         (and ``"N.M.letra"`` into articulo + apartado + letra). This
+         is an extremely common shorthand on BOE amendments but breaks
+         ``_match_articulo`` because the regex expects just the article
+         number.
+      3. Empty strings → None, so downstream resolution can treat them
+         as "not supplied" instead of matching on "".
+    """
+    if not isinstance(raw, dict):
+        return Anchor()
+    fields: dict[str, str | None] = {}
+    for name in _ANCHOR_FIELDS:
+        v = raw.get(name)
+        if isinstance(v, str):
+            v = v.strip()
+            fields[name] = v or None
+        else:
+            fields[name] = None
+
+    # Fix 1: drop law-identifier misuse in ``norma``.
+    if fields.get("norma") and _LAW_IDENT_RE.match(fields["norma"] or ""):
+        fields["norma"] = None
+
+    # Fix 2: split compound articulo ref. We only overwrite apartado /
+    # letra when they were NOT explicitly provided by the LLM.
+    art = fields.get("articulo")
+    if art:
+        m = _ARTICLE_COMPOUND_RE.match(art)
+        if m and m.group("ap"):
+            fields["articulo"] = m.group("art").strip()
+            if not fields.get("apartado"):
+                fields["apartado"] = m.group("ap")
+            if m.group("letra") and not fields.get("letra"):
+                fields["letra"] = m.group("letra").lower()
+
+    # Fix 2b: same pattern on disposicion. "transitoria cuarta.6" →
+    # disposicion="transitoria cuarta" + apartado="6".
+    disp = fields.get("disposicion")
+    if disp:
+        dm = _DISPOSICION_COMPOUND_RE.match(disp)
+        if dm:
+            fields["disposicion"] = dm.group("disp").strip()
+            if not fields.get("apartado"):
+                fields["apartado"] = dm.group("ap")
+
+    # Normalise letra to lowercase for the resolver.
+    if fields.get("letra"):
+        fields["letra"] = (fields["letra"] or "").lower() or None
+
+    return Anchor(**fields)
+
+
+# ──────────────────────────────────────────────────────────
 # AmendmentLLM
 # ──────────────────────────────────────────────────────────
 
@@ -384,6 +652,93 @@ class AmendmentLLM:
             ordering_key=ordering_key,
         )
 
+    def extract_edits_from_modifier(
+        self,
+        *,
+        base_context: str,
+        modifier_body: str,
+        hints: list[tuple[str, str]],
+    ) -> list[StructuredEdit]:
+        """One LLM call for a whole group of sub-patches sharing a modifier.
+
+        ``hints`` is a list of (anchor_hint, verb_code) pairs in the order
+        the patches live in the AmendmentPatch list; the model is asked to
+        return one edit per hint at the matching 0-based ``patch_index``.
+
+        Cached identically to parse_difficult_case: the full prompt hash is
+        the key, so re-running the fidelity loop on the same modifier is
+        free after the first call.
+
+        Returns an empty list when the model returns no usable edits (all
+        confidences below the configured rung threshold, malformed JSON,
+        etc.) — never raises for an empty result. Transport-level errors
+        still raise ``LLMError`` so the dispatcher can fall back to regex.
+        """
+        if not hints:
+            return []
+        prompt = _build_extract_prompt(base_context, modifier_body, hints)
+        # Budget scales with number of edits: each edit carries an anchor,
+        # old_text and 1+ new_text paragraphs. 4K tokens comfortably fits
+        # 10 edits with full Spanish prose; we scale linearly for larger
+        # groups while staying well below Groq's 32K-token cap.
+        max_tokens = max(4000, 400 * len(hints))
+        model_used, parsed = self._call_with_escalation(
+            system=_SYS_EXTRACT,
+            user=prompt,
+            schema=_EXTRACT_SCHEMA,
+            # confidence of the envelope is not a single number here —
+            # individual edits carry their own. Skip the rung threshold
+            # check at envelope level; we filter per-edit below.
+            bypass_rung_threshold=True,
+            max_tokens=max_tokens,
+        )
+        raw_edits = parsed.get("edits")
+        if not isinstance(raw_edits, list):
+            logger.warning("LLM %s returned non-list edits: %r", model_used, raw_edits)
+            return []
+
+        out: list[StructuredEdit] = []
+        for item in raw_edits:
+            if not isinstance(item, dict):
+                continue
+            op = item.get("operation")
+            if op not in ("replace", "insert", "delete"):
+                continue
+            new_text_raw = item.get("new_text")
+            if new_text_raw is None:
+                new_text: tuple[str, ...] | None = None
+            elif isinstance(new_text_raw, list):
+                paragraphs = tuple(x for x in new_text_raw if isinstance(x, str) and x.strip())
+                new_text = paragraphs if paragraphs else None
+            else:
+                continue
+            if op == "delete":
+                new_text = None
+            old_text_raw = item.get("old_text")
+            old_text = old_text_raw if isinstance(old_text_raw, str) else ""
+            conf_raw = item.get("confidence", 0.0)
+            try:
+                conf = float(conf_raw)
+            except (TypeError, ValueError):
+                conf = 0.0
+            conf = max(0.0, min(1.0, conf))
+            reason = item.get("reason") or ""
+            idx_raw = item.get("patch_index")
+            patch_index = idx_raw if isinstance(idx_raw, int) else None
+            anchor = _anchor_from_dict(item.get("anchor"))
+            out.append(
+                StructuredEdit(
+                    anchor=anchor,
+                    operation=op,  # type: ignore[arg-type]
+                    old_text=old_text,
+                    new_text=new_text,
+                    confidence=conf,
+                    reason=reason if isinstance(reason, str) else "",
+                    patch_index=patch_index,
+                )
+            )
+        return out
+
     def verify(
         self,
         *,
@@ -468,6 +823,8 @@ class AmendmentLLM:
         system: str,
         user: str,
         schema: dict,
+        bypass_rung_threshold: bool = False,
+        max_tokens: int | None = None,
     ) -> tuple[str, dict]:
         """Try each model in the ladder until one returns a valid JSON.
 
@@ -500,15 +857,17 @@ class AmendmentLLM:
                     system=system,
                     user=user,
                     schema=schema,
+                    max_tokens=max_tokens,
                 )
             except LLMError as e:
                 errors.append(f"{model}: {e}")
                 continue
 
-            conf = parsed.get("confidence")
-            if isinstance(conf, (int, float)) and conf < self.cfg.rung_threshold:
-                errors.append(f"{model}: confidence {conf:.2f} below rung threshold")
-                continue
+            if not bypass_rung_threshold:
+                conf = parsed.get("confidence")
+                if isinstance(conf, (int, float)) and conf < self.cfg.rung_threshold:
+                    errors.append(f"{model}: confidence {conf:.2f} below rung threshold")
+                    continue
 
             self._cache_put(
                 cache_key,
@@ -523,7 +882,15 @@ class AmendmentLLM:
 
         raise LLMError("all models failed: " + "; ".join(errors))
 
-    def _call_once(self, *, model: str, system: str, user: str, schema: dict) -> tuple[dict, dict]:
+    def _call_once(
+        self,
+        *,
+        model: str,
+        system: str,
+        user: str,
+        schema: dict,
+        max_tokens: int | None = None,
+    ) -> tuple[dict, dict]:
         """One HTTP round-trip. Returns (parsed_json, response_meta) where
         response_meta carries the opaque response_id + the model Groq
         echoed back — both are used for drift observability."""
@@ -536,10 +903,11 @@ class AmendmentLLM:
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
 
+        effective_max_tokens = max_tokens if max_tokens is not None else self.cfg.max_tokens
         payload: dict = {
             "model": model,
             "temperature": self.cfg.temperature,
-            "max_tokens": self.cfg.max_tokens,
+            "max_tokens": effective_max_tokens,
             "messages": [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
@@ -547,10 +915,30 @@ class AmendmentLLM:
             "response_format": {"type": "json_object"},
         }
 
-        try:
-            resp = requests.post(url, json=payload, headers=headers, timeout=self.cfg.timeout_s)
-        except requests.RequestException as e:
-            raise LLMError(f"network error to {model}: {e}") from e
+        # Single retry on 429 — Groq TPM limits are easy to trip when we
+        # ship full base_markdown + long modifier_body on every call. The
+        # error body includes a precise "try again in Xs" hint which we
+        # honour up to 30s. Any other non-200 bubbles up as LLMError.
+        attempts = 0
+        while True:
+            try:
+                resp = requests.post(url, json=payload, headers=headers, timeout=self.cfg.timeout_s)
+            except requests.RequestException as e:
+                raise LLMError(f"network error to {model}: {e}") from e
+
+            if resp.status_code == 429 and attempts == 0:
+                attempts += 1
+                wait_s = _parse_retry_after(resp)
+                logger.info(
+                    "Groq 429 rate-limit for %s; sleeping %.1fs before retry",
+                    model,
+                    wait_s,
+                )
+                import time
+
+                time.sleep(wait_s)
+                continue
+            break
 
         if resp.status_code != 200:
             body = resp.text[:500]
@@ -608,6 +996,33 @@ class AmendmentLLM:
 # ──────────────────────────────────────────────────────────
 # Helpers
 # ──────────────────────────────────────────────────────────
+
+
+def _parse_retry_after(resp) -> float:
+    """Pull the suggested backoff out of a Groq 429 response. Groq puts it
+    inside the JSON body as 'try again in 5.42568s' (sometimes with ms).
+    When missing, fall back to a 10s default; we cap at 30s to avoid
+    stalling the fidelity loop on a noisy-neighbour event."""
+    import re as _re
+
+    try:
+        body = resp.json()
+        msg = body.get("error", {}).get("message", "")
+    except ValueError:
+        msg = resp.text or ""
+    m = _re.search(r"try again in ([\d.]+)\s*(m?s)", msg)
+    if m:
+        value = float(m.group(1))
+        if m.group(2) == "ms":
+            value = value / 1000.0
+        return max(0.5, min(30.0, value))
+    header = resp.headers.get("Retry-After")
+    if header:
+        try:
+            return max(0.5, min(30.0, float(header)))
+        except ValueError:
+            pass
+    return 10.0
 
 
 def _prompt_hash(system: str, user: str, ladder: tuple[str, ...] = ()) -> str:

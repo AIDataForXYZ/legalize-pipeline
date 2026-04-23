@@ -62,8 +62,14 @@ from lxml import etree
 
 from legalize.committer.git_ops import GitRepo
 from legalize.fetcher.es.amendments import parse_amendments
+from legalize.llm.amendment_parser import AmendmentLLM
+from legalize.llm.dispatcher import (
+    DispatchResult,
+    dispatch_modifier_patches,
+    extract_modifier_body_text,
+)
 from legalize.llm.queue import PendingCaseQueue
-from legalize.transformer.patcher import PatchResult, apply_patch
+from legalize.transformer.patcher import PatchResult
 
 logger = logging.getLogger(__name__)
 
@@ -136,6 +142,9 @@ class StageCDriver:
         author_name: str = "Legalize",
         author_email: str = "legalize@legalize.dev",
         queue: PendingCaseQueue | None = None,
+        llm: AmendmentLLM | None = None,
+        daily_mode: bool = False,
+        use_structured_llm: bool = True,
     ) -> None:
         self.repo = repo
         self.fetch_diario = fetch_diario
@@ -143,6 +152,9 @@ class StageCDriver:
         self.author_name = author_name
         self.author_email = author_email
         self.queue = queue
+        self.llm = llm
+        self.daily_mode = daily_mode
+        self.use_structured_llm = use_structured_llm
         repo.load_existing_commits()
 
     # ── public ────────────────────────────────────────────
@@ -336,17 +348,54 @@ class StageCDriver:
         # attribute, falling back to stable document order.
         patches.sort(key=lambda p: (p.ordering_key, p.anchor_hint))
 
+        modifier_body = extract_modifier_body_text(mod_xml)
+
         working_md = current_md
         applied_any = False
-        results: list[PatchResult] = []
-        for patch in patches:
-            result = apply_patch(working_md, patch)
-            results.append(result)
-            if result.status == "applied":
-                working_md = result.new_markdown
+        queued_any = False
+        dispatches: list[DispatchResult] = list(
+            dispatch_modifier_patches(
+                working_md,
+                patches,
+                modifier_body=modifier_body,
+                llm=self.llm,
+                queue=self.queue,
+                daily_mode=self.daily_mode,
+                use_structured=self.use_structured_llm,
+            )
+        )
+        # The group dispatcher threads the working markdown internally;
+        # take the final state from the last applied patch in the batch.
+        for dispatch in dispatches:
+            if dispatch.applied:
+                working_md = dispatch.patch_result.new_markdown  # type: ignore[union-attr]
                 applied_any = True
+            elif dispatch.status == "queued":
+                queued_any = True
+
+        results: list[PatchResult] = [
+            d.patch_result for d in dispatches if d.patch_result is not None
+        ]
 
         if not applied_any:
+            # Queued-only modifiers are held back for a future rerun: once
+            # the Claude resolver writes resolutions.jsonl, the next
+            # StageCDriver invocation dispatches the same hard cases and
+            # picks up the resolution (idempotent via case_id_for).
+            if queued_any and not results:
+                logger.info(
+                    "modifier %s fully deferred to Claude queue (%d cases)",
+                    modifier_id,
+                    sum(1 for d in dispatches if d.status == "queued"),
+                )
+                return ModifierOutcome(
+                    modifier_id=modifier_id,
+                    modifier_date=modifier_date,
+                    status="skipped_queued",
+                    patch_results=(),
+                    reason="all patches routed to Claude queue; awaiting resolution",
+                )
+
             sha = self._emit_pointer(
                 target_id=target_id,
                 target_path=target_path,
