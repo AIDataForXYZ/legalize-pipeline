@@ -227,36 +227,37 @@ Lisa for appendices). If your country only ships one format, say so in
 
 ### 6. Fetch and commit are separate phases
 
-**The fetcher MUST NOT call `git` on a per-norm basis.** Ever. No
-`git log`, no `git show`, no `git cat-file`, no `subprocess.run(["git",
-…])` from inside the loop that processes individual norms.
+**The fetcher MUST NOT shell out to ``git``.** Zero ``subprocess.run(["git",
+…])``, ``Popen(["git", …])``, or equivalents — not per norm, not batched
+at startup, not anywhere in the fetcher path. If you need to read history
+from a git source, use a native library (``pygit2`` / libgit2) that talks
+to the object database in-process.
 
 Why this is a hard rule:
 
 - The fetch phase runs 11,000+ times on a typical country. Even at 200
   ms per subprocess spawn (fork + exec + git's own startup), that's 37
-  minutes of pure overhead for one `git log` call per norm. With two
-  calls (`log` + `show` per version), 11K norms × 5 versions = 55K
+  minutes of pure overhead for one ``git log`` call per norm. With two
+  calls (``log`` + ``show`` per version), 11K norms × 5 versions = 55K
   subprocesses = over 3 hours wasted on process creation alone.
-- `git` holds a filesystem lock on the repo. Multiple workers calling
-  it in parallel serialize on that lock — so parallelization doesn't
-  help the way it should.
-- Python's GIL is also held during the wait for each subprocess to
-  return, so the thread pool can't do other useful work during those
-  thousands of micro-stalls.
+- Even a single persistent ``git cat-file --batch`` subprocess shared
+  across workers still serialises: it has one pair of stdin/stdout
+  pipes, so every worker queues behind the same lock. Under 8 workers
+  the bootstrap tail falls back to ~6 norms/min while CPU sits idle.
+- Python's GIL is held for the wait on each subprocess, so the thread
+  pool can't do other useful work during those micro-stalls.
 
-What the fetcher IS allowed to do with git:
+What the fetcher IS allowed to do:
 
 - **Read the upstream clone's working tree** (direct file I/O on
   ``{data_dir}/some-clone/``). That's a filesystem read, not a git
   command.
-- **Build an upfront index ONCE at fetcher startup**, using ONE or TWO
-  batched git invocations (e.g., ``git log --all --name-only`` feeds
-  a ``(norm_id → [commit_shas])`` table; ``git cat-file --batch``
-  streams every needed blob through a single subprocess's stdin/stdout
-  pipe). A country with historical versions in a git source may legally
-  do this at fetcher construction time — just not in the per-norm
-  ``get_suvestine`` body.
+- **Walk the object database via ``pygit2``**, with a per-thread
+  ``pygit2.Repository`` instance. Build an upfront ``{path →
+  [(commit_sha, iso_date, blob_oid), …]}`` cache once at startup
+  (``diff.deltas`` iteration, no patch materialisation — the full
+  Justice Canada walk is ~2 s), then resolve every per-norm blob via
+  ``repo[blob_oid].data``. No subprocess, no cross-thread locks.
 - **Emit data for the committer**. The committer is a separate downstream
   phase (``commit_all`` / ``fast-import``). It's the ONLY place allowed
   to shell out to git in bulk, and it already streams everything through
@@ -271,13 +272,14 @@ the CA bootstrap's tail take 12+ hours instead of 1-2.
 
 Reference implementations:
 
-- **Batched pattern (good)**: ``fetcher/fr/client.py`` reads the LEGI
+- **In-memory dump (good)**: ``fetcher/fr/client.py`` reads the LEGI
   tar.gz dump once at startup, holds the dated snapshots in memory,
   serves each norm from that cache.
-- **Per-norm git calls (bad, being migrated)**: ``fetcher/ca/client.py``
-  currently spawns ``git log`` + ``git show`` per norm. See the task
-  "v2: batch git operations via cat-file --batch" for the follow-up.
-  Do not copy this pattern into a new country.
+- **In-process git via pygit2 (good)**: ``fetcher/ca/client.py`` uses
+  ``pygit2.Repository`` to walk the Justice Canada clone at startup and
+  resolves blobs directly from the object database on worker threads —
+  no ``git`` subprocess ever runs inside the fetcher path. Copy this
+  pattern for any new country whose history lives in a git repo.
 
 ## Prerequisites
 

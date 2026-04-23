@@ -82,11 +82,19 @@ def parse_pit_html(html_bytes: bytes, lang: str = "en") -> list[Paragraph]:
 
 
 def _clean(text: str) -> str:
+    """Normalize whitespace and strip C0/C1 control chars.
+
+    ``str.split()`` + ``" ".join(...)`` is a C-level idiom that collapses
+    every run of whitespace (including ``\\xa0`` non-breaking spaces, tabs,
+    newlines, form feeds) and strips ends — equivalent to the old
+    ``replace \\xa0 → _CTRL_RE.sub → re.sub(\\s+) → .strip()`` chain but
+    about 4× faster and called ~4 M times per Criminal Code parse.
+    """
     if not text:
         return ""
-    text = text.replace("\xa0", " ")
-    text = _CTRL_RE.sub("", text)
-    return re.sub(r"\s+", " ", text).strip()
+    if _CTRL_RE.search(text):
+        text = _CTRL_RE.sub("", text)
+    return " ".join(text.split())
 
 
 def _classes(el) -> set[str]:
@@ -94,7 +102,54 @@ def _classes(el) -> set[str]:
     return set(raw.split())
 
 
-def _inline_text(el) -> str:
+_SKIP_NESTED_CLASS_TOKENS: tuple[str, ...] = (
+    "MarginalNote",
+    "HistoricalNote",
+    "wb-invisible",
+)
+
+
+def _make_nested_skip(also_classes: Iterable[str] = ()):
+    """Return a predicate that matches the descendants ``_strip_nested`` used to drop.
+
+    Mirrors the historical XPath selector (``.//ul | .//ol | .//*[contains(@class,
+    'MarginalNote')] | .//*[@class='sectionLabel'] | .//*[@class='lawlabel'] |
+    .//*[contains(@class, 'HistoricalNote')] | .//*[contains(@class, 'wb-invisible')]``
+    plus any caller-supplied also_classes), but without ever cloning the tree.
+    Used by :func:`_inline_text` so the recursion can short-circuit at those
+    subtrees in-place — this avoids the O(n) ``copy.deepcopy`` that used to
+    dominate Criminal Code parsing (~26 s of 103 s cProfile'd).
+    """
+    extras = tuple(also_classes) if also_classes else ()
+
+    def skip(el) -> bool:
+        tag = el.tag
+        if tag == "ul" or tag == "ol":
+            return True
+        cls = el.get("class")
+        if not cls:
+            return False
+        if cls == "sectionLabel" or cls == "lawlabel":
+            return True
+        for token in _SKIP_NESTED_CLASS_TOKENS:
+            if token in cls:
+                return True
+        for extra in extras:
+            if extra in cls:
+                return True
+        return False
+
+    return skip
+
+
+# Pre-built predicates for the two call sites that used ``_strip_nested``.
+# Building these once at import time avoids the per-call closure allocation
+# in the hot paths (``_emit_section``, ``_emit_paragraph``, ``_emit_definition``).
+_SECTION_SKIP = _make_nested_skip()
+_DEFINITION_SKIP = _make_nested_skip(("DefinedTerm", "DefinedTermLink"))
+
+
+def _inline_text(el, skip_pred=None) -> str:
     """Recursive inline text extractor mirroring the XML parser's one.
 
     Preserves Markdown-level formatting for:
@@ -111,6 +166,11 @@ def _inline_text(el) -> str:
       rendered as-is (the caller decides whether to bold them).
 
     Everything else recurses by default.
+
+    ``skip_pred`` (optional) is a callable evaluated on every descendant
+    before the normal dispatch. When it returns True the subtree is
+    omitted entirely (tail text is still preserved). This replaces the
+    old ``_strip_nested`` + deepcopy pattern.
     """
     if el is None:
         return ""
@@ -120,6 +180,11 @@ def _inline_text(el) -> str:
         parts.append(el.text)
 
     for child in el:
+        if skip_pred is not None and skip_pred(child):
+            if child.tail:
+                parts.append(child.tail)
+            continue
+
         tag = child.tag.lower() if isinstance(child.tag, str) else ""
         cls = _classes(child)
 
@@ -156,17 +221,17 @@ def _inline_text(el) -> str:
             elif label:
                 parts.append(label)
         elif tag in ("strong", "b"):
-            child_text = _inline_text(child)
+            child_text = _inline_text(child, skip_pred)
             stripped = child_text.strip()
             if stripped:
                 parts.append(f"**{stripped}**")
         elif tag in ("em", "i", "dfn"):
-            child_text = _inline_text(child)
+            child_text = _inline_text(child, skip_pred)
             stripped = child_text.strip()
             if stripped:
                 parts.append(f"*{stripped}*")
         elif tag == "span" and ("DefinedTerm" in cls or "DefinedTermLink" in cls):
-            child_text = _inline_text(child)
+            child_text = _inline_text(child, skip_pred)
             stripped = child_text.strip()
             if stripped:
                 parts.append(f"*{stripped}*")
@@ -174,7 +239,7 @@ def _inline_text(el) -> str:
             # Label text is consumed by the caller — don't duplicate it.
             pass
         else:
-            parts.append(_inline_text(child))
+            parts.append(_inline_text(child, skip_pred))
 
         if child.tail:
             parts.append(child.tail)
@@ -265,9 +330,12 @@ def _walk(container, paragraphs: list[Paragraph], lang: str) -> None:
         elif "Section" in cls or "Subsection" in cls:
             _emit_section(child, paragraphs, cls)
             # Sections can hold nested ProvisionList children (ul.ProvisionList)
-            # whose <li> elements wrap deeper Subsections/Paragraphs. Recurse
-            # so those surface in order.
-            for li in child.xpath(".//li"):
+            # whose <li> elements wrap deeper Subsections/Paragraphs. Only walk
+            # DIRECT li children here — ``_walk_li_children`` recurses into any
+            # nested ProvisionList it finds inside each li, so the descendant
+            # xpath (``.//li``) we used before was double-counting every li
+            # under nested Sections up to ~350× on Criminal Code structures.
+            for li in child.xpath("./li"):
                 _walk_li_children(li, paragraphs)
         elif "ProvisionList" in cls:
             # Standalone provision list (rare — usually wrapped by Section).
@@ -325,7 +393,8 @@ def _walk_li_children(li, paragraphs: list[Paragraph]) -> None:
             continue
         if "Subsection" in cls or "Section" in cls:
             _emit_section(child, paragraphs, cls)
-            for inner_li in child.xpath(".//li"):
+            # Direct li children only — see ``_walk`` for the rationale.
+            for inner_li in child.xpath("./li"):
                 _walk_li_children(inner_li, paragraphs)
         elif "Paragraph" in cls:
             _emit_paragraph(child, paragraphs)
@@ -370,8 +439,7 @@ def _emit_section(el, paragraphs: list[Paragraph], cls: set[str]) -> None:
     if is_provision_list:
         return
 
-    clone = _strip_nested(el)
-    txt = _clean(_inline_text(clone))
+    txt = _clean(_inline_text(el, _SECTION_SKIP))
     if txt:
         prefix_parts: list[str] = []
         if not is_section and label:
@@ -393,8 +461,7 @@ def _emit_paragraph(el, paragraphs: list[Paragraph], css_class: str = "parrafo")
     label_spans = el.xpath(".//span[@class='lawlabel']")
     if label_spans:
         label = _clean(label_spans[0].text_content())
-    clone = _strip_nested(el)
-    txt = _clean(_inline_text(clone))
+    txt = _clean(_inline_text(el, _SECTION_SKIP))
     if txt:
         body = f"**{label}** {txt}".strip() if label else txt
         paragraphs.append(Paragraph(css_class=css_class, text=body))
@@ -410,8 +477,7 @@ def _emit_definition(el, paragraphs: list[Paragraph]) -> None:
     term_spans = el.xpath(".//*[contains(@class, 'DefinedTerm')]")
     term = _clean(_inline_text(term_spans[0])) if term_spans else ""
     # Strip the term out of the body text to avoid duplication.
-    clone = _strip_nested(el, also_classes={"DefinedTerm", "DefinedTermLink"})
-    body = _clean(_inline_text(clone))
+    body = _clean(_inline_text(el, _DEFINITION_SKIP))
     if term and body:
         paragraphs.append(Paragraph(css_class="parrafo", text=f"*{term}* {body}"))
     elif term:
@@ -440,44 +506,3 @@ def _emit_schedule(el, paragraphs: list[Paragraph]) -> None:
         txt = _clean(_inline_text(child))
         if txt:
             paragraphs.append(Paragraph(css_class="parrafo", text=txt))
-
-
-def _strip_nested(
-    el,
-    also_classes: Iterable[str] = (),
-) -> "lxml_html.HtmlElement":
-    """Return a shallow copy of ``el`` with nested block containers removed.
-
-    Used so ``_inline_text(clone)`` doesn't dredge up nested subsections
-    or paragraphs we've already emitted separately. We strip ``<ul>``,
-    ``<ol>``, ``<div class="MarginalNote">``, ``<span class="sectionLabel">``,
-    ``<span class="lawlabel">`` (those are consumed into the prefix), and
-    any additional classes the caller asks us to drop.
-    """
-    import copy
-
-    clone = copy.deepcopy(el)
-    drop_xpath = (
-        ".//ul | .//ol"
-        " | .//*[contains(@class, 'MarginalNote')]"
-        " | .//*[@class='sectionLabel']"
-        " | .//*[@class='lawlabel']"
-        " | .//*[contains(@class, 'HistoricalNote')]"
-        " | .//*[contains(@class, 'wb-invisible')]"
-    )
-    for extra in also_classes:
-        drop_xpath += f" | .//*[contains(@class, '{extra}')]"
-
-    for drop in clone.xpath(drop_xpath):
-        parent = drop.getparent()
-        if parent is not None:
-            # Preserve the tail text when we drop a node so surrounding
-            # prose stays contiguous.
-            if drop.tail:
-                prev = drop.getprevious()
-                if prev is not None:
-                    prev.tail = (prev.tail or "") + drop.tail
-                else:
-                    parent.text = (parent.text or "") + drop.tail
-            parent.remove(drop)
-    return clone

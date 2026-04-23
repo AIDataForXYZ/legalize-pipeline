@@ -40,12 +40,18 @@ from __future__ import annotations
 import base64
 import json
 import logging
-import subprocess
 import threading
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import TYPE_CHECKING, Callable, Iterator
+
+# ``pygit2`` is imported lazily inside ``_thread_repo`` / ``_get_git_log_cache``.
+# The pre-commit dispatch check runs under the system ``python3`` (which may
+# not have pygit2 installed) and only needs to introspect class attributes,
+# so keeping the import off the module's import-time path avoids a spurious
+# hook failure. The library is still required at runtime when the CA fetcher
+# touches an upstream clone.
 
 from legalize.fetcher.base import HttpClient
 from legalize.fetcher.ca.annual_statute_index import (
@@ -198,10 +204,9 @@ class JusticeCanadaClient(HttpClient):
     def _git_log_versions(self, norm_id: str) -> list[dict]:
         """Return all upstream-git versions of ``norm_id``, oldest first.
 
-        Uses the module-level batched git-log cache + ``cat-file --batch``
-        pool (see ``_get_git_log_cache`` / ``_cat_file_read``), so the
-        per-norm subprocess cost that used to dominate the bootstrap is
-        replaced by two dict lookups and one pipe write/read.
+        Backed by a pygit2-built cache (one tree-diff walk at first use)
+        + per-thread ``pygit2.Repository`` instances for blob reads, so
+        the bootstrap never spawns a ``git`` subprocess from worker code.
         """
         if self._xml_dir is None:
             return []
@@ -212,8 +217,8 @@ class JusticeCanadaClient(HttpClient):
             return []
 
         out: list[dict] = []
-        for sha, commit_date in commits:
-            blob = _cat_file_read(self._xml_dir, f"{sha}:{rel_path}")
+        for sha, commit_date, blob_oid in commits:
+            blob = _read_blob(self._xml_dir, blob_oid)
             if blob is None:
                 continue
             encoded = base64.b64encode(blob).decode("ascii")
@@ -369,11 +374,11 @@ class JusticeCanadaClient(HttpClient):
     def _iter_git_log_manifest(self, norm_id: str) -> Iterator[_SvManifestEntry]:
         """Yield one lightweight entry per upstream-git commit (no XML yet).
 
-        Backed by the batched git-log cache (one ``git log --all`` call
-        shared across all workers) and the ``cat-file --batch`` pool, so
-        both manifest construction AND per-entry blob loading avoid the
-        per-norm subprocess-spawn storm that used to dominate bootstrap
-        wall-clock time.
+        Backed by the pygit2 cache (one tree-diff walk at first use)
+        and per-thread ``pygit2.Repository`` instances for blob reads,
+        so manifest construction and per-entry loading both run inside
+        the same Python process — no ``git`` subprocess is ever spawned
+        from worker code.
         """
         if self._xml_dir is None:
             return
@@ -385,9 +390,9 @@ class JusticeCanadaClient(HttpClient):
 
         xml_dir = self._xml_dir  # capture for the closures
 
-        def _loader_for(sha: str, commit_date: str) -> Callable[[], dict]:
+        def _loader_for(sha: str, commit_date: str, blob_oid: str) -> Callable[[], dict]:
             def _load() -> dict:
-                blob = _cat_file_read(xml_dir, f"{sha}:{rel_path}")
+                blob = _read_blob(xml_dir, blob_oid)
                 if blob is None:
                     return {}
                 encoded = base64.b64encode(blob).decode("ascii")
@@ -401,12 +406,12 @@ class JusticeCanadaClient(HttpClient):
 
             return _load
 
-        for sha, commit_date in entries:
+        for sha, commit_date, blob_oid in entries:
             yield _SvManifestEntry(
                 source_type="upstream-git",
                 source_id=sha,
                 date=commit_date,
-                loader=_loader_for(sha, commit_date),
+                loader=_loader_for(sha, commit_date, blob_oid),
             )
 
     def _iter_pit_manifest(self, norm_id: str) -> Iterator[_SvManifestEntry]:
@@ -756,91 +761,112 @@ def _lang_for_norm(norm_id: str) -> tuple[str, str, str]:
 
 
 # ─────────────────────────────────────────────
-# Batched git access for the upstream clone
+# Native git access for the upstream clone (pygit2 / libgit2)
 # ─────────────────────────────────────────────
 #
-# Per-norm ``git log`` + ``git show`` calls (one subprocess spawn per call)
-# are the single biggest bottleneck on a full bootstrap. With 11.6 K norms
-# and ~5 commits each, the naive path forks 60+ thousand git subprocesses
-# — fork/exec alone dominates wall-clock time and git's repository lock
-# serialises the 8 worker threads.
+# Per-norm ``git log`` + ``git show`` subprocesses are the single biggest
+# bottleneck on a full bootstrap. With 11.6 K norms × ~5 commits each the
+# naive path forks 60+ K git processes — fork/exec dominates wall-clock
+# time and git's repository lock serialises the worker threads.
 #
-# The replacement below uses two batched operations, shared across every
-# worker in the process:
+# The fetcher therefore never shells out to git. Instead:
 #
-# 1. ``_get_git_log_cache(xml_dir)`` runs **ONE** ``git log --all
-#    --name-only --format=COMMIT|%H|%aI`` at first use, parses the output
-#    into a dict ``{rel_path: [(sha, YYYY-MM-DD), …]}``, and caches it
-#    module-globally keyed on ``xml_dir``. Each worker's subsequent
-#    ``_git_log_versions`` call is a dict lookup.
+# 1. ``_get_git_log_cache(xml_dir)`` walks the repo ONCE at first use via
+#    ``pygit2.Repository`` + tree diffs. It records, for every changed
+#    (path, commit) pair, the pre-resolved blob OID so later lookups are
+#    a single ``repo[oid].data`` call with no tree navigation. The result
+#    is cached module-globally per ``xml_dir``.
 #
-# 2. ``_cat_file_read(xml_dir, spec)`` streams blobs through a persistent
-#    ``git cat-file --batch`` subprocess. A module-level lock serialises
-#    reads (the subprocess has one stdin/stdout pair) but fork cost is
-#    paid once, not N times.
+# 2. ``_read_blob(xml_dir, oid)`` reads a blob via a per-THREAD
+#    ``pygit2.Repository`` instance (libgit2 objects are not thread-safe
+#    across instances, but opening one per worker is cheap and eliminates
+#    every form of cross-thread lock contention).
 #
-# Both caches survive for the life of the process — safe because the
+# The cache survives for the life of the process — safe because the
 # upstream clone is read-only during a bootstrap and the cache
 # invalidation story is "kill the process and re-run".
 
-_GIT_LOG_CACHE: dict[str, dict[str, list[tuple[str, str]]]] = {}
+_GIT_LOG_CACHE: dict[str, dict[str, list[tuple[str, str, str]]]] = {}
 _GIT_LOG_CACHE_LOCK = threading.Lock()
 
-_CAT_FILE_POOL: dict[str, subprocess.Popen] = {}
-_CAT_FILE_LOCKS: dict[str, threading.Lock] = {}
-_CAT_FILE_POOL_LOCK = threading.Lock()
+_REPO_TLS = threading.local()
 
 
-def _get_git_log_cache(xml_dir: Path) -> dict[str, list[tuple[str, str]]]:
-    """Return the cached ``{rel_path: [(sha, iso_date), …]}`` for ``xml_dir``.
+def _thread_repo(xml_dir: Path):
+    """Return a thread-local ``pygit2.Repository`` rooted at ``xml_dir``.
 
-    Built lazily on first access via ONE ``git log --all --name-only``.
-    Commit→path pairs are accumulated per-file, then reversed to
-    oldest-first order (matching the pipeline's commit-ordering contract).
+    Each worker thread opens its own handle on first access; libgit2
+    object databases are safe to use from the thread that opened them
+    but not across threads. Opening the repo is cheap (<1 ms) so the
+    one-off cost per worker is negligible.
     """
+    import pygit2
+
+    key = str(xml_dir.resolve())
+    cache = getattr(_REPO_TLS, "repos", None)
+    if cache is None:
+        cache = {}
+        _REPO_TLS.repos = cache
+    repo = cache.get(key)
+    if repo is None:
+        repo = pygit2.Repository(str(xml_dir))
+        cache[key] = repo
+    return repo
+
+
+def _walk_tree_blobs(repo, tree, prefix: str = "") -> Iterator[tuple[str, str]]:
+    """Yield ``(full_path, blob_oid)`` for every blob under ``tree``."""
+    for entry in tree:
+        full = entry.name if not prefix else f"{prefix}/{entry.name}"
+        if entry.type_str == "tree":
+            yield from _walk_tree_blobs(repo, repo[entry.id], full)
+        elif entry.type_str == "blob":
+            yield full, str(entry.id)
+
+
+def _get_git_log_cache(xml_dir: Path) -> dict[str, list[tuple[str, str, str]]]:
+    """Return the cached ``{rel_path: [(commit_sha, iso_date, blob_oid), …]}``.
+
+    Built lazily on first access. The walk visits every commit reachable
+    from the HEAD history in chronological order (oldest first) and uses
+    tree diffs to record which paths changed; for the root commit every
+    blob is registered. ``diff.deltas`` is iterated directly (no patch
+    materialisation), which turns a ~220 s full walk into ~2 s on the
+    Justice Canada clone.
+    """
+    import pygit2
+
     key = str(xml_dir.resolve())
     with _GIT_LOG_CACHE_LOCK:
         cached = _GIT_LOG_CACHE.get(key)
         if cached is not None:
             return cached
-        logger.info("Building git log cache for %s (one-time, ~5-10 s)", xml_dir)
-        result = subprocess.run(
-            [
-                "git",
-                "-C",
-                str(xml_dir),
-                "log",
-                "--all",
-                "--name-only",
-                "--format=COMMIT|%H|%aI",
-            ],
-            capture_output=True,
-            text=True,
-            timeout=600,
-        )
-        if result.returncode != 0:
-            logger.error("git log --all failed: %s", result.stderr[:500])
-            _GIT_LOG_CACHE[key] = {}
-            return _GIT_LOG_CACHE[key]
+        logger.info("Building git log cache for %s via pygit2 (one-time)", xml_dir)
+        repo = pygit2.Repository(str(xml_dir))
 
-        cache: dict[str, list[tuple[str, str]]] = {}
-        sha = ""
-        iso_date = ""
-        for line in result.stdout.splitlines():
-            if line.startswith("COMMIT|"):
-                parts = line.split("|", 2)
-                if len(parts) == 3:
-                    sha = parts[1]
-                    iso_date = parts[2][:10]
-                continue
-            path = line.strip()
-            if not path or not sha:
-                continue
-            cache.setdefault(path, []).append((sha, iso_date))
+        sort = pygit2.enums.SortMode.TOPOLOGICAL | pygit2.enums.SortMode.REVERSE
+        commits = list(repo.walk(repo.head.target, sort))
 
-        # git log yields newest-first; the pipeline writes oldest-first.
-        for path in cache:
-            cache[path].reverse()
+        cache: dict[str, list[tuple[str, str, str]]] = {}
+        for commit in commits:
+            iso_date = (
+                datetime.fromtimestamp(commit.author.time, tz=timezone.utc).date().isoformat()
+            )
+            sha = str(commit.id)
+            if commit.parents:
+                parent_tree = commit.parents[0].tree
+                diff = parent_tree.diff_to_tree(commit.tree)
+                for delta in diff.deltas:
+                    if delta.status == pygit2.enums.DeltaStatus.DELETED:
+                        continue
+                    path = delta.new_file.path
+                    if not path:
+                        continue
+                    cache.setdefault(path, []).append((sha, iso_date, str(delta.new_file.id)))
+            else:
+                # Root commit — every blob counts as "added".
+                for full_path, blob_oid in _walk_tree_blobs(repo, commit.tree):
+                    cache.setdefault(full_path, []).append((sha, iso_date, blob_oid))
 
         _GIT_LOG_CACHE[key] = cache
         logger.info(
@@ -851,73 +877,20 @@ def _get_git_log_cache(xml_dir: Path) -> dict[str, list[tuple[str, str]]]:
         return cache
 
 
-def _get_cat_file_process(
-    xml_dir: Path,
-) -> tuple[subprocess.Popen, threading.Lock]:
-    """Return the persistent ``git cat-file --batch`` subprocess + its lock.
+def _read_blob(xml_dir: Path, blob_oid: str) -> bytes | None:
+    """Return the raw bytes of the blob ``blob_oid`` in the clone at ``xml_dir``.
 
-    Spawned once per ``xml_dir``. The lock serialises stdin writes and
-    stdout reads so multiple worker threads can share one subprocess
-    safely (cat-file's protocol is request-per-line, response-per-blob).
+    Goes through the thread-local ``pygit2.Repository``; returns ``None``
+    if the object is missing (treated as a clean skip by callers).
     """
-    key = str(xml_dir.resolve())
-    with _CAT_FILE_POOL_LOCK:
-        proc = _CAT_FILE_POOL.get(key)
-        if proc is not None and proc.poll() is None:
-            return proc, _CAT_FILE_LOCKS[key]
-        # (Re-)spawn.
-        proc = subprocess.Popen(
-            ["git", "-C", str(xml_dir), "cat-file", "--batch"],
-            stdin=subprocess.PIPE,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.DEVNULL,
-        )
-        _CAT_FILE_POOL[key] = proc
-        _CAT_FILE_LOCKS[key] = threading.Lock()
-        return proc, _CAT_FILE_LOCKS[key]
+    import pygit2
 
-
-def _cat_file_read(xml_dir: Path, spec: str) -> bytes | None:
-    """Return the blob bytes for ``{sha}:{path}`` via batched cat-file.
-
-    ``spec`` is whatever ``git cat-file`` accepts (SHA, ``SHA:path``,
-    ref names). Returns ``None`` for missing objects so callers can
-    treat "not present at this commit" as a clean skip.
-    """
-    proc, lock = _get_cat_file_process(xml_dir)
-    with lock:
-        try:
-            assert proc.stdin is not None and proc.stdout is not None
-            proc.stdin.write(spec.encode("utf-8") + b"\n")
-            proc.stdin.flush()
-            header = proc.stdout.readline()
-        except (BrokenPipeError, OSError) as exc:
-            logger.warning("cat-file pipe broken for %s: %s", spec, exc)
-            # Force respawn on next call.
-            with _CAT_FILE_POOL_LOCK:
-                _CAT_FILE_POOL.pop(str(xml_dir.resolve()), None)
-            return None
-
-        if not header:
-            return None
-        parts = header.decode("utf-8", errors="replace").rstrip("\n").split(" ")
-        if len(parts) != 3 or parts[1] != "blob":
-            # "SHA missing" or non-blob (tree, tag, commit) — drain nothing.
-            return None
-        try:
-            size = int(parts[2])
-        except ValueError:
-            return None
-
-        # Read exactly size bytes + 1 trailing newline.
-        chunks: list[bytes] = []
-        remaining = size
-        while remaining > 0:
-            chunk = proc.stdout.read(remaining)
-            if not chunk:
-                return None
-            chunks.append(chunk)
-            remaining -= len(chunk)
-        # Drain trailing newline.
-        proc.stdout.read(1)
-        return b"".join(chunks)
+    try:
+        repo = _thread_repo(xml_dir)
+        obj = repo.get(blob_oid)
+    except (KeyError, ValueError, pygit2.GitError) as exc:  # noqa: BLE001
+        logger.warning("blob lookup failed for %s: %s", blob_oid, exc)
+        return None
+    if obj is None or obj.type_str != "blob":
+        return None
+    return obj.data
