@@ -1,17 +1,20 @@
-"""Mexico norm discovery — multi-source scaffold.
+"""Mexico norm discovery — multi-source.
 
-Iterates each registered source in ``MXClient`` and yields prefixed norm IDs.
-Each source's actual catalog walk is implemented as a per-source helper
-(``_discover_diputados``, ``_discover_dof``, …) once the source is wired up.
+Walks the catalog of each registered source and yields prefixed norm IDs.
+Today only Diputados is wired; the other sources yield nothing until their
+discovery is implemented.
 """
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Iterator
 from datetime import date
 
 from legalize.fetcher.base import LegislativeClient, NormDiscovery
 from legalize.fetcher.mx.client import MXClient
+
+logger = logging.getLogger(__name__)
 
 
 class MXDiscovery(NormDiscovery):
@@ -37,7 +40,13 @@ class MXDiscovery(NormDiscovery):
     def _discover_source_all(
         self, client: MXClient, source_name: str, **kwargs
     ) -> Iterator[str]:
-        """Per-source catalog walk. Override per source once research lands."""
+        if source_name == "diputados":
+            index = client.diputados_index()
+            prefix = client.sources["diputados"].id_prefix
+            for abbrev in sorted(index):
+                yield f"{prefix}-{abbrev}"
+            return
+        # Other sources: not yet wired.
         return iter([])
 
     def _discover_source_daily(
@@ -47,5 +56,6 @@ class MXDiscovery(NormDiscovery):
         target_date: date,
         **kwargs,
     ) -> Iterator[str]:
-        """Per-source daily feed. Override per source once research lands."""
+        # Diputados has no per-day publication feed (DOF is the daily gazette).
+        # Until DOF discovery lands, daily yields nothing for every source.
         return iter([])

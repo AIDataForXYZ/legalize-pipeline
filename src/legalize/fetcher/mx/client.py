@@ -1,22 +1,34 @@
-"""Mexico HTTP client — multi-source scaffold.
+"""Mexico HTTP client — multi-source.
 
-Mexican legislation is not concentrated in a single portal. Each source
-(Cámara de Diputados, Diario Oficial de la Federación, Orden Jurídico
-Nacional, …) has its own host, URL pattern, and document format. This client
-holds a registry of named sources and routes each fetch to the right one
-based on a norm_id prefix (``DIP-…``, ``DOF-…``, ``OJN-…``).
+Each Mexican legal-information portal has its own URL pattern, format and
+quirks. This module hides that behind a per-source ``Adapter`` so the
+generic pipeline only ever sees ``client.get_metadata(norm_id)`` and
+``client.get_text(norm_id)``. Routing is by id prefix
+(``DIP-…`` → Diputados, ``DOF-…`` → DOF, etc.).
 
-Sources are configured via ``config.yaml::countries.mx.source.sources`` —
-adding a new source is a config change plus a per-source URL builder; the
-generic plumbing (rate limiting, retries, session reuse) is inherited from
-``HttpClient``.
+Implemented today:
+  - **Diputados** (LeyesBiblio) — federal laws, codes, Constitution.
+    Index page lists 262 laws with PDF + DOC links and DOF dates;
+    we cache the index, build a per-law row registry, and treat each
+    PDF as a single-snapshot consolidated text. Historical reforms are
+    not yet wired (Diputados only publishes current text — DOF holds the
+    reform stream).
+
+Stubbed (registry-only, NotImplementedError on fetch):
+  - DOF, OJN, SJF, UNAM, Justia.
 """
 
 from __future__ import annotations
 
+import base64
+import json
 import logging
+import re
 from dataclasses import dataclass
+from datetime import date, datetime
 from typing import TYPE_CHECKING
+
+from lxml import html as lxml_html
 
 from legalize.fetcher.base import HttpClient
 
@@ -66,6 +78,28 @@ DEFAULT_SOURCES: dict[str, dict] = {
 }
 
 
+# Diputados row patterns ---------------------------------------------------
+# Index page row text after tag-stripping looks like:
+#   "001 CONSTITUCIÓN Política de los Estados Unidos Mexicanos
+#    DOF 05/02/1917 Nueva reforma DOF 10/04/2026"
+_RANK_BY_KEYWORD: tuple[tuple[str, str], ...] = (
+    ("constitución", "constitucion"),
+    ("constitucion", "constitucion"),
+    ("código", "codigo"),
+    ("codigo", "codigo"),
+    ("ley general", "ley_general"),
+    ("ley federal", "ley_federal"),
+    ("ley orgánica", "ley_organica"),
+    ("ley reglamentaria", "ley_reglamentaria"),
+    ("ley", "ley"),
+    ("estatuto", "estatuto"),
+    ("reglamento", "reglamento"),
+    ("decreto", "decreto"),
+)
+
+_DOF_DATE_RE = re.compile(r"DOF\s+(\d{2}/\d{2}/\d{4})")
+
+
 @dataclass(frozen=True)
 class MXSource:
     """A single Mexican legislative source registered with MXClient.
@@ -83,12 +117,26 @@ class MXSource:
     kind: str = "primary_legislation"
 
 
+@dataclass(frozen=True)
+class DiputadosRow:
+    """A single law as it appears on the LeyesBiblio index page."""
+
+    abbrev: str           # canonical short id, e.g. "CPEUM"
+    title: str            # e.g. "Constitución Política de los Estados Unidos Mexicanos"
+    rank: str             # mapped Rank value: "constitucion", "codigo", "ley", ...
+    publication_date: date    # first DOF date (original publication)
+    last_reform_date: date | None  # most recent DOF date if listed
+    pdf_url: str          # absolute URL to the consolidated PDF
+    doc_url: str | None   # absolute URL to the .doc/.docx if present
+
+
 class MXClient(HttpClient):
     """Multi-source HTTP client for Mexican legislation.
 
-    Sources are passed as ``{name: {base_url, id_prefix}}``. The single shared
-    ``requests.Session`` (with rate limiting and retries) is used across all
-    sources; per-source URL construction lives in ``_url_for``.
+    Sources are passed as ``{name: {base_url, id_prefix, kind}}``. The
+    single shared ``requests.Session`` (with rate limiting and retries) is
+    used across all sources; per-source URL construction lives in the
+    matching adapter helper.
     """
 
     def __init__(self, sources: dict[str, dict] | None = None, **kwargs) -> None:
@@ -108,6 +156,9 @@ class MXClient(HttpClient):
             self._sources[name] = src
             self._by_prefix[src.id_prefix] = src
 
+        # Lazily-built per-source caches.
+        self._diputados_index: dict[str, DiputadosRow] | None = None
+
     @classmethod
     def create(cls, country_config: CountryConfig) -> MXClient:
         source = country_config.source or {}
@@ -123,7 +174,6 @@ class MXClient(HttpClient):
         return dict(self._sources)
 
     def source_for(self, norm_id: str) -> MXSource:
-        """Resolve which source owns ``norm_id`` based on its prefix."""
         prefix = norm_id.split("-", 1)[0] if "-" in norm_id else norm_id
         if prefix not in self._by_prefix:
             available = ", ".join(sorted(self._by_prefix)) or "<none>"
@@ -133,17 +183,162 @@ class MXClient(HttpClient):
             )
         return self._by_prefix[prefix]
 
-    def _url_for(self, source: MXSource, norm_id: str) -> str:
-        """Build the canonical URL for a norm. Per-source logic lives here."""
-        raise NotImplementedError(
-            f"URL builder for source '{source.name}' not implemented yet."
-        )
-
-    def get_text(self, norm_id: str) -> bytes:
-        source = self.source_for(norm_id)
-        return self._get(self._url_for(source, norm_id))
+    # ── Generic surface used by the pipeline ────────────────────────────
 
     def get_metadata(self, norm_id: str) -> bytes:
-        # Most candidate sources serve text + metadata on the same URL; override
-        # per-source if a separate metadata endpoint exists.
-        return self.get_text(norm_id)
+        source = self.source_for(norm_id)
+        if source.name == "diputados":
+            return self._diputados_metadata(norm_id)
+        raise NotImplementedError(
+            f"get_metadata not implemented for MX source '{source.name}'."
+        )
+
+    def get_text(self, norm_id: str, meta_data: bytes | None = None) -> bytes:
+        source = self.source_for(norm_id)
+        if source.name == "diputados":
+            return self._diputados_text(norm_id, meta_data=meta_data)
+        raise NotImplementedError(
+            f"get_text not implemented for MX source '{source.name}'."
+        )
+
+    # ── Diputados adapter ───────────────────────────────────────────────
+
+    def diputados_index(self) -> dict[str, DiputadosRow]:
+        """Return ``{abbrev: DiputadosRow}`` for every law on LeyesBiblio.
+
+        Lazily fetched and cached for the lifetime of the client.
+        """
+        if self._diputados_index is None:
+            base = self._sources["diputados"].base_url
+            html_bytes = self._get(f"{base}/index.htm")
+            self._diputados_index = parse_diputados_index(html_bytes, base)
+            logger.info("Diputados index loaded: %d laws", len(self._diputados_index))
+        return self._diputados_index
+
+    def _diputados_row(self, norm_id: str) -> DiputadosRow:
+        abbrev = norm_id.split("-", 1)[1] if "-" in norm_id else norm_id
+        index = self.diputados_index()
+        if abbrev not in index:
+            raise ValueError(
+                f"Diputados has no law with abbrev '{abbrev}' "
+                f"(norm_id={norm_id!r}). Sample: {sorted(index)[:5]}"
+            )
+        return index[abbrev]
+
+    def _diputados_metadata(self, norm_id: str) -> bytes:
+        row = self._diputados_row(norm_id)
+        envelope = {
+            "source": "diputados",
+            "norm_id": norm_id,
+            "abbrev": row.abbrev,
+            "title": row.title,
+            "rank": row.rank,
+            "publication_date": row.publication_date.isoformat(),
+            "last_reform_date": (
+                row.last_reform_date.isoformat() if row.last_reform_date else None
+            ),
+            "pdf_url": row.pdf_url,
+            "doc_url": row.doc_url,
+        }
+        return json.dumps(envelope, ensure_ascii=False).encode("utf-8")
+
+    def _diputados_text(self, norm_id: str, meta_data: bytes | None) -> bytes:
+        row = self._diputados_row(norm_id)
+        pdf_bytes = self._get(row.pdf_url)
+        envelope = {
+            "source": "diputados",
+            "norm_id": norm_id,
+            "abbrev": row.abbrev,
+            "title": row.title,
+            "rank": row.rank,
+            "publication_date": row.publication_date.isoformat(),
+            "last_reform_date": (
+                row.last_reform_date.isoformat() if row.last_reform_date else None
+            ),
+            "pdf_url": row.pdf_url,
+            "pdf_b64": base64.b64encode(pdf_bytes).decode("ascii"),
+        }
+        return json.dumps(envelope, ensure_ascii=False).encode("utf-8")
+
+
+# ── Module-level helpers (so they can be unit-tested without HTTP) ──────
+
+
+def _decode_index_html(data: bytes) -> str:
+    """LeyesBiblio is served as Windows-1252; decode explicitly."""
+    return data.decode("windows-1252", errors="replace")
+
+
+def _classify_rank(text: str) -> str:
+    """Map an index-row title to a `Rank` slug. Falls back to ``ley``."""
+    lower = text.lower()
+    for keyword, rank in _RANK_BY_KEYWORD:
+        if keyword in lower:
+            return rank
+    return "ley"
+
+
+def _parse_dof_date(s: str) -> date:
+    return datetime.strptime(s, "%d/%m/%Y").date()
+
+
+def parse_diputados_index(
+    html_bytes: bytes,
+    base_url: str,
+) -> dict[str, DiputadosRow]:
+    """Parse the LeyesBiblio index page into ``{abbrev: DiputadosRow}``.
+
+    Each table row carries a sequence number, the law's full title, two DOF
+    dates (publication + most recent reform), and links to PDF and DOC
+    forms. Rows without a ``pdf/{abbrev}.pdf`` link are skipped.
+    """
+    text = _decode_index_html(html_bytes)
+    doc = lxml_html.fromstring(text)
+    base = base_url.rstrip("/")
+    rows: dict[str, DiputadosRow] = {}
+
+    for tr in doc.xpath('//tr[.//a[contains(@href, "pdf/") and contains(@href, ".pdf")]]'):
+        pdf_hrefs = [
+            h for h in tr.xpath('.//a/@href')
+            if h.startswith("pdf/") and h.endswith(".pdf")
+        ]
+        if not pdf_hrefs:
+            continue
+        pdf_href = pdf_hrefs[0]
+        abbrev = pdf_href[len("pdf/"):-len(".pdf")]
+        if not abbrev or abbrev in rows:
+            continue
+
+        doc_hrefs = [
+            h for h in tr.xpath('.//a/@href')
+            if h.startswith("doc/") and not h.startswith("doc_mov")
+        ]
+        doc_href = doc_hrefs[0] if doc_hrefs else None
+
+        row_text = re.sub(r"\s+", " ", tr.text_content()).strip()
+        # Extract the title — drop the leading row number, drop the trailing
+        # DOF dates suffix.
+        title = row_text
+        m = re.match(r"^\d+\s+(.+)", title)
+        if m:
+            title = m.group(1)
+        title = re.split(r"DOF\s+\d{2}/\d{2}/\d{4}", title, maxsplit=1)[0].strip()
+        title = title.rstrip(".,;:")
+
+        dof_dates = _DOF_DATE_RE.findall(row_text)
+        if not dof_dates:
+            continue
+        publication_date = _parse_dof_date(dof_dates[0])
+        last_reform_date = _parse_dof_date(dof_dates[-1]) if len(dof_dates) > 1 else None
+
+        rows[abbrev] = DiputadosRow(
+            abbrev=abbrev,
+            title=title,
+            rank=_classify_rank(title),
+            publication_date=publication_date,
+            last_reform_date=last_reform_date,
+            pdf_url=f"{base}/{pdf_href}",
+            doc_url=f"{base}/{doc_href}" if doc_href else None,
+        )
+
+    return rows
