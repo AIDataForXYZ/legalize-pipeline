@@ -1,14 +1,13 @@
-"""Mexico fetcher — scaffold tests.
+"""Mexico fetcher — multi-source scaffold tests.
 
-The MX fetcher is a placeholder pending Step 0 research (see
-ADDING_A_COUNTRY.md). These tests pin the registry contract and the
-NotImplementedError stubs so future contributors know which surface to keep
-stable while the source gets wired up.
+Pin the registry contract, the multi-source routing, and the
+NotImplementedError stubs while the per-source clients/parsers get wired up.
 """
 
 import pytest
 
 from legalize.countries import get_metadata_parser, get_text_parser
+from legalize.fetcher.mx.client import DEFAULT_SOURCES, MXClient
 from legalize.fetcher.mx.parser import MXMetadataParser, MXTextParser
 
 
@@ -19,11 +18,42 @@ def test_registry_dispatch():
     assert isinstance(metadata_parser, MXMetadataParser)
 
 
+def test_default_sources_loaded():
+    client = MXClient()
+    assert set(client.sources) == {"diputados", "dof", "ojn"}
+    assert client.sources["dof"].id_prefix == "DOF"
+
+
+def test_source_for_routes_by_prefix():
+    client = MXClient()
+    assert client.source_for("DOF-2024-001").name == "dof"
+    assert client.source_for("DIP-LFT").name == "diputados"
+    assert client.source_for("OJN-CONST-1917").name == "ojn"
+
+
+def test_source_for_unknown_prefix_raises():
+    client = MXClient()
+    with pytest.raises(ValueError, match="No MX source registered"):
+        client.source_for("XYZ-123")
+
+
+def test_custom_sources_override_defaults():
+    client = MXClient(sources={"local": {"base_url": "https://example.test", "id_prefix": "LCL"}})
+    assert set(client.sources) == {"local"}
+    assert client.source_for("LCL-1").base_url == "https://example.test"
+
+
+def test_default_sources_have_required_fields():
+    for name, conf in DEFAULT_SOURCES.items():
+        assert "base_url" in conf, name
+        assert "id_prefix" in conf, name
+
+
 def test_text_parser_is_scaffold():
     with pytest.raises(NotImplementedError):
-        MXTextParser().parse_text(b"")
+        MXTextParser().parse_text(b"", "DOF-2024-1")
 
 
 def test_metadata_parser_is_scaffold():
     with pytest.raises(NotImplementedError):
-        MXMetadataParser().parse(b"", "STUB-1")
+        MXMetadataParser().parse(b"", "DOF-2024-1")

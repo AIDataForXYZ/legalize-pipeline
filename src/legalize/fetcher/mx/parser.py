@@ -1,8 +1,8 @@
-"""Mexico parser — scaffold.
+"""Mexico parser — multi-source scaffold.
 
-Concrete parsing waits on Step 0 research (RESEARCH-MX.md, 5 fixtures, version
-spike). The classes below satisfy the registry contract so imports and CLI
-dispatch work; calling them raises until the source is wired up.
+Routes parsing to per-source helpers based on the norm_id prefix
+(``DIP-…`` → Diputados, ``DOF-…`` → DOF, ``OJN-…`` → Orden Jurídico Nacional).
+Each source's concrete parser lands once Step 0 research is done.
 """
 
 from __future__ import annotations
@@ -13,15 +13,27 @@ from legalize.fetcher.base import MetadataParser, TextParser
 from legalize.models import NormMetadata
 
 
-class MXTextParser(TextParser):
-    """Parse Mexican consolidated text into Block/Version objects."""
+def _prefix_of(norm_id: str) -> str:
+    return norm_id.split("-", 1)[0] if "-" in norm_id else norm_id
 
-    def parse_text(self, data: bytes) -> list[Any]:
-        raise NotImplementedError("MX parser is a scaffold; wire the source first.")
+
+class MXTextParser(TextParser):
+    """Parse Mexican consolidated text. Dispatches per source via norm_id prefix."""
+
+    def parse_text(self, data: bytes, norm_id: str | None = None) -> list[Any]:
+        prefix = _prefix_of(norm_id) if norm_id else None
+        raise NotImplementedError(
+            f"MX text parser not wired for source prefix {prefix!r}; "
+            "implement the per-source helper before calling."
+        )
 
 
 class MXMetadataParser(MetadataParser):
-    """Parse Mexican norm metadata into NormMetadata."""
+    """Parse Mexican norm metadata. Dispatches per source via norm_id prefix."""
 
     def parse(self, data: bytes, norm_id: str) -> NormMetadata:
-        raise NotImplementedError("MX parser is a scaffold; wire the source first.")
+        prefix = _prefix_of(norm_id)
+        raise NotImplementedError(
+            f"MX metadata parser not wired for source prefix {prefix!r}; "
+            "implement the per-source helper before calling."
+        )

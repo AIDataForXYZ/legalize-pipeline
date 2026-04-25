@@ -571,16 +571,24 @@ countries:
         - "nia"
 
   mx:
-    # Scaffold — source not yet wired up. See ADDING_A_COUNTRY.md Step 0
-    # (research, fixtures, version-history spike) before bootstrapping.
-    # Candidate sources: Cámara de Diputados Leyes Federales,
-    # Diario Oficial de la Federación, Orden Jurídico Nacional.
+    # Scaffold — Mexican legislation is spread across multiple official
+    # portals; the fetcher routes each norm to the right one by id prefix
+    # (DIP-…, DOF-…, OJN-…). Step 0 research per source comes next.
     repo_path: "../countries/mx"
     data_dir: "../countries/data-mx"
     cache_dir: ".cache"
     max_workers: 1
     source:
-      base_url: "https://www.diputados.gob.mx"
       request_timeout: 30
       max_retries: 3
       requests_per_second: 1.0
+      sources:
+        diputados:
+          base_url: "https://www.diputados.gob.mx"
+          id_prefix: "DIP"
+        dof:
+          base_url: "https://www.dof.gob.mx"
+          id_prefix: "DOF"
+        ojn:
+          base_url: "https://www.ordenjuridico.gob.mx"
+          id_prefix: "OJN"
