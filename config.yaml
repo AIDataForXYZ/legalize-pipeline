@@ -571,9 +571,11 @@ countries:
         - "nia"
 
   mx:
-    # Scaffold — Mexican legislation is spread across multiple official
-    # portals; the fetcher routes each norm to the right one by id prefix
-    # (DIP-…, DOF-…, OJN-…). Step 0 research per source comes next.
+    # Scaffold — Mexican legal information is spread across multiple
+    # official and third-party portals; the fetcher routes each item to
+    # the right one by id prefix. `kind` flags whether the source yields
+    # primary legislation (fits the engine norm model) or something else
+    # (case law, doctrine, aggregator) that needs a separate model.
     repo_path: "../countries/mx"
     data_dir: "../countries/data-mx"
     cache_dir: ".cache"
@@ -584,11 +586,32 @@ countries:
       requests_per_second: 1.0
       sources:
         diputados:
-          base_url: "https://www.diputados.gob.mx"
+          base_url: "https://www.diputados.gob.mx/LeyesBiblio"
           id_prefix: "DIP"
+          kind: "primary_legislation"
         dof:
           base_url: "https://www.dof.gob.mx"
           id_prefix: "DOF"
+          kind: "primary_legislation"
         ojn:
           base_url: "https://www.ordenjuridico.gob.mx"
           id_prefix: "OJN"
+          kind: "primary_legislation"
+        sjf:
+          # Supreme Court rulings + jurisprudencia. Outside the norm model;
+          # likely needs a CaseLaw/Tesis model before it can be ingested.
+          base_url: "https://sjf2.scjn.gob.mx"
+          id_prefix: "SJF"
+          kind: "case_law"
+        unam:
+          # Academic doctrine (books, papers). Not a norm — included so
+          # cross-references can resolve, but probably not committed.
+          base_url: "https://biblio.juridicas.unam.mx/bjv"
+          id_prefix: "UNAM"
+          kind: "doctrine"
+        justia:
+          # Aggregator. Federal laws overlap with diputados; useful mainly
+          # for state-level coverage that other sources miss.
+          base_url: "https://mexico.justia.com"
+          id_prefix: "JUSTIA"
+          kind: "aggregator"

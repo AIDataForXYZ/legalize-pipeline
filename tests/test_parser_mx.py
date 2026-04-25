@@ -20,7 +20,7 @@ def test_registry_dispatch():
 
 def test_default_sources_loaded():
     client = MXClient()
-    assert set(client.sources) == {"diputados", "dof", "ojn"}
+    assert set(client.sources) == {"diputados", "dof", "ojn", "sjf", "unam", "justia"}
     assert client.sources["dof"].id_prefix == "DOF"
 
 
@@ -29,6 +29,20 @@ def test_source_for_routes_by_prefix():
     assert client.source_for("DOF-2024-001").name == "dof"
     assert client.source_for("DIP-LFT").name == "diputados"
     assert client.source_for("OJN-CONST-1917").name == "ojn"
+    assert client.source_for("SJF-TESIS-2024-12345").name == "sjf"
+    assert client.source_for("UNAM-LIBRO-3421").name == "unam"
+    assert client.source_for("JUSTIA-CDMX-CIVIL").name == "justia"
+
+
+def test_source_kinds():
+    client = MXClient()
+    kinds = {name: src.kind for name, src in client.sources.items()}
+    assert kinds["diputados"] == "primary_legislation"
+    assert kinds["dof"] == "primary_legislation"
+    assert kinds["ojn"] == "primary_legislation"
+    assert kinds["sjf"] == "case_law"
+    assert kinds["unam"] == "doctrine"
+    assert kinds["justia"] == "aggregator"
 
 
 def test_source_for_unknown_prefix_raises():
