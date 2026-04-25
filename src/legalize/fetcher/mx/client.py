@@ -16,6 +16,17 @@ Implemented today:
 
 Stubbed (registry-only, NotImplementedError on fetch):
   - DOF, OJN, SJF, UNAM, Justia.
+
+HTTP cache
+----------
+When ``cache_dir`` is supplied (taken from ``config.yaml::countries.mx.cache_dir``),
+the client wraps its session in a ``requests_cache.CachedSession`` backed by SQLite
+at ``<cache_dir>/http_cache.sqlite``.  Only GET requests are cached; POSTs bypass the
+cache transparently.  Entries never expire (``NEVER_EXPIRE``) because Diputados PDFs
+live at stable, immutable URLs.
+
+Pass ``force=True`` (wired to the CLI ``--force`` flag) to bypass the cache so that
+fresh bytes are fetched from the network and the cache entry is updated.
 """
 
 from __future__ import annotations
@@ -26,6 +37,7 @@ import logging
 import re
 from dataclasses import dataclass
 from datetime import date, datetime
+from pathlib import Path
 from typing import TYPE_CHECKING
 
 from lxml import html as lxml_html
@@ -100,6 +112,63 @@ _RANK_BY_KEYWORD: tuple[tuple[str, str], ...] = (
 _DOF_DATE_RE = re.compile(r"DOF\s+(\d{2}/\d{2}/\d{4})")
 
 
+def _make_cached_session(
+    cache_dir: str | Path,
+    *,
+    force: bool = False,
+    user_agent: str = DEFAULT_USER_AGENT,
+) -> "requests_cache.CachedSession":
+    """Create a ``requests_cache.CachedSession`` backed by SQLite.
+
+    The cache file is placed at ``<cache_dir>/http_cache.sqlite``.
+    Only GET requests are cached; POSTs bypass the cache transparently.
+    Entries never expire (``NEVER_EXPIRE``) — Diputados PDFs live at
+    stable, immutable URLs so TTL-based eviction is not useful.
+
+    When ``force=True`` every request is fetched fresh from the network and
+    the cache entry is updated (``CachedSession.settings.disabled`` can't be
+    used because it would prevent writes too; instead we delete the cached
+    response before each GET so the next hit always goes to the network).
+    """
+    try:
+        import requests_cache
+    except ImportError as exc:
+        raise ImportError(
+            "requests-cache is required for the MX HTTP cache. "
+            "Install it with: pip install requests-cache"
+        ) from exc
+
+    cache_path = Path(cache_dir)
+    cache_path.mkdir(parents=True, exist_ok=True)
+    db_path = cache_path / "http_cache.sqlite"
+
+    session = requests_cache.CachedSession(
+        cache_name=str(db_path),
+        backend="sqlite",
+        expire_after=requests_cache.NEVER_EXPIRE,
+        allowable_methods=["GET"],
+        # Disable conditional requests (ETag/Last-Modified) — we want straight
+        # cache hits, not 304 round-trips that still consume rate-limit budget.
+        always_revalidate=False,
+        stale_while_revalidate=False,
+    )
+    session.headers["User-Agent"] = user_agent
+
+    if force:
+        # Monkey-patch _send so every GET removes its cached entry first,
+        # guaranteeing a fresh network request that also updates the cache.
+        _orig_send = session.send
+
+        def _force_send(request, **kw):
+            if request.method == "GET":
+                session.cache.delete(urls=[request.url])
+            return _orig_send(request, **kw)
+
+        session.send = _force_send  # type: ignore[method-assign]
+
+    return session
+
+
 @dataclass(frozen=True)
 class MXSource:
     """A single Mexican legislative source registered with MXClient.
@@ -134,15 +203,47 @@ class MXClient(HttpClient):
     """Multi-source HTTP client for Mexican legislation.
 
     Sources are passed as ``{name: {base_url, id_prefix, kind}}``. The
-    single shared ``requests.Session`` (with rate limiting and retries) is
-    used across all sources; per-source URL construction lives in the
-    matching adapter helper.
+    single shared session (plain ``requests.Session`` or a
+    ``requests_cache.CachedSession`` when ``cache_dir`` is given) is used
+    across all sources; per-source URL construction lives in the matching
+    adapter helper.
+
+    Parameters
+    ----------
+    cache_dir:
+        Directory for the SQLite HTTP cache.  When ``None`` (default) no
+        caching is applied.  When set, a ``CachedSession`` is created at
+        ``<cache_dir>/http_cache.sqlite`` with ``expire_after=NEVER_EXPIRE``
+        and GET-only caching.
+    force:
+        When ``True`` the cache is bypassed for every request — the network
+        is always hit and the cached entry is overwritten.  Maps to the CLI
+        ``--force`` flag.
     """
 
-    def __init__(self, sources: dict[str, dict] | None = None, **kwargs) -> None:
+    def __init__(
+        self,
+        sources: dict[str, dict] | None = None,
+        *,
+        cache_dir: str | Path | None = None,
+        force: bool = False,
+        **kwargs,
+    ) -> None:
         kwargs.setdefault("user_agent", DEFAULT_USER_AGENT)
         kwargs.setdefault("requests_per_second", 1.0)
         super().__init__(**kwargs)
+
+        # Replace the plain session with a cached one when cache_dir is given.
+        if cache_dir is not None:
+            self._session = _make_cached_session(
+                cache_dir=cache_dir,
+                force=force,
+                user_agent=kwargs.get("user_agent", DEFAULT_USER_AGENT),
+            )
+            self._force = force
+        else:
+            self._force = False
+
         raw = sources or DEFAULT_SOURCES
         self._sources: dict[str, MXSource] = {}
         self._by_prefix: dict[str, MXSource] = {}
@@ -160,13 +261,15 @@ class MXClient(HttpClient):
         self._diputados_index: dict[str, DiputadosRow] | None = None
 
     @classmethod
-    def create(cls, country_config: CountryConfig) -> MXClient:
+    def create(cls, country_config: CountryConfig, *, force: bool = False) -> MXClient:
         source = country_config.source or {}
         return cls(
             sources=source.get("sources"),
             request_timeout=source.get("request_timeout", 30),
             max_retries=source.get("max_retries", 3),
             requests_per_second=source.get("requests_per_second", 1.0),
+            cache_dir=country_config.cache_dir or None,
+            force=force,
         )
 
     @property

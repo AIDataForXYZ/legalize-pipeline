@@ -37,18 +37,33 @@ _CONTROL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
 #   "ARTÍCULO 123. Toda persona tiene derecho al trabajo…"
 #   "Artículo Único.- Se reforma…"
 _ARTICULO_RE = re.compile(
-    r"^\s*(art[íi]culo)\s+"
-    r"(?P<num>\d+(?:\s*[ºo°])?|[úu]nico|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo)"
+    r"^(Art[íi]culo|ART[ÍI]CULO)\s+"
+    r"(?P<num>\d+(?:\s*[ºo°])?|[Úú]nico|Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|S[ée]ptimo|Octavo|Noveno|D[ée]cimo|PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|S[ÉE]PTIMO|OCTAVO|NOVENO|D[ÉE]CIMO)"
     r"\s*(?P<sep>[.\-]+)?\s*"
     r"(?P<rest>.*)$",
-    re.IGNORECASE,
 )
 
 # Section / chapter / title headings — for grouping.
-_TITULO_RE = re.compile(r"^\s*T[ÍI]TULO\b", re.IGNORECASE)
-_CAPITULO_RE = re.compile(r"^\s*CAP[ÍI]TULO\b", re.IGNORECASE)
-_SECCION_RE = re.compile(r"^\s*SECCI[ÓO]N\b", re.IGNORECASE)
-_LIBRO_RE = re.compile(r"^\s*LIBRO\b", re.IGNORECASE)
+# Requirements to avoid matching prose mid-sentence:
+#   1. Must start with the exact keyword in ALL-CAPS (title-case prose like
+#      "Capítulo, el reglamento…" is already excluded by the uppercase anchor).
+#   2. After optional whitespace, must be followed ONLY by an ordinal word,
+#      Roman numeral, digit, ALL-CAPS text, or end-of-line.  A comma
+#      immediately after the keyword always means prose — reject it.
+_SECTION_SUFFIX = (
+    r"(?:\s+"
+    r"(?:"
+    r"[IVXLC]+[.\-]?"                                    # Roman numeral (I, II, IV…)
+    r"|[0-9]+"                                           # arabic number
+    r"|(?:PRIM|SEG|TERC|CUART|QUINT|SEXT|S[ÉE]PT|OCT|NOV|D[ÉE]C)\w*"  # ordinal stems
+    r"|[A-ZÁÉÍÓÚÜÑ][A-ZÁÉÍÓÚÜÑ\s\d.\-]*"               # ALL-CAPS text
+    r")"
+    r")?\s*$"
+)
+_TITULO_RE = re.compile(r"^T[ÍI]TULO" + _SECTION_SUFFIX)
+_CAPITULO_RE = re.compile(r"^CAP[ÍI]TULO" + _SECTION_SUFFIX)
+_SECCION_RE = re.compile(r"^SECCI[ÓO]N" + _SECTION_SUFFIX)
+_LIBRO_RE = re.compile(r"^LIBRO" + _SECTION_SUFFIX)
 _TRANSITORIOS_RE = re.compile(
     r"^\s*ART[ÍI]CULOS?\s+TRANSITORIOS?(?:\s+DE\s+DECRETOS?\s+DE\s+REFORMA)?\s*$",
     re.IGNORECASE,

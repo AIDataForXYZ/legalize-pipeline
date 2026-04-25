@@ -4,7 +4,7 @@ identifier: "DIP-CCF"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1928-05-26"
+last_updated: "2025-11-14"
 status: "in_force"
 source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf"
 department: "Cámara de Diputados"
@@ -156,11 +156,7 @@ II. Las demás corporaciones de carácter público reconocidas por la ley;
 
 III. Las sociedades civiles o mercantiles;
 
-IV. Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del
-
-###### Artículo 123.
-
-de la Constitución Federal;
+IV. Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
 
 V. Las sociedades cooperativas y mutualistas;
 
@@ -250,11 +246,7 @@ Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla
 
 ###### Artículo 38.-
 
-Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su
-
-###### Artículo 41.
-
-La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
+Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41. La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
 
 > <small>Artículo reformado DOF 14-03-1973, 23-12-1974, 03-01-1979</small>
 
@@ -392,11 +384,7 @@ Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que 
 
 ###### Artículo 69.-
 
-Se prohíbe absolutamente al Juez del Registro Civil y a los testigos que conforme al
-
-###### Artículo 58.
-
-deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Se prohíbe absolutamente al Juez del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
 
 ###### Artículo 70.-
 
@@ -518,7 +506,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 De las Actas de Emancipación
 
-### Capítulo derogado DOF 03-06-2019
+> <small>Capítulo derogado DOF 03-06-2019</small>
 
 ###### Artículo 93.-
 
@@ -1250,11 +1238,7 @@ Son causas de nulidad de un matrimonio:
 
 I. El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
 
-II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el
-
-###### Artículo 156.
-
-;
+II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el artículo 156;
 
 III. Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
 
@@ -1306,11 +1290,7 @@ III. Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio. La a
 
 ###### Artículo 246.-
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del
-
-###### Artículo 156.
-
-, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
 ###### Artículo 247.-
 
@@ -1744,8 +1724,6 @@ separación en la misma proporción en que lo venía haciendo hasta antes de aqu
 
 ### CAPÍTULO III
 
-### Capítulo adicionado DOF 30-12-1997
-
 ###### Artículo 323.
 
 bis.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
@@ -1816,11 +1794,7 @@ En todos los casos en que el marido tenga derecho de contradecir que el nacido e
 
 ###### Artículo 331.-
 
-Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del
-
-###### Artículo 450.
-
-, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del artículo 450, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Artículo 332.-
 
@@ -2196,8 +2170,6 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 #### SECCIÓN SEGUNDA
 
-#### Sección adicionada DOF 28-05-1998. Derogada DOF 08-04-2013
-
 ###### Artículo 402.
 
 > <small>Se deroga. Artículo reformado DOF 28-05-1998. Derogado DOF 08-04-2013</small>
@@ -2504,9 +2476,7 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ###### Artículo 449.-
 
-El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley. En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del
-
-###### Artículo 413.
+El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley. En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 413.
 
 ###### Artículo 450.-
 
@@ -2826,11 +2796,7 @@ VI. El tutor que permanezca ausente por más de seis meses, del lugar en que deb
 
 ###### Artículo 505.-
 
-No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del
-
-###### Artículo 450.
-
-, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 450, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
 ###### Artículo 506.-
 
@@ -3620,9 +3586,7 @@ Cada año, en el día que corresponda a aquel en que hubiere sido nombrado el re
 
 ###### Artículo 667.-
 
-Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el
-
-###### Artículo 650.
+Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 650.
 
 ###### Artículo 668.-
 
@@ -3936,11 +3900,7 @@ Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior a
 
 ###### Artículo 734.-
 
-Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el
-
-###### Artículo 725.
-
-, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
+Las personas que tienen derecho a disfrutar el patrimonio de familia señaladas en el artículo 725, así como el tutor de acreedores alimentarios incapaces, familiares del deudor o el ministerio público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por los valores fijados en el artículo 730, sin necesidad de invocar causa alguna. En la constitución de este patrimonio se observará en lo conducente lo dispuesto en los artículos 731 y 732.
 
 ###### Artículo 735.-
 
@@ -4190,11 +4150,7 @@ Si durante el plazo designado se presentare alguno reclamando la cosa, la autori
 
 ###### Artículo 780.-
 
-Si el reclamante es declarado dueño, se le entregará la cosa o su precio, en el caso del
-
-###### Artículo 778.
-
-, con deducción de los gastos.
+Si el reclamante es declarado dueño, se le entregará la cosa o su precio, en el caso del artículo 778, con deducción de los gastos.
 
 ###### Artículo 781.-
 
@@ -5462,9 +5418,7 @@ Son aplicables a las servidumbres legales lo dispuesto en los artículos del 1,1
 
 ###### Artículo 1070.-
 
-Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este
-
-## Título.
+Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este Título. De la Servidumbre Legal de Desagüe
 
 ###### Artículo 1071.-
 
@@ -5986,7 +5940,7 @@ El día en que comienza la prescripción se cuenta siempre entero, aunque no lo 
 
 Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil. De los Derechos de Autor
 
-## Título derogado DOF 14-01-1948
+> <small>Título derogado DOF 14-01-1948</small>
 
 ###### Artículo 1181.-
 
@@ -6592,11 +6546,7 @@ La capacidad para suceder por testamento, sólo se recobra si después de conoci
 
 ###### Artículo 1320.-
 
-En los casos de intestado, los descendientes del incapaz de heredar conforme al
-
-###### Artículo 1316.
-
-, heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
+En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1316, heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
 
 ###### Artículo 1321.-
 
@@ -7150,9 +7100,7 @@ El legado hecho a un tercero, de un crédito a favor del testador, sólo produce
 
 ###### Artículo 1450.-
 
-En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el
-
-## título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
+En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
 
 ###### Artículo 1451.-
 
@@ -7208,9 +7156,7 @@ El legado de alimentos dura mientras viva el legatario, a no ser que el testador
 
 ###### Artículo 1464.-
 
-Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el
-
-### Capítulo II, Título VI del Libro Primero.
+Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el Capítulo II, Título VI del Libro Primero.
 
 ###### Artículo 1465.-
 
@@ -7598,9 +7544,9 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1508 y 1509, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### Capítulo III Bis
+Capítulo III Bis Testamento público simplificado
 
-### Capítulo adicionado DOF 06-01-1994
+> <small>Capítulo adicionado DOF 06-01-1994</small>
 
 ###### Artículo 1549.
 
@@ -7822,9 +7768,7 @@ Los Secretarios de legación, los Cónsules y los Vicecónsules mexicanos podrá
 
 ###### Artículo 1595.-
 
-Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el
-
-###### Artículo 1590.
+Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el artículo 1590.
 
 ###### Artículo 1596.-
 
@@ -7864,9 +7808,7 @@ Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de 
 
 Tienen derecho a heredar por sucesión legítima:
 
-I. Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el
-
-###### Artículo 1635.
+I. Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el artículo 1635.
 
 II. A falta de los anteriores, la beneficencia pública.
 
@@ -8050,9 +7992,7 @@ El juez decidirá de plano todas las cuestiones relativas a alimentos, conforme 
 
 ###### Artículo 1647.-
 
-Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en éste
-
-### Capítulo, deberá ser oída la viuda.
+Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en éste Capítulo, deberá ser oída la viuda.
 
 ###### Artículo 1648.-
 
@@ -9156,9 +9096,7 @@ La prueba del pago incumbe al que pretende haberlo hecho. También corre a su ca
 
 ###### Artículo 1892.-
 
-Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a
-
-## título de liberalidad o por cualquiera otra causa justa.
+Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
 
 ###### Artículo 1893.-
 
@@ -9304,9 +9242,7 @@ Bis.- No estará obligado a la reparación del daño moral quien ejerza sus dere
 
 ###### Artículo 1917.-
 
-Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este
-
-### Capítulo.
+Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
 ###### Artículo 1918.-
 
@@ -9466,9 +9402,7 @@ Cuando las obligaciones se hayan contraído bajo condición suspensiva, y pendie
 
 I. Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación;
 
-II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el
-
-###### Artículo 2021.
+II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el artículo 2021.
 
 III. Cuando la cosa se deteriore sin culpa del deudor, éste cumple su obligación entregando la cosa al acreedor en el estado en que se encuentre al cumplirse la condición;
 
@@ -9890,9 +9824,7 @@ En los casos a que se refiere el artículo 2033, para que el cesionario pueda ej
 
 ###### Artículo 2037.-
 
-Sólo tienen derecho para pedir o hacer la notificación, el acreedor que presente el
-
-## título justificativo del crédito, o el de la cesión, cuando aquél no sea necesario.
+Sólo tienen derecho para pedir o hacer la notificación, el acreedor que presente el título justificativo del crédito, o el de la cesión, cuando aquél no sea necesario.
 
 ###### Artículo 2038.-
 
@@ -10558,11 +10490,7 @@ Se llama exigible aquella deuda cuyo pago no puede rehusarse conforme a derecho.
 
 ###### Artículo 2191.-
 
-Si las deudas no fueren de igual cantidad, hecha la compensación, conforme al
-
-###### Artículo 2186.
-
-, queda expedita la acción por el resto de la deuda.
+Si las deudas no fueren de igual cantidad, hecha la compensación, conforme al artículo 2186, queda expedita la acción por el resto de la deuda.
 
 ###### Artículo 2192.-
 
@@ -10578,9 +10506,11 @@ IV. Si una de las deudas toma su origen de una renta vitalicia;
 
 V. Si una de las deudas procede de salario mínimo;
 
-VI. Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el
+VI. Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
 
-## título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
+VII. Si la deuda fuere de cosa puesta en depósito;
+
+VIII. Si las deudas fuesen fiscales, excepto en los casos en que la ley lo autorice.
 
 ###### Artículo 2193.-
 
@@ -11220,9 +11150,7 @@ Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino e
 
 ###### Artículo 2339.-
 
-Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el
-
-### Capítulo VIII, Título V, del Libro Primero.
+Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el Capítulo VIII, Título V, del Libro Primero.
 
 ###### Artículo 2340.-
 
@@ -12482,11 +12410,7 @@ El procurador que tuviere justo impedimento para desempeñar su encargo, no podr
 
 ###### Artículo 2592.-
 
-La representación del procurador cesa, además de los casos expresados en el
-
-###### Artículo 2595.
-
-:
+La representación del procurador cesa, además de los casos expresados en el artículo 2595:
 
 I. Por separarse el poderdante de la acción u oposición que haya formulado;
 
@@ -13992,9 +13916,7 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o
 
 ###### Artículo 2917.-
 
-Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320. Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del
-
-###### Artículo 2317.
+Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320. Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 
 > <small>Párrafo reformado DOF 29-06-1976, 09-04-2012 Artículo vinculado con artículo transitorio DOF 23-02-1946. Reformado DOF 30-12-1966</small>
 
@@ -14100,9 +14022,7 @@ III. Por el Ministerio Público, si no la pidieren las personas enumeradas en la
 
 ###### Artículo 2937.-
 
-La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX,
-
-### capítulo IX, y título XI, capítulos I y III del libro primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX, capítulo IX, y título XI, capítulos I y III del libro primero.
 
 ###### Artículo 2938.-
 
@@ -14434,7 +14354,11 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos. DEL REGISTRO PUBLICO
 
-## Título reformado y reestructurado DOF 18-01-1952 (se suprimen los Capítulos IV “Del registro de las informaciones de dominio” y VI “De la
+> <small>Título reformado y reestructurado DOF 18-01-1952 (se suprimen los Capítulos IV “Del registro de las informaciones de dominio” y VI “De la</small>
+
+extinción de las inscripciones”). Reformado y reestructurado DOF 03-01-1979 De su Organización
+
+> <small>Fe de erratas a la denominación del Capítulo DOF 21-12-1928. Capítulo reformado DOF 18-01-1952, 03-01-1979</small>
 
 ###### Artículo 2999.
 
@@ -14472,7 +14396,9 @@ V. No expidan los certificados en el término reglamentario.
 
 Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda. Disposiciones Comunes de los Documentos Registrables
 
-### Capítulo reformado y reubicado DOF 18-01-1952. Reformado DOF 03-01-1979 (se suprimen los epígrafes “De los documentos registrables” y
+> <small>Capítulo reformado y reubicado DOF 18-01-1952. Reformado DOF 03-01-1979 (se suprimen los epígrafes “De los documentos registrables” y</small>
+
+“De los efectos del Registro”, antes adicionados DOF 18-01-1952)
 
 ###### Artículo 3005.-
 
@@ -14554,9 +14480,7 @@ Para inscribir o anotar cualquier título deberá constar previamente inscrito o
 
 ###### Artículo 3020.-
 
-Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible. Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro
-
-## título de la clase antes expresada, mientras el asiento esté vigente.
+Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible. Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras el asiento esté vigente.
 
 ###### Artículo 3021.-
 
@@ -14680,7 +14604,9 @@ Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tant
 
 Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables
 
-### Capítulo reformado y reubicado DOF 18-01-1952. Reformado DOF 03-01-1979 (se suprimen los epígrafes “De los títulos inscribibles y de
+> <small>Capítulo reformado y reubicado DOF 18-01-1952. Reformado DOF 03-01-1979 (se suprimen los epígrafes “De los títulos inscribibles y de</small>
+
+los anotables”, “Del modo de llevar el registro” y “Del registro de operaciones sobre muebles”, antes adicionados DOF 18-01-1952)
 
 ###### Artículo 3042.-
 
@@ -14748,17 +14674,11 @@ e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reú
 
 ###### Artículo 3047.-
 
-En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga
-
-## título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el
+En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares. Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
 
 ###### Artículo 3048.-
 
-En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del
-
-###### Artículo 3046.
-
-, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente. Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047. El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción. Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
+En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente. Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047. El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción. Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
 
 ###### Artículo 3049.-
 
@@ -14908,15 +14828,13 @@ Todos los asientos, de la clase que fueren, deberán ir firmados por el registra
 
 ###### Artículo 3067.-
 
-Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el
-
-## título con la certificación de haber sido registrado.
+Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado. Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
 
 ###### Artículo 3068.-
 
 La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3009. Del Registro de Operaciones Sobre Bienes Muebles
 
-### Capítulo adicionado DOF 03-01-1979
+> <small>Capítulo adicionado DOF 03-01-1979</small>
 
 ###### Artículo 3069.-
 
@@ -14940,7 +14858,7 @@ III. El precio y forma de pago estipulados en el contrato, y, en su caso, el imp
 
 IV. La fecha en que se practique y la firma del registrador. Del Registro de Personas Morales
 
-### Capítulo reformado y reubicado DOF 18-01-1952. Reformado y reubicado DOF 03-01-1979
+> <small>Capítulo reformado y reubicado DOF 18-01-1952. Reformado y reubicado DOF 03-01-1979</small>
 
 ###### Artículo 3071.-
 
@@ -15022,21 +14940,11 @@ Queda derogada la legislación civil anterior; pero continuarán aplicándose la
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-###### Artículo UNICO.-
-
-Se reforma el artículo 1o. transitorio del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, expedido el 30 de agosto de 1928, que quedará en los siguientes términos:
-
-DECRETO que reforma los artículos 390 del Código Civil y 923 del de Procedimientos Civiles para el Distrito y Territorios Federales. Publicado en el Diario Oficial de la Federación el 31 de marzo de 1938
-
 ###### Artículo 1°.-
 
 Se deroga el artículo 390 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, de 30 de agosto de 1928, debiendo quedar en la siguiente forma:
 
-DECRETO que reforma el artículo 1915 del Código Civil del Distrito y Territorio Federales. Publicado en el Diario Oficial de la Federación el 20 de enero de 1940
-
-###### Artículo UNICO.-
-
-Se reforma y adiciona el artículo 1915 del Código Civil del Distrito y Territorios Federales, en los siguientes términos: ACLARACIÓN a la publicación del Decreto que reforma el artículo 1915 del Código Civil del Distrito y Territorio Federales. Publicada en el Diario Oficial de la Federación el 30 de abril de 1940 En el artículo Único, línea 6, dice: … sea posible, … … sea imposible, …
+DECRETO que reforma el artículo 1915 del Código Civil del Distrito y Territorio Federales. Publicado en el Diario Oficial de la Federación el 20 de enero de 1940 ARTICULO UNICO.- Se reforma y adiciona el artículo 1915 del Código Civil del Distrito y Territorios Federales, en los siguientes términos: ACLARACIÓN a la publicación del Decreto que reforma el artículo 1915 del Código Civil del Distrito y Territorio Federales. Publicada en el Diario Oficial de la Federación el 30 de abril de 1940 En el artículo Único, línea 6, dice: … sea posible, … … sea imposible, …
 
 DECRETO que prorroga en el Distrito Federal, por el tiempo que dure el estado de guerra en que se encuentra el país, toda clase de contratos de arrendamiento de casas- habitación vigentes. Publicado en el Diario Oficial de la Federación el 11 de noviembre de 1943 DECRETO
 
@@ -15094,17 +15002,9 @@ Esta ley entrará en vigor a los quince días de su publicación en el "Diario
 
 Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta. ARTICULOS TERCERO A QUINTO.- ……….
 
-DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 27 de febrero de 1951
+DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 27 de febrero de 1951 ARTICULO UNICO.- Se reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales en vigor, para quedar en los siguientes términos:
 
-###### Artículo UNICO.-
-
-Se reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales en vigor, para quedar en los siguientes términos:
-
-DECRETO que reforma varios artículos del Código Civil y el Título II de la Tercera Parte del Libro Cuarto de este mismo Código. Publicado en el Diario Oficial de la Federación el 18 de enero de 1952
-
-###### Artículo UNICO.-
-
-Se reforman los artículos 1550, 1553, 1554, 1556, 1557, 1558, 1559, 1560, 1564, 1596, 2310, 2313, 2852, 2853 y 2859 del Código Civil y el Titulo II de la Tercera Parte del Libro Cuarto del mismo Código, para quedar en los siguientes términos:
+DECRETO que reforma varios artículos del Código Civil y el Título II de la Tercera Parte del Libro Cuarto de este mismo Código. Publicado en el Diario Oficial de la Federación el 18 de enero de 1952 ARTICULO UNICO.- Se reforman los artículos 1550, 1553, 1554, 1556, 1557, 1558, 1559, 1560, 1564, 1596, 2310, 2313, 2852, 2853 y 2859 del Código Civil y el Titulo II de la Tercera Parte del Libro Cuarto del mismo Código, para quedar en los siguientes términos:
 
 ###### Artículo 1º.-
 
@@ -15120,105 +15020,39 @@ Al entrar en vigor el presente decreto, el Director del Registro Público de la 
 
 ###### Artículo 4º.-
 
-Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el
-
-###### Artículo 3012.
+Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el artículo 3012.
 
 ###### Artículo 5º.-
 
 Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
 
-DECRETO que reforma diversos artículos del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 9 de enero de 1954
+DECRETO que reforma diversos artículos del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 9 de enero de 1954 ARTICULO UNICO.- Se reforman los artículos 163, 169, 170, 171, 282 fracción II, 372, 426 y 489, para quedar redactados en los siguientes términos: El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario
 
-###### Artículo UNICO.-
+DECRETO que reforma el artículo 951 del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1954 ARTICULO UNICO.- Se reforma el artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, como sigue: FE DE ERRATAS al Decreto que reforma el artículo 951 del Código Civil y a la Ley sobre el Régimen de Propiedad y Condominio de los Edificios Divididos en Pisos, publicados el día 15 de diciembre próximo pasado. Publicado en el Diario Oficial de la Federación el 11 de enero de 1955 CODIGO CIVIL Dice: Art. 951 …susceptibles de aprovechamiento por tener salida. …susceptibles de aprovechamiento independiente por tener salida…
 
-Se reforman los artículos 163, 169, 170, 171, 282 fracción II, 372, 426 y 489, para quedar redactados en los siguientes términos: El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario
+DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1954 ARTICULO UNICO.- Se reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales, en vigor, para quedar en los siguientes términos:
 
-DECRETO que reforma el artículo 951 del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1954
+DECRETO que reforma el Código Civil para el Distrito y Territorios Federales en Materia común y para toda la República en materia federal, en sus artículos 2317, 2320 y 2917. Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1966 ARTICULO UNICO.- Se reforman los artículos 2317, 2320 y 2917 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal para quedar como Primero.- El presente Decreto entrará en vigos (sic DOF 30-12-1966) tres días después de su publicación en el "Diario Oficial" de la Federación. Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
 
-###### Artículo UNICO.-
+DECRETO que reforma los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, 403, 405 fracción I y 406 fracciones I y II del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforman los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, 403, 405 fracción I y 406 fracciones I y II del Código Civil para el Distrito y Territorios Federales, en materia común y para toda la República en materia federal, para quedar en la forma que a continuación se expresa. UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario
 
-Se reforma el artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, como sigue: FE DE ERRATAS al Decreto que reforma el artículo 951 del Código Civil y a la Ley sobre el Régimen de Propiedad y Condominio de los Edificios Divididos en Pisos, publicados el día 15 de diciembre próximo pasado. Publicado en el Diario Oficial de la Federación el 11 de enero de 1955 CODIGO CIVIL Dice: Art. 951 …susceptibles de aprovechamiento por tener salida. …susceptibles de aprovechamiento independiente por tener salida…
-
-DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1954
-
-###### Artículo UNICO.-
-
-Se reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales, en vigor, para quedar en los siguientes términos:
-
-DECRETO que reforma el Código Civil para el Distrito y Territorios Federales en Materia común y para toda la República en materia federal, en sus artículos 2317, 2320 y 2917. Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1966
-
-###### Artículo UNICO.-
-
-Se reforman los artículos 2317, 2320 y 2917 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal para quedar como Primero.- El presente Decreto entrará en vigos (sic DOF 30-12-1966) tres días después de su publicación en el "Diario Oficial" de la Federación. Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
-
-DECRETO que reforma los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, 403, 405 fracción I y 406 fracciones I y II del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 17 de enero de 1970
-
-###### Artículo UNICO.-
-
-Se reforman los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, 403, 405 fracción I y 406 fracciones I y II del Código Civil para el Distrito y Territorios Federales, en materia común y para toda la República en materia federal, para quedar en la forma que a continuación se expresa. UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario
-
-DECRETO que reforma la fracción VIII del artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 17 de enero de 1970
-
-###### Artículo UNICO.-
-
-Se reforma la fracción VIII del Artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, para quedar como
-
-###### Artículo UNICO.-
-
-La presente reforma entrará en vigor al tercer día de su publicación en el "Diario
+DECRETO que reforma la fracción VIII del artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforma la fracción VIII del Artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, para quedar como ARTICULO UNICO.- La presente reforma entrará en vigor al tercer día de su publicación en el "Diario
 
 DECRETO que reforma el Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, a los artículos 149; 237, fracción II; 348, fracciones I y II; 438; 443, fracción II; 451; 624; 641; 643 y 646. Publicado en el Diario Oficial de la Federación el 28 de enero de 1970 REFORMAS AL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL A LOS ARTICULOS 149; 237, FRACCION II; 348, FRACCIONES I y II; 438; 443, FRACCION II; 451; 624; 641; 643 y 646.
 
 ###### Artículo SEGUNDO.-
 
-(sic DOF 28-01-1970) Se derogan los artículos 94, 95, 96, 642, 644 y 645 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal.
+(sic DOF 28-01-1970) Se derogan los artículos 94, 95, 96, 642, 644 y 645 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. ARTICULO UNICO.- El presente decreto surtirá sus efectos a los tres días de su publicación en el
 
-###### Artículo UNICO.-
+DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 24 de marzo de 1971 ARTICULO UNICO.- Se reforman los artículos 44, 52, 105, 107, 108, 150, 167, 291, 323, 371, 380, 381, 454, 459, 460, 468, 496, 497, 500, 501, 522, 540, 544, 546, y 632 a 634 del Código Civil para el Distrito y Territorios Federales en materia común, y para toda la República en materia federal, para quedar como sigue: ARTICULO UNICO.- Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el
 
-El presente decreto surtirá sus efectos a los tres días de su publicación en el
+DECRETO que reforma el Artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 4 de enero de 1973 ARTICULO UNICO.- Se reforma el Artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, como sigue: ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario
 
-DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 24 de marzo de 1971
+DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales. Publicado en el Diario Oficial de la Federación el 14 de marzo de 1973 ARTICULO UNICO.- Se reforman los artículos 35, 36, 37, 38, 41, 42, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 61, 63, 65, 69, 71, 72, 74, 76, 83, 84, 88, 89, 93, 97, 99, 100, 101, 102, 103, 105, 107, 108, 110, 111, 112, 113, 114, 117, 118, 120, 121, 122, 126, 127, 128, 131, 132, 133, 138, 148, 151, 153, 241, 250, 252, 272, 291, 369, 371, 401, 410, 460 y 631, del Código Civil para el Distrito y Territorios Federales, ARTICULO UNICO.- Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
 
-###### Artículo UNICO.-
+DECRETO que Reforma el Código Civil para el Distrito y Territorios Federales, en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1973 ARTICULO UNICO.- Se reforma el artículo 3018 del Código Civil para el Distrito y Territorios Federales, en Materia Común y para toda la República en Materia Federal, para quedar como sigue: PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
 
-Se reforman los artículos 44, 52, 105, 107, 108, 150, 167, 291, 323, 371, 380, 381, 454, 459, 460, 468, 496, 497, 500, 501, 522, 540, 544, 546, y 632 a 634 del Código Civil para el Distrito y Territorios Federales en materia común, y para toda la República en materia federal, para quedar como sigue:
-
-###### Artículo UNICO.-
-
-Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el
-
-DECRETO que reforma el Artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal. Publicado en el Diario Oficial de la Federación el 4 de enero de 1973
-
-###### Artículo UNICO.-
-
-Se reforma el Artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, como sigue:
-
-###### Artículo UNICO.-
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario
-
-DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales. Publicado en el Diario Oficial de la Federación el 14 de marzo de 1973
-
-###### Artículo UNICO.-
-
-Se reforman los artículos 35, 36, 37, 38, 41, 42, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 61, 63, 65, 69, 71, 72, 74, 76, 83, 84, 88, 89, 93, 97, 99, 100, 101, 102, 103, 105, 107, 108, 110, 111, 112, 113, 114, 117, 118, 120, 121, 122, 126, 127, 128, 131, 132, 133, 138, 148, 151, 153, 241, 250, 252, 272, 291, 369, 371, 401, 410, 460 y 631, del Código Civil para el Distrito y Territorios Federales,
-
-###### Artículo UNICO.-
-
-Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
-
-DECRETO que Reforma el Código Civil para el Distrito y Territorios Federales, en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1973
-
-###### Artículo UNICO.-
-
-Se reforma el artículo 3018 del Código Civil para el Distrito y Territorios Federales, en Materia Común y para toda la República en Materia Federal, para quedar como sigue: PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
-
-DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos. Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO CUADRAGESIMO SEGUNDO.- Se reforman el nombre y los artículos 1o.; 14; 15; 16; 33; 35; 38; 51; 53; 148; 151; 545; 631; 728; 730; 735, fracción I; 786; 1148; 1167, fracciones V y VI; 1313; 1328; 1593; 1594; 1596; 2736; 2773; y 3005, fracción I del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal, para quedar como sigue:
-
-###### Artículo UNICO.-
-
-El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos. Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO CUADRAGESIMO SEGUNDO.- Se reforman el nombre y los artículos 1o.; 14; 15; 16; 33; 35; 38; 51; 53; 148; 151; 545; 631; 728; 730; 735, fracción I; 786; 1148; 1167, fracciones V y VI; 1313; 1328; 1593; 1594; 1596; 2736; 2773; y 3005, fracción I del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
 
 DECRETO de Reformas y Adiciones a diversos artículos de la Ley General de Población. Ley de Nacionalidad y Naturalización. Ley Federal del Trabajo, Ley Federal de los Trabajadores al Servicio del Estado, Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, Código de Procedimientos Civiles para el Distrito Federal y Código de Comercio. Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974
 
@@ -15226,37 +15060,13 @@ DECRETO de Reformas y Adiciones a diversos artículos de la Ley General de Pobla
 
 Se reforma el nombre y se reforman y adicionan los artículos 162; 164; 165; 168; 169; 174; 175; 259; 260; 267, fracción XII; 273, fracción III; 282, fracciones II y IV; 284; 287; 288; 322; 323; 372; 418; 423; 490; 569; 581, fracciones I y II; 582; 1368, fracciones I, II, III y V y se derogan los artículos 166; 167; 170; 171; 214; 282, fracción I; 373 y 2275 del Código Civil para el Distrito y Territorios Federales en Materia Común y para toda la República en Materia Federal, en los términos siguientes: UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario
 
-DECRETO por el que se reforma el artículo 1915 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1975
+DECRETO por el que se reforma el artículo 1915 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1975 ARTICULO UNICO.- Se reforma el artículo 1915 del Código Civil para el Distrito Federal en Materia UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial"
 
-###### Artículo UNICO.-
+DECRETO por el que se reforma y adiciona el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975 ARTICULO UNICO.- Se adiciona el articulo 58 y se reforman las fracciones I y II del artículo 389 del Código Civil para el Distrito Federal, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial"
 
-Se reforma el artículo 1915 del Código Civil para el Distrito Federal en Materia UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial"
+REFORMAS al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 29 de junio de 1976 ARTICULO UNICO.- Se reforman los artículos 730, 2317 y 2917 del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ARTICULO UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el
 
-DECRETO por el que se reforma y adiciona el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975
-
-###### Artículo UNICO.-
-
-Se adiciona el articulo 58 y se reforman las fracciones I y II del artículo 389 del Código Civil para el Distrito Federal, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial"
-
-REFORMAS al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 29 de junio de 1976
-
-###### Artículo UNICO.-
-
-Se reforman los artículos 730, 2317 y 2917 del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal, para quedar como sigue:
-
-###### Artículo UNICO.-
-
-Este Decreto entrará en vigor quince días después de su publicación en el
-
-DECRETO que reforma el Artículo 76 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1976
-
-###### Artículo UNICO.-
-
-Se reforma el Artículo 76 del Código Civil para el Distrito Federal en Materia
-
-###### Artículo UNICO.-
-
-El presente Decreto entrará en vigor a los treinta días de su publicación en el
+DECRETO que reforma el Artículo 76 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1976 ARTICULO UNICO.- Se reforma el Artículo 76 del Código Civil para el Distrito Federal en Materia ARTICULO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el
 
 DECRETO que reforma, adiciona y deroga diversos artículos del Código Civil para el Distrito Federal, en Materia Común y para toda la República, en Materia Federal. Publicado en el Diario Oficial de la Federación el 3 de enero de 1979
 
@@ -15300,11 +15110,7 @@ Se reforman los artículos 1916 y 2116 del Código Civil para el Distrito Federa
 
 ###### Artículo SEGUNDO.-
 
-Se adiciona con el artículo 1916 Bis, el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, en los siguientes términos:
-
-###### Artículo UNICO.-
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Se adiciona con el artículo 1916 Bis, el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, en los siguientes términos: ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal, de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal, y del Código de Comercio. Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983
 
@@ -15344,11 +15150,7 @@ Se reforma el Capítulo IV del Título Sexto de la Segunda Parte del Libro Cuart
 
 ###### Artículo PRIMERO.-
 
-Se reforma el artículo 705 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar en los siguientes términos:
-
-###### Artículo UNICO.-
-
-Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el
+Se reforma el artículo 705 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar en los siguientes términos: ARTICULO UNICO.- Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el
 
 DECRETO por el que se reforma y adiciona el Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal. Publicado en el Diario Oficial de la Federación el 7 de enero de 1988
 
@@ -15364,11 +15166,7 @@ Se adiciona la fracción VII al artículo 25 y el artículo 28 Bis al Código Ci
 
 ###### Artículo PRIMERO.-
 
-Se reforma el primer párrafo y se adiciona un tercer y un cuarto párrafos al
-
-###### Artículo 2317.
-
-y se reforman los artículos 2320 y 2321 del Código Civil para el Distrito Federal en Materia
+Se reforma el primer párrafo y se adiciona un tercer y un cuarto párrafos al artículo 2317 y se reforman los artículos 2320 y 2321 del Código Civil para el Distrito Federal en Materia
 
 ###### Artículo SEGUNDO.-
 
@@ -15412,11 +15210,7 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del C
 
 ###### Artículo PRIMERO.-
 
-Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el
-
-###### Artículo 2489.
-
-con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
+Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el artículo 2489 con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
 > <small>Artículo reformado DOF 23-09-1993, 19-10-1998</small>
 
@@ -15430,11 +15224,7 @@ TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente 
 
 México, D.F., a 14 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas." residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-DECRETO por el que se modifican los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles del Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993. Publicado en el Diario Oficial de la Federación el 23 de septiembre 1993
-
-###### Artículo Unico.-
-
-Se reforman los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, para quedar como sigue: UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993. México, D. F., a 11 de septiembre de 1993.- Dip. Rodolfo Echeverría Ruiz, Presidente.- Sen. Humberto A. Lugo Gil, Presidente.- Dip. Florencio Salazar Adame, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+DECRETO por el que se modifican los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles del Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993. Publicado en el Diario Oficial de la Federación el 23 de septiembre 1993 Artículo Unico.- Se reforman los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, para quedar como sigue: UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993. México, D. F., a 11 de septiembre de 1993.- Dip. Rodolfo Echeverría Ruiz, Presidente.- Sen. Humberto A. Lugo Gil, Presidente.- Dip. Florencio Salazar Adame, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal, en materia común, y para toda la República en materia federal, del Código de Procedimientos Civiles para el Distrito Federal, de la Ley del Notariado para el Distrito Federal y de la Ley Orgánica del Departamento del Distrito Federal. Publicado en el Diario Oficial de la Federación el 6 de enero de 1994
 
@@ -15464,23 +15254,15 @@ DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Cód
 
 ###### Artículo PRIMERO.-
 
-Se reforman los artículos 282, primer párrafo; 283; la denominación del Título Sexto del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al
-
-###### Artículo 282.
-
-; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio. México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
+Se reforman los artículos 282, primer párrafo; 283; la denominación del Título Sexto del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al artículo 282; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio. México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
 
 DECRETO por el que se reforma y adiciona al Código Civil para el Distrito Federal, en materia común y para toda la República en materia federal y al Código de Procedimientos Civiles para el Distrito Federal. Publicado en el Diario Oficial de la Federación el 28 de mayo de 1998
 
 ###### Artículo PRIMERO.-
 
-SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del
+SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del Título Séptimo del Libro Primero, todos ellos del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue: SEGUNDO.- Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto. No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto. Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto. México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Teresa Núñez Casas, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
-## Título Séptimo del Libro Primero, todos ellos del Código Civil para el Distrito Federal en materia común, y
-
-###### Artículo UNICO.-
-
-Se reforman los artículos primero y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 julio de 1993 y modificado por diverso del 23 de septiembre de 1993, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de México, D.F., a 15 de octubre de 1998.- Sen. Juan Ramiro Robledo Ruiz, Presidente.- Dip. Joaquín Montaño Yamuni, Presidente.- Sen. Héctor Ximénez González, Secretario.- Dip. Adalberto Antonio Balderrama Fernández, Secretario.- Rúbricas". Embajada de los Estados Unidos Mexicanos en la Ciudad de Londres, Reino Unido de la Gran Bretaña e Irlanda del Norte, a los dieciséis días del mes de octubre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica. Refrendado por el Secretario de Gobernación, Francisco Labastida Ochoa, en la Ciudad de México, Distrito Federal, a los quince días del mes de octubre de mil novecientos noventa y ocho.- Rúbrica.
+DECRETO por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993. Publicado en el Diario Oficial de la Federación el 19 de octubre de 1998 ARTICULO UNICO.- Se reforman los artículos primero y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 julio de 1993 y modificado por diverso del 23 de septiembre de 1993, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de México, D.F., a 15 de octubre de 1998.- Sen. Juan Ramiro Robledo Ruiz, Presidente.- Dip. Joaquín Montaño Yamuni, Presidente.- Sen. Héctor Ximénez González, Secretario.- Dip. Adalberto Antonio Balderrama Fernández, Secretario.- Rúbricas". Embajada de los Estados Unidos Mexicanos en la Ciudad de Londres, Reino Unido de la Gran Bretaña e Irlanda del Norte, a los dieciséis días del mes de octubre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica. Refrendado por el Secretario de Gobernación, Francisco Labastida Ochoa, en la Ciudad de México, Distrito Federal, a los quince días del mes de octubre de mil novecientos noventa y ocho.- Rúbrica.
 
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor. Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000
 
@@ -15494,11 +15276,7 @@ Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinar
 
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse. Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor. México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas". mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado el 29 de mayo de 2000. Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
-
-###### Artículo UNICO.
-
-: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue: UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado el 29 de mayo de 2000. Publicado en el Diario Oficial de la Federación el 13 de junio de 2003 ARTICULO UNICO: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue: UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 LEY Federal de Responsabilidad Patrimonial del Estado. Publicada en el Diario Oficial de la Federación el 31 de diciembre de 2004
 
@@ -15518,11 +15296,7 @@ DECRETO por el que se derogan diversas disposiciones del Código Penal Federal y
 
 ###### Artículo SEGUNDO.-
 
-Se adicionan los párrafos, sexto con cuatro fracciones, séptimo y octavo al
-
-###### Artículo 1916.
-
-y el párrafo tercero, al artículo 1916 Bis del Código Civil Federal, para quedar como sigue: ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+Se adicionan los párrafos, sexto con cuatro fracciones, séptimo y octavo al artículo 1916 y el párrafo tercero, al artículo 1916 Bis del Código Civil Federal, para quedar como sigue: ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
 DECRETO por el que se reforma el artículo 1661 del Código Civil Federal. Publicado en el Diario Oficial de la Federación el 28 de enero de 2010
 
@@ -15534,9 +15308,9 @@ DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos 
 
 ###### Artículo SEGUNDO.-
 
-Se adiciona un nuevo artículo 1934 Bis al Código Civil Federal, para quedar PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación. SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto. efecto de lograr el efectivo cumplimiento del presente Decreto. CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto. QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto. SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del
+Se adiciona un nuevo artículo 1934 Bis al Código Civil Federal, para quedar PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación. SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto. efecto de lograr el efectivo cumplimiento del presente Decreto. CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto. QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto. SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa. México, D. F., a 28 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
-## Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días
+DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia. Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ###### Artículo PRIMERO.
 
@@ -15548,11 +15322,7 @@ DECRETO por el que se reforman y derogan diversas disposiciones del Código Civi
 
 Se reforma el artículo 391; y se deroga la Sección Segunda, “De la Adopción Simple”, con los artículos 402 al 410, del Capítulo V “De la Adopción”, del Título Séptimo “De la Paternidad y Filiación”, del Libro Primero denominado “De las Personas” del Código Civil Federal, para quedar como Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la México, D.F., a 21 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
-DECRETO por el que se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620 del Código Civil Federal. Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
-
-###### Artículo ÚNICO.
-
-Se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620, del Código Civil Federal, para quedar como sigue: ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la México, D.F., a 12 de noviembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+DECRETO por el que se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620 del Código Civil Federal. Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013 ARTÍCULO ÚNICO. Se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos 88, 157, 295, 394, 1613 y 1620, del Código Civil Federal, para quedar como sigue: ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la México, D.F., a 12 de noviembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 DECRETO por el que se derogan los artículos 139, 140, 141, 142, 143, 144 y 145 del Código Civil Federal. Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
 
@@ -15600,10 +15370,6 @@ DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos 
 
 ###### Artículo Primero.-
 
-Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; 3047, primer párrafo y, 3048, segundo párrafo, del Código Civil Federal, para quedar como sigue: Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023. En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027. Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares. No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado. Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-###### Artículo Sexto.
-
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025. Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia
+Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; 3047, primer párrafo y, 3048, segundo párrafo, del Código Civil Federal, para quedar como sigue: Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023. En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027. Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares. No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado. Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025. Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia
 
 Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

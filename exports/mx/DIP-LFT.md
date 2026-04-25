@@ -4,7 +4,7 @@ identifier: "DIP-LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1970-04-01"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"
 department: "Cámara de Diputados"
@@ -158,11 +158,7 @@ Queda prohibida la subcontratación de personal, entendiéndose esta cuando una 
 
 ###### Artículo 13.-
 
-Se permite la subcontratación de servicios especializados o de ejecución de obras especializadas que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de estos, siempre que el contratista esté registrado en el padrón público a que se refiere el
-
-###### Artículo 15.
-
-de esta Ley. Los servicios u obras complementarias o compartidas prestadas entre empresas de un mismo grupo empresarial, también serán considerados como especializados siempre y cuando no formen parte del objeto social ni de la actividad económica preponderante de la empresa que los reciba. Se entenderá por grupo empresarial lo establecido en el artículo 2, fracción X de la Ley del Mercado de Valores.
+Se permite la subcontratación de servicios especializados o de ejecución de obras especializadas que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de estos, siempre que el contratista esté registrado en el padrón público a que se refiere el artículo 15 de esta Ley. Los servicios u obras complementarias o compartidas prestadas entre empresas de un mismo grupo empresarial, también serán considerados como especializados siempre y cuando no formen parte del objeto social ni de la actividad económica preponderante de la empresa que los reciba. Se entenderá por grupo empresarial lo establecido en el artículo 2, fracción X de la Ley del Mercado de Valores.
 
 > <small>Fe de erratas al artículo DOF 30-04-1970. Reformado DOF 23-04-2021</small>
 
@@ -538,11 +534,7 @@ La prescripción para ejercer las acciones derivadas del despido no comenzará a
 
 ###### Artículo 48.-
 
-El trabajador podrá solicitar ante la Autoridad Conciliadora, o ante el Tribunal si no existe arreglo conciliatorio, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago, observando previamente las disposiciones relativas al procedimiento de conciliación previsto en el
-
-###### Artículo 684 -
-
-A y subsiguientes. Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior. Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones. En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+El trabajador podrá solicitar ante la Autoridad Conciliadora, o ante el Tribunal si no existe arreglo conciliatorio, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago, observando previamente las disposiciones relativas al procedimiento de conciliación previsto en el artículo 684-A y subsiguientes. Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior. Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones. En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
 Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces la Unidad de Medida y Actualización. Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia. A los servidores públicos del Centro Federal de Conciliación y Registro Laboral cuando retrasen, obstruyan o influyan en el procedimiento de registros sindicales y de contratos colectivos y de reglamentos interiores de trabajo a favor o en contra de una de las partes, así como en el otorgamiento de la constancia de representatividad sin causa justificada se les impondrá una multa de 100 a 1000 veces la Unidad de Medida y Actualización. Por lo que se refiere a los servidores públicos de los Centros de Conciliación locales se le sancionará en los mismos términos, cuando en el desempeño de su función conciliatoria incurran en estas conductas.
 
@@ -608,11 +600,7 @@ V. Cuando se trate de trabajadores eventuales, y
 
 > <small>Fracción reformada DOF 24-12-2024</small>
 
-VI. Cuando se trate de personas trabajadoras en plataformas digitales. Únicamente procederá la reinstalación obligatoria en caso de violación a derechos colectivos, tales como la libertad de asociación, autonomía sindical, el derecho de huelga y de contratación colectiva. Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el
-
-###### Artículo 982.
-
-de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para tal efecto el patrón aportará al Tribunal la información relacionada con el nombre y domicilio del trabajador, para que se le notifique dicho paraprocesal, debiendo manifestar bajo protesta de decir verdad que en el caso se actualiza alguna de las hipótesis contempladas en el presente artículo. Con el escrito de cuenta y desglose del monto de la indemnización el Tribunal correrá traslado al trabajador para su conocimiento. Si el trabajador no está de acuerdo con la procedencia o los términos de la indemnización, el trabajador tendrá a salvo sus derechos para demandar por la vía jurisdiccional la acción que corresponda; en caso de que en el juicio se resuelva que el trabajador no se encuentra en ninguna de las hipótesis de este artículo, el depósito de la indemnización no surtirá efecto alguno y el Tribunal dispondrá del dinero depositado para ejecutar su sentencia. Si en dicho juicio el Tribunal resuelve que se actualiza alguna de las hipótesis contempladas en este artículo, pero el monto depositado es insuficiente para pagar la indemnización, el Tribunal condenará al patrón a pagar las diferencias e intereses correspondientes.
+VI. Cuando se trate de personas trabajadoras en plataformas digitales. Únicamente procederá la reinstalación obligatoria en caso de violación a derechos colectivos, tales como la libertad de asociación, autonomía sindical, el derecho de huelga y de contratación colectiva. Para ejercer este derecho el patrón podrá acudir al Tribunal en la vía paraprocesal contemplada en el artículo 982 de esta Ley para depositar la indemnización a que se refiere el artículo 50 de esta Ley. Para tal efecto el patrón aportará al Tribunal la información relacionada con el nombre y domicilio del trabajador, para que se le notifique dicho paraprocesal, debiendo manifestar bajo protesta de decir verdad que en el caso se actualiza alguna de las hipótesis contempladas en el presente artículo. Con el escrito de cuenta y desglose del monto de la indemnización el Tribunal correrá traslado al trabajador para su conocimiento. Si el trabajador no está de acuerdo con la procedencia o los términos de la indemnización, el trabajador tendrá a salvo sus derechos para demandar por la vía jurisdiccional la acción que corresponda; en caso de que en el juicio se resuelva que el trabajador no se encuentra en ninguna de las hipótesis de este artículo, el depósito de la indemnización no surtirá efecto alguno y el Tribunal dispondrá del dinero depositado para ejecutar su sentencia. Si en dicho juicio el Tribunal resuelve que se actualiza alguna de las hipótesis contempladas en este artículo, pero el monto depositado es insuficiente para pagar la indemnización, el Tribunal condenará al patrón a pagar las diferencias e intereses correspondientes.
 
 ###### Artículo 50.-
 
@@ -906,11 +894,7 @@ III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacio
 
 > <small>Fracción adicionada DOF 24-04-1972. Reformada DOF 07-01-1982, 21-02-2025</small>
 
-IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Instituto a que se refiere el
-
-###### Artículo 103.
-
-Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al
+IV. Pago de abonos para cubrir créditos otorgados o garantizados por el Instituto a que se refiere el artículo 103 Bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al
 
 pago de servicios. Estos descuentos estarán precedidos de la aceptación que libremente haya hecho el trabajador y no podrán exceder del 10% del salario.
 
@@ -1390,11 +1374,9 @@ Los créditos que se otorguen por el organismo que administre el Fondo Nacional 
 
 ###### Artículo 146.-
 
-Las personas trabajadoras que se hayan inscrito voluntariamente al régimen obligatorio de la Ley del Seguro Social, podrán realizar aportaciones al Fondo Nacional de la Vivienda, que les permitan obtener un crédito barato y suficiente, conforme lo determine el organismo a que se refiere el
+Las personas trabajadoras que se hayan inscrito voluntariamente al régimen obligatorio de la Ley del Seguro Social, podrán realizar aportaciones al Fondo Nacional de la Vivienda, que les permitan obtener un crédito barato y suficiente, conforme lo determine el organismo a que se refiere el artículo 138 de esta Ley.
 
-###### Artículo 138.
-
-> <small>de esta Ley. Artículo reformado DOF 24-04-1972, 01-05-2019, 29-11-2023</small>
+> <small>Artículo reformado DOF 24-04-1972, 01-05-2019, 29-11-2023</small>
 
 ###### Artículo 147.-
 
@@ -1416,11 +1398,7 @@ El organismo que se cree para administrar los recursos del Fondo Nacional de la 
 
 ###### Artículo 150.-
 
-Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendamiento no están exentas de contribuir al Fondo Nacional de la Vivienda, en los términos del
-
-###### Artículo 136.
-
-Tampoco quedarán exentas de esta aportación respecto de aquellos trabajadores que hayan sido favorecidos por créditos del fondo.
+Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendamiento no están exentas de contribuir al Fondo Nacional de la Vivienda, en los términos del artículo 136. Tampoco quedarán exentas de esta aportación respecto de aquellos trabajadores que hayan sido favorecidos por créditos del fondo.
 
 ###### Artículo 151.-
 
@@ -1438,13 +1416,11 @@ Los trabajadores tendrán derecho a ejercitar ante el Tribunal las acciones indi
 
 ###### Artículo 153.-
 
-Las empresas tendrán derecho a ejercitar ante el Tribunal, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este
+Las empresas tendrán derecho a ejercitar ante el Tribunal, las acciones que les correspondan en contra de los trabajadores por incumplimiento de las obligaciones que les impone este capítulo.
 
-### capítulo.
+Capítulo III BIS De la Productividad, Formación y Capacitación de los Trabajadores
 
-### Capítulo III BIS
-
-### Capítulo adicionado DOF 28-04-1978. Denominación reformada DOF 30-11-2012
+> <small>Capítulo adicionado DOF 28-04-1978. Denominación reformada DOF 30-11-2012</small>
 
 ###### Artículo 153 -
 
@@ -1654,11 +1630,7 @@ Las constancias de que se trata surtirán plenos efectos, para fines de ascenso,
 
 ###### Artículo 153 -
 
-W.- Los certificados, diplomas, títulos o grados que expidan el Estado, sus organismos descentralizados o los particulares con reconocimiento de validez oficial de estudios, a quienes hayan concluido un tipo de educación con carácter terminal, serán inscritos en los registros de que trata el
-
-###### Artículo 539.
-
-, fracción IV, cuando el puesto y categoría correspondientes figuren en el Catálogo Nacional de Ocupaciones o sean similares a los incluidos en él.
+W.- Los certificados, diplomas, títulos o grados que expidan el Estado, sus organismos descentralizados o los particulares con reconocimiento de validez oficial de estudios, a quienes hayan concluido un tipo de educación con carácter terminal, serán inscritos en los registros de que trata el artículo 539, fracción IV, cuando el puesto y categoría correspondientes figuren en el Catálogo Nacional de Ocupaciones o sean similares a los incluidos en él.
 
 ###### Artículo 153 -
 
@@ -1778,11 +1750,9 @@ Los reglamentos que se expidan determinarán los trabajos que quedan comprendido
 
 ###### Artículo 168.
 
-En caso de que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, no podrá utilizarse el trabajo de mujeres en periodos de gestación o de lactancia. Las trabajadoras que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos. Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a las mujeres en periodos de gestación o de lactancia les será aplicable lo dispuesto por el
+En caso de que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, no podrá utilizarse el trabajo de mujeres en periodos de gestación o de lactancia. Las trabajadoras que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos. Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a las mujeres en periodos de gestación o de lactancia les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
 
-###### Artículo 429.
-
-> <small>, fracción IV de esta Ley. Artículo derogado DOF 31-12-1974. Adicionado DOF 30-11-2012</small>
+> <small>Artículo derogado DOF 31-12-1974. Adicionado DOF 30-11-2012</small>
 
 ###### Artículo 169.-
 
@@ -1823,8 +1793,6 @@ Los servicios de guardería infantil se prestarán por el Instituto Mexicano del
 En los establecimientos en que trabajen mujeres, el patrón debe mantener un número suficiente de asientos o sillas a disposición de las madres trabajadoras.
 
 ## TITULO QUINTO BIS
-
-## Título adicionado DOF 31-12-1974
 
 ###### Artículo 173.-
 
@@ -1940,11 +1908,7 @@ Las condiciones de trabajo contenidas en el contrato colectivo que rija en la em
 
 ###### Artículo 185.-
 
-El patrón podrá rescindir la relación de trabajo si existe un motivo razonable de pérdida de la confianza, aun cuando no coincida con las causas justificadas de rescisión a que se refiere el
-
-###### Artículo 47.
-
-El trabajador de confianza podrá ejercitar las acciones a que se refiere el capítulo IV del Título Segundo de esta Ley.
+El patrón podrá rescindir la relación de trabajo si existe un motivo razonable de pérdida de la confianza, aun cuando no coincida con las causas justificadas de rescisión a que se refiere el artículo 47. El trabajador de confianza podrá ejercitar las acciones a que se refiere el capítulo IV del Título Segundo de esta Ley.
 
 ###### Artículo 186.-
 
@@ -2078,11 +2042,7 @@ Los trabajadores están especialmente obligados a respetar y realizar las instru
 
 ###### Artículo 206.-
 
-Queda prohibido en los expendios de a bordo proporcionar, sin permiso del capitán, bebidas embriagantes a los trabajadores, así como que éstos introduzcan a los buques tales efectos. Queda igualmente prohibido a los trabajadores introducir drogas y enervantes, salvo lo dispuesto en el
-
-###### Artículo 208.
-
-, fracción III.
+Queda prohibido en los expendios de a bordo proporcionar, sin permiso del capitán, bebidas embriagantes a los trabajadores, así como que éstos introduzcan a los buques tales efectos. Queda igualmente prohibido a los trabajadores introducir drogas y enervantes, salvo lo dispuesto en el artículo 208, fracción III.
 
 ###### Artículo 207.-
 
@@ -2154,11 +2114,7 @@ El Ejecutivo Federal determinará la forma de sostener y mejorar los servicios d
 
 ###### Artículo 215.-
 
-Las disposiciones de este capítulo se aplican al trabajo de las tripulaciones de las aeronaves civiles que ostenten matrícula mexicana. Tienen como finalidad, además de la prevista en el
-
-###### Artículo 2o.
-
-, garantizar la seguridad de las operaciones aeronáuticas, y son irrenunciables en la medida en que correspondan a este propósito.
+Las disposiciones de este capítulo se aplican al trabajo de las tripulaciones de las aeronaves civiles que ostenten matrícula mexicana. Tienen como finalidad, además de la prevista en el artículo 2o, garantizar la seguridad de las operaciones aeronáuticas, y son irrenunciables en la medida en que correspondan a este propósito.
 
 ###### Artículo 216.-
 
@@ -2382,9 +2338,7 @@ En los contratos colectivos se podrá estipular que los trabajadores trenistas p
 
 Cuando algún trabajador esté próximo a cumplir los términos de jubilación determinados en los contratos colectivos, la relación de trabajo sólo podrá rescindirse por causas
 
-particularmente graves que hagan imposible su continuación, de conformidad con las disposiciones contenidas en los contratos colectivos. A falta de disposiciones expresas se estará a lo dispuesto en el
-
-###### Artículo 161.
+particularmente graves que hagan imposible su continuación, de conformidad con las disposiciones contenidas en los contratos colectivos. A falta de disposiciones expresas se estará a lo dispuesto en el artículo 161.
 
 ###### Artículo 250.-
 
@@ -2514,11 +2468,7 @@ El salario puede fijarse por unidad de tiempo, por unidad de obra, por peso de l
 
 ###### Artículo 271.-
 
-El salario se pagará directamente al trabajador, de conformidad con lo dispuesto en el
-
-###### Artículo 100.
-
-El pago hecho a organizaciones, cualquiera que sea su naturaleza, o a intermediarios, para que a su vez hagan el pago a los trabajadores, no libera de responsabilidad a los patrones.
+El salario se pagará directamente al trabajador, de conformidad con lo dispuesto en el artículo 100. El pago hecho a organizaciones, cualquiera que sea su naturaleza, o a intermediarios, para que a su vez hagan el pago a los trabajadores, no libera de responsabilidad a los patrones.
 
 ###### Artículo 272.-
 
@@ -2540,9 +2490,7 @@ Los sindicatos proporcionarán a los patrones una lista pormenorizada que conten
 
 ###### Artículo 275.-
 
-Los trabajadores no pueden hacerse substituir en la prestación del servicio. Si se quebranta esta prohibición, el substituto tiene derecho a que se le pague la totalidad del salario que corresponda al trabajo desempeñado y a que el pago se haga de conformidad con lo dispuesto en el
-
-###### Artículo 100.
+Los trabajadores no pueden hacerse substituir en la prestación del servicio. Si se quebranta esta prohibición, el substituto tiene derecho a que se le pague la totalidad del salario que corresponda al trabajo desempeñado y a que el pago se haga de conformidad con lo dispuesto en el artículo 100.
 
 ###### Artículo 276.-
 
@@ -2612,11 +2560,7 @@ Cuando existan contratos de arrendamiento, el propietario del predio es solidari
 
 ###### Artículo 282.-
 
-El trabajo del campo deberá fijarse mediante contrato por escrito, siempre que una persona se obligue frente a otra a realizar actos, ejecutar obras o prestar servicios en las actividades a que se refiere este Capítulo, de manera subordinada y mediante el pago de un salario. Las condiciones de trabajo deberán constar en dicho contrato, observándose lo dispuesto en el
-
-###### Artículo 25.
-
-y lo señalado en este Capítulo. Además, dichas condiciones de trabajo establecerán los mecanismos acordados para informar a las personas trabajadoras del campo acerca de las autoridades del trabajo y servicios sociales a las que se podrán acudir cuando la persona trabajadora del campo considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente. Todas las personas trabajadoras del campo deberán contar con un ejemplar del contrato de trabajo. La falta del escrito del contrato de trabajo no priva a las personas trabajadoras del campo de los derechos que deriven por los servicios prestados, y será imputable a la persona empleadora la falta de esa formalidad. Las personas empleadoras de servicios especializados que intervienen en el proceso de contratación de personal a través del reclutamiento y selección no se considerarán personas empleadoras, este carácter lo tiene quien se beneficia de los servicios.
+El trabajo del campo deberá fijarse mediante contrato por escrito, siempre que una persona se obligue frente a otra a realizar actos, ejecutar obras o prestar servicios en las actividades a que se refiere este Capítulo, de manera subordinada y mediante el pago de un salario. Las condiciones de trabajo deberán constar en dicho contrato, observándose lo dispuesto en el artículo 25 y lo señalado en este Capítulo. Además, dichas condiciones de trabajo establecerán los mecanismos acordados para informar a las personas trabajadoras del campo acerca de las autoridades del trabajo y servicios sociales a las que se podrán acudir cuando la persona trabajadora del campo considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente. Todas las personas trabajadoras del campo deberán contar con un ejemplar del contrato de trabajo. La falta del escrito del contrato de trabajo no priva a las personas trabajadoras del campo de los derechos que deriven por los servicios prestados, y será imputable a la persona empleadora la falta de esa formalidad. Las personas empleadoras de servicios especializados que intervienen en el proceso de contratación de personal a través del reclutamiento y selección no se considerarán personas empleadoras, este carácter lo tiene quien se beneficia de los servicios.
 
 ###### Artículo 283.-
 
@@ -2799,8 +2743,6 @@ Los trabajadores no podrán ser removidos de la zona o ruta que se les haya asig
 Es causa especial de rescisión de las relaciones de trabajo la disminución importante y reiterada del volumen de las operaciones, salvo que concurran circunstancias justificativas.
 
 ### CAPITULO IX BIS
-
-### Capítulo adicionado DOF 24-12-2024
 
 ###### Artículo 291 -
 
@@ -3234,8 +3176,6 @@ VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias d
 
 ### CAPÍTULO XII BIS
 
-### Capítulo adicionado DOF 11-01-2021
-
 ###### Artículo 330 -
 
 A.- El teletrabajo es una forma de organización laboral subordinada que consiste en el desempeño de actividades remuneradas, en lugares distintos al establecimiento o establecimientos del patrón, por lo que no se requiere la presencia física de la persona trabajadora bajo la modalidad de teletrabajo, en el centro de trabajo, utilizando primordialmente las tecnologías de la información y comunicación, para el contacto y mando entre la persona trabajadora bajo la modalidad de teletrabajo y el patrón. La persona trabajadora bajo la modalidad de teletrabajo será quien preste sus servicios personal, remunerado y subordinado en lugar distinto a las instalaciones de la empresa o fuente de trabajo del patrón y utilice las tecnologías de la información y la comunicación. Para efectos de la modalidad de teletrabajo, se entenderá por tecnologías de la información y la comunicación, al conjunto de servicios, infraestructura, redes, software, aplicaciones informáticas y dispositivos que tienen como propósito facilitar las tareas y funciones en los centros de trabajo, así como las que se necesitan para la gestión y transformación de la información, en particular los componentes tecnológicos que permiten crear, modificar, almacenar, proteger y recuperar esa información. Se regirán por las disposiciones del presente Capítulo las relaciones laborales que se desarrollen más del cuarenta por ciento del tiempo en el domicilio de la persona trabajadora bajo la modalidad de teletrabajo, o en el domicilio elegido por ésta. No será considerado teletrabajo aquel que se realice de forma ocasional o esporádica.
@@ -3326,9 +3266,7 @@ I. Comprobar que los patrones lleven registro de los insumos entregados a las pe
 
 II. Vigilar que los salarios no sean inferiores a los que se paguen en la empresa al trabajador presencial con funciones iguales o similares;
 
-III. Constatar el debido cumplimiento de las obligaciones especiales establecidas en el presente
-
-### Capítulo.
+III. Constatar el debido cumplimiento de las obligaciones especiales establecidas en el presente Capítulo. Personas Trabajadoras del Hogar Denominación del Capítulo reformada DOF 01-05-2019, 02-07-2019
 
 ###### Artículo 331.-
 
@@ -3470,9 +3408,9 @@ La persona empleadora podrá dar por terminada dentro de los treinta días sigui
 
 > <small>Artículo reformado DOF 02-07-2019</small>
 
-### Capitulo XIII Bis
+Capitulo XIII Bis De Los Trabajadores en Minas
 
-### Capítulo adicionado DOF 30-11-2012
+> <small>Capítulo adicionado DOF 30-11-2012</small>
 
 ###### Artículo 343 -
 
@@ -3580,8 +3518,6 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 ### CAPITULO XVI
 
-### Capítulo adicionado DOF 30-12-1977
-
 ###### Artículo 353 -
 
 A.- Para los efectos de este Capítulo, se entiende por:
@@ -3594,9 +3530,7 @@ III. Residencia: El conjunto de actividades que deba cumplir un Médico Resident
 
 ###### Artículo 353 -
 
-B.- Las relaciones laborales entre los Médicos Residentes y la persona moral o física de quien dependa la Unidad Médica Receptora de Residentes, se regirán por las disposiciones de este
-
-### Capítulo y por las estipulaciones contenidas en el contrato respectivo, en cuanto no las contradigan.
+B.- Las relaciones laborales entre los Médicos Residentes y la persona moral o física de quien dependa la Unidad Médica Receptora de Residentes, se regirán por las disposiciones de este Capítulo y por las estipulaciones contenidas en el contrato respectivo, en cuanto no las contradigan.
 
 ###### Artículo 353 -
 
@@ -3628,11 +3562,7 @@ E.- Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Méd
 
 ###### Artículo 353 -
 
-F.- La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el
-
-###### Artículo 353.
-
-G. En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
+F.- La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353. G. En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
 
 ###### Artículo 353 -
 
@@ -3646,11 +3576,7 @@ III. La comisión de faltas a las normas de conducta propias de la profesión m�
 
 ###### Artículo 353 -
 
-H.- Son causas de terminación de la relación de trabajo, además de las que establece el
-
-###### Artículo 53.
-
-de esta Ley:
+H.- Son causas de terminación de la relación de trabajo, además de las que establece el artículo 53 de esta Ley:
 
 I. La conclusión del Programa de Especialización;
 
@@ -3661,8 +3587,6 @@ II. La supresión académica de estudios en la Especialidad en la rama de la Med
 I.- Las disposiciones de este Capítulo no serán aplicables a aquellas personas que exclusivamente reciben cursos de capacitación o adiestramiento, como parte de su formación profesional, en las instituciones de salud.
 
 ### CAPITULO XVII
-
-### Capítulo adicionado DOF 20-10-1980
 
 ###### Artículo 353 -
 
@@ -3740,9 +3664,9 @@ R.- En el procedimiento de huelga el aviso para la suspensión de labores deber�
 
 ###### Artículo 353 -
 
-U.- Los trabajadores de las universidades e instituciones a las que se refiere este
+U.- Los trabajadores de las universidades e instituciones a las que se refiere este Capítulo disfrutarán de sistemas de seguridad social en los términos de sus leyes orgánicas, o conforme a los acuerdos que con base en ellas se celebren. Estas prestaciones nunca podrán ser inferiores a los mínimos establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
-### Capítulo disfrutarán de sistemas de seguridad social en los términos de sus leyes orgánicas, o conforme
+> <small>Artículo adicionado DOF 20-10-1980</small>
 
 ## TITULO SEPTIMO
 
@@ -3968,11 +3892,7 @@ XII. Forma de pago y monto de las cuotas sindicales;
 
 XIII. Época y forma de presentación de la cuenta completa y detallada de la administración del patrimonio sindical y sanciones a sus directivos en caso de incumplimiento. Para tales efectos, se deberán establecer instancias y procedimientos internos que aseguren la resolución de controversias entre los agremiados, con motivo de la gestión de los fondos sindicales.
 
-XIV. Normas para la liquidación del patrimonio sindical; y XIV Bis. Procedimiento para llevar a cabo la consulta a los trabajadores mediante voto personal, libre y secreto para la aprobación del contenido de contratos colectivos de trabajo iniciales y de sus revisiones. Para tal efecto, los estatutos deberán observar el procedimiento contemplado en el
-
-###### Artículo 390.
-
-Ter, fracción II de la presente Ley, y
+XIV. Normas para la liquidación del patrimonio sindical; y XIV Bis. Procedimiento para llevar a cabo la consulta a los trabajadores mediante voto personal, libre y secreto para la aprobación del contenido de contratos colectivos de trabajo iniciales y de sus revisiones. Para tal efecto, los estatutos deberán observar el procedimiento contemplado en el artículo 390 Ter, fracción II de la presente Ley, y
 
 XV. Las demás normas que apruebe la asamblea.
 
@@ -3992,11 +3912,7 @@ III. El Centro Federal de Conciliación y Registro Laboral podrá desahogar este
 
 ###### Artículo 373.-
 
-La directiva de los sindicatos, en los términos que establezcan sus estatutos, deberá rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. La rendición de cuentas incluirá la situación de los ingresos por cuotas sindicales y otros bienes, así como su destino, debiendo levantar acta de dicha asamblea. El acta de la asamblea en la que se rinda cuenta de la administración del patrimonio sindical deberá ser entregada dentro de los diez días siguientes al Centro Federal de Conciliación y Registro Laboral para su depósito y registro en el expediente de registro sindical; esta obligación podrá cumplirse por vía electrónica. La información anterior deberá entregarse por escrito a cada miembro del sindicato en forma completa, dejando constancia de su recepción. Las obligaciones a que se refieren los párrafos anteriores no son dispensables. En todo momento cualquier trabajador tendrá el derecho de solicitar información a la directiva o a la Autoridad Registral, sobre la administración del patrimonio del sindicato. En caso de que los trabajadores no hubieren recibido la información sobre la administración del patrimonio sindical, o estimen la existencia de irregularidades en la gestión de los fondos sindicales, podrá acudir a las instancias y procedimientos internos previstos en los estatutos, en términos del artículo 371, fracción XIII, de esta Ley. De comprobarse la existencia de las irregularidades referidas, se sancionará a quien o quienes resulten responsables de las mismas, previo desahogo del procedimiento de investigación y resolución establecido en los estatutos; de no prever éstos sanciones eficaces y proporcionales a la gravedad de las conductas u omisiones en que se hubiese incurrido, los responsables podrán ser sancionados por los órganos sindicales competentes con la suspensión o destitución de su cargo, según sea la gravedad de la irregularidad cometida, sin menoscabo de que se ejerzan las demás acciones legales que correspondan. Con independencia de lo anterior, de no proporcionarse la información o las aclaraciones correspondientes, los trabajadores podrán tramitar ante el Tribunal que corresponda, el cumplimiento de dichas obligaciones. El trabajador también podrá acudir a la Autoridad Registral para denunciar la omisión anterior a fin de que dicha autoridad requiera al sindicato la entrega de la información de la administración del patrimonio sindical completa, apercibiendo a los secretarios general y de finanzas u homólogos en términos del
-
-###### Artículo 731.
-
-de esta Ley. El ejercicio de las acciones a que se refieren los párrafos anteriores, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
+La directiva de los sindicatos, en los términos que establezcan sus estatutos, deberá rendir a la asamblea cada seis meses, por lo menos, cuenta completa y detallada de la administración del patrimonio sindical. La rendición de cuentas incluirá la situación de los ingresos por cuotas sindicales y otros bienes, así como su destino, debiendo levantar acta de dicha asamblea. El acta de la asamblea en la que se rinda cuenta de la administración del patrimonio sindical deberá ser entregada dentro de los diez días siguientes al Centro Federal de Conciliación y Registro Laboral para su depósito y registro en el expediente de registro sindical; esta obligación podrá cumplirse por vía electrónica. La información anterior deberá entregarse por escrito a cada miembro del sindicato en forma completa, dejando constancia de su recepción. Las obligaciones a que se refieren los párrafos anteriores no son dispensables. En todo momento cualquier trabajador tendrá el derecho de solicitar información a la directiva o a la Autoridad Registral, sobre la administración del patrimonio del sindicato. En caso de que los trabajadores no hubieren recibido la información sobre la administración del patrimonio sindical, o estimen la existencia de irregularidades en la gestión de los fondos sindicales, podrá acudir a las instancias y procedimientos internos previstos en los estatutos, en términos del artículo 371, fracción XIII, de esta Ley. De comprobarse la existencia de las irregularidades referidas, se sancionará a quien o quienes resulten responsables de las mismas, previo desahogo del procedimiento de investigación y resolución establecido en los estatutos; de no prever éstos sanciones eficaces y proporcionales a la gravedad de las conductas u omisiones en que se hubiese incurrido, los responsables podrán ser sancionados por los órganos sindicales competentes con la suspensión o destitución de su cargo, según sea la gravedad de la irregularidad cometida, sin menoscabo de que se ejerzan las demás acciones legales que correspondan. Con independencia de lo anterior, de no proporcionarse la información o las aclaraciones correspondientes, los trabajadores podrán tramitar ante el Tribunal que corresponda, el cumplimiento de dichas obligaciones. El trabajador también podrá acudir a la Autoridad Registral para denunciar la omisión anterior a fin de que dicha autoridad requiera al sindicato la entrega de la información de la administración del patrimonio sindical completa, apercibiendo a los secretarios general y de finanzas u homólogos en términos del artículo 731 de esta Ley. El ejercicio de las acciones a que se refieren los párrafos anteriores, por ningún motivo implicará la pérdida de derechos sindicales, ni será causa para la expulsión o separación del trabajador inconforme.
 
 ###### Artículo 374.-
 
@@ -4208,11 +4124,7 @@ IV. En caso de que el contrato colectivo de trabajo inicial o el convenio de rev
 
 a) Ejercer su derecho a huelga, en caso de haber promovido el emplazamiento correspondiente, y
 
-b) Prorrogar o ampliar el periodo de prehuelga con el objeto de continuar con la negociación y someter el acuerdo a nueva consulta, observando lo establecido en la fracción V del
-
-###### Artículo 927.
-
-de esta Ley. En el procedimiento de consulta previsto en el presente artículo, el voto personal, libre y secreto de los trabajadores se ejercerá en forma individual y directa.
+b) Prorrogar o ampliar el periodo de prehuelga con el objeto de continuar con la negociación y someter el acuerdo a nueva consulta, observando lo establecido en la fracción V del artículo 927 de esta Ley. En el procedimiento de consulta previsto en el presente artículo, el voto personal, libre y secreto de los trabajadores se ejercerá en forma individual y directa.
 
 ###### Artículo 391.-
 
@@ -4354,11 +4266,7 @@ Pueden solicitar la celebración de un contrato-ley los sindicatos que represent
 
 ###### Artículo 408.-
 
-Los solicitantes justificarán que satisfacen el requisito de mayoría mencionado en el
-
-###### Artículo 406.
-
-, acompañando la Constancia de Representatividad obtenida conforme al procedimiento establecido en el artículo 390 Bis, o con el padrón de socios si tienen celebrado contrato colectivo de trabajo o son administradores del contrato-ley.
+Los solicitantes justificarán que satisfacen el requisito de mayoría mencionado en el artículo 406, acompañando la Constancia de Representatividad obtenida conforme al procedimiento establecido en el artículo 390 Bis, o con el padrón de socios si tienen celebrado contrato colectivo de trabajo o son administradores del contrato-ley.
 
 ###### Artículo 409.-
 
@@ -4406,11 +4314,7 @@ El convenio deberá ser aprobado por la mayoría de los trabajadores que estén 
 
 Si el contrato colectivo ha sido celebrado por una mayoría de dos terceras partes de los trabajadores sindicalizados de determinada rama de la industria, en una o varias Entidades Federativas, en una o varias zonas económicas, o en todo el territorio nacional, podrá ser elevado a la categoría de contrato-ley, previo cumplimiento de los requisitos siguientes:
 
-I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante el Centro Federal de Conciliación y Registro Laboral, de conformidad con lo dispuesto en el
-
-###### Artículo 407.
-
-;
+I. La solicitud deberá presentarse por los sindicatos de trabajadores o por los patrones ante el Centro Federal de Conciliación y Registro Laboral, de conformidad con lo dispuesto en el artículo 407;
 
 II. Los sindicatos de trabajadores y los patrones comprobarán que satisfacen el requisito de mayoría señalado en el artículo 406;
 
@@ -4574,11 +4478,7 @@ El sindicato y los trabajadores podrán solicitar cada seis meses del Tribunal q
 
 ###### Artículo 432.-
 
-El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los trabajos. Dará aviso al sindicato, y llamará por los medios que sean adecuados, a juicio del Tribunal, a los trabajadores que prestaban sus servicios en la empresa cuando la suspensión fue decretada, y estará obligado a reponerlos en los puestos que ocupaban con anterioridad, siempre que se presenten dentro del plazo que fije el mismo patrón, que no podrá ser menor de treinta días, contado desde la fecha del último llamamiento. Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48. Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del
-
-###### Artículo 427.
-
-En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia. Terminación colectiva de las relaciones de trabajo
+El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los trabajos. Dará aviso al sindicato, y llamará por los medios que sean adecuados, a juicio del Tribunal, a los trabajadores que prestaban sus servicios en la empresa cuando la suspensión fue decretada, y estará obligado a reponerlos en los puestos que ocupaban con anterioridad, siempre que se presenten dentro del plazo que fije el mismo patrón, que no podrá ser menor de treinta días, contado desde la fecha del último llamamiento. Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48. Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del artículo 427. En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia. Terminación colectiva de las relaciones de trabajo
 
 ###### Artículo 433.-
 
@@ -4664,11 +4564,7 @@ La huelga es causa legal de suspensión de los efectos de las relaciones de trab
 
 ###### Artículo 448.-
 
-El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica pendientes ante el Tribunal, y la de las solicitudes que se presenten, salvo que los trabajadores sometan el conflicto a la decisión del Tribunal. No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por objeto el señalado en el
-
-###### Artículo 450.
-
-, fracción VI.
+El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica pendientes ante el Tribunal, y la de las solicitudes que se presenten, salvo que los trabajadores sometan el conflicto a la decisión del Tribunal. No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por objeto el señalado en el artículo 450, fracción VI.
 
 ###### Artículo 449.-
 
@@ -4680,9 +4576,19 @@ La huelga deberá tener por objeto:
 
 I. Conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital;
 
-II. Obtener del patrón o patrones la celebración del contrato colectivo de trabajo y exigir su revisión al terminar el período de su vigencia, de conformidad con lo dispuesto en el Capítulo III del
+II. Obtener del patrón o patrones la celebración del contrato colectivo de trabajo y exigir su revisión al terminar el período de su vigencia, de conformidad con lo dispuesto en el Capítulo III del Título Séptimo;
 
-## Título Séptimo;
+III. Obtener de los patrones la celebración del contrato-ley y exigir su revisión al terminar el período de su vigencia, de conformidad con lo dispuesto en el Capítulo IV del Título Séptimo;
+
+IV. Exigir el cumplimiento del contrato colectivo de trabajo o del contrato-ley en las empresas o establecimientos en que hubiese sido violado;
+
+V. Exigir el cumplimiento de las disposiciones legales sobre participación de utilidades;
+
+VI. Apoyar una huelga que tenga por objeto alguno de los enumerados en las fracciones anteriores;
+
+VII. Exigir la revisión de los salarios contractuales a que se refieren los artículo 399 bis y 419 bis.
+
+> <small>Fracción adicionada DOF 30-09-1974</small>
 
 ###### Artículo 451.-
 
@@ -4726,11 +4632,7 @@ III. Que se cumplan previamente los requisitos señalados en el artículo 920 de
 
 La huelga es legalmente inexistente si:
 
-I. La suspensión del trabajo se realiza por un número de trabajadores menor al fijado en el
-
-###### Artículo 451.
-
-, fracción II;
+I. La suspensión del trabajo se realiza por un número de trabajadores menor al fijado en el artículo 451, fracción II;
 
 II. No ha tenido por objeto alguno de los establecidos en el artículo 450; y
 
@@ -5344,11 +5246,7 @@ Del codo, que no permite la extensión completa, con un ángulo de flexión de 7
 
 limitación para la pronación y/o supinación. 143 Del metacarpo, con desviación secundaria de la mano y rigidez de los dedos. 10 a 20% Parálisis completas e incompletas (paresias) por lesiones de nervios periféricos 144 Parálisis total del miembro superior. 70% 145 Parálisis del tronco superior. 50% 146 Parálisis del tronco medio. 50% 147 Parálisis del tronco inferior. 50% 148 Parálisis del nervio subescapular. 12% 149 Parálisis del nervio circunflejo o axilar. 30% 150 Parálisis del nervio músculo-cutáneo. 35% 151 Parálisis del nervio mediano en el brazo. 45% 152 Parálisis del nervio mediano en la muñeca. 30% 153 Parálisis del nervio ulnar si está lesionado arriba del codo. 35% 154 Parálisis del nervio ulnar si está lesionado abajo del codo. 30% 155 Parálisis del nervio radial si está lesionado arriba del codo. 50% 156 Parálisis del nervio radial si está lesionado abajo del codo. 40% En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes 157 -- correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del cien por ciento. En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia 158 -- funcional. El valor máximo otorgado no podrá ser superior al valor mínimo que se otorga por parálisis. 159 Síndrome de dolor regional complejo hombro-mano. 20 a 60% 160 Síndrome de dolor regional complejo hombro. 10 a 30% 161 Síndrome de dolor regional complejo mano-muñeca. 10 a 30% Luxaciones que no puedan ser resueltas quirúrgicamente 162 De la clavícula, no reducida o irreductible esternoclavicular. 5% 163 De la clavícula, no reducida o irreductible acromioclavicular. 10-30% 164 Del hombro, glenohumeral. 30% 165 Del codo. 25% 166 De la muñeca (radiocarpal o radioulnar). 25% 167 De los huesos del carpo. 25% 168 De un metacarpiano. 8% 169 Del cuarto y quinto metacarpianos. 20% 170 De todos los metacarpianos. 40% 171 Metacarpo-falángica del pulgar. 25% 172 De la falange distal del pulgar. 5% 173 De la falange proximal o media de cualquier otro dedo. 10% 174 De la falange distal de cualquier otro dedo. 4% Músculos Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez 175 15%
 
-Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin 176 10 a 15% anquilosis ni rigidez articular. Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez 177 5 a 10% Vasos Las secuelas y lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios 178 -- periféricos, atrofia de masas musculares, entre otros). En caso de lesiones bilaterales, se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento. En los músicos instrumentistas, mecanógrafos, relojeros, joyeros ensamblador de partes electrónicas, etc. y labores similares, la pérdida, anquilosis, pseudoartrosis, luxaciones, parálisis, retracciones cicatrizales y 179 rigideces de los dedos utilizados efectivamente en el trabajo, así como en los -- casos de retracciones de la aponeurosis palmar de la mano que interese esos mismos dedos, se aumentará hasta el 250%, observándose lo dispuesto en el
-
-###### Artículo 494.
-
-de la Ley Federal del Trabajo. Miembro inferior Pérdidas 180 Por la desarticulación de la cadera. 80% 181 Por la amputación del muslo, entre la cadera y la rodilla. 80% 182 Por la desarticulación de la rodilla. 70% Por la extirpación de la rótula, con movilidad anormal de la rodilla y amiotrofia 183 40% del tríceps. 184 Por la amputación de la pierna, entre la rodilla y el tobillo. 65% 185 Por la pérdida total del pie. 55% 186 Por la mutilación de un pie con conservación del talón. 45% 187 Por la pérdida parcial o total del calcáneo. 10 a 30% 188 Por la desarticulación medio-tarsiana. 40% 189 Por la desarticulación tarso metatarsiana. 30% 190 Por la pérdida de los cinco dedos. 25% 191 Por la pérdida del primer dedo, con pérdida o mutilación de su metatarsiano. 25% 192 Por la pérdida del primer dedo sólo. 15% 193 Por la pérdida parcial o total de la falange distal del primer dedo. 7% 194 Por la pérdida de un dedo que no sea el primero. 5% Por la pérdida parcial de la falange proximal de un dedo que no sea el 195 4% primero. Por la pérdida de la falange distal, con mutilación o pérdida de la falange 196 3% media de un dedo que no sea el primero. Por la pérdida parcial o total de la falange distal de un dedo que no sea el 197 2% primero. Por la pérdida del segundo, tercero o cuarto dedo con mutilación o pérdida de 198 8% su metatarsiano, conservando el primero o quinto dedo. 199 Por la pérdida del quinto dedo con mutilación o pérdida de su metatarsiano 20%
+Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin 176 10 a 15% anquilosis ni rigidez articular. Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez 177 5 a 10% Vasos Las secuelas y lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios 178 -- periféricos, atrofia de masas musculares, entre otros). En caso de lesiones bilaterales, se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento. En los músicos instrumentistas, mecanógrafos, relojeros, joyeros ensamblador de partes electrónicas, etc. y labores similares, la pérdida, anquilosis, pseudoartrosis, luxaciones, parálisis, retracciones cicatrizales y 179 rigideces de los dedos utilizados efectivamente en el trabajo, así como en los -- casos de retracciones de la aponeurosis palmar de la mano que interese esos mismos dedos, se aumentará hasta el 250%, observándose lo dispuesto en el artículo 494 de la Ley Federal del Trabajo. Miembro inferior Pérdidas 180 Por la desarticulación de la cadera. 80% 181 Por la amputación del muslo, entre la cadera y la rodilla. 80% 182 Por la desarticulación de la rodilla. 70% Por la extirpación de la rótula, con movilidad anormal de la rodilla y amiotrofia 183 40% del tríceps. 184 Por la amputación de la pierna, entre la rodilla y el tobillo. 65% 185 Por la pérdida total del pie. 55% 186 Por la mutilación de un pie con conservación del talón. 45% 187 Por la pérdida parcial o total del calcáneo. 10 a 30% 188 Por la desarticulación medio-tarsiana. 40% 189 Por la desarticulación tarso metatarsiana. 30% 190 Por la pérdida de los cinco dedos. 25% 191 Por la pérdida del primer dedo, con pérdida o mutilación de su metatarsiano. 25% 192 Por la pérdida del primer dedo sólo. 15% 193 Por la pérdida parcial o total de la falange distal del primer dedo. 7% 194 Por la pérdida de un dedo que no sea el primero. 5% Por la pérdida parcial de la falange proximal de un dedo que no sea el 195 4% primero. Por la pérdida de la falange distal, con mutilación o pérdida de la falange 196 3% media de un dedo que no sea el primero. Por la pérdida parcial o total de la falange distal de un dedo que no sea el 197 2% primero. Por la pérdida del segundo, tercero o cuarto dedo con mutilación o pérdida de 198 8% su metatarsiano, conservando el primero o quinto dedo. 199 Por la pérdida del quinto dedo con mutilación o pérdida de su metatarsiano 20%
 
 Anquilosis 200 Completa de la articulación coxofemoral, en rectitud. 55% De la articulación coxofemoral en posición de flexión, aducción, abducción y/o 201 65% rotación. 202 De las dos articulaciones coxofemorales. 100% 203 De la rodilla en posición de flexión mayor de 45 grados y hasta 140 grados. 65% 204 De la rodilla en posición de flexión hasta 45 grados. 40% 205 De la rodilla en genu valgum o genu varum. 50% 206 Del tobillo en ángulo recto. 15% 207 Del tobillo en ángulo recto, con rigidez de los dedos. 30% 208 Del tobillo, cuando la posición es diferente a la neutra. 55% 209 De cualquier dedo, en extensión. 5% 210 De cualquier dedo, cuando la posición es diferente a la neutra. 15% Rigideces articulares Disminución de los movimientos por lesiones articulares, tendinosas o musculares 211 De la cadera, con flexión mayor a 90 grados y extensión mayor 10 grados. 15 a 25% De la cadera, con flexión menor o igual a 90 grados y extensión menor o igual 212 30 a 40% 10 grados. 213 De la rodilla, que permita la extensión completa, según el ángulo de flexión. 10 a 20% De la rodilla que no permita la extensión completa o casi completa, según el 214 25 a 35% ángulo de flexión. Del tobillo, con flexión mayor o igual a 10 grados y extensión mayor o igual a 215 5 a 10% 30 grados. 216 Del tobillo, con flexión menor a 10 grados y extensión menor a 30 grados. 10 a 20% 217 De cualquier dedo. 2% Pseudoartrosis Atrófica, normotrófica o hipertrófica De la cadera, consecutiva a resecciones amplias con pérdida considerable de 218 50 a 70% substancia ósea. 219 Del fémur. 40 a 60% 220 De la rodilla con pierna en péndulo (consecutiva a resecciones de rodilla). 40 a 60% 221 De la rótula con extensión completa y flexión menor o igual a 90 grados. 15% 222 De la rótula con extensión incompleta y flexión mayor o igual a 90 grados. 20% 223 De la rótula con extensión incompleta y flexión menor a 90 grados. 40% 224 De la tibia y el peroné. 40 a 60% 225 De la tibia sola. 30 a 40% 226 Del peroné sólo. 8 a 18% 227 Del primero o del último metatarsiano. 8 a 15% 228 Del segundo, tercero o cuarto metatarsiano. 5% Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente 229 De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados. 30 a 50%
 
@@ -5390,11 +5288,7 @@ Escala de MELD (Model for End Stage Liver Disease) modelo matemático de predicc
 
 albúmina/creatinina 1 Normal o alta. Mayor a 90 0-30 mg/g, normal o Sin valuación 2 Levemente 60-89 levemente aumentada. 10-20% disminuida. 3A Leve a 45-59 30-300 mg/g, 20 a 40% moderadamente moderadamente aumentada. disminuida. 3B Moderada a 30-44 41 a 60% gravemente disminuida. 4 Gravemente 15-29 >300 mg/g, gravemente 61 a 90% disminuida. aumentada. 5 Insuficiencia renal. Menor a 15 91 a 100% 504 Incontinencia de orina permanente. 30 a 40% 505 Estrechamiento parcial de la uretra anterior, no resuelto quirúrgicamente. 30 a 40% 506 Estrechamiento parcial de la uretra posterior, no resuelto quirúrgicamente. 60% Estrechamiento total de la uretra, postraumático, no resuelto 507 quirúrgicamente, que obligue a efectuar la micción por un meato perineal o 60 a 90% hipogástrico. Columna vertebral Secuelas sin lesión medular Con limitación de los arcos de movilidad de la columna y pérdida permanente de la curvatura anatómica 508 Región cervical. 30 a 50% 509 Región torácica. 15 a 30% 510 Región lumbosacra. 30 a 50% 511 Región coccígea. 10% Secuelas de traumatismos con lesión medular 512 Paraplejía. 100% 513 Paraparesia de los miembros inferiores, si la marcha es imposible. 70 a 90% 514 Si la marcha es posible con muletas. 50 a 70% Clasificaciones diversas La pérdida de ambos ojos, ambos brazos arriba del codo, desarticulación de la cadera de ambos lados o de un brazo arriba del codo y de una pierna arriba de la rodilla del mismo lado, lesión medular por cualquier traumatismo 515 100% que produzca parálisis completa de los miembros inferiores con trastornos esfinterianos, demencia, se considerarán como incapacidad permanente total. Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que 516 -- corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la
 
-profesión a que se dedica. Las lesiones producidas por la acción de agentes físicos y químicos serán 517 indemnizadas de acuerdo con las modalidades especiales de la 20 a 100% incapacidad. Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas 518 cicatrizales, independientemente de las perturbaciones funcionales que -- acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves. En caso de haberse otorgado con anterioridad la valuación de una secuela 519 que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia -- del porcentaje de la nueva fracción que aplique. En caso de no encontrarse la fracción específica para la valuación de las secuelas que presenta la persona trabajadora, deberá hacerse uso del 520 --
-
-###### Artículo 17.
-
-de la Ley Federal del Trabajo vigente y por similitud aplicar la fracción que más se asemeje. Cánceres Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida 521 determinada por el especialista oncólogo. -- Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el
+profesión a que se dedica. Las lesiones producidas por la acción de agentes físicos y químicos serán 517 indemnizadas de acuerdo con las modalidades especiales de la 20 a 100% incapacidad. Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas 518 cicatrizales, independientemente de las perturbaciones funcionales que -- acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves. En caso de haberse otorgado con anterioridad la valuación de una secuela 519 que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia -- del porcentaje de la nueva fracción que aplique. En caso de no encontrarse la fracción específica para la valuación de las secuelas que presenta la persona trabajadora, deberá hacerse uso del 520 -- artículo 17 de la Ley Federal del Trabajo vigente y por similitud aplicar la fracción que más se asemeje. Cánceres Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes: Paso I: Identificar el cáncer que padece la persona trabajadora de acuerdo con el diagnóstico y sobrevida establecida por el especialista oncólogo, y verificar con la Tabla XI a qué tipo de categorización corresponde el cáncer de origen laboral. Esto es, el cáncer menos agresivo corresponde al numeral 1 y el más agresivo al numeral 5, con base a la sobrevida que pueda presentar la persona trabajadora a cinco años de su diagnóstico. Nota: En caso de que la neoplasia diagnosticada no se encuentre incluida en la Tabla XI, la agresividad se establecerá de acuerdo con la sobrevida 521 determinada por el especialista oncólogo. -- Paso 2: Después de identificar a qué categorización pertenece el cáncer de origen laboral, establecer en qué categoría se ubica la persona trabajadora de acuerdo con la capacidad funcional en relación con el desempeño del puesto de trabajo, esto es, por ejemplo si tiene un cáncer de colon la categoría de la neoplasia se ubicaría en el numeral 3 de la Tabla XI y si se encuentra que la persona trabajadora tiene una valoración como restringida en sus capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media, se ubicaría en el numeral 1 de la Tabla XII. Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el
 
 desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde. En el ejemplo tenemos que según la Tabla XII, el cáncer de colon se ubica en el numeral 3, y de acuerdo con su valoración de la categorización funcional, se identifica que corresponde al numeral 1 de la Tabla XII, y haciendo la búsqueda de la intersección de ambos valores encontramos que el resultado sería de 70% de acuerdo con la Tabla XIII. Tabla XI Categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años Agresividad Sobrevida Tipo de Neoplasia 1 90-100 Cáncer de tiroides papilar y folicular, y cáncer de piel (labio). 2 61-89 Cáncer de piel (no melanoma), cáncer de hueso, cáncer de laringe, cáncer tiroides medular, y leucemia linfoide. 3 30-60 Cáncer de orofaringe, cáncer de colon, cáncer de vejiga urinaria, cáncer de senos paranasales, cáncer de escroto y melanoma, cáncer de tiroides indiferenciado, leucemia mieloide y leucemia monocítica aguda. 4 15-29 Mieloma múltiple, leucemia de células plasmáticas y leucemia mieloide aguda. 5 0-14 Cáncer broncopulmonar, cáncer de estómago, cáncer del tracto digestivo, cáncer del sistema nervioso central, mesotelioma pericárdico, mesotelioma peritoneal, mesotelioma pleural, tumor maligno de hígado y vías biliares intrahepáticas, angiosarcoma de hígado, cáncer del tracto digestivo (esófago) (tracto intestinal) y otras leucemias de tipo celular especificado. Tabla XII Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo 0 Completamente activo, capaz de realizar toda actividad física, previa a la enfermedad. 1 Restringido en las capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media (actividades tales como empujar y jalar moderadamente, caminar a una velocidad moderada, levantar 5 kg 10 veces por minuto o 12 kg seis veces por minuto, por ejemplo: recolección de frutas y verduras (inclinado, en cuclillas), pintar con brocha, empujar o tirar de carros ligeros o carretillas, operar camiones, tractores o maquinaria de construcción en todo terreno, uso de martillo neumático, eliminar maleza y usar el azadón). Si previo a la enfermedad sus actividades laborales correspondían a naturaleza media, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza media. 2 Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de
 
@@ -5522,9 +5416,7 @@ Bis.- El Poder Judicial de la Federación y los poderes judiciales locales estab
 
 ###### Artículo 526.-
 
-Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el
-
-## Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las
+Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título. Competencia constitucional de las autoridades del trabajo
 
 ###### Artículo 527.-
 
@@ -5618,9 +5510,7 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 
 ###### Artículo 536.-
 
-Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
-
-### Capítulo IV
+Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo. Capítulo IV Del Servicio Nacional de Empleo Denominación del Capítulo reformada DOF 28-04-1978, 30-11-2012
 
 ###### Artículo 537.
 
@@ -5792,11 +5682,7 @@ E.- Podrán participar en la prestación del servicio a que se refiere el artíc
 
 ###### Artículo 539 -
 
-F.- Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines lucrativos, sólo podrán otorgarse excepcionalmente, para la contratación de trabajadores que deban realizar trabajos especiales. Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el
-
-###### Artículo 539 -
-
-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social. Inspección del trabajo
+F.- Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines lucrativos, sólo podrán otorgarse excepcionalmente, para la contratación de trabajadores que deban realizar trabajos especiales. Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social. Inspección del trabajo
 
 ###### Artículo 540.-
 
@@ -6130,11 +6016,7 @@ II. Aprobar el Plan de Trabajo que formule el Secretariado Técnico y solicitarl
 
 III. Practicar y realizar directamente las investigaciones que juzgue pertinentes para el mejor cumplimiento de su función;
 
-IV. Solicitar directamente, cuando lo juzgue conveniente, los informes y estudios a que se refiere el
-
-###### Artículo 562.
-
-, Fracción III;
+IV. Solicitar directamente, cuando lo juzgue conveniente, los informes y estudios a que se refiere el artículo 562, Fracción III;
 
 V. Solicitar la opinión de organizaciones de trabajadores, de patrones y en general de cualquier entidad pública o privada;
 
@@ -6286,11 +6168,7 @@ II. Aprobar el plan de trabajo de la Dirección Técnica y solicitar de la misma
 
 III. Practicar y realizar directamente las investigaciones y estudios que juzgue conveniente para el mejor cumplimiento de su función;
 
-IV. Solicitar directamente, cuando lo juzgue conveniente, los informes y estudios a que se refiere el
-
-###### Artículo 584.
-
-, fracción II;
+IV. Solicitar directamente, cuando lo juzgue conveniente, los informes y estudios a que se refiere el artículo 584, fracción II;
 
 V. Solicitar la opinión de las asociaciones de trabajadores y patrones;
 
@@ -6384,9 +6262,7 @@ En el procedimiento de revisión se observarán las normas siguientes:
 
 I. El Consejo de Representantes estudiará la solicitud y decidirá si los fundamentos que la apoyan son suficientes para iniciar el procedimiento de revisión. Si su resolución es negativa, la pondrá en conocimiento del Secretario del Trabajo y Previsión Social y se disolverá; y
 
-II. Las atribuciones y deberes del Presidente, del Consejo de Representantes y de la Dirección Técnica, así como el funcionamiento de la Comisión, se ajustarán a las disposiciones de este
-
-### capítulo.
+II. Las atribuciones y deberes del Presidente, del Consejo de Representantes y de la Dirección Técnica, así como el funcionamiento de la Comisión, se ajustarán a las disposiciones de este capítulo.
 
 ###### Artículo 589.-
 
@@ -6448,11 +6324,7 @@ d) El Presidente del Instituto Nacional de Estadística y Geografía como miembr
 
 e) El Presidente del Instituto Nacional Electoral como miembro propietario o su suplente. Los suplentes serán designados por los miembros propietarios y deberán tener una jerarquía inmediata inferior a dichos propietarios en la dependencia u organismo público de que se trate.
 
-Sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se encuentre presente el que represente a la Secretaría del Trabajo y Previsión Social. Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de quienes concurran a sus sesiones, en caso de empate el Presidente tendrá voto de calidad. Para el cumplimiento de todas y cada una de las obligaciones a cargo del Organismo establecidas en esta Ley, la Junta de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de cuatro veces al año. La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley, y salvo aquellas facultades a que se contrae el
-
-###### Artículo 58.
-
-de la Ley Federal de Entidades Paraestatales, podrá delegar discrecionalmente sus facultades en el Director General. La Junta de Gobierno tendrá las siguientes atribuciones indelegables:
+Sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se encuentre presente el que represente a la Secretaría del Trabajo y Previsión Social. Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos de quienes concurran a sus sesiones, en caso de empate el Presidente tendrá voto de calidad. Para el cumplimiento de todas y cada una de las obligaciones a cargo del Organismo establecidas en esta Ley, la Junta de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de cuatro veces al año. La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley, y salvo aquellas facultades a que se contrae el artículo 58 de la Ley Federal de Entidades Paraestatales, podrá delegar discrecionalmente sus facultades en el Director General. La Junta de Gobierno tendrá las siguientes atribuciones indelegables:
 
 I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo relativas a la prestación de los servicios públicos que le corresponden en los términos de la presente Ley, sobre productividad, finanzas, investigación, desarrollo tecnológico y administración general;
 
@@ -6498,7 +6370,7 @@ F.- Los Centros de Conciliación de las Entidades Federativas y de la Ciudad de 
 
 Juntas federales de conciliación
 
-### Capítulo derogado DOF 30-11-2012
+> <small>Capítulo derogado DOF 30-11-2012</small>
 
 ###### Artículo 591.
 
@@ -6542,7 +6414,7 @@ Juntas federales de conciliación
 
 Juntas locales de conciliación
 
-### Capítulo derogado DOF 30-11-2012
+> <small>Capítulo derogado DOF 30-11-2012</small>
 
 ###### Artículo 601.
 
@@ -7042,8 +6914,6 @@ III. El lugar, fecha y hora en que deban celebrarse las convenciones.
 
 ## TÍTULO TRECE BIS
 
-## Título adicionado DOF 01-05-2019
-
 ###### Artículo 684 -
 
 A.- Las disposiciones de este Título rigen la tramitación de la instancia conciliatoria previa a la de los conflictos ante los Tribunales, salvo que tengan una tramitación especial en esta Ley.
@@ -7322,11 +7192,9 @@ En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma
 
 ###### Artículo 688.-
 
-Las autoridades administrativas están obligadas, en la esfera de sus respectivas competencias, a auxiliar a los Tribunales, si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso.
+Las autoridades administrativas están obligadas, en la esfera de sus respectivas competencias, a auxiliar a los Tribunales, si se negaren a ello, serán responsables en los términos de las Leyes aplicables al caso. Capítulo II De la Capacidad, Personalidad y Legitimación
 
-### Capítulo II
-
-### Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 30-11-2012
+> <small>Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 30-11-2012</small>
 
 ###### Artículo 689.
 
@@ -7334,9 +7202,7 @@ Son partes en el proceso del trabajo, las personas físicas o morales que acredi
 
 ###### Artículo 690.-
 
-Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por el Tribunal. Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia preliminar en el caso del procedimiento individual ordinario y de juicio en los demás casos, para manifestar por escrito lo que a su derecho convenga. El Tribunal, sin suspensión del procedimiento dictará el acuerdo respectivo, a fin de que se corra traslado al tercero interesado con los escritos de demanda y su contestación para que dentro de los diez días siguientes a la fecha en que sea notificando personalmente, presente el escrito en el que manifieste lo que a su derecho convenga; en dicho escrito además de acreditar su personalidad deberá ofrecer las pruebas que a su interés corresponda. Los terceros interesados que comparezcan o sean llamados al procedimiento ordinario previsto en el
-
-### capítulo XVII del presente Título de esta Ley, se sujetarán a lo establecido en dicho procedimiento.
+Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por el Tribunal. Los terceros interesados en un juicio podrán comparecer o ser llamados a éste hasta antes de la celebración de la audiencia preliminar en el caso del procedimiento individual ordinario y de juicio en los demás casos, para manifestar por escrito lo que a su derecho convenga. El Tribunal, sin suspensión del procedimiento dictará el acuerdo respectivo, a fin de que se corra traslado al tercero interesado con los escritos de demanda y su contestación para que dentro de los diez días siguientes a la fecha en que sea notificando personalmente, presente el escrito en el que manifieste lo que a su derecho convenga; en dicho escrito además de acreditar su personalidad deberá ofrecer las pruebas que a su interés corresponda. Los terceros interesados que comparezcan o sean llamados al procedimiento ordinario previsto en el capítulo XVII del presente Título de esta Ley, se sujetarán a lo establecido en dicho procedimiento. La parte que solicite se llame a un tercero interesado, deberá expresar el motivo y circunstancia por el cual debe llamarse a juicio y demostrar las razones por las que le atribuye tal carácter.
 
 ###### Artículo 691.-
 
@@ -7410,11 +7276,7 @@ VI. Cuando el demandado sea un sindicato, el Tribunal Federal o el Tribunal Loca
 
 ###### Artículo 701.-
 
-El Tribunal de oficio, deberá declararse incompetente en cualquier estado del proceso, hasta antes de la audiencia de juicio, cuando existan en el expediente datos que lo justifiquen. Si el Tribunal se declara incompetente, con citación de las partes, remitirá de inmediato el expediente al tribunal que estime competente; si éste al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del
-
-###### Artículo 705.
-
-Bis de esta Ley.
+El Tribunal de oficio, deberá declararse incompetente en cualquier estado del proceso, hasta antes de la audiencia de juicio, cuando existan en el expediente datos que lo justifiquen. Si el Tribunal se declara incompetente, con citación de las partes, remitirá de inmediato el expediente al tribunal que estime competente; si éste al recibir el expediente, se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 Bis de esta Ley.
 
 ###### Artículo 702.-
 
@@ -7556,9 +7418,7 @@ F.- En tanto se califica la recusación, se continuará con el procedimiento. Si
 
 ###### Artículo 709 -
 
-G.- En la recusación son admisibles todos los medios de prueba establecidos por este
-
-## Título y además la confesión del funcionario recusado.
+G.- En la recusación son admisibles todos los medios de prueba establecidos por este Título y además la confesión del funcionario recusado.
 
 ###### Artículo 709 -
 
@@ -7580,7 +7440,7 @@ Se deroga.
 
 El procedimiento no se suspenderá mientras se tramite la denuncia de impedimento. De la Actuación de los Tribunales
 
-### Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 01-05-2019
+> <small>Capítulo reubicado y denominación reformada DOF 04-01-1980. Denominación reformada DOF 01-05-2019</small>
 
 ###### Artículo 712.-
 
@@ -8196,9 +8056,7 @@ irrelevante para esclarecerlos o la dificultad de su desahogo sea motivo del ret
 
 ###### Artículo 794.-
 
-Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de ser ofrecida como prueba, las manifestaciones contenidas en las constancias y las actuaciones del juicio.
-
-#### Sección Tercera
+Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de ser ofrecida como prueba, las manifestaciones contenidas en las constancias y las actuaciones del juicio. Sección Tercera De las documentales
 
 ###### Artículo 795.-
 
@@ -8230,11 +8088,7 @@ Los interesados presentarán los originales de los documentos privados y, cuando
 
 ###### Artículo 802.-
 
-Se reputa autor de un documento privado al que lo suscribe. Se entiende por suscripción de un escrito la colocación al pie o al margen del mismo de la firma autógrafa de su autor o de su huella digital, como expresión de la voluntad de hacerlo suyo. La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el
-
-###### Artículo 33.
-
-de esta Ley.
+Se reputa autor de un documento privado al que lo suscribe. Se entiende por suscripción de un escrito la colocación al pie o al margen del mismo de la firma autógrafa de su autor o de su huella digital, como expresión de la voluntad de hacerlo suyo. La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el artículo 33 de esta Ley.
 
 ###### Artículo 803.-
 
@@ -8284,9 +8138,7 @@ Si se objeta la autenticidad de algún documento en cuanto a contenido, firma o 
 
 ###### Artículo 812.-
 
-Cuando los documentos públicos contengan declaraciones o manifestaciones hechas por particulares, sólo prueban que las mismas fueron hechas ante la autoridad que expidió el documento. Las declaraciones o manifestaciones de que se trate prueban contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas.
-
-#### Sección Cuarta
+Cuando los documentos públicos contengan declaraciones o manifestaciones hechas por particulares, sólo prueban que las mismas fueron hechas ante la autoridad que expidió el documento. Las declaraciones o manifestaciones de que se trate prueban contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas. Sección Cuarta De la Testimonial
 
 ###### Artículo 813.-
 
@@ -8366,9 +8218,7 @@ I. Fue el único que se percató de los hechos;
 
 II. La declaración no se encuentre en oposición con otras pruebas que obren en autos; y
 
-III. Concurran en el testigo circunstancias que sean garantía de veracidad.
-
-#### Sección Quinta
+III. Concurran en el testigo circunstancias que sean garantía de veracidad. Sección Quinta De la Pericial
 
 ###### Artículo 821.-
 
@@ -8406,9 +8256,7 @@ El perito que designe el Tribunal debe excusarse dentro de las cuarenta y ocho h
 
 ###### Artículo 826.
 
-Bis.- Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, el Tribunal dará vista al Ministerio Público para que determine si existe la comisión de un delito.
-
-#### Sección Sexta
+Bis.- Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, el Tribunal dará vista al Ministerio Público para que determine si existe la comisión de un delito. Sección Sexta De la Inspección
 
 ###### Artículo 827.-
 
@@ -8436,7 +8284,7 @@ a) El juez requerirá se le pongan a la vista los documentos y objetos que deben
 
 b) Las partes podrán formular las objeciones u observaciones que estimen pertinentes.
 
-#### Sección Séptima
+Sección Séptima De la Presuncional
 
 ###### Artículo 830.-
 
@@ -8456,9 +8304,7 @@ Las presunciones legales y humanas, admiten prueba en contrario.
 
 ###### Artículo 834.-
 
-Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo que se acredita con ella.
-
-#### Sección Octava
+Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo que se acredita con ella. Sección Octava De la Instrumental
 
 ###### Artículo 835.-
 
@@ -8466,11 +8312,9 @@ La instrumental es el conjunto de actuaciones y elementos que obren en el expedi
 
 ###### Artículo 836.-
 
-El Tribunal estará obligado a tomar en cuenta las actuaciones y elementos que obren en el expediente y los anexos formados con motivo del juicio.
+El Tribunal estará obligado a tomar en cuenta las actuaciones y elementos que obren en el expediente y los anexos formados con motivo del juicio. Sección Novena De los Elementos Aportados por los Avances de la Ciencia.
 
-#### Sección Novena
-
-#### Sección adicionada DOF 30-11-2012
+> <small>Sección adicionada DOF 30-11-2012</small>
 
 ###### Artículo 836 -
 
@@ -8538,13 +8382,9 @@ III. Si el documento digital o medio electrónico se encuentra en poder de la co
 
 caso de no hacerlo, se establecerá la presunción de ser ciertos los hechos que el oferente exprese, en relación con el documento digital.
 
-IV. Si el documento digital o medio electrónico se encuentra en poder de un tercero, éste tiene la obligación de ponerlo a disposición del Tribunal, bajo los apercibimientos establecidos en el
+IV. Si el documento digital o medio electrónico se encuentra en poder de un tercero, éste tiene la obligación de ponerlo a disposición del Tribunal, bajo los apercibimientos establecidos en el artículo 731 de esta Ley. Para los efectos de este artículo, se estará a lo dispuesto en la Sección Quinta del presente Capítulo, relativo a la prueba pericial.
 
-###### Artículo 731.
-
-de esta Ley. Para los efectos de este artículo, se estará a lo dispuesto en la Sección Quinta del presente
-
-### Capítulo, relativo a la prueba pericial.
+V. Las partes y los miembros del Tribunal podrán hacer al o a los peritos designados las preguntas que juzguen convenientes. Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en todo momento podrá asistirse de elementos humanos y tecnológicos necesarios para mejor proveer. De las Resoluciones Laborales
 
 ###### Artículo 837.-
 
@@ -8702,8 +8542,6 @@ Se deroga.
 
 ### CAPITULO XVI
 
-### Capítulo adicionado DOF 04-01-1980. Derogado DOF 30-11-2012
-
 ###### Artículo 865.
 
 > <small>(Se deroga). Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012</small>
@@ -8725,8 +8563,6 @@ Se deroga.
 > <small>(Se deroga). Artículo reformado DOF 04-01-1980. Derogado DOF 30-11-2012</small>
 
 ### CAPITULO XVII
-
-### Capítulo adicionado DOF 04-01-1980. Denominación del Capítulo reformada DOF 01-05-2019
 
 ###### Artículo 870.-
 
@@ -8762,11 +8598,7 @@ I. El tribunal ante el cual se promueve la demanda;
 
 II. El nombre y domicilio del actor; éste podrá solicitar que le sean notificados en el buzón electrónico que el Tribunal le asigne los subsecuentes acuerdos y resoluciones, incluyendo la sentencia que en el caso se emita;
 
-III. El nombre, denominación o razón social del demandado, así como su domicilio. Cuando el trabajador ignore el nombre del patrón o la denominación o razón social del establecimiento en el que labora o laboró, deberá aportar los datos que establece el
-
-###### Artículo 712.
-
-de esta Ley; el trabajador podrá acompañar a su demanda cualquier dato o elemento que estime conveniente para facilitar la localización del domicilio del demandado, tales como croquis de localización, fotografías del inmueble o mapa en el que se señale su ubicación exacta;
+III. El nombre, denominación o razón social del demandado, así como su domicilio. Cuando el trabajador ignore el nombre del patrón o la denominación o razón social del establecimiento en el que labora o laboró, deberá aportar los datos que establece el artículo 712 de esta Ley; el trabajador podrá acompañar a su demanda cualquier dato o elemento que estime conveniente para facilitar la localización del domicilio del demandado, tales como croquis de localización, fotografías del inmueble o mapa en el que se señale su ubicación exacta;
 
 IV. Las prestaciones que se reclamen;
 
@@ -8810,7 +8642,7 @@ D.- Las partes podrán solicitar, que se llame a juicio a terceros que puedan se
 
 El tercero podrá acudir al juicio hasta antes de la audiencia preliminar; de no hacerlo se entenderá que no tiene interés jurídico en el asunto, quedando sujeto al resultado del juicio. El tercero interesado que acuda a juicio será parte en éste, debiendo sujetarse a las formalidades del procedimiento previstas en el presente capítulo. El llamamiento a tercero interesado lo deberán hacer las partes en la demanda, contestación, reconvención o contestación a al reconvención, o bien al emitir la réplica y contrarréplica, según sea el caso; el Tribunal acordará de plano dicha solicitud, la que en caso de admitirse, ordenará se emplace al tercero interesado para que dentro de los quince días siguientes, realice sus manifestaciones por escrito, al cual deberá acompañar las pruebas que estime pertinentes conforme lo establecido en el artículo 780 de esta Ley, con copias de traslado suficientes para las partes. Audiencia Preliminar
 
-#### Sección adicionada DOF 01-05-2019
+> <small>Sección adicionada DOF 01-05-2019</small>
 
 ###### Artículo 873 -
 
@@ -8854,7 +8686,7 @@ a) Si se tratare de autoridades, el Tribunal las requerirá para que envíen los
 
 b) Si se trata de terceros, el Tribunal dictará las medidas de apremio correspondientes, hasta que se logre la presentación de las copias o documentos requeridos. Audiencia de Juicio
 
-#### Sección adicionada DOF 01-05-2019
+> <small>Sección adicionada DOF 01-05-2019</small>
 
 ###### Artículo 873 -
 
@@ -8960,8 +8792,6 @@ Se deroga.
 
 ### CAPITULO XVIII
 
-### Capítulo adicionado DOF 04-01-1980. Denominación del Capítulo reformada DOF 01-05-2019
-
 ###### Artículo 892.-
 
 Las disposiciones de este capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153-X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III, 484, 503 y 505 de esta Ley, así como los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios, la designación de beneficiarios del trabajador fallecido, con independencia de la causa del deceso, o desaparecido por un acto delincuencial, y los conflictos en materia de seguridad social.
@@ -8980,9 +8810,7 @@ partes un plazo de cinco días para formular alegatos por escrito, y vencido és
 
 ###### Artículo 895.-
 
-La audiencia de juicio se desahogará en los términos previstos para el procedimiento ordinario. En los procedimientos especiales se observarán las disposiciones de los capítulos XII y XVII de este
-
-## Título, en lo que sean aplicables.
+La audiencia de juicio se desahogará en los términos previstos para el procedimiento ordinario. En los procedimientos especiales se observarán las disposiciones de los capítulos XII y XVII de este Título, en lo que sean aplicables.
 
 ###### Artículo 896.-
 
@@ -9040,11 +8868,7 @@ II. Una vez recibidas las objeciones o transcurrido el plazo para ello, el Tribu
 
 III. El Tribunal correrá traslado a las partes con el padrón autorizado y con el acuerdo en el que se ordena el desahogo del recuento, y
 
-IV. Desahogado el recuento el Tribunal citará a las partes a la audiencia de juicio prevista en el
-
-###### Artículo 897 -
-
-C de esta Ley, la cual deberá celebrarse a más tardar en los cinco días siguientes.
+IV. Desahogado el recuento el Tribunal citará a las partes a la audiencia de juicio prevista en el artículo 897-C de esta Ley, la cual deberá celebrarse a más tardar en los cinco días siguientes.
 
 ###### Artículo 897 -
 
@@ -9058,7 +8882,7 @@ Se deroga.
 
 Se deroga. Conflictos Individuales de Seguridad Social
 
-#### Sección adicionada DOF 30-11-2012
+> <small>Sección adicionada DOF 30-11-2012</small>
 
 ###### Artículo 899 -
 
@@ -9120,9 +8944,21 @@ VIII. Pagos parciales otorgados a los asegurados.
 
 ###### Artículo 899 -
 
-E.- En el procedimiento se observará lo establecido en la sección primera de este
+E.- En el procedimiento se observará lo establecido en la sección primera de este capítulo, y en los casos en que se demanden prestaciones derivadas de riesgos de trabajo o enfermedades generales, el procedimiento se sujetará además a las siguientes reglas: Cuando lo planteado en la demanda exija la designación de peritos, deberá citarse a la audiencia preliminar, y en el auto de citación se designará al perito o peritos médicos oficiales que estime necesarios, sin perjuicio de que las partes puedan acompañarse de un asesor que los auxilie en el desahogo del interrogatorio. Los dictámenes deberán contener:
 
-### capítulo, y en los casos en que se demanden prestaciones derivadas de riesgos de trabajo o
+I. Datos de la identificación y de la acreditación de la profesión de médico de cada uno de los peritos;
+
+II. Datos de identificación del actor, precisando el documento con el que se comprobó su identidad;
+
+III. Diagnóstico sobre los padecimientos reclamados;
+
+IV. Tratándose de calificación y valuación de riesgos de trabajo, los razonamientos para determinar la relación de causa efecto entre la actividad específica desarrollada por el trabajador y el estado de incapacidad cuya calificación o valuación se determine;
+
+V. Los medios de convicción en los cuales se basan las conclusiones del peritaje, incluyendo la referencia a los estudios médicos a los que se hubiera sometido el trabajador; y
+
+VI. En su caso, el porcentaje de valuación, de disminución orgánico funcional, o la determinación del estado de invalidez. El Tribunal deberá tomar las medidas conducentes para que el o los peritos médicos oficiales designados acepten y protesten el cargo conferido dentro de los cinco días siguientes a la celebración de la audiencia preparatoria, quienes deberán señalar al Tribunal en forma justificada, los requerimientos necesarios para la emisión del dictamen pericial y, en su caso, para la determinación del nexo causal, tratándose de riesgos de trabajo. El Tribunal notificará al perito o peritos oficiales y dictará las medidas que considere pertinentes para agilizar la emisión de los dictámenes periciales y requerirá al trabajador para que se presente a la realización de los estudios médicos o diligencias que requieran el o los peritos. Dentro de los treinta días siguientes a la celebración de la audiencia preparatoria, el Tribunal señalará día y hora para la audiencia de juicio, en que se recibirán el o los dictámenes periciales con citación de
+
+las partes, con el apercibimiento que de no comparecer, se les tendrá por perdido su derecho para formular repreguntas u observaciones. Si la parte actora no acude a las diligencias ordenadas por el Tribunal, o si abandona los estudios médicos o diligencias ordenadas, se hará constar la falta de interés, a efecto de que se decrete la deserción de la prueba, salvo las causas justificadas a que se refiere el artículo 785 de esta Ley. El Tribunal deberá aplicar a los peritos las medidas de apremio que establece esta Ley, para garantizar la emisión oportuna del dictamen. Las partes en la audiencia de desahogo de la pericial médica, por sí o a través de un especialista en medicina, podrán formular las observaciones o preguntas que juzguen convenientes en relación a las consideraciones y conclusiones de la prueba pericial médica. El Tribunal podrá formular preguntas al perito o a los peritos que comparezcan a la diligencia. El Tribunal determinará si se acreditó el nexo causal entre la actividad específica desarrollada por el trabajador y el medio ambiente de trabajo señalado en el escrito de demanda, así como el origen profesional del presunto riesgo de trabajo, para calificarlo como tal. El Tribunal podrá requerir a las autoridades, instituciones públicas y organismos descentralizados, la información que posean y que contribuya al esclarecimiento de los hechos; también podrá solicitar estudios médicos de instituciones de salud públicas o privadas; practicar toda clase de consultas e inspecciones en las empresas o establecimientos en los que el trabajador haya laborado y, de ser necesario, se auxiliará con la opinión de peritos en otras materias. Las instituciones de seguridad social deberán poner a disposición de los tribunales una plataforma informática que permita el acceso a sus bases de datos con el objeto de que el tribunal esté en condiciones de esclarecer los hechos controvertidos. En la ejecución de la sentencia las partes podrán convenir las modalidades de su cumplimiento. En el desahogo de la prueba pericial médica, se estará a lo dispuesto en los artículos 822, 823, 824, 824 Bis, 825 y 826 en lo que no se oponga a lo previsto en este artículo. Reforma DOF 01-05-2019: Derogó del artículo los entonces párrafos tercero, cuarto y quinto
 
 ###### Artículo 899 -
 
@@ -9154,11 +8990,7 @@ En la tramitación de los conflictos a que se refiere este capítulo, los Tribun
 
 ###### Artículo 902.-
 
-El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante el Tribunal y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión del Tribunal. No es aplicable lo dispuesto en el párrafo anterior, cuando la huelga tenga por objeto lo señalado en el
-
-###### Artículo 450.
-
-, fracción VI.
+El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante el Tribunal y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión del Tribunal. No es aplicable lo dispuesto en el párrafo anterior, cuando la huelga tenga por objeto lo señalado en el artículo 450, fracción VI.
 
 ###### Artículo 903.-
 
@@ -9394,21 +9226,13 @@ Los trabajadores y los patrones de la empresa o establecimiento afectado, o terc
 
 En el procedimiento de declaración de inexistencia de la huelga, se observarán las
 
-I. La solicitud para que se declare la inexistencia de la huelga, se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y fundamentos legales para ello. No podrán aducirse posteriormente causas distintas de inexistencia. En caso de que en la solicitud de inexistencia se haga valer la hipótesis señalada en la fracción I del
-
-###### Artículo 459.
-
-de esta Ley, deberá ofrecerse la prueba de recuento observando lo establecido en su artículo 931;
+I. La solicitud para que se declare la inexistencia de la huelga, se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y fundamentos legales para ello. No podrán aducirse posteriormente causas distintas de inexistencia. En caso de que en la solicitud de inexistencia se haga valer la hipótesis señalada en la fracción I del artículo 459 de esta Ley, deberá ofrecerse la prueba de recuento observando lo establecido en su artículo 931;
 
 II. El Tribunal correrá traslado de la solicitud con sus anexos y oirá a las partes en una audiencia de calificación de la huelga, que será también de ofrecimiento y recepción de pruebas, la cual deberá celebrarse dentro de un término no mayor de cinco días y ser notificada con anticipación de tres días a su celebración;
 
 III. Las pruebas deberán referirse a las causas de inexistencia contenidas en la solicitud mencionada en la fracción I, y cuando la solicitud se hubiere presentado por terceros, las que además tiendan a comprobar su interés. El Tribunal aceptará únicamente las que satisfagan los requisitos señalados;
 
-IV. Las pruebas se rendirán en la audiencia de calificación de la huelga, salvo lo dispuesto en el
-
-###### Artículo 931.
-
-de esta Ley. Sólo en casos excepcionales podrá el Tribunal diferir la recepción de las pruebas que por su naturaleza no puedan desahogarse en la audiencia de calificación de la huelga, y
+IV. Las pruebas se rendirán en la audiencia de calificación de la huelga, salvo lo dispuesto en el artículo 931 de esta Ley. Sólo en casos excepcionales podrá el Tribunal diferir la recepción de las pruebas que por su naturaleza no puedan desahogarse en la audiencia de calificación de la huelga, y
 
 V. Concluida la recepción de las pruebas, el Tribunal, dentro de las veinticuatro horas siguientes, resolverá sobre la existencia o inexistencia del estado legal de la huelga.
 
@@ -9486,10 +9310,6 @@ IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fra
 
 ## TITULO QUINCE
 
-## Título reubicado y denominación reformada DOF 04-01-1980
-
-### Capítulo reubicado y denominación suprimida DOF 04-01-1980
-
 ###### Artículo 939.-
 
 Las disposiciones de este Título rigen la ejecución de las sentencias dictadas por los Tribunales. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica, y a los convenios celebrados ante los Centros de Conciliación. Cuando se trate de laudos arbitrales y convenios celebrados ante los centros de conciliación, que no hayan sido cumplidos en los términos establecidos en los mismos, los trabajadores y en su caso los patrones, acudirán al tribunal para solicitar su ejecución conforme a las disposiciones de este capítulo, dándoles el mismo tratamiento que una sentencia.
@@ -9536,11 +9356,7 @@ II. Condenará a indemnizar al trabajador con el importe de tres meses de salari
 
 III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto, de conformidad con lo dispuesto en el artículo 50, fracciones I y II; y
 
-IV. Además, condenará al pago de los salarios vencidos e intereses, en su caso, conforme a lo establecido en el artículo 48, así como al pago de la prima de antigüedad, en los términos del
-
-###### Artículo 162.
-
-Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado “A” de la Constitución.
+IV. Además, condenará al pago de los salarios vencidos e intereses, en su caso, conforme a lo establecido en el artículo 48, así como al pago de la prima de antigüedad, en los términos del artículo 162. Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado “A” de la Constitución.
 
 ###### Artículo 948.-
 
@@ -9692,9 +9508,7 @@ Bis.- El Tribunal podrá, a petición de parte, solicitar información ante las 
 
 ###### Artículo 966.
 
-Ter.- El Tribunal deberá dar vista al Instituto Mexicano del Seguro Social con la sentencia condenatoria, a fin de que dicho organismo actúe conforme a sus atribuciones haga cumplir a la parte condenada respecto de sus obligaciones en materia de seguridad social.
-
-#### Sección Tercera
+Ter.- El Tribunal deberá dar vista al Instituto Mexicano del Seguro Social con la sentencia condenatoria, a fin de que dicho organismo actúe conforme a sus atribuciones haga cumplir a la parte condenada respecto de sus obligaciones en materia de seguridad social. Sección Tercera Remates
 
 ###### Artículo 967.-
 
@@ -9872,15 +9686,9 @@ En los casos de rescisión previstos en el artículo 47, el patrón podrá acudi
 
 ###### Artículo 991.
 
-Bis.- El patrón podrá depositar ante el Tribunal la indemnización a la que se refiere el
-
-###### Artículo 49.
-
-de esta Ley, así como el pago de la prima de antigüedad prevista en el artículo 162 y demás prestaciones.
+Bis.- El patrón podrá depositar ante el Tribunal la indemnización a la que se refiere el artículo 49 de esta Ley, así como el pago de la prima de antigüedad prevista en el artículo 162 y demás prestaciones.
 
 ## TITULO DIECISEIS
-
-## Título reubicado DOF 04-01-1980
 
 ###### Artículo 992.-
 
@@ -9950,11 +9758,7 @@ A la persona empleadora que viole las normas protectoras del trabajo a domicilio
 
 A.- A la persona empleadora que viole las normas protectoras del trabajo del campo, se le impondrá multa por el equivalente a:
 
-I. De 250 a 2500 veces la Unidad de Medida y Actualización, cuando no conste por escrito el contrato de trabajo y/o no establezca los mecanismos a que se refiere el artículo 282; y no lleve o sea deficiente el registro especial de las personas trabajadoras temporales a que se refiere el
-
-###### Artículo 280.
-
-, y
+I. De 250 a 2500 veces la Unidad de Medida y Actualización, cuando no conste por escrito el contrato de trabajo y/o no establezca los mecanismos a que se refiere el artículo 282; y no lleve o sea deficiente el registro especial de las personas trabajadoras temporales a que se refiere el artículo 280, y
 
 II. De 250 a 5000 veces la Unidad de Medida y Actualización, cuando no proporcione habitaciones o estas no cuenten con las condiciones mínimas requeridas; no proporcione alimentación, agua y sanitarios; no proporcione educación; no proporcione el traslado seguro y cómodo; no proporcione servicios de guardería a que se refieren las fracciones II, IV, X, XI y XIII del artículo 283; y no observe las disposiciones protectoras de las trabajadoras a que se refiere el artículo 283 Ter.
 
@@ -10110,11 +9914,7 @@ No se exigirán los requisitos señalados en los artículos 626, fracción II; 6
 
 ###### Artículo 12.-
 
-Los juicios pendientes ante las _Juntas de Conciliación y Arbitraje continuarán tramitándose de conformidad con las disposiciones de la Ley Federal del Trabajo del 18 de agosto de 1931, entre tanto se efectúa la reorganización a que se refiere el artículo 9o. Transitorio. Efectuada la reorganización, los juicios se tramitarán de conformidad con las disposiciones de esta Ley; la Junta hará saber a las partes el momento en que la tramitación quedará sometida a los procedimientos establecidos en esta Ley. En los juicios pendientes ante las Juntas de Conciliación, se recibirán las pruebas que hubiesen ofrecido las partes y se remitirá el expediente a la Junta de Conciliación Permanente o a la de Conciliación y Arbitraje que corresponda. Las Juntas de Conciliación y Arbitraje continuarán conociendo de los negocios a que se refiere el
-
-###### Artículo 600.
-
-, fracción IV, de que ya conozcan.
+Los juicios pendientes ante las _Juntas de Conciliación y Arbitraje continuarán tramitándose de conformidad con las disposiciones de la Ley Federal del Trabajo del 18 de agosto de 1931, entre tanto se efectúa la reorganización a que se refiere el artículo 9o. Transitorio. Efectuada la reorganización, los juicios se tramitarán de conformidad con las disposiciones de esta Ley; la Junta hará saber a las partes el momento en que la tramitación quedará sometida a los procedimientos establecidos en esta Ley. En los juicios pendientes ante las Juntas de Conciliación, se recibirán las pruebas que hubiesen ofrecido las partes y se remitirá el expediente a la Junta de Conciliación Permanente o a la de Conciliación y Arbitraje que corresponda. Las Juntas de Conciliación y Arbitraje continuarán conociendo de los negocios a que se refiere el artículo 600, fracción IV, de que ya conozcan.
 
 ###### Artículo 13.-
 
@@ -10136,26 +9936,6 @@ México, D. F., 2 de diciembre de 1969. Luis L. León Uranga, S. P.- Joaquín Ga
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-###### Artículo ÚNICO.-
-
-Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
-
-###### Artículo 47.
-
-de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
-
-###### Artículo 51.
-
-de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: .......... TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998. México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del
-
-mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-
-DECRETO por el que se reforma el artículo 74 de la Ley Federal del Trabajo. Publicado en el Diario Oficial de la Federación el 17 de enero de 2006
-
-###### Artículo ÚNICO.-
-
-Se reforma el artículo 74 de la Ley Federal del Trabajo, para quedar como sigue: ..........
-
 ###### Artículo PRIMERO.-
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10172,9 +9952,13 @@ Federal del Trabajo. Publicado en el Diario Oficial de la Federación el 30 de n
 
 Se REFORMAN los artículos 2o; 3o; 4o, fracción I, inciso a); 5o, fracción VII; 25, fracciones I, II y IV; 28; 35; 43, primer párrafo, y fracción II; 47, fracciones II, VIII, y segundo, tercer y cuarto párrafos; 48; 50, fracción III; 51, fracción II; 56; 97, fracción IV; 103 Bis; 110, fracciones V y VII; 121, fracción II; 132, fracciones XVI, XVII, XVIII y XXVI; 133, primer párrafo y fracciones I y V; 134, fracción II; la denominación del Capítulo III Bis del Título Cuarto, para quedar como “De la Productividad, Formación y Capacitación de los Trabajadores”; 153-A; 153-B; 153-C; 153-D; 153-E; 153-F; 153-G; 153- H; 153-I; 153-J; 153-K; 153-L; 153-N; 153-Q; 153-S; 153-U; 153-V, primer párrafo; 154, primer párrafo; 157; 159; 168; 170, fracciones II y IV; 173; 174; 175; 176; 279, primer párrafo; 280; 282; 283, fracciones II y actuales IV, V, VI y VII; 284, fracción III; 285; 311, actual segundo párrafo; 333; 336; 337, fracción II; 353-A, fracción II; 353-S; 366, fracción III y último párrafo; 371, fracciones IX y XIII; 373; 427, fracción VI; 429, fracciones I y III; 430; 435, fracciones I y II; 439; 476; 490, fracción I; 502; 503, fracciones I, II, III y IV; 504, fracción V; 512-A; 512-B, párrafos primero y segundo; 512-C, primer párrafo; 512-D, primer párrafo; 512-F, primer párrafo; 513, primer párrafo; 514; 515; 521, fracción I; 523, fracción V; 527, fracciones I y II, numeral 2; 529, fracciones II, III y V; 532, fracción IV; 533; la denominación del Capítulo IV del Título Once, para quedar como “Del Servicio Nacional del Empleo”; 537; 538; 539, fracciones I, incisos b), c), d), e), f) y h), II, incisos a), d) y f), III, incisos b), c), d) y h); 539-A, primer y tercer párrafos; 539-B; 541, fracción VI; 546, fracciones II y V; 552, fracción IV; 555, fracción III; 556, fracción II; 560, fracción III; 604; 605, segundo párrafo; 606, primer párrafo; 607; 610, primer párrafo y actuales fracciones IV y V; 612; 614, primer párrafo y fracción I; 615, primer párrafo y fracciones II, III, IV, VI y VII; 617, primer párrafo y fracción VII; 618, fracción II; 619, fracciones I y II; 620, fracciones I, II, inciso a), párrafo tercero, y III; 624; 625, primer párrafo; 626, actuales fracciones II, III y IV; 627, actuales fracciones II, III y IV; 628, fracciones II, III, IV y V; 629; 630; 631; 632; 634; 637, fracciones I y II; 642, actual fracción IV; 643, fracciones I, III y IV; 644, primer párrafo y fracciones I y II; 645, actual fracción IV; 646; 648; 664, primer párrafo; 685, primer párrafo; 688; la denominación del Capítulo II del Título Catorce, para quedar como “De la Capacidad, Personalidad y Legitimación”; 689; 691; 692, fracciones II y IV; 693; 698, segundo párrafo; 700, fracción II, incisos a), b) y c); 701; 705, fracciones I, II y III; 711; 724; 727; 729, primer párrafo y fracción II; 731, fracción I; 734; 737; 739, segundo párrafo; 740; 742, fracción XI; 743, fracciones II y IV; 753; 763; 772; 773; 776, fracción VIII; 783; 784, fracciones V, VI, VIII, IX y XIV; 785; 786; 790, fracción III; 793; 802, segundo párrafo; 804, fracción IV y último párrafo; 808; 813, fracciones I, II, y IV; 814; 815, fracciones II, IV, VI y VII; 816; 817; 823; 824; 825, fracciones III y IV; 828; 839; 840, fracciones III, IV y VI; 841; 850; 853; 856, primer párrafo; 857, fracción II; 861, primer párrafo y fracciones II, III y IV; 863; 873; 875, primer y segundo párrafos; 876, fracciones I, II y V; 878, fracciones I, II, V, VII y VIII; 879, primer párrafo; 880, primer párrafo y fracciones II y IV; 883; 884, fracciones I, II, III y actual IV; 885, el primer párrafo; 886; 888, primer párrafo y fracción I; 891; 939; 940; 945, primer párrafo; 947, fracción IV; 949; 960; 962; 965, fracción II y último párrafo; 966, fracción II; 968; apartado A, fracciones I y III, y apartado B, fracciones I, II y III; 969, fracciones I y III; 970; 977, primer párrafo; 979, primer párrafo; 985, primer párrafo; 987; 991, primer párrafo; 992; 993; 994; 995; 996; 997; 998; 999; 1000; 1001; 1002; 1003, segundo párrafo; 1004, fracciones I, II y III; 1005, primer párrafo y 1006; se ADICIONAN los artículos 3o. Bis; 15-A; 15-B; 15-C; 15-D; 22 Bis; 28-A, 28-B; 39-A; 39-B; 39-C; 39-D; 39-E; 39-F; 42, con una fracción VIII; 42 Bis; 43, con una fracción V; 47, con una fracción XIV Bis y un penúltimo párrafo; 51, con una fracción IX, pasando la actual fracción IX a ser fracción X; 56 Bis; 83, con un segundo párrafo, pasando el anterior segundo párrafo a ser tercero; 101, con un segundo párrafo; 121, con un segundo párrafo a la fracción IV; 127, con una fracción IV Bis; 132, con las fracciones XVI Bis; XIX Bis, XXIII Bis; XXVI Bis y XXVII Bis; 133, con las fracciones XII, XIII, XIV y XV; 135, con una fracción XI; 153-F Bis; 170, con una fracción II Bis; 175 Bis; 279, con un último párrafo; 279 Bis; 279 Ter; 283, con las fracciones IV, IX, X, XI, XII y XIII; 311, con un segundo párrafo, pasando el anterior segundo párrafo a ser tercero; un Capítulo XIII Bis denominado “De los Trabajos en Minas”, al Título Sexto, que comprende los artículos 343-A, 343- B, 343-C, 343-D y 343-E; 357, con un segundo párrafo; 364 Bis, 365 Bis, 377, con un último párrafo; 391
 
-Bis; 424 Bis; 427, con una fracción VII; 429, con una fracción IV; 432, con un tercer párrafo; 475 Bis; 504, con un último párrafo a la fracción V; 512-D Bis; 512-D Ter; 512-G; 525 Bis; 527, fracción I, con un numeral 22; 530 Bis; 533 Bis; 539, con las fracciones V y VI; 539-A, con un párrafo cuarto, pasando el anterior párrafo cuarto a ser quinto; 541, con una fracción VI Bis; 605, con un tercer y cuarto párrafos; 605 Bis; 610, con una fracción II, recorriéndose las subsecuentes; 617, con las fracciones VIII y IX, pasando la actual fracción VIII a ser X; 618, con una fracción VIII, pasando la actual fracción VIII a ser IX; 623, con un primer párrafo, pasando el anterior primer párrafo a ser segundo; 626, con una fracción II, recorriéndose las subsecuentes; 627, con una fracción III, recorriéndose las subsecuentes; 627-A; 627-B; 627-C; 641-A; 642, con las fracciones IV, V y VI, pasando las actuales fracciones IV y V a ser VII y VIII; 643, con una fracción V, pasando la actual fracción V a ser VI; 645, con una fracción II, recorriéndose las subsecuentes, y un inciso d) a la actual fracción IV; 690, con un segundo párrafo; 739, con un tercer y cuarto párrafos; 771, con un segundo párrafo; 774 Bis; 784, con un último párrafo; 815, con las fracciones X y XI; 826 Bis; una Sección Novena, denominada “De los Elementos Aportados por los Avances de la Ciencia”, al Capítulo XII, del Título Catorce, que comprende los artículos 836-A, 836-B, 836-C y 836-D; 884, con una fracción IV; pasando la actual IV a ser V; 885, con un segundo párrafo; una Sección Primera, al Capítulo XVIII del Título Catorce, denominada “Conflictos Individuales de Seguridad Social”, que comprende los artículos 899-A al 899-G; 985, con una fracción III; 995 Bis; 1004-A; 1004-B y 1004-C; y se DEROGAN los artículos 153-O; 153-P; 153-R; 153-V, cuarto párrafo; 395, segundo párrafo; 512-D, segundo y tercer párrafos; 523, fracción IX; 525; 539, fracción III, incisos a) y e); los Capítulos X y XI del
+Bis; 424 Bis; 427, con una fracción VII; 429, con una fracción IV; 432, con un tercer párrafo; 475 Bis; 504, con un último párrafo a la fracción V; 512-D Bis; 512-D Ter; 512-G; 525 Bis; 527, fracción I, con un numeral 22; 530 Bis; 533 Bis; 539, con las fracciones V y VI; 539-A, con un párrafo cuarto, pasando el anterior párrafo cuarto a ser quinto; 541, con una fracción VI Bis; 605, con un tercer y cuarto párrafos; 605 Bis; 610, con una fracción II, recorriéndose las subsecuentes; 617, con las fracciones VIII y IX, pasando la actual fracción VIII a ser X; 618, con una fracción VIII, pasando la actual fracción VIII a ser IX; 623, con un primer párrafo, pasando el anterior primer párrafo a ser segundo; 626, con una fracción II, recorriéndose las subsecuentes; 627, con una fracción III, recorriéndose las subsecuentes; 627-A; 627-B; 627-C; 641-A; 642, con las fracciones IV, V y VI, pasando las actuales fracciones IV y V a ser VII y VIII; 643, con una fracción V, pasando la actual fracción V a ser VI; 645, con una fracción II, recorriéndose las subsecuentes, y un inciso d) a la actual fracción IV; 690, con un segundo párrafo; 739, con un tercer y cuarto párrafos; 771, con un segundo párrafo; 774 Bis; 784, con un último párrafo; 815, con las fracciones X y XI; 826 Bis; una Sección Novena, denominada “De los Elementos Aportados por los Avances de la Ciencia”, al Capítulo XII, del Título Catorce, que comprende los artículos 836-A, 836-B, 836-C y 836-D; 884, con una fracción IV; pasando la actual IV a ser V; 885, con un segundo párrafo; una Sección Primera, al Capítulo XVIII del Título Catorce, denominada “Conflictos Individuales de Seguridad Social”, que comprende los artículos 899-A al 899-G; 985, con una fracción III; 995 Bis; 1004-A; 1004-B y 1004-C; y se DEROGAN los artículos 153-O; 153-P; 153-R; 153-V, cuarto párrafo; 395, segundo párrafo; 512-D, segundo y tercer párrafos; 523, fracción IX; 525; 539, fracción III, incisos a) y e); los Capítulos X y XI del Título Once, que comprenden los artículos 591 al 603; 614, fracción V; 616, fracción II; 700, fracción I; 765; el Capítulo XVI del Título Catorce, que comprende los artículos 865 al 869; 876, fracción IV; 875, primer párrafo, inciso c); 877; 882; 991, segundo párrafo; 1004, último párrafo de la Ley Federal del Trabajo, para quedar como sigue: Segundo. Los patrones contarán con treinta y seis meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las instalaciones de los centros de trabajo, a fin de facilitar el acceso y desarrollo de actividades de las personas con discapacidad. Asimismo, los patrones contarán con doce meses a partir de la entrada en vigor del presente Decreto, para proceder a realizar los trámites conducentes para afiliar el centro de trabajo al Instituto del Fondo Nacional para el Consumo de los Trabajadores. Tercero. El Titular del Ejecutivo Federal, los Gobernadores de los Estados, así como el Jefe de Gobierno del Distrito Federal, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses, para adecuar los ordenamientos reglamentarios que correspondan, a las disposiciones contenidas en este Decreto. Cuarto. La Secretaría del Trabajo y Previsión Social deberá expedir las tablas de enfermedades de trabajo y de valuación de incapacidades permanentes resultantes de los riesgos de trabajo, en un término de seis meses contados a partir de la entrada en vigor del presente Decreto, en tanto se seguirán aplicando las tablas a que se refieren los artículos 513 y 514 que se reforman. Quinto. Las Entidades Federativas, en el ámbito de sus respectivas competencias, contarán con un plazo de hasta tres años para transformar las Juntas de Conciliación en Juntas de Conciliación y Arbitraje Local, a cuyo efecto deberán incluir dentro de sus presupuestos correspondientes, los recursos económicos suficientes para garantizar la implementación, funcionamiento y operación. Estos presupuestos deberán ser analizados y aprobados, en su caso, por el Poder Legislativo correspondiente.
 
-## Título Once, que comprenden los artículos 591 al 603; 614, fracción V; 616, fracción II; 700, fracción I;
+Sexto. Las Juntas Federal y Locales de Conciliación y Arbitraje deberán adoptar el servicio profesional de carrera a que se refiere el artículo 525-Bis de la Ley, acorde a su régimen jurídico a partir del día primero del mes de enero del año 2014. Séptimo. Los Presidentes de las Juntas Federal y Locales de Conciliación y Arbitraje establecerán los lineamientos para el sistema de formación, capacitación y actualización jurídica del personal de su respectiva Junta dentro de los seis meses siguientes a que entren en vigor las presentes reformas. Octavo. El Servicio Público de Conciliación deberá quedar integrado a más tardar para el ejercicio presupuestal siguiente a aquél en que entren en vigor las presentes reformas. Noveno. Los Procuradores Auxiliares de la Defensa del Trabajo que no cuenten con el título y la cédula profesionales a que se refiere el artículo 533 contarán con un término de cinco años para obtenerlo, contado a partir de que entren en vigor las presentes reformas. Los Inspectores de Trabajo que no cuenten con el certificado de educación media superior o su equivalente a que se refiere el artículo 546, fracción II, contarán con un término de tres años para obtenerlo, a partir de que entren en vigor las presentes reformas. El personal jurídico de las Juntas de Conciliación y Arbitraje que no cuente con el título y la cédula profesionales a que se refieren los artículos 626, fracción II; 627, fracción II; 627-B, fracción II; 628, fracción II y 629 contarán con un término de cinco años para obtenerlo, contado a partir de que entren en vigor las presentes reformas. Décimo. Las retribuciones a que se refiere el artículo 631 entrarán en vigor a partir del próximo Presupuesto de Egresos de la Federación y de las entidades federativas. Décimo Primero. Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas. Décimo Segundo. La supresión de las Juntas de Conciliación Permanentes surtirá efectos a los noventa días naturales posteriores a aquél en que entre en vigor el presente Decreto. Las autoridades competentes deberán realizar las acciones conducentes para que los asuntos que estuvieren en trámite, se atiendan por las Juntas de Conciliación y Arbitraje que corresponda. Las autoridades competentes deberán adoptar las medidas administrativas correspondientes respecto al personal de las Juntas de Conciliación permanentes que se extinguen. Décimo Tercero. La Junta Federal de Conciliación y Arbitraje deberá establecer el registro de peritos médicos en materia de medicina del trabajo a que se refiere el artículo 899-G de este Decreto, dentro de los treinta días siguientes a la entrada en vigor del mismo. Los peritos médicos en materia de medicina del trabajo contarán con un periodo de seis meses, a partir de que la Junta Federal de Conciliación y Arbitraje establezca el registro a que se refiere el párrafo anterior, para obtener el registro correspondiente; vencido el plazo señalado, la Junta no recibirá los peritajes que emitan peritos que carezcan de registro. Décimo Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto de egresos aprobado, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará el presupuesto regularizable.
+
+México, D.F., a 13 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+DECRETO por el que se reforman y derogan diversas disposiciones de la Ley Federal del Trabajo, en materia de trabajo de menores. Publicado en el Diario Oficial de la Federación el 12 de junio de 2015
 
 ###### Artículo Único.-
 
@@ -10196,169 +9980,15 @@ Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, d
 
 ###### Artículo PRIMERO.
 
-SE REFORMAN el párrafo primero y cuarto del artículo 3o.; el inciso a) de la fracción I del artículo 4o.; las fracciones III y VI del artículo 5o.; el segundo párrafo del artículo 22; la fracción III y V del artículo 28; el párrafo segundo del artículo 33; la fracción VI del artículo 42; los párrafos tercero y quinto del artículo 47; los párrafos primero, tercero y quinto del artículo 48; la fracción II y IV del artículo 49; el párrafo primero del artículo 57; el párrafo primero del artículo 75; el artículo 114; el párrafo segundo de la fracción IV del artículo 121; la fracción VI del artículo 127; la fracción XXVI del
+SE REFORMAN el párrafo primero y cuarto del artículo 3o.; el inciso a) de la fracción I del artículo 4o.; las fracciones III y VI del artículo 5o.; el segundo párrafo del artículo 22; la fracción III y V del artículo 28; el párrafo segundo del artículo 33; la fracción VI del artículo 42; los párrafos tercero y quinto del artículo 47; los párrafos primero, tercero y quinto del artículo 48; la fracción II y IV del artículo 49; el párrafo primero del artículo 57; el párrafo primero del artículo 75; el artículo 114; el párrafo segundo de la fracción IV del artículo 121; la fracción VI del artículo 127; la fracción XXVI del artículo 132; la fracción IV del artículo 133; el artículo 146; el artículo 152; el artículo 153; los párrafos primero y segundo del artículo 153-K; el párrafo primero del artículo 153-Q; el artículo 153-L; el artículo 153-N; el artículo 153-X; el artículo 157; el párrafo segundo del artículo 158; la fracción II del artículo 163; el artículo 164; el párrafo primero del artículo 176; el párrafo primero del artículo 207; el artículo 210; el párrafo primero del artículo 211; el artículo 245; la fracción II del artículo 273; el párrafo segundo del artículo 277; el párrafo primero del artículo 278; la fracción II del artículo 283; la denominación del capítulo XIII “Trabajadores del hogar”; el artículo 331; el párrafo primero del artículo 332; el artículo 333; el artículo 334; el artículo 336; las fracciones I y III del artículo 337; la fracción I del artículo 338; el párrafo primero del artículo 340; el artículo 342; las fracciones I y II del artículo 343-E; el artículo 353-O; el párrafo segundo del artículo 353-R; el párrafo primero del artículo 357; el párrafo primero del artículo 358; el artículo 364; el artículo 364 Bis; los párrafos primero y segundo, y las fracciones II y III del artículo 365; los párrafos primero y segundo del artículo 365 Bis; actuales párrafos primero y segundo del artículo 366, el artículo 368; los párrafos primero y segundo del artículo 369; las fracciones IX, X y XIII del artículo 371; los párrafos primero, actuales segundo, tercero, cuarto y quinto del artículo 373; el párrafo primero del artículo 374; el párrafo segundo del artículo 376; la fracción II y el párrafo segundo del artículo 377; el primer párrafo del artículo 384; los párrafos primero y segundo del artículo 387; la fracción I y III del artículo 388; el artículo 389; el párrafo primero del artículo 390; el artículo 391 Bis; artículo 392; el artículo 395; el párrafo primero del artículo 399; el párrafo segundo del artículo 399 Bis; la fracción I del artículo 401; artículo 407; artículo 408; artículo 409; el primer párrafo del artículo 411; la fracción III del artículo 412; artículo 414; las fracciones I, III, IV, V y VI inciso b) del artículo 415; el artículo 418; las fracciones II y IV del artículo 419; el párrafo segundo del artículo 419 Bis; el párrafo primero del artículo 421; las fracciones II y IV del artículo 424; el artículo 424 Bis; el párrafo primero del artículo 426; las fracciones I, II, III, y IV del artículo 429; el artículo 430; el artículo 431; el párrafo primero del artículo 432; las fracciones I, II y III del artículo 435; el artículo 439; el párrafo primero del artículo 448; el artículo 449; las fracciones II y III del artículo 451; la fracción III del artículo 459; la fracción IV del artículo 469; el artículo 476; el párrafo segundo del artículo 483; el primer párrafo del artículo 490; el artículo 493; el primer párrafo y las fracciones I, II, III y IV del artículo 501; el artículo 503; el párrafo primero de la fracción V del artículo 504; el artículo 505; el párrafo segundo del artículo 512-B; el párrafo primero del artículo 512-C; el párrafo primero del artículo 513; el párrafo segundo del artículo 514; la fracción III y el párrafo segundo del artículo 519; la fracción I del artículo 521; las fracciones X y XI del artículo 523; el artículo 525 Bis; el párrafo segundo del artículo 527; el artículo 531; los párrafos primero, segundo, tercero y cuarto del artículo 539-B; la fracción III del artículo 549; la denominación del Capítulo XII para quedar como “De la Competencia de los Tribunales”; el primer párrafo del artículo 604; el primer párrafo del artículo 605; el párrafo primero del artículo 610; la denominación del Capítulo I del Título XIII para quedar como “De los procedimientos de designación de representantes de los trabajadores y de los patrones”; el artículo 648; el artículo 650; el párrafo primero del artículo 658; las fracciones I, V y IX del artículo 660; el artículo 661; el artículo 662; el artículo 666; el artículo 667; el artículo 668; las fracciones I y II del artículo 669; el artículo 670; el artículo 677; el artículo 680; el párrafo primero y el actual segundo del artículo 685; el
 
-###### Artículo 132.
+párrafo segundo del artículo 686; el artículo 688; el artículo 690; el párrafo primero del artículo 691; la fracción I del artículo 692; el artículo 693; el artículo 694; el párrafo segundo del artículo 697; el artículo 698; el artículo 699; los incisos a), b) y c) de la fracción II y las fracciones III, IV, V y VI del artículo 700; el artículo 701; el párrafo segundo del artículo 703; el artículo 704; el artículo 706; el párrafo primero del artículo 709; la denominación del Capítulo V, “De la Actuación de los Tribunales” del Título Catorce; los párrafos primero y segundo del artículo 712; el artículo 714; el artículo 715; el artículo 717; el artículo 718; el artículo 719; el artículo 720; el artículo 721; el párrafo primero del artículo 722; el artículo 723; el artículo 724; el artículo 725; el artículo 726; el artículo 727; el artículo 728; las fracciones II y III del artículo 729; el artículo 730; el primer párrafo y la fracción I del artículo 731; el artículo 734; el artículo 737; los párrafos primero, segundo y tercero del artículo 739; las fracciones II, III, VI, VIII y XII del artículo 742; las fracciones III, V y VI, y el párrafo segundo del artículo 743; el artículo 744; el artículo 745; los párrafos primero y segundo del artículo 746; la fracción II del artículo 747; el artículo 749; el artículo 753; el artículo 757; el artículo 758; el artículo 759; el primer párrafo del artículo 760; el primer párrafo del artículo 766; la fracción II del artículo 769; el segundo párrafo del artículo 770; el primer párrafo del artículo 771; el artículo 772; el artículo 773; el artículo 774; el artículo 778; el artículo 779; el artículo 782; el artículo 783; el primer párrafo y fracción VI del artículo 784; el primer párrafo del artículo 785; el primer párrafo del artículo 786; el artículo 787; el artículo 788; el artículo 789; las fracciones I, II, III, VI y VII del artículo 790; el primer párrafo del artículo 791; el artículo 793; el artículo 795; el artículo 798; el segundo párrafo del artículo 800; el artículo 801; el artículo 803; el segundo párrafo del artículo 807; el artículo 809; las fracciones I, II, III y IV del artículo 813; el artículo 814; las fracciones I, II, IV, V, VI, VII, VIII y XI del artículo 815; el artículo 816; el artículo 817; el artículo 818; el artículo 819; el artículo 821; el artículo 822; el artículo 823; el artículo 824; las fracciones II, III y IV del artículo 825; el artículo 826; el artículo 826 Bis; el actual párrafo primero del artículo 827; el artículo 828; las fracciones I y II del artículo 829; el artículo 830; el artículo 831; el artículo 835; el artículo 836; el artículo 836-A; las fracciones I, IV, V y segundo párrafo del artículo 836-D; la fracción III del artículo 837; el artículo 838; el artículo 839; el primer párrafo y la fracción I del artículo 840; el artículo 841; el artículo 842; el artículo 843; el artículo 844; el primer párrafo del artículo 847; el artículo 848; el primer párrafo y la fracción I del artículo 857; el artículo 858; el artículo 860; las fracciones II y IV del artículo 861; el artículo 862; el segundo párrafo del artículo 863; la denominación del Capítulo XVII del Título Quince, para quedar como “Del procedimiento ordinario”; el artículo 870; el artículo 871; el artículo 872; los actuales párrafos primero y segundo del artículo 873; el artículo 874; el artículo 892; el artículo 893; el artículo 894; el párrafo primero del artículo 895; el artículo 896; el artículo 897; el párrafo segundo del artículo 899-A; los párrafos primero, segundo, sexto, séptimo, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, décimo cuarto, décimo quinto y décimo sexto del artículo 899-E; los párrafos primero y tercero del artículo 899-F; el artículo 899-G; el artículo 901; el párrafo primero del artículo 902; el artículo 905; las fracciones III, IV, VI y VII del artículo 906; el párrafo primero del artículo 907; el párrafo primero del artículo 909; el artículo 912; el artículo 913; el párrafo primero y la fracción III del artículo 916; el artículo 919; la fracción II del artículo 920; el párrafo primero del artículo 921; el artículo 922; el artículo 923; el artículo 926; las fracciones I y III del artículo 927; las fracciones III, IV y V y, el párrafo segundo del artículo 928; el artículo 929; las fracciones I, II, III, IV y V del artículo 930; la fracción V del artículo 931; el párrafo primero del artículo 932; el artículo 934; el artículo 935; el artículo 936; el artículo 937; las fracciones I, II, III y IV del artículo 938; el párrafo primero del artículo 939; el artículo 940; el artículo 941; el artículo 942; el artículo 943; el artículo 944; los párrafos primero y actual segundo del artículo 945; el artículo 946; el párrafo primero del artículo 947; el artículo 948; el artículo 949; el artículo 950; el artículo 955; el artículo 956; el artículo 957; el artículo 958; el artículo 962; las fracciones I, V, VI y VII del artículo 963; las fracciones II y III del artículo 964; el párrafo segundo del artículo 965; las fracciones II y III del artículo 966; el párrafo segundo del artículo 967; las fracciones I y III del apartado A, las fracciones I y III del apartado B y el párrafo segundo del artículo 968; la fracción I del artículo 969; el artículo 970; las fracciones I, II, III, IV y VI del artículo 971; el artículo 972; el artículo 974; los incisos a) y c) de la fracción II del artículo 975; el párrafo primero y las fracciones I, II y V del artículo 977; el artículo 978; el párrafo primero del artículo 979; las fracciones I, II y III del artículo 980; el párrafo primero del artículo 981; el artículo 982; el artículo 983; el artículo 984; el párrafo primero del artículo 985; el artículo 986; los párrafos primero y tercero del artículo 987; el artículo 988; el artículo 989; el artículo 990; el artículo 991; los párrafos primero y segundo
 
-; la fracción IV del artículo 133; el artículo 146; el artículo 152; el artículo 153; los párrafos primero y segundo del artículo 153-K; el párrafo primero del artículo 153-Q; el artículo 153-L; el artículo 153-N; el artículo 153-X; el artículo 157; el párrafo segundo del artículo 158; la fracción II del artículo 163; el artículo 164; el párrafo primero del artículo 176; el párrafo primero del artículo 207; el artículo 210; el párrafo primero del artículo 211; el artículo 245; la fracción II del artículo 273; el párrafo segundo del
+del artículo 992; el artículo 993; las fracciones I, II, III, IV, V, VI y VII del artículo 994; el artículo 995; el artículo 995 Bis; las fracciones I y II del artículo 996; el artículo 997; el artículo 998; el artículo 999; el artículo 1000; el artículo 1001; el artículo 1002; el artículo 1003; el artículo 1004; el artículo 1004-A; el artículo 1004-B; el artículo 1004-C; el párrafo primero del artículo 1005; el artículo 1006 y el artículo 1008; SE ADICIONAN el artículo 3o. Ter; las fracciones XIV y XV del artículo 5o.; la fracción X del artículo 25; el párrafo tercero del artículo 33; el párrafo séptimo del artículo 48; el artículo 48 Bis; los párrafos segundo y tercero del artículo 49; los párrafos tercero y cuarto del artículo 101; el párrafo segundo a la fracción V del artículo 110; las fracciones XXX, XXXI, XXXII y XXXIII del artículo 132; las fracciones XVII y XVIII del artículo 133; las fracciones XII, XIII, XIV y XV, y un párrafo tercero del artículo 153-K; el párrafo segundo del artículo 183; el artículo 245 Bis; el artículo 279 Quáter; el artículo 280 Bis; la fracción XIV del artículo 283; la fracción IV del artículo 337; la fracción III y el segundo párrafo del artículo 343-E; los párrafos segundo y tercero, y se recorre el párrafo segundo al párrafo cuarto del artículo 357, del artículo 357 Bis; las fracciones I, II, III y IV del artículo 358; el párrafo segundo del artículo 360; el párrafo segundo del artículo 364; los párrafos segundo y tercero del artículo 364 Bis; la fracción VIII y los párrafos cuarto y sexto, y se recorre el párrafo cuarto al párrafo quinto, del artículo 365 Bis; el párrafo segundo, y se recorren los párrafos segundo y tercero, para quedar como párrafos tercero y cuarto, del artículo 366; la fracción III del artículo 369; las fracciones IX Bis, IX Ter y XIV Bis del artículo 371; el artículo 371 Bis; los párrafos segundo y tercero, recorriéndose la numeración de los anteriores párrafos del segundo al cuarto para quedar como cuarto, quinto, sexto, y séptimo, el párrafo octavo, recorriéndose el último párrafo para quedar como número nueve del artículo 373; las fracciones IV y V el artículo 374; las fracciones III, IV, V, VI, VII y VIII y el segundo párrafo del artículo 378; el artículo 386 Bis; el párrafo tercero del artículo 387; el párrafo segundo del artículo 388; el párrafo tercero con los incisos a), b), c) y
 
-###### Artículo 277.
+d) y el párrafo cuarto del artículo 390; el artículo 390 Bis; el artículo 390 Ter; el párrafo segundo, tercero y cuarto del artículo 391, el artículo 399 Ter; el artículo 400 Bis; el segundo y tercero párrafo del artículo 416; la fracción V del artículo 419; el párrafo tercero y cuarto del artículo 518; la fracción III del artículo 521; las fracciones II Bis y II Ter del artículo 523; el párrafo tercero del artículo 527; las fracciones IV y V del artículo 530; las fracciones V Bis y VI Ter del artículo 541; el capítulo IX Bis denominado “Del Centro Federal de Conciliación y Registro Laboral”; que comprende el artículo 590-A; el artículo 590-B; el artículo 590-C; el artículo 590-D; el capítulo IX Ter denominado “De los Centros de Conciliación de las entidades federativas y de la Ciudad de México”; que comprende el artículo 590-E; el artículo 590-F; el párrafo segundo del artículo 604; el Título Trece Bis; el Capítulo I, denominado “Del procedimiento de conciliación prejudicial”; el artículo 684-A; el artículo 684-B; el artículo 684-C; el artículo 684-D; el artículo 684-E; el Capítulo II denominado “De los conciliadores”; el artículo 684-F; el artículo 684-G; el artículo 684-H; el artículo 684-I; el artículo 684-J; el Capítulo III denominado “Del procedimiento para la selección de conciliadores”; el artículo 684-K; el artículo 684-L; el artículo 684-M; el artículo 684-N; el artículo 684- O; el artículo 684-P; el artículo 684-Q; el artículo 684-R; el artículo 684-S; el artículo 684-T; el artículo 684-U; el párrafo segundo, y se recorre el párrafo segundo al párrafo tercero, del artículo 685; el artículo 685 Bis; el artículo 685 Ter; los párrafos tercero y cuarto del artículo 690; el artículo 705 Bis; el artículo 706 Bis; el artículo 707 Bis; el artículo 707 Ter; el artículo 709-A; el artículo 709-B; el artículo 709-C; el artículo 709-D; el artículo 709-E; el artículo 709-F; el artículo 709-G; el artículo 709-H; el artículo 709-I; el artículo 709-J; los párrafos tercero, cuarto y quinto del artículo 712; el artículo 712 Bis; el artículo 712 Ter; los párrafos segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo del artículo 720; los párrafos segundo y tercero del artículo 721; el párrafo segundo del artículo 726; los párrafos cuarto, quinto y séptimo, recorriendo el párrafo cuarto al sexto, del artículo 739; el artículo 739 Bis; el artículo 739 Ter; la fracción XIII del artículo 742; el artículo 742 Bis; el artículo 742 Ter; los párrafos tercero y cuarto del artículo 743; el tercer párrafo del artículo 744; el artículo 744 Bis; el artículo 745 Bis; el artículo 745 Ter; las fracciones III y IV y el segundo párrafo del artículo 747; el segundo párrafo del artículo 753; los párrafos tercero y cuarto, se recorre el párrafo tercero al párrafo quinto del artículo 763; el artículo 763 Bis; las fracciones IX y X del artículo 776; el segundo párrafo del artículo 778; el segundo párrafo del artículo 782; el segundo párrafo del artículo 783; los párrafos segundo y tercero de la fracción VI del artículo 784; los párrafos segundo y tercero, y se recorre el segundo párrafo al cuarto del artículo 785; los párrafos segundo y tercero con cuatro incisos del artículo 787; el segundo párrafo del artículo 788; el artículo 790 Bis; los párrafos segundo y tercero de la fracción
 
-; el párrafo primero del artículo 278; la fracción II del artículo 283; la denominación del
-
-### capítulo XIII “Trabajadores del hogar”; el artículo 331; el párrafo primero del artículo 332; el artículo 333;
-
-###### Artículo 374.
-
-; el párrafo segundo del artículo 376; la fracción II y el párrafo segundo del artículo 377; el primer párrafo del artículo 384; los párrafos primero y segundo del artículo 387; la fracción I y III del
-
-###### Artículo 388.
-
-; el artículo 389; el párrafo primero del artículo 390; el artículo 391 Bis; artículo 392; el artículo 395; el párrafo primero del artículo 399; el párrafo segundo del artículo 399 Bis; la fracción I del artículo 401; artículo 407; artículo 408; artículo 409; el primer párrafo del artículo 411; la fracción III del artículo 412; artículo 414; las fracciones I, III, IV, V y VI inciso b) del artículo 415; el artículo 418; las fracciones II y IV del artículo 419; el párrafo segundo del artículo 419 Bis; el párrafo primero del artículo 421; las fracciones II y IV del artículo 424; el artículo 424 Bis; el párrafo primero del artículo 426; las fracciones I, II, III, y IV del artículo 429; el artículo 430; el artículo 431; el párrafo primero del artículo 432; las fracciones I, II y III del artículo 435; el artículo 439; el párrafo primero del artículo 448; el artículo 449; las fracciones II y III del artículo 451; la fracción III del artículo 459; la fracción IV del artículo 469; el artículo 476; el párrafo segundo del artículo 483; el primer párrafo del artículo 490; el artículo 493; el primer párrafo y las fracciones I, II, III y IV del artículo 501; el artículo 503; el párrafo primero de la fracción V del
-
-###### Artículo 504.
-
-; el artículo 505; el párrafo segundo del artículo 512-B; el párrafo primero del artículo 512-C; el párrafo primero del artículo 513; el párrafo segundo del artículo 514; la fracción III y el párrafo segundo del artículo 519; la fracción I del artículo 521; las fracciones X y XI del artículo 523; el artículo 525 Bis; el párrafo segundo del artículo 527; el artículo 531; los párrafos primero, segundo, tercero y cuarto del
-
-###### Artículo 539 -
-
-B; la fracción III del artículo 549; la denominación del Capítulo XII para quedar como “De la Competencia de los Tribunales”; el primer párrafo del artículo 604; el primer párrafo del artículo 605; el párrafo primero del artículo 610; la denominación del Capítulo I del Título XIII para quedar como “De los procedimientos de designación de representantes de los trabajadores y de los patrones”; el artículo 648; el artículo 650; el párrafo primero del artículo 658; las fracciones I, V y IX del artículo 660; el artículo 661; el artículo 662; el artículo 666; el artículo 667; el artículo 668; las fracciones I y II del artículo 669; el
-
-###### Artículo 670.
-
-; el artículo 677; el artículo 680; el párrafo primero y el actual segundo del artículo 685; el
-
-párrafo segundo del artículo 686; el artículo 688; el artículo 690; el párrafo primero del artículo 691; la fracción I del artículo 692; el artículo 693; el artículo 694; el párrafo segundo del artículo 697; el artículo 698; el artículo 699; los incisos a), b) y c) de la fracción II y las fracciones III, IV, V y VI del artículo 700; el
-
-###### Artículo 701.
-
-; el párrafo segundo del artículo 703; el artículo 704; el artículo 706; el párrafo primero del
-
-###### Artículo 709.
-
-; la denominación del Capítulo V, “De la Actuación de los Tribunales” del Título Catorce; los párrafos primero y segundo del artículo 712; el artículo 714; el artículo 715; el artículo 717; el artículo 718; el artículo 719; el artículo 720; el artículo 721; el párrafo primero del artículo 722; el artículo 723; el
-
-###### Artículo 724.
-
-; el artículo 725; el artículo 726; el artículo 727; el artículo 728; las fracciones II y III del
-
-###### Artículo 729.
-
-; el artículo 730; el primer párrafo y la fracción I del artículo 731; el artículo 734; el artículo 737; los párrafos primero, segundo y tercero del artículo 739; las fracciones II, III, VI, VIII y XII del artículo 742; las fracciones III, V y VI, y el párrafo segundo del artículo 743; el artículo 744; el artículo 745; los párrafos primero y segundo del artículo 746; la fracción II del artículo 747; el artículo 749; el artículo 753; el artículo 757; el artículo 758; el artículo 759; el primer párrafo del artículo 760; el primer párrafo del
-
-###### Artículo 766.
-
-; la fracción II del artículo 769; el segundo párrafo del artículo 770; el primer párrafo del
-
-###### Artículo 771.
-
-; el artículo 772; el artículo 773; el artículo 774; el artículo 778; el artículo 779; el artículo 782; el artículo 783; el primer párrafo y fracción VI del artículo 784; el primer párrafo del artículo 785; el primer párrafo del artículo 786; el artículo 787; el artículo 788; el artículo 789; las fracciones I, II, III, VI y VII del
-
-###### Artículo 790.
-
-; el primer párrafo del artículo 791; el artículo 793; el artículo 795; el artículo 798; el segundo párrafo del artículo 800; el artículo 801; el artículo 803; el segundo párrafo del artículo 807; el artículo 809; las fracciones I, II, III y IV del artículo 813; el artículo 814; las fracciones I, II, IV, V, VI, VII, VIII y XI del artículo 815; el artículo 816; el artículo 817; el artículo 818; el artículo 819; el artículo 821; el artículo 822; el artículo 823; el artículo 824; las fracciones II, III y IV del artículo 825; el artículo 826; el artículo 826 Bis; el actual párrafo primero del artículo 827; el artículo 828; las fracciones I y II del artículo 829; el
-
-###### Artículo 830.
-
-; el artículo 831; el artículo 835; el artículo 836; el artículo 836-A; las fracciones I, IV, V y segundo párrafo del artículo 836-D; la fracción III del artículo 837; el artículo 838; el artículo 839; el primer párrafo y la fracción I del artículo 840; el artículo 841; el artículo 842; el artículo 843; el artículo 844; el primer párrafo del artículo 847; el artículo 848; el primer párrafo y la fracción I del artículo 857; el artículo 858; el artículo 860; las fracciones II y IV del artículo 861; el artículo 862; el segundo párrafo del artículo 863; la denominación del Capítulo XVII del Título Quince, para quedar como “Del procedimiento ordinario”; el artículo 870; el artículo 871; el artículo 872; los actuales párrafos primero y segundo del
-
-###### Artículo 873.
-
-; el artículo 874; el artículo 892; el artículo 893; el artículo 894; el párrafo primero del artículo 895; el artículo 896; el artículo 897; el párrafo segundo del artículo 899-A; los párrafos primero, segundo, sexto, séptimo, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, décimo cuarto, décimo quinto y décimo sexto del artículo 899-E; los párrafos primero y tercero del artículo 899-F; el artículo 899-G; el artículo 901; el párrafo primero del artículo 902; el artículo 905; las fracciones III, IV, VI y VII del artículo 906; el párrafo primero del artículo 907; el párrafo primero del artículo 909; el artículo 912; el artículo 913; el párrafo primero y la fracción III del artículo 916; el artículo 919; la fracción II del
-
-###### Artículo 920.
-
-; el párrafo primero del artículo 921; el artículo 922; el artículo 923; el artículo 926; las fracciones I y III del artículo 927; las fracciones III, IV y V y, el párrafo segundo del artículo 928; el artículo 929; las fracciones I, II, III, IV y V del artículo 930; la fracción V del artículo 931; el párrafo primero del
-
-###### Artículo 932.
-
-; el artículo 934; el artículo 935; el artículo 936; el artículo 937; las fracciones I, II, III y IV del
-
-###### Artículo 938.
-
-; el párrafo primero del artículo 939; el artículo 940; el artículo 941; el artículo 942; el artículo 943; el artículo 944; los párrafos primero y actual segundo del artículo 945; el artículo 946; el párrafo primero del artículo 947; el artículo 948; el artículo 949; el artículo 950; el artículo 955; el artículo 956; el
-
-###### Artículo 957.
-
-; el artículo 958; el artículo 962; las fracciones I, V, VI y VII del artículo 963; las fracciones II y III del artículo 964; el párrafo segundo del artículo 965; las fracciones II y III del artículo 966; el párrafo segundo del artículo 967; las fracciones I y III del apartado A, las fracciones I y III del apartado B y el párrafo segundo del artículo 968; la fracción I del artículo 969; el artículo 970; las fracciones I, II, III, IV y VI del artículo 971; el artículo 972; el artículo 974; los incisos a) y c) de la fracción II del artículo 975; el párrafo primero y las fracciones I, II y V del artículo 977; el artículo 978; el párrafo primero del artículo 979; las fracciones I, II y III del artículo 980; el párrafo primero del artículo 981; el artículo 982; el artículo 983; el artículo 984; el párrafo primero del artículo 985; el artículo 986; los párrafos primero y tercero del
-
-###### Artículo 987.
-
-; el artículo 988; el artículo 989; el artículo 990; el artículo 991; los párrafos primero y segundo
-
-del artículo 992; el artículo 993; las fracciones I, II, III, IV, V, VI y VII del artículo 994; el artículo 995; el
-
-###### Artículo 995.
-
-Bis; las fracciones I y II del artículo 996; el artículo 997; el artículo 998; el artículo 999; el
-
-###### Artículo 1000.
-
-; el artículo 1001; el artículo 1002; el artículo 1003; el artículo 1004; el artículo 1004-A; el
-
-###### Artículo 1004 -
-
-B; el artículo 1004-C; el párrafo primero del artículo 1005; el artículo 1006 y el artículo 1008; SE ADICIONAN el artículo 3o. Ter; las fracciones XIV y XV del artículo 5o.; la fracción X del artículo 25; el párrafo tercero del artículo 33; el párrafo séptimo del artículo 48; el artículo 48 Bis; los párrafos segundo y tercero del artículo 49; los párrafos tercero y cuarto del artículo 101; el párrafo segundo a la fracción V del artículo 110; las fracciones XXX, XXXI, XXXII y XXXIII del artículo 132; las fracciones XVII y XVIII del artículo 133; las fracciones XII, XIII, XIV y XV, y un párrafo tercero del artículo 153-K; el párrafo segundo del artículo 183; el artículo 245 Bis; el artículo 279 Quáter; el artículo 280 Bis; la fracción XIV del artículo 283; la fracción IV del artículo 337; la fracción III y el segundo párrafo del artículo 343-E; los párrafos segundo y tercero, y se recorre el párrafo segundo al párrafo cuarto del artículo 357, del
-
-###### Artículo 357.
-
-Bis; las fracciones I, II, III y IV del artículo 358; el párrafo segundo del artículo 360; el párrafo segundo del artículo 364; los párrafos segundo y tercero del artículo 364 Bis; la fracción VIII y los párrafos cuarto y sexto, y se recorre el párrafo cuarto al párrafo quinto, del artículo 365 Bis; el párrafo segundo, y se recorren los párrafos segundo y tercero, para quedar como párrafos tercero y cuarto, del artículo 366; la fracción III del artículo 369; las fracciones IX Bis, IX Ter y XIV Bis del artículo 371; el artículo 371 Bis; los párrafos segundo y tercero, recorriéndose la numeración de los anteriores párrafos del segundo al cuarto para quedar como cuarto, quinto, sexto, y séptimo, el párrafo octavo, recorriéndose el último párrafo para quedar como número nueve del artículo 373; las fracciones IV y V el artículo 374; las fracciones III, IV, V, VI, VII y VIII y el segundo párrafo del artículo 378; el artículo 386 Bis; el párrafo tercero del artículo 387; el párrafo segundo del artículo 388; el párrafo tercero con los incisos a), b), c) y
-
-d) y el párrafo cuarto del artículo 390; el artículo 390 Bis; el artículo 390 Ter; el párrafo segundo, tercero y cuarto del artículo 391, el artículo 399 Ter; el artículo 400 Bis; el segundo y tercero párrafo del artículo 416; la fracción V del artículo 419; el párrafo tercero y cuarto del artículo 518; la fracción III del artículo 521; las fracciones II Bis y II Ter del artículo 523; el párrafo tercero del artículo 527; las fracciones IV y V del artículo 530; las fracciones V Bis y VI Ter del artículo 541; el capítulo IX Bis denominado “Del Centro Federal de Conciliación y Registro Laboral”; que comprende el artículo 590-A; el artículo 590-B; el artículo 590-C; el artículo 590-D; el capítulo IX Ter denominado “De los Centros de Conciliación de las entidades federativas y de la Ciudad de México”; que comprende el artículo 590-E; el artículo 590-F; el párrafo segundo del artículo 604; el Título Trece Bis; el Capítulo I, denominado “Del procedimiento de conciliación prejudicial”; el artículo 684-A; el artículo 684-B; el artículo 684-C; el artículo 684-D; el artículo 684-E; el Capítulo II denominado “De los conciliadores”; el artículo 684-F; el artículo 684-G; el artículo 684-H; el artículo 684-I; el artículo 684-J; el Capítulo III denominado “Del procedimiento para la selección de conciliadores”; el artículo 684-K; el artículo 684-L; el artículo 684-M; el artículo 684-N; el artículo 684- O; el artículo 684-P; el artículo 684-Q; el artículo 684-R; el artículo 684-S; el artículo 684-T; el artículo 684-U; el párrafo segundo, y se recorre el párrafo segundo al párrafo tercero, del artículo 685; el artículo 685 Bis; el artículo 685 Ter; los párrafos tercero y cuarto del artículo 690; el artículo 705 Bis; el artículo 706 Bis; el artículo 707 Bis; el artículo 707 Ter; el artículo 709-A; el artículo 709-B; el artículo 709-C; el
-
-###### Artículo 709 -
-
-D; el artículo 709-E; el artículo 709-F; el artículo 709-G; el artículo 709-H; el artículo 709-I; el
-
-###### Artículo 709 -
-
-J; los párrafos tercero, cuarto y quinto del artículo 712; el artículo 712 Bis; el artículo 712 Ter; los párrafos segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo del artículo 720; los párrafos segundo y tercero del artículo 721; el párrafo segundo del
-
-###### Artículo 726.
-
-; los párrafos cuarto, quinto y séptimo, recorriendo el párrafo cuarto al sexto, del artículo 739; el artículo 739 Bis; el artículo 739 Ter; la fracción XIII del artículo 742; el artículo 742 Bis; el artículo 742 Ter; los párrafos tercero y cuarto del artículo 743; el tercer párrafo del artículo 744; el artículo 744 Bis; el
-
-###### Artículo 745.
-
-Bis; el artículo 745 Ter; las fracciones III y IV y el segundo párrafo del artículo 747; el segundo párrafo del artículo 753; los párrafos tercero y cuarto, se recorre el párrafo tercero al párrafo quinto del artículo 763; el artículo 763 Bis; las fracciones IX y X del artículo 776; el segundo párrafo del
-
-###### Artículo 778.
-
-; el segundo párrafo del artículo 782; el segundo párrafo del artículo 783; los párrafos segundo y tercero de la fracción VI del artículo 784; los párrafos segundo y tercero, y se recorre el segundo párrafo al cuarto del artículo 785; los párrafos segundo y tercero con cuatro incisos del artículo 787; el segundo párrafo del artículo 788; el artículo 790 Bis; los párrafos segundo y tercero de la fracción
-
-III y el primer párrafo, y se recorre el primer párrafo al segundo, del artículo 813; los párrafos segundo, tercero y cuarto de la fracción V, las fracciones XII y XIII y el segundo párrafo del artículo 815; el segundo párrafo del artículo 824; el artículo 824 Bis; el segundo párrafo del artículo 827; tres incisos a la fracción I, y dos incisos a la fracción II del artículo 829; el inciso q) del artículo 836-B; el tercer párrafo de la fracción I del artículo 836-D; las fracciones III y IV del artículo 857; los párrafos segundo, tercero y cuarto del
-
-###### Artículo 858.
-
-; el segundo párrafo del artículo 870; el artículo 870 Bis; los párrafos segundo con seis incisos y tercero del artículo 871; los apartados A con siete fracciones y el apartado B con tres fracciones del
-
-###### Artículo 872.
-
-; los párrafos segundo, cuarto, quinto y sexto, y se recorre el párrafo segundo para quedar como párrafo tercero, del artículo 873; el artículo 873-A; el artículo 873-B; el artículo 873-C; el artículo 873-D; el artículo 873-E; el artículo 873-F; el artículo 873-G; el artículo 873-H; el artículo 873-I; el artículo 873-J; el artículo 873-K; los párrafos segundo, tercero y cuarto del 893; los párrafos segundo y tercero del 894; el párrafo segundo del artículo 895; el artículo 897-A; el artículo 897-B; el artículo 897-C; el artículo 897-D; el artículo 897-E; el artículo 897-F; el artículo 897-G; los párrafos décimo tercero y décimo quinto del artículo 899-E; los párrafos segundo, tercero, cuarto, quinto, sexto, séptimo y octavo del artículo 905; las fracciones IV, V y VI del artículo 920; el párrafo tercero del artículo 921; el artículo 921 Bis; la fracción V del artículo 927; las fracciones VI, VII, VIII, IX, X, XI y XII del artículo 931; el párrafo segundo del
-
-###### Artículo 939.
-
-; los párrafos segundo y tercero, recorriendo el párrafo segundo al cuarto, del artículo 945; el párrafo segundo del artículo 949; las fracciones IV y V del artículo 964; el artículo 966 Bis; el artículo 966 Ter; el artículo 991 Bis; la fracción VIII del artículo 994 y el párrafo segundo y tercero del artículo 1005; SE DEROGAN el artículo 353-S; el artículo 353-T; el artículo 367; las fracciones I y II del artículo 421; la fracción XII del artículo 523; el artículo 530 Bis; la fracción V del artículo 541; los párrafos segundo, tercero y cuarto del artículo 605; el artículo 605 Bis; el artículo 606; el artículo 607; el artículo 608; el
-
-###### Artículo 609.
-
-; las fracciones I, II, III, IV, V y VI del artículo 610; el artículo 611; el artículo 612; el artículo 613; el artículo 614; el artículo 615; el artículo 616; el artículo 617; el artículo 618; el artículo 619; el
-
-###### Artículo 620.
-
-; el artículo 621; el artículo 622; el artículo 623; el artículo 624; el artículo 625; el artículo 626; el artículo 627; el artículo 627-A; el artículo 627-B; el artículo 627-C; el artículo 628; el artículo 629; el
-
-###### Artículo 630.
-
-; el artículo 631; el artículo 632; el artículo 633; el artículo 634; el artículo 635; el artículo 636; el artículo 637; el artículo 638; el artículo 639; el artículo 640; el artículo 641; el artículo 642; el artículo 643; el artículo 644; el artículo 645; el artículo 646; el artículo 647; el artículo 649; el artículo 651; el
-
-###### Artículo 656.
-
-; el artículo 659; el artículo 663; el artículo 664; el artículo 665; el artículo 671; el artículo 672; el artículo 673; el artículo 674; el artículo 675; el artículo 705; el artículo 707; el artículo 708; las fracciones I, II, III y IV del artículo 709; el artículo 710; la fracción IV del artículo 743; las fracciones IV y V del artículo 790; el segundo párrafo del artículo 791; las fracciones IX y X del artículo 815; las fracciones I y V del artículo 825; las fracciones III y IV del artículo 829; el artículo 845; el artículo 846; el segundo párrafo del artículo 847; el artículo 849; el artículo 850; el artículo 851; el artículo 852; el artículo 853; el
-
-###### Artículo 854.
-
-; el artículo 855; el artículo 856; el artículo 864; el artículo 875; el artículo 876; el artículo 878; el artículo 879; el artículo 880; el artículo 881; el artículo 883; el artículo 884; el artículo 885; el artículo 886; el artículo 887; el artículo 888; el artículo 889; el artículo 890; el artículo 891; las fracciones I, II, III y IV del artículo 895; el artículo 898; el artículo 899; el párrafo tercero del artículo 899-A; los párrafos tercero, cuarto y quinto del artículo 899-E, recorriéndose la numeración de los párrafos subsecuentes; la fracción VIII del artículo 906; el artículo 908; el artículo 915; el artículo 917; el artículo 918; la fracción I del artículo 928; la fracción VI del artículo 930 y la fracción I del artículo 931, de la Ley Federal del Trabajo, para quedar como sigue: Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario
+III y el primer párrafo, y se recorre el primer párrafo al segundo, del artículo 813; los párrafos segundo, tercero y cuarto de la fracción V, las fracciones XII y XIII y el segundo párrafo del artículo 815; el segundo párrafo del artículo 824; el artículo 824 Bis; el segundo párrafo del artículo 827; tres incisos a la fracción I, y dos incisos a la fracción II del artículo 829; el inciso q) del artículo 836-B; el tercer párrafo de la fracción I del artículo 836-D; las fracciones III y IV del artículo 857; los párrafos segundo, tercero y cuarto del artículo 858; el segundo párrafo del artículo 870; el artículo 870 Bis; los párrafos segundo con seis incisos y tercero del artículo 871; los apartados A con siete fracciones y el apartado B con tres fracciones del artículo 872; los párrafos segundo, cuarto, quinto y sexto, y se recorre el párrafo segundo para quedar como párrafo tercero, del artículo 873; el artículo 873-A; el artículo 873-B; el artículo 873-C; el artículo 873-D; el artículo 873-E; el artículo 873-F; el artículo 873-G; el artículo 873-H; el artículo 873-I; el artículo 873-J; el artículo 873-K; los párrafos segundo, tercero y cuarto del 893; los párrafos segundo y tercero del 894; el párrafo segundo del artículo 895; el artículo 897-A; el artículo 897-B; el artículo 897-C; el artículo 897-D; el artículo 897-E; el artículo 897-F; el artículo 897-G; los párrafos décimo tercero y décimo quinto del artículo 899-E; los párrafos segundo, tercero, cuarto, quinto, sexto, séptimo y octavo del artículo 905; las fracciones IV, V y VI del artículo 920; el párrafo tercero del artículo 921; el artículo 921 Bis; la fracción V del artículo 927; las fracciones VI, VII, VIII, IX, X, XI y XII del artículo 931; el párrafo segundo del artículo 939; los párrafos segundo y tercero, recorriendo el párrafo segundo al cuarto, del artículo 945; el párrafo segundo del artículo 949; las fracciones IV y V del artículo 964; el artículo 966 Bis; el artículo 966 Ter; el artículo 991 Bis; la fracción VIII del artículo 994 y el párrafo segundo y tercero del artículo 1005; SE DEROGAN el artículo 353-S; el artículo 353-T; el artículo 367; las fracciones I y II del artículo 421; la fracción XII del artículo 523; el artículo 530 Bis; la fracción V del artículo 541; los párrafos segundo, tercero y cuarto del artículo 605; el artículo 605 Bis; el artículo 606; el artículo 607; el artículo 608; el artículo 609; las fracciones I, II, III, IV, V y VI del artículo 610; el artículo 611; el artículo 612; el artículo 613; el artículo 614; el artículo 615; el artículo 616; el artículo 617; el artículo 618; el artículo 619; el artículo 620; el artículo 621; el artículo 622; el artículo 623; el artículo 624; el artículo 625; el artículo 626; el artículo 627; el artículo 627-A; el artículo 627-B; el artículo 627-C; el artículo 628; el artículo 629; el artículo 630; el artículo 631; el artículo 632; el artículo 633; el artículo 634; el artículo 635; el artículo 636; el artículo 637; el artículo 638; el artículo 639; el artículo 640; el artículo 641; el artículo 642; el artículo 643; el artículo 644; el artículo 645; el artículo 646; el artículo 647; el artículo 649; el artículo 651; el artículo 656; el artículo 659; el artículo 663; el artículo 664; el artículo 665; el artículo 671; el artículo 672; el artículo 673; el artículo 674; el artículo 675; el artículo 705; el artículo 707; el artículo 708; las fracciones I, II, III y IV del artículo 709; el artículo 710; la fracción IV del artículo 743; las fracciones IV y V del artículo 790; el segundo párrafo del artículo 791; las fracciones IX y X del artículo 815; las fracciones I y V del artículo 825; las fracciones III y IV del artículo 829; el artículo 845; el artículo 846; el segundo párrafo del artículo 847; el artículo 849; el artículo 850; el artículo 851; el artículo 852; el artículo 853; el artículo 854; el artículo 855; el artículo 856; el artículo 864; el artículo 875; el artículo 876; el artículo 878; el artículo 879; el artículo 880; el artículo 881; el artículo 883; el artículo 884; el artículo 885; el artículo 886; el artículo 887; el artículo 888; el artículo 889; el artículo 890; el artículo 891; las fracciones I, II, III y IV del artículo 895; el artículo 898; el artículo 899; el párrafo tercero del artículo 899-A; los párrafos tercero, cuarto y quinto del artículo 899-E, recorriéndose la numeración de los párrafos subsecuentes; la fracción VIII del artículo 906; el artículo 908; el artículo 915; el artículo 917; el artículo 918; la fracción I del artículo 928; la fracción VI del artículo 930 y la fracción I del artículo 931, de la Ley Federal del Trabajo, para quedar como sigue: Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario
 
 Segundo. Plazo para expedir Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días Centro Federal de Conciliación y Registro Laboral. Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente Decreto, atendiendo a las posibilidades presupuestales. Al día siguiente en que se suspenda el servicio de registro de las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y en su caso los Poderes Ejecutivos de las Entidades Federativas, iniciará operaciones el Centro Federal de Conciliación y Registro Laboral. Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas de Conciliación y Arbitraje, al igual que la Secretaría del Trabajo y Previsión Social continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de la entrada en vigor del presente Decreto. Cuarto. Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro Federal de Conciliación y Registro Laboral una relación completa de todos los expedientes y registros en su poder, con soporte electrónico de cada registro o expediente, con una anticipación mínima de seis meses al inicio de sus funciones. Para efecto de lo anterior, dichas autoridades establecerán y difundirán las fechas en que suspenderán sus funciones registrales e iniciarán las del Centro Federal referido, garantizando que no se afecten los derechos de los interesados. El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción. Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades a más tardar el 3 de octubre de 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centros de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
 
@@ -10408,11 +10038,7 @@ X. Interpretar las disposiciones del presente artículo y su alcance jurídico, 
 
 XI. Las demás que se requieran para el cumplimiento de su objeto. El Consejo contará con una Secretaría Técnica, sectorizado a la Secretaría del Trabajo y Previsión Social, la cual deberá operar y ejecutar los acuerdos y determinaciones que tome el Consejo, así como coadyuvar y brindar el apoyo que requieran las autoridades e instancias correspondientes para la implementación del Sistema de Justicia Laboral. Dicha Secretaría Técnica estará a cargo de un servidor público con nivel de Titular de Unidad, nombrado y, en su caso, removido por la persona titular de la Secretaría de Trabajo y Previsión Social. Dentro de los cuarenta y cinco días posteriores a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social emitirá los lineamientos de operación y la convocatoria para la primera sesión de este Consejo. Décimo Octavo. Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de Conciliación y Arbitraje. Décimo Noveno. Disposiciones para la conclusión de conflictos de seguridad social. Los institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se refiere el presente Decreto. Vigésimo. Protección de derechos de los Trabajadores. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes Vigésimo Primero. Implementación de Tecnologías de la Información. Los Tribunales, así como los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales. Vigésimo Segundo. Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390 Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos en los artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
 
-Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el
-
-###### Artículo 371.
-
-de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley. Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las respectiva Legislatura Local haga la declaratoria correspondiente. Lo anterior deberá publicarse en los medios de difusión oficial correspondientes. Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley. Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes. Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán concentrarse en dicha plataforma para consulta inmediata del Tribunal que lo requiera. Las instituciones de seguridad social y los Poderes Judiciales federales y locales suscribirán los acuerdos de colaboración necesarios para la adecuada operación de la plataforma, así como para la protección de los datos personales que concentre. La información contenida en la plataforma deberá estar actualizada y debidamente registrada por cada institución de seguridad social. La plataforma deberá entrar en operación en un plazo no mayor a dos años posteriores a la entrada en vigor del presente Decreto, por lo que las instituciones de seguridad social deberán tomar las medidas apropiadas para su instrumentación en el plazo requerido. Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones. Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente. Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley. Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las respectiva Legislatura Local haga la declaratoria correspondiente. Lo anterior deberá publicarse en los medios de difusión oficial correspondientes. Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley. Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes. Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán concentrarse en dicha plataforma para consulta inmediata del Tribunal que lo requiera. Las instituciones de seguridad social y los Poderes Judiciales federales y locales suscribirán los acuerdos de colaboración necesarios para la adecuada operación de la plataforma, así como para la protección de los datos personales que concentre. La información contenida en la plataforma deberá estar actualizada y debidamente registrada por cada institución de seguridad social. La plataforma deberá entrar en operación en un plazo no mayor a dos años posteriores a la entrada en vigor del presente Decreto, por lo que las instituciones de seguridad social deberán tomar las medidas apropiadas para su instrumentación en el plazo requerido. Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones. Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente. Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
 
 Ciudad de México, a 29 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Alatorre, Secretaria.- Rúbricas.” Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2019.- Andrés Manuel
 
@@ -10466,11 +10092,7 @@ Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 7
 
 > <small>Párrafo reformado DOF 31-07-2021</small>
 
-Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social. Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del
-
-###### Artículo 15.
-
-A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social. Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
 
 > <small>Artículo reformado DOF 31-07-2021</small>
 

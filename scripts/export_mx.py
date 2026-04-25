@@ -38,10 +38,11 @@ def main() -> int:
     rendered = 0
     for json_file in sorted(json_dir.glob("*.json")):
         norm = load_norma_from_json(json_file)
+        target_date = norm.metadata.last_modified or norm.metadata.publication_date
         markdown = render_norm_at_date(
             norm.metadata,
             norm.blocks,
-            norm.metadata.publication_date,
+            target_date,
             include_all=True,
         )
         md_path = out_dir / f"{norm.metadata.identifier}.md"

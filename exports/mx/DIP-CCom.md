@@ -4,7 +4,7 @@ identifier: "DIP-CCom"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1889-10-07"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf"
 department: "Cámara de Diputados"
@@ -260,9 +260,9 @@ Los particulares podrán consultar las bases de datos y, en su caso, solicitar l
 
 ###### Artículo 30.
 
-bis.- La Secretaría podrá autorizar el acceso a la base de datos del Registro Público de Comercio a personas que así lo soliciten y cumplan con los requisitos para ello, en los términos de este
+bis.- La Secretaría podrá autorizar el acceso a la base de datos del Registro Público de Comercio a personas que así lo soliciten y cumplan con los requisitos para ello, en los términos de este Capítulo, el reglamento respectivo y los lineamientos que emita la Secretaría, sin que dicha autorización implique en ningún caso inscribir o modificar los asientos registrales. La Secretaría expedirá los certificados digitales que utilicen las personas autorizadas para firmar electrónicamente la información relacionada con el Registro Público de Comercio y demás usuarios; asimismo, podrá reconocer para el mismo fin certificados digitales expedidos por otras autoridades certificadoras siempre y cuando, a su juicio, presenten el mismo grado de confiabilidad y cumplan con las medidas de seguridad que al efecto establezca la Secretaría.
 
-### Capítulo, el reglamento respectivo y los lineamientos que emita la Secretaría, sin que dicha autorización
+> <small>Párrafo reformado DOF 27-08-2009</small>
 
 ###### Artículo 30.
 
@@ -291,8 +291,6 @@ La rectificación de los asientos en la base de datos por causa de error materia
 bis.- Cuando se trate de errores de concepto, los asientos practicados en los folios del Registro Público de Comercio sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento. A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial. El concepto rectificado surtirá efectos desde la fecha de su rectificación. El procedimiento para efectuar la rectificación en la base de datos lo determinará la Secretaría en los lineamientos que al efecto emitan.
 
 #### SECCIÓN ÚNICA
-
-#### Sección adicionada DOF 27-08-2009
 
 ###### Artículo 32.
 
@@ -476,7 +474,7 @@ Bis. Las publicaciones que deban realizarse conforme a las leyes mercantiles se 
 
 De los Corredores
 
-## Título derogado DOF 29-12-1992
+> <small>Título derogado DOF 29-12-1992</small>
 
 ###### Artículo 51.-
 
@@ -660,11 +658,9 @@ Si en el contrato no se determinaren con toda precisión la especie y calidad de
 
 En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra. Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo “Del Comercio Electrónico”. En consecuencia, se suprimió la referencia al Capítulo I “De las diferentes clases de sociedades mercantiles” (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo “De las Sociedades de Comercio”. DEL COMERCIO ELECTRONICO
 
-## Título derogado DOF 04-08-1934. Adicionado y reestructurado con denominación reformada DOF 29-05-2000
+> <small>Título derogado DOF 04-08-1934. Adicionado y reestructurado con denominación reformada DOF 29-05-2000</small>
 
 ### CAPÍTULO I
-
-### Capítulo adicionado DOF 29-08-2003
 
 ###### Artículo 89.-
 
@@ -740,11 +736,9 @@ b) No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, e
 
 IV. Cuando en el acuse de recibo se indique que el Mensaje de Datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
 
-V. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el
+V. Cuando se acuerde el uso de comunicaciones electrónicas certificadas, éstas deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
 
-###### Artículo 49.
-
-> <small>del Código de Comercio. Fracción adicionada DOF 02-05-2017</small>
+> <small>Fracción adicionada DOF 02-05-2017</small>
 
 ###### Artículo 93.-
 
@@ -778,8 +772,6 @@ Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, 
 
 ### CAPÍTULO I BIS
 
-### Capítulo adicionado DOF 07-04-2016
-
 ###### Artículo 95.
 
 bis 1.- Para el caso de los servicios de digitalización se estará a lo siguiente: a. En todo caso, los documentos podrán ser digitalizados en el formato que determine el comerciante. b. Una vez concluida la digitalización del documento, deberá acompañarse al mismo, así como a cada uno de los anexos que en su caso se generen, la firma electrónica avanzada del comerciante, y del prestador de servicios de certificación que ejecutó las actividades de digitalización, en caso de que así haya sido. c. Cuando un prestador de servicios de certificación realice la digitalización de un documento, habrá presunción legal sobre el adecuado cumplimiento de las disposiciones legales y normativas relativas a dicho proceso, salvo prueba en contrario. d. La información que en virtud de acuerdos contractuales quede en poder de un prestador de servicios de certificación, se regirá por lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. e. En todo caso, el prestador de servicios de certificación que ejecutó las actividades de digitalización deberá mantener la confidencialidad de la información, salvo por mandato judicial.
@@ -810,7 +802,7 @@ I. Expedir y revocar las acreditaciones como Prestadores de Servicios de Certifi
 
 II. Podrá verificar en cualquier tiempo el adecuado desarrollo de las operaciones de los prestadores de servicios de certificación. DE LAS FIRMAS
 
-### Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
+> <small>Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003</small>
 
 ###### Artículo 96.-
 
@@ -844,7 +836,7 @@ III. Cuando se emplee un Certificado en relación con una Firma Electrónica, ac
 
 IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el Destinatario conociere de la inseguridad de la Firma Electrónica o no hubiere actuado con la debida diligencia. DE LOS PRESTADORES DE SERVICIOS DE CERTIFICACIÓN
 
-### Capítulo derogado DOF 04-08-1934. Adicionado con denominación reformada DOF 29-08-2003
+> <small>Capítulo derogado DOF 04-08-1934. Adicionado con denominación reformada DOF 29-08-2003</small>
 
 ###### Artículo 100.-
 
@@ -1028,7 +1020,7 @@ Las autoridades competentes harán uso de las medidas legales necesarias, incluy
 
 En el caso de que un Prestador de Servicios de Certificación sea suspendido, inhabilitado o cancelado en su ejercicio, el registro y los Certificados que haya expedido pasarán, para su administración, a otro Prestador de Servicios de Certificación, que para tal efecto señale la Secretaría mediante reglas generales. RECONOCIMIENTO DE CERTIFICADOS Y FIRMAS ELECTRÓNICAS EXTRANJEROS
 
-### Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
+> <small>Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003</small>
 
 ###### Artículo 114.-
 
@@ -1530,7 +1522,7 @@ II. El lugar en que se encuentre el establecimiento del Prestador de Servicios d
 
 (Se deroga). De las Sociedades Cooperativas
 
-### Capítulo derogado DOF 30-05-1933
+> <small>Capítulo derogado DOF 30-05-1933</small>
 
 ###### Artículo 238.-
 
@@ -2166,7 +2158,7 @@ La cesión producirá sus efectos legales con respecto al deudor, desde que le s
 
 Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan solo de la legitimidad del crédito y de la personalidad con que hizo la cesión. De la Consignación Mercantil.
 
-### Capítulo adicionado DOF 05-06-2000
+> <small>Capítulo adicionado DOF 05-06-2000</small>
 
 ###### Artículo 392.-
 
@@ -2184,11 +2176,7 @@ III. Las partes contratantes podrán pactar una retribución para el consignatar
 
 En caso de que el bien consignado sea vendido y habiéndose pactado una retribución para el consignatario ésta no se haya determinado, se estará a aquella que generalmente se fije en este tipo de contratos en la plaza respectiva, tomando en cuenta las características del bien consignado, su valor de mercado y los gastos erogados por el consignatario para su conservación.
 
-IV. Una vez verificada la venta del bien dado en consignación, el consignatorio tendrá dos días hábiles para entregar la ganancia pactada al consignante, salvo pacto en contrario. En caso de que el consignatorio retenga el bien o el producto obtenido de la venta de manera injustificada, salvo pacto en contrario, además de estar obligado a restituir el bien o pagar el producto obtenido de la venta, éste deberá pagar al consignante un tres por ciento del valor de mercado del bien consignado por cada mes o fracción que dure la retención respectiva, en cuyo caso los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán trasmitidos al consignatario. A fin de poder exigir la restitución del bien consignado o el pago del producto obtenido de la venta del mismo, en caso de que las partes hayan celebrado el contrato respectivo por escrito, el mismo traerá aparejada ejecución en términos de los establecido en la fracción VIII, del
-
-###### Artículo 1391.
-
-de este Código.
+IV. Una vez verificada la venta del bien dado en consignación, el consignatorio tendrá dos días hábiles para entregar la ganancia pactada al consignante, salvo pacto en contrario. En caso de que el consignatorio retenga el bien o el producto obtenido de la venta de manera injustificada, salvo pacto en contrario, además de estar obligado a restituir el bien o pagar el producto obtenido de la venta, éste deberá pagar al consignante un tres por ciento del valor de mercado del bien consignado por cada mes o fracción que dure la retención respectiva, en cuyo caso los riesgos derivados de la pérdida o deterioro por caso fortuito o fuerza mayor se entenderán trasmitidos al consignatario. A fin de poder exigir la restitución del bien consignado o el pago del producto obtenido de la venta del mismo, en caso de que las partes hayan celebrado el contrato respectivo por escrito, el mismo traerá aparejada ejecución en términos de los establecido en la fracción VIII, del artículo 1391 de este Código.
 
 V. En caso de que los bienes consignados no hayan sido vendidos, el consignante no podrá disponer de ellos en tanto no se verifique el término establecido en el contrato para la venta de los mismos.
 
@@ -2211,8 +2199,6 @@ IV. El mutuo consentimiento; y,
 V. Incumplimiento de las obligaciones de alguna de las partes.
 
 ## TITULO SEPTIMO
-
-## Título derogado DOF 31-08-1935
 
 ###### Artículo 395.-
 
@@ -3036,9 +3022,7 @@ El consignatario tiene derecho: I.- A que mientras sea tenedor de la carta de po
 
 ###### Artículo 597.-
 
-En las empresas de transporte se observarán las condiciones que registren los reglamentos y anuncios que circulen al público, en lo que no se oponga a las reglas establecidas en este
-
-### capítulo.
+En las empresas de transporte se observarán las condiciones que registren los reglamentos y anuncios que circulen al público, en lo que no se oponga a las reglas establecidas en este capítulo.
 
 ###### Artículo 598.-
 
@@ -3224,8 +3208,6 @@ El papel, billetes de banco y títulos de deuda extranjeros, no pueden ser objet
 
 ## TITULO DECIMO CUARTO
 
-## Título derogado DOF 10-01-2014
-
 ###### Artículo 640.-
 
 > <small>Se deroga Artículo reformado DOF 09-04-2012. Derogado DOF 10-01-2014</small>
@@ -3233,8 +3215,6 @@ El papel, billetes de banco y títulos de deuda extranjeros, no pueden ser objet
 Nota: De conformidad con la fracción III del artículo Tercero Transitorio de la Ley de Navegación, publicada en el DOF 04-01-1994, se establece que se derogan “los artículos (…) 641 a 944 (…) del Código de Comercio”, que conforman el Libro Tercero de este Código. Sin embargo, los artículos del Libro Tercero ya habían sido previamente derogados conforme lo establecido en el artículo 2o. Transitorio de la Ley de Navegación y Comercio Marítimo, publicada en el DOF 21-11-1963.
 
 ## LIBRO TERCERO
-
-## Libro derogado DOF 21-11-1963
 
 ###### Artículo 641.-
 
@@ -4460,8 +4440,6 @@ De los Naufragios
 
 ## LIBRO CUARTO
 
-## Título derogado DOF 20-04-1943
-
 ###### Artículo 945.-
 
 (Se deroga).
@@ -4910,9 +4888,9 @@ Para su validez, la escritura pública, póliza o convenio judicial a que se ref
 
 ###### Artículo 1054.
 
-En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este
+En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
-## Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y
+> <small>Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008, 14-11-2025</small>
 
 ###### Artículo 1055.-
 
@@ -5866,11 +5844,7 @@ No obstan a lo dispuesto en el artículo anterior las reglas que se establecen p
 
 ###### Artículo 1203.-
 
-Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el
-
-###### Artículo 1198.
-
-de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
+Al día siguiente en que termine el período del ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. En ningún caso se admitirán pruebas contra del derecho o la moral; que se hayan ofrecido extemporáneamente, sobre hechos no controvertidos o ajenos a la litis; sobre hechos imposibles o notoriamente inverosímiles, o bien que no reúnan los requisitos establecidos en el artículo 1198 de este Código. Contra el auto que admita alguna prueba que contravenga las prohibiciones señaladas anteriormente o que no reúna los requisitos del artículo 1198, procede la apelación en efecto devolutivo de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal. En el mismo efecto devolutivo y de tramitación conjunta con dicha sentencia, será apelable la determinación en que se deseche cualquier prueba que ofrezcan las partes o terceros llamados a juicio, a los que siempre se les considerará como partes en el mismo.
 
 ###### Artículo 1204.-
 
@@ -5944,9 +5918,7 @@ Si el que debe absolver las posiciones no estuviere en el lugar del juicio, el j
 
 ###### Artículo 1220.-
 
-El juez exhortado practicará todas las diligencias que correspondan conforme a este
-
-### capítulo, pero no podrá declarar confeso a ninguno de los litigantes, salvo que el juez exhortante lo
+El juez exhortado practicará todas las diligencias que correspondan conforme a este capítulo, pero no podrá declarar confeso a ninguno de los litigantes, salvo que el juez exhortante lo autorice para que haga esa declaración de confeso o en los casos que así lo permite la ley.
 
 ###### Artículo 1221.-
 
@@ -6046,9 +6018,7 @@ Los documentos privados y la correspondencia procedentes de uno de los interesad
 
 ###### Artículo 1242.-
 
-Los documentos privados se presentarán en originales, y cuando formen parte de un
-
-## libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
+Los documentos privados se presentarán en originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
 ###### Artículo 1243.-
 
@@ -6636,11 +6606,9 @@ Para estos efectos, se basará en la variación observada en el valor del Índic
 
 Las sentencias que fueren recurribles, conforme al primer párrafo de este artículo, lo serán por la apelación que se admita en ambos efectos, salvo cuando la Ley expresamente determine que lo sean sólo en el devolutivo.
 
-Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo. El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley. La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva. Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el
+Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo. El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley. La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva. Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.
 
-###### Artículo 1344.
-
-> <small>de este Código. Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008</small>
+> <small>Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008</small>
 
 ###### Artículo 1339.
 
@@ -6667,8 +6635,6 @@ Las apelaciones se admitirán o denegarán de plano, y se sustanciarán con un s
 La sentencia de segunda instancia causará ejecutoria cuando la misma no pueda ser recurrida por ningún otro medio ordinario o extraordinario de impugnación, cualquiera que sea el interés que en el litigio se verse.
 
 ### CAPÍTULO XXVI
-
-### Capítulo derogado DOF 04-01-1989. Adicionado con de nominación reformada DOF 24-05-1996
 
 ###### Artículo 1344.
 
@@ -6752,9 +6718,7 @@ bis 7. En el caso de que el apelante omitiera expresar agravios, al interponer e
 
 bis 8.- De los autos y de las sentencias interlocutorias de tramitación inmediata, de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señala los motivos por los que se considera el daño irreparable o de difícil reparación.
 
-Con vista a lo solicitado el juez deberá resolver, y si la admite en ambos efectos señalará el monto de la garantía que exhibirá el apelante dentro del término de seis días para que surta efectos la suspensión. La garantía debe atender a la importancia del negocio y no podrá ser inferior a seis mil pesos; y será fijada al prudente arbitrio del juez, cantidad que se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, o aquel que lo sustituya. Si no se exhibe la garantía en el plazo señalado, la apelación sólo se admitirá en efecto devolutivo. En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el
-
-### Capítulo XXIV de este Código.
+Con vista a lo solicitado el juez deberá resolver, y si la admite en ambos efectos señalará el monto de la garantía que exhibirá el apelante dentro del término de seis días para que surta efectos la suspensión. La garantía debe atender a la importancia del negocio y no podrá ser inferior a seis mil pesos; y será fijada al prudente arbitrio del juez, cantidad que se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, o aquel que lo sustituya. Si no se exhibe la garantía en el plazo señalado, la apelación sólo se admitirá en efecto devolutivo. En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el Capítulo XXIV de este Código.
 
 ### CAPITULO XXVII
 
@@ -7010,8 +6974,6 @@ Dentro de los quince días siguientes a la citación para sentencia, se pronunci
 
 ## TÍTULO ESPECIAL
 
-## Título adicionado DOF 27-01-2011
-
 ### CAPÍTULO I
 
 ###### Artículo 1390.
@@ -7132,11 +7094,7 @@ Bis 20.- Desahogada la vista de la contestación a la demanda y, en su caso, de 
 
 ###### Artículo 1390.
 
-Bis 21.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el párrafo tercero del
-
-###### Artículo 1069.
-
-de este Código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
+Bis 21.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el párrafo tercero del artículo 1069 de este Código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
 
 ###### Artículo 1390.
 
@@ -7182,11 +7140,7 @@ Bis 29.- Se podrá solicitar copia simple o certificada de las actas o copia en 
 
 ###### Artículo 1390.
 
-Bis 30.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del
-
-###### Artículo 1390.
-
-Bis 28. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+Bis 30.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del artículo 1390 Bis 28. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
 
 ###### Artículo 1390.
 
@@ -7332,15 +7286,11 @@ III. Los que no haya sido posible adquirir con anterioridad por causas que no se
 
 ###### Artículo 1390.
 
-Bis 50.- La ejecución de los convenios celebrados ante los Jueces de Proceso Oral y de las resoluciones dictadas por éstos, se hará en términos del Capítulo XXVII, del Título primero, del
+Bis 50.- La ejecución de los convenios celebrados ante los Jueces de Proceso Oral y de las resoluciones dictadas por éstos, se hará en términos del Capítulo XXVII, del Título primero, del Libro Quinto de este Código.
 
-## Libro Quinto de este Código.
+> <small>Artículo adicionado DOF 09-01-2012</small>
 
 ## TÍTULO ESPECIAL BIS
-
-## Título adicionado DOF 25-01-2017
-
-### Capítulo I
 
 ###### Artículo 1390.
 
@@ -7388,15 +7338,11 @@ Ter 10.- Las audiencias se desarrollarán conforme a las reglas generales previs
 
 ###### Artículo 1390.
 
-Ter 11.- La audiencia preliminar se sustanciará conforme a las reglas previstas en la
-
-#### Sección Tercera, del Capítulo II, del Título Especial de este Código.
+Ter 11.- La audiencia preliminar se sustanciará conforme a las reglas previstas en la Sección Tercera, del Capítulo II, del Título Especial de este Código.
 
 ###### Artículo 1390.
 
-Ter 12.- La audiencia de juicio se sustanciará conforme a las reglas previstas en la
-
-#### Sección Cuarta, del Capítulo II, del Título Especial de este Código.
+Ter 12.- La audiencia de juicio se sustanciará conforme a las reglas previstas en la Sección Cuarta, del Capítulo II, del Título Especial de este Código.
 
 ###### Artículo 1390.
 
@@ -7404,9 +7350,7 @@ Ter 13.- Los incidentes se tramitarán conforme a las reglas previstas en el Cap
 
 ###### Artículo 1390.
 
-Ter 14.- El desahogo de las pruebas se hará conforme a las reglas previstas en el
-
-### Capítulo IV del Título Especial de este Código, salvo lo relativo a la reconvención que es incompatible con
+Ter 14.- El desahogo de las pruebas se hará conforme a las reglas previstas en el Capítulo IV del Título Especial de este Código, salvo lo relativo a la reconvención que es incompatible con este juicio.
 
 ### CAPÍTULO V
 
@@ -7562,9 +7506,9 @@ En la audiencia en la que se desahogue la última de las pruebas, el tribunal di
 
 ###### Artículo 1407.
 
-bis. Para la tramitación de apelaciones, respecto del Juicio a que se refiere este
+bis. Para la tramitación de apelaciones, respecto del Juicio a que se refiere este capítulo, se estará a las reglas generales que prevé este Código.
 
-### capítulo, se estará a las reglas generales que prevé este Código.
+> <small>Artículo adicionado DOF 17-04-2008. Reformado (y se suprimen las fracciones I a V) DOF 30-12-2008</small>
 
 ###### Artículo 1408.-
 
@@ -7618,10 +7562,6 @@ Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercant
 
 ## TITULO TERCERO BIS
 
-## Título adicionado DOF 23-05-2000
-
-### Capítulo adicionado DOF 23-05-2000
-
 ###### Artículo 1414.
 
 bis.- Se tramitará en esta vía el pago de los créditos vencidos y la obtención de la posesión de los bienes objeto de las garantías otorgadas mediante prenda sin transmisión de posesión o fideicomiso de garantía, siempre que no existan controversias en cuanto a la exigibilidad del crédito, la cantidad reclamada y la entrega de la posesión de los bienes mencionados. Para efectos de lo anterior, el valor de los bienes podrá determinarse por cualquiera de los siguientes procedimientos:
@@ -7664,15 +7604,13 @@ bis 5.- En caso de que el fiduciario o el acreedor prendario, según corresponda
 
 bis 6.- No será necesario agotar el procedimiento a que se refieren los artículos anteriores, para iniciar el procedimiento de ejecución previsto en el Capítulo siguiente. Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
 
-### Capítulo adicionado DOF 23-05-2000
+> <small>Capítulo adicionado DOF 23-05-2000</small>
 
 ###### Artículo 1414.
 
-bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el
+bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión, o bien, mediante fideicomiso de garantía en que no se hubiere convenido el procedimiento previsto en el artículo 403 de la Ley General de Títulos y Operaciones de Crédito.
 
-###### Artículo 403.
-
-> <small>de la Ley General de Títulos y Operaciones de Crédito. Párrafo reformado DOF 13-06-2003</small>
+> <small>Párrafo reformado DOF 13-06-2003</small>
 
 Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, es requisito indispensable que el mencionado crédito conste en documento público o escrito privado, según corresponda, en términos de la Ley General de Títulos y Operaciones de Crédito y que sea exigible en los términos pactados o conforme con las disposiciones legales aplicables.
 
@@ -7730,11 +7668,7 @@ bis 16.- El juez debe presidir la audiencia, ordenar el desahogo de las pruebas 
 
 ###### Artículo 1414.
 
-bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el
-
-###### Artículo 1414.
-
-bis, se estará a lo siguiente:
+bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
 
 I. Cuando el valor de los bienes sea igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción. En este caso, el actor, podrá disponer libremente de los bienes objeto de la garantía;
 
@@ -7744,9 +7678,11 @@ Se exceptúa de lo dispuesto en el párrafo anterior, a los créditos a la vivie
 
 III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte actora, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al demandado el remanente que corresponda por la venta de los bienes. La venta a elección del actor se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
 
-a) Se notificará personalmente al demandado, conforme a lo señalado en el Libro Quinto,
+a) Se notificará personalmente al demandado, conforme a lo señalado en el Libro Quinto, Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
 
-### Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta
+b) Se publicará en un periódico de la localidad en que se encuentren los bienes por lo menos con cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de la venta, determinado conforme al artículo 1414 bis. En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el actor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refieren las fracciones I o II de este artículo. El demandado que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa, y
+
+c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el actor procederá a entregar el remanente que corresponda al demandado en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor de la parte demandada a través del fedatario.
 
 ###### Artículo 1414.
 
@@ -7760,11 +7696,11 @@ bis 19.- El actor, en tanto no realice la entrega al demandado del remanente de 
 
 ###### Artículo 1414.
 
-bis 20.- En los procedimientos que se ventilen conforme a lo señalado en este
+bis 20.- En los procedimientos que se ventilen conforme a lo señalado en este Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso podrá suspenderse el procedimiento, salvo lo previsto en el último párrafo del artículo 1414 bis 10. En todo lo no previsto en este Capítulo serán aplicables las disposiciones contenidas en el Título III del Libro V, de este Código. Nota: Por Decreto DOF 04-01-1989 se adicionó un nuevo Título Cuarto entonces denominado “Del Procedimiento Arbitral” con los artículos 1415 al 1437. En consecuencia, se suprimieron las referencias a los Capítulos I "Disposiciones generales, II "Del aseguramiento de bienes", III "De la rectificación de créditos", IV "De la liquidación judicial", V "Del abandono de activo", VI "Del concurso necesario", VII "De la administración de la quiebra", VIII "De la graduación" y IX "De la segunda instancia", que formaban parte del anterior Título Cuarto “Del Procedimiento Especial en las Quiebras”, el cual fue previamente derogado en su totalidad con los capítulos y artículos que lo integraban mediante Ley DOF 20-04-1943. DEL ARBITRAJE COMERCIAL
 
-### Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto
+> <small>Título derogado DOF 20-04-1943. Título adicionado y reestructurado DOF 04-01-1989. Denominación reformada DOF 22-07-1993</small>
 
-## Título derogado DOF 20-04-1943. Título adicionado y reestructurado DOF 04-01-1989. Denominación reformada DOF 22-07-1993
+DISPOSICIONES GENERALES
 
 ###### Artículo 1415.-
 
@@ -7816,9 +7752,7 @@ El acuerdo de arbitraje deberá constar por escrito, y consignarse en documento 
 
 El juez al que se someta un litigio sobre un asunto que sea objeto de un acuerdo de arbitraje, remitirá a las partes al arbitraje en el momento en que lo solicite cualquiera de ellas, a menos que se compruebe que dicho acuerdo es nulo, ineficaz o de ejecución imposible. Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá no obstante, iniciar o proseguir las actuaciones arbitrales y dictar un laudo mientras la cuestión esté pendiente ante el juez. Sin menoscabo de lo que establece el primer párrafo de este artículo, cuando un residente en el extranjero se hubiese sujetado expresamente al arbitraje e intentara un litigio individual o colectivo, el juez remitirá a las partes al arbitraje. Si el juez negase el reconocimiento del laudo arbitral en los términos del
 
-###### Artículo 1462.
-
-de este Código, quedarán a salvo los derechos de la parte actora para promover la acción procedente.
+artículo 1462 de este Código, quedarán a salvo los derechos de la parte actora para promover la acción procedente.
 
 > <small>Artículo derogado DOF 20-04-1943. Adicionado DOF 04-01-1989. Reformado DOF 22-07-1993, 06-06-2011</small>
 
@@ -7896,11 +7830,7 @@ Salvo acuerdo en contrario de las partes, el tribunal arbitral decidirá si han 
 
 ###### Artículo 1441.-
 
-Salvo acuerdo en contrario de las partes, cuando, sin invocar causa justificada: I.- El actor no presente su demanda con arreglo al primer párrafo del artículo 1439, el tribunal arbitral dará por terminadas las actuaciones. II.- El demandado no presente su contestación con arreglo a lo dispuesto en el primer párrafo del
-
-###### Artículo 1439.
-
-, el tribunal arbitral continuará las actuaciones, sin que esa omisión se considere por sí misma como una aceptación de lo alegado por el actor, y III.- Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
+Salvo acuerdo en contrario de las partes, cuando, sin invocar causa justificada: I.- El actor no presente su demanda con arreglo al primer párrafo del artículo 1439, el tribunal arbitral dará por terminadas las actuaciones. II.- El demandado no presente su contestación con arreglo a lo dispuesto en el primer párrafo del artículo 1439, el tribunal arbitral continuará las actuaciones, sin que esa omisión se considere por sí misma como una aceptación de lo alegado por el actor, y III.- Una de las partes no comparezca a una audiencia o no presente pruebas documentales, el tribunal arbitral podrá continuar las actuaciones y dictar el laudo basándose en las pruebas de que disponga.
 
 ###### Artículo 1442.-
 
@@ -8096,9 +8026,7 @@ Se tramitarán conforme al procedimiento previsto en los artículos 1472 a 1476:
 
 I. La resolución sobre recusación de un árbitro a que se refiere el tercer párrafo del artículo 1429.
 
-II. La resolución sobre la competencia del Tribunal Arbitral, cuando se determina en una resolución que no sea un laudo sobre el fondo del asunto, conforme a lo previsto en el tercer párrafo del
-
-###### Artículo 1432.
+II. La resolución sobre la competencia del Tribunal Arbitral, cuando se determina en una resolución que no sea un laudo sobre el fondo del asunto, conforme a lo previsto en el tercer párrafo del artículo 1432.
 
 III. La adopción de las medidas cautelares provisionales a que se refiere el artículo 1425.
 
@@ -8296,11 +8224,7 @@ Las sociedades anónimas que al entrar en vigor la presente Ley estén constituy
 
 Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente Ley.
 
-DECRETO que adiciona el artículo 75 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 31 de agosto de 1934
-
-###### Artículo UNICO.-
-
-Se adiciona la fracción VIII del artículo 75 del Código de Comercio, en los siguientes términos:
+DECRETO que adiciona el artículo 75 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 31 de agosto de 1934 ARTICULO UNICO.- Se adiciona la fracción VIII del artículo 75 del Código de Comercio, en los siguientes términos:
 
 LEY sobre el Contrato de Seguro. Publicada en el Diario Oficial de la Federación el 31 de agosto de 1935 Disposiciones Finales
 
@@ -8358,11 +8282,7 @@ En aquellos Estados de la República en los que no estén en vigor disposiciones
 
 Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
 
-DECRETO que reforma varios artículos del Código de Comercio. Publicado en el Diario Oficial de la Federación el 3 de mayo de 1946
-
-###### Artículo UNICO.-
-
-Se reforman los siguientes artículos del Código de Comercio (812, 823, 830 y 831), que quedarán en esta forma:
+DECRETO que reforma varios artículos del Código de Comercio. Publicado en el Diario Oficial de la Federación el 3 de mayo de 1946 ARTICULO UNICO.- Se reforman los siguientes artículos del Código de Comercio (812, 823, 830 y 831), que quedarán en esta forma:
 
 DECRETO que reforma los artículos 9º y 54 y deroga los artículos 8º, 10 y 11 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 6 de enero de 1954
 
@@ -8376,17 +8296,9 @@ Se reforma el artículo 9° para quedar en los términos siguientes:
 
 ###### Artículo TERCERO.-
 
-Se reforma la fracción I del artículo 54, para quedar redactada en los términos siguientes:
+Se reforma la fracción I del artículo 54, para quedar redactada en los términos siguientes: ARTICULO UNICO.- El presente decreto entrará en vigor 10 días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
-###### Artículo UNICO.-
-
-El presente decreto entrará en vigor 10 días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-DECRETO por el que se reforma el artículo 64 del Código de Comercio, relativo a registro de contratos en que intervengan corredores autorizados. Publicado en el Diario Oficial de la Federación el 4 de febrero de 1963
-
-###### Artículo UNICO.-
-
-Se reforma el Artículo 64 del Código de Comercio en vigor para quedar en la forma siguiente:
+DECRETO por el que se reforma el artículo 64 del Código de Comercio, relativo a registro de contratos en que intervengan corredores autorizados. Publicado en el Diario Oficial de la Federación el 4 de febrero de 1963 ARTICULO UNICO.- Se reforma el Artículo 64 del Código de Comercio en vigor para quedar en la forma siguiente:
 
 ###### Artículo PRIMERO.-
 
@@ -8422,27 +8334,11 @@ Las personas físicas o morales que al entrar en vigor esta ley exploten servici
 
 En los aspectos no previstos por el Libro IV de la Ley, que se refiere a las maniobras en los puertos, regirá provisionalmente la Ley de Vías Generales de Comunicación, en tanto se expide el Reglamento respectivo.
 
-DECRETO que reforma los artículos del 51 al 74 del Código de Comercio en vigor. Publicado en el Diario Oficial de la Federación el 27 de enero de 1970
+DECRETO que reforma los artículos del 51 al 74 del Código de Comercio en vigor. Publicado en el Diario Oficial de la Federación el 27 de enero de 1970 ARTICULO UNICO.- Se reforman los artículos del 51 al 74 del Código de Comercio en vigor, para PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario SEGUNDO.- Las disposiciones contenidas en el presente Decreto relativas a los requisitos para ser habilitado como corredor, no son aplicables a los Corredores que hubieren sido habilitados con anterioridad a su publicación, ni a las personas que hubieren terminado los estudios de aspirantes a Corredor, las que deberán cumplir con los requisitos establecidos en el título que se deroga. TERCERO.- Los corredores habilitados con anterioridad a la vigencia del presente Decreto que deseen ejercer en otra plaza, serán considerados como aspirantes y deberán cumplir con los requisitos establecidos en las fracciones I, II, IV, segunda parte de la VI y la VII del artículo 54. CUARTO.- En las plazas donde no existan corredores, las habilitaciones las otorgará la autoridad habilitante, cuando se satisfagan los requisitos de las fracciones I, II, IV y V del artículo 54 y se apruebe un examen práctico jurídico mercantil ante el jurado que designe la autoridad habilitante. QUINTO.- El Reglamento de Corredores para la plaza de México que norma las funciones de los Corredores de dicha plaza, seguirá vigente en toda la República, en cuanto no se oponga a lo dispuesto por el presente Decreto, hasta en tanto se promulgue el Reglamento a que se refiere el artículo 74.
 
-###### Artículo UNICO.-
+DECRETO por el que se derogan los artículos 6o., 7o. y fracción VIII del artículo 21 del Código de Comercio en vigor. Publicado en el Diario Oficial de la Federación el 27 de enero de 1970 ARTICULO UNICO.- Se derogan los artículos 6o., 7o. y fracción VIII del 21 del Código de Comercio en vigor. Artículo Unico.- El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
 
-Se reforman los artículos del 51 al 74 del Código de Comercio en vigor, para PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario SEGUNDO.- Las disposiciones contenidas en el presente Decreto relativas a los requisitos para ser habilitado como corredor, no son aplicables a los Corredores que hubieren sido habilitados con anterioridad a su publicación, ni a las personas que hubieren terminado los estudios de aspirantes a Corredor, las que deberán cumplir con los requisitos establecidos en el título que se deroga. TERCERO.- Los corredores habilitados con anterioridad a la vigencia del presente Decreto que deseen ejercer en otra plaza, serán considerados como aspirantes y deberán cumplir con los requisitos establecidos en las fracciones I, II, IV, segunda parte de la VI y la VII del artículo 54. CUARTO.- En las plazas donde no existan corredores, las habilitaciones las otorgará la autoridad habilitante, cuando se satisfagan los requisitos de las fracciones I, II, IV y V del artículo 54 y se apruebe un examen práctico jurídico mercantil ante el jurado que designe la autoridad habilitante. QUINTO.- El Reglamento de Corredores para la plaza de México que norma las funciones de los Corredores de dicha plaza, seguirá vigente en toda la República, en cuanto no se oponga a lo dispuesto por el presente Decreto, hasta en tanto se promulgue el Reglamento a que se refiere el artículo 74.
-
-DECRETO por el que se derogan los artículos 6o., 7o. y fracción VIII del artículo 21 del Código de Comercio en vigor. Publicado en el Diario Oficial de la Federación el 27 de enero de 1970
-
-###### Artículo UNICO.-
-
-Se derogan los artículos 6o., 7o. y fracción VIII del 21 del Código de Comercio en vigor.
-
-###### Artículo Unico.-
-
-El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
-
-DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos. Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO VIGESIMO NOVENO.- Se reforman los artículos 52; 56; 600 fracción I; 1070; 1072 y 1073; del Código de Comercio, en los siguientes términos:
-
-###### Artículo UNICO.-
-
-El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos. Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO VIGESIMO NOVENO.- Se reforman los artículos 52; 56; 600 fracción I; 1070; 1072 y 1073; del Código de Comercio, en los siguientes términos: ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
 
 DECRETO de Reformas y Adiciones a diversos artículos de la Ley General de Población. Ley de Nacionalidad y Naturalización. Ley Federal del Trabajo, Ley Federal de los Trabajadores al Servicio del Estado, Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, Código de Procedimientos Civiles para el Distrito Federal y Código de Comercio. Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974
 
@@ -8526,11 +8422,7 @@ Se adicionan los Artículos 1097-Bis, 1347-A, Art. 1394 2o. Párrafo y el Títul
 
 Se deroga la Fracción III del Artículo 1079; la denominación del Capítulo VI del TITULO PRIMERO del LIBRO QUINTO; la Fracción III del Artículo 1094; los Artículos 1247 y 1250; la Fracción V del Artículo 1295; y el Capítulo XXVI del TITULO PRIMERO del LIBRO QUINTO y los Artículos 1344 y 1345 que comprende dicho Capítulo, del Código de Comercio. ARTICULOS TRANSITORIOS.- PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la SEGUNDO. Los procedimientos que se encuentren en trámite al momento de entrar en vigor el presente decreto continuarán su curso conforme a estas disposiciones. TERCERO. Las cláusulas de sumisión expresa o de elección de foro, contenidas en convenios mercantiles celebrados con anterioridad a la fecha en que entre en vigor este Decreto, serán aplicables en los términos en que hubiesen sido pactados. CUARTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
 
-DECRETO que adiciona la Fracción V del Artículo 21 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 2 de julio de 1992
-
-###### Artículo UNICO.-
-
-Se adiciona la Fracción V del Artículo 21 del Código de Comercio actualmente en vigor, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+DECRETO que adiciona la Fracción V del Artículo 21 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 2 de julio de 1992 ARTICULO UNICO.- Se adiciona la Fracción V del Artículo 21 del Código de Comercio actualmente en vigor, para quedar como sigue: UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 
 LEY Federal de Correduría Pública. Publicada en el Diario Oficial de la Federación el 29 de diciembre de 1992 PRIMERO.- La presente ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de SEGUNDO.- Se derogan el Título Tercero del Libro Primero del Código de Comercio que comprende los artículos 51 a 74, así como las demás disposiciones legales y reglamentarias que se opongan a lo establecido en el presente decreto. TERCERO.- A partir de que entre en vigor la presente ley, sólo podrán ser habilitados como corredores, licenciados en derecho con título legalmente expedido y registrado. CUARTO.- Los corredores públicos que hayan sido habilitados conforme a las disposiciones del Código de Comercio se continuarán regulando por éste. Los corredores públicos que hayan sido habilitados antes de la entrada en vigor de la presente Ley podrán solicitar y obtener una nueva habilitación sin más requisitos, en cuyo caso serán regulados por la presente ley a partir de la publicación del acuerdo correspondiente en el Diario Oficial de la Federación. QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.
 
@@ -8560,15 +8452,7 @@ Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica 
 
 ###### Artículo TERCERO.-
 
-SE REFORMAN los siguientes artículos 1o.; 2o.; 1054; 1055; 1056; 1057; 1058; 1059; 1060; 1061; 1062; 1063; 1072; 1075; 1076; 1077; 1079, fracciones I a VI; 1080; 1082; 1090; 1094, fracciones II y III; 1096; 1097; 1098; 1099; 1100; 1101; 1102; 1103; 1111; 1114; 1115; 1116; 1117; 1118; 1119; 1120; 1121; 1122; 1123; 1124; 1125; 1126; 1127; 1128; 1129; 1130; 1131; 1132, primer párrafo; 1133; 1134; 1135; 1139; 1140; 1144; 1146; 1147; 1148; 1149; 1150; 1151, fracciones I y V; 1152; 1153; 1154; 1155; 1156; 1157; 1158; 1159; 1160; 1161; 1162; 1163; 1164; 1165; 1166; 1167; 1174; 1183; 1184; 1185; 1186; 1189; 1190; 1193; 1198; 1201; 1202; 1203; 1205; 1207; 1214; 1215; 1216; 1217; 1219; 1220; 1232, fracción I; 1234; 1236; 1241; 1242; 1243; 1247; 1250; 1252; 1253; 1254; 1255; 1256; 1257; 1258; 1261; 1262; 1263; 1264; 1265; 1268; 1269; 1271; 1303, fracción I; 1307; 1310; 1312; 1314; 1318; 1319; 1334; 1335; 1336; 1337, fracción II; 1339, fracción II; 1343; 1344; 1345; 1348; 1349; 1350; 1351; 1352; 1353; 1354; 1355; 1356; 1357; 1360; 1361; 1372; 1377; 1378; 1380, primer párrafo; 1383; 1384; 1385; 1386; 1387; 1388; 1391, fracciones IV, V y VI; 1392; 1393; 1394; 1399; 1400; 1401; 1403, último párrafo; 1404; 1405; 1406 y 1414, así como la denominación de los Capítulos XXIV y XXVI del Título Primero del Libro Quinto; SE ADICIONAN una cuarta y quinta fracciones al artículo 1061; un segundo, tercero y cuarto párrafos al artículo 1067; un segundo párrafo con seis fracciones al artículo 1068; un tercero, cuarto, quinto, sexto y séptimo párrafos al artículo 1069; un segundo párrafo al artículo 1070; un segundo párrafo con cuatro fracciones y un tercer y cuarto párrafos al artículo 1071; una quinta fracción al
-
-###### Artículo 1084.
-
-; una fracción sexta al artículo 1094; una quinta, sexta, séptima y octava fracciones al
-
-###### Artículo 1151.
-
-; un segundo párrafo al artículo 1209; un segundo párrafo al artículo 1249; un segundo, tercero y cuarto párrafos al artículo 1259; un segundo, tercero, cuarto, quinto y sexto párrafos al artículo 1272; una fracción tercera al artículo 1337; una fracción octava al artículo 1391; un primero y segundo párrafos al artículo 1394, así como el nombre al Capítulo VIII del Título Primero del Libro Quinto, y SE DEROGAN las fracciones séptima y octava del artículo 1079, y el artículo 1309, del Código de Comercio, para quedar como sigue: PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto. SEGUNDO.- La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal. TERCERO.- La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+SE REFORMAN los siguientes artículos 1o.; 2o.; 1054; 1055; 1056; 1057; 1058; 1059; 1060; 1061; 1062; 1063; 1072; 1075; 1076; 1077; 1079, fracciones I a VI; 1080; 1082; 1090; 1094, fracciones II y III; 1096; 1097; 1098; 1099; 1100; 1101; 1102; 1103; 1111; 1114; 1115; 1116; 1117; 1118; 1119; 1120; 1121; 1122; 1123; 1124; 1125; 1126; 1127; 1128; 1129; 1130; 1131; 1132, primer párrafo; 1133; 1134; 1135; 1139; 1140; 1144; 1146; 1147; 1148; 1149; 1150; 1151, fracciones I y V; 1152; 1153; 1154; 1155; 1156; 1157; 1158; 1159; 1160; 1161; 1162; 1163; 1164; 1165; 1166; 1167; 1174; 1183; 1184; 1185; 1186; 1189; 1190; 1193; 1198; 1201; 1202; 1203; 1205; 1207; 1214; 1215; 1216; 1217; 1219; 1220; 1232, fracción I; 1234; 1236; 1241; 1242; 1243; 1247; 1250; 1252; 1253; 1254; 1255; 1256; 1257; 1258; 1261; 1262; 1263; 1264; 1265; 1268; 1269; 1271; 1303, fracción I; 1307; 1310; 1312; 1314; 1318; 1319; 1334; 1335; 1336; 1337, fracción II; 1339, fracción II; 1343; 1344; 1345; 1348; 1349; 1350; 1351; 1352; 1353; 1354; 1355; 1356; 1357; 1360; 1361; 1372; 1377; 1378; 1380, primer párrafo; 1383; 1384; 1385; 1386; 1387; 1388; 1391, fracciones IV, V y VI; 1392; 1393; 1394; 1399; 1400; 1401; 1403, último párrafo; 1404; 1405; 1406 y 1414, así como la denominación de los Capítulos XXIV y XXVI del Título Primero del Libro Quinto; SE ADICIONAN una cuarta y quinta fracciones al artículo 1061; un segundo, tercero y cuarto párrafos al artículo 1067; un segundo párrafo con seis fracciones al artículo 1068; un tercero, cuarto, quinto, sexto y séptimo párrafos al artículo 1069; un segundo párrafo al artículo 1070; un segundo párrafo con cuatro fracciones y un tercer y cuarto párrafos al artículo 1071; una quinta fracción al artículo 1084; una fracción sexta al artículo 1094; una quinta, sexta, séptima y octava fracciones al artículo 1151; un segundo párrafo al artículo 1209; un segundo párrafo al artículo 1249; un segundo, tercero y cuarto párrafos al artículo 1259; un segundo, tercero, cuarto, quinto y sexto párrafos al artículo 1272; una fracción tercera al artículo 1337; una fracción octava al artículo 1391; un primero y segundo párrafos al artículo 1394, así como el nombre al Capítulo VIII del Título Primero del Libro Quinto, y SE DEROGAN las fracciones séptima y octava del artículo 1079, y el artículo 1309, del Código de Comercio, para quedar como sigue: PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto. SEGUNDO.- La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal. TERCERO.- La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
 
 CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. México, D.F., a 29 de abril de 1996.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Ma. Claudia Esqueda Llanes, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Jesús Carlos Hernández Martínez, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
@@ -8576,9 +8460,9 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 
 ###### Artículo SEGUNDO.-
 
-Se ADICIONAN las siguientes disposiciones al Código de Comercio: una fracción XXIV al artículo 75, con lo cual la actual fracción XXIV se recorrerá para ser XXV; Título Tercero bis, Capítulo I; artículos 1414 bis, 1414 bis 1, 1414 bis 2, 1414 bis 3, 1414 bis 4, 1414 bis 5, 1414 bis 6, y
+Se ADICIONAN las siguientes disposiciones al Código de Comercio: una fracción XXIV al artículo 75, con lo cual la actual fracción XXIV se recorrerá para ser XXV; Título Tercero bis, Capítulo I; artículos 1414 bis, 1414 bis 1, 1414 bis 2, 1414 bis 3, 1414 bis 4, 1414 bis 5, 1414 bis 6, y Capítulo II, artículos 1414 bis 7, 1414 bis 8, 1414 bis 9, 1414 bis 10, 1414 bis 11, 1414 bis 12, 1414 bis 13, 1414 bis 14, 1414 bis 15, 1414 bis 16, 1414 bis 17, 1414 bis 18, 1414 bis 19 y 1414 bis 20, del Libro Quinto; se REFORMA la fracción XXV del artículo 75 y los artículos 1091, 1093, 1097, 1104 y 1105; y se DEROGAN los artículos 1097 bis, 1098 y 1109, para quedar como sigue: PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente. SEGUNDO.- Los fideicomisos de garantía constituidos con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán sujetos a las disposiciones que les resulten aplicables al momento de su contratación. Sin perjuicio de lo anterior, las partes que cuenten con facultades para ello conforme al contrato constitutivo de esos fideicomisos, podrán convenir que los mismos se sujeten a las disposiciones de esta Ley. México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
 
-### Capítulo II, artículos 1414 bis 7, 1414 bis 8, 1414 bis 9, 1414 bis 10, 1414 bis 11, 1414 bis 12, 1414 bis
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor. Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000
 
 ###### Artículo TERCERO.-
 
@@ -8598,41 +8482,11 @@ Se reforma la denominación del Título Sexto del Libro Segundo del Código de C
 
 ## ARTICULO TRANSITORIO
 
-###### Artículo UNICO.-
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.” México, D.F., a 11 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
-
-DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado el 29 de mayo de 2000. Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
-
-###### Artículo UNICO.
-
-: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue: UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
-
-DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, del Código de Comercio, de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, de la Ley Federal de Instituciones de Fianzas y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito. Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
-
 ###### Artículo SEGUNDO.-
 
 Se reforman los artículos 1054, 1063, 1070 primer párrafo, 1373, 1391 fracción II, 1393, 1401 tercer párrafo, 1414, 1414 Bis 7 primer párrafo, 1414 Bis 8 primer párrafo, 1414 Bis 17 fracciones I, II, 1414 Bis 18 y 1414 Bis 19; y se adicionan el artículo 1055 Bis, el segundo, tercero, cuarto y quinto párrafos del 1070, 1070 Bis, 1376 Bis, los tres últimos párrafos del 1395, 1412 Bis y 1412 Bis 1, y la fracción III del 1414 Bis 17, todos del Código de Comercio, para quedar como sigue:
 
 ## ARTÍCULO TRANSITORIO
-
-###### Artículo ÚNICO.-
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos. México, D.F., a 24 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. de las Nieves García Fernández, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
-
-Comercio en Materia de Firma Electrónica. Publicado en el Diario Oficial de la Federación el 29 de agosto de 2003
-
-###### Artículo ÚNICO.
-
-: Se reforman los artículos 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113 y 114. Se adicionan los artículos 89 bis, 90 bis, 91 bis, 93 bis. Se adicionan los Capítulos Primero, Segundo, Tercero y Cuarto al Título Segundo, denominado del Comercio Electrónico, correspondiente al Libro Segundo, todos del Código de Comercio, para quedar de la siguiente manera: PRIMERO. El presente Decreto comenzará su vigencia 90 días después de su publicación en el SEGUNDO. Dentro del plazo de 90 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo emitirá las reglas generales a que se refieren las presentes disposiciones. TERCERO. En lo que se refiere al artículo 102, dentro de los doce meses siguientes a la entrada en vigor de las reglas generales a que se refiere el artículo anterior, el plazo de 45 días a que se refiere el mismo, será de 90 días. CUARTO. Por lo que se refiere al artículo 106, el Banco de México, en el ámbito de su competencia, regulará y coordinará a la autoridad registradora central, registradora y certificadora, de las instituciones financieras y de las empresas mencionadas que presten servicios de certificación. México, D.F., a 8 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
-
-DECRETO por el que se adiciona el artículo 6 bis al Código de Comercio. Publicado en el Diario Oficial de la Federación el 26 de enero de 2005
-
-###### Artículo UNICO.-
-
-Se adiciona el artículo 6 bis al Código de Comercio para quedar como sigue: UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 30 de noviembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas". mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-
-DECRETO por el que se adiciona el segundo párrafo de la fracción III del artículo 12 del Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 
 ###### Artículo Único.
 
@@ -8660,11 +8514,7 @@ DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal
 
 Se reforma el artículo 75 fracción X del Código de Comercio, para quedar como Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de Segundo.- Los sujetos a los que hace referencia el artículo 65 Bis, tendrán un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el tercer párrafo del citado precepto. Tercero.- La Secretaría de Economía deberá emitir la Norma Oficial Mexicana a que se refiere el presente Decreto, de conformidad con lo dispuesto por la Ley Federal Sobre Metrología y Normalización. Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor de este decreto, cuentan con un plazo de seis meses contados a partir de la publicación de la Norma Oficial Mexicana a que se refiere el artículo anterior, para obtener el registro del contrato correspondiente ante la Procuraduría. México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos
 
-Publicado en el Diario Oficial de la Federación el 17 de abril de 2008
-
-###### Artículo ÚNICO.-
-
-Se reforman los Artículos 1054, 1057, 1058, 1063, 1069, 1079, 1154, 1165 último párrafo, 1191, 1193, 1203, 1223, 1224, 1232, fracción I, 1235, 1247, 1250, 1253, fracciones III, IV, VI y VII, 1254, 1255, 1263, 1336, 1337 fracción III, 1338, 1339, 1340, 1342, 1344, 1345, 1348, 1378, 1396, 1414, y se adicionan los artículos 1250 bis, 1250 bis 1, 1337 fracción IV, 1345 bis, 1345 bis 1, 1345 bis 2, 1345 bis 3, 1345 bis 4, 1345 bis 5, 1345 bis 6, 1345 bis 7, 1345 bis 8 y 1407 bis, todo del Código de Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+Publicado en el Diario Oficial de la Federación el 17 de abril de 2008 ARTÍCULO ÚNICO.- Se reforman los Artículos 1054, 1057, 1058, 1063, 1069, 1079, 1154, 1165 último párrafo, 1191, 1193, 1203, 1223, 1224, 1232, fracción I, 1235, 1247, 1250, 1253, fracciones III, IV, VI y VII, 1254, 1255, 1263, 1336, 1337 fracción III, 1338, 1339, 1340, 1342, 1344, 1345, 1348, 1378, 1396, 1414, y se adicionan los artículos 1250 bis, 1250 bis 1, 1337 fracción IV, 1345 bis, 1345 bis 1, 1345 bis 2, 1345 bis 3, 1345 bis 4, 1345 bis 5, 1345 bis 6, 1345 bis 7, 1345 bis 8 y 1407 bis, todo del Código de Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 
 DECRETO por el que se reforma la fracción III del artículo 1347-A del Código de Comercio y la fracción III del artículo 571 del Código Federal de Procedimientos Civiles. Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008 PRIMERO.- Se reforma la fracción III de artículo 1347-A del Código de Comercio, para quedar como Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de Segundo.- La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo. México, D.F., a 4 de diciembre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jaquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Santiago Gustavo Pedro Cortés, Secretario.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
@@ -8696,11 +8546,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de C
 
 ###### Artículo Segundo.
 
-Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al
-
-###### Artículo 1051.
-
-del Código de Comercio, para quedar como sigue: Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al artículo 1051 del Código de Comercio, para quedar como sigue: Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 Publicado en el Diario Oficial de la Federación el 27 de agosto de 2009
 
@@ -8732,29 +8578,9 @@ DECRETO por el que se reforma el artículo 1411 del Código de Comercio. Publica
 
 Se reforma el artículo 1411 del Código de Comercio, para quedar como sigue: Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de México, D.F., a 20 de septiembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Cleominio Zoreda Novelo, Secretario.- Dip. Balfre Vargas Cortez, Secretario.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José
 
-DECRETO por el que se deroga la fracción V del artículo 1391 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
+DECRETO por el que se deroga la fracción V del artículo 1391 del Código de Comercio. Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011 ARTÍCULO ÚNICO. Se deroga la fracción V del artículo 1391 del Código de Comercio, para quedar ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial México, D.F., a 15 de noviembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 
-###### Artículo ÚNICO.
-
-Se deroga la fracción V del artículo 1391 del Código de Comercio, para quedar ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial México, D.F., a 15 de noviembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-
-Código de Comercio, en materia de juicios orales mercantiles. Publicado en el Diario Oficial de la Federación el 9 de enero de 2012
-
-###### Artículo ÚNICO.-
-
-se REFORMAN: el segundo párrafo de la fracción VI del artículo 1253; el primero y cuarto (actualmente segundo) párrafos del artículo 1339; el primer párrafo del artículo 1340; el primero y segundo párrafos del artículo 1390 Bis; el artículo 1390 Bis 1; el artículo 1390 Bis 6; el primero y segundo párrafos del artículo 1390 Bis 7, recorriéndose el actual segundo para quedar como tercero; el
-
-###### Artículo 1390.
-
-Bis 8; el artículo 1390 Bis 9; el primero y segundo párrafos del artículo 1390 Bis 13; el primer párrafo del artículo 1390 Bis 18; el primer párrafo del artículo 1390 Bis 20; primero y tercer párrafo del artículo 1390 Bis 23; el primer párrafo del artículo 1390 Bis 26; la fracción V del artículo 1390 Bis 32; el artículo 1390 Bis 34; el segundo párrafo del artículo 1390 Bis 37; el primero y segundo párrafos del
-
-###### Artículo 1390.
-
-Bis 38; el primer párrafo del artículo 1390 Bis 39; el primer párrafo, las fracciones I, II y III del artículo 1390 Bis 41; el primero y segundo párrafos del artículo 1390 Bis 42; el artículo 1390 Bis 43; el segundo párrafo del artículo 1390 Bis 45; el primero, segundo y tercer párrafos del artículo 1390 Bis 46; el primero y tercer del artículo 1390 Bis 47; el artículo 1390 Bis 48; el último párrafo del artículo 1390 Bis 49; primero, segundo y tercer párrafos del artículo 1414 Bis 9 y la fracción II del artículo 1467; se ADICIONAN: un tercer párrafo a la fracción VI del artículo 1253; un nuevo segundo y tercer párrafos al
-
-###### Artículo 1339.
-
-, recorriéndose los actuales segundo a séptimo para quedar cuarto a noveno; un tercer párrafo al artículo 1390 Bis 7; un segundo párrafo del artículo 1390 Bis 9; un segundo párrafo del artículo 1390 Bis 18; un tercer párrafo al artículo 1390 Bis 40, recorriéndose el actual tercero para quedar como cuarto; un segundo párrafo al artículo 1390 Bis 42, recorriéndose el actual segundo para quedar como tercero; un artículo 1390 Bis 50; un segundo y tercero artículos transitorios y se DEROGAN el segundo párrafo del artículo 1340; el tercer párrafo del artículo 1390 Bis; el segundo párrafo del artículo 1390 Bis 20; el tercer párrafo del artículo 1390 Bis 38, recorriéndose el actual cuarto al tercero; las fracciones I y II del segundo párrafo del artículo 1414 Bis 9, todos del Código de Comercio, para quedar como sigue: ……….. PRIMERO.- El presente Decreto entrará en vigor por lo que hace a las reformas a los artículos 1253, 1339, 1340, 1414 Bis y 1467, a partir del primero de enero del año dos mil doce. SEGUNDO.- La reforma de los demás artículos entrará en vigor el veintisiete de enero del año dos mil doce. del Congreso General resuelvan sobre las previsiones presupuestales para la infraestructura y la capacitación necesarias para su correcta implementación, los poderes judiciales de las entidades federativas tendrán hasta el primero de julio del año dos mil trece, como plazo máximo, para hacer efectiva la entrada en vigor de las disposiciones relativas al juicio oral mercantil. Al poner en práctica dichas disposiciones, deberán emitir previamente una declaratoria que se publicará en los órganos de difusión oficiales, en la que se señale expresamente la fecha correspondiente. México, D.F., a 15 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos
+Código de Comercio, en materia de juicios orales mercantiles. Publicado en el Diario Oficial de la Federación el 9 de enero de 2012 ARTÍCULO ÚNICO.- se REFORMAN: el segundo párrafo de la fracción VI del artículo 1253; el primero y cuarto (actualmente segundo) párrafos del artículo 1339; el primer párrafo del artículo 1340; el primero y segundo párrafos del artículo 1390 Bis; el artículo 1390 Bis 1; el artículo 1390 Bis 6; el primero y segundo párrafos del artículo 1390 Bis 7, recorriéndose el actual segundo para quedar como tercero; el artículo 1390 Bis 8; el artículo 1390 Bis 9; el primero y segundo párrafos del artículo 1390 Bis 13; el primer párrafo del artículo 1390 Bis 18; el primer párrafo del artículo 1390 Bis 20; primero y tercer párrafo del artículo 1390 Bis 23; el primer párrafo del artículo 1390 Bis 26; la fracción V del artículo 1390 Bis 32; el artículo 1390 Bis 34; el segundo párrafo del artículo 1390 Bis 37; el primero y segundo párrafos del artículo 1390 Bis 38; el primer párrafo del artículo 1390 Bis 39; el primer párrafo, las fracciones I, II y III del artículo 1390 Bis 41; el primero y segundo párrafos del artículo 1390 Bis 42; el artículo 1390 Bis 43; el segundo párrafo del artículo 1390 Bis 45; el primero, segundo y tercer párrafos del artículo 1390 Bis 46; el primero y tercer del artículo 1390 Bis 47; el artículo 1390 Bis 48; el último párrafo del artículo 1390 Bis 49; primero, segundo y tercer párrafos del artículo 1414 Bis 9 y la fracción II del artículo 1467; se ADICIONAN: un tercer párrafo a la fracción VI del artículo 1253; un nuevo segundo y tercer párrafos al artículo 1339, recorriéndose los actuales segundo a séptimo para quedar cuarto a noveno; un tercer párrafo al artículo 1390 Bis 7; un segundo párrafo del artículo 1390 Bis 9; un segundo párrafo del artículo 1390 Bis 18; un tercer párrafo al artículo 1390 Bis 40, recorriéndose el actual tercero para quedar como cuarto; un segundo párrafo al artículo 1390 Bis 42, recorriéndose el actual segundo para quedar como tercero; un artículo 1390 Bis 50; un segundo y tercero artículos transitorios y se DEROGAN el segundo párrafo del artículo 1340; el tercer párrafo del artículo 1390 Bis; el segundo párrafo del artículo 1390 Bis 20; el tercer párrafo del artículo 1390 Bis 38, recorriéndose el actual cuarto al tercero; las fracciones I y II del segundo párrafo del artículo 1414 Bis 9, todos del Código de Comercio, para quedar como sigue: ……….. PRIMERO.- El presente Decreto entrará en vigor por lo que hace a las reformas a los artículos 1253, 1339, 1340, 1414 Bis y 1467, a partir del primero de enero del año dos mil doce. SEGUNDO.- La reforma de los demás artículos entrará en vigor el veintisiete de enero del año dos mil doce. del Congreso General resuelvan sobre las previsiones presupuestales para la infraestructura y la capacitación necesarias para su correcta implementación, los poderes judiciales de las entidades federativas tendrán hasta el primero de julio del año dos mil trece, como plazo máximo, para hacer efectiva la entrada en vigor de las disposiciones relativas al juicio oral mercantil. Al poner en práctica dichas disposiciones, deberán emitir previamente una declaratoria que se publicará en los órganos de difusión oficiales, en la que se señale expresamente la fecha correspondiente. México, D.F., a 15 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos
 
 mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
 
@@ -8794,11 +8620,7 @@ d) Artículo 1340: $539,756.58 (Quinientos treinta y nueve mil setecientos cincu
 
 e) Artículo 1390 Bis 33: de $2,159.03 (Dos mil ciento cincuenta y nueve pesos 03/100 M.N. a $5,397.57 (Cinco mil trescientos noventa y siete pesos 57/100 M.N.). México, D.F., a 13 de diciembre de 2013.- El Secretario de Economía, Ildefonso Guajardo Villarreal.-
 
-DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras. Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 OTORGAMIENTO Y EJECUCIÓN DE GARANTÍAS ARTÍCULO VIGÉSIMO SEGUNDO.- Se REFORMAN los artículos 1055 bis; 1068, párrafo primero; 1070 párrafo sexto; 1070 bis; 1085 párrafo primero; 1093; 1104, primer párrafo y fracción I; 1107 primer párrafo; 1132, fracción XI; 1168; 1170; 1171; 1172; 1173; 1174; 1175; 1176; 1177; 1178; 1179; 1180; 1181, 1182; 1183; 1184; 1185; 1186, 1187; 1188; 1189; 1375; 1390 bis 13 primer y segundo párrafo; 1390 bis 18; 1390 bis 40, último párrafo; 1391, fracciones II y VIII; 1392 primer párrafo; 1393 primer párrafo; 1394, primer y tercer párrafos; 1395, fracciones II y III; 1396; 1405; 1408; 1410, primer párrafo; 1411; 1412 primer párrafo; 1414 bis 8; 1414 bis 9 párrafo primero y segundo; 1414 bis 10, fracción III; 1414 bis 17; 1414 bis 19; se ADICIONAN un segundo párrafo al artículo 1068, pasando el actual párrafo segundo a ser tercero; un último párrafo al artículo 1070; segundo párrafo al artículo 1085; una fracción III y un último párrafo al artículo 1104; un párrafo segundo al artículo 1107; un tercer, cuarto y quinto párrafo al artículo 1390 bis; un tercer párrafo al artículo 1390 bis 13; un segundo párrafo al artículo 1392; un segundo al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al
-
-###### Artículo 1412.
-
-; 1412 bis 2 y se DEROGAN el “Título Décimo Cuarto, De las Instituciones de Crédito”; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como Disposiciones Transitorias ARTÍCULO VIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras. Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 OTORGAMIENTO Y EJECUCIÓN DE GARANTÍAS ARTÍCULO VIGÉSIMO SEGUNDO.- Se REFORMAN los artículos 1055 bis; 1068, párrafo primero; 1070 párrafo sexto; 1070 bis; 1085 párrafo primero; 1093; 1104, primer párrafo y fracción I; 1107 primer párrafo; 1132, fracción XI; 1168; 1170; 1171; 1172; 1173; 1174; 1175; 1176; 1177; 1178; 1179; 1180; 1181, 1182; 1183; 1184; 1185; 1186, 1187; 1188; 1189; 1375; 1390 bis 13 primer y segundo párrafo; 1390 bis 18; 1390 bis 40, último párrafo; 1391, fracciones II y VIII; 1392 primer párrafo; 1393 primer párrafo; 1394, primer y tercer párrafos; 1395, fracciones II y III; 1396; 1405; 1408; 1410, primer párrafo; 1411; 1412 primer párrafo; 1414 bis 8; 1414 bis 9 párrafo primero y segundo; 1414 bis 10, fracción III; 1414 bis 17; 1414 bis 19; se ADICIONAN un segundo párrafo al artículo 1068, pasando el actual párrafo segundo a ser tercero; un último párrafo al artículo 1070; segundo párrafo al artículo 1085; una fracción III y un último párrafo al artículo 1104; un párrafo segundo al artículo 1107; un tercer, cuarto y quinto párrafo al artículo 1390 bis; un tercer párrafo al artículo 1390 bis 13; un segundo párrafo al artículo 1392; un segundo al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al artículo 1412; 1412 bis 2 y se DEROGAN el “Título Décimo Cuarto, De las Instituciones de Crédito”; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como Disposiciones Transitorias ARTÍCULO VIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
 
 I. La reforma al artículo 53 y lo dispuesto en el artículo 53 bis de la Ley Orgánica del Poder Judicial de la Federación que se adiciona, entrarán en vigor a los 6 meses siguientes al día de su publicación en el Diario Oficial de la Federación, excepto por lo que respecta a las fracciones I, V y VI del artículo 53 bis, las cuales entrarán en vigor a los 12 meses siguientes al día de su publicación en el Diario Oficial de la Federación.
 
@@ -8902,11 +8724,7 @@ DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de
 
 ###### Artículo Segundo.-
 
-Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al
-
-###### Artículo 91.
-
-y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue: Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto. Ciudad de México, a 14 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
+Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al artículo 91 y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue: Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto. Ciudad de México, a 14 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
 
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2017
 
@@ -8920,19 +8738,11 @@ d) Artículo 1340: $633,075.88 (Seiscientos treinta y tres mil setenta y cinco p
 
 e) Artículo 1390 Bis 33: de $2,132.60 (Dos mil ciento treinta y dos 60/100 M.N.) a $6,906.51 (Seis mil novecientos seis 51/100 M.N.). ÚNICO. - El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial Ciudad de México, a 15 de diciembre de 2017.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
 
-DECRETO por el que se reforman los artículos Transitorios Segundo; primer párrafo del
-
-###### Artículo Tercero.
-
-; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017. Publicado en el Diario Oficial de la Federación el 28 de marzo de 2018
+DECRETO por el que se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017. Publicado en el Diario Oficial de la Federación el 28 de marzo de 2018
 
 ###### Artículo Único.-
 
-Se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al
-
-###### Artículo Segundo.
-
-Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue: Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de Segundo.- Los asuntos cuya demanda haya sido admitida a partir del 25 de enero de 2018 y hasta la entrada en vigor del presente Decreto, se tramitarán conforme a las leyes aplicables en ese momento. Ciudad de México, a 6 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiséis de marzo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+Se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles”, publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue: Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de Segundo.- Los asuntos cuya demanda haya sido admitida a partir del 25 de enero de 2018 y hasta la entrada en vigor del presente Decreto, se tramitarán conforme a las leyes aplicables en ese momento. Ciudad de México, a 6 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiséis de marzo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2018
 
@@ -9022,11 +8832,7 @@ DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos 
 
 ###### Artículo Segundo.-
 
-Se reforman los artículos 1054; 1061 Bis; 1063; 1393, primer párrafo; 1414; 1466, en su párrafo y, 1477 del Código de Comercio, para quedar como sigue: Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023. En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027. Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares. No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado. Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-
-###### Artículo Sexto.
-
-Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025. Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+Se reforman los artículos 1054; 1061 Bis; 1063; 1393, primer párrafo; 1414; 1466, en su párrafo y, 1477 del Código de Comercio, para quedar como sigue: Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023. En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027. Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares. No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado. Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025. Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2025 ÚNICO. Los montos actualizados correspondientes a los artículos 1067 Bis, fracción II; 1253 fracción
 

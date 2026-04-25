@@ -255,7 +255,13 @@ def generic_fetch_one(
     text_parser = get_text_parser(country)
     meta_parser = get_metadata_parser(country)
 
-    with client_cls.create(cc) as client:
+    # Pass force=force to create() when the client supports it (e.g. MXClient
+    # uses it to bypass its HTTP response cache). Other clients ignore it.
+    import inspect
+    create_params = inspect.signature(client_cls.create).parameters
+    create_kwargs = {"force": force} if "force" in create_params else {}
+
+    with client_cls.create(cc, **create_kwargs) as client:
         try:
             console.print(f"  Processing [bold]{norm_id}[/bold]...")
 
