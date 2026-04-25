@@ -29,12 +29,18 @@ logger = logging.getLogger(__name__)
 
 _CONTROL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
 
-# Match "Artículo 1o.", "Artículo 1.", "Artículo 1.-", "Articulo 1", "ARTÍCULO 1o."
-# Also accepts "Único" variants, common in short-amendment laws.
+# Article-heading detector. Captures the article number/ordinal AND any text
+# that follows on the same visual line (PDF wraps the title with body).
+# Examples that match:
+#   "Artículo 1o. En los Estados Unidos Mexicanos…"
+#   "Artículo 4o.- La mujer y el hombre son iguales…"
+#   "ARTÍCULO 123. Toda persona tiene derecho al trabajo…"
+#   "Artículo Único.- Se reforma…"
 _ARTICULO_RE = re.compile(
-    r"^\s*(?:art[íi]culo|artículo)\s+"
-    r"(\d+(?:\s*[ºo°])?|[úu]nico|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo)"
-    r"[\s.\-]*",
+    r"^\s*(art[íi]culo)\s+"
+    r"(?P<num>\d+(?:\s*[ºo°])?|[úu]nico|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo)"
+    r"\s*(?P<sep>[.\-]+)?\s*"
+    r"(?P<rest>.*)$",
     re.IGNORECASE,
 )
 
@@ -43,6 +49,36 @@ _TITULO_RE = re.compile(r"^\s*T[ÍI]TULO\b", re.IGNORECASE)
 _CAPITULO_RE = re.compile(r"^\s*CAP[ÍI]TULO\b", re.IGNORECASE)
 _SECCION_RE = re.compile(r"^\s*SECCI[ÓO]N\b", re.IGNORECASE)
 _LIBRO_RE = re.compile(r"^\s*LIBRO\b", re.IGNORECASE)
+_TRANSITORIOS_RE = re.compile(
+    r"^\s*ART[ÍI]CULOS?\s+TRANSITORIOS?(?:\s+DE\s+DECRETOS?\s+DE\s+REFORMA)?\s*$",
+    re.IGNORECASE,
+)
+
+# Reform-provenance stamps Diputados injects after each amended fragment:
+#   "Párrafo reformado DOF 04-12-2006, 10-06-2011"
+#   "Artículo reformado DOF 14-08-2001"
+#   "Fracción adicionada DOF 12-04-2019"
+#   "Apartado A reformado DOF …"
+# Tagged as nota_pie so the renderer emits them as quoted small text instead
+# of being mistaken for actual law text.
+_REFORM_STAMP_RE = re.compile(
+    r"^\s*(?:p[áa]rrafo|art[íi]culo|fracci[óo]n|inciso|apartado|"
+    r"subinciso|secci[óo]n|cap[íi]tulo|t[íi]tulo|fe\s+de\s+erratas)\b"
+    r"[\s\S]*?\bDOF\s+\d{2}-\d{2}-\d{4}",
+    re.IGNORECASE,
+)
+
+# Sub-article structure detectors. The Mexican federal style nests articles
+# into Apartados (single capital letter), then fracciones (Roman numeral),
+# then incisos (lowercase letter). PDF text-extraction does not preserve
+# blank lines between these, so we use the leading marker to force a
+# paragraph break.
+_APARTADO_RE = re.compile(r"^[A-Z]\.\s+\S")
+_FRACCION_RE = re.compile(
+    r"^(?:[IVX]+|[ivx]+)[.\-\)]\s+\S",
+    re.IGNORECASE,
+)
+_INCISO_RE = re.compile(r"^[a-z]\)\s+\S")
 
 
 # ── Module helpers ─────────────────────────────────────────────────────
@@ -88,34 +124,40 @@ _LAST_REFORM_FOOTER_RE = re.compile(
 )
 
 
-def _split_into_lines(pages: list[str]) -> list[str]:
-    """Flatten pages into lines, dropping per-page header/footer noise.
+def _split_into_lines(pages: list[str]) -> list[str | None]:
+    """Flatten pages into lines, preserving paragraph breaks as ``None``.
 
-    Diputados PDFs repeat several institutional banners on every page
-    (the document title in all caps, "Cámara de Diputados…" footers,
-    pagination markers, "Última Reforma DOF…" stamps). We drop them so
-    article text reads cleanly; an article-level pass merges line wraps.
+    Diputados PDFs repeat institutional banners on every page (the document
+    title in all caps, "Cámara de Diputados…" footers, pagination markers,
+    "Última Reforma DOF…" stamps). We drop them. Blank lines from the PDF
+    survive as ``None`` so the block builder can use them as paragraph
+    separators (otherwise every visual line wrap looks like a new para).
+    Page boundaries are forced into ``None`` so a paragraph never silently
+    spans pages of different content.
     """
-    out: list[str] = []
-
-    # Pre-compute lines that appear on most pages (n>1 page or repeated >2x).
-    # Anything matching is treated as repeating template chrome.
+    # First pass: count line frequencies so per-page chrome can be detected
+    # even when the static patterns above don't catch it.
     counts: dict[str, int] = {}
     for page_text in pages:
-        seen_in_page: set[str] = set()
+        seen: set[str] = set()
         for raw in page_text.splitlines():
             line = _clean_line(raw)
-            if line and line not in seen_in_page:
-                seen_in_page.add(line)
+            if line and line not in seen:
+                seen.add(line)
                 counts[line] = counts.get(line, 0) + 1
     repeating_chrome = {
         line for line, count in counts.items() if len(pages) > 2 and count >= 3
     }
 
-    for page_text in pages:
+    out: list[str | None] = []
+    for page_idx, page_text in enumerate(pages):
+        last_emitted_blank = True  # collapse leading blanks per page
         for raw in page_text.splitlines():
             line = _clean_line(raw)
             if not line:
+                if not last_emitted_blank:
+                    out.append(None)
+                    last_emitted_blank = True
                 continue
             if _PAGINATION_RE.match(line):
                 continue
@@ -126,22 +168,46 @@ def _split_into_lines(pages: list[str]) -> list[str]:
             if line in repeating_chrome:
                 continue
             out.append(line)
+            last_emitted_blank = False
+        # Force a paragraph break at every page boundary.
+        if page_idx < len(pages) - 1 and not last_emitted_blank:
+            out.append(None)
+
     return out
 
 
 def _articulo_id(token: str) -> str:
-    """Normalize an article identifier captured by _ARTICULO_RE into a slug."""
+    """Normalize an article identifier into a slug (e.g. '1o' → '1o', 'Único' → 'unico')."""
     t = token.lower().strip()
-    t = re.sub(r"\s+[ºo°]$", "", t)
+    t = re.sub(r"\s+[ºo°]$", "o", t)
+    t = unicodedata.normalize("NFD", t)
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn")
     return t.replace(" ", "")
 
 
-def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
-    """Single-snapshot block builder: split a Diputados PDF into articles.
+def _article_heading_text(num: str, sep: str | None) -> str:
+    """Render a clean article heading from the captured number + separator."""
+    head = f"Artículo {num.strip()}"
+    if sep:
+        sep = sep.strip()
+        # Preserve the punctuation style the source used so the heading reads
+        # naturally (some articles use ".-", others just ".").
+        if sep.startswith("."):
+            head += sep
+        else:
+            head += f" {sep}"
+    else:
+        head += "."
+    return head
 
-    Each ``Articulo N`` becomes a Block with one Version. Headings above
-    each article (TÍTULO/CAPÍTULO/SECCIÓN/LIBRO) are emitted as their own
-    blocks so the section structure survives in the rendered Markdown.
+
+def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
+    """Build Block/Version trees from a Diputados PDF envelope.
+
+    Single-snapshot: each Block has exactly one Version dated to the law's
+    most recent DOF reform (the date in the Markdown frontmatter and on
+    the resulting git commit). Real reform-by-reform history requires DOF
+    integration and lives behind that adapter.
     """
     pdf_b64 = envelope.get("pdf_b64")
     if not pdf_b64:
@@ -156,23 +222,43 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
     )
 
     pages = _extract_pdf_text(pdf_bytes)
-    lines = _split_into_lines(pages)
+    line_stream = _split_into_lines(pages)
 
     blocks: list[Block] = []
+    article_seq = 0  # used to disambiguate repeated "Artículo Único" in transitorios
+
+    # State for the article currently being built
     current_article_id: str | None = None
     current_article_title: str | None = None
     current_article_paragraphs: list[Paragraph] = []
-    section_paragraph_buffer: list[Paragraph] = []  # headings without an article yet
+    pending_body_lines: list[str] = []
+    pending_kind: str | None = None  # "body" | "stamp"
+
+    def flush_pending_paragraph() -> None:
+        """Merge accumulated lines into a single paragraph and tag it."""
+        nonlocal pending_kind
+        if not pending_body_lines:
+            pending_kind = None
+            return
+        text = " ".join(pending_body_lines).strip()
+        pending_body_lines.clear()
+        kind = pending_kind or "body"
+        pending_kind = None
+        if not text or current_article_id is None:
+            return
+        css = "nota_pie" if kind == "stamp" else "parrafo"
+        current_article_paragraphs.append(Paragraph(css_class=css, text=text))
 
     def flush_article() -> None:
         nonlocal current_article_id, current_article_title, current_article_paragraphs
+        flush_pending_paragraph()
         if current_article_id is None:
             return
         blocks.append(
             Block(
-                id=f"art-{current_article_id}",
+                id=current_article_id,
                 block_type="article",
-                title=current_article_title or f"Artículo {current_article_id}",
+                title=current_article_title or current_article_id,
                 versions=(
                     Version(
                         norm_id=norm_id,
@@ -187,12 +273,15 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
         current_article_title = None
         current_article_paragraphs = []
 
-    def emit_section(css_class: str, text: str, sec_id: str) -> None:
-        # Section-level headings live in their own block so the renderer can
-        # nest them above the following articles.
+    section_counter = 0
+
+    def emit_section(css_class: str, text: str) -> None:
+        nonlocal section_counter
+        flush_article()
+        section_counter += 1
         blocks.append(
             Block(
-                id=sec_id,
+                id=f"sec-{section_counter}",
                 block_type="section",
                 title=text,
                 versions=(
@@ -206,41 +295,75 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
             )
         )
 
-    section_counter = 0
-    for line in lines:
+    for entry in line_stream:
+        if entry is None:
+            # PDF blank line / page break → end the running paragraph
+            flush_pending_paragraph()
+            continue
+
+        line = entry
+
+        if _TRANSITORIOS_RE.match(line):
+            emit_section("titulo_tit", line)
+            continue
+        if _LIBRO_RE.match(line) or _TITULO_RE.match(line):
+            emit_section("titulo_tit", line)
+            continue
+        if _CAPITULO_RE.match(line):
+            emit_section("capitulo_tit", line)
+            continue
+        if _SECCION_RE.match(line):
+            emit_section("seccion", line)
+            continue
+
         m = _ARTICULO_RE.match(line)
         if m:
             flush_article()
-            current_article_id = _articulo_id(m.group(1))
-            current_article_title = line.rstrip(".")
+            article_seq += 1
+            num = m.group("num")
+            sep = m.group("sep")
+            rest = m.group("rest").strip()
+            slug = _articulo_id(num)
+            # Disambiguate repeated "Artículo Único" entries in transitorios
+            # so each gets a unique block id (otherwise frontmatter slugs collide).
+            current_article_id = f"art-{slug}-{article_seq}"
+            current_article_title = _article_heading_text(num, sep)
             current_article_paragraphs = [
-                Paragraph(css_class="articulo", text=line)
+                Paragraph(css_class="articulo", text=current_article_title)
             ]
-            # Drain any pending section headings (none expected — we emit them eagerly)
-            section_paragraph_buffer.clear()
+            if rest:
+                # The article's first body line was on the same visual line as
+                # the heading. Seed the pending paragraph with it.
+                pending_body_lines.append(rest)
             continue
 
-        if _LIBRO_RE.match(line) or _TITULO_RE.match(line):
-            flush_article()
-            section_counter += 1
-            emit_section("titulo_tit", line, f"sec-{section_counter}")
-            continue
-        if _CAPITULO_RE.match(line):
-            flush_article()
-            section_counter += 1
-            emit_section("capitulo_tit", line, f"sec-{section_counter}")
-            continue
-        if _SECCION_RE.match(line):
-            flush_article()
-            section_counter += 1
-            emit_section("seccion", line, f"sec-{section_counter}")
+        if current_article_id is None:
+            # Free-form preamble (decree title, promulgation block) — drop.
             continue
 
-        if current_article_id is not None:
-            current_article_paragraphs.append(
-                Paragraph(css_class="parrafo", text=line)
+        is_stamp = bool(_REFORM_STAMP_RE.match(line))
+        is_sub_marker = bool(
+            _APARTADO_RE.match(line)
+            or _FRACCION_RE.match(line)
+            or _INCISO_RE.match(line)
+        )
+
+        # Force a paragraph break when:
+        #   - the running paragraph is a stamp and we just hit body text (or vice versa)
+        #   - the new line is a sub-article marker (Apartado / fracción / inciso)
+        if pending_body_lines:
+            switching_kind = (
+                (pending_kind == "stamp" and not is_stamp)
+                or (pending_kind == "body" and is_stamp)
             )
-        # else: free-form preamble (fechas de promulgación, etc.) — drop for now.
+            if switching_kind or is_sub_marker:
+                flush_pending_paragraph()
+
+        if is_stamp:
+            pending_kind = "stamp"
+        elif pending_kind is None:
+            pending_kind = "body"
+        pending_body_lines.append(line)
 
     flush_article()
     return blocks
