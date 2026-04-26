@@ -1,0 +1,31 @@
+name: test diputados connectivity
+
+# One-off probe: does a GitHub-hosted runner reach diputados.gob.mx?
+# If yes, we can drop the WG dependency from daily-update-mx.yml.
+# Triggered manually only.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: exit ip
+        run: curl -sS https://api.ipify.org
+
+      - name: probe diputados (3 tries)
+        run: |
+          for i in 1 2 3; do
+            echo "--- try $i ---"
+            curl -sS -o /dev/null -w "HTTP %{http_code} time=%{time_total}s exit_ip=%{remote_ip}\n" \
+              --max-time 20 https://www.diputados.gob.mx/LeyesBiblio/index.htm \
+              || echo "  try $i FAILED"
+          done
+
+      - name: try a law's DOC URL
+        run: |
+          curl -sS -o /tmp/cpeum.doc -w "HTTP %{http_code} time=%{time_total}s size=%{size_download}\n" \
+            --max-time 60 https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc \
+            || echo "DOC fetch FAILED"
+          ls -la /tmp/cpeum.doc 2>/dev/null || true
