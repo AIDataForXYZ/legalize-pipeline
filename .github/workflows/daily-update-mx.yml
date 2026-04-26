@@ -1,0 +1,181 @@
+name: Daily update — MX
+
+# ─────────────────────────────────────────────────────────────────────────────
+# SCHEDULING
+#   Runs Monday–Saturday at 09:00 UTC (≈ 04:00 Mexico City / CDT).
+#   The DOF (Diario Oficial de la Federación) typically publishes by 06:00
+#   Mexico City time; 09:00 UTC = 04:00 CDT gives ample margin.
+#   Saturdays are included because DOF publishes on Saturdays; the pipeline
+#   _SKIP_WEEKDAYS entry for "mx" already gates Sunday (weekday 6) runs.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────────────────────
+# VPN REQUIREMENT — SELF-HOSTED RUNNER MANDATORY
+#
+#   diputados.gob.mx (the Diputados LeyesBiblio portal) is geo-restricted
+#   and/or blocks cloud provider egress IPs.  This pipeline VM reaches it via
+#   WireGuard (wg-exec).  Standard GitHub-hosted runners (ubuntu-latest, etc.)
+#   do NOT have WireGuard configured and cannot reach diputados.gob.mx.
+#
+#   This workflow MUST run on a self-hosted runner that:
+#     1. Has WireGuard installed and a peer configured for diputados.gob.mx.
+#     2. Can reach diputados.gob.mx through that VPN.
+#     3. Has the runner agent registered with the label "self-hosted-mx-vpn"
+#        (see `runs-on` below — change the label to match what you registered).
+#
+#   TO REGISTER A SELF-HOSTED RUNNER:
+#     a. In the AIDataForXYZ/legalize-pipeline repo, go to
+#        Settings → Actions → Runners → New self-hosted runner.
+#     b. Follow the setup instructions on the VM that has WireGuard.
+#     c. When prompted for labels, add:  self-hosted-mx-vpn
+#     d. Start the runner agent:  ./run.sh   (or install as a service with
+#        ./svc.sh install && ./svc.sh start)
+#
+#   ALTERNATIVE (no GitHub Actions):
+#     If you prefer not to register a runner, you can run the pipeline
+#     directly on the VM with a systemd timer or cron job:
+#
+#       # /etc/cron.d/legalize-mx  (Mon–Sat 09:00 UTC)
+#       0 9 * * 1-6  legalize-bot  cd /home/dev/legalize-pipeline && \
+#           wg-exec legalize daily -c mx --push
+#
+#     That approach needs no GitHub App token — just the VM's git push
+#     credentials for AIDataForXYZ/legalize-mx.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────────────────────
+# GITHUB APP SETUP — TODO before first run
+#
+#   The workflow uses a GitHub App token to push to AIDataForXYZ/legalize-mx.
+#   If the "Legalize Pipeline" app is not yet installed on AIDataForXYZ:
+#
+#   1. Create (or reuse) a GitHub App owned by AIDataForXYZ.
+#      Grant it "Contents: Read & write" on the legalize-mx repository.
+#   2. Install the app on the AIDataForXYZ org and grant it access to
+#      legalize-mx.
+#   3. Store the app credentials as secrets in AIDataForXYZ/legalize-pipeline:
+#        LEGALIZE_APP_ID          — the numeric App ID from the app's settings
+#        LEGALIZE_APP_PRIVATE_KEY — the PEM private key (the whole file)
+#   4. The create-github-app-token step below already passes
+#        owner: AIDataForXYZ
+#        repositories: legalize-mx
+#      which scopes the token to legalize-mx only (per CLAUDE.md mandate).
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DOF DAILY DISCOVERY — CURRENT STATUS
+#
+#   As of this writing, MXDiscovery.discover_daily() returns an empty iterator
+#   for every source (DOF wiring is pending — see discovery.py comment).
+#   Until DOF daily discovery is implemented, the daily run will always report
+#   "0 commits" — it will NOT error out, so the workflow will show green but
+#   produce no new commits.  This is intentional: the workflow skeleton is
+#   in place so it can go live the moment the DOF discovery lands.
+#
+#   Diputados is not a daily-gazette source (it only publishes current
+#   consolidated text) so it is also not wired for daily updates.
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Mon–Sat 09:00 UTC.  Cron weekdays: 1=Mon … 6=Sat.
+    - cron: "0 9 * * 1-6"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to process (YYYY-MM-DD), empty = today"
+        required: false
+        type: string
+      dry_run:
+        description: "Dry run — simulate without creating commits or pushing"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  update-mx:
+    # ── IMPORTANT: change this label to match your registered self-hosted
+    #    runner.  Do NOT switch to ubuntu-latest — the VPN is not available
+    #    on GitHub-hosted runners (see comment block at top of file).
+    runs-on: [self-hosted, self-hosted-mx-vpn]
+
+    steps:
+      - name: Checkout engine repo
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v4
+
+      # ── App token scoped to legalize-mx only (CLAUDE.md requirement) ────────
+      # TODO: Create the GitHub App and store LEGALIZE_APP_ID +
+      #       LEGALIZE_APP_PRIVATE_KEY in repo secrets before this step works.
+      - name: Create GitHub App token for legalize-mx
+        uses: actions/create-github-app-token@f8d387b68d61c58ab83c6c016672934102569859 # v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.LEGALIZE_APP_ID }}
+          private-key: ${{ secrets.LEGALIZE_APP_PRIVATE_KEY }}
+          owner: AIDataForXYZ
+          repositories: legalize-mx
+
+      # ── Clone country repo so the pipeline can write commits into it ─────────
+      - name: Clone legalize-mx
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v4
+        with:
+          repository: AIDataForXYZ/legalize-mx
+          path: repos/mx
+          token: ${{ steps.app-token.outputs.token }}
+          fetch-depth: 0
+
+      # ── Python + uv setup ────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies via uv
+        run: |
+          pip install uv
+          uv sync
+
+      # ── Run the daily pipeline ───────────────────────────────────────────────
+      # The pipeline:
+      #   1. Resolves the date to process (defaults to today).
+      #   2. Calls MXDiscovery.discover_daily() to get DOF-published norm IDs.
+      #   3. Fetches, parses, and commits each modified norm.
+      #   4. Pushes to legalize-mx when at least one commit was created.
+      #
+      # Exit codes:
+      #   0  — success (including zero-commit "nothing new today" runs)
+      #   1  — discovery or fetch error (workflow shows red; do not push)
+      - name: Run daily pipeline for MX
+        env:
+          INPUT_DATE: ${{ inputs.date }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          DATE_FLAG=""
+          if [ -n "$INPUT_DATE" ]; then
+            DATE_FLAG="--date $INPUT_DATE"
+          fi
+
+          DRY_RUN_FLAG=""
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            DRY_RUN_FLAG="--dry-run"
+          fi
+
+          uv run legalize daily \
+            -c mx \
+            --repo-path repos/mx \
+            --push \
+            $DATE_FLAG \
+            $DRY_RUN_FLAG
+
+      # ── Push is handled by the pipeline (--push flag above).  The step
+      #    below is a safety net: it reports what happened without failing
+      #    the workflow if the push was already done (or there was nothing to
+      #    push because no commits were created).
+      - name: Verify country repo state
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git -C repos/mx log --oneline -5 || true
+          git -C repos/mx status --short || true
