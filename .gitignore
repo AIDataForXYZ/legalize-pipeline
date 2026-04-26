@@ -41,3 +41,6 @@ Thumbs.db
 
 # Separate standalone repo
 local-legalize-api/
+
+# Upstream PR draft (local review only, not committed)
+PR_BODY_UPSTREAM.md
