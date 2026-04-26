@@ -956,7 +956,9 @@ Si en el contrato no se determinaren con toda precisión la especie y calidad de
 
 ###### Artículo 88.-
 
-En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra. | Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo Del Comercio Electrónico. En consecuencia, se suprimió la referencia al Capítulo I De las diferentes clases de sociedades mercantiles (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo De las Sociedades de Comercio. |
+En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra.
+
+| Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo Del Comercio Electrónico. En consecuencia, se suprimió la referencia al Capítulo I De las diferentes clases de sociedades mercantiles (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo De las Sociedades de Comercio. |
 | --- |
 
 ## TITULO SEGUNDO

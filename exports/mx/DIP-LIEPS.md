@@ -164,33 +164,15 @@ H)	Combustibles Fósiles			Cuota		Unidad de medida
 
 | 1. Propano | 10.1248 | centavos por litro. |
 | --- | --- | --- |
-
 | 2. Butano | 13.1025 | centavos por litro. |
-| --- | --- | --- |
-
 | 3. Gasolinas y gasavión | 17.7591 | centavos por litro. |
-| --- | --- | --- |
-
 | 4. Turbosina y otros kerosenos | 21.2108 | centavos por litro. |
-| --- | --- | --- |
-
 | 5. Diesel | 21.5491 | centavos por litro. |
-| --- | --- | --- |
-
 | 6. Combustóleo | 22.9975 | centavos por litro. |
-| --- | --- | --- |
-
 | 7. Coque de petróleo | 26.6930 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 8. Coque de carbón | 62.5771 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 9. Carbón mineral | 47.1189 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 10. Otros combustibles fósiles | 68.1134 | pesos por tonelada de carbono que contenga el combustible. |
-| --- | --- | --- |
 | Cuotas del inciso H) actualizadas por acuerdo DOF 22-12-2014, 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025 |   |   |
 
 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción que corresponda a dichas fracciones respecto de la unidad de medida de que se trate.
@@ -3948,33 +3930,15 @@ Combustibles Fósiles	Cuota	Unidad de medida
 
 | 1. Propano | 8.2987 | centavos por litro. |
 | --- | --- | --- |
-
 | 2. Butano | 10.7394 | centavos por litro. |
-| --- | --- | --- |
-
 | 3. Gasolinas y gasavión | 14.5560 | centavos por litro. |
-| --- | --- | --- |
-
 | 4.Turbosina y otros kerosenos . | 17.3851 | centavos por litro. |
-| --- | --- | --- |
-
 | 5. Diésel | 17.6624 | centavos por litro. |
-| --- | --- | --- |
-
 | 6. Combustóleo | 18.8496 | centavos por litro. |
-| --- | --- | --- |
-
 | 7. Coque de petróleo | 21.8784 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 8. Coque de carbón | 51.2901 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 9. Carbón mineral | 38.6201 | pesos por tonelada. |
-| --- | --- | --- |
-
 | 10. Otros combustibles fósiles | 55.8277 | pesos por tonelada de carbono que contenga el combustible. |
-| --- | --- | --- |
 
 ARTÍCULO SEXTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2022, son las siguientes:
 
@@ -4352,3 +4316,29 @@ JKT§¨³ËÌlm5
 E3F3[3c3w3x3pZZ
 
 x3y333©3ª3pZZ
+
+dÊdËdàePfQfki§i¨ikîæîÒÆî²ªÒÒz$
+
+ïcðcúcûcücd
+
+Gkh
+
+Gkh
+
+Gkh
+
+Gkh
+
+såtætçtót]u^u²}³}~
+
+| "#CJOJ | QJ | ^Jh |
+| --- | --- | --- |
+
+| "#CJOJ | QJ | ^Jh |
+| --- | --- | --- |
+
+| OJ | QJ | ^J%hAxPh |
+| --- | --- | --- |
+
+| "#5:CJOJ | QJ | \^Jh |
+| --- | --- | --- |

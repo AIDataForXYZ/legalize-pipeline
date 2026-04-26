@@ -2924,7 +2924,9 @@ Los tribunales no estarán obligados a seguir sus propias jurisprudencias. Sin e
 
 ###### Artículo 229.
 
-Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación. | Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V Jurisprudencia por sustitución. Se suprime su referencia en virtud de que mediante el mismo Decreto DOF 07-06-2021 se recorrió el entonces Capítulo IV para convertirse en el actual Capítulo V Interrupción de la Jurisprudencia. |
+Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación.
+
+| Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V Jurisprudencia por sustitución. Se suprime su referencia en virtud de que mediante el mismo Decreto DOF 07-06-2021 se recorrió el entonces Capítulo IV para convertirse en el actual Capítulo V Interrupción de la Jurisprudencia. |
 | --- |
 
 ###### Artículo 230.

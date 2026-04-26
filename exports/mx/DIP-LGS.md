@@ -5471,9 +5471,7 @@ I. 	Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles 
 |   | DMA | dl-2,5-dimetoxi-(-metilfeniletilamina. |
 | --- | --- | --- |
 | NO TIENE | DMHP | 3-(1,2-dimetilhetil)-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6H dibenzo (b,d) pirano. |
-
-| NO TIENE |
-| --- |
+| NO TIENE |   |   |
 
 |   | DMT | n,n-dimetiltriptamina. |
 | --- | --- | --- |
@@ -5486,9 +5484,7 @@ I. 	Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles 
 |   | DOET | d1-2,5-dimetoxi-4-etil-(-metilfeniletilamina. |
 | --- | --- | --- |
 | (+)-LISERGIDA | LSD, LSD-25 | (+)-n,n-dietilisergamida-(dietilamida del ácido d-lisérgico). |
-
-| NO TIENE |
-| --- |
+| NO TIENE |   |   |
 
 |   | MDA | 3,4-metilenodioxianfetamina. |
 | --- | --- | --- |
@@ -5501,12 +5497,8 @@ I. 	Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles 
 |   | 3,4,5-trimetoxifenetilamina. |   |
 | --- | --- | --- |
 | NO TIENE | MMDA. | dl-5-metoxi-3,4-metilendioxi-(-metilfeniletilamina. |
-
 | NO TIENE | PARAHEXILO | 3-hexil-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6h-dibenzo [b,d] pirano. |
-| --- | --- | --- |
-
-| ETICICLIDINA |
-| --- |
+| ETICICLIDINA |   |   |
 
 |   | PCE | n-etil-1-fenilciclohexilamina. |
 | --- | --- | --- |
@@ -5546,18 +5538,10 @@ SINTÉTICOS
 |   | NO TIENE | 1,3- trifluoromethylphenylpiperazina |
 | --- | --- | --- |
 | PIPERONAL O HELIOTROPINA |   |   |
-
-| ISOSAFROL |
-| --- |
-
-| SAFROL |
-| --- |
-
-| CIANURO DE BENCILO |
-| --- |
-
-| alfa-Fenilacetoacetonitrilo (APAAN) |
-| --- |
+| ISOSAFROL |   |   |
+| SAFROL |   |   |
+| CIANURO DE BENCILO |   |   |
+| alfa-Fenilacetoacetonitrilo (APAAN) |   |   |
 
 | Sustancia adicionada por Acuerdo DOF 24-12-2018 |
 | --- |
@@ -9030,7 +9014,9 @@ El Ministerio Público no ejercerá acción penal por el delito previsto en el a
 
 ###### Artículo 479.-
 
-Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente: | Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato |   |
+Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente:
+
+| Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato |   |
 | --- | --- |
 | Narcótico | Dosis máxima de consumo personal e inmediato |
 | Opio | 2 gr. |

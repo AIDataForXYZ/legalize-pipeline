@@ -6708,38 +6708,13 @@ Los por cientos que se podrán aplicar para deducir las inversiones a que se ref
 
 |   | % deducción |
 | --- | --- |
-
-| a)	Tratándose de construcciones: |
-| --- |
-
-| 1.	Inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura. |
-| --- |
-
-| 1.	Bombas de suministro de combustible a trenes. |
-| --- |
-
-| 1.	Torres de transmisión y cables, excepto los de fibra óptica. |
-| --- |
-
-| 1.	Segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite. |
-| --- |
-
-| a)	En la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; y en el transporte marítimo, fluvial y lacustre. |
-| --- |
+| 2016 |   |
 
 Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere esta fracción, para los contribuyentes a que se refieren los incisos ii) y iii) de esta fracción, son los que a continuación se señalan:
 
 |   | % deducción |
 | --- | --- |
-
-| a)	Construcciones en carreteras, caminos, puertos, aeropuertos y ferrocarril y para la generación, transporte, conducción, transformación, distribución y suministro de energía. |
-| --- |
-
-| 1.	Bombas de suministro de combustible a trenes. |
-| --- |
-
-| a)	En la generación, transporte, conducción, transformación, distribución y suministro de energía. |
-| --- |
+| 2016 |   |
 
 En el caso de que el contribuyente se dedique a dos o más actividades de las señaladas en esta fracción, se aplicará el por ciento que le corresponda a la actividad en la que hubiera obtenido la mayor parte de sus ingresos en el ejercicio inmediato anterior a aquél en el que se realice la inversión.
 
@@ -7084,3 +7059,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
 åÎ·xåÎ·qxåÎ·åhxåÎ·åhxhíWwhdÚCJ
+
+| ÀÁWXZÚÛßûü6 | 7 | < |   |
+| --- | --- | --- | --- |

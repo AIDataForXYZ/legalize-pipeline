@@ -9102,9 +9102,7 @@ Evaluación neurológica completa.
 | Severa | 61-90% |   |
 | --- | --- | --- |
 | Desequilibrio que impide la deambulación independiente y requiere asistencia continua de otra persona. No puede realizar ninguna actividad laboral. | Permanente total | 100% |
-
-| Adicionalmente a lo establecido en el artículo 492 de la Ley Federal del Trabajo, se debe considerar otorgar el valor máximo del rango del porcentaje de incapacidad, cuando el desempeño de sus actividades laborales pueda poner en riesgo su vida, la de terceros o el patrimonio. |
-| --- |
+| Adicionalmente a lo establecido en el artículo 492 de la Ley Federal del Trabajo, se debe considerar otorgar el valor máximo del rango del porcentaje de incapacidad, cuando el desempeño de sus actividades laborales pueda poner en riesgo su vida, la de terceros o el patrimonio. |   |   |
 
 | 429 | Disfunción tubárica crónica bilateral, resistente a tratamiento. | 30 a 40% |
 | --- | --- | --- |
