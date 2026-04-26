@@ -3276,18 +3276,6 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-àá<=PQóçóÛóÑÇ¾µ¾ÑÇ¾ÑÇ¾ÑÇ¾ÑÇ¾ÑÇ¾¬¾µ¾µ¾ÑÇ¾¬¾µ¾ÑÇ¾µ¾ÑÇ¾µ¾µ¾ÑÇ¾ÑÇ¾ÑÇ¾µ¾£¾µhÉhÁCJhÉh»:CJhÉhÉCJhÉh.,CJhÉh.,5CJhÉhÉ5CJhÉhÉ5CJaJhÉhÁ5CJaJhÉh.,5CJaJ@WÒÓijgh./{|
-
 ôõúÕÖVW¸¹'(5LMP õëâõëâÙâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâÙâõëâõëâõëâõëâõëâõëâõëâõëâÙâÙâÙâõëâõëâÙhÉh¨ÓCJhÉh.,CJhÉh.,5CJhÉh¨Ó5CJV5
 
 +,0EFT±²À
-
-þÿÆÇÕÖ01?±²µìíò±²÷î÷î÷îäÚîäÎÃäÚîäÚî÷îäÚîäÚîºîäÚîäÚîäÚîäÚîäÚîäÚîäÚî÷î÷î±î÷îäÚîäÚîäÚîäÚîähÉhÁCJhÉhQeCJhèýh.,CJaJhèýh.,5CJaJhÉh.,5CJhÉh=5CJhÉh.,CJhÉh=CJFÛ­®pqÔÕrs+,EF±²
-
-op~uv4 5 C o¡p¡~¡¡¡H£I£q¤r¤¤¦¦§§å§æ§õ§Ð¨Ñ¨ß¨~©©©´ªµªÂªÃªÑª®«¯«¬¬º¬»¬É¬d­e­s­P®Q®_®¯¯õìâõìâõìâõìâõìâõìâõìÙìÙìÙìâõìÙìâõìÐìâõìÙìâõìÙìÙìâõìâõìâõìÇìâõìÙìÙìâõìâõìâõìâhÉh»:CJhÉhÁCJhÉh=CJhÉh=5CJhÉh.,CJhÉh.,5CJL®LM
-
-jkyno¼½ãäåó=>BÛÜá÷íã÷Ú÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷Ñ÷íÅºíã÷íã÷íã÷íã÷íãhèýh.,CJaJhèýh.,5CJaJhÉh=CJhÉh»:CJhÉh.,5CJhÉh=5CJhÉh.,CJI^º»EFðñ
-
-(((D(E([)\)j)ß)à)ã)***E*F*T*æ*ç*ê*T+U+Y+°+÷íã÷íã÷Ú÷íã÷Ñ÷Ñ÷íã÷Ñ÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷Ñ÷íã÷íÅºíã÷ã÷íã÷íã÷íã÷íã÷íã÷íã÷hèýh.,CJaJhèýh.,5CJaJhÉh=CJhÉh»:CJhÉh.,5CJhÉh=5CJhÉh.,CJI­#®#%%&&®'¯'»'
-
-µ¶ºõöÔÕklz-.<ùú-.=þÿõìâõìâõìâõìÙìâõìÙìÙìÙìâõìâõìÙìâõìÐìâõìÙìâõìâõìâõìÇìÇìâõìÙìâõìâõìâõìâ»âõìâõhèýh.,5CJaJhÉh»:CJhÉhQeCJhÉh=CJhÉh=5CJhÉh.,CJhÉh.,5CJJ¸¹±²>?

@@ -1730,7 +1730,33 @@ TERCERO.- Los criaderos de ejemplares de psitácidos cuya distribución natural 
 
 CUARTO.- Para los efectos del presente decreto son psitácidos de distribución natural dentro del territorio nacional los siguientes:
 
-Aratinga holochloraAratinga holochlora brevipesAratinga holochlora brewsteriAratinga strenuaAratinga brevipesAratinga nanaAratinga canicularisAra militarisAra macaoRhynchopsitta pachyrhynchaRhynchopsitta terrisiBolborhynchus lineolaForpus cyanopygiusForpus cyanopygius insularisBrotogeris jugularisPionopsitta haematotisPionus senilesAmazona albifronsAmazona xantholoraAmazona viridigenalisAmazona finschiAmazona autumnalisAmazona farinosaAmazona oratrixAmazona oratrix tresmariaeAmazona auropalliata
+| Aratinga holochlora |
+| --- |
+| Aratinga holochlora brevipes |
+| Aratinga holochlora brewsteri |
+| Aratinga strenua |
+| Aratinga brevipes |
+| Aratinga nana |
+| Aratinga canicularis |
+| Ara militaris |
+| Ara macao |
+| Rhynchopsitta pachyrhyncha |
+| Rhynchopsitta terrisi |
+| Bolborhynchus lineola |
+| Forpus cyanopygius |
+| Forpus cyanopygius insularis |
+| Brotogeris jugularis |
+| Pionopsitta haematotis |
+| Pionus seniles |
+| Amazona albifrons |
+| Amazona xantholora |
+| Amazona viridigenalis |
+| Amazona finschi |
+| Amazona autumnalis |
+| Amazona farinosa |
+| Amazona oratrix |
+| Amazona oratrix tresmariae |
+| Amazona auropalliata |
 
 o sus equivalentes de conformidad con la nomenclatura científica aplicable y cualquier otra ave de esta misma familia que fuese descubierta dentro del territorio nacional.
 
@@ -2168,42 +2194,10 @@ Ciudad de México, a 25 de junio de 2025.- Sen. Gerardo Fernández Noroña, Pres
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-55B*CJaJph h²x[hÎ
+| sss¨uúuûuvxx | zzÖ{ |
+| --- | --- |
 
-55B*CJaJphhÎ
-
-5B*CJaJphh²x[hÎ
-
-5B*CJaJphh²x[hÎ
-
-5B*CJaJph h²x[hÎ
-
-55B*CJaJphhÎ
-
-5B*CJaJph hÎ
-
-55B*CJaJphhOFJ@ûÿCJ^JhOFJ5CJ\^JhOFJ5CJ^JhOFJCJ^J%hÎ
-
-55B*CJaJph h²x[hÎ
-
-55B*CJaJph%hÎ
-
-5B*CJaJphhÎ
-
-53VWjdÉÊÎÏ:;<ApìÝÉ¶Ý{Ým{ÝaÝPAhèMÈhèMÈB*CJaJph hèMÈhèMÈ5B*CJaJphhÎ
-
-5B*CJaJphhÎ
-
-55B*CJaJphhèMÈ5B*CJaJph h²x[hÎ
-
-5B*CJaJph%hÎ
-
-5B*CJaJphhèMÈ5B*CJaJph h²x[hÎ
-
-55B*CJaJphh²x[hÎ
-
-sss¨uúuûuvxxzzÖ{
-
-xxzzÕ{Ö{ä{
+| xxz | zÕ{Ö{ä{ |
+| --- | --- |
 
 y!y>yRyfy~yyyÁzâz

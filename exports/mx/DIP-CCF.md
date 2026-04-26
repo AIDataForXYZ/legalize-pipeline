@@ -9660,9 +9660,8 @@ La partición constará en escritura pública, siempre que en la herencia haya b
 
 Nota: El Artículo 14 Transitorio de la Ley del Notariado para el Distrito Federal y Territorios, publicada en el DOF 23-02-1946, estableció que el artículo 1777, entre otros, del entonces Código Civil para el Distrito y Territorios Federales, se modifican () en los términos del artículo 54 de la presente Ley. A su vez, el artículo 54 de la citada Ley, a la letra señalaba:
 
-###### Artículo 54.-
-
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario.
+| Artículo 54.- Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario. |
+| --- |
 
 ###### Artículo 1778.-
 
@@ -10940,9 +10939,8 @@ La cesión de créditos civiles que no sean a la orden o al portador, puede hace
 
 Nota: El Artículo 14 Transitorio de la Ley del Notariado para el Distrito Federal y Territorios, publicada en el DOF 23-02-1946, estableció que el artículo 2033, entre otros, del entonces Código Civil para el Distrito y Territorios Federales, se modifican () en los términos del artículo 54 de la presente Ley. A su vez, el artículo 54 de la citada Ley, a la letra señalaba:
 
-###### Artículo 54.-
-
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario.
+| Artículo 54.- Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario. |
+| --- |
 
 ###### Artículo 2034.-
 
@@ -12254,9 +12252,8 @@ El contrato de compra-venta no requiere para su validez formalidad alguna especi
 
 Nota: El Artículo 14 Transitorio de la Ley del Notariado para el Distrito Federal y Territorios, publicada en el DOF 23-02-1946, estableció que el artículo 2316, entre otros, del entonces Código Civil para el Distrito y Territorios Federales, se modifican () en los términos del artículo 54 de la presente Ley. A su vez, el artículo 54 de la citada Ley, a la letra señalaba:
 
-###### Artículo 54.-
-
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario.
+| Artículo 54.- Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario. |
+| --- |
 
 ###### Artículo 2317.-
 
@@ -12408,9 +12405,8 @@ La donación de bienes raíces se hará en la misma forma que para su venta exig
 
 Nota: El Artículo 14 Transitorio de la Ley del Notariado para el Distrito Federal y Territorios, publicada en el DOF 23-02-1946, estableció que el artículo 2345, entre otros, del entonces Código Civil para el Distrito y Territorios Federales, se modifican () en los términos del artículo 54 de la presente Ley. A su vez, el artículo 54 de la citada Ley, a la letra señalaba:
 
-###### Artículo 54.-
-
-Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario.
+| Artículo 54.- Las enajenaciones de bienes inmuebles cuyo valor convencional sea mayor de quinientos pesos y la constitución o transmisión de derechos reales estimados en más de quinientos pesos o que garanticen un crédito por mayor cantidad que la mencionada, para su validez deberán constar en escritura ante Notario. |
+| --- |
 
 ###### Artículo 2346.-
 
@@ -15052,7 +15048,8 @@ El deudor puede usar de la prenda que quede en su poder en los términos que con
 
 > <small>Artículo reformado DOF 18-01-1952</small>
 
-Nota: El artículo 2859 fue reformado por Decreto DOF 18-01-1952, sin embargo, de conformidad con el artículo Segundo Transitorio del Decreto DOF 03-01-1979, se establece: se abroga el (Decreto) que reforma varios artículos del Código Civil para el Distrito Federal, en Materia Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro Cuarto de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el Diario Oficial de la Federación el 18 de enero de 1952.
+| Nota: El artículo 2859 fue reformado por Decreto DOF 18-01-1952, sin embargo, de conformidad con el artículo Segundo Transitorio del Decreto DOF 03-01-1979, se establece: se abroga el (Decreto) que reforma varios artículos del Código Civil para el Distrito Federal, en Materia Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro Cuarto de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el Diario Oficial de la Federación el 18 de enero de 1952. |
+| --- |
 
 ###### Artículo 2860.-
 
@@ -16608,19 +16605,23 @@ ACLARACION a la publicación del Código Civil para el Distrito y Territorios Fe
 
 Publicada en el Diario Oficial de la Federación el 13 de junio de 1928
 
-Nota: Fe de erratas a los artículos 103, 135, 315, 316, 524, 708 y 710.
+| Nota: Fe de erratas a los artículos 103, 135, 315, 316, 524, 708 y 710. |
+| --- |
 
 ACLARACION a la publicación del Código Civil para el Distrito y Territorios Federales.
 
 Publicada en el Diario Oficial de la Federación el 20 de julio de 1928
 
-Nota: Fe de erratas a los artículos 826 y 1067.
+| Nota: Fe de erratas a los artículos 826 y 1067. |
+| --- |
 
 ACLARACION a la publicación del Código Civil para el Distrito y Territorios Federales en materia común, y para toda la República, en materia federal.
 
 Publicada en el Diario Oficial de la Federación el 21 de diciembre de 1928
 
-Nota: Fe de erratas a los artículos 75, 103, 135, 189, 267, 315, 316, 466, 501, 524, 708, 710, 826, 1005, 1067, 1512, 1516, 1517, 1518, 1524, 1543, 1553, 1556, 1617, 1815, 1899, 2113, 2169, 2269, 2314, 2315, 2471, 2482, 2484, 2494, 2571, 2665, 2719, 2720, 2724, 2890, 2893, 2919, 2973 y 3015; así como a la denominación de los Capítulos XII, XIII, XIV, XV, XVI y XVII del Título Noveno del Libro Primero; la denominación del Título Segundo De la posesión y del Título Tercero De la propiedad del Libro Segundo; la denominación del Título Cuarto Incumplimiento de la obligaciones de la Primera Parte del Libro Cuarto; la denominación del Título Octavo de la Parte Segunda del Libro Cuarto; la denominación del Capítulo I De las sociedades del Título Decimoprimero de la Parte Segunda del Libro Cuarto; y a la denominación del Capítulo I del Título Segundo de la Tercera Parte del Libro Cuarto.DECRETO por el cual se previene que el Código Civil de 30 de agosto de 1928, comenzará a regir el 1o. de octubre de 1932.
+| Nota: Fe de erratas a los artículos 75, 103, 135, 189, 267, 315, 316, 466, 501, 524, 708, 710, 826, 1005, 1067, 1512, 1516, 1517, 1518, 1524, 1543, 1553, 1556, 1617, 1815, 1899, 2113, 2169, 2269, 2314, 2315, 2471, 2482, 2484, 2494, 2571, 2665, 2719, 2720, 2724, 2890, 2893, 2919, 2973 y 3015; así como a la denominación de los Capítulos XII, XIII, XIV, XV, XVI y XVII del Título Noveno del Libro Primero; la denominación del Título Segundo De la posesión y del Título Tercero De la propiedad del Libro Segundo; la denominación del Título Cuarto Incumplimiento de la obligaciones de la Primera Parte del Libro Cuarto; la denominación del Título Octavo de la Parte Segunda del Libro Cuarto; la denominación del Capítulo I De las sociedades del Título Decimoprimero de la Parte Segunda del Libro Cuarto; y a la denominación del Capítulo I del Título Segundo de la Tercera Parte del Libro Cuarto. |
+| --- |
+| DECRETO por el cual se previene que el Código Civil de 30 de agosto de 1928, comenzará a regir el 1o. de octubre de 1932. |
 
 Publicado en el Diario Oficial de la Federación el 1o. de septiembre de 1932
 
@@ -17563,7 +17564,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-÷¾ÍP_­¬pÔãETdsP_}¹È­Ø ç k¡z¡å¡ô¡ü£¤Ñ¤à¤z¥¥I¦X¦«§º§-¨<¨ ¨ý¨þ¨
-
-óçóÚóÍóÚóÚÀ¶©¶Àynyaynya¶aynyah<X¢hÃCJ^JaJhAtÊ5CJ^JaJh<X¢hÃ5CJ^JaJhAtÊ5CJ^Jh<X¢h$W75CJ^Jh<X¢hõQCJ^JaJh­+¯hAtÊCJ^JaJhAtÊCJ^JaJh<X¢h$W7CJ^JaJh<X¢hÌQCJ^JaJh<X¢h2tCJ^JaJh<X¢h$&CJ\^Jh<X¢h$&CJ^JaJ!9#

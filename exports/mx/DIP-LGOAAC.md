@@ -4022,7 +4022,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
 
-Nota: De conformidad con el artículo Segundo Transitorio de este Decreto, por el que se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito, además de derogar el Capítulo III, se realizan las siguientes modificaciones a esta ley: se reforman los artículos 5 párrafos primero y quinto; 7 primer párrafo; 8 fracciones I primer párrafo, VI y XI; 45-Bis 3 primer párrafo; y se derogan los artículos 3 fracción IV, y 78 segundo párrafo.
+| Nota: De conformidad con el artículo Segundo Transitorio de este Decreto, por el que se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito, además de derogar el Capítulo III, se realizan las siguientes modificaciones a esta ley: se reforman los artículos 5 párrafos primero y quinto; 7 primer párrafo; 8 fracciones I primer párrafo, VI y XI; 45-Bis 3 primer párrafo; y se derogan los artículos 3 fracción IV, y 78 segundo párrafo. |
+| --- |
 
 ##### TRANSITORIOS
 
@@ -4254,18 +4255,10 @@ SSS4T5T6T9T6V7V8V;V`VaVdV­V®V¯V²VTWUWVWYWXXXX¡Z¢Z£Z÷ñèÞ÷ñèÞ÷ñè
 
 eeee,eDePeYe]egeheieyeeeªe³e·eÁeÂeÃeÓeàeøef
 
-ì%ì/ì0ì1ì?ìUíVíWíZí¡î¢î¦îYïZï[ï`ïKðLðMðQðåÎå´´~påÎåf]W]f]Pf]W]f]W]f
-
-&!&(( (R*j*t*u*v**H+I+ô+õ+ö+ù+ª.«.¯.³/´/åÎ»¤åztkååaWkQkQkWkJWkQ
-
 MMeMfMqMrMsMuMÚMÛMÜMßMúMûMüMþMN
 
 MrMsMÛMÜMûMüM
 
 TTT$T%T&T)TITJTKTNThTiTjTmT¸W÷íäÞ÷íäÞ÷íä×íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íä×íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íä
 
-¢n¢o¢v¤~¤Ö¤¥1¥9¥S¥T¥j¥òã×Ì×ÌÄ¶ªzpgpgagpgagpgWgapPp
-
 {CJhð
-
-{CJaJ

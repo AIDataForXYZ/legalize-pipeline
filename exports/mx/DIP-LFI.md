@@ -3480,10 +3480,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 Lunes 4 de junio de 2001	DIARIO OFICIAL	(Primera Sección)     PAGE52
 
-äåAB@Acdr¿ÀÁÃòó#$-067YZìäÖÉÀÉ­ä¤äÖÉ­ÉÖÉÉÉ­ÉÀÀÀzÀÀÀ­¤äÀ­À
-
-<?:?;???oAAA±BÓBÔBÕGÖGõéßß×ÐÆ¾ÐÐÐ©¾©©¾©©©
-
-<<q<~=?:???oAAAA°B±BÓBÔBÙBÔGÕGÐIÑIJJ	JJ»J¼J¿JXLYLZL]LÝLÞLMMMÏOÐOVPWPQQ
+| <<q<~=?:???oAAAA°B±BÓBÔBÙBÔGÕGÐIÑI | JJ	JJ»J¼J¿JXLYLZL]LÝLÞLMMMÏOÐOVPWPQQ |
+| --- | --- |
 
 JÅCJh

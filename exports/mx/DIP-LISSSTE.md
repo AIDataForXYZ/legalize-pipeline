@@ -2716,7 +2716,18 @@ II. A partir del primero de enero de dos mil diez:
 
 a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubieran cotizado veintiocho años o más, tendrán derecho a Pensión por jubilación conforme a la siguiente tabla:
 
-AñosEdad Mínima de Jubilación TrabajadoresEdad Mínima de Jubilación Trabajadoras2010 y 201151492012 y 201352502014 y 201553512016 y 201754522018 y 201955532020 y 202156542022 y 202357552024 y 202558562026 y 202759572028 en adelante6058
+| Años | Edad Mínima de Jubilación Trabajadores | Edad Mínima de Jubilación Trabajadoras |
+| --- | --- | --- |
+| 2010 y 2011 | 51 | 49 |
+| 2012 y 2013 | 52 | 50 |
+| 2014 y 2015 | 53 | 51 |
+| 2016 y 2017 | 54 | 52 |
+| 2018 y 2019 | 55 | 53 |
+| 2020 y 2021 | 56 | 54 |
+| 2022 y 2023 | 57 | 55 |
+| 2024 y 2025 | 58 | 56 |
+| 2026 y 2027 | 59 | 57 |
+| 2028 en adelante | 60 | 58 |
 
 La Pensión por jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del sueldo que se define en la fracción IV y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
 
@@ -2756,7 +2767,13 @@ El monto de la Pensión de retiro por edad y tiempo de servicios será equivalen
 
 La edad a que se refiere este inciso, se incrementará de manera gradual conforme a la tabla siguiente:
 
-AñosEdad para pensión por edad y tiempo de servicios2010 y 2011562012 y 2013572014 y 2015582016 y 2017592018 en adelante60
+| Años | Edad para pensión por edad y tiempo de servicios |
+| --- | --- |
+| 2010 y 2011 | 56 |
+| 2012 y 2013 | 57 |
+| 2014 y 2015 | 58 |
+| 2016 y 2017 | 59 |
+| 2018 en adelante | 60 |
 
 c) Tendrán derecho a Pensión por cesantía en edad avanzada, los Trabajadores que se separen voluntariamente del servicio o que queden privados de trabajo después de los sesenta años de edad y que hayan cotizado por un mínimo de diez años al Instituto.
 
@@ -2778,7 +2795,13 @@ El otorgamiento de la Pensión por cesantía en edad avanzada se determinará co
 
 La edad mínima para pensionarse por cesantía en edad avanzada se incrementará de manera gradual conforme a la tabla siguiente:
 
-AñosEdad para pensión por cesantía en edad avanzada2010 y 2011612012 y 2013622014 y 2015632016 y 2017642018 en adelante65
+| Años | Edad para pensión por cesantía en edad avanzada |
+| --- | --- |
+| 2010 y 2011 | 61 |
+| 2012 y 2013 | 62 |
+| 2014 y 2015 | 63 |
+| 2016 y 2017 | 64 |
+| 2018 en adelante | 65 |
 
 Las Pensiones a que tengan derecho las personas a que se refiere la tabla anterior iniciarán en cuarenta por ciento en cada renglón y se incrementarán en dos por ciento cada año de edad hasta llegar a la Pensión máxima de cincuenta por ciento;
 
@@ -2966,7 +2989,14 @@ TRIGÉSIMO. La Cuota Social del seguro de salud, será cubierta por el Gobierno 
 
 TRIGÉSIMO PRIMERO. La Cuota por el seguro de retiro, cesantía en edad avanzada y vejez correspondiente a los Trabajadores se deberá ajustar a lo dispuesto en la tabla siguiente:
 
-AñosCuota a cargo del TrabajadorA la entrada en vigor de esta Ley3.5%20084.025%20094.55%20105.075%20115.6%2012 en adelante6.125%
+| Años | Cuota a cargo del Trabajador |
+| --- | --- |
+| A la entrada en vigor de esta Ley | 3.5% |
+| 2008 | 4.025% |
+| 2009 | 4.55% |
+| 2010 | 5.075% |
+| 2011 | 5.6% |
+| 2012 en adelante | 6.125% |
 
 DISPOSICIONES GENERALES
 
@@ -2996,7 +3026,12 @@ TRIGÉSIMO OCTAVO. El Instituto publicará en el Diario Oficial de la Federació
 
 Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la Renta de acuerdo con las siguientes bases específicas:
 
-FechaPorcentaje de Condonación1.	Antes del 30 de junio de 200880%2.	1º de julio al 31 de diciembre de 200860%3.	1º de enero al 30 de junio de 200940%4.	1º de julio al 31 de diciembre de 200930%
+| Fecha | Porcentaje de Condonación |
+| --- | --- |
+| 1.	Antes del 30 de junio de 2008 | 80% |
+| 2.	1º de julio al 31 de diciembre de 2008 | 60% |
+| 3.	1º de enero al 30 de junio de 2009 | 40% |
+| 4.	1º de julio al 31 de diciembre de 2009 | 30% |
 
 B. Las Dependencias y Entidades que reconozcan antes del treinta de junio de dos mil ocho, el total de sus adeudos generados con anterioridad a la entrada en vigor de esta Ley, y opten por saldar sus adeudos mediante la formalización de un convenio de reconocimiento de adeudo y forma de pago a plazos, tendrán el beneficio de la condonación del veinte por ciento del total de los recargos generados. Estos convenios deberán someterse a la opinión de la Secretaría de Hacienda y Crédito Público previamente a su celebración.
 
@@ -3571,5 +3606,3 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 !8Lbvª¬­¹
-
-TCJaJmHnHu* jhø}Êhø}ÊCJUaJ*hå

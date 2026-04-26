@@ -18,18 +18,6 @@ doc_url: "https://www.diputados.gob.mx/LeyesBiblio/doc/CFPC.doc"
 ---
 # CÓDIGO Federal de Procedimientos Civiles
 
-Decreto que expide esta Ley
-
-Artículo Tercero. De conformidad con el Artículo Segundo de las Disposiciones Transitorias de este Decreto, se abrogan el Código Federal de Procedimientos Civiles, así como la legislación procesal civil y familiar de las Entidades Federativas.
-
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
-
-MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
-
-"El Congreso de los Estados Unidos Mexicanos, decreta:
-
-CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
-
 ## LIBRO PRIMERO
 
 ## TITULO PRIMERO
@@ -4226,7 +4214,9 @@ FE DE ERRATAS DEL CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES.
 
 Publicada en el Diario Oficial de la Federación el 13 de marzo de 1943
 
-Nota: Fe de erratas a los artículos 3º, 4º, 5º, 7º, 8º, 9º, 11, 17, 21, 23, 24, 28, 31, 36, 39, 49, 54, 77, 79, 104, 105, 107, 109, 110, 111, 112, 113, 114, 116, 118, 119, 124, 126, 129, 130, 132, 135, 136, 137, 138, 141, 144, 146, 149, 153, 155, 157, 159, 163, 164, 171, 173, 174, 176, 181, 202, 203, 206, 213, 215, 219, 220, 221, 222, 223, 234, 235, 237, 242, 249, 251, 253, 256, 259, 261, 263, 264, 268, 272, 276, 280, 287, 288, 292, 302, 313, 316, 318, 319, 320, 322, 323, 325, 326, 327, 329, 330, 343, 344, 347, 348, 352, 357, 365, 373, 374, 375, 376, 381, 386, 389, 398, 401, 409, 421, 422, 423, 426, 430, 432, 434, 435, 436, 438, 439, 441, 445, 447, 449, 451, 452, 453, 455, 458, 459, 460, 468, 471, 472, 475, 481, 482, 484, 498, 503, 514, 516, 517, 525, 529, 531, 536, 538, 539 y 3º Transitorio; así como a la denominación del Capítulo VII del Título Cuarto del Libro Primero, y a la denominación Capítulo IV del Título Primero del Libro Tercero.DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Federal de Procedimientos Civiles.
+| Nota: Fe de erratas a los artículos 3º, 4º, 5º, 7º, 8º, 9º, 11, 17, 21, 23, 24, 28, 31, 36, 39, 49, 54, 77, 79, 104, 105, 107, 109, 110, 111, 112, 113, 114, 116, 118, 119, 124, 126, 129, 130, 132, 135, 136, 137, 138, 141, 144, 146, 149, 153, 155, 157, 159, 163, 164, 171, 173, 174, 176, 181, 202, 203, 206, 213, 215, 219, 220, 221, 222, 223, 234, 235, 237, 242, 249, 251, 253, 256, 259, 261, 263, 264, 268, 272, 276, 280, 287, 288, 292, 302, 313, 316, 318, 319, 320, 322, 323, 325, 326, 327, 329, 330, 343, 344, 347, 348, 352, 357, 365, 373, 374, 375, 376, 381, 386, 389, 398, 401, 409, 421, 422, 423, 426, 430, 432, 434, 435, 436, 438, 439, 441, 445, 447, 449, 451, 452, 453, 455, 458, 459, 460, 468, 471, 472, 475, 481, 482, 484, 498, 503, 514, 516, 517, 525, 529, 531, 536, 538, 539 y 3º Transitorio; así como a la denominación del Capítulo VII del Título Cuarto del Libro Primero, y a la denominación Capítulo IV del Título Primero del Libro Tercero. |
+| --- |
+| DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Federal de Procedimientos Civiles. |
 
 Publicado en el Diario Oficial de la Federación el 12 de enero de 1988
 
@@ -4785,5 +4775,3 @@ Ciudad de México, a 12 de junio de 2025
 LICENCIADO RAFAEL COELLO CETINA
 
 SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- Rúbrica.
-
-FOFPFÙFÚFHHH-H.H-I.IBJCJêKL

@@ -1097,7 +1097,3 @@ Artículo Tercero. Se reforma el artículo 18; y se adiciona una fracción X al 
 Ciudad de México, a 29 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Navor Alberto Rojas Mancera, Secretario.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-OOOOOOOYPZP_P`P2Q3Q9Q:QjQkQ¤Q¥QÊQíÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË££(h¡Sh1
-
-1CJh

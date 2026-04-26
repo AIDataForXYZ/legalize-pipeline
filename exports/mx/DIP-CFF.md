@@ -856,41 +856,55 @@ import "http://gaceta.diputados.gob.mx/Gaceta/61/2009/oct/Image4.gif" \* MERGEFO
 
 Donde:
 
-d = Día del que se desea conocer el valor de la UDI.
+| d | = Día del que se desea conocer el valor de la UDI. |
+| --- | --- |
 
-m = Mes del año a que corresponda d.
+| m | = Mes del año a que corresponda d. |
+| --- | --- |
 
-UDId,m= Unidad de Inversión correspondiente al día d del mes m.
+| UDId,m | = Unidad de Inversión correspondiente al día d del mes m. |
+| --- | --- |
 
-UDId-1,m= Unidad de Inversión correspondiente al día inmediato anterior al día d del mes m.
+| UDId-1,m | = Unidad de Inversión correspondiente al día inmediato anterior al día d del mes m. |
+| --- | --- |
 
-*= Operador de multiplicación.
+| * | = Operador de multiplicación. |
+| --- | --- |
 
-import "http://www.senado.gob.mx/sgsp/gaceta/61/1/2009-10-30-1/assets/images/a.gif" \* MERGEFORMATINET = Raíz enésima.
+| import "http://www.senado.gob.mx/sgsp/gaceta/61/1/2009-10-30-1/assets/images/a.gif" \* MERGEFORMATINET | = Raíz enésima. |
+| --- | --- |
 
 1. Para determinar el valor de la UDI para los días del 11 al 25 del mes m se utiliza:
 
-INPCq= Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m.
+| INPCq | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m. |
+| --- | --- |
 
-INPCq-1= Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m.
+| INPCq-1 | = Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m. |
+| --- | --- |
 
 2. Para obtener el valor de la UDI para los días del 26 de cada mes al 10 del mes inmediato siguiente, se utiliza la siguiente formulación:
 
 2.1. Para determinar el valor de la UDI para los días del 26 al último día del mes m se utiliza:
 
-n= Número de días naturales contados desde el 26 del mes m y hasta el día 10 del mes siguiente.
+| n | = Número de días naturales contados desde el 26 del mes m y hasta el día 10 del mes siguiente. |
+| --- | --- |
 
-INPCq= Índice Nacional de Precios al Consumidor de la primera quincena del mes m.
+| INPCq | = Índice Nacional de Precios al Consumidor de la primera quincena del mes m. |
+| --- | --- |
 
-INPCq-1= Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m.
+| INPCq-1 | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m. |
+| --- | --- |
 
 2.2. Para determinar el valor de la UDI para los días del 1 al 10 del mes m se utiliza:
 
-n= Número de días naturales contados desde el 26 del mes inmediato anterior al mes m y hasta el día 10 del mes m.
+| n | = Número de días naturales contados desde el 26 del mes inmediato anterior al mes m y hasta el día 10 del mes m. |
+| --- | --- |
 
-INPCq= Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m.
+| INPCq | = Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m. |
+| --- | --- |
 
-INPCq-1= Índice Nacional de Precios al Consumidor de la segunda quincena del mes antepasado al mes m.
+| INPCq-1 | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes antepasado al mes m. |
+| --- | --- |
 
 Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -6644,7 +6658,8 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II. 	Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-Nota: Por Decreto DOF 09-12-2019 se adicionó un nuevo Título Sexto De la Revelación de Esquemas Reportables con un Capítulo Único, comprendiendo los artículos 197 al 202. En consecuencia, se suprimieron las referencias al anterior y previamente derogado Título Sexto Del Juicio Contencioso Administrativo y a su Capítulo I Disposiciones generales, Capítulo II De la improcedencia y del sobreseimiento, Capítulo III De los impedimentos y excusas, Capítulo IV De la demanda, Capítulo V De la contestación, Capítulo VI De los incidentes, Capítulo VII De las pruebas, Capítulo VIII Del cierre de la instrucción, Capítulo IX De la sentencia, Capítulo X De los recursos con sus Secciones Primera De la Reclamación, Segunda De la Apelación y Tercera De la Revisión, así como del Capítulo XI De las notificaciones y del cómputo de los términos y Capítulo XII De la jurisprudencia del mismo Título Sexto antes derogado.
+| Nota: Por Decreto DOF 09-12-2019 se adicionó un nuevo Título Sexto De la Revelación de Esquemas Reportables con un Capítulo Único, comprendiendo los artículos 197 al 202. En consecuencia, se suprimieron las referencias al anterior y previamente derogado Título Sexto Del Juicio Contencioso Administrativo y a su Capítulo I Disposiciones generales, Capítulo II De la improcedencia y del sobreseimiento, Capítulo III De los impedimentos y excusas, Capítulo IV De la demanda, Capítulo V De la contestación, Capítulo VI De los incidentes, Capítulo VII De las pruebas, Capítulo VIII Del cierre de la instrucción, Capítulo IX De la sentencia, Capítulo X De los recursos con sus Secciones Primera De la Reclamación, Segunda De la Apelación y Tercera De la Revisión, así como del Capítulo XI De las notificaciones y del cómputo de los términos y Capítulo XII De la jurisprudencia del mismo Título Sexto antes derogado. |
+| --- |
 
 ## TITULO SEXTO
 
@@ -7852,7 +7867,12 @@ X. 	Se condonan parcialmente los créditos fiscales no pagados, en el por ciento
 
 El por ciento a que se refiere el párrafo anterior se aplicará dependiendo del ejercicio en que debieron pagarse los impuestos federales, de que se trate, de conformidad con la siguiente tabla:
 
-EjercicioPor ciento199612.50199712.50199812.50199910.00
+| Ejercicio | Por ciento |
+| --- | --- |
+| 1996 | 12.50 |
+| 1997 | 12.50 |
+| 1998 | 12.50 |
+| 1999 | 10.00 |
 
 Los contribuyentes podrán anticipar el pago de las parcialidades que les hubiesen sido autorizadas en los términos del artículo 66 del Código Fiscal de la Federación, en cuyo caso, el beneficio se extenderá a todos los pagos anticipados que se realicen entre el 1o. de enero y el 30 de abril de 2001.
 
@@ -7916,7 +7936,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2000
 
 A.	Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de enero de 2002.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -7944,7 +7965,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A.	Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de enero de 2002.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -7960,7 +7982,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A.	Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de julio de 2002.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -7976,7 +7999,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A. Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de enero de 2003.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, 70, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 86, 86-B, 86-D, 86-F, 88, 90, 91, 102, 104 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -8006,7 +8030,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A. Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de julio de 2003.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 70; 80, fracciones I a VI, 82, fracciones I a XXIII; 84, fracciones I a XII; 84 B, fracciones I y III a VIII; 84-D; 84-F; 84-H; 86, fracciones I a V; 86 B, fracciones I a III; 86-D; 86-F; 88; 90; 91; 102; 104, fracciones I y II; y 150.
+| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 70; 80, fracciones I a VI, 82, fracciones I a XXIII; 84, fracciones I a XII; 84 B, fracciones I y III a VIII; 84-D; 84-F; 84-H; 86, fracciones I a V; 86 B, fracciones I a III; 86-D; 86-F; 88; 90; 91; 102; 104, fracciones I y II; y 150. |
+| --- |
 
 Atentamente
 
@@ -8114,7 +8139,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A.	Cantidades actualizadas correspondientes al Capítulo II del Título IV del Código, conforme al Artículo Segundo, fracción XXIII de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, publicado el 5 de enero de 2004 en el Diario Oficial de la Federación.
 
-Nota: Se actualizan las cantidades de los artículos 104, fracciones I y II; 108, fracciones I, II y III; 112, párrafo primero y 115 párrafo primero, del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 104, fracciones I y II; 108, fracciones I, II y III; 112, párrafo primero y 115 párrafo primero, del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -8190,7 +8216,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2002
 
 A. Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de enero de 2006.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracciones I y III a VI; 82, fracciones I a VI, VIII a XIX, XXI y XXIII; 84, fracciones I a III, V y VII a XII; 84-B, fracciones I y III a VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a III; 86-D; 86-F; 88; 90; 91; y 150, párrafos segundo y tercero, del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracciones I y III a VI; 82, fracciones I a VI, VIII a XIX, XXI y XXIII; 84, fracciones I a III, V y VII a XII; 84-B, fracciones I y III a VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a III; 86-D; 86-F; 88; 90; 91; y 150, párrafos segundo y tercero, del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -8204,7 +8231,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2006
 
 A. Cantidades actualizadas establecidas en el Código vigentes a partir del 1o. de enero de 2006.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracciones I y III a VI; 82, fracciones I a VI, VIII a XIX, XXI y XXIII; 84, fracciones I a III, V y VII a XII; 84-B, fracciones I y III a VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a III; 86-D; 86-F; 88; 90; 91; y 150, párrafos segundo y tercero, del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracciones I y III a VI; 82, fracciones I a VI, VIII a XIX, XXI y XXIII; 84, fracciones I a III, V y VII a XII; 84-B, fracciones I y III a VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a III; 86-D; 86-F; 88; 90; 91; y 150, párrafos segundo y tercero, del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -8432,7 +8460,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2006
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 70, párrafo cuarto; 80, fracción II; 82, fracciones VII, XX, XXII, XXIV y XXV; 84, fracciones IV, VI y XIII; 84-B, fracción VII; 84-H; 86-B, fracción IV; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III párrafo primero; 112, párrafo primero; y 115, párrafo primero, del Código Fiscal de la Federación.
+| Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 70, párrafo cuarto; 80, fracción II; 82, fracciones VII, XX, XXII, XXIV y XXV; 84, fracciones IV, VI y XIII; 84-B, fracción VII; 84-H; 86-B, fracción IV; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III párrafo primero; 112, párrafo primero; y 115, párrafo primero, del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente
 
@@ -8486,7 +8515,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2008
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 22-B, párrafo segundo; 32-A, primer párrafo de la fracción I; 70, párrafo cuarto; 80, fracciones I a VI; 82, fracciones I a XXXI; 84, fracciones I a XIV; 84-B, fracciones I y III a VII; 84-D; 84-F; 84-H; 86, fracciones I a V; 86-B, fracciones I a IV; 86-F; 88; 91; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III del párrafo cuarto; 112, párrafo primero; 115, párrafo primero; y 150, párrafos segundo y tercero.
+| Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 22-B, párrafo segundo; 32-A, primer párrafo de la fracción I; 70, párrafo cuarto; 80, fracciones I a VI; 82, fracciones I a XXXI; 84, fracciones I a XIV; 84-B, fracciones I y III a VII; 84-D; 84-F; 84-H; 86, fracciones I a V; 86-B, fracciones I a IV; 86-F; 88; 91; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III del párrafo cuarto; 112, párrafo primero; 115, párrafo primero; y 150, párrafos segundo y tercero. |
+| --- |
 
 Atentamente
 
@@ -8642,7 +8672,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2009
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, fracción I, párrafo primero; 80, fracción II; 82, fracción XXXIV; 84, fracciones IV y VI; 84-B, fracciones VII, VIII y IX; 84-H; y 90, párrafo primero.
+| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I, párrafo primero; 80, fracción II; 82, fracción XXXIV; 84, fracciones IV y VI; 84-B, fracciones VII, VIII y IX; 84-H; y 90, párrafo primero. |
+| --- |
 
 Atentamente.
 
@@ -8656,7 +8687,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2010
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 22-C; 29, párrafo quinto; 59, fracción III, párrafo tercero;  82, fracciones X, XXXII, XXXIII y XXXV; 84-B, fracción X; 84-J y 854-L.
+| Nota: Se actualizan las cantidades de los artículos 22-C; 29, párrafo quinto; 59, fracción III, párrafo tercero;  82, fracciones X, XXXII, XXXIII y XXXV; 84-B, fracción X; 84-J y 854-L. |
+| --- |
 
 Atentamente.
 
@@ -8760,7 +8792,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2012
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 80, fracciones I, III, IV, V y VI; 82, fracciones I a IX y XI a XXXI; 84, fracciones, I, II, III, V, VII, VIII, IX, XI, XIII y XIV; 84-B, fracciones I, III, IV, V y VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a IV; 86-F; 88; 91; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III; 112, párrafo primero; 115, párrafo primero; 150, párrafos segundo y tercero. Se actualizan las cantidades de los artículos 82, fracción, XXXV; 84, fracción IV; 84-B, fracción VII; 84-J y 84-L.
+| Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 80, fracciones I, III, IV, V y VI; 82, fracciones I a IX y XI a XXXI; 84, fracciones, I, II, III, V, VII, VIII, IX, XI, XIII y XIV; 84-B, fracciones I, III, IV, V y VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a IV; 86-F; 88; 91; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III; 112, párrafo primero; 115, párrafo primero; 150, párrafos segundo y tercero. Se actualizan las cantidades de los artículos 82, fracción, XXXV; 84, fracción IV; 84-B, fracción VII; 84-J y 84-L. |
+| --- |
 
 Atentamente
 
@@ -8774,7 +8807,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2012
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracción II;  82, fracción XXXIV; 84, fracción VI; 84-B, fracciones VIII y IX; 84-H; y 90, primer párrafo.
+| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracción II;  82, fracción XXXIV; 84, fracción VI; 84-B, fracciones VIII y IX; 84-H; y 90, primer párrafo. |
+| --- |
 
 Atentamente.
 
@@ -8848,7 +8882,8 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2014
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan las cantidades establecidas en los artículos 20, séptimo párrafo; 22-C; 32-A, primer párrafo; 32-H, fracción I, primer párrafo; 59, fracción III, párrafo tercero; 80, fracción II; 82, fracciones X, XI, XVI, XXVI y XXXVI; 84, fracciones IV, incisos b) y c), VI, IX, XV y XVI; 84-B, fracciones VIII, IX, X, XI y XII; 86-B, fracciones I, III y V; 86-H, párrafos primero, segundo y tercero; y 86-J, primer párrafo.
+| Nota: Se actualizan las cantidades establecidas en los artículos 20, séptimo párrafo; 22-C; 32-A, primer párrafo; 32-H, fracción I, primer párrafo; 59, fracción III, párrafo tercero; 80, fracción II; 82, fracciones X, XI, XVI, XXVI y XXXVI; 84, fracciones IV, incisos b) y c), VI, IX, XV y XVI; 84-B, fracciones VIII, IX, X, XI y XII; 86-B, fracciones I, III y V; 86-H, párrafos primero, segundo y tercero; y 86-J, primer párrafo. |
+| --- |
 
 Atentamente.
 
@@ -8880,7 +8915,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2014
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-J, 84-L, 86, 86-B, 86-F, 88, 91, 102, 104, 112, 115 y 150.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-J, 84-L, 86, 86-B, 86-F, 88, 91, 102, 104, 112, 115 y 150. |
+| --- |
 
 Atentamente.
 
@@ -8970,7 +9006,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2014
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 82, 84-H y 90.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 82, 84-H y 90. |
+| --- |
 
 Atentamente.
 
@@ -9064,11 +9101,13 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2017
 
 A. 	Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C, 32-H, 59, 80, 82, 84, 84-B, 86-B y 86-H del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C, 32-H, 59, 80, 82, 84, 84-B, 86-B y 86-H del Código Fiscal de la Federación. |
+| --- |
 
 B.	Compilación de cantidades establecidas en el Código vigente.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Ciudad de México, 04 de mayo de 2017.- El Jefe del Servicio de Administración Tributaria, Osvaldo Antonio Santín Quiroz.- Rúbrica.
 
@@ -9080,7 +9119,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2017
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente,
 
@@ -9134,7 +9174,8 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2018
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 32-H, 59, 80, 82, 84, 84-B, 86-B, 86-H y 86-J del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 32-H, 59, 80, 82, 84, 84-B, 86-B, 86-H y 86-J del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente.
 
@@ -9216,7 +9257,8 @@ I.	Quienes tributen en términos del Título II de la Ley del Impuesto sobre la 
 
 B. Compilación de cantidades establecidas en el Código vigente.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente,
 
@@ -9232,11 +9274,13 @@ A. Cantidades actualizadas establecidas en el Código.
 
 I. Conforme a la fracción XI de la regla 2.1.13., se dan a conocer las cantidades actualizadas establecidas en los artículos que se precisan en dicha regla, que entrarán en vigor a partir del 1 de enero de 2020.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 26, 32-H, 80, 82-B, 82-D, 84 y 86-D del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 26, 32-H, 80, 82-B, 82-D, 84 y 86-D del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el Código vigente.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente,
 
@@ -9276,11 +9320,13 @@ A. Cantidades actualizadas establecidas en el Código.
 
 I. Conforme a la fracción XII de la regla 2.1.13., se dan a conocer las cantidades actualizadas establecidas en los artículos que se precisan en dicha regla, que entrarán en vigor a partir del 1 de enero de 2021.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el Código vigente.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 26, 32-A, 59, 80, 82, 82-B, 82-D, 84, 84-B, 86-B, 86-D, 86-H, 86-J y 90-A del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 26, 32-A, 59, 80, 82, 82-B, 82-D, 84, 84-B, 86-B, 86-D, 86-H, 86-J y 90-A del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente,
 
@@ -9414,11 +9460,13 @@ A. Cantidades actualizadas establecidas en el Código.
 
 I. Conforme a la fracción XIII de la regla 2.1.12., se dan a conocer las cantidades actualizadas establecidas en los artículos que se precisan en dicha regla, que entrarán en vigor a partir del 1 de enero de 2022.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 26, 32-A, 32-H, 59, 80, 82, 82-B, 82-D, 84, 84-B, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 26, 32-A, 32-H, 59, 80, 82, 82-B, 82-D, 84, 84-B, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el Código vigente.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 32-A, 80, 82, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 32-A, 80, 82, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente.
 
@@ -9432,11 +9480,13 @@ Anexo 5 de la de la Resolución Miscelánea Fiscal para 2023
 
 A. Cantidades actualizadas establecidas en el Código.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A, 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A, 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el Código.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente,
 
@@ -9480,11 +9530,13 @@ Cantidades actualizadas del CFF
 
 A. Cantidades actualizadas establecidas en el CFF.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 26, 32-A, 32-H, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 26, 32-A, 32-H, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el CFF.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente.
 
@@ -9554,11 +9606,13 @@ Cantidades actualizadas del CFF
 
 A. Cantidades actualizadas establecidas en el CFF.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A y 32-H del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A y 32-H del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el CFF.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-D, 86-F, 86-H, 86-J, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-D, 86-F, 86-H, 86-J, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente.
 
@@ -9640,11 +9694,13 @@ Cantidades Actualizadas del Código Fiscal de la Federación
 
 A. Cantidades actualizadas establecidas en el CFF.
 
-Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A, 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+| Nota: Se actualizan diversas cantidades establecidas en los artículos 32-A, 32-H, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación. |
+| --- |
 
 B. Compilación de cantidades establecidas en el CFF.
 
-Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H,  84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
+| Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H,  84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación. |
+| --- |
 
 Atentamente.
 
@@ -9667,505 +9723,3 @@ Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Æ>a$gdªu$a$gd~Æ"#»¿Àôùúcgh¿ÂÃ59:­²à¦³¶÷îÜÌîÜÌîÜÌîÜÌîÜÌîÜÌºªwj^NhÃ
-
-ìhPb6B*CJPJ]aJphÌ3!hPb6B*CJPJ]aJphÌ3'h³
-
-ìh)J6B*CJPJ]aJphÌ3/h³
-
-ìh_å6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìhÝ6B*CJPJ]aJphÌ3/h³
-
-WWXX^Y_YZZ[
-
--.2b ®¯ÃIJNpqu%ñäÚäÉ»É°ñä¢ä°ñä°ñä|qbqbqbq¢ä¢ä¢bhGZhz;B*CJ^JphhGZhz;CJ^JhGZhz;5CJ^Jhz;5CJ^J hGZhz;5B*CJ^Jphhz;5B*CJ^Jphhz;5CJPJ^Jhz;B*CJPJ^Jph!hGZhz;B*CJPJ^Jphhz;CJPJ^JhGZhz;CJPJ^JhGZhz;5CJPJ^J&IJpq&'·¸  ¡¡±£²£5¥6¥§§¨¨©
-
-/CJaJnH	tH	hq&h
-
-/CJaJnH	tH	hq&h
-
-ìh_å6B*CJPJ]aJphÌ3'h³
-
-ìhX ß6B*CJPJ]aJphÌ3/h³
-
-h£!5CJaJhh
-
-ìh{-Â6B*CJPJ]aJphÌ3!h{-Â6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìh_å6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìhX ß6B*CJPJ]aJphÌ3/h³
-
-hf,Ô5CJaJhh
-
-hf,ÔCJaJ
-
-hJgD5CJ
-
-hD5CJhDCJaJ'h³
-
-ìh?!'6B*CJPJ]aJphÌ3!h?!'6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-hf,Ô5CJaJhh
-
-hf,ÔCJaJä¢ä¬ä·äÆäÓäÕäåäïäðäñäóäôäõä÷äøäëÚÉµ¤nf_YSH<hh
-
-hf,Ô5CJaJhh
-
-hD5CJhDCJaJ!hgI6B*CJPJ]aJphÌ3'h³
-
-ìh?!'6B*CJPJ]aJphÌ3!h?!'6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìh?!'6B*CJPJ]aJphÌ3!h?!'6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìh_å6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
-
-ìhX ß6B*CJPJ]aJphÌ3/h³
-
-Æ>a$gd~P/$ ` a$gd~P/49>DENOp~¥´ÁÂîÖÁÖîÖÁÖ¬vbQ@!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhBá6B*CJPJ]aJphÌ3'hBáhBá6B*CJPJ]aJphÌ3!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhBá6B*CJPJ]aJphÌ3'hBáhBá6B*CJPJ]aJphÌ3!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìh½t6B*CJPJ]aJphÌ3 ¥«¬µ¶×åçè÷   ( ) * çÒçÁçÒç¬vbQ@,'hBáhBá6B*CJPJ]aJphÌ3!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhBá6B*CJPJ]aJphÌ3E F Q!r!¿!À!÷!"¥"ò"ó"##$#êÕÍÅêê½Íµ¥y
-
-h³DfCJaJ
-
-ìh½t6B*CJPJ]aJphÌ3!h½t6B*CJPJ]aJphÌ3!hn6B*CJPJ]aJphÌ3
-
-ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhÛ2j6B*CJPJ]aJphÌ3(%(&(/(0(Q(_(a(b(q({(((¢(¤(´(¾(êÒÁÒêÒ¬vbQ@,@'h³
-
-ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-h³DfCJaJ
-
-h³Df5CJaJhh
-
-h³DfCJaJ
-
-ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhÛ2j6B*CJPJ]aJphÌ3!hÛ2j6B*CJPJ]aJphÌ3·*¼*Á*Ç*È*Ñ*Ò*ó*+++++(+7+D+F+îÖÁÖîÖÁÖ¬vbQ@!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-h³Df5CJaJhh
-
-h³DfCJaJ
-
-ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
-
-h³DfCJaJ
-
-hD5CJ!heÙ6B*CJPJ]aJphÌ3'h³
-
-ìhoiÄ6B*CJPJ]aJphÌ3!hoiÄ6B*CJPJ]aJphÌ3!hê6B*CJPJ]aJphÌ3'hÞ9ñhê6B*CJPJ]aJphÌ3
-
-ìhoiÄ6B*CJPJ]aJphÌ3!hoiÄ6B*CJPJ]aJphÌ3!hê6B*CJPJ]aJphÌ3'hÞ9ñhê6B*CJPJ]aJphÌ3
-
-hÏTú5CJaJhh
-
-hD5CJ!heÙ6B*CJPJ]aJphÌ3'h³
-
-ìhX ß6B*CJPJ]aJphÌ3/h³
-
-ìh³\!6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³\!h³\!6B*CJPJ]aJphÌ3'h³
-
-ìhX ß6B*CJPJ]aJphÌ3/h³
-
-hÏTú5CJaJhh
-
-hÏTúCJaJ
-
-hÏTúCJaJhh
-
-ìh!,R6B*CJPJ]aJphÌ3!h!,R6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-hÏTúCJaJhh
-
-hÏTú5CJaJhÏTú5CJaJ!heÙ6B*CJPJ]aJphÌ3'h³
-
-ìh!,R6B*CJPJ]aJphÌ3!h!,R6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-ìh%·6B*CJPJ]aJphÌ39®9·9¸9Ù9ç9é9ê9ù9:::):+:çÖ¾©¾o^J9(!h!,R6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-hÏTúCJaJhh
-
-hÏTú5CJaJhÏTú5CJaJ!heÙ6B*CJPJ]aJphÌ3!h!,R6B*CJPJ]aJphÌ3'h³
-
-ìh!,R6B*CJPJ]aJphÌ3Þ:à:á:ð:ú:;; ;";2;<;=;>;D;G;R;êÙÅÙ´ ~j~YPD9-hQ]hæ215CJaJhekÂhekÂCJaJhekÂhekÂ5CJaJhÏTú5CJaJ!heÙ6B*CJPJ]aJphÌ3'h³
-
-ìh!,R6B*CJPJ]aJphÌ3!h!,R6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-hÏTúCJaJhh
-
-hÏTú5CJaJhÏTú5CJaJ!h¯\'6B*CJPJ]aJphÌ3!h4¹6B*CJPJ]aJphÌ3'h³
-
-ìhu96B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-ìhæ216B*CJPJ]aJphÌ3/h³
-
-hÏTúCJaJhh
-
-hÏTú5CJaJhh
-
-hÏTú5@öÿCJaJhÏTú5@öÿCJaJ!h}¢6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3'h³
-
->>>>->7>B>Q>]>_>o>y>z>êÒ½¬¬sbQ=Q,!h}¢6B*CJPJ]aJphÌ3'h³
-
-ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-hÏTúCJaJhh
-
-ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!hu96B*CJPJ]aJphÌ3'h³
-
-ìh%·6B*CJPJ]aJphÌ3!h%·6B*CJPJ]aJphÌ3!hH;6B*CJPJ]aJphÌ3'hÞ9ñhH;6B*CJPJ]aJphÌ3
-
-hÏTúCJ
-
-ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
-
-ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
-
-ìh%·6B*CJPJ]aJphÌ3ãAäAéAêAùABB$B2B4B5BDBNBYBhBtBñàÈ°àÈÈuauP<+!h©<6B*CJPJ]aJphÌ3'h³
-
-hÏTú5CJaJhh
-
-hÏTúCJaJ
-
-ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3ãBòBûBüBC+C-C.C=CGCRCaCmCoCçÖ¾©¾o^J9(!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
-
-ìhâRù6B*CJPJ]aJphÌ3!hâRù6B*CJPJ]aJphÌ3'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhâRù6B*CJPJ]aJphÌ3!hâRù6B*CJPJ]aJphÌ3'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhâRù6B*CJPJ]aJphÌ3!hâRù6B*CJPJ]aJphÌ3'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhâRù6B*CJPJ]aJphÌ3!hâRù6B*CJPJ]aJphÌ3'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìh?ÿ6B*CJPJ]aJphÌ3ÈR×RãRSSSS"S,S.S>SHSSSçÏºÏ¥oWC2!hY?6B*CJPJ]aJphÌ3'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhY?6B*CJPJ]aJphÌ3ÁSÐSÙSÚSûS	TTTT%T0T?TKTMTçÖ¾©¾o^J9(!hµ<6B*CJPJ]aJphÌ3!h*ñ6B*CJPJ]aJphÌ3'h³
-
-ìhµ<6B*CJPJ]aJphÌ3»ShTiT´TaUbUVÄVÅVW»W¼WX´XµXÊXËXàXáXJY÷YøYZ
-
-ìhµ<6B*CJPJ]aJphÌ3!hµ<6B*CJPJ]aJphÌ3!h*ñ6B*CJPJ]aJphÌ3'h³
-
-ìhµ<6B*CJPJ]aJphÌ3!hµ<6B*CJPJ]aJphÌ3!h*ñ6B*CJPJ]aJphÌ3'h³
-
-ìhµ<6B*CJPJ]aJphÌ3!hµ<6B*CJPJ]aJphÌ3!h*ñ6B*CJPJ]aJphÌ3'h³
-
-ìh%·6B*CJPJ]aJphÌ3!h%·6B*CJPJ]aJphÌ3X
-
-XX%X&XGXUXWXXXgXqX|XXXXçÏ¾ç©ço^J9(!hµ<6B*CJPJ]aJphÌ3!h*ñ6B*CJPJ]aJphÌ3'h³
-
-ìhµ<6B*CJPJ]aJphÌ3YYJYOYPY_YhYiYYYYYªY´Y¿YÎYóåÔ¼¤Ô¼¼ziUiD0'h³
-
-ìhÞ\î6B*CJPJ]aJphÌ3!hÞ\î6B*CJPJ]aJphÌ3!h2uÁ6B*CJPJ]aJphÌ3
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìh2uÁ6B*CJPJ]aJphÌ3Þ[ç[è[	\\\\)\3\>\M\Y\[\k\u\v\îÖÁÖ¬vbQ@,@î'h³
-
-ìhÞ\î6B*CJPJ]aJphÌ3!hÞ\î6B*CJPJ]aJphÌ3!h2uÁ6B*CJPJ]aJphÌ3'h³
-
-ìhÞ\î6B*CJPJ]aJphÌ3!hÞ\î6B*CJPJ]aJphÌ3!h2uÁ6B*CJPJ]aJphÌ3'h³
-
-ìh/K6B*CJPJ]aJphÌ3!h/K6B*CJPJ]aJphÌ3!hmo6B*CJPJ]aJphÌ3'hÞ9ñhmo6B*CJPJ]aJphÌ3è_í_î_ý_	`*`8`:`C`H`R`T`d`n`îÖ¾Ö©Öo^F2'h³
-
-ìhf'ß6B*CJPJ]aJphÌ3/h³
-
-ìhï«6B*CJPJ]aJphÌ3!hï«6B*CJPJ]aJphÌ3!h2uÁ6B*CJPJ]aJphÌ3'h³
-
-ìhqiã6B*CJPJ]aJphÌ3!hqiã6B*CJPJ]aJphÌ3'h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhqiã6B*CJPJ]aJphÌ3!hqiã6B*CJPJ]aJphÌ3'h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhqiã6B*CJPJ]aJphÌ3ÒmÔmÝmâmìmîmþmnnn"n.n/n0n3nêÙÅÙ´wcwRA8,heYuh2p5CJaJh2p5CJaJ!h'X}6B*CJPJ]aJphÌ3!h's÷6B*CJPJ]aJphÌ3'h³
-
-ìhqiã6B*CJPJ]aJphÌ3!hqiã6B*CJPJ]aJphÌ3'h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhqiã6B*CJPJ]aJphÌ3!hqiã6B*CJPJ]aJphÌ3'h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-ìhqiã6B*CJPJ]aJphÌ3¼p¾pÇpÌpÖpØpèpòpýpqqqqq(qêÙÅÙ´wcwRA8,heYuh2p5CJaJh2p5CJaJ!h'X}6B*CJPJ]aJphÌ3!h's÷6B*CJPJ]aJphÌ3'h³
-
-ìhqiã6B*CJPJ]aJphÌ3!hqiã6B*CJPJ]aJphÌ3'h³
-
-ìhKwå6B*CJPJ]aJphÌ3/h³
-
-e6B*CJPJ]aJphÌ3hQ]h¥CJaJhQ]h¥5CJaJheYuh2p5CJaJh2p5CJaJheYuh2pCJaJ"çxðxõxÿxyyy&y+y5yAyByCyHyKyWyîÚîÉ±xgVMA6*hQ]h¥5CJaJheYuh2pCJaJheYuh2p5CJaJh2p5CJaJ!hà
-
-e6B*CJPJ]aJphÌ3!hZZ~6B*CJPJ]aJphÌ3'h³
-
-ìh*Ú6B*CJPJ]aJphÌ3!h*Ú6B*CJPJ]aJphÌ3'h³
-
-ìh¥6B*CJPJ]aJphÌ3/h³
-
-e6B*CJPJ]aJphÌ3heYuh2pCJaJhQ]h¥5CJaJhQ]h¥CJaJýy
-
-zz"z'z1z=z>z?zCzFzRzSzbzzzzçÓÂ®Âwl`U`l=/hÞ9ñhà
-
-e6B*CJPJ]aJphÌ3!hZZ~6B*CJPJ]aJphÌ3'h³
-
-ìh*Ú6B*CJPJ]aJphÌ3!h*Ú6B*CJPJ]aJphÌ3'h³
-
-ìh¥6B*CJPJ]aJphÌ3/h³
-
-ìh¥6B*CJPJ]aJphÌ3/h³
-
-e6B*CJPJ]aJphÌ3!hZZ~6B*CJPJ]aJphÌ3!h*Ú6B*CJPJ]aJphÌ3'h³
-
-ìhuÈ6B*CJPJ]aJphÌ3!huÈ6B*CJPJ]aJphÌ3'h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìhuÈ6B*CJPJ]aJphÌ3!huÈ6B*CJPJ]aJphÌ3'h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìhuÈ6B*CJPJ]aJphÌ3ü6DFPRblx}çÖ¾©¾rZF5!'h³
-
-ìhuÈ6B*CJPJ]aJphÌ3!huÈ6B*CJPJ]aJphÌ3'h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìhuÈ6B*CJPJ]aJphÌ3!huÈ6B*CJPJ]aJphÌ3'h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìhuÈ6B*CJPJ]aJphÌ3!huÈ6B*CJPJ]aJphÌ3'h³
-
-ìhyC6B*CJPJ]aJphÌ3/h³
-
-ìh­ª6B*CJPJ]aJphÌ3!h­ª6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh­ª6B*CJPJ]aJphÌ3!h­ª6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-hD5CJ!hu06B*CJPJ]aJphÌ3'h³
-
-ìhï«6B*CJPJ]aJphÌ3!hï«6B*CJPJ]aJphÌ3!h&\Ô6B*CJPJ]aJphÌ3'h³
-
-ìhï«6B*CJPJ]aJphÌ3!hï«6B*CJPJ]aJphÌ3!h&\Ô6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh&\Ô6B*CJPJ]aJphÌ3X©¤©¥©Úª««´¬]­}­~­í®¯¯r°êÕÕÍÕ¸°¨v
-
-êªëªôªõª«$«&«'«6«@«K«Z«g«i«y«««çÖçÁç¬vbQ@,@ç'h³
-
-ìhï«6B*CJPJ]aJphÌ3!hï«6B*CJPJ]aJphÌ3!h&\Ô6B*CJPJ]aJphÌ3'h³
-
-ìh½hà6B*CJPJ]aJphÌ3!h½hà6B*CJPJ]aJphÌ3'h³
-
-ìh½hà6B*CJPJ]aJphÌ3!h½hà6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh½hà6B*CJPJ]aJphÌ3!h½hà6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh¤¤6B*CJPJ]aJphÌ3!h¤¤6B*CJPJ]aJphÌ3!h@J¿6B*CJPJ]aJphÌ3'h³
-
-ìhGI6B*CJPJ]aJphÌ3]´l´x´´§´©´²´·´Á´Ã´Ó´Ý´è´çÏºÏ¥oWC2!h@J¿6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh@J¿6B*CJPJ]aJphÌ3hµwµµµ¢µ°µ²µ³µÂµÌµ×µæµòµôµçÖ¾©¾o^J9(!h¤¤6B*CJPJ]aJphÌ3!hHÆ6B*CJPJ]aJphÌ3'h³
-
-ìhHÆ6B*CJPJ]aJphÌ3!hHÆ6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìh¤¤6B*CJPJ]aJphÌ3!h¤¤6B*CJPJ]aJphÌ3!hHÆ6B*CJPJ]aJphÌ3'h³
-
-ìh¤¤6B*CJPJ]aJphÌ3!h¤¤6B*CJPJ]aJphÌ3!hHÆ6B*CJPJ]aJphÌ3'h³
-
-ìhyVv6B*CJPJ]aJphÌ3/h³
-
-ìhI76B*CJPJ]aJphÌ3!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhI76B*CJPJ]aJphÌ3!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhGI6B*CJPJ]aJphÌ3#Ï2Ï;Ï<Ï]ÏkÏmÏnÏ}ÏÏÏ¡Ï­Ï¯ÏçÖ¾©¾o^J9(!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhI76B*CJPJ]aJphÌ3ñÐóÐôÐÑ
-
-ÑÑ'Ñ3Ñ5ÑEÑOÑPÑQÑWÑZÑfÑêÙÅÙ´ ~j~YPD9-hQ]hxñ5CJaJhø"}hø"}CJaJhø"}hø"}5CJaJh!5CJaJ!h9E6B*CJPJ]aJphÌ3'h³
-
-ìhI76B*CJPJ]aJphÌ3!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhL1÷6B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhxñ6B*CJPJ]aJphÌ3/h³
-
-ìhxñ6B*CJPJ]aJphÌ3/h³
-
-ìhL1÷6B*CJPJ]aJphÌ3àÓâÓëÓðÓúÓüÓÔÔ!Ô&Ô0Ô<Ô=Ô>ÔCÔFÔêÙÅÙ´wcwRA6*6hø"}hø"}5CJaJhø"}hø"}CJaJ!hxØ6B*CJPJ]aJphÌ3!h29X6B*CJPJ]aJphÌ3'h³
-
-ìhL1÷6B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhxñ6B*CJPJ]aJphÌ3/h³
-
-ìhL1÷6B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhxñ6B*CJPJ]aJphÌ3/h³
-
-ÖÖÖ(ÖçÒç½¬¬o[J6J%!h29X6B*CJPJ]aJphÌ3'h³
-
-ìhL1÷6B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
-
-ìhxñ6B*CJPJ]aJphÌ3/h³
-
-ìh;b6B*CJPJ]aJphÌ3!h;b6B*CJPJ]aJphÌ3!hÚJ´6B*CJPJ]aJphÌ3'h³
-
-ìh:i6B*CJPJ]aJphÌ3!h:i6B*CJPJ]aJphÌ3'h³
-
-ìh¾Z56B*CJPJ]aJphÌ3/h³
-
-ìh:i6B*CJPJ]aJphÌ3!h:i6B*CJPJ]aJphÌ3'h³
-
-ìh¾Z56B*CJPJ]aJphÌ3/h³
-
-ìh¾Z56B*CJPJ]aJphÌ3/h³
-
-hD5CJ!h9E6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3'h³
-
-ìhN6B*CJPJ]aJphÌ3¯ô±ô²ôÁôËôÖôåôñôóôõ
-
-ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
-
-ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
-
-ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
-
-ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-hD5CJ!hÀl6B*CJPJ]aJphÌ3!hZ²6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
-
-ìhÒ6B*CJPJ]aJphÌ3!hÒ6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
-
-ìh5B6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
-
-ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-ìh5B6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
-
-ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-ìhiÕ6B*CJPJ]aJphÌ3!hiÕ6B*CJPJ]aJphÌ3'h³
-
-ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-ìh®^m6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìhbSÇ6B*CJPJ]aJphÌ3&	+	0	8	9	B	C	d	r	t	u				¨	µ	·	îÖîÖîÖÁÖ¬vbQ@!h?_6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìh®^m6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìhbSÇ6B*CJPJ]aJphÌ3/h³
-
-ìhbSÇ6B*CJPJ]aJphÌ3/h³
-
-ìh®^m6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìhbSÇ6B*CJPJ]aJphÌ3/h³
-
-ìh®^m6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìhUj6B*CJPJ]aJphÌ3/h³
-
-ìh?_6B*CJPJ]aJphÌ3!h?_6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìh?_6B*CJPJ]aJphÌ3!h?_6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìh?_6B*CJPJ]aJphÌ3!h?_6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
-
-ìh?_6B*CJPJ]aJphÌ3!h?_6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
-
-ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
-
-ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
-
-ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h²nC6B*CJPJ]aJphÌ3'h³
-
-ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h²nC6B*CJPJ]aJphÌ3'h³
-
-ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
-
-ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
-
-Æ>a$gdó$ ` a$gdó
-
-ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
-
-$&dPÆÿa$L]N]«^¾^é^__¯_°_÷_ø_=`>` `¦`Ê`bbb|bb¢bcccJcKcccãcéc
-
-dVeWeXe¿eØeåeðfñf8gøòøòéòàòÓòÉòø¼¶²ªòàxÓÉø¼¶²ªòohàhÓ
-
-hD5CJ(` `bbb"b#b¡bccJcKcôåxxkx
-
-´CJh
-
-´CJaJh
-
-´CJaJh*8Òh
-
-´5CJ\aJh*8Òh
-
-´5CJaJ$h*8Òh
-
-´CJaJ'h*8Òh
-
-hH5CJaJh³
-
-5CJaJ*h³
-
-CJaJh~h³
-
-CJaJhHh³

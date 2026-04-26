@@ -30,7 +30,7 @@ EXPORTS_DIR = REPO_ROOT / "exports" / "mx"
 def check_word_field_codes(text: str) -> list[tuple[int, str]]:
     """Word/OLE2 field-code or TOC-table garbage that escaped the parser filter."""
     pattern = re.compile(
-        r"Fa[öo]f4|\$\$IfF|\$%@[A-Z]|ôôôô|ÖÿÿÖÿÿ|OJ[PQ]J|mH\s+sH"
+        r"Fa[öo]f4|\$\$If[A-Z]|\$%@[A-Z]|ôôôô|ÖÿÿÖÿÿ|OJ[PQ]J|mH\s+sH"
     )
     hits: list[tuple[int, str]] = []
     for i, line in enumerate(text.splitlines(), start=1):
@@ -111,12 +111,43 @@ def check_repeated_pdf_artifacts(text: str) -> list[tuple[int, str]]:
     return hits
 
 
+def check_tail_binary_blob(text: str) -> list[tuple[int, str]]:
+    """Word stylesheet / drawing-object bytes that should have been truncated.
+
+    Inspects the last 200 lines of the exported Markdown for paragraphs that
+    match the known patterns of Word character-style property strings (CJ^J,
+    CJPJ]aJ, B*CJ, CJaJ) or other binary-coordinate blob patterns.  Any hit
+    here means the tail-blob truncation in the parser missed something.
+
+    Only the last 200 lines are checked: mid-document garbage that escaped
+    the per-paragraph filter is reported by ``check_word_field_codes``; this
+    check is specifically for the TRAILING blob that the truncation step is
+    responsible for removing.
+    """
+    _TAIL_BLOB_RE = re.compile(
+        r"\d?CJ\^J"          # 5CJ^J / CJ^J
+        r"|CJ\s*PJ\s*\]?\s*aJ"  # CJPJ]aJ / CJPJ^JaJ
+        r"|B\*CJ"             # B*CJ boolean attribute
+        r"|CJaJ"              # bare CJaJ
+        r"|nH\s*tH"           # nH tH flag
+    )
+    lines = text.splitlines()
+    last_200 = lines[-200:] if len(lines) > 200 else lines
+    offset = max(0, len(lines) - 200)
+    hits: list[tuple[int, str]] = []
+    for j, line in enumerate(last_200, start=offset + 1):
+        if _TAIL_BLOB_RE.search(line):
+            hits.append((j, line[:120]))
+    return hits
+
+
 CHECKS = {
     "field_codes": (check_word_field_codes, True),  # (fn, fatal)
     "short_garbage_lines": (check_short_garbage_lines, True),
     "pdf_source_url": (check_pdf_source, True),
     "issuing_decree_at_start": (check_issuing_decree_at_start, True),
     "pdf_page_footer": (check_repeated_pdf_artifacts, True),
+    "tail_binary_blob": (check_tail_binary_blob, True),
 }
 
 

@@ -162,25 +162,36 @@ Cuota del inciso actualizada por Resolución Miscelánea Fiscal DOF 29-12-2017. 
 
 H)	Combustibles Fósiles			Cuota		Unidad de medida
 
-1. Propano 	10.1248centavos por litro.
+| 1. Propano | 10.1248 | centavos por litro. |
+| --- | --- | --- |
 
-2. Butano 	13.1025centavos por litro.
+| 2. Butano | 13.1025 | centavos por litro. |
+| --- | --- | --- |
 
-3. Gasolinas y gasavión 	17.7591centavos por litro.
+| 3. Gasolinas y gasavión | 17.7591 | centavos por litro. |
+| --- | --- | --- |
 
-4. Turbosina y otros kerosenos 	21.2108centavos por litro.
+| 4. Turbosina y otros kerosenos | 21.2108 | centavos por litro. |
+| --- | --- | --- |
 
-5. Diesel 	21.5491centavos por litro.
+| 5. Diesel | 21.5491 | centavos por litro. |
+| --- | --- | --- |
 
-6. Combustóleo 	22.9975centavos por litro.
+| 6. Combustóleo | 22.9975 | centavos por litro. |
+| --- | --- | --- |
 
-7. Coque de petróleo 	26.6930pesos por tonelada.
+| 7. Coque de petróleo | 26.6930 | pesos por tonelada. |
+| --- | --- | --- |
 
-8. Coque de carbón 	62.5771pesos por tonelada.
+| 8. Coque de carbón | 62.5771 | pesos por tonelada. |
+| --- | --- | --- |
 
-9. Carbón mineral 	47.1189pesos por tonelada.
+| 9. Carbón mineral | 47.1189 | pesos por tonelada. |
+| --- | --- | --- |
 
-10. Otros combustibles fósiles 	68.1134pesos por tonelada de carbono que contenga el combustible.Cuotas del inciso H) actualizadas por acuerdo DOF 22-12-2014, 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
+| 10. Otros combustibles fósiles | 68.1134 | pesos por tonelada de carbono que contenga el combustible. |
+| --- | --- | --- |
+| Cuotas del inciso H) actualizadas por acuerdo DOF 22-12-2014, 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025 |   |   |
 
 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción que corresponda a dichas fracciones respecto de la unidad de medida de que se trate.
 
@@ -204,23 +215,31 @@ La categoría de peligro de toxicidad aguda se determinará conforme a la siguie
 
 Tabla 1. Categorías de peligro de toxicidad aguda
 
-Vía de exposiciónCategoría
+| Vía de exposición | Categoría |
+| --- | --- |
 
-1Categoría
+| 1 | Categoría |
+| --- | --- |
 
-2Categoría
+| 2 | Categoría |
+| --- | --- |
 
-3Categoría
+| 3 | Categoría |
+| --- | --- |
 
-4Categoría
+| 4 | Categoría |
+| --- | --- |
 
-5Oral (mg/kg)55030020005000Dérmica (mg/kg)5020010002000-Inhalatoria
+| Gases (ppmV) | 100 | 500 | 2500 | 5000 |
+| --- | --- | --- | --- | --- |
+|   | Inhalatoria |   |   |   |
 
-Gases (ppmV)10050025005000Inhalatoria
+| Vapores (mg/l) | 0,5 | 2 | 10 | 20 |
+| --- | --- | --- | --- | --- |
+|   | Inhalatoria |   |   |   |
 
-Vapores (mg/l)0,521020Inhalatoria
-
-Polvos y nieblas (mg/l)0,050,515
+| Polvos y nieblas (mg/l) | 0,05 | 0,5 | 1 | 5 |
+| --- | --- | --- | --- | --- |
 
 La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana NOM-232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
 
@@ -1432,7 +1451,8 @@ Cuando el contribuyente sea omiso en presentar por más de tres veces en un mism
 
 > <small>Artículo reformado DOF 31-12-1982, 30-12-1983, 28-12-1989, 20-12-1991, 01-01-2002, 28-06-2006</small>
 
-Nota: Por Decreto DOF 01-01-2002, se derogó el Título II con los Capítulos I al VII y los artículos 26-A al 26-P que lo integraban y, mediante el mismo Decreto, se reformó la denominación del entonces Título III para quedar como actual Capítulo VII De las Participaciones a las Entidades Federativas. En consecuencia, se suprimieron las referencias al derogado Título II De las Bebidas Alcohólicas y a sus Capítulos I Disposiciones Generales, II De la Producción o Envasamiento, III De la Importación, IV De la Exportación, V De las Obligaciones de los Contribuyentes, VI De las Facultades de las Autoridades y VII De las Definiciones (Título II con sus Capítulos I al VII antes adicionado por DOF 31-12-1999).
+| Nota: Por Decreto DOF 01-01-2002, se derogó el Título II con los Capítulos I al VII y los artículos 26-A al 26-P que lo integraban y, mediante el mismo Decreto, se reformó la denominación del entonces Título III para quedar como actual Capítulo VII De las Participaciones a las Entidades Federativas. En consecuencia, se suprimieron las referencias al derogado Título II De las Bebidas Alcohólicas y a sus Capítulos I Disposiciones Generales, II De la Producción o Envasamiento, III De la Importación, IV De la Exportación, V De las Obligaciones de los Contribuyentes, VI De las Facultades de las Autoridades y VII De las Definiciones (Título II con sus Capítulos I al VII antes adicionado por DOF 31-12-1999). |
+| --- |
 
 ###### Artículo 26 -
 
@@ -2326,11 +2346,13 @@ Publicada en el Diario Oficial de la Federación el 4 de enero de 1995
 
 En la página 38, Segunda Sección, renglones 18, 19 y 20, dice:
 
-la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en delan-
+| la inversión deducido | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | en delan- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 Debe decir:
 
-la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en adelan-
+| la inversión deducido | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | en adelan- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 En la página 68, Segunda Sección, renglón 21, dice:
 
@@ -2578,7 +2600,51 @@ TABLA
 
 PRODUCTO	CUOTA POR LITRO
 
-Aguardiente Abocado o Reposado 5.12 Aguardiente Standard (blanco u oro)Charanda Licor de hierbas regionalesAguardiente Añejo 9.90 HabaneroRompopeAguardiente con Sabor 11.76 CoctelesLicores y Cremas de hasta 20% Alc. Vol.ParrasBacanora 16.84 ComitecoLechuguilla o raicillaMezcal SotolAnís 18.10 GinebraVodka Ron 22.40 Tequila joven o blanco Brandy 26.94 Amaretto 27.33 Licor de Café o CacaoLicores y Cremas de más 20% Al. Vol.Tequila reposado o añejoRon Añejo 32.45 Brandy Reserva 35.14 Ron con Sabor 51.16 Ron ReservaTequila joven o blanco 100% agave 52.26 Tequila reposado 100% agaveBrandy Solera 57.92 Cremas base Whisky 76.17 Whisky o Whiskey, Borbon o Bourbon, Tenessee "Standard"Calvados 133.24 Tequila añejo 100% agaveCognac V.S. 161.10 Whisky o Whiskey, Borbon o Bourbon, Tenessee "de Luxe"Cognac V.S.O.P. 271.11 Cognac X.O. 1,022.02 Otros 1,049.59
+| Aguardiente Abocado o Reposado | 5.12 |   |
+| --- | --- | --- |
+| Aguardiente Standard (blanco u oro) |   |   |
+|   | Charanda |   |
+|   | Licor de hierbas regionales |   |
+| Aguardiente Añejo | 9.90 |   |
+| Habanero |   |   |
+|   | Rompope |   |
+| Aguardiente con Sabor | 11.76 |   |
+| Cocteles |   |   |
+|   | Licores y Cremas de hasta 20% Alc. Vol. |   |
+|   | Parras |   |
+| Bacanora | 16.84 |   |
+| Comiteco |   |   |
+|   | Lechuguilla o raicilla |   |
+|   | Mezcal |   |
+|   | Sotol |   |
+| Anís | 18.10 |   |
+| Ginebra |   |   |
+|   | Vodka |   |
+| Ron | 22.40 |   |
+| Tequila joven o blanco |   |   |
+| Brandy | 26.94 |   |
+|   | Amaretto | 27.33 |
+| Licor de Café o Cacao |   |   |
+|   | Licores y Cremas de más 20% Al. Vol. |   |
+|   | Tequila reposado o añejo |   |
+| Ron Añejo | 32.45 |   |
+|   | Brandy Reserva | 35.14 |
+|   | Ron con Sabor | 51.16 |
+| Ron Reserva |   |   |
+| Tequila joven o blanco 100% agave | 52.26 |   |
+| Tequila reposado 100% agave |   |   |
+| Brandy Solera | 57.92 |   |
+|   | Cremas base Whisky | 76.17 |
+| Whisky o Whiskey, Borbon o Bourbon, |   |   |
+|   | Tenessee "Standard" |   |
+| Calvados | 133.24 |   |
+| Tequila añejo 100% agave |   |   |
+| Cognac V.S. | 161.10 |   |
+| Whisky o Whiskey, Borbon o Bourbon, |   |   |
+|   | Tenessee "de Luxe" |   |
+| Cognac V.S.O.P. | 271.11 |   |
+|   | Cognac X.O. | 1,022.02 |
+|   | Otros | 1,049.59 |
 
 En el mes de junio de 2001 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 2.25%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 2.25% citado.
 
@@ -2624,7 +2690,53 @@ a)	El impuesto se calculará mensualmente aplicando al número de litros enajena
 
 TABLA
 
-PRODUCTOCUOTA POR LITRO$Aguardiente Abocado o Reposado5.35Aguardiente Standard (blanco u oro)Charanda Licor de hierbas regionalesAguardiente Añejo10.34HabaneroRompopeAguardiente con Sabor12.29CoctelesLicores y Cremas de hasta 20% Alc. Vol.ParrasBacanora17.60ComitecoLechuguilla o raicillaMezcal SotolAnís18.91GinebraVodka Ron23.41Tequila joven o blanco Brandy28.15Amaretto28.56Licor de Café o CacaoLicores y Cremas de más 20% Alc. Vol.Tequila reposado o añejoRon Añejo33.92Brandy Reserva36.72Ron con Sabor53.46Ron ReservaTequila joven o blanco 100% agave54.61Tequila reposado 100% agaveBrandy Solera60.53Cremas base Whisky79.60Whisky o Whiskey, Borbon o Bourbon, Tenessee "Standard"Calvados139.24Tequila añejo 100% agaveCognac V.S.168.34Whisky o Whiskey, Borbon o Bourbon, Tenessee "de Luxe"Cognac V.S.O.P.283.31Cognac X.O.1,068.01Otros1,096.83
+| PRODUCTO | CUOTA POR LITRO |   |
+| --- | --- | --- |
+|   | $ |   |
+| Aguardiente Abocado o Reposado | 5.35 |   |
+| Aguardiente Standard (blanco u oro) |   |   |
+|   | Charanda |   |
+|   | Licor de hierbas regionales |   |
+|   | Aguardiente Añejo | 10.34 |
+| Habanero |   |   |
+|   | Rompope |   |
+| Aguardiente con Sabor | 12.29 |   |
+| Cocteles |   |   |
+|   | Licores y Cremas de hasta 20% Alc. Vol. |   |
+|   | Parras |   |
+| Bacanora | 17.60 |   |
+| Comiteco |   |   |
+|   | Lechuguilla o raicilla |   |
+|   | Mezcal |   |
+|   | Sotol |   |
+| Anís | 18.91 |   |
+| Ginebra |   |   |
+|   | Vodka |   |
+| Ron | 23.41 |   |
+| Tequila joven o blanco |   |   |
+| Brandy | 28.15 |   |
+|   | Amaretto | 28.56 |
+| Licor de Café o Cacao |   |   |
+|   | Licores y Cremas de más 20% Alc. Vol. |   |
+|   | Tequila reposado o añejo |   |
+| Ron Añejo | 33.92 |   |
+|   | Brandy Reserva | 36.72 |
+|   | Ron con Sabor | 53.46 |
+| Ron Reserva |   |   |
+| Tequila joven o blanco 100% agave | 54.61 |   |
+| Tequila reposado 100% agave |   |   |
+| Brandy Solera | 60.53 |   |
+|   | Cremas base Whisky | 79.60 |
+| Whisky o Whiskey, Borbon o Bourbon, |   |   |
+|   | Tenessee "Standard" |   |
+| Calvados | 139.24 |   |
+| Tequila añejo 100% agave |   |   |
+| Cognac V.S. | 168.34 |   |
+| Whisky o Whiskey, Borbon o Bourbon, |   |   |
+|   | Tenessee "de Luxe" |   |
+| Cognac V.S.O.P. | 283.31 |   |
+|   | Cognac X.O. | 1,068.01 |
+|   | Otros | 1,096.83 |
 
 Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
 
@@ -2676,11 +2788,21 @@ XIV.	Para los efectos de lo dispuesto en el inciso C) de la fracción I del art�
 
 a)	Cigarros con filtro:
 
-AÑOTASA2002 105%2003107%2004110%2005110%
+| AÑO | TASA |
+| --- | --- |
+| 2002 | 105% |
+| 2003 | 107% |
+| 2004 | 110% |
+| 2005 | 110% |
 
 b)	Cigarros sin filtro:
 
-AÑOTASA200260%200380%2004100%2005110%
+| AÑO | TASA |
+| --- | --- |
+| 2002 | 60% |
+| 2003 | 80% |
+| 2004 | 100% |
+| 2005 | 110% |
 
 Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
 
@@ -2704,25 +2826,30 @@ II. Para los efectos del inciso a) de la fracción II del Artículo Segundo de l
 
 TABLA
 
-PRODUCTOCUOTA POR LITRO
-
-$Aguardiente Abocado o Reposado
+| PRODUCTO | CUOTA POR LITRO |
+| --- | --- |
 
 Aguardiente Standard (blanco u oro)
 
 Charanda
 
-Licor de hierbas regionales5.52Aguardiente Añejo
+| Licor de hierbas regionales | 5.52 |
+| --- | --- |
+|   | Aguardiente Añejo |
 
 Habanero
 
-Rompope10.67Aguardiente con Sabor
+| Rompope | 10.67 |
+| --- | --- |
+|   | Aguardiente con Sabor |
 
 Cocteles
 
 Licores y Cremas hasta 20% Alc. Vol.
 
-Parras12.69Bacanora
+| Parras | 12.69 |
+| --- | --- |
+|   | Bacanora |
 
 Comiteco
 
@@ -2730,33 +2857,57 @@ Lechuguilla o raicilla
 
 Mezcal
 
-Sotol18.16Anís
+| Sotol | 18.16 |
+| --- | --- |
+|   | Anís |
 
 Ginebra
 
-Vodka19.52Ron
+| Vodka | 19.52 |
+| --- | --- |
+|   | Ron |
 
-Tequila joven o blanco24.16Brandy29.05Amaretto
+| Tequila joven o blanco | 24.16 |   |
+| --- | --- | --- |
+|   | Brandy | 29.05 |
+|   | Amaretto |   |
 
 Licor de Café o Cacao
 
 Licores y Cremas de más de 20% Alc. Vol.
 
-Tequila reposado o añejo29.48Ron Añejo35.00Brandy Reserva37.90Ron con Sabor
+| Tequila reposado o añejo | 29.48 |   |
+| --- | --- | --- |
+|   | Ron Añejo | 35.00 |
+|   | Brandy Reserva | 37.90 |
+|   | Ron con Sabor |   |
 
-Ron Reserva55.18Tequila joven o blanco 100% agave
+| Ron Reserva | 55.18 |
+| --- | --- |
+|   | Tequila joven o blanco 100% agave |
 
-Tequila reposado 100% agave56.36Brandy Solera62.47Cremas base Whisky
+| Tequila reposado 100% agave | 56.36 |   |
+| --- | --- | --- |
+|   | Brandy Solera | 62.47 |
+|   | Cremas base Whisky |   |
 
 Whisky o Whiskey, Borbón o Bourbon,
 
-Tenessee Standard82.15Calvados
+| Tenessee Standard | 82.15 |
+| --- | --- |
+| Calvados |   |
 
-Tequila añejo 100% agave143.71Cognac V.S.
+| Tequila añejo 100% agave | 143.71 |
+| --- | --- |
+|   | Cognac V.S. |
 
 Whisky o Whiskey, Borbón o Bourbon,
 
-Tenessee de Luxe173.74Cognac V.S.O.P.292.39Cognac X.O.1,102.25Otros1,131.99
+| Tenessee de Luxe | 173.74 |   |
+| --- | --- | --- |
+|   | Cognac V.S.O.P. | 292.39 |
+|   | Cognac X.O. | 1,102.25 |
+|   | Otros | 1,131.99 |
 
 Las cuotas por litro establecidas en esta fracción se encuentran actualizadas para el primer semestre de 2003 con el factor de 1.0300.
 
@@ -2784,9 +2935,8 @@ I. Para los efectos del inciso a) de la fracción II del Artículo Segundo de la
 
 TABLA
 
-PRODUCTOCUOTA POR LITRO
-
-$Aguardiente Abocado o Reposado5.70Aguardiente Standard (blanco u oro)CharandaLicor de hierbas regionalesAguardiente Añejo11.01HabaneroRompopeAguardiente con Sabor13.09CoctelesLicores y Cremas de hasta 20% Alc. Vol.ParrasBacanora18.74ComitecoLechuguilla o raicillaMezcalSotolAnís20.14GinebraVodkaRon24.92Tequila joven o blancoBrandy29.97Amaretto30.41Licor de Café o CacaoLicores y Cremas de más 20% Alc. Vol.Tequila reposado o añejoRon Añejo36.11Brandy Reserva39.10Ron con Sabor56.93Ron ReservaTequila joven o blanco 100% agave58.15Tequila reposado 100% agaveBrandy Solera64.45Cremas base Whisky84.75Whisky o Whiskey, Borbon o Bourbon,Tenessee "Standard"Calvados148.25Tequila añejo 100% agaveCognac V.S.179.24Whisky o Whiskey, Borbon o Bourbon,Tenessee "de Luxe"Cognac V.S.O.P.301.64Cognac X.O.1,137.14Otros1,167.81
+| PRODUCTO | CUOTA POR LITRO |
+| --- | --- |
 
 Las cuotas por litro establecidas en esta fracción se encuentran actualizadas para el primer semestre de 2004 con el factor de 1.0300.
 
@@ -2896,15 +3046,24 @@ Tercero. Para los efectos de lo dispuesto en el artículo 2o., fracción I, inci
 
 a) 	Cigarros:
 
-AÑOTASA2007140%2008150%
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 140% |
+| 2008 | 150% |
 
 b) 	Puros y otros tabacos labrados:
 
-AÑOTASA2007140%2008150%
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 140% |
+| 2008 | 150% |
 
 c)	Puros y otros tabacos labrados hechos enteramente a mano:
 
-AÑOTASA200726.6%200828.5%
+| AÑO | TASA |
+| --- | --- |
+| 2007 | 26.6% |
+| 2008 | 28.5% |
 
 México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas."
 
@@ -3188,7 +3347,18 @@ ARTÍCULO PRIMERO.- El factor de actualización aplicable para el año de 2015 a
 
 ARTÍCULO SEGUNDO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a los combustibles fósiles a que se refiere el artículo 2, fracción I, inciso H) de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2015, son las siguientes:
 
-Combustibles fósilesCuotaUnidad de medida1. Propano6.15centavos por litro.2. Butano7.97centavos por litro.3. Gasolinas y gasavión10.81centavos por litro.4. Turbosina y otros kerosenos12.91centavos por litro.5. Diésel13.11centavos por litro.6. Combustóleo14.00centavos por litro.7. Coque de petróleo16.24pesos por tonelada.8. Coque de carbón38.09pesos por tonelada.9. Carbón mineral28.68pesos por tonelada.10. Otros combustibles fósiles41.45pesos por tonelada de carbono que contenga el combustible.
+| Combustibles fósiles | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano | 6.15 | centavos por litro. |
+| 2. Butano | 7.97 | centavos por litro. |
+| 3. Gasolinas y gasavión | 10.81 | centavos por litro. |
+| 4. Turbosina y otros kerosenos | 12.91 | centavos por litro. |
+| 5. Diésel | 13.11 | centavos por litro. |
+| 6. Combustóleo | 14.00 | centavos por litro. |
+| 7. Coque de petróleo | 16.24 | pesos por tonelada. |
+| 8. Coque de carbón | 38.09 | pesos por tonelada. |
+| 9. Carbón mineral | 28.68 | pesos por tonelada. |
+| 10. Otros combustibles fósiles | 41.45 | pesos por tonelada de carbono que contenga el combustible. |
 
 ##### TRANSITORIO
 
@@ -3382,7 +3552,17 @@ ARTÍCULO TERCERO.- Conforme al factor de actualización mencionado en el artíc
 
 Combustibles Fósiles	 Cuota	Unidad de medida
 
-1. Propano	6.50centavos por litro.2. Butano 	8.42centavos por litro.3. Gasolinas y gasavión 	11.41centavos por litro.4.Turbosina y otros kerosenos 	13.64centavos por litro.5. Diesel 	13.84centavos por litro.6. Combustóleo 	14.78centavos por litro.7. Coque de petróleo 	17.15pesos por tonelada.8. Coque de carbón 	40.21pesos por tonelada.9. Carbón mineral 	30.28pesos por tonelada.10. Otros combustibles fósiles 	43.77pesos por tonelada de carbono que contenga el combustible.
+| 1. Propano | 6.50 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano | 8.42 | centavos por litro. |
+| 3. Gasolinas y gasavión | 11.41 | centavos por litro. |
+| 4.Turbosina y otros kerosenos | 13.64 | centavos por litro. |
+| 5. Diesel | 13.84 | centavos por litro. |
+| 6. Combustóleo | 14.78 | centavos por litro. |
+| 7. Coque de petróleo | 17.15 | pesos por tonelada. |
+| 8. Coque de carbón | 40.21 | pesos por tonelada. |
+| 9. Carbón mineral | 30.28 | pesos por tonelada. |
+| 10. Otros combustibles fósiles | 43.77 | pesos por tonelada de carbono que contenga el combustible. |
 
 ARTÍCULO CUARTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2017, son las siguientes:
 
@@ -3422,7 +3602,17 @@ ARTÍCULO TERCERO.- Conforme al factor de actualización mencionado en el artíc
 
 Combustibles Fósiles	Cuota	Unidad de medida
 
-1. Propano	6.93centavos por litro.2. Butano 	8.98centavos por litro.3. Gasolinas y gasavión 	12.17centavos por litro.4.Turbosina y otros kerosenos 	14.54centavos por litro.5. Diesel 	14.76centavos por litro.6. Combustóleo 	15.76centavos por litro.7. Coque de petróleo 	18.29pesos por tonelada.8. Coque de carbón 	42.88pesos por tonelada.9. Carbón mineral 	32.29pesos por tonelada.10. Otros combustibles fósiles 	46.67pesos por tonelada de carbono que contenga el combustible.
+| 1. Propano | 6.93 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano | 8.98 | centavos por litro. |
+| 3. Gasolinas y gasavión | 12.17 | centavos por litro. |
+| 4.Turbosina y otros kerosenos | 14.54 | centavos por litro. |
+| 5. Diesel | 14.76 | centavos por litro. |
+| 6. Combustóleo | 15.76 | centavos por litro. |
+| 7. Coque de petróleo | 18.29 | pesos por tonelada. |
+| 8. Coque de carbón | 42.88 | pesos por tonelada. |
+| 9. Carbón mineral | 32.29 | pesos por tonelada. |
+| 10. Otros combustibles fósiles | 46.67 | pesos por tonelada de carbono que contenga el combustible. |
 
 ARTÍCULO CUARTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2018, son las siguientes:
 
@@ -3562,27 +3752,48 @@ ARTÍCULO TERCERO.- Conforme al factor de actualización mencionado en el artíc
 
 Combustibles Fósiles
 
-CuotaUnidad de medida1. Propano .
+|   | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano . |   |   |
 
-7.48centavos por litro.2. Butano
+|   | 7.48 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano |   |   |
 
-9.68centavos por litro.3. Gasolinas y gasavión ..
+|   | 9.68 | centavos por litro. |
+| --- | --- | --- |
+| 3. Gasolinas y gasavión .. |   |   |
 
-13.12centavos por litro.4. Turbosina y otros kerosenos ..
+|   | 13.12 | centavos por litro. |
+| --- | --- | --- |
+| 4. Turbosina y otros kerosenos .. |   |   |
 
-15.67centavos por litro.5. Diésel .
+|   | 15.67 | centavos por litro. |
+| --- | --- | --- |
+| 5. Diésel . |   |   |
 
-15.92centavos por litro.6. Combustóleo
+|   | 15.92 | centavos por litro. |
+| --- | --- | --- |
+| 6. Combustóleo |   |   |
 
-16.99centavos por litro.7. Coque de petróleo ..
+|   | 16.99 | centavos por litro. |
+| --- | --- | --- |
+| 7. Coque de petróleo .. |   |   |
 
-19.72pesos por tonelada.8. Coque de carbón
+|   | 19.72 | pesos por tonelada. |
+| --- | --- | --- |
+| 8. Coque de carbón |   |   |
 
-46.23pesos por tonelada.9. Carbón mineral
+|   | 46.23 | pesos por tonelada. |
+| --- | --- | --- |
+| 9. Carbón mineral |   |   |
 
-34.81pesos por tonelada.10. Otros combustibles fósiles ..
+|   | 34.81 | pesos por tonelada. |
+| --- | --- | --- |
+| 10. Otros combustibles fósiles .. |   |   |
 
-50.32pesos por tonelada de carbono que contenga el combustible.
+|   | 50.32 | pesos por tonelada de carbono que contenga el combustible. |
+| --- | --- | --- |
 
 ARTÍCULO CUARTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y al diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2020, son las siguientes:
 
@@ -3636,25 +3847,44 @@ Combustibles Fósiles	Cuota	Unidad de medida
 
 1. Propano
 
-7.7291centavos por litro.2. Butano
+|   | 7.7291 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano |   |   |
 
-10.0023centavos por litro.3. Gasolinas y gasavión
+|   | 10.0023 | centavos por litro. |
+| --- | --- | --- |
+| 3. Gasolinas y gasavión |   |   |
 
-13.5569centavos por litro.4.Turbosina y otros kerosenos
+|   | 13.5569 | centavos por litro. |
+| --- | --- | --- |
+| 4.Turbosina y otros kerosenos |   |   |
 
-16.1918centavos por litro.5. Diésel
+|   | 16.1918 | centavos por litro. |
+| --- | --- | --- |
+| 5. Diésel |   |   |
 
-16.4501centavos por litro.6. Combustóleo
+|   | 16.4501 | centavos por litro. |
+| --- | --- | --- |
+| 6. Combustóleo |   |   |
 
-17.5558centavos por litro.7. Coque de petróleo
+|   | 17.5558 | centavos por litro. |
+| --- | --- | --- |
+| 7. Coque de petróleo |   |   |
 
-20.3767pesos por tonelada.8. Coque de carbón
+|   | 20.3767 | pesos por tonelada. |
+| --- | --- | --- |
+| 8. Coque de carbón |   |   |
 
-47.7695pesos por tonelada.9. Carbón mineral
+|   | 47.7695 | pesos por tonelada. |
+| --- | --- | --- |
+| 9. Carbón mineral |   |   |
 
-35.9692pesos por tonelada.10. Otros combustibles fósiles
+|   | 35.9692 | pesos por tonelada. |
+| --- | --- | --- |
+| 10. Otros combustibles fósiles |   |   |
 
-51.9957pesos por tonelada de carbono que contenga el combustible.
+|   | 51.9957 | pesos por tonelada de carbono que contenga el combustible. |
+| --- | --- | --- |
 
 ARTÍCULO SEXTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2021, son las siguientes:
 
@@ -3716,25 +3946,35 @@ ARTÍCULO QUINTO.- Conforme al factor de actualización mencionado en el artícu
 
 Combustibles Fósiles	Cuota	Unidad de medida
 
-1. Propano 	8.2987centavos por litro.
+| 1. Propano | 8.2987 | centavos por litro. |
+| --- | --- | --- |
 
-2. Butano 	10.7394centavos por litro.
+| 2. Butano | 10.7394 | centavos por litro. |
+| --- | --- | --- |
 
-3. Gasolinas y gasavión 	14.5560centavos por litro.
+| 3. Gasolinas y gasavión | 14.5560 | centavos por litro. |
+| --- | --- | --- |
 
-4.Turbosina y otros kerosenos .17.3851centavos por litro.
+| 4.Turbosina y otros kerosenos . | 17.3851 | centavos por litro. |
+| --- | --- | --- |
 
-5. Diésel	 17.6624centavos por litro.
+| 5. Diésel | 17.6624 | centavos por litro. |
+| --- | --- | --- |
 
-6. Combustóleo 	18.8496centavos por litro.
+| 6. Combustóleo | 18.8496 | centavos por litro. |
+| --- | --- | --- |
 
-7. Coque de petróleo 	21.8784pesos por tonelada.
+| 7. Coque de petróleo | 21.8784 | pesos por tonelada. |
+| --- | --- | --- |
 
-8. Coque de carbón 	51.2901pesos por tonelada.
+| 8. Coque de carbón | 51.2901 | pesos por tonelada. |
+| --- | --- | --- |
 
-9. Carbón mineral 	38.6201pesos por tonelada.
+| 9. Carbón mineral | 38.6201 | pesos por tonelada. |
+| --- | --- | --- |
 
-10. Otros combustibles fósiles 	55.8277pesos por tonelada de carbono que contenga el combustible.
+| 10. Otros combustibles fósiles | 55.8277 | pesos por tonelada de carbono que contenga el combustible. |
+| --- | --- | --- |
 
 ARTÍCULO SEXTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2022, son las siguientes:
 
@@ -3780,25 +4020,45 @@ ARTÍCULO QUINTO.- Conforme al factor de actualización mencionado en el artícu
 
 Combustibles Fósiles
 
-CuotaUnidad de medida1. Propano
+|   | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano |   |   |
 
-8.9451centavos por litro.2. Butano
+|   | 8.9451 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano |   |   |
 
-11.5759centavos por litro.3. Gasolinas y gasavión
+|   | 11.5759 | centavos por litro. |
+| --- | --- | --- |
+| 3. Gasolinas y gasavión |   |   |
 
-15.6899centavos por litro.4.Turbosina y otros kerosenos .
+|   | 15.6899 | centavos por litro. |
+| --- | --- | --- |
+| 4.Turbosina y otros kerosenos . |   |   |
 
-18.7393centavos por litro.5. Diésel
+|   | 18.7393 | centavos por litro. |
+| --- | --- | --- |
+| 5. Diésel |   |   |
 
-19.0383centavos por litro.6. Combustóleo
+|   | 19.0383 | centavos por litro. |
+| --- | --- | --- |
+| 6. Combustóleo |   |   |
 
-20.3179centavos por litro.7. Coque de petróleo
+|   | 20.3179 | centavos por litro. |
+| --- | --- | --- |
+| 7. Coque de petróleo |   |   |
 
-23.5827pesos por tonelada.8. Coque de carbón
+|   | 23.5827 | pesos por tonelada. |
+| --- | --- | --- |
+| 8. Coque de carbón |   |   |
 
-55.2855pesos por tonelada.9. Carbón mineral
+|   | 55.2855 | pesos por tonelada. |
+| --- | --- | --- |
+| 9. Carbón mineral |   |   |
 
-41.6286pesos por tonelada.10. Otros combustibles fósiles ..60.1766pesos por tonelada de carbono que contenga el combustible.
+|   | 41.6286 | pesos por tonelada. |
+| --- | --- | --- |
+| 10. Otros combustibles fósiles .. | 60.1766 | pesos por tonelada de carbono que contenga el combustible. |
 
 ARTÍCULO SEXTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2023, son las siguientes:
 
@@ -3908,25 +4168,45 @@ ARTÍCULO QUINTO.- Conforme al factor de actualización mencionado en el artícu
 
 Combustibles Fósiles
 
-CuotaUnidad de medida 1. Propano
+|   | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano |   |   |
 
-9.7551centavos por litro.2. Butano
+|   | 9.7551 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano |   |   |
 
-12.6241centavos por litro.3. Gasolinas y gasavión
+|   | 12.6241 | centavos por litro. |
+| --- | --- | --- |
+| 3. Gasolinas y gasavión |   |   |
 
-17.1107centavos por litro.4. Turbosina y otros kerosenos .
+|   | 17.1107 | centavos por litro. |
+| --- | --- | --- |
+| 4. Turbosina y otros kerosenos . |   |   |
 
-20.4363centavos por litro.5. Diésel
+|   | 20.4363 | centavos por litro. |
+| --- | --- | --- |
+| 5. Diésel |   |   |
 
-20.7623centavos por litro.6. Combustóleo
+|   | 20.7623 | centavos por litro. |
+| --- | --- | --- |
+| 6. Combustóleo |   |   |
 
-22.1578centavos por litro.7. Coque de petróleo
+|   | 22.1578 | centavos por litro. |
+| --- | --- | --- |
+| 7. Coque de petróleo |   |   |
 
-25.7183pesos por tonelada.8. Coque de carbón
+|   | 25.7183 | pesos por tonelada. |
+| --- | --- | --- |
+| 8. Coque de carbón |   |   |
 
-60.2921pesos por tonelada.9. Carbón mineral
+|   | 60.2921 | pesos por tonelada. |
+| --- | --- | --- |
+| 9. Carbón mineral |   |   |
 
-45.3984pesos por tonelada.10. Otros combustibles fósiles 	65.6262pesos por tonelada de carbono que contenga el combustible.
+|   | 45.3984 | pesos por tonelada. |
+| --- | --- | --- |
+| 10. Otros combustibles fósiles | 65.6262 | pesos por tonelada de carbono que contenga el combustible. |
 
 ARTÍCULO SEXTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y el diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2025, son las siguientes:
 
@@ -3960,7 +4240,12 @@ Segundo. La cuota prevista en el segundo párrafo del inciso C), de la fracción
 
 Durante los ejercicios fiscales de 2026, 2027, 2028 y 2029, las cuotas aplicables serán las siguientes:
 
-Ejercicio FiscalCuota2026$0.85162027$0.91972028$0.99322029$1.0726
+| Ejercicio Fiscal | Cuota |
+| --- | --- |
+| 2026 | $0.8516 |
+| 2027 | $0.9197 |
+| 2028 | $0.9932 |
+| 2029 | $1.0726 |
 
 Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
 
@@ -3998,25 +4283,45 @@ ARTÍCULO TERCERO.- Conforme al factor de actualización mencionado en el artíc
 
 Combustibles Fósiles
 
-CuotaUnidad de medida1. Propano
+|   | Cuota | Unidad de medida |
+| --- | --- | --- |
+| 1. Propano |   |   |
 
-10.1248centavos por litro.2. Butano
+|   | 10.1248 | centavos por litro. |
+| --- | --- | --- |
+| 2. Butano |   |   |
 
-13.1025centavos por litro.3. Gasolinas y gasavión
+|   | 13.1025 | centavos por litro. |
+| --- | --- | --- |
+| 3. Gasolinas y gasavión |   |   |
 
-17.7591centavos por litro.4. Turbosina y otros kerosenos .
+|   | 17.7591 | centavos por litro. |
+| --- | --- | --- |
+| 4. Turbosina y otros kerosenos . |   |   |
 
-21.2108centavos por litro.5. Diésel
+|   | 21.2108 | centavos por litro. |
+| --- | --- | --- |
+| 5. Diésel |   |   |
 
-21.5491centavos por litro.6. Combustóleo
+|   | 21.5491 | centavos por litro. |
+| --- | --- | --- |
+| 6. Combustóleo |   |   |
 
-22.9975centavos por litro.7. Coque de petróleo
+|   | 22.9975 | centavos por litro. |
+| --- | --- | --- |
+| 7. Coque de petróleo |   |   |
 
-26.6930pesos por tonelada.8. Coque de carbón
+|   | 26.6930 | pesos por tonelada. |
+| --- | --- | --- |
+| 8. Coque de carbón |   |   |
 
-62.5771pesos por tonelada.9. Carbón mineral
+|   | 62.5771 | pesos por tonelada. |
+| --- | --- | --- |
+| 9. Carbón mineral |   |   |
 
-47.1189pesos por tonelada.10. Otros combustibles fósiles 	68.1134pesos por tonelada de carbono que contenga el combustible.
+|   | 47.1189 | pesos por tonelada. |
+| --- | --- | --- |
+| 10. Otros combustibles fósiles | 68.1134 | pesos por tonelada de carbono que contenga el combustible. |
 
 ARTÍCULO CUARTO.- Conforme al factor de actualización mencionado en el artículo Primero de este Acuerdo, las cuotas aplicables a las gasolinas y al diésel previstas en el artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, que estarán vigentes a partir del 1 de enero de 2026, son las siguientes:
 
@@ -4038,8 +4343,6 @@ Ciudad de México, a 16 de diciembre de 2025.- En suplencia por ausencia del Sec
 
 JKT§¨³ËÌlm5
 
-Æ|"J!`!a$KTjv¦§ËÌ×mp5
-
 ·2¸2Ä2Ì2à2á2pZZ
 
 á2â2ó2û233pZZ
@@ -4050,13 +4353,8 @@ E3F3[3c3w3x3pZZ
 
 x3y333©3ª3pZZ
 
-Æ|"JAàý^A`àýa$$a$gd!RNÎBÏBÒBCCCC÷C
-
-Æ|"JAàý^A`àýa$$a$gdÜN$
-
-iCJaJh.Gh
-
-SäTUUÐUÑUp[[\\\µ\¶\]A]B]¼]õéÝõõõéÕÉ¼³³¼¼«¼$
+| Æ|"JAàý^A`àýa$ | $a$gd!RNÎBÏBÒBCCCC÷C |
+| --- | --- |
 
 dÊdËdàePfQfki§i¨ikîæîÒÆî²ªÒÒz$
 
@@ -4072,62 +4370,18 @@ Gkh
 
 Gkh
 
-Æ|"Ja$gdÉrÄ$
-
-Æ|"Ja$gdÉrÄ$
-
-Æ|"J!`!a$gdá}h$
-
-Æ|"Ja$gdá}h$
-
-Æ|"Ja$gdá}h$
-
 såtætçtót]u^u²}³}~
 
-~&~C~b~~~µ~Ð~Û~Ü~õ~ !+òçÜòÓÇçòç¿ç¿ç¿çÇç¿çÇç¿çÇç¿çÇç¿çÇç¿ç¿ç¿çÇçÇç° °çÇç¿hU?CJaJhetÏCJaJmHsHhN,hetÏ5CJaJmHsHhN,hetÏCJaJmHsHhetÏCJaJhN,hetÏ5CJaJhetÏ5CJaJhetÏ56CJaJhN,hetÏCJaJhN,hetÏ56CJaJ4ssætçt^u_u³}´}
+| "#CJOJ | QJ | ^Jh |
+| --- | --- | --- |
 
-%%%%%%%ÿ())Z*[*\*_*Á+Â+,,,,-,---­.®.¯.².///­0®0¯0´03332434444444*6+6364656C6¤7¥7¦7´7081828?8 ;!;";1;;;ì=í=øíáíøíØáíØáíøÍáíÄáíøÍáí¼í¼í¼íøÍíøÍáíøÍíøÍáíøÍíøÍíøÍáí¼íøÍáíøÍáíøÍáíøÍáí¼íøhßysCJaJhßys5CJaJhÎSþhßysCJaJhÔf5CJaJhÎSþhÔf5CJaJhÎSþhÔfCJaJhÔfCJaJJ333444444656¥7¦71828!;";í=î=@ @
+| "#CJOJ | QJ | ^Jh |
+| --- | --- | --- |
 
-CCDDDDG G¡G³GKLLLMLäMåMæMáOâOîOïOðOPÕPÜPèPéPïP-Q.Q/Q2QnRoRsRÑRÒRS"S0S1S6SLS`SzSS¦S¿SÀSûT
+| OJ | QJ | ^J%hAxPh |
+| --- | --- | --- |
 
-$G$Ifa$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-$$G$Ifa$gd^$?$G$If]?a$gdÔDG$
-
-$Ifa$gdä*ÍfkdÖ$$IfTFÖFJ5R"&Ó
-
-$Ifa$gdä*ÍfkdU$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*ÍfkdÎ$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*ÍfkdG$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*ÍfkdÀ$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*Ífkd9$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*Ífkd²$$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*Ífkd+ $$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*Ífkd¤ $$IfTFÖFJ5R"Ó
-
-$Ifa$gdä*Ífkd¡$$IfTFÖFJ5R"Ó
-
-ÆÐÒd ` a$gdä*Í$ ` a$gdä*Ífkd¡$$IfTFÖFJ5R"Ó
+| "#5:CJOJ | QJ | \^Jh |
+| --- | --- | --- |
 
 "#CJh

@@ -849,31 +849,3 @@ Artículo Único.- Se reforman las fracciones XV y XVII, y se adicionan las frac
 México, D.F., a 8 de febrero de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-
-hkl15CJ
-
-hkl15CJ
-
-hkl15CJ
-
-5B*CJphhB2Wh\b
-
-B*CJphh\b
-
-5B*CJph
-
-hkl15CJ
-
-hkl15CJhB2Wh
-
-®B*CJphh
-
-®B*CJph
-
-®B*CJph
-
-hkl15CJ
-
-®B*CJphh
-
-hkl15CJ

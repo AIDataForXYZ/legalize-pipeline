@@ -1768,7 +1768,8 @@ c)	El consejo local o el consejo distrital, según corresponda, de forma tempora
 
 > <small>Artículo reformado DOF 02-03-2023 Artículo declarado inválido y recupera su vigencia con el texto que tenía al 2 de marzo de 2023 por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023</small>
 
-Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Capítulo III Bis "De los Órganos Locales del Instituto", el cual habían sido adicionado mediante el Decreto DOF 02-03-2023 declarado inválido.
+| Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Capítulo III Bis "De los Órganos Locales del Instituto", el cual habían sido adicionado mediante el Decreto DOF 02-03-2023 declarado inválido. |
+| --- |
 
 Sección Primera
 
@@ -2244,7 +2245,8 @@ l)	Las demás que les confiera esta Ley.
 
 > <small>Numeral reformado DOF 02-03-2023 Numeral declarado inválido y recupera su vigencia con el texto que tenía al 2 de marzo de 2023 por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023</small>
 
-Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió la Sección Quinta "De las Oficinas Municipales", la cual había sido adicionada mediante el Decreto DOF 02-03-2023 declarado inválido.
+| Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió la Sección Quinta "De las Oficinas Municipales", la cual había sido adicionada mediante el Decreto DOF 02-03-2023 declarado inválido. |
+| --- |
 
 [Artículo 80 Bis. Suprimido]
 
@@ -3026,7 +3028,8 @@ d)	Presuncional legal y humana.
 
 > <small>Numeral reformado DOF 02-03-2023 Numeral declarado inválido y recupera su vigencia con el texto que tenía al 2 de marzo de 2023 por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023</small>
 
-Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Título Sexto "Del Servicio Profesional Electoral Nacional" con su Capítulo I "De las Bases Generales del Servicio Profesional Electoral Nacional", Capítulo II "Del Servicio Profesional Electoral Nacional", Capítulo III "Del Estatuto del Servicio Profesional Electoral Nacional" y Capítulo IV "De las Disposiciones Complementarias", los cuales habían sido adicionados mediante el Decreto DOF 02-03-2023 declarado inválido.
+| Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Título Sexto "Del Servicio Profesional Electoral Nacional" con su Capítulo I "De las Bases Generales del Servicio Profesional Electoral Nacional", Capítulo II "Del Servicio Profesional Electoral Nacional", Capítulo III "Del Estatuto del Servicio Profesional Electoral Nacional" y Capítulo IV "De las Disposiciones Complementarias", los cuales habían sido adicionados mediante el Decreto DOF 02-03-2023 declarado inválido. |
+| --- |
 
 [Artículo 125 Bis. Suprimido]
 
@@ -5276,7 +5279,8 @@ i)	Los canceles o elementos modulares que garanticen que el elector pueda emitir
 
 1. Los consejos distritales darán publicidad a la lista de los lugares en que habrán de instalarse las casillas y un instructivo para los votantes.
 
-Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Capítulo VIII "De la Elección Consecutiva", el cual había sido adicionado mediante el Decreto DOF 02-03-2023 declarado inválido.
+| Nota: Por declaratoria de invalidez notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023, y conforme al texto de la ley que tenía al 2 de marzo de 2023, se suprimió el Capítulo VIII "De la Elección Consecutiva", el cual había sido adicionado mediante el Decreto DOF 02-03-2023 declarado inválido. |
+| --- |
 
 [Artículo 272 Bis. Suprimido]
 
@@ -9705,20 +9709,6 @@ Noveno.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto e
 Ciudad de México, a 14 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Julieta Andrea Ramírez Padilla, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de octubre de 2024.- Claudia Sheinbaum Pardo.- Rúbrica.- La Secretaria de Gobernación, Lic. Rosa Icela Rodríguez Velázquez.- Rúbrica.
-
-6B*CJPJ]aJph.tµ!h
-
-6B*CJPJ]aJph.tµ'hJh
-
-6B*CJPJ]aJph.tµ"ÎÎÎ¾Ï¿Ï
-
-6B*CJPJ]aJph.tµ'h¯h
-
-6B*CJPJ]aJph.tµ!h
-
-áh	¶5CJaJh7
-
-á5CJaJh7
 
 á5CJh*l=h7
 

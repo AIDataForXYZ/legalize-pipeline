@@ -1170,10 +1170,4 @@ Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secret
 
 Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Javier Laynez Potisek.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
 
-ÆC"a$gdé!gdé!$a$gdé!$7$8$H$a$gd!-]^_÷øùfg ¡ÉÊÐÑõö?@ìíîøþ
-
 FGMg
-
-CJ\aJmHnHu*hrOhÓ/CJaJ#jhrOhÓ/CJU\aJ*hë
-
-CJ\aJmHnHuhrOhÓ/CJ\aJ jhrOhÓ/CJU\aJhÓ/hþShÓ/CJaJF00P&P1F:prO°Ð/ °à=!°"°#$%°°Å°ÅÄDp

@@ -48,7 +48,12 @@ II. Secretaría: La Secretaría de Economía;
 
 III. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:
 
-Estratificación por Número de TrabajadoresSector/TamañoIndustriaComercioServiciosMicro0-100-100-10Pequeña11-5011-3011-50Mediana51-25031-10051-100
+| Estratificación por Número de Trabajadores |   |   |   |
+| --- | --- | --- | --- |
+| Sector/Tamaño | Industria | Comercio | Servicios |
+| Micro | 0-10 | 0-10 | 0-10 |
+| Pequeña | 11-50 | 11-30 | 11-50 |
+| Mediana | 51-250 | 31-100 | 51-100 |
 
 Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y de bienes culturales, así como prestadores de servicios turísticos y culturales;
 

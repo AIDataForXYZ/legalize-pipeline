@@ -3344,7 +3344,8 @@ Publicada en el Diario Oficial de la Federación el 9 de febrero de 2011
 
 Fe de erratas
 
-Nota: Fe de erratas a los artículos 94, numeral 4; 131, numeral 3, fracción IV; 199, numeral 1 y fracción I; y 311, numeral 2.
+| Nota: Fe de erratas a los artículos 94, numeral 4; 131, numeral 3, fracción IV; 199, numeral 1 y fracción I; y 311, numeral 2. |
+| --- |
 
 Atentamente
 
@@ -3712,47 +3713,7 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 5
 
 (Primera Sección)	DIARIO OFICIAL	Viernes 4 de junio de 2010
 
-``4`5`;`Å`Æ`Ê`aa0a1a4abacaaa²a³aæaça÷abb£bÃcÄcÇceee=g>g@ggg ghhhÊhËhÛháiâiæi¨jõéÞÓÞõéÞõéÞõéÞõéÞÓÞõéÞÉ½±½±½É§É§õéÞõéÞõÞõÞÉ§É§É§hº@CJaJh8¤hDCJh8¤hD5CJhº@hq5CJaJhº@hD5CJaJh8¤hq5CJh8¤hì_ºCJaJh8¤hDCJaJhphD5CJaJh8¤hqCJaJ7?_§_¨_`
-
-{5CJh8¤hDCJaJh"hD5CJaJh8¤h
-
-{CJaJh8¤hDCJh8¤hD5CJh8¤h
-
-{CJaJh8¤hDCJaJh8¤hD5CJaJh8¤h
-
-{5CJaJh8¤hDCJh8¤hD5CJh8¤h
-
-{5CJh8¤hDCJaJh"hD5CJaJh8¤h
-
-{CJaJ%ûªûÞüßüvýwýþ
-
-{5CJaJh8¤hD5CJaJh"hD5CJaJh8¤h
-
-{CJaJh8¤hDCJh8¤hD5CJh8¤h
-
-{5CJh8¤hDCJaJB³¿ûü+,
-
-ÇÈË·¸É¯°´ÆÇÊÔÕÙæçì -.1àáñhil458¨]^aÍÎÑõêÞõêÞõêÞõêÞõÔÊ¾õÔÊµÔ©ÔÊµÔÊµêÞõêÞõêÞõêÞõêÞõÔÊµÔÊµÔÊµÔÊµÔÊµÔÊµÔÊµÔÊhmR{hD5CJaJh8¤hDCJh8¤hD5CJaJh8¤hD5CJh8¤h
-
-{5CJh"hD5CJaJh8¤h
-
-{CJaJh8¤hDCJaJBý
-
-{CJaJh8¤hDCJaJh"hD5CJaJh"h
-
-{5CJaJh8¤hD5CJh8¤h
-
-{5CJh8¤hDCJGàOP¢£°
-
 {5CJhmR{h
-
-{CJaJh8¤hDCJh8¤hD5CJh8¤h
-
-{5CJaJhTA6hD5CJaJh8¤hDCJh8¤hD5CJh8¤h
-
-{5CJh"hD5CJaJh8¤h
-
-{5CJhTA6hD5CJaJh8¤h
 
 {5CJr
 
@@ -3760,12 +3721,8 @@ Jáh
 
 Jáh
 
-JáCJaJh
-
 Jáh
 
-Já5CJaJh
-
 65CJhÙ
 
 6CJhÙ
@@ -3773,10 +3730,6 @@ Já5CJaJh
 65CJhÙ
 
 6CJhÙ
-
-ÜÜ"Ý#Ý3ÝåÝæÝÿÞßß=â>âJâKâOâÔãõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõÖõëâõëâõëâõëâõëâÏÂ¹­¢¢¹­¢htCJaJh^htCJaJh^ht5CJaJht5CJaJh^htCJ^JaJ
-
-7õéÞõéÞÔÊÁõéÞõéÞõéÞõéÞµ©ÊÁõéÞõéÞõéÞõéÞ éÔÊÁÔÊÁÔÊÁÔÊÁÔÊÁõéÞha:ÃhDCJaJh8¤h8¤CJh8¤hD5CJaJh8¤h8¤5CJaJh8¤hDCJh8¤hD5CJh8¤h8¤5CJh8¤hDCJaJha:ÃhD5CJaJh8¤h8¤CJaJ:
 
 JáCJh
 
@@ -3784,11 +3737,7 @@ Jáh
 
 Jáh
 
-Já5B*CJ\aJphh
-
 Jáh
-
-Já5CJ^JaJ#h
 
 Jáh
 

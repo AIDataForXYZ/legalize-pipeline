@@ -969,7 +969,3 @@ Artículo Cuadragésimo Primero.- Se reforma el artículo 19, fracción II, de l
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-llllllµl¶l¹lºlnmomqmrmn
-
-zzzÞzßzâzãzW{X{Z{[{{{{N|O|[|ß}÷îäÚ÷îäÚ÷îäÚ÷ÐÆ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷ÐºÐÆ÷î÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷ÐÆ÷î°§hq&õh¹'CJhq&õh¹'5CJhÚQ§hBl5CJaJhÚQ§hBl5CJhÚQ§h)nÃ5CJh3ehã5,5CJh3ehBl5CJhÚQ§h)nÃCJhÚQ§hBlCJA>x?xKxxxyyXyYyz

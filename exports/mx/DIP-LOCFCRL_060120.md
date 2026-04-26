@@ -337,7 +337,3 @@ Cuarto. Las obligaciones que se generen con motivo de la entrada en vigor del pr
 Ciudad de México, a 14 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero  Dávila.- Rúbrica.
-
-CDóæó×È¾´«¾´«×~rf¾´«]«T«]«T«¾´«Th²	«hT
-
-!!!!!M!N!R!!!!Þ!ß!C"D"O"P"T"©"ª"#	####Ô#Õ#â#ã#é#%%%¼&½&Á&!'"'''y'z'')(*(1(Ñ(Ò(×(:);)))))â)ã)æ)þ)ÿ)***$*%*=*>*K*w*x*z*+++a+õëâÙâõëâõëâõëâÙâÙâõëâÙâÙâõëâÙâõëâõëâõëâõëâõëâõëâõëâõÍÂõëâõëâõëâõÍÂÍõëâõëâõëâh²	«h(­CJaJh²	«h(­5CJaJh²	«hT

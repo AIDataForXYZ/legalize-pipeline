@@ -1228,7 +1228,13 @@ Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor 
 
 Séptimo.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en, al menos, los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio o demarcación territorial por concepto del citado Fondo, considerando el 100% de la facturación de los conceptos referidos:
 
-Ejercicio FiscalPorcentaje de Retención201450%201560%201675%201785%2018100%
+| Ejercicio Fiscal | Porcentaje de Retención |
+| --- | --- |
+| 2014 | 50% |
+| 2015 | 60% |
+| 2016 | 75% |
+| 2017 | 85% |
+| 2018 | 100% |
 
 Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia, vigentes en la fecha de publicación de esta Ley.
 
@@ -1505,21 +1511,3 @@ Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vig
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-78gíÛÐÅÐº¨ÐºzÐºznzÐº]L@h¸
-
-Áh®Yõ5CJaJ h¸
-
-Áh®Yõ5CJaJh¸
-
-Áh R¥5CJaJ'QÒÓ CDef ¡
-
-Áh R¥5CJaJh¸
-
-Áh®YõCJaJh¸
-
-ÁhD~È5CJaJh¸
-
-ÁhD~È5CJaJh¸
-
-Áh®Yõ5CJaJh¸

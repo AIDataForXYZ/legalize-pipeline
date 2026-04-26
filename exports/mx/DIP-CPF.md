@@ -1802,7 +1802,8 @@ Bis.- (Se deroga).
 
 > <small>Artículo adicionado DOF 14-11-1941. Derogado (por reforma íntegra del Título Primero del Libro Segundo) DOF 29-07-1970</small>
 
-Nota: Por Decreto DOF 29-07-1970 se derogó y suprimió del Libro Segundo el entonces Título Segundo Delitos contra la seguridad interior de la Nación, con sus Capítulos I Rebelión, II Sedición y otros desórdenes públicos y III Delitos de disolución social (Capítulo III antes adicionado DOF 14-11-1941). En consecuencia, se recorrieron en su orden los subsecuentes Títulos Tercero a Vigesimocuarto para pasar a ser los actuales Títulos Segundo a Vigesimotercero del Libro Segundo.
+| Nota: Por Decreto DOF 29-07-1970 se derogó y suprimió del Libro Segundo el entonces Título Segundo Delitos contra la seguridad interior de la Nación, con sus Capítulos I Rebelión, II Sedición y otros desórdenes públicos y III Delitos de disolución social (Capítulo III antes adicionado DOF 14-11-1941). En consecuencia, se recorrieron en su orden los subsecuentes Títulos Tercero a Vigesimocuarto para pasar a ser los actuales Títulos Segundo a Vigesimotercero del Libro Segundo. |
+| --- |
 
 ## TITULO SEGUNDO
 
@@ -1838,7 +1839,8 @@ IV.- 	Todo ataque o violencia de cualquier género a los escudos, emblemas o pab
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
-Nota: Por Decreto DOF 20-01-1967 se suprimió el entonces Capítulo III Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales, debido a la adición de un Título Cuarto al Libro Segundo.
+| Nota: Por Decreto DOF 20-01-1967 se suprimió el entonces Capítulo III Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales, debido a la adición de un Título Cuarto al Libro Segundo. |
+| --- |
 
 ### CAPITULO III
 
@@ -6268,7 +6270,8 @@ Sufragio Efectivo. No Reelección.
 
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
 
-Nota: El Apéndice 1 de este Código y sus tablas 1, 2, 3 y 4, quedaron sin efecto al reformarse el artículo 195 bis del propio Código, mediante Decreto publicado en el Diario Oficial de la Federación el 20 de agosto de 2009.
+| Nota: El Apéndice 1 de este Código y sus tablas 1, 2, 3 y 4, quedaron sin efecto al reformarse el artículo 195 bis del propio Código, mediante Decreto publicado en el Diario Oficial de la Federación el 20 de agosto de 2009. |
+| --- |
 
 APENDICE 1
 
@@ -6276,185 +6279,287 @@ Apéndice 1 adicionado DOF 10-01-1994. Apéndice con Tablas reformado DOF 22-07-
 
 TABLA 1
 
-MARIHUANARESINA DE
+| MARIHUANA | RESINA DE |
+| --- | --- |
 
 CANNABIS
 
-(HASCHICH)MORFINABUPRENORFINA A
+| (HASCHICH) | MORFINA | BUPRENORFINA A |
+| --- | --- | --- |
 
-(NUVAINE)CLORHIDRATO
+| (NUVAINE) | CLORHIDRATO |
+| --- | --- |
 
-DE COCAINASULFATO DE
+| DE COCAINA | SULFATO DE |
+| --- | --- |
 
-COCAINAHEROINA
+| COCAINA | HEROINA |
+| --- | --- |
 
 (DIACETIL-
 
-MORFINA)FENTANIL
+| MORFINA) | FENTANIL |
+| --- | --- |
 
 (ALFA-METIL)
 
-(CHINA-WHITE)MEPERIDINA
+| (CHINA-WHITE) | MEPERIDINA |
+| --- | --- |
 
-(DEMEROL)PRIMODELINCUENCIA1ª
+| (DEMEROL) | PRIMODELINCUENCIA | 1ª |
+| --- | --- | --- |
 
-REINCIDENCIA2ª
+| REINCIDENCIA | 2ª |
+| --- | --- |
 
-REINCIDENCIAMULTIREINCIDENTEPENA DE PRISIONmáx 250 grsmáx 5 grsmáx 150 mgsmáx 200 mgsmáx 25 grs
+| REINCIDENCIA | MULTIREINCIDENTE |   |   |   |
+| --- | --- | --- | --- | --- |
+|   | PENA DE PRISION |   |   |   |
+| máx 250 grs | máx 5 grs | máx 150 mgs | máx 200 mgs | máx 25 grs |
 
-> <small>Fe de erratas DOF 01-08-1994máx 250 mgsmáx 1 grmáx 2 grsmáx 2 grs10 meses a</small>
+| Fe de erratas DOF 01-08-1994 | máx 250 mgs | máx 1 gr | máx 2 grs | máx 2 grs | 10 meses a |
+| --- | --- | --- | --- | --- | --- |
 
-1 año 4 meses1 año a
+| 1 año 4 meses | 1 año a |
+| --- | --- |
 
-1 año 6 meses1 año 3 meses a
+| 1 año 6 meses | 1 año 3 meses a |
+| --- | --- |
 
-1 año 9 meses1 año 9 meses a
+| 1 año 9 meses | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses250 grs a 1 kg5-20 grs150-300 mgs200-400 mgs25-50 grs250-500 mgs1-2 grs2-4-grs2-4 grs1 año 4 meses a
+| 2 años 3 meses |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 250 grs a 1 kg | 5-20 grs | 150-300 mgs | 200-400 mgs | 25-50 grs | 250-500 mgs | 1-2 grs | 2-4-grs | 2-4 grs | 1 año 4 meses a |
 
-1 año 9 meses1 año 6 meses a
+| 1 año 9 meses | 1 año 6 meses a |
+| --- | --- |
 
-2 años1 año 9 meses a
+| 2 años | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2 años 3 meses a
+| 2 años 3 meses | 2 años 3 meses a |
+| --- | --- |
 
-2 años 9 meses1 a 2.5 kg20-50 grs300-500 mgs400-800 mgs50-100 grs500 mgs-1gr2-4 grs4-8 grs4-8 grs1 año 9 meses a
+| 2 años 9 meses |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 a 2.5 kg | 20-50 grs | 300-500 mgs | 400-800 mgs | 50-100 grs | 500 mgs-1gr | 2-4 grs | 4-8 grs | 4-8 grs | 1 año 9 meses a |
 
-2 años 9 meses2 años a
+| 2 años 9 meses | 2 años a |
+| --- | --- |
 
-3 años 1 mes2 años 3 meses a
+| 3 años 1 mes | 2 años 3 meses a |
+| --- | --- |
 
-3 años 5 meses2 años 9 meses a
+| 3 años 5 meses | 2 años 9 meses a |
+| --- | --- |
 
-4 años 3 meses2.5 a 5 kg50-100 grs500-1 gr800-1 gr100-200 grs1-2 grs4-6 grs8-16 grs8-16 grs2 años 9 meses a
+| 4 años 3 meses |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.5 a 5 kg | 50-100 grs | 500-1 gr | 800-1 gr | 100-200 grs | 1-2 grs | 4-6 grs | 8-16 grs | 8-16 grs | 2 años 9 meses a |
 
-4 años 3 meses3 años 1 mes a
+| 4 años 3 meses | 3 años 1 mes a |
+| --- | --- |
 
-4 años 9 meses3 años 5 meses a
+| 4 años 9 meses | 3 años 5 meses a |
+| --- | --- |
 
-5 años 3 meses4 años 3 meses a
+| 5 años 3 meses | 4 años 3 meses a |
+| --- | --- |
 
-6 años 6 meses
+| 6 años 6 meses |
+| --- |
 
 TABLA 2
 
 FENCICLIDINA
 
-(PCP)MEZCALINAACIDO LISERGICO
+| (PCP) | MEZCALINA | ACIDO LISERGICO |
+| --- | --- | --- |
 
-(LSD)PSILOCIBINACLORHIDRATO DE
+| (LSD) | PSILOCIBINA | CLORHIDRATO DE |
+| --- | --- | --- |
 
 METANFETAMINA
 
-(ICE)METANFETAMINAPRIMODELINCUENCIA1ª
+| (ICE) | METANFETAMINA | PRIMODELINCUENCIA | 1ª |
+| --- | --- | --- | --- |
 
-REINCIDENCIA2ª
+| REINCIDENCIA | 2ª |
+| --- | --- |
 
-REINCIDENCIAMULTIREINCIDENTEPENA DE  PRISIÓNmáx 2 grsmáx 2.5 grsmáx 50 mgsmáx 2.5 grsmáx 1.5 grmáx 1.5 gr10 meses a
+| REINCIDENCIA | MULTIREINCIDENTE |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| PENA DE  PRISIÓN |   |   |   |   |   |   |
+| máx 2 grs | máx 2.5 grs | máx 50 mgs | máx 2.5 grs | máx 1.5 gr | máx 1.5 gr | 10 meses a |
 
-1 año 4 meses1 años a
+| 1 año 4 meses | 1 años a |
+| --- | --- |
 
-1 año 6 meses1 año 3 meses a
+| 1 año 6 meses | 1 año 3 meses a |
+| --- | --- |
 
-1 año 9 meses1 año 9 meses a
+| 1 año 9 meses | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2-4 grs2.5-5 grs50-100 mgs2.5-5 grs1.5-3 grs1.5-3 grs1 año 4 meses a
+| 2 años 3 meses |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2-4 grs | 2.5-5 grs | 50-100 mgs | 2.5-5 grs | 1.5-3 grs | 1.5-3 grs | 1 año 4 meses a |
 
-1 año 9 meses1 año 6 meses a
+| 1 año 9 meses | 1 año 6 meses a |
+| --- | --- |
 
-2 años1 año 9 meses a
+| 2 años | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2 años 3 meses a
+| 2 años 3 meses | 2 años 3 meses a |
+| --- | --- |
 
-2 años 9 meses4-8 grs5-10 grs100-200 mgs5-10 grs3-5 grs3-5 grs1 año 9 meses a
+| 2 años 9 meses |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4-8 grs | 5-10 grs | 100-200 mgs | 5-10 grs | 3-5 grs | 3-5 grs | 1 año 9 meses a |
 
-2 años 9 meses2 años a
+| 2 años 9 meses | 2 años a |
+| --- | --- |
 
-3 años 1 mes2 años 3 meses a
+| 3 años 1 mes | 2 años 3 meses a |
+| --- | --- |
 
-3 años 5 meses2 años 9 meses a
+| 3 años 5 meses | 2 años 9 meses a |
+| --- | --- |
 
-4 años 3 meses8-16 grs10-20 grs200-400 mgs10-20 grs5-10 grs5-10 grs2 años 9 meses a
+| 4 años 3 meses |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 8-16 grs | 10-20 grs | 200-400 mgs | 10-20 grs | 5-10 grs | 5-10 grs | 2 años 9 meses a |
 
-4 años 3 meses3 años 1 mes a
+| 4 años 3 meses | 3 años 1 mes a |
+| --- | --- |
 
-4 años 9 meses3 años 5 meses a
+| 4 años 9 meses | 3 años 5 meses a |
+| --- | --- |
 
-5 años 3 meses4 años 3 meses a
+| 5 años 3 meses | 4 años 3 meses a |
+| --- | --- |
 
-6 años 6 meses
+| 6 años 6 meses |
+| --- |
 
 TABLA 3
 
-DIAZEPAMFLUNITRAZEPAMFENPROPOREXTRIHEXIFENIDILOCLORODIAZEPOXIDOPRIMODELINCUENCIA1ª REINCIDENCIA2ª REINCIDENCIAMULTIREINCIDENTEPENA DE PRISIONmáx 150 mgsmáx 100mgsmáx 200 mgsmáx 100 mgsmáx 240 mgs10 meses a
+| DIAZEPAM | FLUNITRAZEPAM | FENPROPOREX | TRIHEXIFENIDILO | CLORODIAZEPOXIDO | PRIMODELINCUENCIA | 1ª REINCIDENCIA | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | PENA DE PRISION |   |   |   |   |   |   |   |
+| máx 150 mgs | máx 100mgs | máx 200 mgs | máx 100 mgs | máx 240 mgs | 10 meses a |   |   |   |
 
-1 año 4 meses1 año a
+| 1 año 4 meses | 1 año a |
+| --- | --- |
 
-1 año 6 meses1 año 3 meses a
+| 1 año 6 meses | 1 año 3 meses a |
+| --- | --- |
 
-1 año 9 meses1 año 9 meses a
+| 1 año 9 meses | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses150-300 mgs100-200 mgs200-300 mgs100-200 mgs240-600 mgs1 año 4 meses a
+| 2 años 3 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 150-300 mgs | 100-200 mgs | 200-300 mgs | 100-200 mgs | 240-600 mgs | 1 año 4 meses a |
 
-1 año 9 meses1 año 6 meses a
+| 1 año 9 meses | 1 año 6 meses a |
+| --- | --- |
 
-2 años1 año 9 meses a
+| 2 años | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2 años 3 meses a
+| 2 años 3 meses | 2 años 3 meses a |
+| --- | --- |
 
-2 años 9 meses300-600 mgs200-300 mgs300-400 mgs200-300 mgs600 mgs-1 gr1 año 9 meses a
+| 2 años 9 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 300-600 mgs | 200-300 mgs | 300-400 mgs | 200-300 mgs | 600 mgs-1 gr | 1 año 9 meses a |
 
-2 años 9 meses2 años a
+| 2 años 9 meses | 2 años a |
+| --- | --- |
 
-3 años 1 mes2 años 3 meses a
+| 3 años 1 mes | 2 años 3 meses a |
+| --- | --- |
 
-3 años 5 meses2 años 9 meses a
+| 3 años 5 meses | 2 años 9 meses a |
+| --- | --- |
 
-4 años 3 meses600 mgs-1 gr300-400 mgs400-600 mgs300-400 mgs1-2 grs2 años 9 meses a
+| 4 años 3 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 600 mgs-1 gr | 300-400 mgs | 400-600 mgs | 300-400 mgs | 1-2 grs | 2 años 9 meses a |
 
-4 años 3 meses3 años 1 mes a
+| 4 años 3 meses | 3 años 1 mes a |
+| --- | --- |
 
-4 años 9 meses3 años 5 meses a
+| 4 años 9 meses | 3 años 5 meses a |
+| --- | --- |
 
-5 años 3 meses4 años 3 meses a
+| 5 años 3 meses | 4 años 3 meses a |
+| --- | --- |
 
-6 años 6 meses
+| 6 años 6 meses |
+| --- |
 
 TABLA 4
 
-SECOBARBITALMECUALONAPENTOBARBITALRAFETAMINADEXTROANFETAMINAPRIMODELINCUENCIA1ª REINCIDENCIA2ª REINCIDENCIAMULTIREINCIDENTEPENA DE PRISIONmáx 2 grsmáx 2.5 grsmáx 5 grsmáx 150 mgsmáx 150 mgs10 meses a
+| SECOBARBITAL | MECUALONA | PENTOBARBITAL | RAFETAMINA | DEXTROANFETAMINA | PRIMODELINCUENCIA | 1ª REINCIDENCIA | 2ª REINCIDENCIA | MULTIREINCIDENTE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | PENA DE PRISION |   |   |   |   |   |   |   |
+| máx 2 grs | máx 2.5 grs | máx 5 grs | máx 150 mgs | máx 150 mgs | 10 meses a |   |   |   |
 
-1 año 4 meses1 año a
+| 1 año 4 meses | 1 año a |
+| --- | --- |
 
-1 años 6 meses 1 año 3 meses a
+| 1 años 6 meses | 1 año 3 meses a |
+| --- | --- |
 
-1 año 9 meses1 año 9 meses a
+| 1 año 9 meses | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2-4 grs2.5-5 grs5-20 grs150-300 mgs150-300 mgs1 año 4 meses a
+| 2 años 3 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 2-4 grs | 2.5-5 grs | 5-20 grs | 150-300 mgs | 150-300 mgs | 1 año 4 meses a |
 
-1 año 9 meses1 año 6 meses a
+| 1 año 9 meses | 1 año 6 meses a |
+| --- | --- |
 
-2 años 1 año 9 meses a
+| 2 años | 1 año 9 meses a |
+| --- | --- |
 
-2 años 3 meses2 años 3 meses a
+| 2 años 3 meses | 2 años 3 meses a |
+| --- | --- |
 
-2 años 9 meses4-8 grs5-10 grs20-50 grs300-500 mgs300-500 mgs1 año 9 meses a
+| 2 años 9 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 4-8 grs | 5-10 grs | 20-50 grs | 300-500 mgs | 300-500 mgs | 1 año 9 meses a |
 
-2 años 9 meses2 años a
+| 2 años 9 meses | 2 años a |
+| --- | --- |
 
-3 años 1 mes2 años 3 meses a
+| 3 años 1 mes | 2 años 3 meses a |
+| --- | --- |
 
-3 años 5 meses2 años 9 meses a
+| 3 años 5 meses | 2 años 9 meses a |
+| --- | --- |
 
-4 años 3 meses8- 16 grs10-20 grs50-100 grs500 mgs-1 gr500 mgs-1 gr2 años 9 meses a
+| 4 años 3 meses |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 8- 16 grs | 10-20 grs | 50-100 grs | 500 mgs-1 gr | 500 mgs-1 gr | 2 años 9 meses a |
 
-4 años 3 meses3 años 1 meses a
+| 4 años 3 meses | 3 años 1 meses a |
+| --- | --- |
 
-4 años 9 meses3 años 5 meses a
+| 4 años 9 meses | 3 años 5 meses a |
+| --- | --- |
 
-5 años 3 meses4 años 3 meses a
+| 5 años 3 meses | 4 años 3 meses a |
+| --- | --- |
 
-6 años 6 meses
+| 6 años 6 meses |
+| --- |
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
@@ -9526,36 +9631,15 @@ Ciudad de México, a 18 de febrero de 2026.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de marzo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-à5CJaJhí
-
-àª7«7¬7J8a8k8l8m8s8^9999999Ñ9Ú9ã9ó9´:¶:·:¸:;;;;\;_;õíõ×Ä×¼°¥zqzh]L]z]í]z]í]z!hbG6B*CJPJ]aJphÿh´8h83CJaJhí
-
-HH=HAHBHuHHHHHHHäHûHIII
-
-5B*CJaJph h´8hdx5B*CJaJphhî[
+| HH=HAHBHuHHHHHHHäHûHII | I |
+| --- | --- |
 
 B%B/B0BHBRBSBTBeBëCìCEEF
-
-pPB*CJaJph h´8h
-
-pPB*CJaJph h´8h
 
 ÒÛåêôõö	s|óÛÆ³Æs`Ró``óRDRó``h´8h)S
 
 5CJ\aJh´8h
 
-5CJaJh´8h
-
 5CJ\aJh´8h
 
 CJ\aJh´8h
-
-5CJaJh´8h
-
-CJaJ(h´8h
-
-B*CJaJph h´8h
-
-B*CJ\aJph#h´8h
-
-5B*CJ\aJphh´8h

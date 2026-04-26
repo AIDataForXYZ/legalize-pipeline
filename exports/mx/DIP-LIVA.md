@@ -1452,7 +1452,8 @@ VIII.	Proporcionar mensualmente a las autoridades fiscales, a través de los med
 
 > <small>Párrafo adicionado DOF 30-12-1980. Derogado DOF 31-12-1981</small>
 
-Nota: El párrafo anterior que a la letra establecía: Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución, fue expresamente derogado por Decreto DOF 31-12-1981. Sin embargo, en el Decreto de fecha 31-12-1987, se hace referencia a la frase inicial de dicho párrafo: Los contribuyentes dedicados a:, como si el mismo no hubiera sido previamente derogado.
+| Nota: El párrafo anterior que a la letra establecía: Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución, fue expresamente derogado por Decreto DOF 31-12-1981. Sin embargo, en el Decreto de fecha 31-12-1987, se hace referencia a la frase inicial de dicho párrafo: Los contribuyentes dedicados a:, como si el mismo no hubiera sido previamente derogado. |
+| --- |
 
 Los contribuyentes que tengan en copropiedad una negociación y los integrantes de una sociedad conyugal, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios o de los consortes, según se trate, cumpla con las obligaciones establecidas en esta Ley.
 
@@ -3150,48 +3151,8 @@ Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna,
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-h5CJaJhÍ
-
-hCJaJhÍ
-
 $Qþ^`Qþa$$.Qþ^.`Qþa$pLvL÷LMMM;MAMP>PàPæPlQrQ-RNRORUR*SKSLSRSCV~VVVÃVäVåVXlXxXXXXXñåÒåñåñåÒåñåñåÒåñåÒåñåÒåÀ°ÒmZÒåñ%h9%
 
-hCJaJhÍ
-
 hlc
 
 hlc
-
-hy¨CJaJhÍ
-
-hy¨CJaJhÍ
-
-hy¨5CJaJhy¨5CJaJhÍ
-
-hy¨CJaJhÍ
-
-hy¨CJaJhÍ
-
-hy¨CJaJhÍ
-
-hy¨CJaJhÍ
-
-hý$oCJaJhÍ
-
-hý$o5CJaJhÍ
-
-Q!Q6QJQ_QäRýR(SBSOSóSôS:T<T_T`TzT}TTÖTÞTiUªU«UÅUïWûWüW
-
-hWhYh|h}hhhh¿iÈiÅjk
-
-hÄ?5CJBµð¶ðNòOòMôNôñ÷ò÷ù
-
-hÄ?CJ\hÄ?5CJ\hÄ?5CJaJ
-
-hý$oCJaJhÍ
-
-hý$oCJaJhÍ
-
-hý$o5CJaJ'hÍ
-
-55555[5\5]5t5u5v5w5x555555 5Ð5â5ã5óëóÞóëÚÌÂ³¥ÌÂzÂnÂdQE9hîÃCJOJ	QJ	^JhîÃCJ

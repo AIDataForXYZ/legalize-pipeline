@@ -3310,7 +3310,17 @@ Por la expedición del título de concesión minera o por la recepción de la so
 
 Rango de Superficie
 
-(Hectáreas)LímitesInferiorSuperiorCuota FijaCuota Adicional por Hectárea Excedente del Límite Inferior130$918.24$14.9331100$1,390.45$27.74101500$3,409.21$67.515011,000$31,832.51$87.961,0015,000$88,668.76$5.32665,00150,000$112,545.97$3.818150,001en adelante$285,338.06$3.5209
+| (Hectáreas) |   |   |   |
+| --- | --- | --- | --- |
+| Límites |   |   |   |
+| Inferior | Superior | Cuota Fija | Cuota Adicional por Hectárea Excedente del Límite Inferior |
+| 1 | 30 | $918.24 | $14.93 |
+| 31 | 100 | $1,390.45 | $27.74 |
+| 101 | 500 | $3,409.21 | $67.51 |
+| 501 | 1,000 | $31,832.51 | $87.96 |
+| 1,001 | 5,000 | $88,668.76 | $5.3266 |
+| 5,001 | 50,000 | $112,545.97 | $3.8181 |
+| 50,001 | en adelante | $285,338.06 | $3.5209 |
 
 Por el estudio, trámite y resolución de cada solicitud de prórroga de concesión minera, se pagará por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
 
@@ -5674,7 +5684,10 @@ b).- 	Por la reposición del título 	 $2,594.54
 
 II.- 	Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
-a).- 	Por la expedición del título:Hasta 100 kilómetrosDe más de 100 a 500 kilómetrosDe más de 500 kilómetros1.- 	Gobiernos estatales, municipios y entidades paraestatales de la Administración Pública Federal .............................$1,297.12$1,816.01$2,335.042.- 	Particulares exclusivamente ................$5,708.23$10,897.83$16,087.47
+| a).- 	Por la expedición del título: | Hasta 100 kilómetros | De más de 100 a 500 kilómetros | De más de 500 kilómetros |   |
+| --- | --- | --- | --- | --- |
+|   | 1.- 	Gobiernos estatales, municipios y entidades paraestatales de la Administración Pública Federal ............................. | $1,297.12 | $1,816.01 | $2,335.04 |
+|   | 2.- 	Particulares exclusivamente ................ | $5,708.23 | $10,897.83 | $16,087.47 |
 
 III.- 	Por la autorización para la cesión total o parcial de derechos y obligaciones establecidos en las concesiones o permisos 	 $3,113.42
 
@@ -7248,7 +7261,23 @@ II.- 	Por la verificación en campo de levantamiento topográfico presentado por
 
 Rango de superficie
 
-(metros cuadrados)límitesinferiorSuperiorCuota fijaCuota Adicional por m2 excedente del límite inferior0.01 500.00 $2,506.52$0.0000500.01 1,000.00 $2,506.52$7.01921,000.01 2,500.00 $6,017.01$5.24112,500.01 5,000.00 $13,881.52$2.83755,000.01 10,000.00 $20,980.18$1.807510,000.01 15,000.00 $30,026.97$1.389915,000.01 20,000.00 $36,987.53$1.212020,000.01 25,000.00 $43,054.45$1.048325,000.01 50,000.00 $48,304.83$0.870350,000.01 100,000.00 $70,117.62$0.4810100,000.01 150,000.00 $94,291.15$0.3643150,000.01 En adelante $112,576.55$0.2435Tabla reformada DOF 31-12-1998
+| (metros cuadrados) |   |   |   |
+| --- | --- | --- | --- |
+| límites |   |   |   |
+| inferior | Superior | Cuota fija | Cuota Adicional por m2 excedente del límite inferior |
+| 0.01 | 500.00 | $2,506.52 | $0.0000 |
+| 500.01 | 1,000.00 | $2,506.52 | $7.0192 |
+| 1,000.01 | 2,500.00 | $6,017.01 | $5.2411 |
+| 2,500.01 | 5,000.00 | $13,881.52 | $2.8375 |
+| 5,000.01 | 10,000.00 | $20,980.18 | $1.8075 |
+| 10,000.01 | 15,000.00 | $30,026.97 | $1.3899 |
+| 15,000.01 | 20,000.00 | $36,987.53 | $1.2120 |
+| 20,000.01 | 25,000.00 | $43,054.45 | $1.0483 |
+| 25,000.01 | 50,000.00 | $48,304.83 | $0.8703 |
+| 50,000.01 | 100,000.00 | $70,117.62 | $0.4810 |
+| 100,000.01 | 150,000.00 | $94,291.15 | $0.3643 |
+| 150,000.01 | En adelante | $112,576.55 | $0.2435 |
+| Tabla reformada DOF 31-12-1998 |   |   |   |
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
@@ -7390,11 +7419,27 @@ IV.	(Se deroga el primer párrafo).
 
 > <small>Párrafo derogado DOF 27-12-2006</small>
 
-TABLA ANo.CRITERIOS AMBIENTALESRESPUESTAVALOR1¿Se trata de obras o actividades en áreas naturales protegidas de competencia de la Federación?No1Sí32¿Para el desarrollo del proyecto se requiere la autorización de impacto ambiental por el cambio de uso del suelo de áreas forestales, en selvas o zonas áridas?No1Sí33¿El proyecto implica el uso o manejo de al menos una sustancia considerada dentro de las actividades consideradas altamente riesgosas?No1Sí3Tabla A reformada DOF 21-12-2005, 18-11-2015
+| TABLA A |   |   |   |
+| --- | --- | --- | --- |
+| No. | CRITERIOS AMBIENTALES | RESPUESTA | VALOR |
+| 1 | ¿Se trata de obras o actividades en áreas naturales protegidas de competencia de la Federación? | No | 1 |
+| Sí | 3 |   |   |
+| 2 | ¿Para el desarrollo del proyecto se requiere la autorización de impacto ambiental por el cambio de uso del suelo de áreas forestales, en selvas o zonas áridas? | No | 1 |
+| Sí | 3 |   |   |
+| 3 | ¿El proyecto implica el uso o manejo de al menos una sustancia considerada dentro de las actividades consideradas altamente riesgosas? | No | 1 |
+| Sí | 3 |   |   |
+| Tabla A reformada DOF 21-12-2005, 18-11-2015 |   |   |   |
 
 Para determinar la cuota que le corresponde pagar, se debe calificar cada uno de los criterios anteriores y su clasificación será de acuerdo a la suma de los valores obtenidos.
 
-TABLA BGRADOCUOTA A PAGAR SEGÚN EL INCISO CORRESPONDIENTE A LAS FRACCIONES II Y III DE ESTE ARTÍCULORANGO(CLASIFICACIÓN)Mínimoa)3Mediob)De 5 a 7Altoc)9Tabla B reformada DOF 27-12-2006, 18-11-2015
+| TABLA B |   |   |
+| --- | --- | --- |
+| GRADO | CUOTA A PAGAR SEGÚN EL INCISO CORRESPONDIENTE A LAS FRACCIONES II Y III DE ESTE ARTÍCULO | RANGO |
+| (CLASIFICACIÓN) |   |   |
+| Mínimo | a) | 3 |
+| Medio | b) | De 5 a 7 |
+| Alto | c) | 9 |
+| Tabla B reformada DOF 27-12-2006, 18-11-2015 |   |   |
 
 El pago de los derechos de las fracciones II y III de este artículo se hará conforme a los criterios ambientales señalados en la TABLA A y los rangos de clasificación de la TABLA B, para lo cual se deberán sumar los valores que correspondan de cada criterio establecido en la TABLA A, y conforme al resultado de dicha suma se deberá clasificar el proyecto conforme a los rangos señalados en la TABLA B.
 
@@ -10086,57 +10131,11 @@ Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrad
 
 ###### Artículo 199 -
 
-A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas: ESPECIECUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓNDE ARTES O EQUIPOSI.- 	ABULÓN
+A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas: | ESPECIE | CUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN | DE ARTES O EQUIPOS |
+| --- | --- | --- |
+| I.- 	ABULÓN |   |   |
 
-$1,240.10II.- 	SARGAZO
-
-$165.73$4,488.72III.- 	ALGAS MARINAS
-
-$7,628.34$4,488.72IV.- 	ALMEJAS.
-
-$1,042.81$4,488.72V.- 	ANCHOVETA
-
-$113.87VI. 	CALAMAR
-
-> <small>Fracción reformada DOF 21-12-2005</small>
-
-$168.97VII.- 	CAMARÓN DE ALTAMAR
-
-$77.52VIII.- 	CAMARÓN DE AGUAS PROTEGIDAS
-
-$160.57IX.- 	CANGREJO
-
-$134.58X.- 	CARACOL
-
-$565.39XI.- 	ERIZO
-
-$2,604.90XII.- 	JAIBA
-
-$87.92XIII.- 	ESPECIES MARINAS DE ESCAMA
-
-$113.87XIV.- 	ESPECIES DE ESCAMA DE AGUA DULCE
-
-$56.74XV.- 	LANGOSTA
-
-$539.37XVI.- 	LANGOSTINO
-
-$87.92XVII.- 	OSTIÓN
-
-$113.87XVIII.- 	 PICUDOS
-
-$98.27XIX.- 	PULPO
-
-$321.48$435.66XX.- 	SARDINA
-
-$113.87XXI. 	TIBURÓN
-
-> <small>Fracción reformada DOF 21-12-2005</small>
-
-$28.55XXII.- 	TÚNIDOS
-
-$77.52XXIII.- 	OTRAS PESQUERÍAS MARINAS
-
-$103.51$435.66XXIV.- 	OTRAS PESQUERÍAS DE AGUA DULCE $56.74$435.66
+> <small>Fracción reformada DOF 21-12-2005 Fracción reformada DOF 21-12-2005</small>
 
 XXV.- 	Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
@@ -10510,7 +10509,12 @@ Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere 
 
 A.	Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, por cada metro cúbico:
 
-Zona de disponibilidadAguas superficialesAguas Subterráneas1$23.6460$31.86222$10.8860$12.33333$3.5694$4.29444$2.7295$3.1215
+| Zona de disponibilidad | Aguas superficiales | Aguas Subterráneas |
+| --- | --- | --- |
+| 1 | $23.6460 | $31.8622 |
+| 2 | $10.8860 | $12.3333 |
+| 3 | $3.5694 | $4.2944 |
+| 4 | $2.7295 | $3.1215 |
 
 Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales, que cuenten con el permiso por parte de los municipios u organismos operadores para la prestación de los servicios de agua potable, cumplan con las condiciones de calidad de agua para consumo humano establecidas en las normas oficiales mexicanas y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso. Los contribuyentes podrán aplicar las cuotas preferenciales que establece el Apartado B, fracción I de este artículo, siempre y cuando cumplan con todos los requisitos previstos en este párrafo.
 
@@ -10528,7 +10532,12 @@ c).	Concesionada a colonias constituidas como personas morales que por concesió
 
 Para los efectos del uso de agua potable, se considerará:
 
-Zona de disponibilidadAguas superficialesAguas subterráneas1$702.76$733.582$337.04$338.253$168.32$190.674$83.80$88.90
+| Zona de disponibilidad | Aguas superficiales | Aguas subterráneas |
+| --- | --- | --- |
+| 1 | $702.76 | $733.58 |
+| 2 | $337.04 | $338.25 |
+| 3 | $168.32 | $190.67 |
+| 4 | $83.80 | $88.90 |
 
 Los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere esta fracción, que paguen los municipios, se destinarán a la Comisión Nacional del Agua para obras de infraestructura hidráulica.
 
@@ -10536,7 +10545,12 @@ Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que
 
 En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
 
-Zona de disponibilidadAguas superficialesAguas subterráneas1$1,405.50$1,467.172$674.13$676.503$336.63$381.404$167.58$177.77
+| Zona de disponibilidad | Aguas superficiales | Aguas subterráneas |
+| --- | --- | --- |
+| 1 | $1,405.50 | $1,467.17 |
+| 2 | $674.13 | $676.50 |
+| 3 | $336.63 | $381.40 |
+| 4 | $167.58 | $177.77 |
 
 II.	Generación Hidroeléctrica y generación geotérmica 	 $8.1243
 
@@ -10544,11 +10558,21 @@ II.	Generación Hidroeléctrica y generación geotérmica 	 $8.1243
 
 III.	Acuacultura:
 
-Zona de disponibilidadAguas superficialesAguas subterráneas1$5.8420$6.41482$2.9147$2.97153$1.3385$1.47604$0.6206$0.6765
+| Zona de disponibilidad | Aguas superficiales | Aguas subterráneas |
+| --- | --- | --- |
+| 1 | $5.8420 | $6.4148 |
+| 2 | $2.9147 | $2.9715 |
+| 3 | $1.3385 | $1.4760 |
+| 4 | $0.6206 | $0.6765 |
 
 IV.	Balnearios y centros recreativos:
 
-Zona de disponibilidadAguas superficialesAguas subterráneas1$17.4128$20.62722$9.7180$10.16203$4.5329$4.98454$1.8694$2.2256
+| Zona de disponibilidad | Aguas superficiales | Aguas subterráneas |
+| --- | --- | --- |
+| 1 | $17.4128 | $20.6272 |
+| 2 | $9.7180 | $10.1620 |
+| 3 | $4.5329 | $4.9845 |
+| 4 | $1.8694 | $2.2256 |
 
 Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de acceso exclusivo o privado y campos de golf.
 
@@ -10564,27 +10588,63 @@ Los ingresos que se obtengan por la recaudación del derecho a que se refiere es
 
 Bis. Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación. Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$4.29102$2.3533$1.97593$1.5829$0.9174$0.64754$1.5102$0.8306$0.5062$0.4954
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $4.2910 |   |   |   |
+| 2 | $2.3533 | $1.9759 |   |   |   |
+|   | 3 | $1.5829 | $0.9174 | $0.6475 |   |
+| 4 | $1.5102 | $0.8306 | $0.5062 | $0.4954 |   |
 
 Apartado B, fracción I del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$127.562$71.60$61.163$52.84$35.20$30.564$45.13$25.65$17.55$15.18
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $127.56 |   |   |   |
+| 2 | $71.60 | $61.16 |   |   |   |
+|   | 3 | $52.84 | $35.20 | $30.56 |   |
+| 4 | $45.13 | $25.65 | $17.55 | $15.18 |   |
 
 Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$1.47422$1.4742$1.47423$1.4742$1.4742$1.47424$1.4742$1.4742$1.4742$1.4742
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $1.4742 |   |   |   |
+| 2 | $1.4742 | $1.4742 |   |   |   |
+|   | 3 | $1.4742 | $1.4742 | $1.4742 |   |
+| 4 | $1.4742 | $1.4742 | $1.4742 | $1.4742 |   |
 
 Apartado B, fracción III del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$1.06042$0.6096$0.52913$0.4333$0.2896$0.24304$0.3690$0.2114$0.1338$0.1125
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $1.0604 |   |   |   |
+| 2 | $0.6096 | $0.5291 |   |   |   |
+|   | 3 | $0.4333 | $0.2896 | $0.2430 |   |
+| 4 | $0.3690 | $0.2114 | $0.1338 | $0.1125 |   |
 
 Apartado B, fracción IV del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$3.15992$1.9500$1.76353$1.3452$0.9744$0.82244$1.1004$0.6869$0.4250$0.3394
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $3.1599 |   |   |   |
+| 2 | $1.9500 | $1.7635 |   |   |   |
+|   | 3 | $1.3452 | $0.9744 | $0.8224 |   |
+| 4 | $1.1004 | $0.6869 | $0.4250 | $0.3394 |   |
 
 Apartado C, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad exportadoraZona de disponibilidad importadoraZD12341$0.04502$0.0450$0.04503$0.0450$0.0450$0.04504$0.0450$0.0450$0.0450$0.0450
+| Zona de disponibilidad exportadora | Zona de disponibilidad importadora |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | ZD | 1 | 2 | 3 | 4 |
+|   | 1 | $0.0450 |   |   |   |
+| 2 | $0.0450 | $0.0450 |   |   |   |
+|   | 3 | $0.0450 | $0.0450 | $0.0450 |   |
+| 4 | $0.0450 | $0.0450 | $0.0450 | $0.0450 |   |
 
 La cuota que resulte de las tablas anteriores, se aplicará por cada metro cúbico o mil metros cúbicos de agua que durante el trimestre trasvase directamente el contribuyente, así como por cada metro cúbico o mil metros cúbicos de los que se haya beneficiado el contribuyente derivado del trasvase indirecto, según corresponda.
 
@@ -10834,8 +10894,6 @@ Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, se de
 
 I.	Tratándose de aguas superficiales la determinación será por cuenca hidrológica aplicando la siguiente fórmula:
 
-Dr=Cp+Ar+R+ImUc+Rxy+Ex+Ev+(V
-
 Donde:
 
 Dr= Disponibilidad relativa.
@@ -10872,11 +10930,17 @@ La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la
 
 El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda a la cuenca:
 
-Zona de disponibilidad 1Menor o igual a 1.4Zona de disponibilidad 2Mayor a 1.4 y menor o igual a 3.0Zona de disponibilidad 3Mayor a 3.0 y menor o igual a 9.0Zona de disponibilidad 4Mayor a 9.0
+| Zona de disponibilidad 1 | Menor o igual a 1.4 |
+| --- | --- |
+| Zona de disponibilidad 2 | Mayor a 1.4 y menor o igual a 3.0 |
+| Zona de disponibilidad 3 | Mayor a 3.0 y menor o igual a 9.0 |
+| Zona de disponibilidad 4 | Mayor a 9.0 |
 
 II.	Tratándose de aguas subterráneas la determinación será por acuífero aplicando la siguiente fórmula:
 
-Idas=Dma(R-Dnc)
+| Idas= | Dma |
+| --- | --- |
+|   | (R-Dnc) |
 
 Donde:
 
@@ -10896,7 +10960,11 @@ La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la
 
 El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda al acuífero:
 
-Zona de disponibilidad 1Menor o igual a -0.1Zona de disponibilidad 2Mayor a -0.1 y menor o igual a 0.1Zona de disponibilidad 3Mayor a 0.1 y menor o igual a 0.8Zona de disponibilidad 4Mayor a 0.8
+| Zona de disponibilidad 1 | Menor o igual a -0.1 |
+| --- | --- |
+| Zona de disponibilidad 2 | Mayor a -0.1 y menor o igual a 0.1 |
+| Zona de disponibilidad 3 | Mayor a 0.1 y menor o igual a 0.8 |
+| Zona de disponibilidad 4 | Mayor a 0.8 |
 
 III.	La Comisión Nacional del Agua para fines informativos publicará en su página de Internet en el mes de septiembre los valores preliminares calculados a dicho mes de cada una de las variables que integran las fórmulas previstas en las fracciones I y II de este artículo, así como la zona de disponibilidad que correspondería a cada cuenca o acuífero.
 
@@ -11018,11 +11086,12 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 ###### Artículo 232 -
 
-C.- Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley: ZonasUsosProtección u Ornato
+C.- Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley: | Zonas | Usos |
+| --- | --- |
+|   | Protección u Ornato |
 
-($/m2)Agricultura, ganadería, pesca, acuacultura y la extracción artesanal de piedra bola ($/m2)General
-
-($/m2)ZONA I$0.53$0.216$2.00ZONA II$1.30$0.216$4.22ZONA III$2.81$0.216$8.61ZONA IV$4.34$0.216$12.98ZONA V$5.82$0.216$17.42ZONA VI$9.08$0.216$26.23ZONA VII$12.12$0.216$35.00ZONA VIII$22.90$0.216$65.91ZONA IX$30.59$0.216$87.88ZONA X$61.39$0.216$176.00ZONA XISubzona A $27.70Subzona A $0.197Subzona A $99.53Subzona B$55.60Subzona B$0.197Subzona B$199.25Tabla reformada DOF 31-12-1998, 01-01-2002, 01-12-2004, 21-12-2005. Zona XI adicionada a la Tabla DOF 13-11-2008
+| ($/m2) | Agricultura, ganadería, pesca, acuacultura y la extracción artesanal de piedra bola ($/m2) | General |
+| --- | --- | --- |
 
 Se considerará como uso de protección, el que se dé a aquellas superficies ocupadas que mantengan el estado natural de la superficie concesionada, no realizando construcción alguna y donde no se realicen actividades de lucro.
 
@@ -11096,7 +11165,8 @@ D-1.- Están obligadas a pagar el derecho por extracción de materiales pétreos
 
 > <small>Párrafo reformado DOF 31-12-2003</small>
 
-Material$/M3
+| Material | $/M3 |
+| --- | --- |
 
 Grava 	 $23.31
 
@@ -11696,13 +11766,26 @@ D.- (Se deroga).
 
 Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 2500 MHzA 2690 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 2500 MHz | A 2690 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado o permisionado
+| Cobertura | Cuota por cada kilohertz concesionado o permisionado |
+| --- | --- |
 
-1 MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$1,953.25Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$289.54Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$1,229.83Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.$6,116.98Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$2,375.70Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$991.16Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$169.32Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$114.47Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$8,896.94
+| 1 MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $1,953.25 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $289.54 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $1,229.83 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca. | $6,116.98 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $2,375.70 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $991.16 |
+| Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $169.32 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $114.47 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $8,896.94 |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11714,13 +11797,26 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 A. Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 698 MHzA 806 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 698 MHz | A 806 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado
+| Cobertura | Cuota por cada kilohertz concesionado |
+| --- | --- |
 
-1 MHz=1000 KHzTodos los municipios de los estados de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$472.95Todos los municipios de los estados de Sinaloa y Sonora, excepto el municipio de San Luis Río Colorado del estado de Sonora.$70.10Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$297.79Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$1,481.12Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$575.23Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$239.98Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$41.00Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$27.70Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$2,154.21
+| 1 MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de los estados de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $472.95 |
+| Todos los municipios de los estados de Sinaloa y Sonora, excepto el municipio de San Luis Río Colorado del estado de Sonora. | $70.10 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $297.79 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $1,481.12 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $575.23 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $239.98 |
+| Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $41.00 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $27.70 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $2,154.21 |
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto, provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11732,13 +11828,28 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 B.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-I. Rango de frecuencias en MegahertzDe 1850 MHza 1915 MHzDe 1930 MHza 1995 MHzTabla A reformada DOF 31-12-2003, 08-12-2020, 12-11-2021
+| I. Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 1850 MHz | a 1915 MHz |
+| De 1930 MHz | a 1995 MHz |
+| Tabla A reformada DOF 31-12-2003, 08-12-2020, 12-11-2021 |   |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado permisionado
+| Cobertura | Cuota por cada kilohertz concesionado permisionado |
+| --- | --- |
 
-1MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$4,764.53Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$706.29Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$2,999.90Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca.$14,921.04Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$5,795.01Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$2,417.71Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$413.03Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$279.17Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$21,702.14
+| 1MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $4,764.53 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $706.29 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $2,999.90 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca. | $14,921.04 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $5,795.01 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $2,417.71 |
+| Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $413.03 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $279.17 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $21,702.14 |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11750,13 +11861,30 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 C.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-II. Rango de frecuencias en MegahertzDe 30 MHza 35 MHzDe 40 MHza 45 MHzDe 901 MHza 902 MHzDe 929 MHza 932 MHzDe 940 MHza 941 MHz
+| II. Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 30 MHz | a 35 MHz |
+| De 40 MHz | a 45 MHz |
+| De 901 MHz | a 902 MHz |
+| De 929 MHz | a 932 MHz |
+| De 940 MHz | a 941 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado o permisionado
+| Cobertura | Cuota por cada kilohertz concesionado o permisionado |
+| --- | --- |
 
-(1MHz=1000 KHz)Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$29,583.24Todos los municipios de Sinaloa y todos los de Sonora excepto el municipio de San Luis Río Colorado.$25,043.49Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$6,691.10Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca.$11,823.29Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$17,435.66Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$8,418.45Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$14,317.67Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$7,002.91Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$24,217.20
+| (1MHz=1000 KHz) |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $29,583.24 |
+| Todos los municipios de Sinaloa y todos los de Sonora excepto el municipio de San Luis Río Colorado. | $25,043.49 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $6,691.10 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca. | $11,823.29 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $17,435.66 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $8,418.45 |
+| Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $14,317.67 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $7,002.91 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $24,217.20 |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla mencionada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla B. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11768,13 +11896,35 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 D.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 431.3 MHza 433 MHzDe 438.3 MHza 440 MHzDe 475 MHza 476.2 MHzDe 494.6 MHza 495.8 MHzDe 806 MHza 814 MHzDe 851 MHza 859 MHzDe 896 MHza 901 MHzDe 935 MHza 940 MHzTabla A reformada DOF 08-12-2020
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 431.3 MHz | a 433 MHz |
+| De 438.3 MHz | a 440 MHz |
+| De 475 MHz | a 476.2 MHz |
+| De 494.6 MHz | a 495.8 MHz |
+| De 806 MHz | a 814 MHz |
+| De 851 MHz | a 859 MHz |
+| De 896 MHz | a 901 MHz |
+| De 935 MHz | a 940 MHz |
+| Tabla A reformada DOF 08-12-2020 |   |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado o permisionado
+| Cobertura | Cuota por cada kilohertz concesionado o permisionado |
+| --- | --- |
 
-1 MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$5,813.05Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$861.73Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$3,660.08Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.$18,204.68Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$7,070.31Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$2,949.77Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$503.93Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$340.61Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$26,478.10Tabla B reformada DOF 11-12-2013
+| 1 MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $5,813.05 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $861.73 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $3,660.08 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca. | $18,204.68 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $7,070.31 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $2,949.77 |
+| Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $503.93 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $340.61 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $26,478.10 |
+| Tabla B reformada DOF 11-12-2013 |   |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la Tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11786,11 +11936,24 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 E. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 1710 MHza 1770 MHzDe 2110 MHza 2170 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 1710 MHz | a 1770 MHz |
+| De 2110 MHz | a 2170 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado permisionado 1MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$4,764.53Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$706.29Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$2,999.90Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca.$14,921.04Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$5,795.01Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$2,417.71Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$413.03Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$279.17Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$21,702.14
+| Cobertura | Cuota por cada kilohertz concesionado permisionado 1MHz=1000 KHz |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $4,764.53 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $706.29 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $2,999.90 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca. | $14,921.04 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $5,795.01 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Angeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $2,417.71 |
+| Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $413.03 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $279.17 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal. | $21,702.14 |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11800,7 +11963,10 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 ###### Artículo 244 -
 
-E-1. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla de Rango de frecuencias en megahertz que a continuación se indica, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, conforme a las cuotas y coberturas señaladas en la tabla B del artículo 244-E de esta Ley, según corresponda. Rango de frecuencias en MegahertzDe 1770 MHzA 1780 MHzDe 2170 MHzA 2180 MHz
+E-1. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla de Rango de frecuencias en megahertz que a continuación se indica, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, conforme a las cuotas y coberturas señaladas en la tabla B del artículo 244-E de esta Ley, según corresponda. | Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 1770 MHz | A 1780 MHz |
+| De 2170 MHz | A 2180 MHz |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B del artículo 244-E de esta Ley, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto, provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11812,15 +11978,23 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 F. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 410 MHzA 430 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 410 MHz | A 430 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado o permisionado
+| Cobertura | Cuota por cada kilohertz concesionado o permisionado |
+| --- | --- |
 
-1 MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$1,278.70Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$189.57Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$805.13Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.$4,004.48Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$1,555.26Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.
-
-$648.86Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$110.85Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$74.96Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las delegaciones del Distrito Federal.$5,824.39
+| 1 MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $1,278.70 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $189.57 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $805.13 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca. | $4,004.48 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $1,555.26 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. |   |
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11832,13 +12006,29 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 G. Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 814 MHza 824 MHzDe 824 MHza 849 MHzDe 859 MHza 869 MHzDe 869 MHza 894 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 814 MHz | a 824 MHz |
+| De 824 MHz | a 849 MHz |
+| De 859 MHz | a 869 MHz |
+| De 869 MHz | a 894 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado
+| Cobertura | Cuota por cada kilohertz concesionado |
+| --- | --- |
 
-1MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$4,772.37Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$707.45Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$3,004.84Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca.$14,945.58Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$5,804.54Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$2,421.69Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$413.71Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$279.63Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México.$21,737.85
+| 1MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $4,772.37 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $707.45 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $3,004.84 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca. | $14,945.58 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $5,804.54 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $2,421.69 |
+| Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $413.71 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $279.63 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México. | $21,737.85 |
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11850,13 +12040,26 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 H. Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 614 MHza 698 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 614 MHz | a 698 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado
+| Cobertura | Cuota por cada kilohertz concesionado |
+| --- | --- |
 
-1MHz=1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$2,382.06Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$353.12Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$1,499.82Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca.$7,459.89Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$2,897.25Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$1,208.75Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$206.49Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$139.57Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México.$10,850.15
+| 1MHz=1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $2,382.06 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $353.12 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $1,499.82 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, Torreón, San Pedro y Viesca. | $7,459.89 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $2,897.25 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $1,208.75 |
+| Todos los municipios de los Estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $206.49 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $139.57 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México. | $10,850.15 |
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11868,13 +12071,26 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 I. Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 1427 MHza 1518 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 1427 MHz | a 1518 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado
+| Cobertura | Cuota por cada kilohertz concesionado |
+| --- | --- |
 
-1MHz = 1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$1,786.54Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$264.84Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$1,124.86Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.$5,594.91Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$2,172.94Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$906.57Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$154.87Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$104.69Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México.$8,137.60
+| 1MHz = 1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $1,786.54 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $264.84 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $1,124.86 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca. | $5,594.91 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $2,172.94 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $906.57 |
+| Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $154.87 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $104.69 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México. | $8,137.60 |
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -11886,13 +12102,27 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 J. Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue: Tabla A
 
-Rango de frecuencias en MegahertzDe 3300 MHza 3400 MHzDe 3400 MHza 3600 MHz
+| Rango de frecuencias en Megahertz |   |
+| --- | --- |
+| De 3300 MHz | a 3400 MHz |
+| De 3400 MHz | a 3600 MHz |
 
 Tabla B
 
-CoberturaCuota por cada kilohertz concesionado
+| Cobertura | Cuota por cada kilohertz concesionado |
+| --- | --- |
 
-1 MHz = 1000 KHzTodos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora.$802.21Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado.$118.92Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila.$505.10Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.$2,512.29Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo.$975.71Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco.$407.07Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz.$69.54Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.$47.01Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México.$3,654.03
+| 1 MHz = 1000 KHz |   |
+| --- | --- |
+| Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. | $802.21 |
+| Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. | $118.92 |
+| Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del estado de Coahuila. | $505.10 |
+| Todos los municipios de los estados de Nuevo León, Tamaulipas y Coahuila, con excepción de los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca. | $2,512.29 |
+| Todos los municipios de los estados de Colima, Michoacán, Nayarit y Jalisco, excepto los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo. | $975.71 |
+| Todos los municipios de Aguascalientes, Guanajuato, Querétaro, San Luis Potosí, Zacatecas y los municipios de Bolaños, Colotlán, Encarnación de Díaz, Huejúcar, Huejuquilla, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, Santa María de los Ángeles, Teocaltiche, Villa Guerrero y Villa Hidalgo del estado de Jalisco. | $407.07 |
+| Todos los municipios de los estados de Guerrero, Oaxaca, Puebla, Tlaxcala y Veracruz. | $69.54 |
+| Todos los municipios de los estados de Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán. | $47.01 |
+| Todos los municipios de los estados de Hidalgo, Morelos y Estado de México, y todas las demarcaciones territoriales de la Ciudad de México. | $3,654.03 |
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -12182,17 +12412,9 @@ Están obligadas a pagar los derechos sobre minería que establece este Capítul
 
 ###### Artículo 263.
 
-Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, el derecho sobre minería, de acuerdo con las siguientes cuotas: Concesiones y asignaciones minerasCuota por hectáreaI.Durante el primer y segundo año de vigencia.
-
-$10.52II.Durante el tercero y cuarto año de vigencia.
-
-$15.76III.Durante el quinto y sexto año de vigencia.
-
-$32.55IV.Durante el séptimo y octavo año de vigencia.
-
-$65.47V.Durante el noveno y décimo año de vigencia.
-
-$130.94VI.A partir del décimo primer año de vigencia.$230.41
+Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, el derecho sobre minería, de acuerdo con las siguientes cuotas: | Concesiones y asignaciones mineras | Cuota por hectárea |
+| --- | --- |
+| I. | Durante el primer y segundo año de vigencia. |
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
 
@@ -12386,27 +12608,38 @@ B. El monto del derecho a pagar se determinará aplicando al volumen descargado 
 
 I.	Por la descarga que realicen las entidades federativas, municipios, organismos paraestatales, paramunicipales y las empresas concesionarias que presten el servicio de alcantarillado en sustitución de las anteriores, atendiendo al tipo de cuerpo receptor aplicarán.
 
-CUERPOS RECEPTORESTipo ATipo BTipo C$1.90$2.80$4.16
+| CUERPOS RECEPTORES |   |   |
+| --- | --- | --- |
+| Tipo A | Tipo B | Tipo C |
+| $1.90 | $2.80 | $4.16 |
 
 II.	Por la descarga que realicen las personas físicas y morales distintas a las señaladas en la fracción I de este artículo, atendiendo al tipo de cuerpo receptor aplicarán.
 
-CUERPOS RECEPTORESTipo ATipo BTipo C$23.28$34.23$51.34
+| CUERPOS RECEPTORES |   |   |
+| --- | --- | --- |
+| Tipo A | Tipo B | Tipo C |
+| $23.28 | $34.23 | $51.34 |
 
 III.	Los contribuyentes a que se refiere la fracción II de este artículo, podrán optar por aplicar las siguientes cuotas a cada metro cúbico descargado atendiendo al tipo de cuerpo receptor en que realicen su descarga y a la actividad que la generó, siempre y cuando presenten previamente la información necesaria para acreditar la cantidad y calidad de sus descargas, que solicite la Comisión Nacional del Agua mediante reglas de carácter general.
 
-ActividadTIPO DE CUERPO RECEPTORABC
+| Actividad | TIPO DE CUERPO RECEPTOR |   |   |
+| --- | --- | --- | --- |
+|   | A | B | C |
 
 Descargas de comercio y servicios asimilables a las de servicios público urbano
 
-Generación, transmisión y distribución de energía eléctrica, suministro de gas por ductos al consumidor final; construcción; confección de alfombras y similares; confección de costales y productos textiles recubiertos de materiales sucedáneos; confección de prendas de vestir; confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte; impresión e industrias conexas; comercio, productos y servicios; transportes, correos y almacenamientos; transporte por ducto; servicios financieros y de seguros; servicios inmobiliarios y de alquiler de bienes muebles e intangibles; servicios profesionales, científicos y técnicos; servicios educativos; servicios de salud y de asistencia social; servicios de esparcimiento culturales y deportivos y otros servicios recreativos; servicios de alojamiento temporal y de preparación de alimentos y bebidas; servicios de reparación y mantenimiento; servicios personales, y servicios de apoyo a los negocios$2.96$4.38$6.54
+| Generación, transmisión y distribución de energía eléctrica, suministro de gas por ductos al consumidor final; construcción; confección de alfombras y similares; confección de costales y productos textiles recubiertos de materiales sucedáneos; confección de prendas de vestir; confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte; impresión e industrias conexas; comercio, productos y servicios; transportes, correos y almacenamientos; transporte por ducto; servicios financieros y de seguros; servicios inmobiliarios y de alquiler de bienes muebles e intangibles; servicios profesionales, científicos y técnicos; servicios educativos; servicios de salud y de asistencia social; servicios de esparcimiento culturales y deportivos y otros servicios recreativos; servicios de alojamiento temporal y de preparación de alimentos y bebidas; servicios de reparación y mantenimiento; servicios personales, y servicios de apoyo a los negocios | $2.96 | $4.38 | $6.54 |
+| --- | --- | --- | --- |
 
 Descargas preponderantemente biodegradables
 
-Cría y explotación de animales, aprovechamiento forestal, pesca y caza; industrias alimentaria, de bebidas y tabaco; industria de la madera; industria del papel, y fabricación de productos de cuero, piel y materiales sucedáneos$7.49$11.07$16.59
+| Cría y explotación de animales, aprovechamiento forestal, pesca y caza; industrias alimentaria, de bebidas y tabaco; industria de la madera; industria del papel, y fabricación de productos de cuero, piel y materiales sucedáneos | $7.49 | $11.07 | $16.59 |
+| --- | --- | --- | --- |
 
 Descargas preponderantemente no biodegradables
 
-Minería de minerales metálicos, no metálicos y extracción de petróleo y gas; curtido y acabado de cuero y piel; fabricación de productos derivados del petróleo y del carbón; industria química; industria del plástico y del hule; fabricación de productos a base de minerales no metálicos; industrias metálicas básicas; fabricación de productos metálicos; fabricación de maquinaria y equipo; fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos; fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica; fabricación de equipo de transporte; fabricación de muebles, colchones y persianas, y otras industrias manufactureras; manejo de desechos y servicios de remediación$19.06$28.06$42.08
+| Minería de minerales metálicos, no metálicos y extracción de petróleo y gas; curtido y acabado de cuero y piel; fabricación de productos derivados del petróleo y del carbón; industria química; industria del plástico y del hule; fabricación de productos a base de minerales no metálicos; industrias metálicas básicas; fabricación de productos metálicos; fabricación de maquinaria y equipo; fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos; fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica; fabricación de equipo de transporte; fabricación de muebles, colchones y persianas, y otras industrias manufactureras; manejo de desechos y servicios de remediación | $19.06 | $28.06 | $42.08 |
+| --- | --- | --- | --- |
 
 Los contribuyentes cuya actividad que origina la descarga no esté comprendida en la tabla anterior, aplicarán la cuota establecida en este artículo para las descargas preponderantemente no biodegradables.
 
@@ -12428,27 +12661,42 @@ Si los cloruros son mayores o iguales a 1,000 miligramos por litro, se obtendrá
 
 II.	A la concentración del contaminante, característica correspondiente a la actividad que generó la descarga del contribuyente prevista en la tabla siguiente, se le disminuirá la concentración del contaminante obtenida del análisis a que se refiere la fracción anterior.
 
-Tipo de actividadSST
+| Tipo de actividad | SST |
+| --- | --- |
 
-mg/lDQO
+| mg/l | DQO |
+| --- | --- |
 
-mg/lCOT
+| mg/l | COT |
+| --- | --- |
 
-mg/lDescargas de servicios público urbano
+| Servicio de alcantarillado prestado por entidades federativas, municipios, organismos paraestatales, paramunicipales y las empresas concesionadas para prestar dicho servicio en sustitución de las anteriores | 220 | 500 | 167 |
+| --- | --- | --- | --- |
+| Descargas de comercio y servicios asimilables a las de servicios público urbano |   |   |   |
 
-Servicio de alcantarillado prestado por entidades federativas, municipios, organismos paraestatales, paramunicipales y las empresas concesionadas para prestar dicho servicio en sustitución de las anteriores220500167Descargas de comercio y servicios asimilables a las de servicios público urbano
+| Generación, transmisión y distribución de energía eléctrica, suministro de gas por ductos al consumidor final; construcción; confección de alfombras y similares; confección de costales y productos textiles recubiertos de materiales sucedáneos; confección de prendas de vestir; confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte; impresión e industrias conexas; comercio, productos y servicios; transportes, correos y almacenamientos; transporte por ducto; servicios financieros y de seguros; servicios inmobiliarios y de alquiler de bienes muebles e intangibles; servicios profesionales, científicos y técnicos; servicios educativos; servicios de salud y de asistencia social; servicios de esparcimiento culturales y deportivos y otros servicios recreativos; servicios de alojamiento temporal y de preparación de alimentos y bebidas; servicios de reparación y mantenimiento; servicios personales y; servicios de apoyo a los negocios | 360 | 1,000 | 333 |
+| --- | --- | --- | --- |
+| Descargas preponderantemente biodegradables |   |   |   |
 
-Generación, transmisión y distribución de energía eléctrica, suministro de gas por ductos al consumidor final; construcción; confección de alfombras y similares; confección de costales y productos textiles recubiertos de materiales sucedáneos; confección de prendas de vestir; confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte; impresión e industrias conexas; comercio, productos y servicios; transportes, correos y almacenamientos; transporte por ducto; servicios financieros y de seguros; servicios inmobiliarios y de alquiler de bienes muebles e intangibles; servicios profesionales, científicos y técnicos; servicios educativos; servicios de salud y de asistencia social; servicios de esparcimiento culturales y deportivos y otros servicios recreativos; servicios de alojamiento temporal y de preparación de alimentos y bebidas; servicios de reparación y mantenimiento; servicios personales y; servicios de apoyo a los negocios3601,000333Descargas preponderantemente biodegradables
+| Cría y explotación de animales, aprovechamiento forestal, pesca y caza; industrias alimentarias, de bebidas y tabaco; industria de la madera; industria del papel y; fabricación de productos de cuero, piel y materiales sucedáneos | 1,000 | 3,000 | 1,000 |
+| --- | --- | --- | --- |
+| Descargas preponderantemente no biodegradables |   |   |   |
 
-Cría y explotación de animales, aprovechamiento forestal, pesca y caza; industrias alimentarias, de bebidas y tabaco; industria de la madera; industria del papel y; fabricación de productos de cuero, piel y materiales sucedáneos1,0003,0001,000Descargas preponderantemente no biodegradables
-
-Minería de minerales metálicos, no metálicos y extracción de petróleo y gas; curtido y acabado de cuero y piel; fabricación de productos derivados del petróleo y del carbón; industria química; industria del plástico y del hule; fabricación de productos a base de minerales no metálicos; industrias metálicas básicas; fabricación de productos metálicos; fabricación de maquinaria y equipo; fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos; fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica; fabricación de equipo de transporte; fabricación de muebles, colchones y persianas; otras industrias manufactureras; manejo de desechos y servicios de remediación2,6508,0002,667Tabla reformada DOF 13-11-2023
+| Minería de minerales metálicos, no metálicos y extracción de petróleo y gas; curtido y acabado de cuero y piel; fabricación de productos derivados del petróleo y del carbón; industria química; industria del plástico y del hule; fabricación de productos a base de minerales no metálicos; industrias metálicas básicas; fabricación de productos metálicos; fabricación de maquinaria y equipo; fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos; fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica; fabricación de equipo de transporte; fabricación de muebles, colchones y persianas; otras industrias manufactureras; manejo de desechos y servicios de remediación | 2,650 | 8,000 | 2,667 |
+| --- | --- | --- | --- |
+| Tabla reformada DOF 13-11-2023 |   |   |   |
 
 Los contribuyentes que opten por aplicar lo dispuesto en este artículo, deberán considerar las concentraciones de contaminantes señalados en la tabla anterior, que correspondan al mismo grupo respecto del cual aplicaron la cuota prevista en el artículo 277-B de esta Ley.
 
 III.	Al resultado obtenido de la fracción anterior, se le aplicará el factor de acreditamiento que corresponda al tipo del cuerpo receptor donde se efectuó la descarga y al contaminante respectivo conforme a la siguiente tabla:
 
-ContaminanteTipo de cuerpo receptorABCSST$0.00298$0.00441$0.00662DQO$0.00131$0.00193$0.00293COT$0.00378$0.00556$0.00836Tabla reformada DOF 13-11-2023
+| Contaminante | Tipo de cuerpo receptor |   |   |
+| --- | --- | --- | --- |
+|   | A | B | C |
+| SST | $0.00298 | $0.00441 | $0.00662 |
+| DQO | $0.00131 | $0.00193 | $0.00293 |
+| COT | $0.00378 | $0.00556 | $0.00836 |
+| Tabla reformada DOF 13-11-2023 |   |   |   |
 
 El factor de acreditamiento, se actualizará en los términos del artículo 1o. de esta Ley.
 
@@ -12664,7 +12912,15 @@ a).	Muestra Compuesta: La que resulta de mezclar el número de muestras simples,
 
 Tabla A.- Número e intervalo de muestras simples
 
-Horas por día que opera el proceso generador de la descargaNúmero de muestras simplesIntervalo entre colecta de muestras simples (horas)MínimoMáximoMenor que 4Mínimo 2--De 4 a 8412Mayor que 8 y hasta 12423Mayor que 12 y hasta 18623Mayor que 18 y hasta 24634Inciso con Tabla A reformado DOF 13-11-2023
+| Horas por día que opera el proceso generador de la descarga | Número de muestras simples | Intervalo entre colecta de muestras simples (horas) |   |
+| --- | --- | --- | --- |
+| Mínimo | Máximo |   |   |
+| Menor que 4 | Mínimo 2 | - | - |
+| De 4 a 8 | 4 | 1 | 2 |
+| Mayor que 8 y hasta 12 | 4 | 2 | 3 |
+| Mayor que 12 y hasta 18 | 6 | 2 | 3 |
+| Mayor que 18 y hasta 24 | 6 | 3 | 4 |
+| Inciso con Tabla A reformado DOF 13-11-2023 |   |   |   |
 
 b).	Muestra Simple: La que se colecta por el signatario autorizado en el punto señalado en el permiso de descarga, de manera continua, en día normal de operación, que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar, cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
 
@@ -12708,11 +12964,17 @@ Se entiende por carga de contaminante la cantidad de éste expresada en unidades
 
 Tabla B. Descargas Municipales
 
-Rango de poblaciónFrecuencia de muestreo y análisisFrecuencias de Informe de resultados de muestreo y análisisMayor que 50,000 habitantesMensualTrimestralIgual o menor a 50,000 habitantesTrimestralTrimestral
+| Rango de población | Frecuencia de muestreo y análisis | Frecuencias de Informe de resultados de muestreo y análisis |
+| --- | --- | --- |
+| Mayor que 50,000 habitantes | Mensual | Trimestral |
+| Igual o menor a 50,000 habitantes | Trimestral | Trimestral |
 
 Tabla C. Descargas no Municipales
 
-Demanda Química de Oxígeno Toneladas/díaCarbono Orgánico Total* Toneladas/díaSólidos Suspendidos Totales Toneladas/díaFrecuencia de Muestreo y AnálisisFrecuencias de Informe de resultados de muestreo y análisisMayor de 3.0Mayor a 0,75Mayor de 3.0MensualTrimestralIgual o menor de 3.0Igual o menor de 0.75Igual o menor de 3.0TrimestralTrimestral
+| Demanda Química de Oxígeno Toneladas/día | Carbono Orgánico Total* Toneladas/día | Sólidos Suspendidos Totales Toneladas/día | Frecuencia de Muestreo y Análisis | Frecuencias de Informe de resultados de muestreo y análisis |
+| --- | --- | --- | --- | --- |
+| Mayor de 3.0 | Mayor a 0,75 | Mayor de 3.0 | Mensual | Trimestral |
+| Igual o menor de 3.0 | Igual o menor de 0.75 | Igual o menor de 3.0 | Trimestral | Trimestral |
 
 Los parámetros a ser considerados en el muestreo y análisis, así como en el informe de resultados son los que se indican en el presente capítulo.
 
@@ -12796,7 +13058,13 @@ Los contribuyentes del derecho por el uso o aprovechamiento de bienes del domini
 
 > <small>Párrafo reformado DOF 11-12-2013</small>
 
-Rango de poblaciónProporción de la inversión por parte del contribuyenteIgual o mayor a 500,000 habitantes100%De 100,000 a 499,999 habitantes60%De 15,000 a 99,999 habitantes30%De 10,001 a 14,999 habitantes0%Tabla adicionada DOF 11-12-2013. Reformada DOF 13-11-2023
+| Rango de población | Proporción de la inversión por parte del contribuyente |
+| --- | --- |
+| Igual o mayor a 500,000 habitantes | 100% |
+| De 100,000 a 499,999 habitantes | 60% |
+| De 15,000 a 99,999 habitantes | 30% |
+| De 10,001 a 14,999 habitantes | 0% |
+| Tabla adicionada DOF 11-12-2013. Reformada DOF 13-11-2023 |   |
 
 El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
 
@@ -12856,9 +13124,29 @@ Tabla LÍMITES PERMISIBLES
 
 Parámetros (*)
 
-(miligramos por litro, excepto cuando se especifique)Ríos, arroyos, canales, drenesEmbalses, lagos y lagunasZonas marinas mexicanasSueloRiego de áreas verdesInfiltración y otros riegosCársticoPMPDVIPMPDVIPMPDVIPMPDVIPMPDVIPMPDVITemperatura (°C)353535353535353535353535353535353535Grasas y Aceites151821151821151821151821151821151821Sólidos Suspendidos Totales607284202428202428303642100120140202428Demanda Química de Oxígeno15018021010012014085100120607284150180210607284Carbono Orgánico Total*384553253035212530151821384553151821Nitrógeno Total253035152530253035NANANANANANA152530Fósforo Total15182151015151821NANANANANANA51015Huevos de Helmintos (huevos/litros)NANANANANANANANANA1Escherichia coli (NMP/100 ml)25050060025050060025050060025050060025050060050100200Enterococos fecales* (NMP/100 ml)25040050025040050025040050025040050025040050050100200pH
+| (miligramos por litro, excepto cuando se especifique) | Ríos, arroyos, canales, drenes | Embalses, lagos y lagunas | Zonas marinas mexicanas | Suelo |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Riego de áreas verdes | Infiltración y otros riegos | Cárstico |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | PM | PD | VI | PM | PD | VI | PM | PD | VI | PM | PD | VI | PM | PD | VI | PM | PD | VI |
+| Temperatura (°C) | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 |
+| Grasas y Aceites | 15 | 18 | 21 | 15 | 18 | 21 | 15 | 18 | 21 | 15 | 18 | 21 | 15 | 18 | 21 | 15 | 18 | 21 |
+| Sólidos Suspendidos Totales | 60 | 72 | 84 | 20 | 24 | 28 | 20 | 24 | 28 | 30 | 36 | 42 | 100 | 120 | 140 | 20 | 24 | 28 |
+| Demanda Química de Oxígeno | 150 | 180 | 210 | 100 | 120 | 140 | 85 | 100 | 120 | 60 | 72 | 84 | 150 | 180 | 210 | 60 | 72 | 84 |
+| Carbono Orgánico Total* | 38 | 45 | 53 | 25 | 30 | 35 | 21 | 25 | 30 | 15 | 18 | 21 | 38 | 45 | 53 | 15 | 18 | 21 |
+| Nitrógeno Total | 25 | 30 | 35 | 15 | 25 | 30 | 25 | 30 | 35 | NA | NA | NA | NA | NA | NA | 15 | 25 | 30 |
+| Fósforo Total | 15 | 18 | 21 | 5 | 10 | 15 | 15 | 18 | 21 | NA | NA | NA | NA | NA | NA | 5 | 10 | 15 |
+| Huevos de Helmintos (huevos/litros) | NA | NA | NA | NA | NA | NA | NA | NA | NA | 1 |   |   |   |   |   |   |   |   |
+| Escherichia coli (NMP/100 ml) | 250 | 500 | 600 | 250 | 500 | 600 | 250 | 500 | 600 | 250 | 500 | 600 | 250 | 500 | 600 | 50 | 100 | 200 |
+| Enterococos fecales* (NMP/100 ml) | 250 | 400 | 500 | 250 | 400 | 500 | 250 | 400 | 500 | 250 | 400 | 500 | 250 | 400 | 500 | 50 | 100 | 200 |
+| pH |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
-(UpH)6-9Color verdaderoLongitud de ondaCoeficiente de absorción espectral máximo436 nm7,0 m-1525 nm5,0 m-1620 nm3,0 m-1Toxicidad aguda (UT)2 a los 15 minutos de exposición
+| (UpH) | 6-9 |   |
+| --- | --- | --- |
+| Color verdadero | Longitud de onda | Coeficiente de absorción espectral máximo |
+|   | 436 nm | 7,0 m-1 |
+|   | 525 nm | 5,0 m-1 |
+|   | 620 nm | 3,0 m-1 |
+| Toxicidad aguda (UT) | 2 a los 15 minutos de exposición |   |
 
 NA: No Aplica
 
@@ -12890,11 +13178,26 @@ Tabla LÍMITES PERMISIBLES PARA METALES Y CIANUROS
 
 Parámetros
 
-(miligramos por litro)Ríos, arroyos, canales, drenesEmbalses, lagos y lagunasZonas marinas mexicanasSueloRiego de áreas verdesInfiltración y otros riegosCársticoP.M.P.D.V.I.P.M.P.D.V.I.P.M.P.D.V.I.P.M.P.D.V.I.P.M.P.D.V.I.P.M.P.D.V.I.Arsénico0,20,30,40,10,150,20,20,30,40,20,30,40,10,150,20,10,150,2Cadmio0,20,30,40,10,150,20,20,30,40,050,0750,10,10,150,20,050,0750,1Cianuro12311,5222,50322,5311,50211,52Cobre456456456456456456Cromo11,251,50,50,75111,251,50,50,7510,50,7510,50,751Mercurio0,010,0150,020,0050,0080,010,010,0150,020,0050,0080,010,0050,0080,010,0050,0080,01Níquel234234234234234234Plomo0,20,30,40,20,30,40,50,7510,50,7510,20,30,40,20,30,4Zinc101520101520101520101520101520101520Parámetros medidos de manera totalP.M: Promedio Mensual
+| (miligramos por litro) | Ríos, arroyos, canales, drenes | Embalses, lagos y lagunas | Zonas marinas mexicanas | Suelo |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Riego de áreas verdes | Infiltración y otros riegos | Cárstico |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | P.M. | P.D. | V.I. | P.M. | P.D. | V.I. | P.M. | P.D. | V.I. | P.M. | P.D. | V.I. | P.M. | P.D. | V.I. | P.M. | P.D. | V.I. |
+| Arsénico | 0,2 | 0,3 | 0,4 | 0,1 | 0,15 | 0,2 | 0,2 | 0,3 | 0,4 | 0,2 | 0,3 | 0,4 | 0,1 | 0,15 | 0,2 | 0,1 | 0,15 | 0,2 |
+| Cadmio | 0,2 | 0,3 | 0,4 | 0,1 | 0,15 | 0,2 | 0,2 | 0,3 | 0,4 | 0,05 | 0,075 | 0,1 | 0,1 | 0,15 | 0,2 | 0,05 | 0,075 | 0,1 |
+| Cianuro | 1 | 2 | 3 | 1 | 1,5 | 2 | 2 | 2,50 | 3 | 2 | 2,5 | 3 | 1 | 1,50 | 2 | 1 | 1,5 | 2 |
+| Cobre | 4 | 5 | 6 | 4 | 5 | 6 | 4 | 5 | 6 | 4 | 5 | 6 | 4 | 5 | 6 | 4 | 5 | 6 |
+| Cromo | 1 | 1,25 | 1,5 | 0,5 | 0,75 | 1 | 1 | 1,25 | 1,5 | 0,5 | 0,75 | 1 | 0,5 | 0,75 | 1 | 0,5 | 0,75 | 1 |
+| Mercurio | 0,01 | 0,015 | 0,02 | 0,005 | 0,008 | 0,01 | 0,01 | 0,015 | 0,02 | 0,005 | 0,008 | 0,01 | 0,005 | 0,008 | 0,01 | 0,005 | 0,008 | 0,01 |
+| Níquel | 2 | 3 | 4 | 2 | 3 | 4 | 2 | 3 | 4 | 2 | 3 | 4 | 2 | 3 | 4 | 2 | 3 | 4 |
+| Plomo | 0,2 | 0,3 | 0,4 | 0,2 | 0,3 | 0,4 | 0,5 | 0,75 | 1 | 0,5 | 0,75 | 1 | 0,2 | 0,3 | 0,4 | 0,2 | 0,3 | 0,4 |
+| Zinc | 10 | 15 | 20 | 10 | 15 | 20 | 10 | 15 | 20 | 10 | 15 | 20 | 10 | 15 | 20 | 10 | 15 | 20 |
+| Parámetros medidos de manera total | P.M: Promedio Mensual |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 P.D: Promedio Diario
 
-V.I: Valor InstantáneoTabla reformada DOF 13-11-2023, 19-12-2024, 07-11-2025
+| V.I: Valor Instantáneo |
+| --- |
+| Tabla reformada DOF 13-11-2023, 19-12-2024, 07-11-2025 |
 
 Para tales efectos, el contribuyente deberá medir el volumen en cada punto de descarga en términos del artículo 277-A de esta Ley y acompañar a la declaración del trimestre respectivo el reporte que emita el laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, que acredite que la calidad de la descarga se efectúa en términos del párrafo anterior.
 
@@ -13362,7 +13665,13 @@ Por el uso, goce o aprovechamiento del espacio aéreo mexicano, mediante activid
 
 I.	Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
 
-Cuotas por kilómetro voladoAeronaves según envergaduraCuotaGrandes$12.85Medianas$8.60Pequeñas Tipo B$2.97Pequeñas Tipo A$0.38
+| Cuotas por kilómetro volado |   |
+| --- | --- |
+| Aeronaves según envergadura | Cuota |
+| Grandes | $12.85 |
+| Medianas | $8.60 |
+| Pequeñas Tipo B | $2.97 |
+| Pequeñas Tipo A | $0.38 |
 
 El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
 
@@ -13384,11 +13693,20 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II. 	Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-Tipo de aeronavesCuotaCon envergadura de hasta 10.0 metros y helicópteros$171.40Con envergadura de más de 10.0 metros y hasta 11.1 metros$244.90Con envergadura de más de 11.1 metros y hasta 16.7 metros$367.33Fracción con Tabla reformada DOF 13-05-2005
+| Tipo de aeronaves | Cuota |
+| --- | --- |
+| Con envergadura de hasta 10.0 metros y helicópteros | $171.40 |
+| Con envergadura de más de 10.0 metros y hasta 11.1 metros | $244.90 |
+| Con envergadura de más de 11.1 metros y hasta 16.7 metros | $367.33 |
+| Fracción con Tabla reformada DOF 13-05-2005 |   |
 
 III.	Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
-Aeronaves según envergaduraCuotaGrandes$29,600.51Medianas$19,750.83Pequeñas Tipo B$6,808.13
+| Aeronaves según envergadura | Cuota |
+| --- | --- |
+| Grandes | $29,600.51 |
+| Medianas | $19,750.83 |
+| Pequeñas Tipo B | $6,808.13 |
 
 Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
 
@@ -13396,7 +13714,12 @@ Lo dispuesto en este artículo, es independiente del pago por los servicios de e
 
 ###### Artículo 290.
 
-Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla: Clasificación por envergadura de aeronavesPequeñasMedianasGrandesTipo ATipo BHasta 16.7 metros y los helicópterosDe más de 16.7 metros hasta 25.0 metrosDe más de 25.0 metros hasta 38.0 metrosDe más de 38.0 metrosPárrafo con Tabla reformado DOF 13-05-2005
+Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla: | Clasificación por envergadura de aeronaves |   |   |   |
+| --- | --- | --- | --- |
+| Pequeñas | Medianas | Grandes |   |
+| Tipo A | Tipo B |   |   |
+| Hasta 16.7 metros y los helicópteros | De más de 16.7 metros hasta 25.0 metros | De más de 25.0 metros hasta 38.0 metros | De más de 38.0 metros |
+| Párrafo con Tabla reformado DOF 13-05-2005 |   |   |   |
 
 La Secretaría de Comunicaciones y Transportes a través de la Dirección General de Aeronáutica Civil, publicará en el Diario Oficial de la Federación la relación en la que se dé a conocer la envergadura de las aeronaves, de acuerdo con el modelo de que se trate.
 
@@ -13516,7 +13839,9 @@ Fe de erratas a la Ley Federal de Derechos para el Ejercicio Fiscal de 1982 publ
 
 Publicada en el Diario Oficial de la Federación el 21 de mayo de 1982
 
-Nota: Fe de erratas al artículo 6o., artículo 11, fracción III, artículo 21, fracción III, encabezado de la Sección Tercera, artículo 31, fracción II, artículo 35, artículo 41,fracción I, artículo 42, fracción II, inciso c), artículo 45, fracción III y último párrafo, artículo 50, segundo párrafo, artículo 53, fracción II, inciso d), fracción III, inciso n), fracción VI, inciso b), artículo 55, primer párrafo, artículo 57, fracción I, incisos b), c), e), h), fracción III, fracción VII, segundo párrafo, artículo 63, penúltimo párrafo, artículo 67, fracción V, artículo 71, fracción II, artículo 92, tercer párrafo, artículo 93, fracción III, artículo 95, fracción I, inciso a), fracción II, segundo párrafo, fracción III, inciso a), inciso b), segundo párrafo, artículo 99, fracción II, inciso a), artículo 105, artículo 106, fracción I, artículo 110, fracción III, inciso a), artículo 112, inciso b), artículo 120, fracción VIII, artículo 122, fracción III, inciso e), artículo 124, primer párrafo, artículo 125, fracción I, incisos a) a m), artículo 127, artículo 128, artículo 134, fracciones I y II, artículo 136, fracción I, articulo 141, fracción I, inciso a), en la tabla correspondiente al factor de emisión, y fracción II, inciso c), articulo 142, fracción II, inciso b), fracción III, inciso b), articulo 144, fracción IX, inciso a), fracción XII, inciso c), articulo 145, fracción III, inciso e), fracción IX, articulo 147, penúltimo párrafo, articulo 148, apartado A, fracción I, inciso d), fracción II, inciso a), apartado E, fracción IV, inciso e), fracción VII, artículo 151, apartado A, fracción I, fracción II, articulo 155, fracción V, articulo 157, apartado B, fracción I, artículo 159, fracción I, fracciones II incisos a), b) y c) y III, articulo 162, apartado D, fracción I, articulo 165, fracción VII, articulo 167, articulo 169, fracción I, del apartado de Máquinas, fracción VI del apartado de Máquinas, articulo 178, apartado B, fracción I, inciso a), subinciso 3, artículo 180, fracción I, inciso j), articulo 184, fracción XXIX, articulo 186, fracción IX, articulo 187, fracción V, cuarto renglón, articulo 195, fracción IV, articulo 204, fracción III, fracción XVIII, fracción XL, fracción XLIII, artículo 214, fracción III, articulo 219, fracción II, articulo 227, fracción II, articulo 230, y articulo 233, segundo párrafo.Ley que establece, reforma, adiciona y deroga  diversas disposiciones fiscales.
+| Nota: Fe de erratas al artículo 6o., artículo 11, fracción III, artículo 21, fracción III, encabezado de la Sección Tercera, artículo 31, fracción II, artículo 35, artículo 41,fracción I, artículo 42, fracción II, inciso c), artículo 45, fracción III y último párrafo, artículo 50, segundo párrafo, artículo 53, fracción II, inciso d), fracción III, inciso n), fracción VI, inciso b), artículo 55, primer párrafo, artículo 57, fracción I, incisos b), c), e), h), fracción III, fracción VII, segundo párrafo, artículo 63, penúltimo párrafo, artículo 67, fracción V, artículo 71, fracción II, artículo 92, tercer párrafo, artículo 93, fracción III, artículo 95, fracción I, inciso a), fracción II, segundo párrafo, fracción III, inciso a), inciso b), segundo párrafo, artículo 99, fracción II, inciso a), artículo 105, artículo 106, fracción I, artículo 110, fracción III, inciso a), artículo 112, inciso b), artículo 120, fracción VIII, artículo 122, fracción III, inciso e), artículo 124, primer párrafo, artículo 125, fracción I, incisos a) a m), artículo 127, artículo 128, artículo 134, fracciones I y II, artículo 136, fracción I, articulo 141, fracción I, inciso a), en la tabla correspondiente al factor de emisión, y fracción II, inciso c), articulo 142, fracción II, inciso b), fracción III, inciso b), articulo 144, fracción IX, inciso a), fracción XII, inciso c), articulo 145, fracción III, inciso e), fracción IX, articulo 147, penúltimo párrafo, articulo 148, apartado A, fracción I, inciso d), fracción II, inciso a), apartado E, fracción IV, inciso e), fracción VII, artículo 151, apartado A, fracción I, fracción II, articulo 155, fracción V, articulo 157, apartado B, fracción I, artículo 159, fracción I, fracciones II incisos a), b) y c) y III, articulo 162, apartado D, fracción I, articulo 165, fracción VII, articulo 167, articulo 169, fracción I, del apartado de Máquinas, fracción VI del apartado de Máquinas, articulo 178, apartado B, fracción I, inciso a), subinciso 3, artículo 180, fracción I, inciso j), articulo 184, fracción XXIX, articulo 186, fracción IX, articulo 187, fracción V, cuarto renglón, articulo 195, fracción IV, articulo 204, fracción III, fracción XVIII, fracción XL, fracción XLIII, artículo 214, fracción III, articulo 219, fracción II, articulo 227, fracción II, articulo 230, y articulo 233, segundo párrafo. |
+| --- |
+| Ley que establece, reforma, adiciona y deroga  diversas disposiciones fiscales. |
 
 Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1982
 
@@ -13580,7 +13905,16 @@ ARTICULOS SEGUNDO A OCTAVO.- ..........
 
 ARTICULO NOVENO.- Para los efectos del artículo 227 fracción II inciso a) de la Ley Federal de Derechos, a los contribuyentes que usen o aprovechen aguas extraídas del subsuelo se les concede un plazo de dos trimestres a partir de la entrada en vigor de dicha Ley, para que instalen medidores de agua, en tanto instalan dichos medidores, pagarán el derecho por el uso o aprovechamiento del agua conforme a la siguiente tarifa:
 
-Diámetro del tubo de entrada en milímetrosBimestralHasta 13$ 800.00Hasta 1916,000.00Hasta 2624,000.00Hasta 3236,000.00Hasta 3944,000.00Hasta 5160,000.00Hasta 64108,000.00Hasta 76164,000.00
+| Diámetro del tubo de entrada en milímetros | Bimestral |
+| --- | --- |
+| Hasta 13 | $ 800.00 |
+| Hasta 19 | 16,000.00 |
+| Hasta 26 | 24,000.00 |
+| Hasta 32 | 36,000.00 |
+| Hasta 39 | 44,000.00 |
+| Hasta 51 | 60,000.00 |
+| Hasta 64 | 108,000.00 |
+| Hasta 76 | 164,000.00 |
 
 Si el diámetro del tubo de entrada es mayor de 76 milímetros la cuota será igual al producto de multiplicar 28.39 por el diámetro del tubo en milímetro elevado al cuadrado.
 
@@ -14892,11 +15226,13 @@ Publicada en el Diario Oficial de la Federación el 4 de enero de 1995
 
 En la página 38, Segunda Sección, renglones 18, 19 y 20, dice:
 
-la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en delan-te
+| la inversión deducido | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | en delan-te |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 Debe decir:
 
-la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en adelan-te
+| la inversión deducido | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | % | en adelan-te |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 En la página 68, Segunda Sección, renglón 21, dice:
 
@@ -15432,61 +15768,87 @@ Artículo Vigésimo.- Para los efectos del Artículo Décimo Octavo de esta Ley 
 
 I.- Para los efectos de lo dispuesto en el artículo 282-A, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente Tabla:
 
-FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A
+| FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A |
+| --- |
 
-Tipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisibles
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| --- | --- | --- |
 
-Descargas cuya concentración de contaminantes básicos, rebasen en más de 5 veces el límite máximo permisible señalado en la Tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos
+| Descargas cuya concentración de contaminantes básicos, rebasen en más de 5 veces el límite máximo permisible señalado en la Tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos |   |
+| --- | --- |
 
-30 de junio de 1997
+| 30 de junio de 1997 |   |
+| --- | --- |
 
-1o. de enero del 2000
+| 1o. de enero del 2000 |
+| --- |
 
-Descargas cuya concentración de contaminantes de metales pesados o cianuros rebasen los límites máximos permisibles señalados en la tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos
+| Descargas cuya concentración de contaminantes de metales pesados o cianuros rebasen los límites máximos permisibles señalados en la tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos |   |
+| --- | --- |
 
-30 de junio de 1997
+| 30 de junio de 1997 |   |
+| --- | --- |
 
-1o. de enero del 2000
+| 1o. de enero del 2000 |
+| --- |
 
 Descargas municipales (excepto las previstas en los dos supuestos anteriores):
 
-Poblaciones de más de 50,000 habitantes
+| Poblaciones de más de 50,000 habitantes |   |
+| --- | --- |
 
-30 de junio de 1997
+| 30 de junio de 1997 |   |
+| --- | --- |
 
-1o. de enero del 2000
+| 1o. de enero del 2000 |
+| --- |
 
-Poblaciones de entre 20,001 y 50,000
+| Poblaciones de entre 20,001 y 50,000 |   |
+| --- | --- |
 
-31 de diciembre de 1998
+| 31 de diciembre de 1998 |   |
+| --- | --- |
 
-1o. de enero del 2005
+| 1o. de enero del 2005 |
+| --- |
 
-Poblaciones de entre 2,501 y 20,000
+| Poblaciones de entre 2,501 y 20,000 |   |
+| --- | --- |
 
-31 de diciembre de 1999
+| 31 de diciembre de 1999 |   |
+| --- | --- |
 
-1o. de enero del 2010
+| 1o. de enero del 2010 |
+| --- |
 
 Descargas no incluidas en las dos categorías anteriores:
 
-Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día |   |
+| --- | --- |
 
-30 de junio de 1997
+| 30 de junio de 1997 |   |
+| --- | --- |
 
-1o. de enero del 2000
+| 1o. de enero del 2000 |
+| --- |
 
-Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día |   |
+| --- | --- |
 
-31 de diciembre de 1998
+| 31 de diciembre de 1998 |   |
+| --- | --- |
 
-1o. de enero del 2005
+| 1o. de enero del 2005 |
+| --- |
 
-Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día |   |
+| --- | --- |
 
-31 de diciembre de 1999
+| 31 de diciembre de 1999 |   |
+| --- | --- |
 
-1o. de enero del 2010
+| 1o. de enero del 2010 |
+| --- |
 
 II.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
 
@@ -15586,7 +15948,20 @@ II.-	Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en esta fracción, estarán a lo dispuesto en el artículo 282-A a partir de la fecha de su presentación.
 
-FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-ATipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesDescargas cuya concentración de contaminantes básicos, rebasen en más de 5 veces el límite máximo permisible señalado en la Tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos.30 de junio de 19971o. de enero del 2000Descargas cuya concentración de contaminantes de metales pesados o cianuros rebasen los límites máximos permisibles señalados en la tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos.30 de junio de 19971o. de enero del 2000Descargas municipales (excepto las previstas en los dos supuestos anteriores):Poblaciones de más de 50,000 habitantes.30 de junio de 19971o. de enero del 2000Poblaciones de entre 20,001 y 50,000.31 de diciembre de 19981o. de enero del 2005Poblaciones de entre 2,501 y 20,000.31 de diciembre de 19991o. de enero del 2010FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-ATipo de descargaFecha límite para presentar programa de acciones.Fecha límite para no rebasar los límites máximos permisiblesCon Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día.30 de junio de 19971o. de enero del 2000Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día.31 de diciembre de 19981o. de enero del 2005Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día.31 de diciembre de 19991o. de enero del 2010
+| FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Descargas cuya concentración de contaminantes básicos, rebasen en más de 5 veces el límite máximo permisible señalado en la Tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Descargas cuya concentración de contaminantes de metales pesados o cianuros rebasen los límites máximos permisibles señalados en la tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Descargas municipales (excepto las previstas en los dos supuestos anteriores): |   |   |
+| Poblaciones de más de 50,000 habitantes. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Poblaciones de entre 20,001 y 50,000. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Poblaciones de entre 2,501 y 20,000. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
+| FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones. | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
 III.-	Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción II del presente Artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
 
@@ -15704,13 +16079,27 @@ I.	Los artículos 8, fracciones I, III y VIII y 15 de la Ley Federal de Derechos
 
 II.	Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
 
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos
+| Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos |
+| --- |
 
-Tipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesDescargas de aguas residuales
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| --- | --- | --- |
+| Descargas de aguas residuales |   |   |
 
-municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos.30 de junio de 1997Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes.Descargas municipalesTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesPoblaciones de más de 50,000 habitantes.30 de junio de 19971o. de enero del 2000Poblaciones de entre 20,001 y 50,000 habitantes.31 de diciembre de 19981o. de enero del 2005Poblaciones de entre 2,501 y 20,000 habitantes.31 de diciembre de 19991o. de enero del 2010
+| municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. |
+| --- | --- | --- |
+| Descargas municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Poblaciones de más de 50,000 habitantes. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Poblaciones de entre 20,001 y 50,000 habitantes. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Poblaciones de entre 2,501 y 20,000 habitantes. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
-Descargas no municipalesTipo de descargaFecha límite para presentar programa de acciones Fecha límite para no rebasar los límites máximos permisiblesCon Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día.30 de junio de 19971o. de enero del 2000Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día.31 de diciembre de 19981o. de enero del 2005Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día.31 de diciembre de 19991o. de enero del 2010
+| Descargas no municipales |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en esta fracción, estarán a lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
 
@@ -15740,19 +16129,42 @@ Los contribuyentes que decidan pagar el derecho en una sola exhibición, deberá
 
 Aquellos contribuyentes que opten por el pago en parcialidades, tendrán la posibilidad de pagar hasta en doce mensualidades los adeudos señalados anteriormente. Para calcular el monto de las parcialidades a pagar, se tomará el saldo del adeudo que se tenga y se dividirá entre el número de parcialidades que el contribuyente elija. El resultado se multiplicará por el factor fijo que corresponda al plazo por el que haya optado el contribuyente. El monto obtenido será el pago mensual que deberá efectuar durante el término convenido, de acuerdo con la siguiente tabla:
 
-Número de ParcialidadesFactor Fijo21.015331.019041.023551.029161.036171.044681.055391.0685101.0848111.1050121.1300
+| Número de Parcialidades | Factor Fijo |
+| --- | --- |
+| 2 | 1.0153 |
+| 3 | 1.0190 |
+| 4 | 1.0235 |
+| 5 | 1.0291 |
+| 6 | 1.0361 |
+| 7 | 1.0446 |
+| 8 | 1.0553 |
+| 9 | 1.0685 |
+| 10 | 1.0848 |
+| 11 | 1.1050 |
+| 12 | 1.1300 |
 
 Los contribuyentes que opten por alguno de los dos supuestos previstos en el segundo párrafo de esta fracción deberán pagar el derecho causado para 1998.
 
 Para efectos de homologar lo dispuesto por el artículo 232 de la Ley Federal de Derechos, vigente durante los ejercicios fiscales de 1994 a 1997, con las distintas categorías de uso señaladas en el artículo 232-C de la presente Ley, para las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, se deberá aplicar la siguiente tabla:
 
-Usos conforme al artículo 232 de la Ley Federal de Derechos (vigentes durante los ejercicios fiscales de 1994 a 1997)
+| Usos conforme al artículo 232 de la Ley Federal de Derechos (vigentes durante los ejercicios fiscales de 1994 a 1997) |   |
+| --- | --- |
 
-Usos conforme al artículo 232-C de la Ley Federal de Derechos7.5% Anual del valor del inmueble concesionado o permisionado incluyendo terreno, obras e instalaciones, en su caso.
+| Usos conforme al artículo 232-C de la Ley Federal de Derechos |   |
+| --- | --- |
+| 7.5% Anual del valor del inmueble concesionado o permisionado incluyendo terreno, obras e instalaciones, en su caso. |   |
 
-Uso general.10% Anual del valor del metro cuadrado del inmueble colindante por metro cuadrado de superficie concesionada o permisionada.
+| Uso general. |   |
+| --- | --- |
+| 10% Anual del valor del metro cuadrado del inmueble colindante por metro cuadrado de superficie concesionada o permisionada. |   |
 
-Uso general.Protección y ornato.Protección y ornato.Actividades agropecuarias.Agricultura, ganadería, pesca y acuacultura.Marinas turísticas.Uso general.Actividades pesqueras.Agricultura, ganadería, pesca y acuacultura.Actividades de acuacultura.Agricultura, ganadería, pesca y acuacultura.
+| Uso general. |   |
+| --- | --- |
+| Protección y ornato. | Protección y ornato. |
+| Actividades agropecuarias. | Agricultura, ganadería, pesca y acuacultura. |
+| Marinas turísticas. | Uso general. |
+| Actividades pesqueras. | Agricultura, ganadería, pesca y acuacultura. |
+| Actividades de acuacultura. | Agricultura, ganadería, pesca y acuacultura. |
 
 Los contribuyentes que hayan cubierto en tiempo y monto la totalidad de los derechos causados recibirán una bonificación de 50% calculada sobre la diferencia que resulte de aplicar el derecho pagado actualizado y el monto calculado conforme a los artículos 232-C y 232-D de esta Ley. Dicha bonificación será únicamente acreditada para el ejercicio fiscal de 1999.
 
@@ -15866,9 +16278,22 @@ Artículo Tercero.- Lo dispuesto en el segundo párrafo del artículo 16 de la L
 
 Artículo Cuarto.- Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
 
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de La Ley Federal de DerechosTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesDescargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos.30 de junio de 1997Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. Descargas municipalesTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesPoblaciones de más de 50,000 habitantes.30 de junio de 19971o. de enero del 2000Poblaciones de entre 20,001 y 50,000 habitantes.31 de diciembre de 19981o. de enero del 2005Poblaciones de entre 2,501 y 20,000 habitantes.31 de diciembre de 19991o. de enero del 2010
+| Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de La Ley Federal de Derechos |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Descargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. |
+| Descargas municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Poblaciones de más de 50,000 habitantes. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Poblaciones de entre 20,001 y 50,000 habitantes. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Poblaciones de entre 2,501 y 20,000 habitantes. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
-Descargas no municipalesTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesCon Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día.30 de junio de 19971o. de enero del 2000Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día.31 de diciembre de 19981o. de enero del 2005Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día.31 de diciembre de 19991o. de enero del 2010
+| Descargas no municipales |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
 
@@ -16346,7 +16771,20 @@ Los municipios que no se encuentren señalados en el presente artículo, deberá
 
 XII.	Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalado en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
 
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de DerechosTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesDescargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos.30 de junio de 1997Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. Descargas municipalesTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesPoblaciones de más de 50,000 habitantes.30 de junio de 19971o. de enero del 2000Poblaciones de entre 20,001 y 50,000 habitantes.31 de diciembre de 19981o. de enero del 2005Poblaciones de entre 2,501 y 20,000 habitantes.31 de diciembre de 19991o. de enero del 2010Descargas no municipalesTipo de descargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesCon Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día.30 de junio de 19971o. de enero del 2000Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día.31 de diciembre de 19981o. de enero del 2005Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día.31 de diciembre de 19991o. de enero del 2010
+| Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Descargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. |
+| Descargas municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Poblaciones de más de 50,000 habitantes. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Poblaciones de entre 20,001 y 50,000 habitantes. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Poblaciones de entre 2,501 y 20,000 habitantes. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
+| Descargas no municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día. | 30 de junio de 1997 | 1o. de enero del 2000 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. | 31 de diciembre de 1998 | 1o. de enero del 2005 |
+| Con Demanda Bioquímica de Oxígeno5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. | 31 de diciembre de 1999 | 1o. de enero del 2010 |
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el Artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
 
@@ -16450,7 +16888,18 @@ IX. Para los efectos de lo dispuesto en el artículo 162, Apartado A, fracción 
 
 X. Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles, señalado en el Capítulo XIV del Título II de la Ley Federal de Derechos, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
 
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de DerechosTipo de descarga Fecha límite para presentar programa de acciones Fecha límite para no rebasar los límites máximos permisibles Descargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos. 30 de junio de 1997 Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. Descargas municipalesTipo de descarga Fecha límite para presentar programa de acciones Fecha límite para no rebasar los límites máximos permisibles Poblaciones de entre 20,001 y 50,000 habitantes. 31 de diciembre de 1998 1o. de enero de 2005 Poblaciones de entre 2,501 y 20,000 habitantes. 31 de diciembre de 1999 1o. de enero de 2010 Descargas no municipalesTipo de descarga Fecha límite para presentar programa de acciones Fecha límite para no rebasar los límites máximos permisibles Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. 31 de diciembre de 1998 1o. de enero de 2005 Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. 31 de diciembre de 1999 1o. de enero de 2010
+| Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos |   |   |
+| --- | --- | --- |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Descargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del Capítulo XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. |
+| Descargas municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Poblaciones de entre 20,001 y 50,000 habitantes. | 31 de diciembre de 1998 | 1o. de enero de 2005 |
+| Poblaciones de entre 2,501 y 20,000 habitantes. | 31 de diciembre de 1999 | 1o. de enero de 2010 |
+| Descargas no municipales |   |   |
+| Tipo de descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menor a 3 toneladas sobre día. | 31 de diciembre de 1998 | 1o. de enero de 2005 |
+| Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día. | 31 de diciembre de 1999 | 1o. de enero de 2010 |
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el Artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
 
@@ -16548,7 +16997,18 @@ IX. Para los efectos de lo dispuesto en el artículo 162, Apartado A, fracción 
 
 X. Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles, señalado en el CAPÍTULO XIV del Título II de la Ley Federal de Derechos, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
 
-Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de DerechosTipo de DescargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesDescargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del CAPÍTULO XIV del Título II, de la Ley Federal de Derechos.30 de junio de 1997Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes.Descargas municipalesTipo de DescargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesPoblación de entre 20,001 y 50,000 habitantes.31 de diciembre de 19981o. de enero de 2005Población de entre 2,501 y 20,000 habitantes31 de diciembre de 19991o. de enero de 2010Descargas no municipalesTipo de DescargaFecha límite para presentar programa de accionesFecha límite para no rebasar los límites máximos permisiblesCon Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menos a 3 toneladas sobre día31 de diciembre de 19981o. de enero de 2005Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día31 de diciembre de 19991o. de enero de 2010
+| Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos |   |   |
+| --- | --- | --- |
+| Tipo de Descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Descargas de aguas residuales municipales y no municipales cuya concentración de contaminantes en cualquiera de los parámetros básicos, metales pesados o cianuros, que rebasen los límites máximos permisibles señalados en la Tabla I del artículo 278-B de la Ley Federal de Derechos, multiplicados por cinco, para cuerpos receptores tipo B (ríos, uso público urbano) del CAPÍTULO XIV del Título II, de la Ley Federal de Derechos. | 30 de junio de 1997 | Se sujetarán a las fechas señaladas para descargas municipales y no municipales, según corresponda, previstas en los dos supuestos siguientes. |
+| Descargas municipales |   |   |
+| Tipo de Descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Población de entre 20,001 y 50,000 habitantes. | 31 de diciembre de 1998 | 1o. de enero de 2005 |
+| Población de entre 2,501 y 20,000 habitantes | 31 de diciembre de 1999 | 1o. de enero de 2010 |
+| Descargas no municipales |   |   |
+| Tipo de Descarga | Fecha límite para presentar programa de acciones | Fecha límite para no rebasar los límites máximos permisibles |
+| Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales mayor a 1.2 toneladas sobre día pero menos a 3 toneladas sobre día | 31 de diciembre de 1998 | 1o. de enero de 2005 |
+| Con Demanda Bioquímica de Oxígeno 5 y/o Sólidos Suspendidos Totales igual o menor a 1.2 toneladas sobre día | 31 de diciembre de 1999 | 1o. de enero de 2010 |
 
 Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en este precepto, estarán a lo dispuesto en el Artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
 
@@ -17524,7 +17984,8 @@ Anexo 19 de la Resolución Miscelánea Fiscal para 2010
 
 Contenido
 
-Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2010
+| Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2010 |
+| --- |
 
 México, D.F., a 30 de abril de 2010.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
 
@@ -17878,7 +18339,8 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2012
 
-Nota: Aclaración a cantidades de los artículos 19-C, fracción I inciso c); y 244-E, Tabla B.
+| Nota: Aclaración a cantidades de los artículos 19-C, fracción I inciso c); y 244-E, Tabla B. |
+| --- |
 
 Atentamente
 
@@ -17976,7 +18438,20 @@ Séptimo. Las cuotas establecidas en el artículo 244-D de la Ley Federal de Der
 
 Octavo. Los contribuyentes a que se refiere el artículo 277-B, fracción I, de la Ley Federal de Derechos, aplicarán durante los ejercicios fiscales que a continuación se indican, la cuota prevista en dicha fracción durante los ejercicios fiscales que a continuación se indican y en su caso los factores de acreditamiento contenidos en la fracción III del artículo 278 del mismo ordenamiento cuando opten por acreditar, en los siguientes porcentajes:
 
-Ejercicio fiscalPorcentaje de aplicación de la cuota201430%201536%201643%201751%201857%201964%202072%202178%202285%202393%202499%A partir de 2025100%
+| Ejercicio fiscal | Porcentaje de aplicación de la cuota |
+| --- | --- |
+| 2014 | 30% |
+| 2015 | 36% |
+| 2016 | 43% |
+| 2017 | 51% |
+| 2018 | 57% |
+| 2019 | 64% |
+| 2020 | 72% |
+| 2021 | 78% |
+| 2022 | 85% |
+| 2023 | 93% |
+| 2024 | 99% |
+| A partir de 2025 | 100% |
 
 Noveno. Se amplía el plazo a que se refiere el párrafo quinto de la fracción IV del transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007, hasta el 31 de diciembre de 2014.
 
@@ -18454,7 +18929,11 @@ Tercero. Los derechos establecidos en el artículo 244-J de la Ley Federal de De
 
 Cuarto. Los contribuyentes a que se refiere el artículo 276 de la Ley Federal de Derechos, que hubieren cambiado de tipo de cuerpo receptor, con motivo de la modificación efectuada en el presente Decreto al artículo 278-A, podrán aplicar durante los ejercicios fiscales que a continuación se indican, las cuotas previstas en el artículo 277-B que les corresponda y en su caso los factores de acreditamiento contenidos en el artículo 278 del mismo ordenamiento cuando opten por acreditar, en los siguientes porcentajes:
 
-Ejercicio fiscalPorcentaje de aplicación de cuota202125%202250%2023100%
+| Ejercicio fiscal | Porcentaje de aplicación de cuota |
+| --- | --- |
+| 2021 | 25% |
+| 2022 | 50% |
+| 2023 | 100% |
 
 Ciudad de México, a 5 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
 
@@ -18716,19 +19195,25 @@ Las personas concesionarias de las bandas de frecuencias del espectro radioeléc
 
 Tercero. Las personas contribuyentes que estén obligadas al pago del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, a que se refiere el Capítulo XIV del Título II de la Ley Federal de Derechos, que cuenten con un Programa vigente para el Cumplimiento de la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, de conformidad con los "Lineamientos que establecen las Disposiciones administrativas de carácter general para la presentación de los programas para el cumplimiento establecidos en el artículo cuarto transitorio de la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación", publicados en el Diario Oficial de la Federación el 5 de diciembre de 2022, que tenga como finalidad mejorar la calidad de las descargas de sus aguas residuales, ya sea mediante la modificación de sus instalaciones y/o procesos productivos para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, no estarán obligados al pago del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, siempre y cuando cumplan además de lo comprometido en el Programa, con los límites y parámetros establecidos en las siguientes Tablas:
 
-LÍMITES MÁXIMOS PERMISIBLES PARA CONTAMINANTES BÁSICOSPARÁMETROS (Miligramos por litro, excepto cuando se especifique)RÍOSEMBALSES NATURALES Y ARTIFICIALESAGUAS COSTERASSUELOUso en riego agrícola (A)Uso público urbano (B)Protección de vida acuática
+| LÍMITES MÁXIMOS PERMISIBLES PARA CONTAMINANTES BÁSICOS |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| PARÁMETROS (Miligramos por litro, excepto cuando se especifique) | RÍOS | EMBALSES NATURALES Y ARTIFICIALES | AGUAS COSTERAS | SUELO |
+| Uso en riego agrícola (A) | Uso público urbano (B) | Protección de vida acuática |   |   |
 
-(C)Uso en riego agrícola (B)Uso público urbano (C)Explotación pesquera, navegación y otros usos (A)Recreación
+| (C) | Uso en riego agrícola (B) | Uso público urbano (C) | Explotación pesquera, navegación y otros usos (A) | Recreación |
+| --- | --- | --- | --- | --- |
 
-(B)Estuarios
+| (B) | Estuarios |
+| --- | --- |
 
-(B)Uso en riego agrícola (A)Humedales naturales (B)PMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDTemperatura °C
+| (B) | Uso en riego agrícola (A) | Humedales naturales (B) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD |
+| Temperatura °C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
-(1)N.A.N.A.4040404040404040404040404040N.A.N.A.4040Grasas y Aceites (2)1525152515251525152515251525152515251525Materia Flotante
-
-(3)AusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteAusenteSólidos sedimentables
-
-(m/l)1212121212121212N.A.N.A.12Sólidos Suspendidos Totales1502007512540607512540601001757512575125N.A.N.A.75125Demanda Bioquímica de Oxígeno 51502007515030607515030601002007515075150N.A.N.A.75150Nitrógeno Total40604060152540601525N.A.N.A.N.A.N.A.1525N.A.N.A.N.A.N.A.Fósforo Total203020305102030510N.A.N.A.N.A.N.A.510N.A.N.A.N.A.N.A.
+| (3) | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente | Ausente |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sólidos sedimentables |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 (1) Instantáneo
 
@@ -18744,7 +19229,20 @@ NA= No es aplicable
 
 (A), (B) y (C): Tipo de Cuerpo Receptor según la Ley Federal de Derechos
 
-LÍMITES MÁXIMOS PERMISIBLES PARA METALES PESADOS Y CIANUROSPARÁMETROS (*) (miligramos por litro, excepto cuando se especifique)RÍOSEMBALSES NATURALES Y ARTIFICIALESAGUAS COSTERASSUELOUso en riego agrícola (A)Uso público urbano (B)Protección de vida acuática (C)Uso en riego agrícola (B)Uso público urbano (C)Explotación pesquera, navegación y otros usos (A)Recreación (B)Estuarios (B)Uso en riego agrícola (A)Humedales Naturales (B)PMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDPMPDArsénico0.20.40.10.20.10.20.20.40.10.20.10.20.20.40.10.20.20.40.10.2Cadmio0.20.40.10.20.10.20.20.40.10.20.10.20.20.40.10.20.050.10.10.2Cianuro2.03.01.02.01.02.02.03.01.02.02.02.02.03.01.02.02.03.01.02.0Cobre4.06.04.06.04.06.04.06.046.046.04.06.04.06.046.04.06.0Cromo11.50.51.00.51.011.50.51.00.51.011.50.51.00.51.00.51.0Mercurio0.010.020.0050.010.0050.010.010.020.0050.010.010.020.010.020.010.020.0050.010.0050.01Níquel24242424242424242424Plomo0.510.20.40.20.40.510.20.40.20.40.510.20.45100.20.4Zinc1020102010201020102010201020102010201020
+| LÍMITES MÁXIMOS PERMISIBLES PARA METALES PESADOS Y CIANUROS |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PARÁMETROS (*) (miligramos por litro, excepto cuando se especifique) | RÍOS | EMBALSES NATURALES Y ARTIFICIALES | AGUAS COSTERAS | SUELO |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Uso en riego agrícola (A) | Uso público urbano (B) | Protección de vida acuática (C) | Uso en riego agrícola (B) | Uso público urbano (C) | Explotación pesquera, navegación y otros usos (A) | Recreación (B) | Estuarios (B) | Uso en riego agrícola (A) | Humedales Naturales (B) |   |   |   |   |   |   |   |   |   |   |   |
+|   | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD | PM | PD |
+| Arsénico | 0.2 | 0.4 | 0.1 | 0.2 | 0.1 | 0.2 | 0.2 | 0.4 | 0.1 | 0.2 | 0.1 | 0.2 | 0.2 | 0.4 | 0.1 | 0.2 | 0.2 | 0.4 | 0.1 | 0.2 |
+| Cadmio | 0.2 | 0.4 | 0.1 | 0.2 | 0.1 | 0.2 | 0.2 | 0.4 | 0.1 | 0.2 | 0.1 | 0.2 | 0.2 | 0.4 | 0.1 | 0.2 | 0.05 | 0.1 | 0.1 | 0.2 |
+| Cianuro | 2.0 | 3.0 | 1.0 | 2.0 | 1.0 | 2.0 | 2.0 | 3.0 | 1.0 | 2.0 | 2.0 | 2.0 | 2.0 | 3.0 | 1.0 | 2.0 | 2.0 | 3.0 | 1.0 | 2.0 |
+| Cobre | 4.0 | 6.0 | 4.0 | 6.0 | 4.0 | 6.0 | 4.0 | 6.0 | 4 | 6.0 | 4 | 6.0 | 4.0 | 6.0 | 4.0 | 6.0 | 4 | 6.0 | 4.0 | 6.0 |
+| Cromo | 1 | 1.5 | 0.5 | 1.0 | 0.5 | 1.0 | 1 | 1.5 | 0.5 | 1.0 | 0.5 | 1.0 | 1 | 1.5 | 0.5 | 1.0 | 0.5 | 1.0 | 0.5 | 1.0 |
+| Mercurio | 0.01 | 0.02 | 0.005 | 0.01 | 0.005 | 0.01 | 0.01 | 0.02 | 0.005 | 0.01 | 0.01 | 0.02 | 0.01 | 0.02 | 0.01 | 0.02 | 0.005 | 0.01 | 0.005 | 0.01 |
+| Níquel | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 2 | 4 |
+| Plomo | 0.5 | 1 | 0.2 | 0.4 | 0.2 | 0.4 | 0.5 | 1 | 0.2 | 0.4 | 0.2 | 0.4 | 0.5 | 1 | 0.2 | 0.4 | 5 | 10 | 0.2 | 0.4 |
+| Zinc | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 | 10 | 20 |
 
 (*) Medidos de manera total.
 
@@ -18892,23 +19390,8 @@ Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
-é6B*CJPJ]aJphÿ'hÈ
-
-dyåû67<çÏ·çoWJ>5)hEhE5CJ\hÄïhòUCJhÄïhòU5CJ\hÄïh
-
-hECJ\'hEhE6B*CJPJ]aJphÿhEhE5CJ\hEhECJ\ýF G á â ¡/¡0¡¡­¡Ð¡Ñ¡
-
-JbCJaJhÄïh
-
-¢6B*CJPJ]aJphÿÕpìpøpqqq)qKqLqMqfqkqwqq¦q¶qëÚÉµ¡ëyÚyeQe=)'hÄïhÀ6B*CJPJ]aJphÿ'hÄïh,Iö6B*CJPJ]aJphÿ'hÄïhå;+6B*CJPJ]aJphÿ'hÄïhÏ-6B*CJPJ]aJphÿ'hÄïhßH|6B*CJPJ]aJphÿ'hÄïhÿ
-
-¢6B*CJPJ]aJphÿ'hÄïhÝ6B*CJPJ]aJphÿ'hÄïhþ_6B*CJPJ]aJphÿ!h-6B*CJPJ]aJphÿ!h¢$6B*CJPJ]aJphÿ'hÄïhL%`6B*CJPJ]aJphÿ¶q·qÑqrr©rsstÝtÞtûtuuæumvnvvõõéÙÙÑÙÂÑÙÙºÙ¬¤$
-
-¢6B*CJPJ]aJphÿ'hÄïhL%`6B*CJPJ]aJphÿ!v-v:v\v]v^vmvnvwvyvvªv«v´v¶vÆvÝvë×Ã¯¯|iQ|i='h-h-6B*CJPJ]aJphÿ/hÄïhÿ
-
-¢6B*CJPJ]aJphÿ'hÄïhB6B*CJPJ]aJphÿ'hÄïh³-~6B*CJPJ]aJphÿvªv«vÆv
-
-www2w3wMwnwowwªw«w¬xÍxÎxyy÷ççßçÓÓÅÅ½ÅÅ½ÅÅ½©©©$
+| dyåû | 67<çÏ·çoWJ>5)hEhE5CJ\hÄïhòUCJhÄïhòU5CJ\hÄïh |
+| --- | --- |
 
 ¢Ývévóvöv
 
@@ -18916,38 +19399,6 @@ www2w3wMwnwowwªw«w¬xÍxÎxyy÷ççßçÓÓÅÅ½ÅÅ½ÅÅ½©©©$
 
 EPS
 
-¿¿xÀ½À¾À*ÁXÁYÁÁÁóÁôÁ0Â1ÂiÂåÂæÂïåÝÓ¿·¿¿¿¥·¿
-
-ùtúuú~ûÕûÖûòû.ü/üKüüü£üßüàüãýäýòþÿõõõíããÛããÛËÁ¹Ë«««£$a$gd
-
 ShXXXX$
 
-{×6B*CJPJ]aJphÿ'hÄïhdhT6B*CJPJ]aJphÿ!Y|µ|¼|¾|Å|}}}}{}}}}¥}®}¯}Ñ}Ô}î}~ ~/~ ¡¬³´ÖÙñÜñÌñÜñÌñÜñÌñÜñ¸§k_TITÜT¸§hÄïhlÊCJaJhÄïhUßCJaJhÄïhUß5CJaJ'hÄïh
-
-¤,-Klm§¨÷íí÷íí÷íí÷Ýí÷ÝÝÕÝíÕííÕÝ$a$gd±aF$
-
-CJaJhÄïh
-
-5CJaJhÄïh
-
-Æ>a$gdÜ"$
-
-CJaJ!h1mê6B*CJPJ]aJphÿ'h'
-
-*ÀeÁÁÁ¥ÁáÁâÁñÁÂ	ÂÂ°Â±ÂêÂëÂóëÛÑÉÛ½½ÛÛµÛ¡$
-
-$$IfTFÖFÿ¨sÈ
-
-÷ççßçËÃË¯§¯¯§¯¯§¯¯§$a$gdá9§$
-
-6B*CJPJ]aJphÿ'h
-
-ACJaJhÄïh
-
-¸CJaJhÄïh
-
 ¸Álsõ
-
-jCjDj|j}j¥j¦j®j¯jÛjÜjssesfst
-
-¤6B*CJPJ]aJphÿ hÄïh

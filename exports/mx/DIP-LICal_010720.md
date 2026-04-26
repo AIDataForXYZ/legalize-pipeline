@@ -1887,5 +1887,3 @@ DÉCIMO QUINTO. Las infracciones cometidas con anterioridad a la entrada en vigo
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Maribel Martínez Ruiz, Secretaria.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-ììDìEìRì î!îAïBïEï¶ï·ï»ï@ðAðFð­ð®ð²ð4ñ5ñ8ñòò òJóKózó{óóÐôÑôßômõnõqõööö÷÷÷³ø´øÂøuúvúúfûgûtüuüÅýÆýÿ

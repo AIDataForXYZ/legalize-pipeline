@@ -2632,7 +2632,8 @@ Los recursos económicos provenientes de las multas y los obtenidos por los proc
 
 > <small>Párrafo adicionado DOF 11-04-2022</small>
 
-Nota: El Decreto DOF 11-04-2022, que adicionó tres párrafos al artículo 156, omitió señalar de forma expresa la posición, recorrido o derogación, en su caso, del ya existente segundo párrafo del artículo.
+| Nota: El Decreto DOF 11-04-2022, que adicionó tres párrafos al artículo 156, omitió señalar de forma expresa la posición, recorrido o derogación, en su caso, del ya existente segundo párrafo del artículo. |
+| --- |
 
 ###### Artículo 156.
 
@@ -2829,5 +2830,3 @@ hdH>CJPJh
 hdH>5CJh
 
 hdH>CJ#h
-
-hdH>5CJ\h

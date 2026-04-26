@@ -28,7 +28,8 @@ En el caso de las Entidades Federativas, el presente Código Nacional, entrará 
 
 La Declaratoria que al efecto se expida, deberá señalar expresamente la fecha en la que entrará en vigor el Código Nacional de Procedimientos Civiles y Familiares, y será publicada en el Diario Oficial de la Federación y en los Periódicos o Gacetas Oficiales del Estado, según corresponda.
 
-Entre la Declaratoria a que se hace referencia en los párrafos anteriores, y la entrada en vigor del presente Código Nacional de Procedimientos Civiles y Familiares, deberán mediar máximo 120 días naturales. En todos los casos, vencido el plazo, sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor será automática en todo el territorio nacional sin que la misma pueda exceder el día 1o. de abril de 2027.
+| Entre la Declaratoria a que se hace referencia en los párrafos anteriores, y la entrada en vigor del presente Código Nacional de Procedimientos Civiles y Familiares, deberán mediar máximo 120 días naturales. En todos los casos, vencido el plazo, sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor será automática en todo el territorio nacional sin que la misma pueda exceder el día 1o. de abril de 2027. |
+| --- |
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -8981,12 +8982,6 @@ Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas s
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-STa@
-
-üüHþIþÿÿÿÔÕâ
-
-çÑç¸¥n^¥MF<3hCâh¦A)CJhCâh¦A)5CJ
 
 ìÖÄ¨v`v`vWQWG@GQWGWGQW
 

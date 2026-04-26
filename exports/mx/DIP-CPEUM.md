@@ -8940,7 +8940,13 @@ Primero.- El presente Decreto entrará en vigor el día de su publicación en el
 
 Tercero.- La duración de la jornada laboral a que se refiere el artículo 123, Apartado A, fracción IV del presente Decreto, se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
 
-AñoJornada Laboral202648202746202844202942203040
+| Año | Jornada Laboral |
+| --- | --- |
+| 2026 | 48 |
+| 2027 | 46 |
+| 2028 | 44 |
+| 2029 | 42 |
+| 2030 | 40 |
 
 Cuarto.- En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
 
@@ -8973,28 +8979,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 ùcúcûcd´dµd½d¾dÆdÑdeee
 
 FFFìFïFðFñFàGäGåGæG
-
-JJJJgJlJ¸J¹JÛJÜJàJ×KúKûKLkLtL}LLLLLLõêÞêõêÞêõêÞêõêÞêõêÞêõêÞêõêÒÇ¿«ÇÇÇ«r«êÞêõ!hk|_6B*CJPJ]aJphÿh-CJaJ'h-h-6B*CJPJ]aJphÿh-hk|_5CJaJ'hk|_hk|_6B*CJPJ]aJphÿhk|_CJaJhk|_hk|_CJaJhk|_hk|_5CJaJhY>Ìh875CJaJhY>Ìh87CJaJhY>ÌhìsCJaJ,ßGàGJ
-
-ww¦w§w¬wéwíw
-
-CJaJhY>Ìhès
-
-CJaJhY>Ìhès
-
-XÁ\bÑÓbcß ÿ ¡¡¡
-
-1¾h@,CJaJh
-
-1¾h@,5CJaJh
-
-CJaJhY>Ìh
-
-5CJaJhY>Ìh
-
-CJaJhY>Ìh
-
-B*CJaJph hY>Ìh
 
 W?XGXYY<ZEZùZ[§[¯[°]´]ä]è]^^K^ÿ_`3`7`k`o``c
 

@@ -744,7 +744,8 @@ Nota: El texto vigente del artículo 26 de esta Ley se integra con:
 
 El párrafo primero y el párrafo segundo, con sus fracciones I a VII, los cuales recuperaron su vigencia con el texto que tenían al 27 de diciembre 2022, por efectos de la sentencia de la SCJN en la Acción de Inconstitucionalidad 29/2023 notificada el 8 de mayo de 2023 y en cuyo engrose, notificado a su vez el 31 de mayo del mismo año y publicado en el DOF 24-11-2023, se estableció que al determinarse la invalidez del Decreto DOF 27-12-2022 éste deja de tener eficacia y, en consecuencia, las normas vinculadas por él, recuperan su vigencia con el texto que tenían al 27 de diciembre 2022.
 
-El párrafo último publicado en el DOF 02-06-2023. Dicho párrafo fue adicionado al artículo 26 como párrafo cuarto por Decreto DOF 27-12-2022 y posteriormente fue suprimido por los mismos efectos de la declaratoria de invalidez de la sentencia de la SCJN arriba mencionada. El Decreto DOF 02-06-2023 establece que se reforma el párrafo último del artículo 26 de la Ley General de Comunicación Social, sin embargo, al haber sido publicado este Decreto con posterioridad a la invalidez y supresión declarada por la SCJN, el párrafo último se aplicó como adición al texto vigente del artículo 26.
+| El párrafo último publicado en el DOF 02-06-2023. Dicho párrafo fue adicionado al artículo 26 como párrafo cuarto por Decreto DOF 27-12-2022 y posteriormente fue suprimido por los mismos efectos de la declaratoria de invalidez de la sentencia de la SCJN arriba mencionada. El Decreto DOF 02-06-2023 establece que se reforma el párrafo último del artículo 26 de la Ley General de Comunicación Social, sin embargo, al haber sido publicado este Decreto con posterioridad a la invalidez y supresión declarada por la SCJN, el párrafo último se aplicó como adición al texto vigente del artículo 26. |
+| --- |
 
 ###### Artículo 27.-
 

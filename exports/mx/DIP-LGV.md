@@ -1734,7 +1734,8 @@ II.	Elaborar los proyectos de dictamen de reparación integral y, en su caso, la
 
 III.	Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
 
-Nota: El Decreto de reforma DOF 06-11-2020, en su Artículo Décimo Octavo estableció que se deroga el artículo 93, fracción III de esta Ley. Sin embargo, en el articulado del mismo decreto no se incluyó de forma expresa la derogación de la fracción III del artículo 93.
+| Nota: El Decreto de reforma DOF 06-11-2020, en su Artículo Décimo Octavo estableció que se deroga el artículo 93, fracción III de esta Ley. Sin embargo, en el articulado del mismo decreto no se incluyó de forma expresa la derogación de la fracción III del artículo 93. |
+| --- |
 
 IV.	Las demás establecidas en la Ley y el Reglamento.
 
@@ -3443,9 +3444,3 @@ Artículo Trigésimo Noveno.- Se reforman los artículos 5, undécimo párrafo; 
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-ÝôþÿÕìö÷øüý÷éÜÒ½Ü³ª³ªylÜÒ½ÜéÜÒl³ª³ªye³ªyléÜ
-
-6CJh³
-
-6CJh²W¥h³

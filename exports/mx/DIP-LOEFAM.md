@@ -1422,29 +1422,45 @@ B. 	Soldado.
 
 ###### Artículo 130.
 
-Para el cumplimiento de las misiones conjuntas con la Armada de México, de acuerdo con lo establecido en el artículo 2/o. de esta Ley, así como para todos los efectos disciplinarios, la equivalencia jerárquica del personal del Ejército y Fuerza Aérea con el de la citada institución es la siguiente: EJERCITO Y FUERZA AEREAARMADAI. Generales:General de DivisiónAlmiranteGeneral de Brigada o
+Para el cumplimiento de las misiones conjuntas con la Armada de México, de acuerdo con lo establecido en el artículo 2/o. de esta Ley, así como para todos los efectos disciplinarios, la equivalencia jerárquica del personal del Ejército y Fuerza Aérea con el de la citada institución es la siguiente: | EJERCITO Y FUERZA AEREA | ARMADA |
+| --- | --- |
+|   | I. Generales: |
+| General de División | Almirante |
+|   | General de Brigada o |
 
-General de Ala
+| General de Ala |   |
+| --- | --- |
 
-VicealmiranteGeneral Brigadier o
+| Vicealmirante |   |
+| --- | --- |
+|   | General Brigadier o |
 
-General de Grupo
+| General de Grupo |   |
+| --- | --- |
 
-ContraalmiranteII. Jefes:Coronel
+| Contraalmirante |   |
+| --- | --- |
+|   | II. Jefes: |
+| Coronel |   |
 
 Teniente Coronel
 
-MayorCapitán de Navío
+| Mayor | Capitán de Navío |
+| --- | --- |
 
 Capitán de Fragata
 
-Capitán de CorbetaIII. Oficiales.Capitán Primero
+| Capitán de Corbeta |   |
+| --- | --- |
+|   | III. Oficiales. |
+| Capitán Primero |   |
 
 Capitán Segundo
 
 Teniente
 
-SubtenienteTeniente de Navío
+| Subteniente | Teniente de Navío |
+| --- | --- |
 
 Teniente de Fragata
 
@@ -1458,17 +1474,26 @@ Guardiamarina
 
 1/er. Condestable
 
-1/er. MaestreIV. Tropa:A. Clases.Sargento Primero 2/o Contramaestre
+| 1/er. Maestre |   |
+| --- | --- |
+|   | IV. Tropa: |
+| A. Clases. |   |
+| Sargento Primero | 2/o Contramaestre |
 
 2/o. Condestable
 
-2/o. MaestreSargento Segundo3/er. Contramaestre
+| 2/o. Maestre |   |   |
+| --- | --- | --- |
+|   | Sargento Segundo | 3/er. Contramaestre |
 
 > <small>Fe de erratas a la fracción DOF 13-02-1987</small>
 
 3/er. Condestable
 
-3/er. MaestreCaboCabo (en sus especialidades)B. SoldadoMarinero
+| 3/er. Maestre |   |   |
+| --- | --- | --- |
+|   | Cabo | Cabo (en sus especialidades) |
+|   | B. Soldado | Marinero |
 
 ###### Artículo 131.
 
@@ -1880,7 +1905,19 @@ La reincorporación al servicio del personal al que se refiere la Fracción I de
 
 BIS.- La licencia por edad límite es la que se concede a los militares con veinte, o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente: Años de Servicio
 
-Generales, Jefes y OficialesTropaTiempo de la Licencia25 años20 años3 meses26 años22 años4 meses28 años24 años5 meses30 años25 años6 meses32 años26 años7 meses34 años27 años8 meses36 años28 años9 meses38 años29 años10 meses40 años30 años11 meses42 o más años31 o más años12 mesesPárrafo reformado DOF 03-04-2012
+| Generales, Jefes y Oficiales | Tropa | Tiempo de la Licencia |
+| --- | --- | --- |
+| 25 años | 20 años | 3 meses |
+| 26 años | 22 años | 4 meses |
+| 28 años | 24 años | 5 meses |
+| 30 años | 25 años | 6 meses |
+| 32 años | 26 años | 7 meses |
+| 34 años | 27 años | 8 meses |
+| 36 años | 28 años | 9 meses |
+| 38 años | 29 años | 10 meses |
+| 40 años | 30 años | 11 meses |
+| 42 o más años | 31 o más años | 12 meses |
+| Párrafo reformado DOF 03-04-2012 |   |   |
 
 Los militares que se ubiquen en cualquiera de los supuestos de este artículo, podrán solicitar a la Secretaría, con treinta días de anticipación a la fecha que les corresponda gozar de esta licencia; en caso de que la petición se realice en forma extemporánea, sólo se concederá este beneficio, en el caso de que sea procedente, por el tiempo que reste para cumplir la edad límite para su permanencia en el activo.
 
@@ -2566,7 +2603,9 @@ FE de erratas de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos public
 
 Publicada en el Diario Oficial de la Federación el 13 de febrero de 1987
 
-Nota: Fe de erratas al artículo 8o.; del Título Tercero, el nombre del CAPITULO II; nombre del CAPITULO III; nombre de la Sección Segunda; nombre del CAPITULO V; del TITULO CUARTO el nombre; artículo 53, segundo párrafo; nombre del CAPITULO II; nombre del CAPITULO III; artículo 59; artículo 61; nombre del CAPITULO IV; artículo 77, fracción IV; artículo 78; artículo 83; artículo 84, fracción III; artículo 86, fracción I; artículo 90, fracciones II y III; artículo 93; nombre del CAPITULO V; artículo 109; artículo 111; nombre del CAPITULO VI; artículo 118; nombre del CAPITULO VII; nombre del CAPITULO VIII; del TITULO QUINTO el nombre; nombre del CAPITULO I; artículo 130, fracciones III y IV; nombre del CAPITULO II, nombre del CAPITULO III; artículo 152, fracción I; artículo 156; artículo 174, fracción III, segundo párrafo; artículo 180, fracción II; nombre del CAPITULO IV; artículo 191, fracción VII; artículo 193, fracción XIV, inciso F; del TITULO SEXTO el nombre; nombre del CAPITULO I; nombre del CAPITULO II; nombre del CAPITULO III; nombre del TITULO SEPTIMO; y artículo Primero Transitorio, segundo párrafo.DECRETO por el que se reforman diversos ordenamientos legales.
+| Nota: Fe de erratas al artículo 8o.; del Título Tercero, el nombre del CAPITULO II; nombre del CAPITULO III; nombre de la Sección Segunda; nombre del CAPITULO V; del TITULO CUARTO el nombre; artículo 53, segundo párrafo; nombre del CAPITULO II; nombre del CAPITULO III; artículo 59; artículo 61; nombre del CAPITULO IV; artículo 77, fracción IV; artículo 78; artículo 83; artículo 84, fracción III; artículo 86, fracción I; artículo 90, fracciones II y III; artículo 93; nombre del CAPITULO V; artículo 109; artículo 111; nombre del CAPITULO VI; artículo 118; nombre del CAPITULO VII; nombre del CAPITULO VIII; del TITULO QUINTO el nombre; nombre del CAPITULO I; artículo 130, fracciones III y IV; nombre del CAPITULO II, nombre del CAPITULO III; artículo 152, fracción I; artículo 156; artículo 174, fracción III, segundo párrafo; artículo 180, fracción II; nombre del CAPITULO IV; artículo 191, fracción VII; artículo 193, fracción XIV, inciso F; del TITULO SEXTO el nombre; nombre del CAPITULO I; nombre del CAPITULO II; nombre del CAPITULO III; nombre del TITULO SEPTIMO; y artículo Primero Transitorio, segundo párrafo. |
+| --- |
+| DECRETO por el que se reforman diversos ordenamientos legales. |
 
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
@@ -2966,8 +3005,4 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 '12367@AETkuvw|¨²³´ÂÆÔ
 
-!"<]^­®æïãïïïãïïïÑÅïïïãµ¥$a$gdõ)5$Aàý^A`àýa$gdõ)5$Aàý^A`àýa$gdÉI$
-
 CJhÐ
-
-j"j8jLjbjvjj¨jÄjÜjÝjÞjßjllLlhlsltlul

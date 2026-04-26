@@ -346,7 +346,9 @@ Los Contratos preverán el pago mensual a favor del Estado Mexicano de la Cuota 
 
 I. Durante los primeros 60 meses de vigencia del Contrato
 
-1,150 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia del Contrato y en adelante2,750 pesos por kilómetro cuadrado
+|   | 1,150 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia del Contrato y en adelante | 2,750 pesos por kilómetro cuadrado |
 
 Los valores para las cuotas mensuales contempladas en este artículo se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
 
@@ -360,13 +362,15 @@ a)	Cuando el Precio Contractual del Petróleo sea inferior a 48 dólares de los 
 
 b)	Cuando el Precio Contractual del Petróleo sea mayor o igual a 48 dólares de los Estados Unidos de América por Barril:
 
-Tasa =[(0.125 x Precio Contractual del Petróleo) + 1.5 ]%
+| Tasa = | [(0.125 x Precio Contractual del Petróleo) + 1.5 ]% |
+| --- | --- |
 
 II.	Al Valor Contractual del Gas Natural, se le aplicará la siguiente tasa:
 
 a)	Cuando se trate de Gas Natural Asociado:
 
-Tasa =Precio Contractual del Gas Natural
+| Tasa = | Precio Contractual del Gas Natural |
+| --- | --- |
 
 b)	Cuando se trate de Gas Natural No Asociado:
 
@@ -374,11 +378,14 @@ i.	Cuando el Precio Contractual del Gas Natural sea menor o igual a 5 dólares d
 
 ii.	Cuando el Precio Contractual del Gas Natural sea mayor a 5 y menor a 5.5 dólares de los Estados Unidos de América por millón de BTU:
 
-Tasa =[(Precio Contractual del Gas Natural  5) x 60.5]%Precio Contractual del Gas Natural
+| Tasa = | [ | (Precio Contractual del Gas Natural  5) x 60.5 | ] | % |
+| --- | --- | --- | --- | --- |
+| Precio Contractual del Gas Natural |   |   |   |   |
 
 iii.	Cuando el Precio Contractual de Gas Natural sea mayor o igual a 5.5 dólares de los Estados Unidos de América por millón de BTU:
 
-Tasa =Precio Contractual del Gas Natural
+| Tasa = | Precio Contractual del Gas Natural |
+| --- | --- |
 
 III.	Al Valor Contractual de los Condensados se le aplicará la siguiente tasa:
 
@@ -386,7 +393,8 @@ a)	Cuando el Precio Contractual de los Condensados sea inferior a 60 dólares de
 
 b)	Cuando el Precio Contractual de los Condensados sea mayor o igual a 60 dólares de los Estados Unidos de América por Barril:
 
-Tasa =[(0.125 x Precio Contractual de los Condensados)  2.5 ] %
+| Tasa = | [(0.125 x Precio Contractual de los Condensados)  2.5 ] % |
+| --- | --- |
 
 Para la determinación de las tasas para el cálculo de las Regalías contempladas en este artículo se deberán considerar los efectos de las variaciones en el Índice de Precios al Productor de los Estados Unidos de América o el que lo sustituya. Para ello, la Secretaría se sujetará a los lineamientos que para este propósito emita, los cuales deberán ser publicados en el Diario Oficial de la Federación.
 
@@ -1062,11 +1070,21 @@ V.	Sin perjuicio de lo dispuesto en las fracciones anteriores, durante el ejerci
 
 VII.	Para los efectos de las fracciones I y II del artículo 41 y los incisos a) y b) de la fracción I del artículo 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar los porcentajes contenidos en dichos preceptos, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes porcentajes:
 
-Ejercicio FiscalPorcentaje201510.600%201611.075%201711.550%201812.025%
+| Ejercicio Fiscal | Porcentaje |
+| --- | --- |
+| 2015 | 10.600% |
+| 2016 | 11.075% |
+| 2017 | 11.550% |
+| 2018 | 12.025% |
 
 VIII.	Para los efectos de los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar la tasa contenida en el citado artículo 39, durante los ejercicios fiscales 2015 al 2018 se aplicarán las siguientes tasas:
 
-Ejercicio FiscalTasa201570.00%201668.75%201767.50%201866.25%
+| Ejercicio Fiscal | Tasa |
+| --- | --- |
+| 2015 | 70.00% |
+| 2016 | 68.75% |
+| 2017 | 67.50% |
+| 2018 | 66.25% |
 
 IX.	El Gobierno Federal deberá, a través de la banca de desarrollo, establecer vehículos o mecanismos de financiamiento, incluyendo fondos, fideicomisos y/o sociedades, pudiendo contar con la participación del sector privado, que permitan a cualquier persona física o moral, invertir recursos para financiar las actividades de reconocimiento, exploración, extracción, transporte, almacenamiento, comercialización, distribución y actividades conexas relacionadas con la industria de hidrocarburos que se realicen en los términos previstos en la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos. Asimismo, el Gobierno Federal podrá establecer mecanismos o instrumentos financieros para asegurar la estabilidad y certeza de los elementos económicos de los actos a que se refiere esta ley.
 
@@ -1110,7 +1128,9 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,175.42 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante2,810.78 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,175.42 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,810.78 pesos por kilómetro cuadrado |
 
 Artículo 55.-
 
@@ -1150,7 +1170,9 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,214.21 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante2,903.54 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,214.21 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 2,903.54 pesos por kilómetro cuadrado |
 
 Artículo 55.-
 
@@ -1176,7 +1198,9 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,355.82 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,242.17 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,355.82 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,242.17 pesos por kilómetro cuadrado |
 
 Artículo 55.-
 
@@ -1218,7 +1242,9 @@ I. Conforme a la regla 10.20., se dan a conocer las cuotas actualizadas del Dere
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,396.09 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,338.46 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,396.09 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,338.46 pesos por kilómetro cuadrado |
 
 Artículo 55.-
 
@@ -1246,7 +1272,9 @@ Artículo 45.-...........................................................
 
 I. Durante los primeros 60 meses de vigencia de la Asignación
 
-1,442.57 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,449.63 pesos por kilómetro cuadrado
+|   | 1,442.57 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,449.63 pesos por kilómetro cuadrado |
 
 Artículo 55.-..................................................................................
 
@@ -1272,7 +1300,9 @@ I. Conforme a la regla 10.19., se dan a conocer las cuotas actualizadas del Dere
 
 Artículo 45.-...........................................................
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,548.88 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,703.86 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,548.88 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,703.86 pesos por kilómetro cuadrado |
 
 Artículo 55.-..................................................................................
 
@@ -1298,7 +1328,9 @@ I. Conforme a la regla 10.19. de la Resolución Miscelánea Fiscal, se dan a con
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,669.53 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,992.39 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,669.53 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 3,992.39 pesos por kilómetro cuadrado |
 
 Artículo 55.-
 
@@ -1330,7 +1362,9 @@ I.	Cuota del DEXPH:
 
 Artículo 45.-
 
-I. Durante los primeros 60 meses de vigencia de la Asignación1,741.65 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante4,164.86 pesos por kilómetro cuadrado
+| I. Durante los primeros 60 meses de vigencia de la Asignación | 1,741.65 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,164.86 pesos por kilómetro cuadrado |
 
 II.	Cuota del IAEEH:
 
@@ -1366,7 +1400,9 @@ Artículo 45.-
 
 I. Durante los primeros 60 meses de vigencia de la Asignación
 
-1,820.72 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante4,353.94 pesos por kilómetro cuadrado
+|   | 1,820.72 pesos por kilómetro cuadrado |
+| --- | --- |
+| II. A partir del mes 61 de vigencia de la Asignación y en adelante | 4,353.94 pesos por kilómetro cuadrado |
 
 II.	Cuota del IAEEH:
 
@@ -1424,36 +1460,10 @@ Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
-®h`n5CJaJ h¯
-
 Þßðñôõ<=êÒÈ¾´«¢Ò¢¾´«Ò¾´«w«¢¾´«¢¾´«¢¾´«w«¢¾´«¢hí+#h§DNCJhí+#h
 
 ¬CJh
 
-¬5CJhí+#hI¤CJhí+#h`nCJhí+#hW4Ý5CJhí+#h`n5CJhí+#hI¤5CJ/h
-
-®hI¤5CJaJh¯
-
-®h`n5CJaJ
-
->>>->.>/>1>a>b>c>e>¦>§>¨>ª>????.?/?0?2?~????3@4@AAòAóAõìÒ»Ò²¦¦}²s}s}s}²s}²s}²s}s}²}²}²hí+#hW4Ý5CJhí+#h`nCJhí+#h`n5CJhí+#hI¤5CJh¯
-
-®h§DN5CJaJh¯
-
 iiiiiiii j!j^j_jjjjjjj
 
-®h§DN5CJaJh¯
-
-hØVA5CJhí+#hí+#5CJhYhY5CJaJh¯
-
-®hí+#5CJaJh¯
-
-øCùeùfùú¨ú©ú>û_û`ûmû¦üÈüÉüÖüÓþôþõþqrë
-
-®h§DN5CJaJh¯
-
 %n%o%p%q%r%Ã%Ä%Å%Æ%Ç%&&&&&S&T&U&V&W&©&ª&«&­&û&ü&õìãìã×ÍÃìãÃºìÍÃõºìÍÃõìãÃõºìãÃõºìãÃõºìãÃõºìãÃõìãÃõºìãÃõºìÍÃõºìãÃõºìãÃõìãhí+#hW4ÝCJhí+#h`n5CJhí+#hí+#5CJh¯
-
-hl"5CJh15zhl"CJ)¨©ìíííE7
-
-hM45CJh·%hM4CJ0W}~ßà@Auv¨©¶·>Øí

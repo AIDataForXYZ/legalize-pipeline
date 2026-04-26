@@ -2485,7 +2485,3 @@ La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolv
 Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
 
 Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Javier Laynez Potisek.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
-
-qruvZ[\}Þ`abe¼½À"#%&÷íä÷ØÎíäíäÎíä÷íäíäÎÄ·®·®u÷íä÷íä÷íäíäÎílhkAÇhü,CJ!hü+!6B*CJPJ]aJph.tµ'hkAÇhûR«6B*CJPJ]aJph.tµ'hkAÇh6B*CJPJ]aJphÿhkAÇhûR«CJhkAÇhûR«B*CJph.tµhkAÇhûR«5CJhkAÇh~95CJhkAÇhÝÎ5CJaJhkAÇhÝÎCJhkAÇhÝÎ5CJhkAÇh~9CJ*co¦~
-
-6B*CJPJ]aJphÿhkAÇh÷u	CJhkAÇh÷u	B*CJph.tµhkAÇh÷u	5CJhkAÇhÆ

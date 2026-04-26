@@ -1093,17 +1093,3 @@ Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas s
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Æ>a$gdÒ-B;d;f;t;~;;;;t<<<<<<<Z=^=_=Ö=æ=4>\>f>g>h>ìÙ½¤½s½¤½md[md[mTJ½¤½C
-
-h£Oä5CJhÒ-hÒ-5CJ
-
-h£Oä5CJh£Oä5CJ\
-
-¬¬Ë¬â¬ì¬î¬ø¬ù¬ú¬B­P­Î­Ñ­®®t®y®¶®Ã®F¯I¯½¯Á¯'°,°Â°Æ°E±H±íáÚÐÚÐ¶o¶ib[iRiRiRi[iRiRiRiRiRh£Oä5CJ\
-
-3CJh
-
-35CJ\aJh
-
-3&Øßëìófg³Èäø)RlméÕ½¦éxaIaIaIaIaxa4(h

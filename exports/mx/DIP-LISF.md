@@ -6820,32 +6820,21 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-ÜÜiÜjÜmÜÍÜÎÜÑÜÝÝÝtÝuÝxÝ0Þ1Þ4Þ¿ÞÀÞÃÞß ß£ßáá$ááá á>ã?ãåå[ç\ç_çwèxè{è¶è·èºèeéféié¾ê¿êSëTë!ì"ì/ìµì¶ì¹ì#î$î(îòîóîøîgïhïlï»ï¼ï¿ï'ð(ð,ðZñ[ñbòcòhò+ó,ó2óôôõõ÷íã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷íã÷Úã÷Úã÷Ú÷Ú÷Úã÷Úã÷íã÷Úã÷Ú÷Ú÷Úã÷Úã÷íã÷Úã÷Úã÷Úã÷Úã÷Ú÷íã÷Úã÷Ú÷Úh°h¶h>BCJh°h¶h"FÂ5CJh°h¶h>B5CJh°h¶h"FÂCJVÀÛÁÛÜ
-
-^^__,`-`3`ßaàaäacccÃdÄdkelezeègégiiiFkGk"m#mUnVndn¢o£o¦oppp&p'p,ppppÁpÂpÅpAqBqmqnq|qËqÌqÏqrrrs÷î÷äî÷äî÷î÷äî÷î÷î÷äîÛî÷î÷î÷äî÷äî÷äî÷î÷äî÷î÷äî÷î÷î÷äî÷äîÑäî÷äî÷äî÷äî÷ÅÑäî÷äîÑäîh)'h"FÂ5CJaJh°h¶húu5CJh°h¶h©\CJh°h¶h"FÂ5CJh°h¶h"FÂCJh°h¶húuCJN\X/Y0YfZgZn[o[\\
-
 wwwwwxxxexfxkxÕxÖxÚx6y7y<y6z7z=z&{'{||~~s~t~
 
 ±CJhU
 
 ±CJhU
 
-SSSèTéTïTéUêUîUçWèWöWßXàXãXrZsZs\t\x\Ý^Þ^ã^```bbbµc¶cºceebfcfhfÖg×gÝg+i,iÎiÏiÒiìiíiðiIjJjMjfjgj?l@lmmmInJnMneo÷íä÷ä÷íä÷íä÷íäÚíä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷ä÷íäÚíä÷íä÷ä÷ä÷íä÷íäh°h¶h&*5CJh°h¶h"FÂCJh°h¶h"FÂ5CJh°h¶h&*CJVQQZQ[QsQtQ±Q²Q7R8RRR
-
-¥¥¥¦¦¦1©2©@©g«h«Ï«Ð«Þ«­­;­<­f­g­u­½­¾­]®^®a®¯¯¯l±m±õìãõìãõìãõìãõìãõìãõìãõìãìã×ÍõìãìÄìãõìãõìãìãõìãõìãõìãìãõìã×¸×ÍõìÄìãõìÍõìãhw+Rhôv5CJaJh°h¶hºPóCJh°h¶hôv5CJhw+Rh©15CJaJh°h¶hôvCJh°h¶h©1CJh°h¶h©15CJHÖ×ßàCD{|EF,-  ¢¢o¤p¤
+| S | S | S | èT | éT | ïT | éU | êU | îU | çW | èW | öW | ßX | àX | ãX | rZ | sZ | s\ | t\ | x\ | Ý^ | Þ^ | ã^ | ` | ` | ` | b | b | b | µc | ¶c | ºc | e | e | bf | cf | hf | Ög | ×g | Ýg | +i | ,i | Îi | Ïi | Òi | ìi | íi | ði | Ij | Jj | Mj | fj | gj | ?l | @l | m | m | m | In | Jn | Mn | eo | ÷íä÷ä÷íä÷íä÷íäÚíä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷ä÷íäÚíä÷íä÷ä÷ä÷íä÷íäh°h¶h&*5CJh°h¶h"FÂCJh°h¶h"FÂ5CJh°h¶h&*CJVQ | Q | ZQ | [Q | sQ | tQ | ±Q | ²Q | 7R | 8R | R | R |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 BÿCJh
 
 ÐÑÕ¬­²¯°¶[\ABFéêø@A¾¿HIWèéì
 
-hoB5CJhµhoB5CJB÷C÷H÷I÷V÷W÷Ò÷Ó÷fùgùNûOûDüEüÚýVþWþþþÜ
-
 éÕ¾§qffff_Uh­	îhÕ2â5CJ
-
-óéóÚÈ·®¤®zcL8&hU
 
 éÒÄ·­Ä·Ä·­·­·Ä·­·Ä·­·Ä­·zqzqieieieh½gBjh½gBUh0ÝhU
 
 ±CJh0ÝhU
-
-±5CJhU

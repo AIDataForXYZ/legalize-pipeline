@@ -838,226 +838,2733 @@ La disposición prevista en este transitorio también será aplicable para los r
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-ANEXO 2. GASTO CORRIENTE ESTRUCTURAL (pesos)     Gasto Corriente Estructural3,868,319,904,030
+| ANEXO 2. GASTO CORRIENTE ESTRUCTURAL (pesos) |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Gasto Corriente Estructural | 3,868,319,904,030 |   |   |   |   |
 
-ANEXO 3. GASTOS OBLIGATORIOS (millones de pesos)Previsiones para Gastos Obligatorios6,702,281.0 Previsiones para Gastos Obligatorios con Pensiones y Jubilaciones8,406,440.2
+| ANEXO 3. GASTOS OBLIGATORIOS (millones de pesos) |   |   |
+| --- | --- | --- |
+|   | Previsiones para Gastos Obligatorios | 6,702,281.0 |
+| Previsiones para Gastos Obligatorios con Pensiones y Jubilaciones | 8,406,440.2 |   |
 
-ANEXO 4. EROGACIONES PLURIANUALES PARA PROYECTOS DE INFRAESTRUCTURA (millones de pesos)En el presente ejercicio fiscal no se comprometerán proyectos de inversión en infraestructura a los que se refiere el artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos.0
+| ANEXO 4. EROGACIONES PLURIANUALES PARA PROYECTOS DE INFRAESTRUCTURA (millones de pesos) |   |
+| --- | --- |
+| En el presente ejercicio fiscal no se comprometerán proyectos de inversión en infraestructura a los que se refiere el artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos. | 0 |
 
-ANEXO 5. COMPROMISOS PLURIANUALES (millones de pesos)        MONTO         Dependencias y Entidades (Recursos Fiscales)     202,724.92Entidades de Control Directo      65,416.36Empresas Productivas del Estado       234,186.35Poder Judicial       1,340.18Instituto Nacional Electoral      565.71Comisión Nacional de los Derechos Humanos     22.75Fiscalía General de la República      1,350.89
+| ANEXO 5. COMPROMISOS PLURIANUALES (millones de pesos) |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   | MONTO |
+| Dependencias y Entidades (Recursos Fiscales) |   |   |   |   |   | 202,724.92 |   |   |   |
+| Entidades de Control Directo |   |   |   |   |   |   | 65,416.36 |   |   |
+| Empresas Productivas del Estado |   |   |   |   |   |   | 234,186.35 |   |   |
+| Poder Judicial |   |   |   |   |   |   |   | 1,340.18 |   |
+| Instituto Nacional Electoral |   |   |   |   |   |   | 565.71 |   |   |
+| Comisión Nacional de los Derechos Humanos |   |   |   |   |   | 22.75 |   |   |   |
+| Fiscalía General de la República |   |   |   |   |   |   | 1,350.89 |   |   |
 
-ANEXO 5.A. PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADA    Con base en la fracción VI del artículo 3o. del Proyecto de Presupuesto de Egresos de la Federación, el monto máximo anual de gasto programable para los proyectos de asociación público-privada asciende a la cantidad de $70,109.7 millones de pesos.PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADASECRETARÍA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTESLibramiento de la Carretera La Galarza-AmatitlanesPrograma Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Querétaro - San Luís Potosí)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Coatzacoalcos - Villahermosa)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Matehuala - Saltillo)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Pirámides-Tulancingo-Pachuca)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Saltillo Monterrey Nuevo Laredo)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Texcoco -Zacatepec)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Arriaga-Tapachula)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Campeche - Merida)Programa Asociación Publico Privada de Conservación Plurianual de La Red Federal de Carreteras (APP San Luis Potosí - Matehuala)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Tampico - Ciudad Victoria)SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANAPrevención y Reinserción SocialComplejo Penitenciario Federal PapantlaINSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADONuevo Hospital General en la Delegación Regional Sur de la Ciudad de México
+| ANEXO 5.A. PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADA |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|   | Con base en la fracción VI del artículo 3o. del Proyecto de Presupuesto de Egresos de la Federación, el monto máximo anual de gasto programable para los proyectos de asociación público-privada asciende a la cantidad de $70,109.7 millones de pesos. |   |   |   |
+| PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADA |   |   |   |   |
+| SECRETARÍA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTES |   |   |   |   |
+| Libramiento de la Carretera La Galarza-Amatitlanes |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Querétaro - San Luís Potosí) |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Coatzacoalcos - Villahermosa) |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Matehuala - Saltillo) |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Pirámides-Tulancingo-Pachuca) |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Saltillo Monterrey Nuevo Laredo) |   |   |   |   |
+| Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Texcoco -Zacatepec) |   |   |   |   |
+| Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Arriaga-Tapachula) |   |   |   |   |
+| Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Campeche - Merida) |   |   |   |   |
+| Programa Asociación Publico Privada de Conservación Plurianual de La Red Federal de Carreteras (APP San Luis Potosí - Matehuala) |   |   |   |   |
+| Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Tampico - Ciudad Victoria) |   |   |   |   |
+| SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA |   |   |   |   |
+| Prevención y Reinserción Social |   |   |   |   |
+| Complejo Penitenciario Federal Papantla |   |   |   |   |
+| INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO |   |   |   |   |
+| Nuevo Hospital General en la Delegación Regional Sur de la Ciudad de México |   |   |   |   |
 
-ANEXO 6. PROYECTOS DE INFRAESTRUCTURA PRODUCTIVA DE LARGO PLAZO (pesos)6.A. Monto autorizado para nuevos proyectos    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  32,472,695,502032,472,695,5026.B. Monto autorizado para proyectos aprobados en ejercicios fiscales anteriores de inversión directa e inversión condicionada    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  550,757,616,026254,246,503,933805,004,119,9596.C. Monto autorizado para proyectos aprobados para ejercicios fiscales anteriores y para nuevos proyectos    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  583,230,311,528254,246,503,933837,476,815,4616.D. Monto comprometido de proyectos de inversión directa autorizados en ejercicios fiscales anteriores    Monto AutorizadoMonto ContratadoMonto ComprometidoComisión Federal de Electricidad  572,935,503,296488,046,696,244150,605,363,293
+| ANEXO 6. PROYECTOS DE INFRAESTRUCTURA PRODUCTIVA DE LARGO PLAZO (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6.A. Monto autorizado para nuevos proyectos |   |   |   |   |   |   |
+|   |   |   |   | Inversión Directa | Inversión Condicionada | Suma |
+| Comisión Federal de Electricidad |   |   | 32,472,695,502 | 0 | 32,472,695,502 |   |
+| 6.B. Monto autorizado para proyectos aprobados en ejercicios fiscales anteriores de inversión directa e inversión condicionada |   |   |   |   |   |   |
+|   |   |   |   | Inversión Directa | Inversión Condicionada | Suma |
+| Comisión Federal de Electricidad |   |   | 550,757,616,026 | 254,246,503,933 | 805,004,119,959 |   |
+| 6.C. Monto autorizado para proyectos aprobados para ejercicios fiscales anteriores y para nuevos proyectos |   |   |   |   |   |   |
+|   |   |   |   | Inversión Directa | Inversión Condicionada | Suma |
+| Comisión Federal de Electricidad |   |   | 583,230,311,528 | 254,246,503,933 | 837,476,815,461 |   |
+| 6.D. Monto comprometido de proyectos de inversión directa autorizados en ejercicios fiscales anteriores |   |   |   |   |   |   |
+|   |   |   |   | Monto Autorizado | Monto Contratado | Monto Comprometido |
+| Comisión Federal de Electricidad |   |   | 572,935,503,296 | 488,046,696,244 | 150,605,363,293 |   |
 
-6.E. Monto máximo de compromiso de proyectos de inversión condicionada autorizados en ejercicios fiscales anteriores    Monto AutorizadoMonto ContratadoMonto ComprometidoComisión Federal de Electricidad  250,304,961,433173,326,969,872124,371,595,6376.F. Previsiones para pago de amortizaciones y costo financiero de proyectos de inversión directaInversión Física (Amortizaciones)Costo FinancieroSumaComisión Federal de Electricidad  13,090,972,7665,491,482,00318,582,454,769Nota: para estos anexos los totales pueden no sumar respecto al total debido al redondeo.
+| 6.E. Monto máximo de compromiso de proyectos de inversión condicionada autorizados en ejercicios fiscales anteriores |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   | Monto Autorizado | Monto Contratado | Monto Comprometido |
+| Comisión Federal de Electricidad |   |   | 250,304,961,433 | 173,326,969,872 | 124,371,595,637 |   |
+| 6.F. Previsiones para pago de amortizaciones y costo financiero de proyectos de inversión directa |   |   |   |   |   |   |
+| Inversión Física (Amortizaciones) | Costo Financiero | Suma |   |   |   |   |
+| Comisión Federal de Electricidad |   |   | 13,090,972,766 | 5,491,482,003 | 18,582,454,769 |   |
+| Nota: para estos anexos los totales pueden no sumar respecto al total debido al redondeo. |   |   |   |   |   |   |
 
-ANEXO 7. PREVISIONES SALARIALES Y ECONÓMICAS (pesos)Incremento a las percepcionesCreación de plazasOtras medidas de carácter económico, laboral y contingenteTotalIIIIIIRamos Administrativos02Oficina de la Presidencia de la República21,931,155 0 2,672,433 24,603,588 04Gobernación169,801,953 0 27,258,061 197,060,014 05Relaciones Exteriores56,513,748 0 9,743,184 66,256,932 06Hacienda y Crédito Público717,868,222 0 111,979,660 829,847,882 07Defensa Nacional3,150,868,672 0 1,302,499,262 4,453,367,934 08Agricultura y Desarrollo Rural345,646,884 0 62,372,685 408,019,569 09Infraestructura, Comunicaciones y Transportes304,399,400 0 67,533,894 371,933,294 10Economía94,727,889 0 20,899,991 115,627,880 11Educación Pública5,064,046,919 0 3,129,976,055 8,194,022,974 12Salud1,350,941,579 0 160,738,780 1,511,680,359 13Marina810,605,963 0 378,515,382 1,189,121,345 14Trabajo y Previsión Social84,795,519 0 19,671,810 104,467,329 15Desarrollo Agrario, Territorial y Urbano81,158,104 0 19,525,871 100,683,975 16Medio Ambiente y Recursos Naturales297,774,691 0 93,507,981 391,282,672 18Energía74,674,813 0 3,568,413 78,243,226 20Bienestar70,139,887 0 19,064,041 89,203,928 21Turismo31,228,968 0 7,328,066 38,557,034 27Anticorrupción y Buen Gobierno81,358,887 0 6,238,003 87,596,890 31Tribunales Agrarios27,476,499 0 5,425,623 32,902,122 36Seguridad y Protección Ciudadana1,139,524,638 0 212,550,643 1,352,075,281 37Consejería Jurídica del Ejecutivo Federal5,833,809 0 345,459 6,179,268 38Ciencia, Humanidades, Tecnología e Innovación284,037,302 0 110,251,949 394,289,251 47Entidades no Sectorizadas78,111,339 0 16,908,784 95,020,123 48Cultura260,672,941 0 15,984,835 276,657,776 54Mujeres7,332,763 0 443,147 7,775,910 55Agencia de Transformación Digital y Telecomunicaciones77,238,690 0 79,045,714 156,284,404 56Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar3,729,822,968 0 552,452,140 4,282,275,108 Ramos Generales23Provisiones Salariales y Económicas18,846,643,362 3,027,710,863 6,506,163,102 28,380,517,327 */ Para efectos de control presupuestario y eficiencia del gasto, la administración de estos recursos se considera en el Ramo General 23 Provisiones Salariales y Económicas.
+| ANEXO 7. PREVISIONES SALARIALES Y ECONÓMICAS (pesos) |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Incremento a las percepciones | Creación de plazas | Otras medidas de carácter económico, laboral y contingente | Total |   |   |
+|   | I | II | III |   |   |
+|   | Ramos Administrativos |   |   |   |   |
+| 02 | Oficina de la Presidencia de la República | 21,931,155 | 0 | 2,672,433 | 24,603,588 |
+| 04 | Gobernación | 169,801,953 | 0 | 27,258,061 | 197,060,014 |
+| 05 | Relaciones Exteriores | 56,513,748 | 0 | 9,743,184 | 66,256,932 |
+| 06 | Hacienda y Crédito Público | 717,868,222 | 0 | 111,979,660 | 829,847,882 |
+| 07 | Defensa Nacional | 3,150,868,672 | 0 | 1,302,499,262 | 4,453,367,934 |
+| 08 | Agricultura y Desarrollo Rural | 345,646,884 | 0 | 62,372,685 | 408,019,569 |
+| 09 | Infraestructura, Comunicaciones y Transportes | 304,399,400 | 0 | 67,533,894 | 371,933,294 |
+| 10 | Economía | 94,727,889 | 0 | 20,899,991 | 115,627,880 |
+| 11 | Educación Pública | 5,064,046,919 | 0 | 3,129,976,055 | 8,194,022,974 |
+| 12 | Salud | 1,350,941,579 | 0 | 160,738,780 | 1,511,680,359 |
+| 13 | Marina | 810,605,963 | 0 | 378,515,382 | 1,189,121,345 |
+| 14 | Trabajo y Previsión Social | 84,795,519 | 0 | 19,671,810 | 104,467,329 |
+| 15 | Desarrollo Agrario, Territorial y Urbano | 81,158,104 | 0 | 19,525,871 | 100,683,975 |
+| 16 | Medio Ambiente y Recursos Naturales | 297,774,691 | 0 | 93,507,981 | 391,282,672 |
+| 18 | Energía | 74,674,813 | 0 | 3,568,413 | 78,243,226 |
+| 20 | Bienestar | 70,139,887 | 0 | 19,064,041 | 89,203,928 |
+| 21 | Turismo | 31,228,968 | 0 | 7,328,066 | 38,557,034 |
+| 27 | Anticorrupción y Buen Gobierno | 81,358,887 | 0 | 6,238,003 | 87,596,890 |
+| 31 | Tribunales Agrarios | 27,476,499 | 0 | 5,425,623 | 32,902,122 |
+| 36 | Seguridad y Protección Ciudadana | 1,139,524,638 | 0 | 212,550,643 | 1,352,075,281 |
+| 37 | Consejería Jurídica del Ejecutivo Federal | 5,833,809 | 0 | 345,459 | 6,179,268 |
+| 38 | Ciencia, Humanidades, Tecnología e Innovación | 284,037,302 | 0 | 110,251,949 | 394,289,251 |
+| 47 | Entidades no Sectorizadas | 78,111,339 | 0 | 16,908,784 | 95,020,123 |
+| 48 | Cultura | 260,672,941 | 0 | 15,984,835 | 276,657,776 |
+| 54 | Mujeres | 7,332,763 | 0 | 443,147 | 7,775,910 |
+| 55 | Agencia de Transformación Digital y Telecomunicaciones | 77,238,690 | 0 | 79,045,714 | 156,284,404 |
+| 56 | Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar | 3,729,822,968 | 0 | 552,452,140 | 4,282,275,108 |
+| Ramos Generales |   |   |   |   |   |
+| 23 | Provisiones Salariales y Económicas | 18,846,643,362 | 3,027,710,863 | 6,506,163,102 | 28,380,517,327 |
+| */ Para efectos de control presupuestario y eficiencia del gasto, la administración de estos recursos se considera en el Ramo General 23 Provisiones Salariales y Económicas. |   |   |   |   |   |
 
-ANEXO 8. COSTO FINANCIERO DE LA DEUDA Y OTRAS EROGACIONES (pesos)MONTOCosto financiero de la deuda del Gobierno Federal incluido en el Ramo General 24 Deuda Pública1,297,681,062,923Costo financiero de la deuda de las empresas incluidas en el Anexo 1.E de este Decreto238,838,797,003Erogaciones incluidas en el Ramo General 29 Erogaciones para las Operaciones y Programas de Saneamiento Financiero0Erogaciones incluidas en el Ramo General 34 Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca35,553,400,900Obligaciones incurridas a través de los programas de apoyo a deudores900Obligaciones surgidas de los programas de apoyo a ahorradores35,553,400,000Total1,572,073,260,826
+| ANEXO 8. COSTO FINANCIERO DE LA DEUDA Y OTRAS EROGACIONES (pesos) |   |
+| --- | --- |
+|   | MONTO |
+| Costo financiero de la deuda del Gobierno Federal incluido en el Ramo General 24 Deuda Pública | 1,297,681,062,923 |
+| Costo financiero de la deuda de las empresas incluidas en el Anexo 1.E de este Decreto | 238,838,797,003 |
+| Erogaciones incluidas en el Ramo General 29 Erogaciones para las Operaciones y Programas de Saneamiento Financiero | 0 |
+| Erogaciones incluidas en el Ramo General 34 Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca | 35,553,400,900 |
+| Obligaciones incurridas a través de los programas de apoyo a deudores | 900 |
+| Obligaciones surgidas de los programas de apoyo a ahorradores | 35,553,400,000 |
+| Total | 1,572,073,260,826 |
 
-ANEXO 9. MONTOS MÁXIMOS DE ADJUDICACIÓN MEDIANTE PROCEDIMIENTO DE ADJUDICACIÓN DIRECTA Y DE INVITACIÓN A CUANDO MENOS TRES PERSONAS, ESTABLECIDOS EN MILES DE PESOS, SIN CONSIDERAR EL IMPUESTO AL VALOR AGREGADOAdquisiciones, Arrendamientos y ServiciosPresupuesto autorizado de adquisiciones, arrendamientos y serviciosMonto máximo total de cada operación que podrá adjudicarse directamenteMonto máximo total de cada operación que podrá adjudicarse mediante invitación a cuando menos tres personasMayor deHasta15,0003092,27215,00030,0003432,64930,00050,0003762,98350,000100,0003913,264100,000150,0004924,351150,000250,0005545,165250,000350,0006246,138350,000450,0006867,068450,000600,0006977,551600,000750,0007778,880750,0001,000,0007909,4611,000,0001,250,00090211,5471,250,0001,500,0001,02313,7411,500,000-1,14516,086Obras Públicas y Servicios Relacionados con las MismasPresupuesto autorizado para realizar obras públicas y servicios relacionados con las mismasMonto máximo total de cada obra pública que podrá adjudicarse directamenteMonto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse directamenteMonto máximo total de cada obra pública que podrá adjudicarse mediante invitación a cuando menos tres personasMonto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse mediante invitación a cuando menos tres personasMayor deHasta15,0004992233,7762,86815,00030,0005902944,4693,24030,00050,0006783575,0793,98150,000100,0007534035,6374,528100,000150,0001,0274927,6425,649150,000250,0001,1895379,0246,620250,000350,0001,38668310,5227,621350,000450,0001,58878112,1168,656450,000600,0001,69988812,96810,148600,000750,0001,9931,06615,25812,082750,0001,000,0002,1281,15216,27612,9811,000,0001,250,0002,5911,34019,93215,2581,250,0001,500,0003,0831,57423,61717,8191,500,0002,700,0003,4711,76026,76619,9662,700,000-3,8931,97528,91322,372
+| ANEXO 9. MONTOS MÁXIMOS DE ADJUDICACIÓN MEDIANTE PROCEDIMIENTO DE ADJUDICACIÓN DIRECTA Y DE INVITACIÓN A CUANDO MENOS TRES PERSONAS, ESTABLECIDOS EN MILES DE PESOS, SIN CONSIDERAR EL IMPUESTO AL VALOR AGREGADO |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Adquisiciones, Arrendamientos y Servicios |   |   |   |   |   |
+| Presupuesto autorizado de adquisiciones, arrendamientos y servicios | Monto máximo total de cada operación que podrá adjudicarse directamente | Monto máximo total de cada operación que podrá adjudicarse mediante invitación a cuando menos tres personas |   |   |   |
+| Mayor de | Hasta |   |   |   |   |
+|   | 15,000 | 309 | 2,272 |   |   |
+| 15,000 | 30,000 | 343 | 2,649 |   |   |
+| 30,000 | 50,000 | 376 | 2,983 |   |   |
+| 50,000 | 100,000 | 391 | 3,264 |   |   |
+| 100,000 | 150,000 | 492 | 4,351 |   |   |
+| 150,000 | 250,000 | 554 | 5,165 |   |   |
+| 250,000 | 350,000 | 624 | 6,138 |   |   |
+| 350,000 | 450,000 | 686 | 7,068 |   |   |
+| 450,000 | 600,000 | 697 | 7,551 |   |   |
+| 600,000 | 750,000 | 777 | 8,880 |   |   |
+| 750,000 | 1,000,000 | 790 | 9,461 |   |   |
+| 1,000,000 | 1,250,000 | 902 | 11,547 |   |   |
+| 1,250,000 | 1,500,000 | 1,023 | 13,741 |   |   |
+| 1,500,000 | - | 1,145 | 16,086 |   |   |
+| Obras Públicas y Servicios Relacionados con las Mismas |   |   |   |   |   |
+| Presupuesto autorizado para realizar obras públicas y servicios relacionados con las mismas | Monto máximo total de cada obra pública que podrá adjudicarse directamente | Monto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse directamente | Monto máximo total de cada obra pública que podrá adjudicarse mediante invitación a cuando menos tres personas | Monto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse mediante invitación a cuando menos tres personas |   |
+| Mayor de | Hasta |   |   |   |   |
+|   | 15,000 | 499 | 223 | 3,776 | 2,868 |
+| 15,000 | 30,000 | 590 | 294 | 4,469 | 3,240 |
+| 30,000 | 50,000 | 678 | 357 | 5,079 | 3,981 |
+| 50,000 | 100,000 | 753 | 403 | 5,637 | 4,528 |
+| 100,000 | 150,000 | 1,027 | 492 | 7,642 | 5,649 |
+| 150,000 | 250,000 | 1,189 | 537 | 9,024 | 6,620 |
+| 250,000 | 350,000 | 1,386 | 683 | 10,522 | 7,621 |
+| 350,000 | 450,000 | 1,588 | 781 | 12,116 | 8,656 |
+| 450,000 | 600,000 | 1,699 | 888 | 12,968 | 10,148 |
+| 600,000 | 750,000 | 1,993 | 1,066 | 15,258 | 12,082 |
+| 750,000 | 1,000,000 | 2,128 | 1,152 | 16,276 | 12,981 |
+| 1,000,000 | 1,250,000 | 2,591 | 1,340 | 19,932 | 15,258 |
+| 1,250,000 | 1,500,000 | 3,083 | 1,574 | 23,617 | 17,819 |
+| 1,500,000 | 2,700,000 | 3,471 | 1,760 | 26,766 | 19,966 |
+| 2,700,000 | - | 3,893 | 1,975 | 28,913 | 22,372 |
 
-ANEXO 10. EROGACIONES PARA LA IMPLEMENTACIÓN DEL DESARROLLO INTEGRAL, INTERCULTURAL Y SOSTENIBLE DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal234,782,496,92904 Gobernación6,410,667 P005Conducción de la política interior2,726,816 P009Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz2,911,264 P010Política para la protección y defensa de los derechos humanos103,722 P061Política para promover la protección de los derechos humanos y prevenir la discriminación668,86605 Relaciones Exteriores253,186,624 P015Articulación de la política exterior253,186,62406 Hacienda y Crédito Público64,622,494 F001Inclusión financiera para el bienestar64,622,49408 Agricultura y Desarrollo Rural17,554,819,483 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario670,995,394 S052Precio de Garantía y Leche para el Bienestar718,769,511 S053Programa de Abasto Rural950,189,357 S290Acopio para el Bienestar978,554,174 S292Fertilizantes para el Bienestar5,600,000,000 S293Producción para el Bienestar8,197,520,211 S304Pesca y acuacultura sustentable438,790,83709 Infraestructura, Comunicaciones y Transportes3,120,939,009 U004Caminos artesanales3,120,939,00910 Economía65,314,827 P024Articulación de las políticas y programas del sector Economía65,314,82711 Educación Pública76,839,646,422 B008Producción y distribución de libros y materiales educativos3,563,438 E022Servicios de Educación Media Superior5,149,403,109 E023Servicios de Educación Superior y Posgrado12,377,542 E024Servicios de desarrollo Cultural48,260,220 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos9,483,611 E026Servicios de producción y distribución de libros y materiales culturales1,655,942 E029Servicios de educación para Adultos (INEA)97,498,957 E030Servicios de educación Básica Comunitaria832,683,513 E084Servicios de mantenimiento e infraestructura física educativa23,829,583 P026Diseño de la Política Educativa y Regulación de los Servicios121,605,887 S072Beca Universal de Educación Básica Rita Cetina36,228,080,000 S243Programa de Becas Elisa Acuña180,254,082 S247Programa para el Desarrollo Profesional Docente2,799,905 S282La Escuela es Nuestra6,572,800,000 S283Jóvenes Escribiendo el Futuro1,265,000,000 S311Beca Universal de Educación Media Superior Benito Juárez4,255,900,000 U006Subsidios para organismos descentralizados estatales21,635,282,275 U079Expansión de la Educación Media Superior y Superior64,385,838 U083Universidades para el Bienestar Benito Juárez García154,500,000 U312Expansión de la Educación Inicial180,282,52012 Salud7,714,776,217 E031Servicios de atención a la salud6,479,471,990 E032Servicios de atención a la salud mental y prevención de las adicciones18,344,034 E034Servicios de protección y asistencia social integral422,537,527 P027Rectoría del Sistema Nacional de Salud15,480,941 P028Política de prevención y control de enfermedades171,591,703 P029Política en Salud Materna Sexual y Reproductiva56,523,628 S039Programa de Atención a Personas con Discapacidad532,864 U012Fortalecimiento de los Servicios Estatales de Salud550,293,53015 Desarrollo Agrario, Territorial y Urbano4,652,420,953 E042Servicios de ordenamiento y procuración de justicia agraria256,091,884 P033Articulación de la política nacional de vivienda15,935,531 P034Política de ordenamiento agrario, territorial y urbano84,658,542 S177Programa de Vivienda Social 4,233,940,607 S213Programa para Regularizar asentamientos Humanos16,867,131 S273Programa Territorial para el Bienestar2,750,000 U001Regulación y registro de actos jurídicos agrarios23,823,578 U003Programa de modernización de los registros públicos de la propiedad y catastros18,353,67916 Medio Ambiente y Recursos Naturales13,498,900,217 E045Servicios de operación y suministro hídrico769,733,139 V002Protección Forestal712,946,807 V003Conservación y Manejo de Áreas Naturales Protegidas51,592,236 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales506,374,361 G015Gestión integral y sustentable del agua1,459,565,814 G016Regulación, gestión y supervisión socioambiental81,714,063 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento6,332,385,238 P035Articulación de Políticas Hídricas11,082,085 P036Articulación de la Política Ambiental y de Recursos Naturales281,095 S046Programa de Conservación para el Desarrollo Sostenible50,276,108 U074Agua Potable, Drenaje y Tratamiento1,763,140,208 U217Programa de Apoyo a la Infraestructura Hidroagrícola1,256,413,647 S219Desarrollo Forestal Sustentable para el Bienestar439,280,043 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias64,115,37318 Energía181,453,540 P037Articulación de la política energética181,453,54020 Bienestar87,546,326,901 I017Fondo de Aportaciones para la Infraestructura Social de los Pueblos y Comunidades Indígenas y Afromexicanas13,000,000,000 P041Articulación de la Política de Bienestar6,884,727 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S176Pensión para el Bienestar de las Personas Adultas Mayores45,005,109,958 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente1,697,140,497 S287Sembrando Vida23,460,000,000 S316Pensión Mujeres Bienestar879,000,000 S317Salud Casa por Casa186,191,72021 Turismo1,971,043 F025Fomento y promoción de destinos turísticos1,971,04327 Anticorrupción y Buen Gobierno373,829 P044Política anticorrupción373,82935 Comisión Nacional de los Derechos Humanos16,221,521 E022Protección y defensa de los Derechos Humanos de las personas indígenas y afrodescendientes privadas de la libertad.16,221,52138 Ciencia, Humanidades, Tecnología e Innovación13,208,345 S190Becas de posgrado y apoyos a la calidad13,208,34547 Intituto Nacional de los Pueblos Indígenas4,859,624,155 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena2,047,666,754 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,37048 Cultura1,067,416,695 E062Servicios de desarrollo cultural844,805,247 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos14,311,982 E065Servicios de protección de los derechos tutelados por la Ley Federal del Derecho de Autor1,729,113 P056Política de educación y cultura indígena1,661,707 S057Programas del fondo nacional de fomento a las artesanías (FONART)40,252,968 S268Programas de apoyos a la cultura31,104,830 S303Programa Nacional de Becas Artísticas y Culturales2,904,151 S320Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales130,646,696Instituto Mexicano del Seguro Social37,683,352 E031Servicios de atención a la salud37,683,352Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado8,695,807,770 E031Servicios de atención a la salud7,946,458,762 E072Servicios de prevención y control de enfermedades749,349,00854 Mujeres52,680,521 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas10,281,386 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres4,721,218 S319Programa de Atención Integral para el Bienestar de las Mujeres37,677,91755 Agencia de Transformación Digital y Telecomunicaciones12,358,902 G023Supervisión y regulación de telecomunicaciones, radiodifusión y espectro radioeléctrico7,192,412 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones5,166,49056 IMSS-Bienestar8,526,333,441 U200Fortalecimiento a la atención médica247,571,918 U013Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral8,278,761,523
+| ANEXO 10. EROGACIONES PARA LA IMPLEMENTACIÓN DEL DESARROLLO INTEGRAL, INTERCULTURAL Y SOSTENIBLE DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 234,782,496,929 |   |   |
+| 04 Gobernación | 6,410,667 |   |   |
+|   | P005 | Conducción de la política interior | 2,726,816 |
+|   | P009 | Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz | 2,911,264 |
+|   | P010 | Política para la protección y defensa de los derechos humanos | 103,722 |
+|   | P061 | Política para promover la protección de los derechos humanos y prevenir la discriminación | 668,866 |
+| 05 Relaciones Exteriores | 253,186,624 |   |   |
+|   | P015 | Articulación de la política exterior | 253,186,624 |
+| 06 Hacienda y Crédito Público | 64,622,494 |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 64,622,494 |
+| 08 Agricultura y Desarrollo Rural | 17,554,819,483 |   |   |
+|   | Q004 | Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario | 670,995,394 |
+|   | S052 | Precio de Garantía y Leche para el Bienestar | 718,769,511 |
+|   | S053 | Programa de Abasto Rural | 950,189,357 |
+|   | S290 | Acopio para el Bienestar | 978,554,174 |
+|   | S292 | Fertilizantes para el Bienestar | 5,600,000,000 |
+|   | S293 | Producción para el Bienestar | 8,197,520,211 |
+|   | S304 | Pesca y acuacultura sustentable | 438,790,837 |
+| 09 Infraestructura, Comunicaciones y Transportes | 3,120,939,009 |   |   |
+|   | U004 | Caminos artesanales | 3,120,939,009 |
+| 10 Economía | 65,314,827 |   |   |
+|   | P024 | Articulación de las políticas y programas del sector Economía | 65,314,827 |
+| 11 Educación Pública | 76,839,646,422 |   |   |
+|   | B008 | Producción y distribución de libros y materiales educativos | 3,563,438 |
+|   | E022 | Servicios de Educación Media Superior | 5,149,403,109 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 12,377,542 |
+|   | E024 | Servicios de desarrollo Cultural | 48,260,220 |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 9,483,611 |
+|   | E026 | Servicios de producción y distribución de libros y materiales culturales | 1,655,942 |
+|   | E029 | Servicios de educación para Adultos (INEA) | 97,498,957 |
+|   | E030 | Servicios de educación Básica Comunitaria | 832,683,513 |
+|   | E084 | Servicios de mantenimiento e infraestructura física educativa | 23,829,583 |
+|   | P026 | Diseño de la Política Educativa y Regulación de los Servicios | 121,605,887 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 36,228,080,000 |
+|   | S243 | Programa de Becas Elisa Acuña | 180,254,082 |
+|   | S247 | Programa para el Desarrollo Profesional Docente | 2,799,905 |
+|   | S282 | La Escuela es Nuestra | 6,572,800,000 |
+|   | S283 | Jóvenes Escribiendo el Futuro | 1,265,000,000 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 4,255,900,000 |
+|   | U006 | Subsidios para organismos descentralizados estatales | 21,635,282,275 |
+|   | U079 | Expansión de la Educación Media Superior y Superior | 64,385,838 |
+|   | U083 | Universidades para el Bienestar Benito Juárez García | 154,500,000 |
+|   | U312 | Expansión de la Educación Inicial | 180,282,520 |
+| 12 Salud | 7,714,776,217 |   |   |
+|   | E031 | Servicios de atención a la salud | 6,479,471,990 |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 18,344,034 |
+|   | E034 | Servicios de protección y asistencia social integral | 422,537,527 |
+|   | P027 | Rectoría del Sistema Nacional de Salud | 15,480,941 |
+|   | P028 | Política de prevención y control de enfermedades | 171,591,703 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 56,523,628 |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 532,864 |
+|   | U012 | Fortalecimiento de los Servicios Estatales de Salud | 550,293,530 |
+| 15 Desarrollo Agrario, Territorial y Urbano | 4,652,420,953 |   |   |
+|   | E042 | Servicios de ordenamiento y procuración de justicia agraria | 256,091,884 |
+|   | P033 | Articulación de la política nacional de vivienda | 15,935,531 |
+|   | P034 | Política de ordenamiento agrario, territorial y urbano | 84,658,542 |
+|   | S177 | Programa de Vivienda Social | 4,233,940,607 |
+|   | S213 | Programa para Regularizar asentamientos Humanos | 16,867,131 |
+|   | S273 | Programa Territorial para el Bienestar | 2,750,000 |
+|   | U001 | Regulación y registro de actos jurídicos agrarios | 23,823,578 |
+|   | U003 | Programa de modernización de los registros públicos de la propiedad y catastros | 18,353,679 |
+| 16 Medio Ambiente y Recursos Naturales | 13,498,900,217 |   |   |
+|   | E045 | Servicios de operación y suministro hídrico | 769,733,139 |
+|   | V002 | Protección Forestal | 712,946,807 |
+|   | V003 | Conservación y Manejo de Áreas Naturales Protegidas | 51,592,236 |
+|   | G014 | Inspección, vigilancia y regulación del medio ambiente y recursos naturales | 506,374,361 |
+|   | G015 | Gestión integral y sustentable del agua | 1,459,565,814 |
+|   | G016 | Regulación, gestión y supervisión socioambiental | 81,714,063 |
+|   | K027 | Infraestructura en materia de agua potable, alcantarillado y saneamiento | 6,332,385,238 |
+|   | P035 | Articulación de Políticas Hídricas | 11,082,085 |
+|   | P036 | Articulación de la Política Ambiental y de Recursos Naturales | 281,095 |
+|   | S046 | Programa de Conservación para el Desarrollo Sostenible | 50,276,108 |
+|   | U074 | Agua Potable, Drenaje y Tratamiento | 1,763,140,208 |
+|   | U217 | Programa de Apoyo a la Infraestructura Hidroagrícola | 1,256,413,647 |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 439,280,043 |
+|   | V005 | Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias | 64,115,373 |
+| 18 Energía | 181,453,540 |   |   |
+|   | P037 | Articulación de la política energética | 181,453,540 |
+| 20 Bienestar | 87,546,326,901 |   |   |
+|   | I017 | Fondo de Aportaciones para la Infraestructura Social de los Pueblos y Comunidades Indígenas y Afromexicanas | 13,000,000,000 |
+|   | P041 | Articulación de la Política de Bienestar | 6,884,727 |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,312,000,000 |
+|   | S176 | Pensión para el Bienestar de las Personas Adultas Mayores | 45,005,109,958 |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 1,697,140,497 |
+|   | S287 | Sembrando Vida | 23,460,000,000 |
+|   | S316 | Pensión Mujeres Bienestar | 879,000,000 |
+|   | S317 | Salud Casa por Casa | 186,191,720 |
+| 21 Turismo | 1,971,043 |   |   |
+|   | F025 | Fomento y promoción de destinos turísticos | 1,971,043 |
+| 27 Anticorrupción y Buen Gobierno | 373,829 |   |   |
+|   | P044 | Política anticorrupción | 373,829 |
+| 35 Comisión Nacional de los Derechos Humanos | 16,221,521 |   |   |
+|   | E022 | Protección y defensa de los Derechos Humanos de las personas indígenas y afrodescendientes privadas de la libertad. | 16,221,521 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 13,208,345 |   |   |
+|   | S190 | Becas de posgrado y apoyos a la calidad | 13,208,345 |
+| 47 Intituto Nacional de los Pueblos Indígenas | 4,859,624,155 |   |   |
+|   | P052 | Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas | 1,107,973,031 |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 2,047,666,754 |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 1,703,984,370 |
+| 48 Cultura | 1,067,416,695 |   |   |
+|   | E062 | Servicios de desarrollo cultural | 844,805,247 |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 14,311,982 |
+|   | E065 | Servicios de protección de los derechos tutelados por la Ley Federal del Derecho de Autor | 1,729,113 |
+|   | P056 | Política de educación y cultura indígena | 1,661,707 |
+|   | S057 | Programas del fondo nacional de fomento a las artesanías (FONART) | 40,252,968 |
+|   | S268 | Programas de apoyos a la cultura | 31,104,830 |
+|   | S303 | Programa Nacional de Becas Artísticas y Culturales | 2,904,151 |
+|   | S320 | Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales | 130,646,696 |
+| Instituto Mexicano del Seguro Social | 37,683,352 |   |   |
+|   | E031 | Servicios de atención a la salud | 37,683,352 |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 8,695,807,770 |   |   |
+|   | E031 | Servicios de atención a la salud | 7,946,458,762 |
+|   | E072 | Servicios de prevención y control de enfermedades | 749,349,008 |
+| 54 Mujeres | 52,680,521 |   |   |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 10,281,386 |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 4,721,218 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 37,677,917 |
+| 55 Agencia de Transformación Digital y Telecomunicaciones | 12,358,902 |   |   |
+|   | G023 | Supervisión y regulación de telecomunicaciones, radiodifusión y espectro radioeléctrico | 7,192,412 |
+|   | P060 | Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones | 5,166,490 |
+| 56 IMSS-Bienestar | 8,526,333,441 |   |   |
+|   | U200 | Fortalecimiento a la atención médica | 247,571,918 |
+|   | U013 | Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral | 8,278,761,523 |
 
-ANEXO 11. PROGRAMA ESPECIAL CONCURRENTE PARA EL DESARROLLO RURAL SUSTENTABLE (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal525,634,094,43405 Relaciones Exteriores69,914,476 P014Articulación de la política de Cooperación internacional para el desarrollo69,914,47606 Hacienda y Crédito Público129,244,988 F001Inclusión financiera para el bienestar129,244,98808 Agricultura y Desarrollo Rural71,423,461,819 B005Producción y comercialización de Biológicos Veterinarios15,165,384 B006Adquisición, industrialización y comercialización de productos agroalimentarios3,072,004,443 M001Actividades de apoyo administrativo2,172,647,017 O001Actividades de apoyo a la función pública y buen gobierno34,734,303 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario6,778,160,225 P021Aplicación de la Política Agropecuaria4,576,591,780 S052Precio de Garantía y Leche para el Bienestar1,539,475,552 S053Programa de Abasto Rural2,664,081,596 S290Acopio para el Bienestar13,000,000,000 S292Fertilizantes para el Bienestar18,200,000,000 S293Producción para el Bienestar17,472,000,000 S304Pesca y acuacultura sustentable1,898,601,51909 Infraestructura, Comunicaciones y Transportes1,560,469,505 U004Caminos artesanales1,560,469,50510 Economía9,212,603 F019Promoción del comercio exterior y atracción de inversión extranjera directa6,749,208 P023Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión2,463,39611 Educación Pública69,103,163,692 E022Servicios de Educación Media Superior11,260,807,170 E023Servicios de Educación Superior y Posgrado1,105,269,981 E028Servicios de normalización y certificación en competencias laborales194,852,714 E029Servicios de educación para Adultos (INEA)81,249,131 E030Servicios de educación Básica Comunitaria3,220,541,969 S072Beca Universal de Educación Básica Rita Cetina38,815,800,000 S243Programa de Becas Elisa Acuña307,727 S283Jóvenes Escribiendo el Futuro3,162,500,000 S311Beca Universal de Educación Media Superior Benito Juárez10,639,750,000 U312Expansión de la Educación Inicial90,141,260 U079Expansión de la Educación Media Superior y Superior85,847,784 U083Universidades para el Bienestar Benito Juárez García309,000,000 Q007Investigación en ciencia, humanidades, tecnología e innovación137,095,95612 Salud10,092,436,193 E031Servicios de atención a la salud9,719,207,986 E034Servicios de protección y asistencia social integral211,268,764 K006Infraestructura integral para el derecho a la salud4,919,725 P027Rectoría del Sistema Nacional de Salud7,506,311 P029Política en Salud Materna Sexual y Reproductiva149,533,40815 Desarrollo Agrario, Territorial y Urbano368,855,001 E042Servicios de ordenamiento y procuración de justicia agraria105,137,962 P034Política de ordenamiento agrario, territorial y urbano9,862,526 U001Regulación y registro de actos jurídicos agrarios226,323,994 U003Programa de modernización de los registros públicos de la propiedad y catastros27,530,51916 Medio Ambiente y Recursos Naturales14,280,014,530 E045Servicios de operación y suministro hídrico1,154,599,707 Q011Investigación científica y tecnológica79,906,272 V002Protección Forestal1,277,923,519 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales347,265,403 G015Gestión integral y sustentable del agua2,189,348,720 G016Regulación, gestión y supervisión socioambiental122,571,093 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento5,376,553,503 K026Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones1,525,601,330 P035Articulación de Políticas Hídricas16,623,126 S046Programa de Conservación para el Desarrollo Sostenible75,414,160 U074Agua Potable, Drenaje y Tratamiento1,015,893,846 U217Programa de Apoyo a la Infraestructura Hidroagrícola579,883,221 S219Desarrollo Forestal Sustentable para el Bienestar422,257,572 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias96,173,05818 Energía327,476,521 P037Articulación de la política energética272,180,310 P039Articulación de la política nuclear y eléctrica55,296,21120 Bienestar194,104,285,762 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S176Pensión para el Bienestar de las Personas Adultas Mayores145,028,285,762 S287Sembrando Vida40,664,000,000 S316Pensión Mujeres Bienestar4,500,000,000 S317Salud Casa por Casa600,000,00021 Turismo5,786,391 F025Fomento y promoción de destinos turísticos2,675,258 G020Regulación y certificación de estándares de calidad turística3,111,13331 Tribunales Agrarios11,795 E052Servicios de resolución de asuntos relativos a conflictos y controversias por la posesión y usufructo de la tierra11,79533 Aportaciones Federales para Entidades Federativas y Municipios95,139,696,685 I004FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal68,246,396,117 I005FORTAMUN15,734,005,828 I006FAM Asistencia Social 11,159,294,73947 Instituto Nacional de los Pueblos Indígenas4,124,023,833 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena1,312,066,432 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,370Instituto Mexicano del Seguro Social 39,215,361,364 E070Servicios de guardería4,957,768,875 E031Servicios de atención a la salud34,257,592,48954 Mujeres 234,059,053 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres77,256,288 S319Programa de Atención Integral para el Bienestar de las Mujeres156,802,76455 Agencia de Transformación Digital y Telecomunicaciones 12,371,869 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones12,371,86956 IMSS-Bienestar25,434,248,356 E031Servicios de atención a la salud25,434,248,356
+| ANEXO 11. PROGRAMA ESPECIAL CONCURRENTE PARA EL DESARROLLO RURAL SUSTENTABLE (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 525,634,094,434 |   |   |
+| 05 Relaciones Exteriores | 69,914,476 |   |   |
+|   | P014 | Articulación de la política de Cooperación internacional para el desarrollo | 69,914,476 |
+| 06 Hacienda y Crédito Público | 129,244,988 |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 129,244,988 |
+| 08 Agricultura y Desarrollo Rural | 71,423,461,819 |   |   |
+|   | B005 | Producción y comercialización de Biológicos Veterinarios | 15,165,384 |
+|   | B006 | Adquisición, industrialización y comercialización de productos agroalimentarios | 3,072,004,443 |
+|   | M001 | Actividades de apoyo administrativo | 2,172,647,017 |
+|   | O001 | Actividades de apoyo a la función pública y buen gobierno | 34,734,303 |
+|   | Q004 | Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario | 6,778,160,225 |
+|   | P021 | Aplicación de la Política Agropecuaria | 4,576,591,780 |
+|   | S052 | Precio de Garantía y Leche para el Bienestar | 1,539,475,552 |
+|   | S053 | Programa de Abasto Rural | 2,664,081,596 |
+|   | S290 | Acopio para el Bienestar | 13,000,000,000 |
+|   | S292 | Fertilizantes para el Bienestar | 18,200,000,000 |
+|   | S293 | Producción para el Bienestar | 17,472,000,000 |
+|   | S304 | Pesca y acuacultura sustentable | 1,898,601,519 |
+| 09 Infraestructura, Comunicaciones y Transportes | 1,560,469,505 |   |   |
+|   | U004 | Caminos artesanales | 1,560,469,505 |
+| 10 Economía | 9,212,603 |   |   |
+|   | F019 | Promoción del comercio exterior y atracción de inversión extranjera directa | 6,749,208 |
+|   | P023 | Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión | 2,463,396 |
+| 11 Educación Pública | 69,103,163,692 |   |   |
+|   | E022 | Servicios de Educación Media Superior | 11,260,807,170 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 1,105,269,981 |
+|   | E028 | Servicios de normalización y certificación en competencias laborales | 194,852,714 |
+|   | E029 | Servicios de educación para Adultos (INEA) | 81,249,131 |
+|   | E030 | Servicios de educación Básica Comunitaria | 3,220,541,969 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 38,815,800,000 |
+|   | S243 | Programa de Becas Elisa Acuña | 307,727 |
+|   | S283 | Jóvenes Escribiendo el Futuro | 3,162,500,000 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 10,639,750,000 |
+|   | U312 | Expansión de la Educación Inicial | 90,141,260 |
+|   | U079 | Expansión de la Educación Media Superior y Superior | 85,847,784 |
+|   | U083 | Universidades para el Bienestar Benito Juárez García | 309,000,000 |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 137,095,956 |
+| 12 Salud | 10,092,436,193 |   |   |
+|   | E031 | Servicios de atención a la salud | 9,719,207,986 |
+|   | E034 | Servicios de protección y asistencia social integral | 211,268,764 |
+|   | K006 | Infraestructura integral para el derecho a la salud | 4,919,725 |
+|   | P027 | Rectoría del Sistema Nacional de Salud | 7,506,311 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 149,533,408 |
+| 15 Desarrollo Agrario, Territorial y Urbano | 368,855,001 |   |   |
+|   | E042 | Servicios de ordenamiento y procuración de justicia agraria | 105,137,962 |
+|   | P034 | Política de ordenamiento agrario, territorial y urbano | 9,862,526 |
+|   | U001 | Regulación y registro de actos jurídicos agrarios | 226,323,994 |
+|   | U003 | Programa de modernización de los registros públicos de la propiedad y catastros | 27,530,519 |
+| 16 Medio Ambiente y Recursos Naturales | 14,280,014,530 |   |   |
+|   | E045 | Servicios de operación y suministro hídrico | 1,154,599,707 |
+|   | Q011 | Investigación científica y tecnológica | 79,906,272 |
+|   | V002 | Protección Forestal | 1,277,923,519 |
+|   | G014 | Inspección, vigilancia y regulación del medio ambiente y recursos naturales | 347,265,403 |
+|   | G015 | Gestión integral y sustentable del agua | 2,189,348,720 |
+|   | G016 | Regulación, gestión y supervisión socioambiental | 122,571,093 |
+|   | K027 | Infraestructura en materia de agua potable, alcantarillado y saneamiento | 5,376,553,503 |
+|   | K026 | Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones | 1,525,601,330 |
+|   | P035 | Articulación de Políticas Hídricas | 16,623,126 |
+|   | S046 | Programa de Conservación para el Desarrollo Sostenible | 75,414,160 |
+|   | U074 | Agua Potable, Drenaje y Tratamiento | 1,015,893,846 |
+|   | U217 | Programa de Apoyo a la Infraestructura Hidroagrícola | 579,883,221 |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 422,257,572 |
+|   | V005 | Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias | 96,173,058 |
+| 18 Energía | 327,476,521 |   |   |
+|   | P037 | Articulación de la política energética | 272,180,310 |
+|   | P039 | Articulación de la política nuclear y eléctrica | 55,296,211 |
+| 20 Bienestar | 194,104,285,762 |   |   |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,312,000,000 |
+|   | S176 | Pensión para el Bienestar de las Personas Adultas Mayores | 145,028,285,762 |
+|   | S287 | Sembrando Vida | 40,664,000,000 |
+|   | S316 | Pensión Mujeres Bienestar | 4,500,000,000 |
+|   | S317 | Salud Casa por Casa | 600,000,000 |
+| 21 Turismo | 5,786,391 |   |   |
+|   | F025 | Fomento y promoción de destinos turísticos | 2,675,258 |
+|   | G020 | Regulación y certificación de estándares de calidad turística | 3,111,133 |
+| 31 Tribunales Agrarios | 11,795 |   |   |
+|   | E052 | Servicios de resolución de asuntos relativos a conflictos y controversias por la posesión y usufructo de la tierra | 11,795 |
+| 33 Aportaciones Federales para Entidades Federativas y Municipios | 95,139,696,685 |   |   |
+|   | I004 | FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal | 68,246,396,117 |
+|   | I005 | FORTAMUN | 15,734,005,828 |
+|   | I006 | FAM Asistencia Social | 11,159,294,739 |
+| 47 Instituto Nacional de los Pueblos Indígenas | 4,124,023,833 |   |   |
+|   | P052 | Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas | 1,107,973,031 |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 1,312,066,432 |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 1,703,984,370 |
+| Instituto Mexicano del Seguro Social |   | 39,215,361,364 |   |
+|   | E070 | Servicios de guardería | 4,957,768,875 |
+|   | E031 | Servicios de atención a la salud | 34,257,592,489 |
+| 54 Mujeres |   | 234,059,053 |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 77,256,288 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 156,802,764 |
+| 55 Agencia de Transformación Digital y Telecomunicaciones |   | 12,371,869 |   |
+|   | P060 | Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones | 12,371,869 |
+| 56 IMSS-Bienestar | 25,434,248,356 |   |   |
+|   | E031 | Servicios de atención a la salud | 25,434,248,356 |
 
-ANEXO 11.1 DISTRIBUCIÓN DE RECURSOS POR ENTIDAD FEDERATIVA (millones de pesos)Entidad       Sanidad e Inocuidad AgroalimentariaAguascalientes       26.8Baja California       36.0Baja California Sur      34.4Campeche       60.4Coahuila       54.8Colima       32.0Chiapas       119.9Chihuahua       81.1Ciudad de México      4.3Durango       62.3Guanajuato       73.1Guerrero       74.9Hidalgo       58.7Jalisco       116.2Estado de México       52.1Michoacán       129.2Morelos       42.0Nayarit       74.3Nuevo León       54.9Oaxaca       58.4Puebla       75.6Querétaro       30.6Quintana Roo       34.4San Luis Potosí       64.8Sinaloa       241.4Sonora       102.5Tabasco       64.2Tamaulipas       91.6Tlaxcala       15.6Veracruz       117.7Yucatán       58.8Zacatecas       50.9TOTAL        2,193.7
+| ANEXO 11.1 DISTRIBUCIÓN DE RECURSOS POR ENTIDAD FEDERATIVA (millones de pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entidad |   |   |   |   |   |   |   | Sanidad e Inocuidad Agroalimentaria |
+| Aguascalientes |   |   |   |   |   |   |   | 26.8 |
+| Baja California |   |   |   |   |   |   |   | 36.0 |
+| Baja California Sur |   |   |   |   |   |   | 34.4 |   |
+| Campeche |   |   |   |   |   |   |   | 60.4 |
+| Coahuila |   |   |   |   |   |   |   | 54.8 |
+| Colima |   |   |   |   |   |   |   | 32.0 |
+| Chiapas |   |   |   |   |   |   |   | 119.9 |
+| Chihuahua |   |   |   |   |   |   |   | 81.1 |
+| Ciudad de México |   |   |   |   |   |   | 4.3 |   |
+| Durango |   |   |   |   |   |   |   | 62.3 |
+| Guanajuato |   |   |   |   |   |   |   | 73.1 |
+| Guerrero |   |   |   |   |   |   |   | 74.9 |
+| Hidalgo |   |   |   |   |   |   |   | 58.7 |
+| Jalisco |   |   |   |   |   |   |   | 116.2 |
+| Estado de México |   |   |   |   |   |   |   | 52.1 |
+| Michoacán |   |   |   |   |   |   |   | 129.2 |
+| Morelos |   |   |   |   |   |   |   | 42.0 |
+| Nayarit |   |   |   |   |   |   |   | 74.3 |
+| Nuevo León |   |   |   |   |   |   |   | 54.9 |
+| Oaxaca |   |   |   |   |   |   |   | 58.4 |
+| Puebla |   |   |   |   |   |   |   | 75.6 |
+| Querétaro |   |   |   |   |   |   |   | 30.6 |
+| Quintana Roo |   |   |   |   |   |   |   | 34.4 |
+| San Luis Potosí |   |   |   |   |   |   |   | 64.8 |
+| Sinaloa |   |   |   |   |   |   |   | 241.4 |
+| Sonora |   |   |   |   |   |   |   | 102.5 |
+| Tabasco |   |   |   |   |   |   |   | 64.2 |
+| Tamaulipas |   |   |   |   |   |   |   | 91.6 |
+| Tlaxcala |   |   |   |   |   |   |   | 15.6 |
+| Veracruz |   |   |   |   |   |   |   | 117.7 |
+| Yucatán |   |   |   |   |   |   |   | 58.8 |
+| Zacatecas |   |   |   |   |   |   |   | 50.9 |
+| TOTAL |   |   |   |   |   |   |   | 2,193.7 |
 
-ANEXO 12. PROGRAMA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal160,843,802,92105 Relaciones Exteriores5,300,000 P014Articulación de la política de Cooperación internacional para el desarrollo5,300,00006 Hacienda y Crédito Público168,358,721 P018Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior168,358,72107 Defensa Nacional93,522,819 Q003Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior93,522,81908 Agricultura y Desarrollo Rural6,845,329,213 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario6,845,329,21309 Infraestructura, Comunicaciones y Transportes204,509,088 Q005Investigación, estudios, proyectos y capacitación en materia de transporte204,509,08810 Economía1,688,404,416 E021Servicios integrales para la protección de los derechos de los consumidores274,005,123 F019Promoción del comercio exterior y atracción de inversión extranjera directa80,000 F020Promoción, regulación e información geológica para el desarrollo de la actividad minera 990,498,924 G010Supervisión, vigilancia y actualización del marco normativo y operativo para las unidades económicas.2,875,233 G011Vigilancia del cumplimiento de la normatividad y fortalecimiento de la certeza jurídica entre proveedores y consumidores7,218,706 K001Infraestructura en materia gubernamental48,147,770 M001Actividades de apoyo administrativo144,733,091 O001Actividades de apoyo a la función pública y buen gobierno9,451,619 P023Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión649,460 Q006Desarrollo tecnológico y prestación de servicios metrológicos para la competitividad210,744,49011 Educación Pública106,495,062,047 E023Servicios de Educación Superior y Posgrado31,085,342,750 Q007Investigación en ciencia, humanidades, tecnología e innovación20,083,868,591 S243Programa de Becas Elisa Acuña46,650,759 U006Subsidios para organismos descentralizados estatales55,279,199,94812 Salud8,989,283,078 Q008Investigación, desarrollo tecnológico y formación en salud8,989,283,07813 Marina14,700,000 Q008Investigación y desarrollo tecnológico, producción y mantenimiento de equipos navales y sus accesorios14,700,00016 Medio Ambiente y Recursos Naturales363,658,767 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde169,262,782 Q011Investigación científica y tecnológica193,868,537 P036Articulación de la Política Ambiental y de Recursos Naturales527,44818 Energía1,795,344,497 Q013Investigación y desarrollo en materia nuclear y eléctrica1,795,344,49721 Turismo17,288,309 P043Articulación de la política de turismo17,288,30938 Ciencia, Humanidades, Tecnología e Innovación32,809,683,937 F027Programas nacionales estratégicos de ciencia, tecnología y vinculación con el sector social, público y privado 691,805,925 Q007Investigación en ciencia, humanidades, tecnología e innovación6,448,964,425 P051Diseño y evaluación de políticas en ciencia, tecnología e innovación1,619,376,492 S190Becas de posgrado y apoyos a la calidad14,879,522,046 S191Sistema Nacional de Investigadoras e Investigadores9,170,015,04948 Cultura11,640,615 Q007Investigación en ciencia, humanidades, tecnología e innovación11,640,615Instituto Mexicano del Seguro Social889,121,494 Q008Investigación, desarrollo tecnológico y formación en salud889,121,49455 Agencia de Transformación Digital y Telecomunicaciones39,997,577 M001Investigación, estudios y proyectos en comunicaciones3,527,828 Q014Investigación científica, desarrollo e innovación36,469,74956 IMSS-Bienestar412,598,342 Q008Investigación, desarrollo tecnológico y formación en salud412,598,342
+| ANEXO 12. PROGRAMA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 160,843,802,921 |   |   |
+| 05 Relaciones Exteriores | 5,300,000 |   |   |
+|   | P014 | Articulación de la política de Cooperación internacional para el desarrollo | 5,300,000 |
+| 06 Hacienda y Crédito Público | 168,358,721 |   |   |
+|   | P018 | Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior | 168,358,721 |
+| 07 Defensa Nacional | 93,522,819 |   |   |
+|   | Q003 | Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior | 93,522,819 |
+| 08 Agricultura y Desarrollo Rural | 6,845,329,213 |   |   |
+|   | Q004 | Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario | 6,845,329,213 |
+| 09 Infraestructura, Comunicaciones y Transportes | 204,509,088 |   |   |
+|   | Q005 | Investigación, estudios, proyectos y capacitación en materia de transporte | 204,509,088 |
+| 10 Economía | 1,688,404,416 |   |   |
+|   | E021 | Servicios integrales para la protección de los derechos de los consumidores | 274,005,123 |
+|   | F019 | Promoción del comercio exterior y atracción de inversión extranjera directa | 80,000 |
+|   | F020 | Promoción, regulación e información geológica para el desarrollo de la actividad minera | 990,498,924 |
+|   | G010 | Supervisión, vigilancia y actualización del marco normativo y operativo para las unidades económicas. | 2,875,233 |
+|   | G011 | Vigilancia del cumplimiento de la normatividad y fortalecimiento de la certeza jurídica entre proveedores y consumidores | 7,218,706 |
+|   | K001 | Infraestructura en materia gubernamental | 48,147,770 |
+|   | M001 | Actividades de apoyo administrativo | 144,733,091 |
+|   | O001 | Actividades de apoyo a la función pública y buen gobierno | 9,451,619 |
+|   | P023 | Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión | 649,460 |
+|   | Q006 | Desarrollo tecnológico y prestación de servicios metrológicos para la competitividad | 210,744,490 |
+| 11 Educación Pública | 106,495,062,047 |   |   |
+|   | E023 | Servicios de Educación Superior y Posgrado | 31,085,342,750 |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 20,083,868,591 |
+|   | S243 | Programa de Becas Elisa Acuña | 46,650,759 |
+|   | U006 | Subsidios para organismos descentralizados estatales | 55,279,199,948 |
+| 12 Salud | 8,989,283,078 |   |   |
+|   | Q008 | Investigación, desarrollo tecnológico y formación en salud | 8,989,283,078 |
+| 13 Marina | 14,700,000 |   |   |
+|   | Q008 | Investigación y desarrollo tecnológico, producción y mantenimiento de equipos navales y sus accesorios | 14,700,000 |
+| 16 Medio Ambiente y Recursos Naturales | 363,658,767 |   |   |
+|   | Q010 | Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde | 169,262,782 |
+|   | Q011 | Investigación científica y tecnológica | 193,868,537 |
+|   | P036 | Articulación de la Política Ambiental y de Recursos Naturales | 527,448 |
+| 18 Energía | 1,795,344,497 |   |   |
+|   | Q013 | Investigación y desarrollo en materia nuclear y eléctrica | 1,795,344,497 |
+| 21 Turismo | 17,288,309 |   |   |
+|   | P043 | Articulación de la política de turismo | 17,288,309 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 32,809,683,937 |   |   |
+|   | F027 | Programas nacionales estratégicos de ciencia, tecnología y vinculación con el sector social, público y privado | 691,805,925 |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 6,448,964,425 |
+|   | P051 | Diseño y evaluación de políticas en ciencia, tecnología e innovación | 1,619,376,492 |
+|   | S190 | Becas de posgrado y apoyos a la calidad | 14,879,522,046 |
+|   | S191 | Sistema Nacional de Investigadoras e Investigadores | 9,170,015,049 |
+| 48 Cultura | 11,640,615 |   |   |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 11,640,615 |
+| Instituto Mexicano del Seguro Social | 889,121,494 |   |   |
+|   | Q008 | Investigación, desarrollo tecnológico y formación en salud | 889,121,494 |
+| 55 Agencia de Transformación Digital y Telecomunicaciones | 39,997,577 |   |   |
+|   | M001 | Investigación, estudios y proyectos en comunicaciones | 3,527,828 |
+|   | Q014 | Investigación científica, desarrollo e innovación | 36,469,749 |
+| 56 IMSS-Bienestar | 412,598,342 |   |   |
+|   | Q008 | Investigación, desarrollo tecnológico y formación en salud | 412,598,342 |
 
-ANEXO 13. EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal599,145,377,64401 Poder Legislativo6,000,000 R001Actividades derivadas del trabajo legislativo6,000,00004 Gobernación41,202,245 P006Articulación de la política en materia de comunicación social del Gobierno de México137,423 P007Planeación demográfica del país3,104,324 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes37,626,064 P061Política para promover la protección de los derechos humanos y prevenir la discriminación334,43305 Relaciones Exteriores2,579,953 E005Atención y servicios integrales de protección y asistencia consular2,579,95306 Hacienda y Crédito Público8,523,575 F001Inclusión financiera para el bienestar4,523,575 M001Actividades de apoyo administrativo4,000,00007 Defensa Nacional845,498,070 A016Programa de igualdad entre mujeres y hombres SDN101,362,785 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28508 Agricultura y Desarrollo Rural17,630,802,183 S052Precio de Garantía y Leche para el Bienestar873,118,874 S053Programa de Abasto Rural1,625,740,883 S290Acopio para el Bienestar3,296,200,934 S292Fertilizantes para el Bienestar5,249,999,992 S293Producción para el Bienestar5,368,319,926 S304Programa de Fomento a la Agricultura, Ganadería, Pesca y Acuicultura433,421,575 S318Comercio Justo784,000,00009 Infraestructura, Comunicaciones y Transportes1,755,316 M001Actividades de apoyo administrativo1,755,31610 Economía100,000 M001Actividades de apoyo administrativo100,00011 Educación Pública182,797,561,648 E022Servicios de Educación Media Superior 4,237,592,842 E023Servicios de Educación Superior y Posgrado14,940,026,456 E030Educación Inicial y Básica Comunitaria4,224,310,581 M001Políticas de igualdad de género en el sector educativo (en 2026 se convierte en M001)1,188,356,754 S072Beca Universal de Educación Básica Rita Cetina103,508,800,000 S243Programa de Becas Elisa Acuña820,171,723 S247Programa para el Desarrollo Profesional Docente19,347,861 S282La Escuela es Nuestra25,488,580,000 S283Jóvenes Escribiendo el Futuro6,325,000,000 S311Beca Universal de Educación Media Superior Benito Juárez21,279,500,000 U270Programa Nacional de Inglés765,875,43112 Salud5,639,703,839 E031Servicios de atención a la salud866,408,538 E032Servicios de atención a la salud mental y prevención de las adicciones30,574,080 E033Servicios de vacunación 101,610,780 P028Política de prevención y control de enfermedades2,370,777,793 P029Política en Salud Materna Sexual y Reproductiva2,270,332,64813 Marina6,860,000 A023Programa para el fortalecimiento de derechos humanos e igualdad de género6,860,00014 Trabajo y Previsión Social14,996,239,410 E040Servicios de impartición y procuración de justicia laboral8,074,832 P031Implementación de la política laboral151,644 P063Articulación de Políticas Integrales de Juventud12,595,235 S280Jóvenes Construyendo el Futuro14,975,417,70015 Desarrollo Agrario, Territorial y Urbano19,968,000,000 S177Programa de Vivienda Social 19,968,000,00016 Medio Ambiente y Recursos Naturales171,877,021 P036Articulación de la Política Ambiental y de Recursos Naturales277,776 S046Programa de Conservación para el Desarrollo Sostenible83,743,236 S219Desarrollo Forestal Sustentable para el Bienestar87,856,00918 Energía2,796,304 M001Actividades de apoyo Administrativo2,796,30420 Bienestar300,210,861,691 E048Servicios a grupos con necesidades especiales3,119,520 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,089,450,000 S176Pensión para el Bienestar de las Personas Adultas Mayores261,776,055,800 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente11,871,295,043 S287Sembrando Vida7,820,000,000 S316Pensión Mujeres Bienestar14,550,000,000 S317Salud Casa por Casa1,100,941,32821 Turismo3,925,872 P043Articulación de la política de turismo3,925,87222 Instituto Nacional Electoral62,554,364 M001Actividades de apoyo administrativo1,804,791 R003Capacitación y educación para el ejercicio democrático de la ciudadanía29,908,085 R008Dirección, soporte jurídico electoral y apoyo logístico23,910,818 R009Otorgamiento de prerrogativas a partidos políticos, fiscalización de sus recursos y administración de los tiempos del estado en radio y televisión3,511,602 R010Vinculación con la sociedad1,161,270 R011Tecnologías de información y comunicaciones 2,257,79831 Tribunales Agrarios17,916 E052Resolución de asuntos relativos a conflictos y controversias por uso y usufructo de la tierra17,91632 Tribunal Federal de Justicia Administrativa8,666,631 E001Impartición de Justicia Fiscal y Administrativa6,828,775 M001Actividades de apoyo administrativo1,837,85635 Comisión Nacional de los Derechos Humanos42,951,075 E013Realizar la promoción y observancia en el monitoreo, seguimiento y evaluación del impacto de la política nacional en materia de igualdad entre mujeres y hombres37,797,951 M002Actividades relacionadas a la Igualdad de Género Institucional.5,153,12436 Seguridad y Protección Ciudadana40,705 P047Articulación de la política en materia de seguridad nacional y pública40,70538 Ciencia, Humanidades, Tecnología e Innovación12,269,969,553 S190Becas de posgrado y apoyos a la calidad6,699,098,579 S191Sistema Nacional de Investigadoras e Investigadores5,570,870,97440 Instituto Nacional de Estadística y Geografía120,149,206 P002Producción y difusión de información estadística y geográfica120,149,20647 Entidades no Sectorizadas1,419,114,05247 Archivo General de la Nación8,222,286 P053Política en materia de gestión documental1,114,979 E057Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México7,107,30847 Comisión Ejecutiva de Atención a Víctimas7,778,199 E060Servicios de atención a víctimas7,778,19947 Instituto Nacional de los Pueblos Indígenas1,403,113,567 S178Programa de Apoyo a la Educación Indígena1,312,066,432 S249Programa para el Bienestar Integral de los Pueblos Indígenas91,047,13548 Cultura1,879,899 E062Servicios de desarrollo cultural545,519 S303Programa Nacional de Becas Artísticas y Culturales1,334,38049 Fiscalía General de la República80,932,497 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos79,532,497 E010Realizar investigación académica en el marco de las ciencias penales200,000 E011Investigar, perseguir y prevenir delitos del orden electoral1,200,000Instituto Mexicano del Seguro Social32,871,593,284 E031Servicios de atención a la salud10,055,847,270 E070Servicios de guardería17,062,045,828 E072Servicios de prevención y control de enfermedades 5,753,700,186Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado3,599,268,539 E031Servicios de Atención a la Salud1,501,110 E072Servicios de prevención y control de enfermedades7,493 E073Servicios de atención a personas con discapacidad5,016 E074Servicios de estancias de bienestar y desarrollo infantil3,597,754,920Petróleos Mexicanos13,700,000 M001Actividades de apoyo Administrativo13,700,000Comisión Federal de Electricidad6,887,753 E077Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica.1,385,253 E078Servicios de operación y mantenimiento de la Red Nacional de Transmisión1,421,000 E079Servicios de operación y mantenimiento de la infraestructura del proceso de distribución de energía eléctrica 1,900,000 E080Servicios de comercialización de energía eléctrica y productos asociados650,000 F030Coordinación, operación y recarga de la Coordinación Corporativa Nuclear265,000 F032Operación de infraestructura aplicable a telecomunicaciones 151,000 M001Actividades de Apoyo Administrativo 979,000 R037Administración de los contratos de producción independiente de energía CFE Generación V136,50054 Mujeres2,134,622,797 M001Actividades de apoyo administrativo321,203,366 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres171,680,641 S319Programa de Atención Integral para el Bienestar de las Mujeres784,956,605 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas856,782,18555 Agencia de Transformación Digital y Telecomunicaciones2,093,882 M001Actividades de apoyo administrativo796,799 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones1,297,08356 IMSS-Bienestar4,176,648,365 E031Servicios de atención a la salud4,069,479,736 U200Fortalecimiento a la atención médica107,168,629
+| ANEXO 13. EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 599,145,377,644 |   |   |
+| 01 Poder Legislativo | 6,000,000 |   |   |
+|   | R001 | Actividades derivadas del trabajo legislativo | 6,000,000 |
+| 04 Gobernación | 41,202,245 |   |   |
+|   | P006 | Articulación de la política en materia de comunicación social del Gobierno de México | 137,423 |
+|   | P007 | Planeación demográfica del país | 3,104,324 |
+|   | P011 | Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes | 37,626,064 |
+|   | P061 | Política para promover la protección de los derechos humanos y prevenir la discriminación | 334,433 |
+| 05 Relaciones Exteriores | 2,579,953 |   |   |
+|   | E005 | Atención y servicios integrales de protección y asistencia consular | 2,579,953 |
+| 06 Hacienda y Crédito Público | 8,523,575 |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 4,523,575 |
+|   | M001 | Actividades de apoyo administrativo | 4,000,000 |
+| 07 Defensa Nacional | 845,498,070 |   |   |
+|   | A016 | Programa de igualdad entre mujeres y hombres SDN | 101,362,785 |
+|   | E015 | Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya | 744,135,285 |
+| 08 Agricultura y Desarrollo Rural | 17,630,802,183 |   |   |
+|   | S052 | Precio de Garantía y Leche para el Bienestar | 873,118,874 |
+|   | S053 | Programa de Abasto Rural | 1,625,740,883 |
+|   | S290 | Acopio para el Bienestar | 3,296,200,934 |
+|   | S292 | Fertilizantes para el Bienestar | 5,249,999,992 |
+|   | S293 | Producción para el Bienestar | 5,368,319,926 |
+|   | S304 | Programa de Fomento a la Agricultura, Ganadería, Pesca y Acuicultura | 433,421,575 |
+|   | S318 | Comercio Justo | 784,000,000 |
+| 09 Infraestructura, Comunicaciones y Transportes | 1,755,316 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 1,755,316 |
+| 10 Economía | 100,000 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 100,000 |
+| 11 Educación Pública | 182,797,561,648 |   |   |
+|   | E022 | Servicios de Educación Media Superior | 4,237,592,842 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 14,940,026,456 |
+|   | E030 | Educación Inicial y Básica Comunitaria | 4,224,310,581 |
+|   | M001 | Políticas de igualdad de género en el sector educativo (en 2026 se convierte en M001) | 1,188,356,754 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 103,508,800,000 |
+|   | S243 | Programa de Becas Elisa Acuña | 820,171,723 |
+|   | S247 | Programa para el Desarrollo Profesional Docente | 19,347,861 |
+|   | S282 | La Escuela es Nuestra | 25,488,580,000 |
+|   | S283 | Jóvenes Escribiendo el Futuro | 6,325,000,000 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 21,279,500,000 |
+|   | U270 | Programa Nacional de Inglés | 765,875,431 |
+| 12 Salud | 5,639,703,839 |   |   |
+|   | E031 | Servicios de atención a la salud | 866,408,538 |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 30,574,080 |
+|   | E033 | Servicios de vacunación | 101,610,780 |
+|   | P028 | Política de prevención y control de enfermedades | 2,370,777,793 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 2,270,332,648 |
+| 13 Marina | 6,860,000 |   |   |
+|   | A023 | Programa para el fortalecimiento de derechos humanos e igualdad de género | 6,860,000 |
+| 14 Trabajo y Previsión Social | 14,996,239,410 |   |   |
+|   | E040 | Servicios de impartición y procuración de justicia laboral | 8,074,832 |
+|   | P031 | Implementación de la política laboral | 151,644 |
+|   | P063 | Articulación de Políticas Integrales de Juventud | 12,595,235 |
+|   | S280 | Jóvenes Construyendo el Futuro | 14,975,417,700 |
+| 15 Desarrollo Agrario, Territorial y Urbano | 19,968,000,000 |   |   |
+|   | S177 | Programa de Vivienda Social | 19,968,000,000 |
+| 16 Medio Ambiente y Recursos Naturales | 171,877,021 |   |   |
+|   | P036 | Articulación de la Política Ambiental y de Recursos Naturales | 277,776 |
+|   | S046 | Programa de Conservación para el Desarrollo Sostenible | 83,743,236 |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 87,856,009 |
+| 18 Energía | 2,796,304 |   |   |
+|   | M001 | Actividades de apoyo Administrativo | 2,796,304 |
+| 20 Bienestar | 300,210,861,691 |   |   |
+|   | E048 | Servicios a grupos con necesidades especiales | 3,119,520 |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,089,450,000 |
+|   | S176 | Pensión para el Bienestar de las Personas Adultas Mayores | 261,776,055,800 |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 11,871,295,043 |
+|   | S287 | Sembrando Vida | 7,820,000,000 |
+|   | S316 | Pensión Mujeres Bienestar | 14,550,000,000 |
+|   | S317 | Salud Casa por Casa | 1,100,941,328 |
+| 21 Turismo | 3,925,872 |   |   |
+|   | P043 | Articulación de la política de turismo | 3,925,872 |
+| 22 Instituto Nacional Electoral | 62,554,364 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 1,804,791 |
+|   | R003 | Capacitación y educación para el ejercicio democrático de la ciudadanía | 29,908,085 |
+|   | R008 | Dirección, soporte jurídico electoral y apoyo logístico | 23,910,818 |
+|   | R009 | Otorgamiento de prerrogativas a partidos políticos, fiscalización de sus recursos y administración de los tiempos del estado en radio y televisión | 3,511,602 |
+|   | R010 | Vinculación con la sociedad | 1,161,270 |
+|   | R011 | Tecnologías de información y comunicaciones | 2,257,798 |
+| 31 Tribunales Agrarios | 17,916 |   |   |
+|   | E052 | Resolución de asuntos relativos a conflictos y controversias por uso y usufructo de la tierra | 17,916 |
+| 32 Tribunal Federal de Justicia Administrativa | 8,666,631 |   |   |
+|   | E001 | Impartición de Justicia Fiscal y Administrativa | 6,828,775 |
+|   | M001 | Actividades de apoyo administrativo | 1,837,856 |
+| 35 Comisión Nacional de los Derechos Humanos | 42,951,075 |   |   |
+|   | E013 | Realizar la promoción y observancia en el monitoreo, seguimiento y evaluación del impacto de la política nacional en materia de igualdad entre mujeres y hombres | 37,797,951 |
+|   | M002 | Actividades relacionadas a la Igualdad de Género Institucional. | 5,153,124 |
+| 36 Seguridad y Protección Ciudadana | 40,705 |   |   |
+|   | P047 | Articulación de la política en materia de seguridad nacional y pública | 40,705 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 12,269,969,553 |   |   |
+|   | S190 | Becas de posgrado y apoyos a la calidad | 6,699,098,579 |
+|   | S191 | Sistema Nacional de Investigadoras e Investigadores | 5,570,870,974 |
+| 40 Instituto Nacional de Estadística y Geografía | 120,149,206 |   |   |
+|   | P002 | Producción y difusión de información estadística y geográfica | 120,149,206 |
+| 47 Entidades no Sectorizadas | 1,419,114,052 |   |   |
+| 47 Archivo General de la Nación | 8,222,286 |   |   |
+|   | P053 | Política en materia de gestión documental | 1,114,979 |
+|   | E057 | Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México | 7,107,308 |
+| 47 Comisión Ejecutiva de Atención a Víctimas | 7,778,199 |   |   |
+|   | E060 | Servicios de atención a víctimas | 7,778,199 |
+| 47 Instituto Nacional de los Pueblos Indígenas | 1,403,113,567 |   |   |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 1,312,066,432 |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 91,047,135 |
+| 48 Cultura | 1,879,899 |   |   |
+|   | E062 | Servicios de desarrollo cultural | 545,519 |
+|   | S303 | Programa Nacional de Becas Artísticas y Culturales | 1,334,380 |
+| 49 Fiscalía General de la República | 80,932,497 |   |   |
+|   | E009 | Investigar y perseguir los delitos cometidos en materia de derechos humanos | 79,532,497 |
+|   | E010 | Realizar investigación académica en el marco de las ciencias penales | 200,000 |
+|   | E011 | Investigar, perseguir y prevenir delitos del orden electoral | 1,200,000 |
+| Instituto Mexicano del Seguro Social | 32,871,593,284 |   |   |
+|   | E031 | Servicios de atención a la salud | 10,055,847,270 |
+|   | E070 | Servicios de guardería | 17,062,045,828 |
+|   | E072 | Servicios de prevención y control de enfermedades | 5,753,700,186 |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 3,599,268,539 |   |   |
+|   | E031 | Servicios de Atención a la Salud | 1,501,110 |
+|   | E072 | Servicios de prevención y control de enfermedades | 7,493 |
+|   | E073 | Servicios de atención a personas con discapacidad | 5,016 |
+|   | E074 | Servicios de estancias de bienestar y desarrollo infantil | 3,597,754,920 |
+| Petróleos Mexicanos | 13,700,000 |   |   |
+|   | M001 | Actividades de apoyo Administrativo | 13,700,000 |
+| Comisión Federal de Electricidad | 6,887,753 |   |   |
+|   | E077 | Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica. | 1,385,253 |
+|   | E078 | Servicios de operación y mantenimiento de la Red Nacional de Transmisión | 1,421,000 |
+|   | E079 | Servicios de operación y mantenimiento de la infraestructura del proceso de distribución de energía eléctrica | 1,900,000 |
+|   | E080 | Servicios de comercialización de energía eléctrica y productos asociados | 650,000 |
+|   | F030 | Coordinación, operación y recarga de la Coordinación Corporativa Nuclear | 265,000 |
+|   | F032 | Operación de infraestructura aplicable a telecomunicaciones | 151,000 |
+|   | M001 | Actividades de Apoyo Administrativo | 979,000 |
+|   | R037 | Administración de los contratos de producción independiente de energía CFE Generación V | 136,500 |
+| 54 Mujeres | 2,134,622,797 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 321,203,366 |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 171,680,641 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 784,956,605 |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 856,782,185 |
+| 55 Agencia de Transformación Digital y Telecomunicaciones | 2,093,882 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 796,799 |
+|   | P060 | Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones | 1,297,083 |
+| 56 IMSS-Bienestar | 4,176,648,365 |   |   |
+|   | E031 | Servicios de atención a la salud | 4,069,479,736 |
+|   | U200 | Fortalecimiento a la atención médica | 107,168,629 |
 
-ANEXO 14. RECURSOS PARA LA ATENCIÓN A GRUPOS VULNERABLES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal687,764,961,25504 Gobernación174,891,359 E001Servicios de atención a refugiados en el país10,862,853 E002Servicios migratorios10,312,270 E004Servicios de registro e identificación de población12,264,291 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes7,678,789 P061Política para promover la protección de los derechos humanos y prevenir la discriminación133,773,15605 Relaciones Exteriores70,868 E005Atención y servicios integrales de protección y asistencia consular70,86806 Hacienda y Crédito Público185,364,562 F001Inclusión financiera para el bienestar129,244,988 P018Diseño y conducción de la política de gasto público56,119,57407 Defensa Nacional62,655,795 A013Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E62,655,79511 Educación Pública63,662,200,600 E029Servicios de educación para Adultos (INEA)324,996,524 S072Beca Universal de Educación Básica Rita Cetina25,877,200,000 S282La Escuela es Nuestra24,700,000,000 S283Jóvenes Escribiendo el Futuro2,530,000,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez8,511,800,000 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)803,741,731 U312Expansión de la Educación Inicial883,384,34712 Salud3,850,268,905 E031Servicios de atención a la salud223,769,895 E032Servicios de atención a la salud mental y prevención de las adicciones152,704,871 E033Servicios de vacunación 474,816,730 E034Servicios de protección y asistencia social integral1,146,746,948 P027Rectoría del Sistema Nacional de Salud429,180,118 P028Política de prevención y control de enfermedades209,690,234 P029Política en Salud Materna Sexual y Reproductiva1,142,483,055 Q008Investigación, desarrollo tecnológico y formación en salud26,471,759 S039Programa de Atención a Personas con Discapacidad44,405,29614 Trabajo y Previsión Social15,975,271,880 P031Implementación de la política laboral5,281,118 P063Articulación de Políticas Integrales de Juventud12,941,595 S043Programa de Apoyo al Empleo (PAE)32,375,006 S280Jóvenes Construyendo el Futuro15,924,674,16115 Desarrollo Agrario, Territorial y Urbano9,926,378,895 E042Servicios de ordenamiento y procuración de justicia agraria76,378,895 S177Programa de Vivienda Social 9,600,000,000 S273Programa Territorial para el Bienestar250,000,00016 Medio Ambiente y Recursos Naturales270,266,549 S046Programa de Conservación para el Desarrollo Sostenible16,758,703 S219Desarrollo Forestal Sustentable para el Bienestar97,617,788 V002Protección Forestal134,518,266 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias21,371,79220 Bienestar557,048,339,770 E048Servicios a grupos con necesidades especiales31,195,196 P042Política de desarrollo integral de las personas con discapacidad33,272,187 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,096,699,350 S176Pensión para el Bienestar de las Personas Adultas Mayores471,802,883,244 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente28,035,302,128 S287Sembrando Vida39,100,000,000 S316Pensión Mujeres Bienestar14,700,000,000 S317Salud Casa por Casa200,000,000 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural48,987,66638 Ciencia, Humanidades, Tecnología e Innovación1,000,000 S190Becas de posgrado y apoyos a la calidad1,000,00047 Entidades no Sectorizadas4,859,624,15547 Instituto Nacional de los Pueblos Indígenas4,859,624,155 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena2,047,666,754 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,37048 Cultura101,243,983 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos14,311,982 P056Política de educación y cultura indígena66,468,297 S268Programas de apoyos a la cultura20,463,704Instituto Mexicano del Seguro Social17,062,045,828 E070Servicios de guardería17,062,045,828Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado2,891,379,406 E031Servicios de atención a la salud1,625,926,051 E072Servicios de prevención y control de enfermedades749,349,008 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil359,775,492 K006Infraestructura integral para el derecho a la salud155,989,94054 Mujeres534,572,415 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres17,168,064 S319Programa de Atención Integral para el Bienestar de las Mujeres431,726,133 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas85,678,21956 IMSS-Bienestar11,159,386,284 E031Servicios de atención a la salud11,115,952,615 U200Fortalecimiento a la atención médica43,433,669
+| ANEXO 14. RECURSOS PARA LA ATENCIÓN A GRUPOS VULNERABLES (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 687,764,961,255 |   |   |
+| 04 Gobernación | 174,891,359 |   |   |
+|   | E001 | Servicios de atención a refugiados en el país | 10,862,853 |
+|   | E002 | Servicios migratorios | 10,312,270 |
+|   | E004 | Servicios de registro e identificación de población | 12,264,291 |
+|   | P011 | Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes | 7,678,789 |
+|   | P061 | Política para promover la protección de los derechos humanos y prevenir la discriminación | 133,773,156 |
+| 05 Relaciones Exteriores | 70,868 |   |   |
+|   | E005 | Atención y servicios integrales de protección y asistencia consular | 70,868 |
+| 06 Hacienda y Crédito Público | 185,364,562 |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 129,244,988 |
+|   | P018 | Diseño y conducción de la política de gasto público | 56,119,574 |
+| 07 Defensa Nacional | 62,655,795 |   |   |
+|   | A013 | Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E | 62,655,795 |
+| 11 Educación Pública | 63,662,200,600 |   |   |
+|   | E029 | Servicios de educación para Adultos (INEA) | 324,996,524 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 25,877,200,000 |
+|   | S282 | La Escuela es Nuestra | 24,700,000,000 |
+|   | S283 | Jóvenes Escribiendo el Futuro | 2,530,000,000 |
+|   | S298 | Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS) | 31,077,999 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 8,511,800,000 |
+|   | U295 | Fortalecimiento de los Servicios de Educación Especial (PFSEE) | 803,741,731 |
+|   | U312 | Expansión de la Educación Inicial | 883,384,347 |
+| 12 Salud | 3,850,268,905 |   |   |
+|   | E031 | Servicios de atención a la salud | 223,769,895 |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 152,704,871 |
+|   | E033 | Servicios de vacunación | 474,816,730 |
+|   | E034 | Servicios de protección y asistencia social integral | 1,146,746,948 |
+|   | P027 | Rectoría del Sistema Nacional de Salud | 429,180,118 |
+|   | P028 | Política de prevención y control de enfermedades | 209,690,234 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 1,142,483,055 |
+|   | Q008 | Investigación, desarrollo tecnológico y formación en salud | 26,471,759 |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 44,405,296 |
+| 14 Trabajo y Previsión Social | 15,975,271,880 |   |   |
+|   | P031 | Implementación de la política laboral | 5,281,118 |
+|   | P063 | Articulación de Políticas Integrales de Juventud | 12,941,595 |
+|   | S043 | Programa de Apoyo al Empleo (PAE) | 32,375,006 |
+|   | S280 | Jóvenes Construyendo el Futuro | 15,924,674,161 |
+| 15 Desarrollo Agrario, Territorial y Urbano | 9,926,378,895 |   |   |
+|   | E042 | Servicios de ordenamiento y procuración de justicia agraria | 76,378,895 |
+|   | S177 | Programa de Vivienda Social | 9,600,000,000 |
+|   | S273 | Programa Territorial para el Bienestar | 250,000,000 |
+| 16 Medio Ambiente y Recursos Naturales | 270,266,549 |   |   |
+|   | S046 | Programa de Conservación para el Desarrollo Sostenible | 16,758,703 |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 97,617,788 |
+|   | V002 | Protección Forestal | 134,518,266 |
+|   | V005 | Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias | 21,371,792 |
+| 20 Bienestar | 557,048,339,770 |   |   |
+|   | E048 | Servicios a grupos con necesidades especiales | 31,195,196 |
+|   | P042 | Política de desarrollo integral de las personas con discapacidad | 33,272,187 |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,096,699,350 |
+|   | S176 | Pensión para el Bienestar de las Personas Adultas Mayores | 471,802,883,244 |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 28,035,302,128 |
+|   | S287 | Sembrando Vida | 39,100,000,000 |
+|   | S316 | Pensión Mujeres Bienestar | 14,700,000,000 |
+|   | S317 | Salud Casa por Casa | 200,000,000 |
+|   | U011 | Programa para el Bienestar de las Personas en Emergencia Social o Natural | 48,987,666 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 1,000,000 |   |   |
+|   | S190 | Becas de posgrado y apoyos a la calidad | 1,000,000 |
+| 47 Entidades no Sectorizadas | 4,859,624,155 |   |   |
+| 47 Instituto Nacional de los Pueblos Indígenas | 4,859,624,155 |   |   |
+|   | P052 | Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas | 1,107,973,031 |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 2,047,666,754 |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 1,703,984,370 |
+| 48 Cultura | 101,243,983 |   |   |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 14,311,982 |
+|   | P056 | Política de educación y cultura indígena | 66,468,297 |
+|   | S268 | Programas de apoyos a la cultura | 20,463,704 |
+| Instituto Mexicano del Seguro Social | 17,062,045,828 |   |   |
+|   | E070 | Servicios de guardería | 17,062,045,828 |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 2,891,379,406 |   |   |
+|   | E031 | Servicios de atención a la salud | 1,625,926,051 |
+|   | E072 | Servicios de prevención y control de enfermedades | 749,349,008 |
+|   | E073 | Servicios de atención a personas con discapacidad | 338,915 |
+|   | E074 | Servicios de estancias de bienestar y desarrollo infantil | 359,775,492 |
+|   | K006 | Infraestructura integral para el derecho a la salud | 155,989,940 |
+| 54 Mujeres | 534,572,415 |   |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 17,168,064 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 431,726,133 |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 85,678,219 |
+| 56 IMSS-Bienestar | 11,159,386,284 |   |   |
+|   | E031 | Servicios de atención a la salud | 11,115,952,615 |
+|   | U200 | Fortalecimiento a la atención médica | 43,433,669 |
 
-ANEXO 15. ESTRATEGIA NACIONAL DE TRANSICIÓN ENERGÉTICA (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal17,868,387,47407 Defensa Nacional744,135,285 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28509 Infraestructura, Comunicaciones y Transportes8,778,152,000 K019Infraestructura ferroviaria para transporte de carga y pasajeros8,778,152,00013 Marina86,089 E038Servicios de operación de la infraestructura ferroviaria86,08916 Medio Ambiente y Recursos Naturales411,268,667 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde158,843 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales2,484,102 G016Regulación, gestión y supervisión socioambiental408,570,311 P035Articulación de Políticas Hídricas55,41118 Energía1,807,781,155 Q013Investigación y desarrollo en materia nuclear y eléctrica667,847 G019Regulación y supervisión de actividades nucleares, radiológicas y de eficiencia energética 97,253 P037Articulación de la política energética74,749,371 P039Articulación de la política nuclear y eléctrica82,132,109 P038Articulación de la política de hidrocarburos1,363,493,169 P040Planeacion y desarrollo de la Cadena de Valor de LitioMx4,291,800 Q013Investigación y desarrollo en materia nuclear y eléctrica282,349,605Petróleos Mexicanos1,318,488,080 K025Infraestructura económica de hidrocarburos1,318,488,080Comisión Federal de Electricidad4,808,476,198 K024Infraestructura económica de electricidad4,808,476,198
+| ANEXO 15. ESTRATEGIA NACIONAL DE TRANSICIÓN ENERGÉTICA (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 17,868,387,474 |   |   |
+| 07 Defensa Nacional | 744,135,285 |   |   |
+|   | E015 | Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya | 744,135,285 |
+| 09 Infraestructura, Comunicaciones y Transportes | 8,778,152,000 |   |   |
+|   | K019 | Infraestructura ferroviaria para transporte de carga y pasajeros | 8,778,152,000 |
+| 13 Marina | 86,089 |   |   |
+|   | E038 | Servicios de operación de la infraestructura ferroviaria | 86,089 |
+| 16 Medio Ambiente y Recursos Naturales | 411,268,667 |   |   |
+|   | Q010 | Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde | 158,843 |
+|   | G014 | Inspección, vigilancia y regulación del medio ambiente y recursos naturales | 2,484,102 |
+|   | G016 | Regulación, gestión y supervisión socioambiental | 408,570,311 |
+|   | P035 | Articulación de Políticas Hídricas | 55,411 |
+| 18 Energía | 1,807,781,155 |   |   |
+|   | Q013 | Investigación y desarrollo en materia nuclear y eléctrica | 667,847 |
+|   | G019 | Regulación y supervisión de actividades nucleares, radiológicas y de eficiencia energética | 97,253 |
+|   | P037 | Articulación de la política energética | 74,749,371 |
+|   | P039 | Articulación de la política nuclear y eléctrica | 82,132,109 |
+|   | P038 | Articulación de la política de hidrocarburos | 1,363,493,169 |
+|   | P040 | Planeacion y desarrollo de la Cadena de Valor de LitioMx | 4,291,800 |
+|   | Q013 | Investigación y desarrollo en materia nuclear y eléctrica | 282,349,605 |
+| Petróleos Mexicanos | 1,318,488,080 |   |   |
+|   | K025 | Infraestructura económica de hidrocarburos | 1,318,488,080 |
+| Comisión Federal de Electricidad | 4,808,476,198 |   |   |
+|   | K024 | Infraestructura económica de electricidad | 4,808,476,198 |
 
-ANEXO 16. RECURSOS PARA LA ADAPTACIÓN Y MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal212,569,745,53005 Relaciones Exteriores4,714,013 P014Articulación de la política de Cooperación internacional para el desarrollo4,714,01306 Hacienda y Crédito Público122,011,692 P018Diseño y conducción de la política de gasto público122,011,69207 Defensa Nacional88,839,777,115 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,285 E017Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares3,422,210,314 K003Infraestructura en materia de seguridad nacional40,000,000,000 A001Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional44,673,431,51608 Agricultura y Desarrollo Rural888,447,362 P021Aplicación de la Política Agropecuaria37,471,400 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario13,626,500 S263Sanidad e Inocuidad Agroalimentaria116,750,689 S293Producción para el Bienestar539,999,993 S304Pesca y Acuacultura Sustentables180,598,77909 Infraestructura, Comunicaciones y Transportes46,003,185,042 Q005Investigación, estudios, proyectos y capacitación en materia de transporte3,056,939 P022Articulación de la política de comunicaciones y transportes77,405 K019Infraestructura ferroviaria para transporte de carga y pasajeros46,000,000,000 G006Supervisión, inspección y verificación del transporte terrestre y aéreo50,69911 Educación Pública2,201,341,059 E022Servicios de Educación Media Superior60,054,451 E023Servicios de Educación Superior y Posgrado1,038,993,272 Q007Investigación en ciencia, humanidades, tecnología e innovación1,080,049,198 U006Subsidios para organismos descentralizados estatales22,244,13812 Salud1,501,262 P027Rectoría del Sistema Nacional de Salud1,501,26213 Marina13,005,275 A018Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales13,005,27516 Medio Ambiente y Recursos Naturales7,887,365,409 S219Desarrollo Forestal Sustentable para el Bienestar976,177,872 P036Articulación de la Política Ambiental y de Recursos Naturales4,629,571 V002Protección Forestal1,345,182,652 V003Conservación y Manejo de Áreas Naturales Protegidas97,343,840 S046Programa de Conservación para el Desarrollo Sostenible167,587,023 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias128,230,745 P035Articulación de Políticas Hídricas8,311,564 G016Regulación, gestión y supervisión socioambiental61,285,548 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde23,826,236 Q011Investigación científica y tecnológica26,635,425 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento1,792,184,502 U217Programa de Apoyo a la Infraestructura Hidroagrícola289,941,612 U074Agua Potable, Drenaje y Tratamiento338,631,283 E045Servicios de operación y suministro hídrico577,299,855 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales955,423,320 G015Gestión integral y sustentable del agua1,094,674,36118 Energía27,215,871,596 P039Articulación de la política nuclear y eléctrica18,432,070 Q013Investigación y desarrollo en materia nuclear y eléctrica555,261,185 P037Articulación de la política energética272,180,310 P038Articulación de la política de hidrocarburos26,369,998,03120 Bienestar39,100,000,000 S287Sembrando Vida39,100,000,00021 Turismo499,775 F025Fomento y promoción de destinos turísticos499,77538 Ciencia, Humanidades, Tecnología e Innovación163,218,420 S190Becas de posgrado y apoyos a la calidad163,218,42047 Instituto Nacional de los Pueblos Indígenas33,143,784 S249Programa para el Bienestar Integral de los Pueblos Indígenas33,143,78454 Mujeres95,663,725 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres17,168,064 S319Programa de Atención Integral para el Bienestar de las Mujeres78,495,661
+| ANEXO 16. RECURSOS PARA LA ADAPTACIÓN Y MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 212,569,745,530 |   |   |
+| 05 Relaciones Exteriores | 4,714,013 |   |   |
+|   | P014 | Articulación de la política de Cooperación internacional para el desarrollo | 4,714,013 |
+| 06 Hacienda y Crédito Público | 122,011,692 |   |   |
+|   | P018 | Diseño y conducción de la política de gasto público | 122,011,692 |
+| 07 Defensa Nacional | 88,839,777,115 |   |   |
+|   | E015 | Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya | 744,135,285 |
+|   | E017 | Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares | 3,422,210,314 |
+|   | K003 | Infraestructura en materia de seguridad nacional | 40,000,000,000 |
+|   | A001 | Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional | 44,673,431,516 |
+| 08 Agricultura y Desarrollo Rural | 888,447,362 |   |   |
+|   | P021 | Aplicación de la Política Agropecuaria | 37,471,400 |
+|   | Q004 | Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario | 13,626,500 |
+|   | S263 | Sanidad e Inocuidad Agroalimentaria | 116,750,689 |
+|   | S293 | Producción para el Bienestar | 539,999,993 |
+|   | S304 | Pesca y Acuacultura Sustentables | 180,598,779 |
+| 09 Infraestructura, Comunicaciones y Transportes | 46,003,185,042 |   |   |
+|   | Q005 | Investigación, estudios, proyectos y capacitación en materia de transporte | 3,056,939 |
+|   | P022 | Articulación de la política de comunicaciones y transportes | 77,405 |
+|   | K019 | Infraestructura ferroviaria para transporte de carga y pasajeros | 46,000,000,000 |
+|   | G006 | Supervisión, inspección y verificación del transporte terrestre y aéreo | 50,699 |
+| 11 Educación Pública | 2,201,341,059 |   |   |
+|   | E022 | Servicios de Educación Media Superior | 60,054,451 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 1,038,993,272 |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 1,080,049,198 |
+|   | U006 | Subsidios para organismos descentralizados estatales | 22,244,138 |
+| 12 Salud | 1,501,262 |   |   |
+|   | P027 | Rectoría del Sistema Nacional de Salud | 1,501,262 |
+| 13 Marina | 13,005,275 |   |   |
+|   | A018 | Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales | 13,005,275 |
+| 16 Medio Ambiente y Recursos Naturales | 7,887,365,409 |   |   |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 976,177,872 |
+|   | P036 | Articulación de la Política Ambiental y de Recursos Naturales | 4,629,571 |
+|   | V002 | Protección Forestal | 1,345,182,652 |
+|   | V003 | Conservación y Manejo de Áreas Naturales Protegidas | 97,343,840 |
+|   | S046 | Programa de Conservación para el Desarrollo Sostenible | 167,587,023 |
+|   | V005 | Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias | 128,230,745 |
+|   | P035 | Articulación de Políticas Hídricas | 8,311,564 |
+|   | G016 | Regulación, gestión y supervisión socioambiental | 61,285,548 |
+|   | Q010 | Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde | 23,826,236 |
+|   | Q011 | Investigación científica y tecnológica | 26,635,425 |
+|   | K027 | Infraestructura en materia de agua potable, alcantarillado y saneamiento | 1,792,184,502 |
+|   | U217 | Programa de Apoyo a la Infraestructura Hidroagrícola | 289,941,612 |
+|   | U074 | Agua Potable, Drenaje y Tratamiento | 338,631,283 |
+|   | E045 | Servicios de operación y suministro hídrico | 577,299,855 |
+|   | G014 | Inspección, vigilancia y regulación del medio ambiente y recursos naturales | 955,423,320 |
+|   | G015 | Gestión integral y sustentable del agua | 1,094,674,361 |
+| 18 Energía | 27,215,871,596 |   |   |
+|   | P039 | Articulación de la política nuclear y eléctrica | 18,432,070 |
+|   | Q013 | Investigación y desarrollo en materia nuclear y eléctrica | 555,261,185 |
+|   | P037 | Articulación de la política energética | 272,180,310 |
+|   | P038 | Articulación de la política de hidrocarburos | 26,369,998,031 |
+| 20 Bienestar | 39,100,000,000 |   |   |
+|   | S287 | Sembrando Vida | 39,100,000,000 |
+| 21 Turismo | 499,775 |   |   |
+|   | F025 | Fomento y promoción de destinos turísticos | 499,775 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 163,218,420 |   |   |
+|   | S190 | Becas de posgrado y apoyos a la calidad | 163,218,420 |
+| 47 Instituto Nacional de los Pueblos Indígenas | 33,143,784 |   |   |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 33,143,784 |
+| 54 Mujeres | 95,663,725 |   |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 17,168,064 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 78,495,661 |
 
-ANEXO 17. EROGACIONES PARA EL DESARROLLO DE LOS JÓVENES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal735,177,831,84604 Gobernación130,264,952 E001Servicios de atención a refugiados en el país6,517,712 E002Servicios migratorios123,747,24006 Hacienda y Crédito Público77,546,993 F001Inclusión financiera para el bienestar77,546,99307 Defensa Nacional45,451,107,627 A001Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional44,673,431,516 A013Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E62,655,795 A017Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo715,020,31608 Agricultura y Desarrollo Rural4,896,104,837 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario2,888,911,730 S053Programa de Abasto Rural144,733,538 S290Acopio para el Bienestar775,838,830 S292Fertilizantes para el Bienestar525,000,003 S293Producción para el Bienestar561,620,73711 Educación Pública394,143,579,181 B008Producción y distribución de libros y materiales educativos1,057,614,644 E022Servicios de Educación Media Superior51,359,389,544 E023Servicios de Educación Superior y Posgrado67,780,304,112 E024Servicios de desarrollo Cultural4,826,113,300 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos219,328,440 E026Servicios de producción y distribución de libros y materiales culturales9,936,599 E027Servicios de atención al deporte40,331,188 E028Servicios de normalización y certificación en competencias laborales2,082,249,588 E029Servicios de educación para Adultos (INEA)284,371,958 E030Servicios de educación Básica Comunitaria687,609,443 E084Servicios de mantenimiento e infraestructura física educativa110,119,923 Q007Investigación en ciencia, humanidades, tecnología e innovación8,552,208,997 S072Beca Universal de Educación Básica Rita Cetina75,043,880,000 S243Programa de Becas Elisa Acuña1,739,209,727 S247Programa para el Desarrollo Profesional Docente209,929,723 S269Programa de Cultura Física y Deporte1,527,570,187 S282La Escuela es Nuestra14,840,265,062 S283Jóvenes Escribiendo el Futuro10,752,500,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez41,282,230,000 U006Subsidios para organismos descentralizados estatales108,736,605,942 U079Expansión de la Educación Media Superior y Superior858,477,837 U080Apoyos a centros y organizaciones de educación599,028,622 U270Programa Nacional de Inglés447,161,849 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)189,600,613 U300La Normal es Nuestra822,379,127 U312Expansión de la Educación Inicial54,084,75612 Salud1,356,858,150 E032Servicios de atención a la salud mental y prevención de las adicciones921,231,225 E034Servicios de protección y asistencia social integral253,522,516 P029Política en Salud Materna Sexual y Reproductiva179,440,090 S039Programa de Atención a Personas con Discapacidad2,664,31813 Marina617,138,375 A020Sistema Educativo Naval609,829,147 A022Administración y Operación de Capitanías de Puerto y Asuntos Marítimos7,309,22814 Trabajo y Previsión Social24,569,793,191 E040Servicios de impartición y procuración de justicia laboral50,869,285 P063Articulación de Políticas Integrales de Juventud19,425,004 S280Jóvenes Construyendo el Futuro24,499,498,90215 Desarrollo Agrario, Territorial y Urbano6,317,917,466 S177Programa de Vivienda Social 6,317,917,46619 Aportaciones a Seguridad Social8,316,990,000 T001Seguro de Enfermedad y Maternidad8,316,990,00020 Bienestar3,644,403,160 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras198,720,000 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente2,175,960,000 S287Sembrando Vida1,239,145,657 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural30,577,50325 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos16,648,830,582 E085Fortalecimiento de la educación básica en la Ciudad de México15,183,685,300 E086Fortalecimiento de la educación normal en la Ciudad de México1,368,853,388 U001Becas para la población atendida por el sector educativo96,291,89433 Aportaciones Federales para Entidades Federativas y Municipios152,930,116,663 I007FAM Infraestructura Educativa Básica4,105,341,223 I008FAM Infraestructura Educativa Media Superior y Superior 730,958,784 I009FAETA Educación Tecnológica 6,858,303,461 I010FAETA Educación de Adultos 592,970,957 I013FONE Servicios Personales 128,794,484,002 I014FONE Otros de Gasto Corriente 3,287,914,537 I015FONE Gasto de Operación 4,978,255,268 I016FONE Fondo de Compensación 3,581,888,43147 Entidades no Sectorizadas105,883,74647 Archivo General de la Nación15,226,456 E057Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México13,161,681 P053Política en materia de gestión documental2,064,77547 Instituto Nacional de los Pueblos Indígenas90,657,290 S178Programa de Apoyo a la Educación Indígena90,657,290Instituto Mexicano del Seguro Social58,877,397,313 E031Servicios de atención a la salud58,100,450,897 E072Servicios de prevención y control de enfermedades 776,946,416Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado6,407,102,590 E031Servicios de Atención a la Salud5,297,639,175 E072Servicios de prevención y control de enfermedades749,349,008 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil359,775,49254 Mujeres753,843,043 M001Actividades de apoyo administrativo321,203,366 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres171,680,641 S319Programa de Atención Integral para el Bienestar de las Mujeres188,389,585 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas72,569,45156 IMSS-Bienestar9,932,953,978 E031Servicios de atención a la salud5,086,849,672 U200Fortalecimiento a la atención médica4,846,104,306
+| ANEXO 17. EROGACIONES PARA EL DESARROLLO DE LOS JÓVENES (pesos) |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |   |
+| Total | 735,177,831,846 |   |   |   |
+| 04 Gobernación | 130,264,952 |   |   |   |
+|   | E001 | Servicios de atención a refugiados en el país | 6,517,712 |   |
+|   | E002 | Servicios migratorios | 123,747,240 |   |
+| 06 Hacienda y Crédito Público | 77,546,993 |   |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 77,546,993 |   |
+| 07 Defensa Nacional | 45,451,107,627 |   |   |   |
+|   | A001 | Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional | 44,673,431,516 |   |
+|   | A013 | Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E | 62,655,795 |   |
+|   | A017 | Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo | 715,020,316 |   |
+| 08 Agricultura y Desarrollo Rural | 4,896,104,837 |   |   |   |
+|   | Q004 | Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario | 2,888,911,730 |   |
+|   | S053 | Programa de Abasto Rural | 144,733,538 |   |
+|   | S290 | Acopio para el Bienestar | 775,838,830 |   |
+|   | S292 | Fertilizantes para el Bienestar | 525,000,003 |   |
+|   | S293 | Producción para el Bienestar | 561,620,737 |   |
+| 11 Educación Pública | 394,143,579,181 |   |   |   |
+|   | B008 | Producción y distribución de libros y materiales educativos | 1,057,614,644 |   |
+|   | E022 | Servicios de Educación Media Superior | 51,359,389,544 |   |
+|   | E023 | Servicios de Educación Superior y Posgrado | 67,780,304,112 |   |
+|   | E024 | Servicios de desarrollo Cultural | 4,826,113,300 |   |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 219,328,440 |   |
+|   | E026 | Servicios de producción y distribución de libros y materiales culturales | 9,936,599 |   |
+|   | E027 | Servicios de atención al deporte | 40,331,188 |   |
+|   | E028 | Servicios de normalización y certificación en competencias laborales | 2,082,249,588 |   |
+|   | E029 | Servicios de educación para Adultos (INEA) | 284,371,958 |   |
+|   | E030 | Servicios de educación Básica Comunitaria | 687,609,443 |   |
+|   | E084 | Servicios de mantenimiento e infraestructura física educativa | 110,119,923 |   |
+|   | Q007 | Investigación en ciencia, humanidades, tecnología e innovación | 8,552,208,997 |   |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 75,043,880,000 |   |
+|   | S243 | Programa de Becas Elisa Acuña | 1,739,209,727 |   |
+|   | S247 | Programa para el Desarrollo Profesional Docente | 209,929,723 |   |
+|   | S269 | Programa de Cultura Física y Deporte | 1,527,570,187 |   |
+|   | S282 | La Escuela es Nuestra | 14,840,265,062 |   |
+|   | S283 | Jóvenes Escribiendo el Futuro | 10,752,500,000 |   |
+|   | S298 | Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS) | 31,077,999 |   |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 41,282,230,000 |   |
+|   | U006 | Subsidios para organismos descentralizados estatales | 108,736,605,942 |   |
+|   | U079 | Expansión de la Educación Media Superior y Superior | 858,477,837 |   |
+|   | U080 | Apoyos a centros y organizaciones de educación | 599,028,622 |   |
+|   | U270 | Programa Nacional de Inglés | 447,161,849 |   |
+|   | U295 | Fortalecimiento de los Servicios de Educación Especial (PFSEE) | 189,600,613 |   |
+|   | U300 | La Normal es Nuestra | 822,379,127 |   |
+|   | U312 | Expansión de la Educación Inicial | 54,084,756 |   |
+| 12 Salud | 1,356,858,150 |   |   |   |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 921,231,225 |   |
+|   | E034 | Servicios de protección y asistencia social integral | 253,522,516 |   |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 179,440,090 |   |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 2,664,318 |   |
+| 13 Marina | 617,138,375 |   |   |   |
+|   | A020 | Sistema Educativo Naval | 609,829,147 |   |
+|   | A022 | Administración y Operación de Capitanías de Puerto y Asuntos Marítimos | 7,309,228 |   |
+| 14 Trabajo y Previsión Social | 24,569,793,191 |   |   |   |
+|   | E040 | Servicios de impartición y procuración de justicia laboral | 50,869,285 |   |
+|   | P063 | Articulación de Políticas Integrales de Juventud | 19,425,004 |   |
+|   | S280 | Jóvenes Construyendo el Futuro | 24,499,498,902 |   |
+| 15 Desarrollo Agrario, Territorial y Urbano | 6,317,917,466 |   |   |   |
+|   | S177 | Programa de Vivienda Social | 6,317,917,466 |   |
+| 19 Aportaciones a Seguridad Social | 8,316,990,000 |   |   |   |
+|   | T001 | Seguro de Enfermedad y Maternidad | 8,316,990,000 |   |
+| 20 Bienestar | 3,644,403,160 |   |   |   |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 198,720,000 |   |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 2,175,960,000 |   |
+|   | S287 | Sembrando Vida | 1,239,145,657 |   |
+|   | U011 | Programa para el Bienestar de las Personas en Emergencia Social o Natural | 30,577,503 |   |
+| 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos | 16,648,830,582 |   |   |   |
+|   | E085 | Fortalecimiento de la educación básica en la Ciudad de México | 15,183,685,300 |   |
+|   | E086 | Fortalecimiento de la educación normal en la Ciudad de México | 1,368,853,388 |   |
+|   | U001 | Becas para la población atendida por el sector educativo | 96,291,894 |   |
+| 33 Aportaciones Federales para Entidades Federativas y Municipios | 152,930,116,663 |   |   |   |
+|   | I007 | FAM Infraestructura Educativa Básica | 4,105,341,223 |   |
+|   | I008 | FAM Infraestructura Educativa Media Superior y Superior |   | 730,958,784 |
+|   | I009 | FAETA Educación Tecnológica |   | 6,858,303,461 |
+|   | I010 | FAETA Educación de Adultos |   | 592,970,957 |
+|   | I013 | FONE Servicios Personales |   | 128,794,484,002 |
+|   | I014 | FONE Otros de Gasto Corriente |   | 3,287,914,537 |
+|   | I015 | FONE Gasto de Operación |   | 4,978,255,268 |
+|   | I016 | FONE Fondo de Compensación |   | 3,581,888,431 |
+| 47 Entidades no Sectorizadas | 105,883,746 |   |   |   |
+| 47 Archivo General de la Nación | 15,226,456 |   |   |   |
+|   | E057 | Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México | 13,161,681 |   |
+|   | P053 | Política en materia de gestión documental | 2,064,775 |   |
+| 47 Instituto Nacional de los Pueblos Indígenas | 90,657,290 |   |   |   |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 90,657,290 |   |
+| Instituto Mexicano del Seguro Social | 58,877,397,313 |   |   |   |
+|   | E031 | Servicios de atención a la salud | 58,100,450,897 |   |
+|   | E072 | Servicios de prevención y control de enfermedades | 776,946,416 |   |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 6,407,102,590 |   |   |   |
+|   | E031 | Servicios de Atención a la Salud | 5,297,639,175 |   |
+|   | E072 | Servicios de prevención y control de enfermedades | 749,349,008 |   |
+|   | E073 | Servicios de atención a personas con discapacidad | 338,915 |   |
+|   | E074 | Servicios de estancias de bienestar y desarrollo infantil | 359,775,492 |   |
+| 54 Mujeres | 753,843,043 |   |   |   |
+|   | M001 | Actividades de apoyo administrativo | 321,203,366 |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 171,680,641 |   |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 188,389,585 |   |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 72,569,451 |   |
+| 56 IMSS-Bienestar | 9,932,953,978 |   |   |   |
+|   | E031 | Servicios de atención a la salud | 5,086,849,672 |   |
+|   | U200 | Fortalecimiento a la atención médica | 4,846,104,306 |   |
 
-ANEXO 18. RECURSOS PARA LA ATENCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal1,100,142,094,03304 Gobernación267,921,099 E001Servicios de atención a refugiados en el país12,113,414 E002Servicios migratorios103,122,700 E004Servicios de registro e identificación de población18,911,537 P007Planeación demográfica del país11,939,709 P010Política para la protección y defensa de los derechos humanos44,376,987 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes76,787,886 P061Política para promover la protección de los derechos humanos y prevenir la discriminación668,86605 Relaciones Exteriores3,246,390 E005Atención y servicios integrales de protección y asistencia consular3,246,39006 Hacienda y Crédito Público422,114,131 F001Inclusión financiera para el bienestar422,114,13107 Defensa Nacional1,459,155,601 A017Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo715,020,316 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28508 Agricultura y Desarrollo Rural1,830,229,971 Q004Precio de Garantía y Leche para el Bienestar964,891,198 S052Programa de Abasto Rural865,338,77411 Educación Pública297,603,119,677 B008Producción y distribución de libros y materiales educativos3,011,593,525 E022Servicios de Educación Media Superior51,359,389,544 E023Servicios de Educación Superior y Posgrado4,965,062 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos69,856,611 E026Servicios de producción y distribución de libros y materiales culturales8,434,913 E028Servicios de normalización y certificación en competencias laborales902,817,574 E029Servicios de educación para Adultos (INEA)178,748,088 E030Servicios de educación Básica Comunitaria4,954,679,953 E084Servicios de mantenimiento e infraestructura física educativa219,865,312 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S247Programa para el Desarrollo Profesional Docente121,405,901 S269Programa de Cultura Física y Deporte258,792,215 S282La Escuela es Nuestra25,556,316,050 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez36,175,150,000 U006Subsidios para organismos descentralizados estatales32,484,672,754 U080Apoyos a centros y organizaciones de educación10,074,643,409 U270Programa Nacional de Inglés765,875,431 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)626,506,375 U312Expansión de la Educación Inicial1,412,328,96112 Salud10,834,679,728 E031Servicios de atención a la salud4,780,327,878 E032Servicios de atención a la salud mental y prevención de las adicciones841,635,347 E033Servicios de vacunación 1,876,475,716 E034Servicios de protección y asistencia social integral63,380,629 P028Política de prevención y control de enfermedades480,131,410 P029Política en Salud Materna Sexual y Reproductiva1,748,746,303 Q008Investigación, desarrollo tecnológico y formación en salud1,043,316,366 S039Programa de Atención a Personas con Discapacidad666,07914 Trabajo y Previsión Social30,747,905 P031Implementación de la política laboral226,334 P063Articulación de Políticas Integrales de Juventud30,521,57116 Medio Ambiente y Recursos Naturales23,826,236 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde23,826,23620 Bienestar13,258,907,209 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,127,521,600 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente9,849,845,600 S317Salud Casa por Casa200,000,000 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural81,540,00922 Instituto Nacional Electoral7,810,728 R003Capacitación y educación para el ejercicio democrático de la ciudadanía2,248,964 R011Tecnologías de información y comunicaciones5,561,76425 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos48,615,406,375 E085Fortalecimiento de la educación básica en la Ciudad de México48,448,261,966 U001Becas para la población atendida por el sector educativo167,144,40933 Aportaciones Federales para Entidades Federativas y Municipios598,673,278,854 I002FASSA Fondo de Aportaciones para los Servicios de Salud 16,010,396,395 I006FAM Asistencia Social 14,095,293,371 I007FAM Infraestructura Educativa Básica15,021,372,934 I008FAM Infraestructura Educativa Media Superior y Superior1,030,278,416 I009FAETA Educación Tecnológica6,059,817,648 I010FAETA Educación de Adultos59,297,096 I013FONE Servicios Personales500,367,070,716 I014FONE Otros de Gasto Corriente12,773,560,750 I015FONE Gasto de Operación19,340,541,058 I016FONE Fondo de Compensación13,915,650,47035 Comisión Nacional de los Derechos Humanos9,783,561 E011Atender asuntos relacionados con las niñas, niños y adolescentes y las familias9,783,56136 Seguridad y Protección Ciudadana1,237,103,189 E055Servicios de administración del Sistema Federal Penitenciario1,223,276,102 N005Coordinación del Sistema Nacional de Protección Civil y prevención de amenazas y desastres derivadas de alertas de riesgos11,551,895 P047Articulación de la política en materia de seguridad nacional y pública2,275,19247 Entidades no Sectorizadas1,312,066,432 S178Programa de Apoyo a la Educación Indígena1,312,066,43249 Fiscalía General de la República2,300,000 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos2,300,000Instituto Mexicano del Seguro Social88,096,540,898 E031Servicios de atención a la salud64,073,796,070 E070Servicios de guardería17,062,045,828 E071Servicios por prestaciones sociales285,223,470 E072Servicios de prevención y control de enfermedades6,675,475,53054 Mujeres185,874,297 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres61,805,031 S319Programa de Atención Integral para el Bienestar de las Mujeres39,247,830 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas84,821,43656 IMSS-Bienestar36,267,981,751 E031Servicios de atención a la salud11,080,854,200 U013Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral24,085,138,403 U200Fortalecimiento a la atención médica1,101,989,148
+| ANEXO 18. RECURSOS PARA LA ATENCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 1,100,142,094,033 |   |   |
+| 04 Gobernación | 267,921,099 |   |   |
+|   | E001 | Servicios de atención a refugiados en el país | 12,113,414 |
+|   | E002 | Servicios migratorios | 103,122,700 |
+|   | E004 | Servicios de registro e identificación de población | 18,911,537 |
+|   | P007 | Planeación demográfica del país | 11,939,709 |
+|   | P010 | Política para la protección y defensa de los derechos humanos | 44,376,987 |
+|   | P011 | Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes | 76,787,886 |
+|   | P061 | Política para promover la protección de los derechos humanos y prevenir la discriminación | 668,866 |
+| 05 Relaciones Exteriores | 3,246,390 |   |   |
+|   | E005 | Atención y servicios integrales de protección y asistencia consular | 3,246,390 |
+| 06 Hacienda y Crédito Público | 422,114,131 |   |   |
+|   | F001 | Inclusión financiera para el bienestar | 422,114,131 |
+| 07 Defensa Nacional | 1,459,155,601 |   |   |
+|   | A017 | Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo | 715,020,316 |
+|   | E015 | Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya | 744,135,285 |
+| 08 Agricultura y Desarrollo Rural | 1,830,229,971 |   |   |
+|   | Q004 | Precio de Garantía y Leche para el Bienestar | 964,891,198 |
+|   | S052 | Programa de Abasto Rural | 865,338,774 |
+| 11 Educación Pública | 297,603,119,677 |   |   |
+|   | B008 | Producción y distribución de libros y materiales educativos | 3,011,593,525 |
+|   | E022 | Servicios de Educación Media Superior | 51,359,389,544 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 4,965,062 |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 69,856,611 |
+|   | E026 | Servicios de producción y distribución de libros y materiales culturales | 8,434,913 |
+|   | E028 | Servicios de normalización y certificación en competencias laborales | 902,817,574 |
+|   | E029 | Servicios de educación para Adultos (INEA) | 178,748,088 |
+|   | E030 | Servicios de educación Básica Comunitaria | 4,954,679,953 |
+|   | E084 | Servicios de mantenimiento e infraestructura física educativa | 219,865,312 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 129,386,000,000 |
+|   | S247 | Programa para el Desarrollo Profesional Docente | 121,405,901 |
+|   | S269 | Programa de Cultura Física y Deporte | 258,792,215 |
+|   | S282 | La Escuela es Nuestra | 25,556,316,050 |
+|   | S298 | Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS) | 31,077,999 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 36,175,150,000 |
+|   | U006 | Subsidios para organismos descentralizados estatales | 32,484,672,754 |
+|   | U080 | Apoyos a centros y organizaciones de educación | 10,074,643,409 |
+|   | U270 | Programa Nacional de Inglés | 765,875,431 |
+|   | U295 | Fortalecimiento de los Servicios de Educación Especial (PFSEE) | 626,506,375 |
+|   | U312 | Expansión de la Educación Inicial | 1,412,328,961 |
+| 12 Salud | 10,834,679,728 |   |   |
+|   | E031 | Servicios de atención a la salud | 4,780,327,878 |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 841,635,347 |
+|   | E033 | Servicios de vacunación | 1,876,475,716 |
+|   | E034 | Servicios de protección y asistencia social integral | 63,380,629 |
+|   | P028 | Política de prevención y control de enfermedades | 480,131,410 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 1,748,746,303 |
+|   | Q008 | Investigación, desarrollo tecnológico y formación en salud | 1,043,316,366 |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 666,079 |
+| 14 Trabajo y Previsión Social | 30,747,905 |   |   |
+|   | P031 | Implementación de la política laboral | 226,334 |
+|   | P063 | Articulación de Políticas Integrales de Juventud | 30,521,571 |
+| 16 Medio Ambiente y Recursos Naturales | 23,826,236 |   |   |
+|   | Q010 | Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde | 23,826,236 |
+| 20 Bienestar | 13,258,907,209 |   |   |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,127,521,600 |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 9,849,845,600 |
+|   | S317 | Salud Casa por Casa | 200,000,000 |
+|   | U011 | Programa para el Bienestar de las Personas en Emergencia Social o Natural | 81,540,009 |
+| 22 Instituto Nacional Electoral | 7,810,728 |   |   |
+|   | R003 | Capacitación y educación para el ejercicio democrático de la ciudadanía | 2,248,964 |
+|   | R011 | Tecnologías de información y comunicaciones | 5,561,764 |
+| 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos | 48,615,406,375 |   |   |
+|   | E085 | Fortalecimiento de la educación básica en la Ciudad de México | 48,448,261,966 |
+|   | U001 | Becas para la población atendida por el sector educativo | 167,144,409 |
+| 33 Aportaciones Federales para Entidades Federativas y Municipios | 598,673,278,854 |   |   |
+|   | I002 | FASSA Fondo de Aportaciones para los Servicios de Salud | 16,010,396,395 |
+|   | I006 | FAM Asistencia Social | 14,095,293,371 |
+|   | I007 | FAM Infraestructura Educativa Básica | 15,021,372,934 |
+|   | I008 | FAM Infraestructura Educativa Media Superior y Superior | 1,030,278,416 |
+|   | I009 | FAETA Educación Tecnológica | 6,059,817,648 |
+|   | I010 | FAETA Educación de Adultos | 59,297,096 |
+|   | I013 | FONE Servicios Personales | 500,367,070,716 |
+|   | I014 | FONE Otros de Gasto Corriente | 12,773,560,750 |
+|   | I015 | FONE Gasto de Operación | 19,340,541,058 |
+|   | I016 | FONE Fondo de Compensación | 13,915,650,470 |
+| 35 Comisión Nacional de los Derechos Humanos | 9,783,561 |   |   |
+|   | E011 | Atender asuntos relacionados con las niñas, niños y adolescentes y las familias | 9,783,561 |
+| 36 Seguridad y Protección Ciudadana | 1,237,103,189 |   |   |
+|   | E055 | Servicios de administración del Sistema Federal Penitenciario | 1,223,276,102 |
+|   | N005 | Coordinación del Sistema Nacional de Protección Civil y prevención de amenazas y desastres derivadas de alertas de riesgos | 11,551,895 |
+|   | P047 | Articulación de la política en materia de seguridad nacional y pública | 2,275,192 |
+| 47 Entidades no Sectorizadas | 1,312,066,432 |   |   |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 1,312,066,432 |
+| 49 Fiscalía General de la República | 2,300,000 |   |   |
+|   | E009 | Investigar y perseguir los delitos cometidos en materia de derechos humanos | 2,300,000 |
+| Instituto Mexicano del Seguro Social | 88,096,540,898 |   |   |
+|   | E031 | Servicios de atención a la salud | 64,073,796,070 |
+|   | E070 | Servicios de guardería | 17,062,045,828 |
+|   | E071 | Servicios por prestaciones sociales | 285,223,470 |
+|   | E072 | Servicios de prevención y control de enfermedades | 6,675,475,530 |
+| 54 Mujeres | 185,874,297 |   |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 61,805,031 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 39,247,830 |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 84,821,436 |
+| 56 IMSS-Bienestar | 36,267,981,751 |   |   |
+|   | E031 | Servicios de atención a la salud | 11,080,854,200 |
+|   | U013 | Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral | 24,085,138,403 |
+|   | U200 | Fortalecimiento a la atención médica | 1,101,989,148 |
 
-ANEXO 19. ACCIONES PARA LA PREVENCIÓN DEL DELITO, COMBATE A LAS ADICCIONES, RESCATE DE ESPACIOS PÚBLICOS Y PROMOCIÓN DE PROYECTOS PRODUCTIVOS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal465,729,818,27204 Gobernación86,517,062 P005Conducción de la política interior386,089 P006Articulación de la política en materia de comunicación social del Gobierno de México4,580,777 P009Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz3,799,221 P010Política para la protección y defensa de los derechos humanos963,089 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes76,787,88607 Defensa Nacional28,333,285,691 A003Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad Pública5,374,267,434 A008Derechos humanos78,339,878 A011Sistema educativo militar2,800,938,512 A015Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas19,978,377,082 A016Programa de igualdad entre mujeres y hombres SDN101,362,78511 Educación Pública263,461,776,454 E022Servicios de Educación Media Superior47,521,800,549 E023Servicios de Educación Superior y Posgrado28,119,366,522 E024Servicios de desarrollo Cultural4,826,113,300 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos527,453,349 E026Servicios de producción y distribución de libros y materiales culturales131,600,379 E027Servicios de atención al deporte514,614,676 E029Servicios de educación para Adultos (INEA)32,499,652 E030Servicios de educación Básica Comunitaria247,733,998 Q007Diseño de la Política Educativa y Regulación de los Servicios4,626,149 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S243Programa de Becas Elisa Acuña86,960,486 S269Programa de Cultura Física y Deporte157,445,580 S282La Escuela es Nuestra1,300,000,000 S283Jóvenes Escribiendo el Futuro8,981,500,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)1,553,900 S311Beca Universal de Educación Media Superior Benito Juárez31,919,250,000 U006Subsidios para organismos descentralizados estatales9,425,632,866 U083Universidades para el Bienestar Benito Juárez García154,500,000 U270Programa Nacional de Inglés39,075,277 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)41,217,525 U300La Normal es Nuestra42,832,24612 Salud5,018,117,583 E031Servicios de atención a la salud1,619,867,998 E032Servicios de atención a la salud mental y prevención de las adicciones1,528,669,472 E034Servicios de protección y asistencia social integral211,268,764 P027Rectoría del Sistema Nacional de Salud75,063,111 P028Política de prevención y control de enfermedades151,099,131 P029Política en Salud Materna Sexual y Reproductiva1,292,355,461 S039Programa de Atención a Personas con Discapacidad2,220,265 U012Fortalecimiento de los Servicios Estatales de Salud137,573,38313 Marina5,552,889,174 A015Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas4,530,295,324 A020Sistema Educativo Naval1,010,139,551 A022Administración y Operación de Capitanías de Puerto y Asuntos Marítimos12,454,29914 Trabajo y Previsión Social25,188,573,777 P031Implementación de la política laboral2,632,182 P063Articulación de Políticas Integrales de Juventud12,941,595 S280Jóvenes Construyendo el Futuro25,173,000,00015 Desarrollo Agrario, Territorial y Urbano4,159,241 S213Programa para Regularizar asentamientos Humanos4,159,24120 Bienestar106,508,558,692 E048Servicios a grupos con necesidades especiales235,479,394 P041Articulación de la Política de Bienestar5,328,079,298 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S287Sembrando Vida40,664,000,000 S316Pensión Mujeres Bienestar56,969,000,00033 Aportaciones Federales para Entidades Federativas y Municipios18,448,060,665 I005FORTAMUN6,840,872,099 I009FAETA Educación Tecnológica1,656,074,537 I011FASP9,951,114,02936 Seguridad y Protección Ciudadana8,682,704,814 E054Servicios de Policía Complementaria y de Protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones4,529,412,685 G022Regulación de los servicios de seguridad privada para coadyuvar a la prevención del delito2,507,437 M001Actividades de apoyo administrativo2,763,530,857 P047Articulación de la política en materia de seguridad nacional y pública23,889,513 P048Plataforma México8,495,246 P049Política de inteligencia para la Seguridad Nacional188,762,508 U002Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública1,166,106,56947 Instituto Nacional de los Pueblos Indígenas113,012,180 S249Programa para el Bienestar Integral de los Pueblos Indígenas113,012,180Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado520,736,752 E072Servicios de prevención y control de enfermedades321,027,833 E074Servicios de estancias de bienestar y desarrollo infantil199,708,91954 Mujeres154,929,635 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres8,584,032 S319Programa de Atención Integral para el Bienestar de las Mujeres39,247,830 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas107,097,77356 IMSS-Bienestar3,656,496,551 E031Servicios de atención a la salud3,656,496,551
+| ANEXO 19. ACCIONES PARA LA PREVENCIÓN DEL DELITO, COMBATE A LAS ADICCIONES, RESCATE DE ESPACIOS PÚBLICOS Y PROMOCIÓN DE PROYECTOS PRODUCTIVOS (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 465,729,818,272 |   |   |
+| 04 Gobernación | 86,517,062 |   |   |
+|   | P005 | Conducción de la política interior | 386,089 |
+|   | P006 | Articulación de la política en materia de comunicación social del Gobierno de México | 4,580,777 |
+|   | P009 | Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz | 3,799,221 |
+|   | P010 | Política para la protección y defensa de los derechos humanos | 963,089 |
+|   | P011 | Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes | 76,787,886 |
+| 07 Defensa Nacional | 28,333,285,691 |   |   |
+|   | A003 | Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad Pública | 5,374,267,434 |
+|   | A008 | Derechos humanos | 78,339,878 |
+|   | A011 | Sistema educativo militar | 2,800,938,512 |
+|   | A015 | Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas | 19,978,377,082 |
+|   | A016 | Programa de igualdad entre mujeres y hombres SDN | 101,362,785 |
+| 11 Educación Pública | 263,461,776,454 |   |   |
+|   | E022 | Servicios de Educación Media Superior | 47,521,800,549 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 28,119,366,522 |
+|   | E024 | Servicios de desarrollo Cultural | 4,826,113,300 |
+|   | E025 | Servicios de producción y transmisión de materiales educativos, culturales y artísticos | 527,453,349 |
+|   | E026 | Servicios de producción y distribución de libros y materiales culturales | 131,600,379 |
+|   | E027 | Servicios de atención al deporte | 514,614,676 |
+|   | E029 | Servicios de educación para Adultos (INEA) | 32,499,652 |
+|   | E030 | Servicios de educación Básica Comunitaria | 247,733,998 |
+|   | Q007 | Diseño de la Política Educativa y Regulación de los Servicios | 4,626,149 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 129,386,000,000 |
+|   | S243 | Programa de Becas Elisa Acuña | 86,960,486 |
+|   | S269 | Programa de Cultura Física y Deporte | 157,445,580 |
+|   | S282 | La Escuela es Nuestra | 1,300,000,000 |
+|   | S283 | Jóvenes Escribiendo el Futuro | 8,981,500,000 |
+|   | S298 | Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS) | 1,553,900 |
+|   | S311 | Beca Universal de Educación Media Superior Benito Juárez | 31,919,250,000 |
+|   | U006 | Subsidios para organismos descentralizados estatales | 9,425,632,866 |
+|   | U083 | Universidades para el Bienestar Benito Juárez García | 154,500,000 |
+|   | U270 | Programa Nacional de Inglés | 39,075,277 |
+|   | U295 | Fortalecimiento de los Servicios de Educación Especial (PFSEE) | 41,217,525 |
+|   | U300 | La Normal es Nuestra | 42,832,246 |
+| 12 Salud | 5,018,117,583 |   |   |
+|   | E031 | Servicios de atención a la salud | 1,619,867,998 |
+|   | E032 | Servicios de atención a la salud mental y prevención de las adicciones | 1,528,669,472 |
+|   | E034 | Servicios de protección y asistencia social integral | 211,268,764 |
+|   | P027 | Rectoría del Sistema Nacional de Salud | 75,063,111 |
+|   | P028 | Política de prevención y control de enfermedades | 151,099,131 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 1,292,355,461 |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 2,220,265 |
+|   | U012 | Fortalecimiento de los Servicios Estatales de Salud | 137,573,383 |
+| 13 Marina | 5,552,889,174 |   |   |
+|   | A015 | Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas | 4,530,295,324 |
+|   | A020 | Sistema Educativo Naval | 1,010,139,551 |
+|   | A022 | Administración y Operación de Capitanías de Puerto y Asuntos Marítimos | 12,454,299 |
+| 14 Trabajo y Previsión Social | 25,188,573,777 |   |   |
+|   | P031 | Implementación de la política laboral | 2,632,182 |
+|   | P063 | Articulación de Políticas Integrales de Juventud | 12,941,595 |
+|   | S280 | Jóvenes Construyendo el Futuro | 25,173,000,000 |
+| 15 Desarrollo Agrario, Territorial y Urbano | 4,159,241 |   |   |
+|   | S213 | Programa para Regularizar asentamientos Humanos | 4,159,241 |
+| 20 Bienestar | 106,508,558,692 |   |   |
+|   | E048 | Servicios a grupos con necesidades especiales | 235,479,394 |
+|   | P041 | Articulación de la Política de Bienestar | 5,328,079,298 |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 3,312,000,000 |
+|   | S287 | Sembrando Vida | 40,664,000,000 |
+|   | S316 | Pensión Mujeres Bienestar | 56,969,000,000 |
+| 33 Aportaciones Federales para Entidades Federativas y Municipios | 18,448,060,665 |   |   |
+|   | I005 | FORTAMUN | 6,840,872,099 |
+|   | I009 | FAETA Educación Tecnológica | 1,656,074,537 |
+|   | I011 | FASP | 9,951,114,029 |
+| 36 Seguridad y Protección Ciudadana | 8,682,704,814 |   |   |
+|   | E054 | Servicios de Policía Complementaria y de Protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones | 4,529,412,685 |
+|   | G022 | Regulación de los servicios de seguridad privada para coadyuvar a la prevención del delito | 2,507,437 |
+|   | M001 | Actividades de apoyo administrativo | 2,763,530,857 |
+|   | P047 | Articulación de la política en materia de seguridad nacional y pública | 23,889,513 |
+|   | P048 | Plataforma México | 8,495,246 |
+|   | P049 | Política de inteligencia para la Seguridad Nacional | 188,762,508 |
+|   | U002 | Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública | 1,166,106,569 |
+| 47 Instituto Nacional de los Pueblos Indígenas | 113,012,180 |   |   |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 113,012,180 |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 520,736,752 |   |   |
+|   | E072 | Servicios de prevención y control de enfermedades | 321,027,833 |
+|   | E074 | Servicios de estancias de bienestar y desarrollo infantil | 199,708,919 |
+| 54 Mujeres | 154,929,635 |   |   |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 8,584,032 |
+|   | S319 | Programa de Atención Integral para el Bienestar de las Mujeres | 39,247,830 |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 107,097,773 |
+| 56 IMSS-Bienestar | 3,656,496,551 |   |   |
+|   | E031 | Servicios de atención a la salud | 3,656,496,551 |
 
-ANEXO 20. PROVISIONES SALARIALES Y ECONÓMICAS (pesos)MONTOPrevisiones Salariales      11,500,000,000 Situaciones laborales supervenientes     11,500,000,000Provisiones Económicas      19,849,635,596 Fondo de Desastres Naturales (FONDEN)    19,430,107,735 Fondo de Prevención de Desastres Naturales (FOPREDEN)   246,669,452 Comisiones y pago a CECOBAN     172,858,409Provisiones Salariales y Económicas     28,380,517,327Desarrollo Regional      62,038,054 Provisión para la Armonización Contable    62,038,054Otras Provisiones Económicas      92,658,271,114 Subsidios a las Tarifas Eléctricas      87,768,800,000 Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica      4,889,471,114Gastos asociados a ingresos petroleros     15,201,763,002TOTAL       167,652,225,093
+| ANEXO 20. PROVISIONES SALARIALES Y ECONÓMICAS (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MONTO |   |   |   |   |   |   |   |   |
+| Previsiones Salariales |   |   |   |   |   |   | 11,500,000,000 |   |
+|   | Situaciones laborales supervenientes |   |   |   |   |   | 11,500,000,000 |   |
+| Provisiones Económicas |   |   |   |   |   |   | 19,849,635,596 |   |
+|   | Fondo de Desastres Naturales (FONDEN) |   |   |   |   | 19,430,107,735 |   |   |
+|   | Fondo de Prevención de Desastres Naturales (FOPREDEN) |   |   |   | 246,669,452 |   |   |   |
+|   | Comisiones y pago a CECOBAN |   |   |   |   |   | 172,858,409 |   |
+| Provisiones Salariales y Económicas |   |   |   |   |   | 28,380,517,327 |   |   |
+| Desarrollo Regional |   |   |   |   |   |   | 62,038,054 |   |
+|   | Provisión para la Armonización Contable |   |   |   |   | 62,038,054 |   |   |
+| Otras Provisiones Económicas |   |   |   |   |   |   | 92,658,271,114 |   |
+|   | Subsidios a las Tarifas Eléctricas |   |   |   |   |   |   | 87,768,800,000 |
+|   | Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica |   |   |   |   |   |   | 4,889,471,114 |
+| Gastos asociados a ingresos petroleros |   |   |   |   |   | 15,201,763,002 |   |   |
+| TOTAL |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 167,652,225,093 |   |   |
 
-ANEXO 21. RAMO 25 PREVISIONES Y APORTACIONES PARA LOS SISTEMAS DE EDUCACIÓN BÁSICA, NORMAL, TECNOLÓGICA Y DE ADULTOS (pesos)       MONTOPrevisiones para servicios personales para los servicios de educación básica en la Ciudad de México, para el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE) y para el Fondo de Aportaciones para la Educación Tecnológica y de Adultos34,890,019,408Aportaciones para los servicios de educación básica y normal en la Ciudad de México50,292,389,634
+| ANEXO 21. RAMO 25 PREVISIONES Y APORTACIONES PARA LOS SISTEMAS DE EDUCACIÓN BÁSICA, NORMAL, TECNOLÓGICA Y DE ADULTOS (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   | MONTO |
+| Previsiones para servicios personales para los servicios de educación básica en la Ciudad de México, para el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE) y para el Fondo de Aportaciones para la Educación Tecnológica y de Adultos | 34,890,019,408 |   |   |   |   |   |
+| Aportaciones para los servicios de educación básica y normal en la Ciudad de México | 50,292,389,634 |   |   |   |   |   |
 
-ANEXO 22. RAMO 33 APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS (pesos)       MONTOFondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE):546,396,822,994Servicios Personales      500,367,070,716Otros de Gasto Corriente 1/ 12,773,560,750Gasto de Operación      19,340,541,058Fondo de Compensación      13,915,650,470Fondo de Aportaciones para los Servicios de Salud84,635,885,593Fondo de Aportaciones para la Infraestructura Social, que se distribuye en:135,060,702,396Entidades16,371,317,844Municipal y de las Demarcaciones Territoriales del Distrito Federal118,689,384,552Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal136,817,441,982Fondo de Aportaciones Múltiples, que se distribuye para erogaciones de:43,464,620,760Asistencia Social19,993,725,550Infraestructura Educativa23,470,895,210Fondo de Aportaciones para la Educación Tecnológica y de Adultos, que se distribuye para erogaciones de:10,811,443,171Educación Tecnológica6,858,303,461Educación de Adultos3,953,139,710Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal9,951,114,029Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas74,754,876,000TOTAL 2/1,041,892,906,9251/ Incluye recursos para las plazas subsidiadas a las entidades federativas incluidas en el Fondo de Aportaciones para la Educación Básica y Normal, conforme a los registros que se tienen en las secretarías de Educación Pública y de Hacienda y Crédito Público.2/ Incluye los recursos para dar cumplimiento al artículo 49, fracción IV, de la Ley de Coordinación Fiscal.
+| ANEXO 22. RAMO 33 APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   | MONTO |   |
+| Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE): | 546,396,822,994 |   |   |   |   |   |   |
+| Servicios Personales |   |   |   |   |   |   | 500,367,070,716 |
+| Otros de Gasto Corriente 1/ |   | 12,773,560,750 |   |   |   |   |   |
+| Gasto de Operación |   |   |   |   |   |   | 19,340,541,058 |
+| Fondo de Compensación |   |   |   |   |   |   | 13,915,650,470 |
+| Fondo de Aportaciones para los Servicios de Salud | 84,635,885,593 |   |   |   |   |   |   |
+| Fondo de Aportaciones para la Infraestructura Social, que se distribuye en: | 135,060,702,396 |   |   |   |   |   |   |
+| Entidades | 16,371,317,844 |   |   |   |   |   |   |
+| Municipal y de las Demarcaciones Territoriales del Distrito Federal | 118,689,384,552 |   |   |   |   |   |   |
+| Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal | 136,817,441,982 |   |   |   |   |   |   |
+| Fondo de Aportaciones Múltiples, que se distribuye para erogaciones de: | 43,464,620,760 |   |   |   |   |   |   |
+| Asistencia Social | 19,993,725,550 |   |   |   |   |   |   |
+| Infraestructura Educativa | 23,470,895,210 |   |   |   |   |   |   |
+| Fondo de Aportaciones para la Educación Tecnológica y de Adultos, que se distribuye para erogaciones de: | 10,811,443,171 |   |   |   |   |   |   |
+| Educación Tecnológica | 6,858,303,461 |   |   |   |   |   |   |
+| Educación de Adultos | 3,953,139,710 |   |   |   |   |   |   |
+| Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal | 9,951,114,029 |   |   |   |   |   |   |
+| Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas | 74,754,876,000 |   |   |   |   |   |   |
+| TOTAL 2/ | 1,041,892,906,925 |   |   |   |   |   |   |
+| 1/ Incluye recursos para las plazas subsidiadas a las entidades federativas incluidas en el Fondo de Aportaciones para la Educación Básica y Normal, conforme a los registros que se tienen en las secretarías de Educación Pública y de Hacienda y Crédito Público. |   |   |   |   |   |   |   |
+| 2/ Incluye los recursos para dar cumplimiento al artículo 49, fracción IV, de la Ley de Coordinación Fiscal. |   |   |   |   |   |   |   |
 
-Con respecto a lo previsto en el artículo 49, fracción V, de la Ley de Coordinación Fiscal, no se considera transferencia de recursos al Fideicomiso para la Evaluación de los Fondos de Aportaciones Federales (FIDEFAF), toda vez que el patrimonio contable con que cuenta el Fideicomiso resulta suficiente para efectuar la contratación de las evaluaciones de los Fondos de Aportaciones Federales, de conformidad con el marco jurídico aplicable.
+| Con respecto a lo previsto en el artículo 49, fracción V, de la Ley de Coordinación Fiscal, no se considera transferencia de recursos al Fideicomiso para la Evaluación de los Fondos de Aportaciones Federales (FIDEFAF), toda vez que el patrimonio contable con que cuenta el Fideicomiso resulta suficiente para efectuar la contratación de las evaluaciones de los Fondos de Aportaciones Federales, de conformidad con el marco jurídico aplicable. |
+| --- |
 
-ANEXO 23. REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DE LA FEDERACIÓNANEXO 23.1. ADMINISTRACIÓN PÚBLICA FEDERALANEXO 23.1.1. LÍMITES MÍNIMOS Y MÁXIMOS DE LAS PERCEPCIONES ORDINARIAS BRUTAS Y NETAS MENSUALES PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL (pesos)Grupo / Tipo de PersonalPercepción Ordinaria BrutaPercepción Ordinaria Neta TotalSueldos y salariosPrestacionesTotal(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando y Enlace 1/G Secretario de Estado 190,035   45,734   235,769   168,860 H Subsecretario de Estado u Oficial Mayor 188,527   45,039   233,566   167,353 J Jefe de Unidad171,939 184,004  40,241  42,452  212,180  226,456  152,699  162,119 K Director General 143,473 162,888  33,385  37,268  176,858  200,156  128,882  144,359 L Director General Adjunto113,116 137,247  27,155  32,008  140,271  169,255  104,527  123,792 M Coordinador o Director66,362 130,377  16,426  30,112  82,788  160,489  64,611  117,809 N Subdirector39,078 64,854  11,526  16,089  50,604  80,943  41,878  63,300 O Jefe de Departamento26,005 38,309  9,017  11,288  35,022  49,597  29,878  41,083 P Personal de Enlace14,270 24,894  6,830  8,746  21,100  33,640  18,881  28,782 Personal Operativo11,748 16,481  13,719  14,807  25,467  31,288  22,441  27,145 Personal de Categorías:Del Servicio Exterior Mexicano16,059 150,822  7,107  34,729  23,166  185,551  20,502  134,618 De Educación516 137,023  16,731  95,814  17,247  232,838  15,262  163,611 De Salud15,425 91,416  12,903  19,874  28,328  111,290  25,164  86,505 De Investigación Científica y Desarrollo Tecnológico16,112 50,705  24,859  99,980  40,971  150,685  38,071  120,244 De Seguridad Pública14,993 188,528  13,896  42,508  28,888  231,036  25,887  165,945 De las Fuerzas Armadas8,648 190,007  16,910  49,457  25,558  239,464  20,401  166,875 La percepción ordinaria incluye todos los ingresos que reciben los servidores públicos por sueldos y salarios y por prestaciones ordinarias, independientemente de si se reciben en forma periódica o en fechas definidas. Los montos netos mensuales corresponden a la cantidad que perciben los servidores públicos, una vez aplicadas las disposiciones fiscales vigentes. Los montos indicados no incluyen las prestaciones extraordinarias. Los rangos de las remuneraciones del personal operativo y de categorías, varían conforme a las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo.1/ Las denominaciones de Secretario de Estado, Subsecretario de Estado u Oficial Mayor y Jefe de Unidad son exclusivas de las Dependencias del Ejecutivo Federal. Los titulares de los Órganos Administrativos Desconcentrados y Entidades adoptan como denominación el de Director General, Vocal, Comisionado, etc., independientemente de que el rango tabular pudiera ser coincidente con el de las Dependencias para las denominaciones de uso exclusivo.
+| ANEXO 23. REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DE LA FEDERACIÓN |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.1. ADMINISTRACIÓN PÚBLICA FEDERAL |   |   |   |   |   |   |   |   |
+| ANEXO 23.1.1. LÍMITES MÍNIMOS Y MÁXIMOS DE LAS PERCEPCIONES ORDINARIAS BRUTAS Y NETAS MENSUALES PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL (pesos) |   |   |   |   |   |   |   |   |
+| Grupo / Tipo de Personal | Percepción Ordinaria Bruta | Percepción Ordinaria Neta Total |   |   |   |   |   |   |
+|   | Sueldos y salarios | Prestaciones | Total |   |   |   |   |   |
+|   | (Efectivo y Especie) |   |   |   |   |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |
+| Personal de Mando y Enlace 1/ |   |   |   |   |   |   |   |   |
+| G Secretario de Estado |   |   |   |   |   |   |   |   |
+| 190,035 |   | 45,734 |   | 235,769 |   | 168,860 |   |   |
+| H Subsecretario de Estado u Oficial Mayor |   |   |   |   |   |   |   |   |
+| 188,527 |   | 45,039 |   | 233,566 |   | 167,353 |   |   |
+| J Jefe de Unidad | 171,939 | 184,004 | 40,241 | 42,452 | 212,180 | 226,456 | 152,699 | 162,119 |
+| K Director General | 143,473 | 162,888 | 33,385 | 37,268 | 176,858 | 200,156 | 128,882 | 144,359 |
+| L Director General Adjunto | 113,116 | 137,247 | 27,155 | 32,008 | 140,271 | 169,255 | 104,527 | 123,792 |
+| M Coordinador o Director | 66,362 | 130,377 | 16,426 | 30,112 | 82,788 | 160,489 | 64,611 | 117,809 |
+| N Subdirector | 39,078 | 64,854 | 11,526 | 16,089 | 50,604 | 80,943 | 41,878 | 63,300 |
+| O Jefe de Departamento | 26,005 | 38,309 | 9,017 | 11,288 | 35,022 | 49,597 | 29,878 | 41,083 |
+| P Personal de Enlace | 14,270 | 24,894 | 6,830 | 8,746 | 21,100 | 33,640 | 18,881 | 28,782 |
+| Personal Operativo | 11,748 | 16,481 | 13,719 | 14,807 | 25,467 | 31,288 | 22,441 | 27,145 |
+| Personal de Categorías: |   |   |   |   |   |   |   |   |
+| Del Servicio Exterior Mexicano | 16,059 | 150,822 | 7,107 | 34,729 | 23,166 | 185,551 | 20,502 | 134,618 |
+| De Educación | 516 | 137,023 | 16,731 | 95,814 | 17,247 | 232,838 | 15,262 | 163,611 |
+| De Salud | 15,425 | 91,416 | 12,903 | 19,874 | 28,328 | 111,290 | 25,164 | 86,505 |
+| De Investigación Científica y Desarrollo Tecnológico | 16,112 | 50,705 | 24,859 | 99,980 | 40,971 | 150,685 | 38,071 | 120,244 |
+| De Seguridad Pública | 14,993 | 188,528 | 13,896 | 42,508 | 28,888 | 231,036 | 25,887 | 165,945 |
+| De las Fuerzas Armadas | 8,648 | 190,007 | 16,910 | 49,457 | 25,558 | 239,464 | 20,401 | 166,875 |
+| La percepción ordinaria incluye todos los ingresos que reciben los servidores públicos por sueldos y salarios y por prestaciones ordinarias, independientemente de si se reciben en forma periódica o en fechas definidas. Los montos netos mensuales corresponden a la cantidad que perciben los servidores públicos, una vez aplicadas las disposiciones fiscales vigentes. Los montos indicados no incluyen las prestaciones extraordinarias. Los rangos de las remuneraciones del personal operativo y de categorías, varían conforme a las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo. |   |   |   |   |   |   |   |   |
+| 1/ Las denominaciones de Secretario de Estado, Subsecretario de Estado u Oficial Mayor y Jefe de Unidad son exclusivas de las Dependencias del Ejecutivo Federal. Los titulares de los Órganos Administrativos Desconcentrados y Entidades adoptan como denominación el de Director General, Vocal, Comisionado, etc., independientemente de que el rango tabular pudiera ser coincidente con el de las Dependencias para las denominaciones de uso exclusivo. |   |   |   |   |   |   |   |   |
 
-ANEXO 23.1.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DE LA PRESIDENTA DE LA REPÚBLICA (pesos)Remuneración totalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    134,290 Impuesto sobre la renta retenido y deducciones personales *    59,416 Percepción ordinaria bruta líquida mensual     193,706 a) Sueldos y salarios:      191,846 i) Sueldo base      52,968 ii) Compensación garantizada     138,878 b) Prestaciones:      1,860 vi) Prima quinquenal (antigüedad)     310 vii) Ayuda para despensa      1,515 ix) Seguro colectivo de retiro     35 * Deducciones personales de seguridad social y seguros.La remuneración ordinaria total líquida mensual neta de la Presidenta de la República, en su caso, se actualizará conforme a la Remuneración Total Anual de Percepciones Ordinarias prevista en el Anexo 23.1.3 del presente Decreto y a la política salarial general aplicable para la Administración Pública Federal.Los totales pueden no coincidir, debido al redondeo.
+| ANEXO 23.1.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DE LA PRESIDENTA DE LA REPÚBLICA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Remuneración total |   |   |   |   |   |   |
+| REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA |   |   |   |   | 134,290 |   |   |
+| Impuesto sobre la renta retenido y deducciones personales * |   |   |   |   | 59,416 |   |   |
+| Percepción ordinaria bruta líquida mensual |   |   |   |   |   | 193,706 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   | 191,846 |
+| i) Sueldo base |   |   |   |   |   |   | 52,968 |
+| ii) Compensación garantizada |   |   |   |   |   | 138,878 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 1,860 |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   |   | 310 |   |
+| vii) Ayuda para despensa |   |   |   |   |   |   | 1,515 |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 35 |   |
+| * Deducciones personales de seguridad social y seguros. |   |   |   |   |   |   |   |
+| La remuneración ordinaria total líquida mensual neta de la Presidenta de la República, en su caso, se actualizará conforme a la Remuneración Total Anual de Percepciones Ordinarias prevista en el Anexo 23.1.3 del presente Decreto y a la política salarial general aplicable para la Administración Pública Federal. |   |   |   |   |   |   |   |
+| Los totales pueden no coincidir, debido al redondeo. |   |   |   |   |   |   |   |
 
-ANEXO 23.1.3. REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS DE LA PRESIDENTA DE LA REPÚBLICA (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   2,073,878 Impuesto sobre la renta retenido     808,253 Percepción ordinaria bruta anual     2,882,131 a) Sueldos y salarios:      2,302,152 i) Sueldo base      635,616 ii) Compensación garantizada     1,666,536 b) Prestaciones:      579,979 i) Aportaciones a seguridad social     90,277 ii) Ahorro solidario      26,475 iii) Prima vacacional      17,656 iv) Aguinaldo (sueldo base)     105,258 v) Gratificación (compensación garantizada)     282,074 vi) Prima quinquenal (antigüedad)     3,720 vii) Ayuda para despensa     18,180 viii) Seguro de vida institucional     35,914 ix) Seguro colectivo de retiro     425 En términos del artículo 10, fracciones IV y V, de la Ley Federal de Remuneraciones de los Servidores Públicos, la Remuneración Anual Máxima es la referencia del monto máximo en términos brutos a que tiene derecho la persona titular de la Presidencia de la República por concepto de Remuneración Anual de Referencia, la cual asciende para el ejercicio fiscal de 2026 a $3,206,868.21De conformidad con lo dispuesto en los artículos 7, fracción I, inciso a), último párrafo, de la Ley Federal de Remuneraciones de los Servidores Públicos, y 13, fracción II, inciso a), último párrafo, de este Decreto, la Remuneración Anual de Referencia para la Presidenta de la República no considera los incrementos salariales que, en su caso, se autoricen durante el ejercicio fiscal de 2026, en términos de lo establecido en el artículo 9, fracción II, de este mismo Decreto, así como las repercusiones que se deriven de la aplicación y actualización de las disposiciones de carácter fiscal ni, en su caso, las adecuaciones a la curva salarial del tabulador.La Remuneración Total Anual de la Presidenta de la República que se integra en el presente Presupuesto de Egresos de la Federación es adecuada al no exceder el monto de la Remuneración Anual de Referencia ni el de la Remuneración Anual Máxima, y las prestaciones de seguridad social otorgadas son las que se determinaron conforme a lo establecido en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, lo anterior en términos del artículo 11 de la Ley Federal de Remuneraciones de los Servidores Públicos; y es determinada conforme a lo señalado en el artículo 12, inciso b), y Quinto transitorio del mismo ordenamiento legal.
+| ANEXO 23.1.3. REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS DE LA PRESIDENTA DE LA REPÚBLICA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Remuneración recibida |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS |   |   |   | 2,073,878 |   |   |   |
+| Impuesto sobre la renta retenido |   |   |   |   |   | 808,253 |   |
+| Percepción ordinaria bruta anual |   |   |   |   |   | 2,882,131 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   | 2,302,152 |
+| i) Sueldo base |   |   |   |   |   |   | 635,616 |
+| ii) Compensación garantizada |   |   |   |   |   | 1,666,536 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 579,979 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 90,277 |   |
+| ii) Ahorro solidario |   |   |   |   |   |   | 26,475 |
+| iii) Prima vacacional |   |   |   |   |   |   | 17,656 |
+| iv) Aguinaldo (sueldo base) |   |   |   |   |   | 105,258 |   |
+| v) Gratificación (compensación garantizada) |   |   |   |   |   | 282,074 |   |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   |   | 3,720 |   |
+| vii) Ayuda para despensa |   |   |   |   |   | 18,180 |   |
+| viii) Seguro de vida institucional |   |   |   |   |   | 35,914 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 425 |   |
+| En términos del artículo 10, fracciones IV y V, de la Ley Federal de Remuneraciones de los Servidores Públicos, la Remuneración Anual Máxima es la referencia del monto máximo en términos brutos a que tiene derecho la persona titular de la Presidencia de la República por concepto de Remuneración Anual de Referencia, la cual asciende para el ejercicio fiscal de 2026 a $3,206,868.21 |   |   |   |   |   |   |   |
+| De conformidad con lo dispuesto en los artículos 7, fracción I, inciso a), último párrafo, de la Ley Federal de Remuneraciones de los Servidores Públicos, y 13, fracción II, inciso a), último párrafo, de este Decreto, la Remuneración Anual de Referencia para la Presidenta de la República no considera los incrementos salariales que, en su caso, se autoricen durante el ejercicio fiscal de 2026, en términos de lo establecido en el artículo 9, fracción II, de este mismo Decreto, así como las repercusiones que se deriven de la aplicación y actualización de las disposiciones de carácter fiscal ni, en su caso, las adecuaciones a la curva salarial del tabulador. |   |   |   |   |   |   |   |
+| La Remuneración Total Anual de la Presidenta de la República que se integra en el presente Presupuesto de Egresos de la Federación es adecuada al no exceder el monto de la Remuneración Anual de Referencia ni el de la Remuneración Anual Máxima, y las prestaciones de seguridad social otorgadas son las que se determinaron conforme a lo establecido en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, lo anterior en términos del artículo 11 de la Ley Federal de Remuneraciones de los Servidores Públicos; y es determinada conforme a lo señalado en el artículo 12, inciso b), y Quinto transitorio del mismo ordenamiento legal. |   |   |   |   |   |   |   |
 
-ANEXO 23.2. CÁMARA DE SENADORESANEXO 23.2.1.A. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Tipos de personalSueldos y salarios (1)Prestaciones (1)Percepción ordinaria total (1) (2)(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:Secretario General 130,684  35,399  166,083 Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno120,618 124,712 32,960 33,757 153,578 158,469 Director General101,227 120,556 28,706 32,472 129,933 153,028 Jefe de Unidad79,851 97,492 23,279 26,707 103,130 124,199 Director de Área57,755 88,033 18,848 24,707 76,603 112,740 Subdirector de Área42,230 57,576 14,878 17,776 57,108 75,352 Jefe de Departamento29,295 41,479 12,670 14,835 41,965 56,314 Personal de Servicio Técnico de Carrera16,116 53,207 8,460 15,128 24,576 68,335 Personal de Servicios Generales11,011 33,999 7,495 12,644 18,506 46,643 Personal operativo de confianza34,952 36,884 22,496 23,228 57,448 60,112 Personal operativo de base9,571 21,209 51,018 59,916 60,589 81,125 1) La remuneración neta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, una vez aplicadas las disposiciones fiscales y deducciones de seguridad social.2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses.Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha.
+| ANEXO 23.2. CÁMARA DE SENADORES |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.2.1.A. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| Tipos de personal | Sueldos y salarios (1) | Prestaciones (1) | Percepción ordinaria total (1) (2) |   |   |   |
+| (Efectivo y Especie) |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |
+| Personal de mando: |   |   |   |   |   |   |
+| Secretario General |   | 130,684 |   | 35,399 |   | 166,083 |
+| Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno | 120,618 | 124,712 | 32,960 | 33,757 | 153,578 | 158,469 |
+| Director General | 101,227 | 120,556 | 28,706 | 32,472 | 129,933 | 153,028 |
+| Jefe de Unidad | 79,851 | 97,492 | 23,279 | 26,707 | 103,130 | 124,199 |
+| Director de Área | 57,755 | 88,033 | 18,848 | 24,707 | 76,603 | 112,740 |
+| Subdirector de Área | 42,230 | 57,576 | 14,878 | 17,776 | 57,108 | 75,352 |
+| Jefe de Departamento | 29,295 | 41,479 | 12,670 | 14,835 | 41,965 | 56,314 |
+| Personal de Servicio Técnico de Carrera | 16,116 | 53,207 | 8,460 | 15,128 | 24,576 | 68,335 |
+| Personal de Servicios Generales | 11,011 | 33,999 | 7,495 | 12,644 | 18,506 | 46,643 |
+| Personal operativo de confianza | 34,952 | 36,884 | 22,496 | 23,228 | 57,448 | 60,112 |
+| Personal operativo de base | 9,571 | 21,209 | 51,018 | 59,916 | 60,589 | 81,125 |
+| 1) La remuneración neta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, una vez aplicadas las disposiciones fiscales y deducciones de seguridad social. |   |   |   |   |   |   |
+| 2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses. |   |   |   |   |   |   |
+| Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha. |   |   |   |   |   |   |
 
-ANEXO 23.2.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Tipos de personalSueldos y salarios (1)Prestaciones (1)Percepción ordinaria total (1) (2)(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:Secretario General 187,979  44,859  232,838 Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno172,486 178,689 41,509 42,664 213,995 221,353 Director General142,864 172,152 35,528 40,985 178,392 213,137 Jefe de Unidad110,289 136,562 28,224 33,120 138,513 169,682 Director de Área78,182 122,243 22,087 30,297 100,269 152,540 Subdirector de Área55,510 77,432 16,930 20,946 72,440 98,378 Jefe de Departamento37,683 54,020 14,130 17,020 51,813 71,040 Personal de Servicio Técnico de Carrera19,856 70,333 9,167 17,882 29,023 88,215 Personal de Servicios Generales13,208 43,279 7,922 14,371 21,130 57,650 Personal operativo de confianza44,861 47,485 26,573 27,535 71,434 75,020 Personal operativo de base12,900 28,100 60,629 73,445 73,529 101,545 1) La remuneración bruta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, antes de aplicar las disposiciones fiscales o deducciones de seguridad social.2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses.Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha.
+| ANEXO 23.2.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tipos de personal | Sueldos y salarios (1) | Prestaciones (1) | Percepción ordinaria total (1) (2) |   |   |   |
+| (Efectivo y Especie) |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |
+| Personal de mando: |   |   |   |   |   |   |
+| Secretario General |   | 187,979 |   | 44,859 |   | 232,838 |
+| Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno | 172,486 | 178,689 | 41,509 | 42,664 | 213,995 | 221,353 |
+| Director General | 142,864 | 172,152 | 35,528 | 40,985 | 178,392 | 213,137 |
+| Jefe de Unidad | 110,289 | 136,562 | 28,224 | 33,120 | 138,513 | 169,682 |
+| Director de Área | 78,182 | 122,243 | 22,087 | 30,297 | 100,269 | 152,540 |
+| Subdirector de Área | 55,510 | 77,432 | 16,930 | 20,946 | 72,440 | 98,378 |
+| Jefe de Departamento | 37,683 | 54,020 | 14,130 | 17,020 | 51,813 | 71,040 |
+| Personal de Servicio Técnico de Carrera | 19,856 | 70,333 | 9,167 | 17,882 | 29,023 | 88,215 |
+| Personal de Servicios Generales | 13,208 | 43,279 | 7,922 | 14,371 | 21,130 | 57,650 |
+| Personal operativo de confianza | 44,861 | 47,485 | 26,573 | 27,535 | 71,434 | 75,020 |
+| Personal operativo de base | 12,900 | 28,100 | 60,629 | 73,445 | 73,529 | 101,545 |
+| 1) La remuneración bruta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, antes de aplicar las disposiciones fiscales o deducciones de seguridad social. |   |   |   |   |   |   |
+| 2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses. |   |   |   |   |   |   |
+| Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha. |   |   |   |   |   |   |
 
-ANEXO 23.2.2. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos)DescripciónRemuneración recibida 1_/REMUNERACIÓN TOTAL ANUAL NETA (RTA)     2,037,848 Impuesto sobre la renta retenido *_/     785,105 Percepción bruta anual      2,822,953 I. Percepciones ordinarias:     2,822,953 a) Sueldos y salarios:     2,280,278 i) Sueldo base 2_/     2,280,278 ii) Compensación garantizada      N/A b) Prestaciones:      542,675 i) Aportaciones a seguridad social     63,709 ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)     N/A iii) Prima vacacional      N/A iv) Aguinaldo (sueldo base)     382,207 v) Gratificación de fin de año (compensación garantizada)    N/A vi) Prima quinquenal (antigüedad)      N/A vii) Ayuda para despensa      N/A viii) Seguro de vida institucional      96,759 ix) Seguro colectivo de retiro       N/A x) Seguro de gastos médicos mayores       N/A xi) Seguro de separación individualizado       N/A xii) Apoyo económico para adquisición de vehículo       N/A II. Percepciones extraordinarias:       - a) Pago por riesgo y potenciación de seguro de vida       N/A *_/ Cálculo obtenido conforme al artículo 152 de la Ley del Impuesto Sobre la Renta.1_/ Corresponde a las percepciones para 2025.2_/ Dieta.
+| ANEXO 23.2.2. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Descripción | Remuneración recibida 1_/ |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA (RTA) |   |   |   |   |   | 2,037,848 |   |
+| Impuesto sobre la renta retenido *_/ |   |   |   |   |   | 785,105 |   |
+| Percepción bruta anual |   |   |   |   |   |   | 2,822,953 |
+| I. Percepciones ordinarias: |   |   |   |   |   | 2,822,953 |   |
+| a) Sueldos y salarios: |   |   |   |   |   | 2,280,278 |   |
+| i) Sueldo base 2_/ |   |   |   |   |   | 2,280,278 |   |
+| ii) Compensación garantizada |   |   |   |   |   | N/A |   |
+| b) Prestaciones: |   |   |   |   |   |   | 542,675 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 63,709 |   |
+| ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE) |   |   |   |   | N/A |   |   |
+| iii) Prima vacacional |   |   |   |   |   | N/A |   |
+| iv) Aguinaldo (sueldo base) |   |   |   |   |   | 382,207 |   |
+| v) Gratificación de fin de año (compensación garantizada) |   |   |   | N/A |   |   |   |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   |   | N/A |   |
+| vii) Ayuda para despensa |   |   |   |   |   | N/A |   |
+| viii) Seguro de vida institucional |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 96,759 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| x) Seguro de gastos médicos mayores |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| xi) Seguro de separación individualizado |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| xii) Apoyo económico para adquisición de vehículo |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| II. Percepciones extraordinarias: |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | - |   |
+| a) Pago por riesgo y potenciación de seguro de vida |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| *_/ Cálculo obtenido conforme al artículo 152 de la Ley del Impuesto Sobre la Renta. |   |   |   |   |   |   |   |
+| 1_/ Corresponde a las percepciones para 2025. |   |   |   |   |   |   |   |
+| 2_/ Dieta. |   |   |   |   |   |   |   |
 
-ANEXO 23.2.3. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos)DescripciónRemuneración recibidaREMUNERACIÓN LÍQUIDA MENSUAL NETA      131,874Impuesto sobre la renta retenido y deducciones de seguridad social      58,149Percepción ordinaria bruta mensual      190,023I. Percepciones ordinarias:      190,023a) Sueldos y salarios:       190,023i) Sueldo base      190,023ii) Compensación garantizada       N/A b) Prestaciones:       - i) Prima quinquenal       N/A ii) Ayuda para despensa       N/A iii) Seguro colectivo de retiro       N/A
+| ANEXO 23.2.3. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Descripción | Remuneración recibida |   |   |   |   |   |   |
+| REMUNERACIÓN LÍQUIDA MENSUAL NETA |   |   |   |   |   |   | 131,874 |
+| Impuesto sobre la renta retenido y deducciones de seguridad social |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 58,149 |   |
+| Percepción ordinaria bruta mensual |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 190,023 |   |
+| I. Percepciones ordinarias: |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 190,023 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 190,023 |   |
+| i) Sueldo base |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | 190,023 |   |
+| ii) Compensación garantizada |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| b) Prestaciones: |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | - |   |
+| i) Prima quinquenal |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| ii) Ayuda para despensa |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
+| iii) Seguro colectivo de retiro |   |   |   |   |   |   |   |
+|   |   |   |   |   |   | N/A |   |
 
-ANEXO 23.2.4. REMUNERACIÓN TOTAL ANUAL DEL SECRETARIO GENERAL (pesos)DescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA (RTA)     1,990,722Impuesto sobre la renta retenido (*)     803,334Percepción bruta anual      2,794,056I. Percepciones ordinarias:     2,794,056a) Sueldos y salarios:     2,255,748i) Sueldo base      372,000ii) Compensación garantizada     1,883,748b) Prestaciones:      538,308i) Aportaciones a seguridad social     74,939ii) Ahorro solidario     24,180iii) Prima vacacional     15,500iv) Aguinaldo (sueldo base)     60,147v) Gratificación de fin de año (compensación garantizada)   304,591vi) Ayuda para despensa (vales)     18,180vii) Seguro de vida institucional     40,603viii) Seguro colectivo de retiro     168(*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos.
+| ANEXO 23.2.4. REMUNERACIÓN TOTAL ANUAL DEL SECRETARIO GENERAL (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Descripción | Remuneración Total |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA (RTA) |   |   |   |   |   | 1,990,722 |   |
+| Impuesto sobre la renta retenido (*) |   |   |   |   |   | 803,334 |   |
+| Percepción bruta anual |   |   |   |   |   |   | 2,794,056 |
+| I. Percepciones ordinarias: |   |   |   |   |   | 2,794,056 |   |
+| a) Sueldos y salarios: |   |   |   |   |   | 2,255,748 |   |
+| i) Sueldo base |   |   |   |   |   |   | 372,000 |
+| ii) Compensación garantizada |   |   |   |   |   | 1,883,748 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 538,308 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 74,939 |   |
+| ii) Ahorro solidario |   |   |   |   |   | 24,180 |   |
+| iii) Prima vacacional |   |   |   |   |   | 15,500 |   |
+| iv) Aguinaldo (sueldo base) |   |   |   |   |   | 60,147 |   |
+| v) Gratificación de fin de año (compensación garantizada) |   |   |   | 304,591 |   |   |   |
+| vi) Ayuda para despensa (vales) |   |   |   |   |   | 18,180 |   |
+| vii) Seguro de vida institucional |   |   |   |   |   | 40,603 |   |
+| viii) Seguro colectivo de retiro |   |   |   |   |   | 168 |   |
+| (*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos. |   |   |   |   |   |   |   |
 
-ANEXO 23.2.5. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL SECRETARIO GENERAL (pesos)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL NETA    130,684Impuesto sobre la renta retenido y deducciones de seguridad social      57,295Percepción bruta mensual      187,979a) Sueldos y salarios:       187,979i) Sueldo base      31,000ii) Compensación garantizada      156,979(*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos.
+| ANEXO 23.2.5. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL SECRETARIO GENERAL (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Descripción | Remuneración Total |   |   |   |   |   |
+| REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL NETA |   |   |   |   | 130,684 |   |
+| Impuesto sobre la renta retenido y deducciones de seguridad social |   |   |   |   |   |   |
+|   |   |   |   |   |   | 57,295 |
+| Percepción bruta mensual |   |   |   |   |   |   |
+|   |   |   |   |   |   | 187,979 |
+| a) Sueldos y salarios: |   |   |   |   |   |   |
+|   |   |   |   |   |   | 187,979 |
+| i) Sueldo base |   |   |   |   |   |   |
+|   |   |   |   |   |   | 31,000 |
+| ii) Compensación garantizada |   |   |   |   |   |   |
+|   |   |   |   |   |   | 156,979 |
+| (*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos. |   |   |   |   |   |   |
 
-ANEXO 23.3.4. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DIPUTADO(A) FEDERAL (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA (RTA) (1)     1,307,224Impuesto sobre la renta retenido (2)     403,453Percepción Bruta Anual     1,710,677I. Percepciones Ordinarias:     1,710,677a) Sueldos y salarios:     1,326,944i) Sueldo Base (3)     1,326,944ii) Compensación Garantizada      - b) Prestaciones:     383,733i) Aportaciones a seguridad social     82,052ii) Ahorro solidario (art. 100 ISSSTE)     26,475iii) Prima vacacional      - iv) Aguinaldo     147,438v) Gratificación de fin de año      - vi) Prima quincenal      - vii) Ayuda para despensa      - viii) Seguro de vida institucional     59,984ix) Seguro colectivo de retiro      - x) Seguro de gastos médicos mayores      - xi) Seguro de separación individualizado      - xii) Apoyo económico para la adquisición de vehículo     - xiii) Otras prestaciones (4)     67,785II. Percepciones extraordinarias:      - a) Pago por riesgo y potencialización de seguro de vida     - Las remuneraciones de los servidores públicos, podrán en su caso, si existen recursos presupuestales, actualizarse conforme a la política salarial del Ejecutivo Federal.(1) Corresponde a las percepciones 2025.(2) Conforme lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.(3) Dieta.(4) Prestación I.S.R. de aguinaldo.
+| ANEXO 23.3.4. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DIPUTADO(A) FEDERAL (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Remuneración recibida |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA (RTA) (1) |   |   |   |   |   | 1,307,224 |
+| Impuesto sobre la renta retenido (2) |   |   |   |   |   | 403,453 |
+| Percepción Bruta Anual |   |   |   |   |   |   |
+|   |   |   |   |   | 1,710,677 |   |
+| I. Percepciones Ordinarias: |   |   |   |   |   | 1,710,677 |
+| a) Sueldos y salarios: |   |   |   |   |   | 1,326,944 |
+| i) Sueldo Base (3) |   |   |   |   |   |   |
+|   |   |   |   |   | 1,326,944 |   |
+| ii) Compensación Garantizada |   |   |   |   |   | - |
+| b) Prestaciones: |   |   |   |   |   |   |
+|   |   |   |   |   | 383,733 |   |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 82,052 |
+| ii) Ahorro solidario (art. 100 ISSSTE) |   |   |   |   |   | 26,475 |
+| iii) Prima vacacional |   |   |   |   |   |   |
+|   |   |   |   |   | - |   |
+| iv) Aguinaldo |   |   |   |   |   |   |
+|   |   |   |   |   | 147,438 |   |
+| v) Gratificación de fin de año |   |   |   |   |   | - |
+| vi) Prima quincenal |   |   |   |   |   |   |
+|   |   |   |   |   | - |   |
+| vii) Ayuda para despensa |   |   |   |   |   | - |
+| viii) Seguro de vida institucional |   |   |   |   |   | 59,984 |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | - |
+| x) Seguro de gastos médicos mayores |   |   |   |   |   | - |
+| xi) Seguro de separación individualizado |   |   |   |   |   | - |
+| xii) Apoyo económico para la adquisición de vehículo |   |   |   |   | - |   |
+| xiii) Otras prestaciones (4) |   |   |   |   |   | 67,785 |
+| II. Percepciones extraordinarias: |   |   |   |   |   | - |
+| a) Pago por riesgo y potencialización de seguro de vida |   |   |   |   | - |   |
+| Las remuneraciones de los servidores públicos, podrán en su caso, si existen recursos presupuestales, actualizarse conforme a la política salarial del Ejecutivo Federal. |   |   |   |   |   |   |
+| (1) Corresponde a las percepciones 2025. |   |   |   |   |   |   |
+| (2) Conforme lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta. |   |   |   |   |   |   |
+| (3) Dieta. |   |   |   |   |   |   |
+| (4) Prestación I.S.R. de aguinaldo. |   |   |   |   |   |   |
 
-ANEXO 23.4. AUDITORÍA SUPERIOR DE LA FEDERACIÓNANEXO 23.4.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria totalMínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando      Auditor Superior de la Federación 134,645 35,151 169,796Auditor Especial 133,413 34,881 168,294Titular de Unidad 132,180 34,616 166,796Director General y Homólogos129,426130,94830,38834,351159,814165,299Director General Adjunto114,977118,62627,27531,290142,252149,916Director de Área y Homólogos108,870110,84025,65829,150134,528139,990Secretario Técnico86,00197,81821,45226,380107,453124,198Coordinador de Servicios EspecializadosAsesor EspecializadoCoordinador Técnico de la OASFSubdirector de Área y Homólogos68,80473,70417,94020,95886,74494,662Jefe de Departamento y Homólogos50,18953,29814,37516,52264,56469,820Personal Operativo de Confianza      Coordinador de Auditores de Fiscalización32,86034,18315,27820,02748,13854,210Coordinador de Auditores Jurídicos32,86034,18315,27820,02748,13854,210Coordinador de Auditores Administrativos32,86034,18315,27820,02748,13854,210Auditor de Fiscalización "A"28,96830,12215,08819,97344,05650,095Auditor Jurídico "A"28,96830,12215,08819,97344,05650,095Auditor Administrativo "A"28,96830,12215,08819,97344,05650,095Auditor de Fiscalización "B"23,48826,99614,85919,86438,34746,860Auditor Jurídico "B"23,48826,99614,85919,86438,34746,860Auditor Administrativo "B"23,48826,99614,85919,86438,34746,860Coordinador de Analistas "A" 25,494 19,085 44,579Secretaria Particular "A" 33,456 21,057 54,513Operador Supervisor "A"26,11728,68216,92223,44643,03952,128Secretaria Particular "B" 26,790 21,453 48,243Operador Supervisor "B" 23,736 23,804 47,540Operador Supervisor "C" 22,065 23,862 45,927Supervisor de Área Administrativa 20,665 23,863 44,528Supervisor de Área Técnica 20,665 23,863 44,528Operador Supervisor "D" 20,665 23,863 44,528Vigilante de la ASF 20,665 23,863 44,528Secretaria de Director de Área 18,080 23,131 41,211Personal Operativo de Base      Técnico Superior 13,873 33,152 47,025Coordinador de Proyectos Especiales 13,731 33,079 46,810Jefe de Sección Especialistas Hacendarios 13,316 32,839 46,155Analista Especializado en Proyectos 12,492 32,557 45,049Especialista Técnico 12,040 32,359 44,399Especialista en Proyectos Técnicos 11,577 32,165 43,742Especialista Hacendario 11,137 31,998 43,135Técnico Medio 10,677 31,817 42,494Analista Contable 10,204 31,631 41,835Técnico Contable 9,704 31,472 41,176Técnico Medio Contable 9,204 31,313 40,517Auxiliar Técnico Contable 8,709 31,154 39,8631.- Los límites de percepción ordinaria neta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP.4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal.6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal.7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos.
+| ANEXO 23.4. AUDITORÍA SUPERIOR DE LA FEDERACIÓN |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.4.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |
+| Personal de Mando |   |   |   |   |   |   |
+| Auditor Superior de la Federación |   | 134,645 |   | 35,151 |   | 169,796 |
+| Auditor Especial |   | 133,413 |   | 34,881 |   | 168,294 |
+| Titular de Unidad |   | 132,180 |   | 34,616 |   | 166,796 |
+| Director General y Homólogos | 129,426 | 130,948 | 30,388 | 34,351 | 159,814 | 165,299 |
+| Director General Adjunto | 114,977 | 118,626 | 27,275 | 31,290 | 142,252 | 149,916 |
+| Director de Área y Homólogos | 108,870 | 110,840 | 25,658 | 29,150 | 134,528 | 139,990 |
+| Secretario Técnico | 86,001 | 97,818 | 21,452 | 26,380 | 107,453 | 124,198 |
+| Coordinador de Servicios Especializados |   |   |   |   |   |   |
+| Asesor Especializado |   |   |   |   |   |   |
+| Coordinador Técnico de la OASF |   |   |   |   |   |   |
+| Subdirector de Área y Homólogos | 68,804 | 73,704 | 17,940 | 20,958 | 86,744 | 94,662 |
+| Jefe de Departamento y Homólogos | 50,189 | 53,298 | 14,375 | 16,522 | 64,564 | 69,820 |
+| Personal Operativo de Confianza |   |   |   |   |   |   |
+| Coordinador de Auditores de Fiscalización | 32,860 | 34,183 | 15,278 | 20,027 | 48,138 | 54,210 |
+| Coordinador de Auditores Jurídicos | 32,860 | 34,183 | 15,278 | 20,027 | 48,138 | 54,210 |
+| Coordinador de Auditores Administrativos | 32,860 | 34,183 | 15,278 | 20,027 | 48,138 | 54,210 |
+| Auditor de Fiscalización "A" | 28,968 | 30,122 | 15,088 | 19,973 | 44,056 | 50,095 |
+| Auditor Jurídico "A" | 28,968 | 30,122 | 15,088 | 19,973 | 44,056 | 50,095 |
+| Auditor Administrativo "A" | 28,968 | 30,122 | 15,088 | 19,973 | 44,056 | 50,095 |
+| Auditor de Fiscalización "B" | 23,488 | 26,996 | 14,859 | 19,864 | 38,347 | 46,860 |
+| Auditor Jurídico "B" | 23,488 | 26,996 | 14,859 | 19,864 | 38,347 | 46,860 |
+| Auditor Administrativo "B" | 23,488 | 26,996 | 14,859 | 19,864 | 38,347 | 46,860 |
+| Coordinador de Analistas "A" |   | 25,494 |   | 19,085 |   | 44,579 |
+| Secretaria Particular "A" |   | 33,456 |   | 21,057 |   | 54,513 |
+| Operador Supervisor "A" | 26,117 | 28,682 | 16,922 | 23,446 | 43,039 | 52,128 |
+| Secretaria Particular "B" |   | 26,790 |   | 21,453 |   | 48,243 |
+| Operador Supervisor "B" |   | 23,736 |   | 23,804 |   | 47,540 |
+| Operador Supervisor "C" |   | 22,065 |   | 23,862 |   | 45,927 |
+| Supervisor de Área Administrativa |   | 20,665 |   | 23,863 |   | 44,528 |
+| Supervisor de Área Técnica |   | 20,665 |   | 23,863 |   | 44,528 |
+| Operador Supervisor "D" |   | 20,665 |   | 23,863 |   | 44,528 |
+| Vigilante de la ASF |   | 20,665 |   | 23,863 |   | 44,528 |
+| Secretaria de Director de Área |   | 18,080 |   | 23,131 |   | 41,211 |
+| Personal Operativo de Base |   |   |   |   |   |   |
+| Técnico Superior |   | 13,873 |   | 33,152 |   | 47,025 |
+| Coordinador de Proyectos Especiales |   | 13,731 |   | 33,079 |   | 46,810 |
+| Jefe de Sección Especialistas Hacendarios |   | 13,316 |   | 32,839 |   | 46,155 |
+| Analista Especializado en Proyectos |   | 12,492 |   | 32,557 |   | 45,049 |
+| Especialista Técnico |   | 12,040 |   | 32,359 |   | 44,399 |
+| Especialista en Proyectos Técnicos |   | 11,577 |   | 32,165 |   | 43,742 |
+| Especialista Hacendario |   | 11,137 |   | 31,998 |   | 43,135 |
+| Técnico Medio |   | 10,677 |   | 31,817 |   | 42,494 |
+| Analista Contable |   | 10,204 |   | 31,631 |   | 41,835 |
+| Técnico Contable |   | 9,704 |   | 31,472 |   | 41,176 |
+| Técnico Medio Contable |   | 9,204 |   | 31,313 |   | 40,517 |
+| Auxiliar Técnico Contable |   | 8,709 |   | 31,154 |   | 39,863 |
+| 1.- Los límites de percepción ordinaria neta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social. |   |   |   |   |   |   |
+| 2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |   |   |   |   |
+| 3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP. |   |   |   |   |   |   |
+| 4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |   |   |   |   |
+| 5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal. |   |   |   |   |   |   |
+| 6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal. |   |   |   |   |   |   |
+| 7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos. |   |   |   |   |   |   |
 
-ANEXO 23.4.1.B. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria totalMínimoMáximoMínimoMáximoMínimoMáximoPersonal de MandoAuditor Superior de la Federación 189,126 48,371 237,497Auditor Especial 187,261 47,978 235,239Titular de Unidad 185,396 47,586 232,982Director General y Homólogos181,194183,53041,29447,193222,488230,723Director General Adjunto159,319164,87836,84742,817196,166207,695Director de Área y Homólogos150,076153,09434,66839,846184,744192,940Secretario Técnico115,712133,39028,39135,700144,103169,090Coordinador de Servicios EspecializadosAsesor EspecializadoCoordinador Técnico de la OASFSubdirector de Área y Homólogos90,51897,69323,29927,698113,817125,391Jefe de Departamento y Homólogos63,97768,44917,96021,05381,93789,502Personal Operativo de Confianza      Coordinador de Auditores de Fiscalización39,90241,63218,00724,95157,90966,583Coordinador de Auditores Jurídicos39,90241,63218,00724,95157,90966,583Coordinador de Auditores Administrativos39,90241,63218,00724,95157,90966,583Auditor de Fiscalización "A"34,81436,32217,66424,46052,47860,782Auditor Jurídico "A"34,81436,32217,66424,46052,47860,782Auditor Administrativo "A"34,81436,32217,66424,46052,47860,782Auditor de Fiscalización "B"27,74632,23517,32024,00445,06656,239Auditor Jurídico "B"27,74632,23517,32024,00445,06656,239Auditor Administrativo "B"27,74632,23517,32024,00445,06656,239Coordinador de Analistas "A" 30,298 23,062 53,360Secretaria Particular "A" 40,681 26,521 67,202Operador Supervisor "A"31,09034,44019,99229,15751,08263,597Secretaria Particular "B" 31,966 26,279 58,245Operador Supervisor "B" 28,062 28,980 57,042Operador Supervisor "C" 25,937 28,921 54,858Supervisor de Área Administrativa 24,157 28,871 53,028Supervisor de Área Técnica 24,157 28,871 53,028Operador Supervisor "D" 24,157 28,871 53,028Vigilante de la ASF 24,157 28,871 53,028Secretaria de Director de Área 20,869 27,920 48,789Personal Operativo de BaseTécnico Superior 15,521 40,196 55,717Coordinador de Proyectos Especiales 15,346 40,098 55,444Jefe de Sección Especialistas Hacendarios 14,840 39,777 54,617Analista Especializado en Proyectos 13,836 39,369 53,205Especialista Técnico 13,285 39,095 52,380Especialista en Proyectos Técnicos 12,726 38,819 51,545Especialista Hacendario 12,203 38,571 50,774Técnico Medio 11,655 38,304 49,959Analista Contable 11,094 38,028 49,122Técnico Contable 10,533 37,752 48,285Técnico Medio Contable 9,971 37,476 47,447Auxiliar Técnico Contable 9,417 37,200 46,6171.- Los límites de percepción ordinaria bruta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP.4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal.6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal.7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos.
+| ANEXO 23.4.1.B. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |
+| Personal de Mando |   |   |   |   |   |   |
+| Auditor Superior de la Federación |   | 189,126 |   | 48,371 |   | 237,497 |
+| Auditor Especial |   | 187,261 |   | 47,978 |   | 235,239 |
+| Titular de Unidad |   | 185,396 |   | 47,586 |   | 232,982 |
+| Director General y Homólogos | 181,194 | 183,530 | 41,294 | 47,193 | 222,488 | 230,723 |
+| Director General Adjunto | 159,319 | 164,878 | 36,847 | 42,817 | 196,166 | 207,695 |
+| Director de Área y Homólogos | 150,076 | 153,094 | 34,668 | 39,846 | 184,744 | 192,940 |
+| Secretario Técnico | 115,712 | 133,390 | 28,391 | 35,700 | 144,103 | 169,090 |
+| Coordinador de Servicios Especializados |   |   |   |   |   |   |
+| Asesor Especializado |   |   |   |   |   |   |
+| Coordinador Técnico de la OASF |   |   |   |   |   |   |
+| Subdirector de Área y Homólogos | 90,518 | 97,693 | 23,299 | 27,698 | 113,817 | 125,391 |
+| Jefe de Departamento y Homólogos | 63,977 | 68,449 | 17,960 | 21,053 | 81,937 | 89,502 |
+| Personal Operativo de Confianza |   |   |   |   |   |   |
+| Coordinador de Auditores de Fiscalización | 39,902 | 41,632 | 18,007 | 24,951 | 57,909 | 66,583 |
+| Coordinador de Auditores Jurídicos | 39,902 | 41,632 | 18,007 | 24,951 | 57,909 | 66,583 |
+| Coordinador de Auditores Administrativos | 39,902 | 41,632 | 18,007 | 24,951 | 57,909 | 66,583 |
+| Auditor de Fiscalización "A" | 34,814 | 36,322 | 17,664 | 24,460 | 52,478 | 60,782 |
+| Auditor Jurídico "A" | 34,814 | 36,322 | 17,664 | 24,460 | 52,478 | 60,782 |
+| Auditor Administrativo "A" | 34,814 | 36,322 | 17,664 | 24,460 | 52,478 | 60,782 |
+| Auditor de Fiscalización "B" | 27,746 | 32,235 | 17,320 | 24,004 | 45,066 | 56,239 |
+| Auditor Jurídico "B" | 27,746 | 32,235 | 17,320 | 24,004 | 45,066 | 56,239 |
+| Auditor Administrativo "B" | 27,746 | 32,235 | 17,320 | 24,004 | 45,066 | 56,239 |
+| Coordinador de Analistas "A" |   | 30,298 |   | 23,062 |   | 53,360 |
+| Secretaria Particular "A" |   | 40,681 |   | 26,521 |   | 67,202 |
+| Operador Supervisor "A" | 31,090 | 34,440 | 19,992 | 29,157 | 51,082 | 63,597 |
+| Secretaria Particular "B" |   | 31,966 |   | 26,279 |   | 58,245 |
+| Operador Supervisor "B" |   | 28,062 |   | 28,980 |   | 57,042 |
+| Operador Supervisor "C" |   | 25,937 |   | 28,921 |   | 54,858 |
+| Supervisor de Área Administrativa |   | 24,157 |   | 28,871 |   | 53,028 |
+| Supervisor de Área Técnica |   | 24,157 |   | 28,871 |   | 53,028 |
+| Operador Supervisor "D" |   | 24,157 |   | 28,871 |   | 53,028 |
+| Vigilante de la ASF |   | 24,157 |   | 28,871 |   | 53,028 |
+| Secretaria de Director de Área |   | 20,869 |   | 27,920 |   | 48,789 |
+| Personal Operativo de Base |   |   |   |   |   |   |
+| Técnico Superior |   | 15,521 |   | 40,196 |   | 55,717 |
+| Coordinador de Proyectos Especiales |   | 15,346 |   | 40,098 |   | 55,444 |
+| Jefe de Sección Especialistas Hacendarios |   | 14,840 |   | 39,777 |   | 54,617 |
+| Analista Especializado en Proyectos |   | 13,836 |   | 39,369 |   | 53,205 |
+| Especialista Técnico |   | 13,285 |   | 39,095 |   | 52,380 |
+| Especialista en Proyectos Técnicos |   | 12,726 |   | 38,819 |   | 51,545 |
+| Especialista Hacendario |   | 12,203 |   | 38,571 |   | 50,774 |
+| Técnico Medio |   | 11,655 |   | 38,304 |   | 49,959 |
+| Analista Contable |   | 11,094 |   | 38,028 |   | 49,122 |
+| Técnico Contable |   | 10,533 |   | 37,752 |   | 48,285 |
+| Técnico Medio Contable |   | 9,971 |   | 37,476 |   | 47,447 |
+| Auxiliar Técnico Contable |   | 9,417 |   | 37,200 |   | 46,617 |
+| 1.- Los límites de percepción ordinaria bruta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social. |   |   |   |   |   |   |
+| 2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |   |   |   |   |
+| 3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP. |   |   |   |   |   |   |
+| 4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |   |   |   |   |
+| 5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal. |   |   |   |   |   |   |
+| 6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal. |   |   |   |   |   |   |
+| 7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos. |   |   |   |   |   |   |
 
-ANEXO 23.4.2.A. LÍMITES DE LA PERCEPCIÓN EXTRAORDINARIA NETA TOTAL (pesos)Tipos de personalPlazasPago extraordinario anual unitarioHastaPersonal de MandoAuditor Superior de la Federación1-Auditor Especial4-Titular de Unidad5-Director General y Homólogos44-Director General Adjunto4-Director de Área y Homólogos170-Secretario Técnico
+| ANEXO 23.4.2.A. LÍMITES DE LA PERCEPCIÓN EXTRAORDINARIA NETA TOTAL (pesos) |   |   |
+| --- | --- | --- |
+| Tipos de personal | Plazas | Pago extraordinario anual unitario |
+| Hasta |   |   |
+| Personal de Mando |   |   |
+| Auditor Superior de la Federación | 1 | - |
+| Auditor Especial | 4 | - |
+| Titular de Unidad | 5 | - |
+| Director General y Homólogos | 44 | - |
+| Director General Adjunto | 4 | - |
+| Director de Área y Homólogos | 170 | - |
+| Secretario Técnico |   |   |
 
 Coordinador de Servicios Especializados
 
 Asesor Especializado
 
-Coordinador Técnico de la OASF5-Subdirector de Área y Homólogos373-Jefe de Departamento y Homólogos561-Personal Operativo de ConfianzaCoordinador de Auditores de Fiscalización17674,481Coordinador de Auditores Jurídicos3074,481Coordinador de Auditores Administrativos8974,481Auditor de Fiscalización "A"24167,022Auditor Jurídico "A"8467,022Auditor Administrativo "A"13567,022Auditor de Fiscalización "B"15161,277Auditor Jurídico "B"361,277Auditor Administrativo "B"5261,277Coordinador de Analistas "A"160,011Secretaria Particular "A"1673,092Operador Supervisor "A"267,639Secretaria Particular "B"3660,890Operador Supervisor "B"836,512Operador Supervisor "C"2036,036Supervisor de Área Administrativa7336,212Supervisor de Área Técnica1136,212Operador Supervisor "D"736,212Vigilante de la ASF1636,212Secretaria de Director de Área134,368Personal Operativo de Base Técnico Superior3733,537Coordinador de Proyectos Especiales733,599Jefe de Sección Especialistas Hacendarios733,794Analista Especializado en Proyectos633,309Especialista Técnico732,859Especialista en Proyectos Técnicos732,404Especialista Hacendario431,978Técnico Medio1231,531Analista Contable2631,074Técnico Contable3630,617Técnico Medio Contable4130,172Auxiliar Técnico Contable5129,7311.- Los límites de percepción extraordinaria neta total, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.
+| Coordinador Técnico de la OASF | 5 | - |   |
+| --- | --- | --- | --- |
+| Subdirector de Área y Homólogos | 373 | - |   |
+| Jefe de Departamento y Homólogos | 561 | - |   |
+| Personal Operativo de Confianza |   |   |   |
+| Coordinador de Auditores de Fiscalización | 176 | 74,481 |   |
+| Coordinador de Auditores Jurídicos | 30 | 74,481 |   |
+| Coordinador de Auditores Administrativos | 89 | 74,481 |   |
+| Auditor de Fiscalización "A" | 241 | 67,022 |   |
+| Auditor Jurídico "A" | 84 | 67,022 |   |
+| Auditor Administrativo "A" | 135 | 67,022 |   |
+| Auditor de Fiscalización "B" | 151 | 61,277 |   |
+| Auditor Jurídico "B" | 3 | 61,277 |   |
+| Auditor Administrativo "B" | 52 | 61,277 |   |
+| Coordinador de Analistas "A" | 1 | 60,011 |   |
+| Secretaria Particular "A" | 16 | 73,092 |   |
+| Operador Supervisor "A" | 2 | 67,639 |   |
+| Secretaria Particular "B" | 36 | 60,890 |   |
+| Operador Supervisor "B" | 8 | 36,512 |   |
+| Operador Supervisor "C" | 20 | 36,036 |   |
+| Supervisor de Área Administrativa | 73 | 36,212 |   |
+| Supervisor de Área Técnica | 11 | 36,212 |   |
+| Operador Supervisor "D" | 7 | 36,212 |   |
+| Vigilante de la ASF | 16 | 36,212 |   |
+| Secretaria de Director de Área | 1 | 34,368 |   |
+| Personal Operativo de Base |   |   |   |
+|   | Técnico Superior | 37 | 33,537 |
+| Coordinador de Proyectos Especiales | 7 | 33,599 |   |
+| Jefe de Sección Especialistas Hacendarios | 7 | 33,794 |   |
+| Analista Especializado en Proyectos | 6 | 33,309 |   |
+| Especialista Técnico | 7 | 32,859 |   |
+| Especialista en Proyectos Técnicos | 7 | 32,404 |   |
+| Especialista Hacendario | 4 | 31,978 |   |
+| Técnico Medio | 12 | 31,531 |   |
+| Analista Contable | 26 | 31,074 |   |
+| Técnico Contable | 36 | 30,617 |   |
+| Técnico Medio Contable | 41 | 30,172 |   |
+| Auxiliar Técnico Contable | 51 | 29,731 |   |
+| 1.- Los límites de percepción extraordinaria neta total, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social. |   |   |   |
+| 2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |   |
 
-ANEXO 23.4.2.B. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES (pesos)     Tipos de personalPlazasPago extraordinario bruto mensualHastaPersonal de Mando  Auditor Superior de la Federación1 - Auditor Especial4 - Titular de Unidad5 - Director General y Homólogos44 - Director General Adjunto4 - Director de Área y Homólogos170 - Secretario Técnico
+| ANEXO 23.4.2.B. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES (pesos) |   |   |   |
+| --- | --- | --- | --- |
+|   | Tipos de personal | Plazas | Pago extraordinario bruto mensual |
+| Hasta |   |   |   |
+| Personal de Mando |   |   |   |
+| Auditor Superior de la Federación | 1 | - |   |
+| Auditor Especial | 4 | - |   |
+| Titular de Unidad | 5 | - |   |
+| Director General y Homólogos | 44 | - |   |
+| Director General Adjunto | 4 | - |   |
+| Director de Área y Homólogos | 170 | - |   |
+| Secretario Técnico |   |   |   |
 
 Coordinador de Servicios Especializados
 
 Asesor Especializado
 
-Coordinador Técnico de la OASF5 - Subdirector de Área y Homólogos373 - Jefe de Departamento y Homólogos561 - Personal Operativo de Confianza  Coordinador de Auditores de Fiscalización1768,867 Coordinador de Auditores Jurídicos308,867 Coordinador de Auditores Administrativos898,867 Auditor de Fiscalización "A"2417,979 Auditor Jurídico "A"847,979 Auditor Administrativo "A"1357,979 Auditor de Fiscalización "B"1517,295 Auditor Jurídico "B"37,295 Auditor Administrativo "B"527,295 Coordinador de Analistas "A"16,965 Secretaria Particular "A"168,701 Operador Supervisor "A"28,052 Secretaria Particular "B"367,249 Operador Supervisor "B"84,347 Operador Supervisor "C"204,170 Supervisor de Área Administrativa734,021 Supervisor de Área Técnica114,021 Operador Supervisor "D"74,021 Vigilante de la ASF164,021 Secretaria de Director de Área13,745 Personal Operativo de Base  Técnico Superior373,778 Coordinador de Proyectos Especiales73,762 Jefe de Sección Especialistas Hacendarios73,718 Analista Especializado en Proyectos63,629 Especialista Técnico73,580 Especialista en Proyectos Técnicos73,531 Especialista Hacendario43,484 Técnico Medio123,436 Analista Contable263,386 Técnico Contable363,336 Técnico Medio Contable413,288 Auxiliar Técnico Contable513,239 1.- Las percepciones extraordinarias brutas mensuales, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.
+| Coordinador Técnico de la OASF | 5 | - |
+| --- | --- | --- |
+| Subdirector de Área y Homólogos | 373 | - |
+| Jefe de Departamento y Homólogos | 561 | - |
+| Personal Operativo de Confianza |   |   |
+| Coordinador de Auditores de Fiscalización | 176 | 8,867 |
+| Coordinador de Auditores Jurídicos | 30 | 8,867 |
+| Coordinador de Auditores Administrativos | 89 | 8,867 |
+| Auditor de Fiscalización "A" | 241 | 7,979 |
+| Auditor Jurídico "A" | 84 | 7,979 |
+| Auditor Administrativo "A" | 135 | 7,979 |
+| Auditor de Fiscalización "B" | 151 | 7,295 |
+| Auditor Jurídico "B" | 3 | 7,295 |
+| Auditor Administrativo "B" | 52 | 7,295 |
+| Coordinador de Analistas "A" | 1 | 6,965 |
+| Secretaria Particular "A" | 16 | 8,701 |
+| Operador Supervisor "A" | 2 | 8,052 |
+| Secretaria Particular "B" | 36 | 7,249 |
+| Operador Supervisor "B" | 8 | 4,347 |
+| Operador Supervisor "C" | 20 | 4,170 |
+| Supervisor de Área Administrativa | 73 | 4,021 |
+| Supervisor de Área Técnica | 11 | 4,021 |
+| Operador Supervisor "D" | 7 | 4,021 |
+| Vigilante de la ASF | 16 | 4,021 |
+| Secretaria de Director de Área | 1 | 3,745 |
+| Personal Operativo de Base |   |   |
+| Técnico Superior | 37 | 3,778 |
+| Coordinador de Proyectos Especiales | 7 | 3,762 |
+| Jefe de Sección Especialistas Hacendarios | 7 | 3,718 |
+| Analista Especializado en Proyectos | 6 | 3,629 |
+| Especialista Técnico | 7 | 3,580 |
+| Especialista en Proyectos Técnicos | 7 | 3,531 |
+| Especialista Hacendario | 4 | 3,484 |
+| Técnico Medio | 12 | 3,436 |
+| Analista Contable | 26 | 3,386 |
+| Técnico Contable | 36 | 3,336 |
+| Técnico Medio Contable | 41 | 3,288 |
+| Auxiliar Técnico Contable | 51 | 3,239 |
+| 1.- Las percepciones extraordinarias brutas mensuales, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social. |   |   |
+| 2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP. |   |   |
 
-ANEXO 23.4.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN (pesos)AUDITOR SUPERIOR DE LA FEDERACIÓNRemuneración TotalISRRemuneración NetaMensual NetaREMUNERACIÓN TOTAL ANUAL NETA (RTA) 1/2,037,546  - 2,037,546 169,796 Impuesto sobre la renta retenido 2/  812,419  -  -  - Percepción bruta anual  2,849,965 812,419 2,037,546 169,796 I. Percepciones ordinarias:  2,849,965 812,419 2,037,546 169,796 a) Sueldos y salarios:  2,269,515 653,780 1,615,735 134,645 i) Sueldo base  531,683 153,162 378,521 31,543 ii) Compensación garantizada  1,737,832 500,618 1,237,214 103,101 b) Prestaciones:  580,450 158,639 421,811 35,151 i) Aportaciones a seguridad social  82,051  - 82,051 6,838 ii) Prima vacacional  63,043 20,857 42,186 3,516 iii) Aguinaldo (sueldo base)  89,058 29,126 59,932 4,994 iv) Gratificación de fin de año (compensación garantizada)297,065 102,123 194,942 16,245 v) Prima quinquenal (antigüedad)  4,500 1,296 3,204 267 vi) Ayuda para despensa  18,180 5,237 12,943 1,079 vii) Seguro de vida institucional  26,553  - 26,553 2,213 viii) Seguro de gastos médicos mayores  -  -  -  - ix) Seguro de separación individualizado  -  -  -  - x) Revisión Médica   -  -  -  - xi) Vales de Despensa   -  -  -  - II. Percepciones extraordinarias:   -  -  -  - a) Estímulo por Resultado de la Evaluación del Desempeño  -  -  -  - 1/ La remuneración total anual de la máxima representación de la Auditoría Superior de la Federación, no considera efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2/ No se consideran las actualizaciones anuales de sueldo, las cuales serán dadas a conocer por la SHCP.3/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.
+| ANEXO 23.4.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUDITOR SUPERIOR DE LA FEDERACIÓN | Remuneración Total | ISR | Remuneración Neta | Mensual Neta |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA (RTA) 1/ | 2,037,546 | - | 2,037,546 | 169,796 |   |   |
+| Impuesto sobre la renta retenido 2/ |   |   | 812,419 | - | - | - |
+| Percepción bruta anual |   |   |   |   |   |   |
+|   |   | 2,849,965 | 812,419 | 2,037,546 | 169,796 |   |
+| I. Percepciones ordinarias: |   |   | 2,849,965 | 812,419 | 2,037,546 | 169,796 |
+| a) Sueldos y salarios: |   |   |   |   |   |   |
+|   |   | 2,269,515 | 653,780 | 1,615,735 | 134,645 |   |
+| i) Sueldo base |   |   |   |   |   |   |
+|   |   | 531,683 | 153,162 | 378,521 | 31,543 |   |
+| ii) Compensación garantizada |   |   | 1,737,832 | 500,618 | 1,237,214 | 103,101 |
+| b) Prestaciones: |   |   |   |   |   |   |
+|   |   | 580,450 | 158,639 | 421,811 | 35,151 |   |
+| i) Aportaciones a seguridad social |   |   | 82,051 | - | 82,051 | 6,838 |
+| ii) Prima vacacional |   |   | 63,043 | 20,857 | 42,186 | 3,516 |
+| iii) Aguinaldo (sueldo base) |   |   | 89,058 | 29,126 | 59,932 | 4,994 |
+| iv) Gratificación de fin de año (compensación garantizada) | 297,065 | 102,123 | 194,942 | 16,245 |   |   |
+| v) Prima quinquenal (antigüedad) |   |   | 4,500 | 1,296 | 3,204 | 267 |
+| vi) Ayuda para despensa |   |   | 18,180 | 5,237 | 12,943 | 1,079 |
+| vii) Seguro de vida institucional |   |   | 26,553 | - | 26,553 | 2,213 |
+| viii) Seguro de gastos médicos mayores |   | - | - | - | - |   |
+| ix) Seguro de separación individualizado |   | - | - | - | - |   |
+| x) Revisión Médica |   |   | - | - | - | - |
+| xi) Vales de Despensa |   |   | - | - | - | - |
+| II. Percepciones extraordinarias: |   |   | - | - | - | - |
+| a) Estímulo por Resultado de la Evaluación del Desempeño |   | - | - | - | - |   |
+| 1/ La remuneración total anual de la máxima representación de la Auditoría Superior de la Federación, no considera efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social. |   |   |   |   |   |   |
+| 2/ No se consideran las actualizaciones anuales de sueldo, las cuales serán dadas a conocer por la SHCP. |   |   |   |   |   |   |
+| 3/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta. |   |   |   |   |   |   |
 
-ANEXO 23.5. SUPREMA CORTE DE JUSTICIA DE LA NACIÓNANEXO 23.5.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA MENSUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+| ANEXO 23.5. SUPREMA CORTE DE JUSTICIA DE LA NACIÓN |
+| --- |
+| ANEXO 23.5.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA MENSUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos) |
 
-ANEXO 23.5.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+| ANEXO 23.5.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos) |
+| --- |
 
-ANEXO 23.5.3. REMUNERACIÓN NOMINAL ANUAL DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓNREMUNERACIÓN NOMINAL ANUAL 2026 DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DE CONFORMIDAD CON EL ARTÍCULO 7o. TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL (pesos)
+| ANEXO 23.5.3. REMUNERACIÓN NOMINAL ANUAL DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN |
+| --- |
+| REMUNERACIÓN NOMINAL ANUAL 2026 DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DE CONFORMIDAD CON EL ARTÍCULO 7o. TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL (pesos) |
 
-ANEXO 23.6. ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL ANEXO 23.6.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA NETA MENSUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+| ANEXO 23.6. ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL |
+| --- |
+| ANEXO 23.6.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA NETA MENSUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos) |
 
-ANEXO 23.6.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+| ANEXO 23.6.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos) |
+| --- |
 
-ANEXO 23.6.3. REMUNERACIÓN TOTAL ANUAL 2026 DE LOS CONSEJEROS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+| ANEXO 23.6.3. REMUNERACIÓN TOTAL ANUAL 2026 DE LOS CONSEJEROS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos) |
+| --- |
 
-ANEXO 23.7. TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓNANEXO 23.7.1. LÍMITES DE LOS SUELDOS Y SALARIOS MENSUALES NETOS DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+| ANEXO 23.7. TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN |
+| --- |
+| ANEXO 23.7.1. LÍMITES DE LOS SUELDOS Y SALARIOS MENSUALES NETOS DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos) |
 
-ANEXO 23.7.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+| ANEXO 23.7.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos) |
+| --- |
 
-ANEXO 23.7.3. REMUNERACIÓN TOTAL ANUAL DE LAS PERSONAS MAGISTRADAS ELECTORALES DE LA SALA SUPERIOR (pesos)DE CONFORMIDAD CON LOS ARTÍCULOS 94, 99 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; ASÍ COMO LOS ARTÍCULOS CUARTO, SÉPTIMO Y DÉCIMO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL
+| ANEXO 23.7.3. REMUNERACIÓN TOTAL ANUAL DE LAS PERSONAS MAGISTRADAS ELECTORALES DE LA SALA SUPERIOR (pesos) |
+| --- |
+| DE CONFORMIDAD CON LOS ARTÍCULOS 94, 99 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; ASÍ COMO LOS ARTÍCULOS CUARTO, SÉPTIMO Y DÉCIMO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL |
 
-ANEXO 23.8. INSTITUTO NACIONAL ELECTORALANEXO 23.8.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL ELECTORAL (NETOS MENSUALES) (pesos)         Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando  Consejero Presidente/Consejeros Electorales 1/182,269183,39046,84375,195229,112258,585Secretario Ejecutivo 172,241172,37344,68971,521216,930243,8941/ Miembros permanentes del Consejo General del Instituto de acuerdo a la Ley General Federal de Instituciones y Procedimientos Electorales (LEGIPE)
+| ANEXO 23.8. INSTITUTO NACIONAL ELECTORAL |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.8.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL ELECTORAL (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |   |
+| Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |   |
+| (Efectivo y Especie) |   |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |
+| Personal de Mando |   |   |   |   |   |   |   |
+| Consejero Presidente/Consejeros Electorales 1/ | 182,269 | 183,390 | 46,843 | 75,195 | 229,112 | 258,585 |   |
+| Secretario Ejecutivo |   | 172,241 | 172,373 | 44,689 | 71,521 | 216,930 | 243,894 |
+| 1/ Miembros permanentes del Consejo General del Instituto de acuerdo a la Ley General Federal de Instituciones y Procedimientos Electorales (LEGIPE) |   |   |   |   |   |   |   |
 
-ANEXO 23.8.1.B. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Grupo JerárquicoTipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando:       1Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. 172,241 183,390 44,689 75,195 216,930 258,585 2Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. 127,777 171,087 33,798 71,029 161,575 242,117 3Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. 108,281 125,841 29,364 51,938 137,645 177,779 4Directores de Área, Coordinadores y puestos homólogos. 82,309 107,287 23,752 45,384 106,061 152,671 5Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos.54,382 80,535 17,599 35,422 71,981 115,957 6Vocales Distritales, Jefes de Departamento y puestos homólogos. 34,476 54,421 13,152 25,089 47,628 79,510 Personal Operativo:  7Técnico Operativo10,292 34,456 4,726 17,531 15,018 51,987
+| ANEXO 23.8.1.B. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Grupo Jerárquico | Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |
+|   | (Efectivo y Especie) |   |   |   |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |
+| Personal de Mando: |   |   |   |   |   |   |   |
+| 1 | Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. | 172,241 | 183,390 | 44,689 | 75,195 | 216,930 | 258,585 |
+| 2 | Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. | 127,777 | 171,087 | 33,798 | 71,029 | 161,575 | 242,117 |
+| 3 | Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. | 108,281 | 125,841 | 29,364 | 51,938 | 137,645 | 177,779 |
+| 4 | Directores de Área, Coordinadores y puestos homólogos. | 82,309 | 107,287 | 23,752 | 45,384 | 106,061 | 152,671 |
+| 5 | Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos. | 54,382 | 80,535 | 17,599 | 35,422 | 71,981 | 115,957 |
+| 6 | Vocales Distritales, Jefes de Departamento y puestos homólogos. | 34,476 | 54,421 | 13,152 | 25,089 | 47,628 | 79,510 |
+| Personal Operativo: |   |   |   |   |   |   |   |
+| 7 | Técnico Operativo | 10,292 | 34,456 | 4,726 | 17,531 | 15,018 | 51,987 |
 
-ANEXO 23.8.1.C. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Grupo JerárquicoTipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando:1Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. 245,942262,63458,984104,276304,926366,9102Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. 178,572243,99444,06797,997222,639341,9913Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. 149,033175,43937,92071,243186,953246,6824Directores de Área, Coordinadores y puestos homólogos. 110,142147,32629,62461,632139,766208,9585Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos.69,784107,33220,91646,76090,700154,0926Vocales Distritales, Jefes de Departamento y puestos homólogos. 42,01569,64014,57931,57456,594101,214Personal Operativo:  7Técnico Operativo11,19741,9894,97821,83716,17563,826
+| ANEXO 23.8.1.C. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grupo Jerárquico | Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |   |
+|   | (Efectivo y Especie) |   |   |   |   |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |
+| Personal de Mando: |   |   |   |   |   |   |   |   |
+|   | 1 | Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. | 245,942 | 262,634 | 58,984 | 104,276 | 304,926 | 366,910 |
+| 2 | Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. | 178,572 | 243,994 | 44,067 | 97,997 | 222,639 | 341,991 |   |
+| 3 | Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. | 149,033 | 175,439 | 37,920 | 71,243 | 186,953 | 246,682 |   |
+| 4 | Directores de Área, Coordinadores y puestos homólogos. | 110,142 | 147,326 | 29,624 | 61,632 | 139,766 | 208,958 |   |
+| 5 | Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos. | 69,784 | 107,332 | 20,916 | 46,760 | 90,700 | 154,092 |   |
+| 6 | Vocales Distritales, Jefes de Departamento y puestos homólogos. | 42,015 | 69,640 | 14,579 | 31,574 | 56,594 | 101,214 |   |
+| Personal Operativo: |   |   |   |   |   |   |   |   |
+| 7 | Técnico Operativo | 11,197 | 41,989 | 4,978 | 21,837 | 16,175 | 63,826 |   |
 
-ANEXO 23.8.3.A. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos)CONSEJERA PRESIDENTA / CONSEJEROS ELECTORALESDescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   3,103,017 Impuesto sobre la renta retenido (35%) *_/     1,299,906 Percepción bruta anual      4,402,923 a) Sueldos y salarios:      3,151,608 i) Sueldo base      588,408 ii) Compensación garantizada     2,563,200 b) Prestaciones:      1,251,315 i) Aportaciones a seguridad social     82,051 ii) Ahorro solidario      26,475 iii) Prima vacacional     16,345 iv) Aguinaldo o Gratificación de fin de año     530,571 vi) Prima quinquenal (antigüedad)     2,400 vii) Ayuda para despensa      - viii) Seguro de vida institucional     63,347 ix) Seguro colectivo de retiro     120 x) Seguro de gastos médicos mayores    52,489 xi) Seguro de separación individualizado    477,516 *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+| ANEXO 23.8.3.A. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CONSEJERA PRESIDENTA / CONSEJEROS ELECTORALES |   |   |   |   |   |   |   |
+| Descripción | Remuneración Total |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS |   |   |   | 3,103,017 |   |   |   |
+| Impuesto sobre la renta retenido (35%) *_/ |   |   |   |   |   | 1,299,906 |   |
+| Percepción bruta anual |   |   |   |   |   |   | 4,402,923 |
+| a) Sueldos y salarios: |   |   |   |   |   | 3,151,608 |   |
+| i) Sueldo base |   |   |   |   |   |   | 588,408 |
+| ii) Compensación garantizada |   |   |   |   |   | 2,563,200 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 1,251,315 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 82,051 |   |
+| ii) Ahorro solidario |   |   |   |   |   |   | 26,475 |
+| iii) Prima vacacional |   |   |   |   |   | 16,345 |   |
+| iv) Aguinaldo o Gratificación de fin de año |   |   |   |   | 530,571 |   |   |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   |   | 2,400 |   |
+| vii) Ayuda para despensa |   |   |   |   |   | - |   |
+| viii) Seguro de vida institucional |   |   |   |   |   | 63,347 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 120 |   |
+| x) Seguro de gastos médicos mayores |   |   |   |   | 52,489 |   |   |
+| xi) Seguro de separación individualizado |   |   |   |   | 477,516 |   |   |
+| *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014. |   |   |   |   |   |   |   |
 
-ANEXO 23.8.3.B. REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA (REMUNERACIONES TABULADOR)REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA 2025(Remuneraciones Tabulador 2025)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    228,041Impuesto sobre la renta retenido y deducciones personales *    93,293Percepción ordinaria bruta líquida mensual     321,334a) Sueldos y salarios:      262,634i) Sueldo base      49,034ii) Compensación garantizada     213,600b) Prestaciones:      58,700i) Aportaciones a seguridad social     6,838ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)    2,206v) Prima quinquenal (antigüedad)     200viii) Seguro de vida institucional     5,279ix) Seguro colectivo de retiro     10x) Seguro de gastos médicos mayores    4,374xi) Seguro de separación individualizado    39,793*_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+| ANEXO 23.8.3.B. REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA (REMUNERACIONES TABULADOR) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA 2025 |   |   |   |   |   |   |   |
+| (Remuneraciones Tabulador 2025) |   |   |   |   |   |   |   |
+|   | Descripción | Remuneración Total |   |   |   |   |   |
+| REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA |   |   |   |   | 228,041 |   |   |
+| Impuesto sobre la renta retenido y deducciones personales * |   |   |   |   | 93,293 |   |   |
+| Percepción ordinaria bruta líquida mensual |   |   |   |   |   | 321,334 |   |
+| a) Sueldos y salarios: |   |   |   |   |   | 262,634 |   |
+| i) Sueldo base |   |   |   |   |   |   | 49,034 |
+| ii) Compensación garantizada |   |   |   |   |   | 213,600 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 58,700 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 6,838 |   |
+| ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE) |   |   |   |   | 2,206 |   |   |
+| v) Prima quinquenal (antigüedad) |   |   |   |   |   | 200 |   |
+| viii) Seguro de vida institucional |   |   |   |   |   | 5,279 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 10 |   |
+| x) Seguro de gastos médicos mayores |   |   |   |   | 4,374 |   |   |
+| xi) Seguro de separación individualizado |   |   |   |   | 39,793 |   |   |
+| *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014. |   |   |   |   |   |   |   |
 
-ANEXO 23.8.3.C. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos)SECRETARIO EJECUTIVODescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   2,926,727Impuesto sobre la renta retenido (35%) *_/     1,209,000Percepción bruta anual      4,135,727a) Sueldos y salarios:      2,951,304i) Sueldo base      498,264ii) Compensación garantizada     2,453,040b) Prestaciones:      1,184,423i) Aportaciones a seguridad social     82,051ii) Ahorro solidario      26,475iii) Prima vacacional     13,841iv) Aguinaldo o Gratificación de fin de año    496,358vi) Prima quinquenal (antigüedad)     2,400vii) Ayuda para despensa     4,200viii) Seguro de vida institucional     59,321ix) Seguro colectivo de retiro     120x) Seguro de gastos médicos mayores     52,489xi) Seguro de separación individualizado    447,167*_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+| ANEXO 23.8.3.C. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SECRETARIO EJECUTIVO |   |   |   |   |   |   |   |
+|   | Descripción | Remuneración Total |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS |   |   |   | 2,926,727 |   |   |   |
+| Impuesto sobre la renta retenido (35%) *_/ |   |   |   |   |   | 1,209,000 |   |
+| Percepción bruta anual |   |   |   |   |   |   | 4,135,727 |
+| a) Sueldos y salarios: |   |   |   |   |   | 2,951,304 |   |
+| i) Sueldo base |   |   |   |   |   |   | 498,264 |
+| ii) Compensación garantizada |   |   |   |   |   | 2,453,040 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 1,184,423 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 82,051 |   |
+| ii) Ahorro solidario |   |   |   |   |   |   | 26,475 |
+| iii) Prima vacacional |   |   |   |   |   | 13,841 |   |
+| iv) Aguinaldo o Gratificación de fin de año |   |   |   |   | 496,358 |   |   |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   |   | 2,400 |   |
+| vii) Ayuda para despensa |   |   |   |   |   | 4,200 |   |
+| viii) Seguro de vida institucional |   |   |   |   |   | 59,321 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 120 |   |
+| x) Seguro de gastos médicos mayores |   |   |   |   |   | 52,489 |   |
+| xi) Seguro de separación individualizado |   |   |   |   | 447,167 |   |   |
+| *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014. |   |   |   |   |   |   |   |
 
-ANEXO 23.8.3.D. REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA (pesos)REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA 2025(Remuneraciones Tabulador 2025)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    215,414Impuesto sobre la renta retenido y deducciones personales *    86,714Percepción ordinaria bruta líquida mensual     302,127a) Sueldos y salarios:      245,942i) Sueldo base      41,522ii) Compensación garantizada     204,420b) Prestaciones:      56,185i) Aportaciones a seguridad social     6,838ii) Ahorro solidario      2,206v) Prima quinquenal (antigüedad)     200vii) Ayuda para despensa     350viii) Seguro de vida institucional     4,943ix) Seguro colectivo de retiro     10x) Seguro de gastos médicos mayores     4,374xi) Seguro de separación individualizado    37,264Otras prestaciones (piramidación del ISR del Aguinaldo)     *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+| ANEXO 23.8.3.D. REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA 2025 |   |   |   |   |   |   |   |
+| (Remuneraciones Tabulador 2025) |   |   |   |   |   |   |   |
+|   | Descripción | Remuneración Total |   |   |   |   |   |
+| REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA |   |   |   |   | 215,414 |   |   |
+| Impuesto sobre la renta retenido y deducciones personales * |   |   |   |   | 86,714 |   |   |
+| Percepción ordinaria bruta líquida mensual |   |   |   |   |   | 302,127 |   |
+| a) Sueldos y salarios: |   |   |   |   |   | 245,942 |   |
+| i) Sueldo base |   |   |   |   |   |   | 41,522 |
+| ii) Compensación garantizada |   |   |   |   |   | 204,420 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 56,185 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 6,838 |   |
+| ii) Ahorro solidario |   |   |   |   |   |   | 2,206 |
+| v) Prima quinquenal (antigüedad) |   |   |   |   |   | 200 |   |
+| vii) Ayuda para despensa |   |   |   |   |   | 350 |   |
+| viii) Seguro de vida institucional |   |   |   |   |   | 4,943 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   |   | 10 |   |
+| x) Seguro de gastos médicos mayores |   |   |   |   |   | 4,374 |   |
+| xi) Seguro de separación individualizado |   |   |   |   | 37,264 |   |   |
+| Otras prestaciones (piramidación del ISR del Aguinaldo) |   |   |   |   |   |   |   |
+| *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014. |   |   |   |   |   |   |   |
 
-ANEXO 23.9. COMISIÓN NACIONAL DE LOS DERECHOS HUMANOSANEXO 23.9.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) 2026 (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:       Presidenta de la CNDH 111,397 32,852 144,250Titular del Órgano Interno de Control 108,768 32,680 142,377Secretario/a Ejecutivo/a 103,145 32,571 135,716Visitador/a General 103,145 32,571 135,716Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /197,409103,01230,16032,418127,569135,430Director/a de Área 62,30588,33214,12024,80076,425113,132Visitador/a Adjunto/a44,64359,05910,19015,97454,83375,033Subdirector/a de Área 47,14349,54810,20915,97457,35265,522Enlace Administrativo47,14349,548 -  - 47,14349,548Jefe/a de Departamento 37,90040,5578,41111,75546,31152,312Personal operativo:       Operativo/a15,33632,5206,19811,02421,53443,544Supervisor/a Operativo/a de Limpieza 13,888 7,098 20,986Operativo/a de Limpieza 10,500 6,290 16,790Este anexo refleja los límites de percepciones ordinarias netas mensuales aplicables a las personas servidoras públicas durante 2026, en función del puesto que ocupen. Contemplan las cuotas de seguridad social a cargo del trabajador/a.A fin de cumplir con el desglose de remuneraciones que establece el artículo 75 Constitucional, se presentan los límites mínimos y máximos en términos netos por concepto de sueldos y salarios y de prestaciones, diferenciados por el tipo de servidores/as públicos/as a los que aplican los límites correspondientes. Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+| ANEXO 23.9. COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.9.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) 2026 (pesos) |   |   |   |   |   |   |   |
+| Tipos de personal | Sueldos y salarios | Prestaciones | Percepción ordinaria total |   |   |   |   |
+| (Efectivo y Especie) |   |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |
+| Personal de mando: |   |   |   |   |   |   |   |
+| Presidenta de la CNDH |   | 111,397 |   | 32,852 |   | 144,250 |   |
+| Titular del Órgano Interno de Control |   | 108,768 |   | 32,680 |   | 142,377 |   |
+| Secretario/a Ejecutivo/a |   | 103,145 |   | 32,571 |   | 135,716 |   |
+| Visitador/a General |   | 103,145 |   | 32,571 |   | 135,716 |   |
+| Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /1 | 97,409 | 103,012 | 30,160 | 32,418 | 127,569 | 135,430 |   |
+| Director/a de Área | 62,305 | 88,332 | 14,120 | 24,800 | 76,425 | 113,132 |   |
+| Visitador/a Adjunto/a | 44,643 | 59,059 | 10,190 | 15,974 | 54,833 | 75,033 |   |
+| Subdirector/a de Área | 47,143 | 49,548 | 10,209 | 15,974 | 57,352 | 65,522 |   |
+| Enlace Administrativo | 47,143 | 49,548 | - | - | 47,143 | 49,548 |   |
+| Jefe/a de Departamento | 37,900 | 40,557 | 8,411 | 11,755 | 46,311 | 52,312 |   |
+| Personal operativo: |   |   |   |   |   |   |   |
+| Operativo/a | 15,336 | 32,520 | 6,198 | 11,024 | 21,534 | 43,544 |   |
+| Supervisor/a Operativo/a de Limpieza |   | 13,888 |   | 7,098 |   | 20,986 |   |
+| Operativo/a de Limpieza |   | 10,500 |   | 6,290 |   | 16,790 |   |
+| Este anexo refleja los límites de percepciones ordinarias netas mensuales aplicables a las personas servidoras públicas durante 2026, en función del puesto que ocupen. Contemplan las cuotas de seguridad social a cargo del trabajador/a. |   |   |   |   |   |   |   |
+| A fin de cumplir con el desglose de remuneraciones que establece el artículo 75 Constitucional, se presentan los límites mínimos y máximos en términos netos por concepto de sueldos y salarios y de prestaciones, diferenciados por el tipo de servidores/as públicos/as a los que aplican los límites correspondientes. |   |   |   |   |   |   |   |
+| Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF). |   |   |   |   |   |   |   |
 
-ANEXO 23.9.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL EN LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS (MONTOS BRUTOS) (pesos)Tipo de personalPercepción Ordinaria Bruta MensualPrestacionesMínimosMáximosMínimosMáximosPersonal de mando:Presidenta de la CNDH 158,830 44,404Titular del Órgano Interno de Control  154,264 42,795Secretario/a Ejecutivo/a 146,04241,76845,946Visitador/a General  146,04241,76845,946Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /1136,839145,54340,51744,683Director/a de Área80,652122,26319,47832,835Visitador/a Adjunto/a57,69678,72214,20222,780Subdirector/a de Área60,69764,79214,74221,670Jefe/a de Departamento46,44751,91512,03914,690Personal operativo:    Operativo19,53540,68010,70516,380Supervisor/a Operativo/a de Limpieza 16,588 16,380Operativo/a de Limpieza 10,992 16,380Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+| ANEXO 23.9.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL EN LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS (MONTOS BRUTOS) (pesos) |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Tipo de personal | Percepción Ordinaria Bruta Mensual | Prestaciones |   |   |
+|   | Mínimos | Máximos | Mínimos | Máximos |
+| Personal de mando: |   |   |   |   |
+| Presidenta de la CNDH |   | 158,830 |   | 44,404 |
+| Titular del Órgano Interno de Control |   | 154,264 |   | 42,795 |
+| Secretario/a Ejecutivo/a |   | 146,042 | 41,768 | 45,946 |
+| Visitador/a General |   | 146,042 | 41,768 | 45,946 |
+| Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /1 | 136,839 | 145,543 | 40,517 | 44,683 |
+| Director/a de Área | 80,652 | 122,263 | 19,478 | 32,835 |
+| Visitador/a Adjunto/a | 57,696 | 78,722 | 14,202 | 22,780 |
+| Subdirector/a de Área | 60,697 | 64,792 | 14,742 | 21,670 |
+| Jefe/a de Departamento | 46,447 | 51,915 | 12,039 | 14,690 |
+| Personal operativo: |   |   |   |   |
+| Operativo | 19,535 | 40,680 | 10,705 | 16,380 |
+| Supervisor/a Operativo/a de Limpieza |   | 16,588 |   | 16,380 |
+| Operativo/a de Limpieza |   | 10,992 |   | 16,380 |
+| Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF). |   |   |   |   |
 
-ANEXO 23.9.2. LÍMITES DE PAGOS EXTRAORDINARIOS ANUALES NETOS 2026 (pesos)DenominaciónPlazasPago Extraordinario Anual Unitario MáximoTotal Puestos1,700-Personal de mando:     973-Presidenta de la CNDH     1-Titular del Órgano Interno de Control    1-Secretario/a Ejecutivo/a     1-Visitador/a General      6-Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /133-Director/a de Área     120-Visitador/a Adjunto/a     52816,081Subdirector/a de Área     15515,881Jefe/a de Departamento     12813,945Personal operativo:     727Operativo/a     63720,500Supervisor/a Operativo/a de Limpieza    920,500Operativo/a de Limpieza     8120,500Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+| ANEXO 23.9.2. LÍMITES DE PAGOS EXTRAORDINARIOS ANUALES NETOS 2026 (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Denominación | Plazas | Pago Extraordinario Anual Unitario Máximo |   |   |   |   |   |   |
+| Total Puestos | 1,700 | - |   |   |   |   |   |   |
+| Personal de mando: |   |   |   |   |   | 973 | - |   |
+| Presidenta de la CNDH |   |   |   |   |   | 1 | - |   |
+| Titular del Órgano Interno de Control |   |   |   |   | 1 | - |   |   |
+| Secretario/a Ejecutivo/a |   |   |   |   |   | 1 | - |   |
+| Visitador/a General |   |   |   |   |   | 6 | - |   |
+| Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /1 | 33 | - |   |   |   |   |   |   |
+| Director/a de Área |   |   |   |   |   | 120 | - |   |
+| Visitador/a Adjunto/a |   |   |   |   |   | 528 | 16,081 |   |
+| Subdirector/a de Área |   |   |   |   |   | 155 | 15,881 |   |
+| Jefe/a de Departamento |   |   |   |   |   | 128 | 13,945 |   |
+| Personal operativo: |   |   |   |   |   | 727 |   |   |
+|   | Operativo/a |   |   |   |   |   | 637 | 20,500 |
+| Supervisor/a Operativo/a de Limpieza |   |   |   |   | 9 | 20,500 |   |   |
+| Operativo/a de Limpieza |   |   |   |   |   | 81 | 20,500 |   |
+| Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF). |   |   |   |   |   |   |   |   |
 
-ANEXO 23.9.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS 2026 (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA (RTA)     1,768,432 Impuesto sobre la renta retenido     655,674 Percepción bruta anual      2,424,105 I. Percepciones ordinarias:     2,424,105 a) Sueldos y salarios:       1,905,957 Sueldo base      378,323 Compensación Garantizada     1,527,634 b) Prestaciones:      518,148 i) Aportaciones a seguridad social     76,275 ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)     - iii) Prima vacacional     52,943 iv) Gratificación de fin de año     321,030 v) Prima quinquenal      1,920 vi) Ayuda para despensa      - vii) Seguro de vida      65,980 II. Percepciones extraordinarias:      - a) Pago extraordinario       -
+| ANEXO 23.9.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS 2026 (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Remuneración recibida |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA (RTA) |   |   |   |   |   | 1,768,432 |   |
+| Impuesto sobre la renta retenido |   |   |   |   |   | 655,674 |   |
+| Percepción bruta anual |   |   |   |   |   |   | 2,424,105 |
+| I. Percepciones ordinarias: |   |   |   |   |   | 2,424,105 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   | 1,905,957 |
+| Sueldo base |   |   |   |   |   |   | 378,323 |
+| Compensación Garantizada |   |   |   |   |   | 1,527,634 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 518,148 |
+| i) Aportaciones a seguridad social |   |   |   |   |   | 76,275 |   |
+| ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE) |   |   |   |   | - |   |   |
+| iii) Prima vacacional |   |   |   |   |   | 52,943 |   |
+| iv) Gratificación de fin de año |   |   |   |   |   | 321,030 |   |
+| v) Prima quinquenal |   |   |   |   |   |   | 1,920 |
+| vi) Ayuda para despensa |   |   |   |   |   | - |   |
+| vii) Seguro de vida |   |   |   |   |   |   | 65,980 |
+| II. Percepciones extraordinarias: |   |   |   |   |   | - |   |
+| a) Pago extraordinario |   |   |   |   |   | - |   |
 
-ANEXO 23.10. FISCALÍA GENERAL DE LA REPÚBLICAANEXO 23.10.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (NETOS MENSUALES) (pesos)Tipo de personalSueldos y salariosPrestacionesPercepción Ordinaria Total(Efectivo y especie)MínimoMáximoMínimoMáximoMínimoMáximoDirectivo        Fiscales  36,717135,3429,28135,30045,998170,642Titulares Sustantivos 84,332134,34719,79034,777104,122169,124Titulares Administrativos 84,332134,34719,79034,777104,122169,124Mando        Sustantivo 22,118100,5026,54124,75728,659125,259Administrativo 22,118100,5026,54124,75728,659125,259Agentes del Ministerio Público de la FederaciónDe Coordinación Ministerial 83,72089,45718,68421,058102,404110,515De Supervisión Ministerial 43,17968,03510,62417,12353,80385,158De Apoyo Ministerial 17,69026,4485,5047,72823,19434,176Agentes de la Policía Federal Ministerial      De Coordinación Policial 46,09369,64510,51518,13656,60887,781De Supervisión Policial 34,33239,4218,16010,10142,49249,522De Apoyo Policial 17,69028,0665,5047,97523,19436,041Peritos        De Coordinación Pericial 44,74060,94910,85315,87655,59376,825De Supervisión Pericial 37,16049,7128,90912,84846,06962,560De Apoyo Pericial 17,67420,5975,5016,82123,17527,418Analistas        De Coordinación de Analistas54,21059,75012,17114,15066,38173,900De Supervisión de Analistas 32,13245,4628,27611,49740,40856,959De Apoyo de Analistas 17,69026,4485,5047,72823,19434,176Facilitadores       Facilitadores 32,81432,8148,3469,30541,16042,119De Apoyo a Facilitadores 20,93323,4806,1127,53127,04531,011Especializado        Pilotos  36,87994,02920,17434,44357,053128,472Apoyo Aéreo 18,15039,6845,84310,10523,99349,789Apoyo al Proceso Sustantivo38,09353,8449,48713,24147,58067,085Ventanilla Única 17,68826,3095,5668,12123,25434,430Desarrolladores 25,26247,3056,65312,23831,91559,543Traductores 25,31736,5237,11410,06532,43146,588Atención a Víctimas 22,17031,3446,2958,95628,46540,300Profesional        Coordinadores de Proyectos 21,92079,5596,43319,50728,35399,066Abogados 22,11884,3326,29921,03628,417105,368Evaluadores 18,27443,1175,55611,09323,83054,210Docentes  12,34923,0794,8867,46617,23530,545Técnico        Protección a Personas 42,76366,9179,75315,38052,51682,297De Protección a Instalaciones Estratégicas13,76335,6934,8279,89818,59045,591Administrativo       Apoyo Administrativo12,84821,2454,9567,17817,80428,423Operativo Confianza11,77014,62910,72812,23722,49826,866Operativo Base11,88513,58110,76312,04522,64825,626Nota:Las cantidades:a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago.b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025.c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional.
+| ANEXO 23.10. FISCALÍA GENERAL DE LA REPÚBLICA |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.10.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |   |   |
+| Tipo de personal | Sueldos y salarios | Prestaciones | Percepción Ordinaria Total |   |   |   |   |   |
+| (Efectivo y especie) |   |   |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |   |
+| Directivo |   |   |   |   |   |   |   |   |
+| Fiscales |   |   | 36,717 | 135,342 | 9,281 | 35,300 | 45,998 | 170,642 |
+| Titulares Sustantivos |   | 84,332 | 134,347 | 19,790 | 34,777 | 104,122 | 169,124 |   |
+| Titulares Administrativos |   | 84,332 | 134,347 | 19,790 | 34,777 | 104,122 | 169,124 |   |
+| Mando |   |   |   |   |   |   |   |   |
+| Sustantivo |   | 22,118 | 100,502 | 6,541 | 24,757 | 28,659 | 125,259 |   |
+| Administrativo |   | 22,118 | 100,502 | 6,541 | 24,757 | 28,659 | 125,259 |   |
+| Agentes del Ministerio Público de la Federación |   |   |   |   |   |   |   |   |
+| De Coordinación Ministerial |   | 83,720 | 89,457 | 18,684 | 21,058 | 102,404 | 110,515 |   |
+| De Supervisión Ministerial |   | 43,179 | 68,035 | 10,624 | 17,123 | 53,803 | 85,158 |   |
+| De Apoyo Ministerial |   | 17,690 | 26,448 | 5,504 | 7,728 | 23,194 | 34,176 |   |
+| Agentes de la Policía Federal Ministerial |   |   |   |   |   |   |   |   |
+| De Coordinación Policial |   | 46,093 | 69,645 | 10,515 | 18,136 | 56,608 | 87,781 |   |
+| De Supervisión Policial |   | 34,332 | 39,421 | 8,160 | 10,101 | 42,492 | 49,522 |   |
+| De Apoyo Policial |   | 17,690 | 28,066 | 5,504 | 7,975 | 23,194 | 36,041 |   |
+| Peritos |   |   |   |   |   |   |   |   |
+| De Coordinación Pericial |   | 44,740 | 60,949 | 10,853 | 15,876 | 55,593 | 76,825 |   |
+| De Supervisión Pericial |   | 37,160 | 49,712 | 8,909 | 12,848 | 46,069 | 62,560 |   |
+| De Apoyo Pericial |   | 17,674 | 20,597 | 5,501 | 6,821 | 23,175 | 27,418 |   |
+| Analistas |   |   |   |   |   |   |   |   |
+| De Coordinación de Analistas | 54,210 | 59,750 | 12,171 | 14,150 | 66,381 | 73,900 |   |   |
+| De Supervisión de Analistas |   | 32,132 | 45,462 | 8,276 | 11,497 | 40,408 | 56,959 |   |
+| De Apoyo de Analistas |   | 17,690 | 26,448 | 5,504 | 7,728 | 23,194 | 34,176 |   |
+| Facilitadores |   |   |   |   |   |   |   |   |
+| Facilitadores |   | 32,814 | 32,814 | 8,346 | 9,305 | 41,160 | 42,119 |   |
+| De Apoyo a Facilitadores |   | 20,933 | 23,480 | 6,112 | 7,531 | 27,045 | 31,011 |   |
+| Especializado |   |   |   |   |   |   |   |   |
+| Pilotos |   |   | 36,879 | 94,029 | 20,174 | 34,443 | 57,053 | 128,472 |
+| Apoyo Aéreo |   | 18,150 | 39,684 | 5,843 | 10,105 | 23,993 | 49,789 |   |
+| Apoyo al Proceso Sustantivo | 38,093 | 53,844 | 9,487 | 13,241 | 47,580 | 67,085 |   |   |
+| Ventanilla Única |   | 17,688 | 26,309 | 5,566 | 8,121 | 23,254 | 34,430 |   |
+| Desarrolladores |   | 25,262 | 47,305 | 6,653 | 12,238 | 31,915 | 59,543 |   |
+| Traductores |   | 25,317 | 36,523 | 7,114 | 10,065 | 32,431 | 46,588 |   |
+| Atención a Víctimas |   | 22,170 | 31,344 | 6,295 | 8,956 | 28,465 | 40,300 |   |
+| Profesional |   |   |   |   |   |   |   |   |
+| Coordinadores de Proyectos |   | 21,920 | 79,559 | 6,433 | 19,507 | 28,353 | 99,066 |   |
+| Abogados |   | 22,118 | 84,332 | 6,299 | 21,036 | 28,417 | 105,368 |   |
+| Evaluadores |   | 18,274 | 43,117 | 5,556 | 11,093 | 23,830 | 54,210 |   |
+| Docentes |   |   | 12,349 | 23,079 | 4,886 | 7,466 | 17,235 | 30,545 |
+| Técnico |   |   |   |   |   |   |   |   |
+| Protección a Personas |   | 42,763 | 66,917 | 9,753 | 15,380 | 52,516 | 82,297 |   |
+| De Protección a Instalaciones Estratégicas | 13,763 | 35,693 | 4,827 | 9,898 | 18,590 | 45,591 |   |   |
+| Administrativo |   |   |   |   |   |   |   |   |
+| Apoyo Administrativo | 12,848 | 21,245 | 4,956 | 7,178 | 17,804 | 28,423 |   |   |
+| Operativo Confianza | 11,770 | 14,629 | 10,728 | 12,237 | 22,498 | 26,866 |   |   |
+| Operativo Base | 11,885 | 13,581 | 10,763 | 12,045 | 22,648 | 25,626 |   |   |
+| Nota: |   |   |   |   |   |   |   |   |
+| Las cantidades: |   |   |   |   |   |   |   |   |
+| a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago. |   |   |   |   |   |   |   |   |
+| b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025. |   |   |   |   |   |   |   |   |
+| c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional. |   |   |   |   |   |   |   |   |
 
-ANEXO 23.10.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (BRUTOS MENSUALES) (pesos)Tipo de personalSueldos y salariosPrestacionesPercepción Ordinaria Total(Efectivo y especie)MínimoMáximoMínimoMáximoMínimoMáximoDirectivo      Fiscales44,946190,03511,43647,02956,382237,064Titulares Sustantivos113,116188,52726,40946,331139,525234,858Titulares Administrativos113,116188,52726,40946,331139,525234,858Mando      Sustantivo26,005137,2477,59633,26233,601170,509Administrativo26,005137,2477,59633,26233,601170,509Agentes del Ministerio Público de la FederaciónDe Coordinación Ministerial112,217120,65325,08628,332137,303148,985De Supervisión Ministerial53,78089,28813,49222,13567,272111,423De Apoyo Ministerial20,37431,5186,3209,11426,69440,632Agentes de la Policía Federal Ministerial De Coordinación Policial57,94391,58813,55823,36371,501114,951De Supervisión Policial41,82748,4819,80912,75151,63661,232De Apoyo Policial20,37433,6346,3209,43126,69443,065Peritos De Coordinación Pericial56,01079,16613,82520,09369,83599,259De Supervisión Pericial45,52563,11311,03916,27156,56479,384De Apoyo Pericial20,35324,0706,3187,83026,67131,900Analistas De Coordinación de Analistas69,53977,45215,77218,24285,31195,694De Supervisión de Analistas38,95157,0429,84014,61448,79171,656De Apoyo de Analistas20,37431,5186,3209,11426,69440,632Facilitadores Facilitadores39,84239,8429,93910,98649,78150,828De Apoyo a Facilitadores24,49827,7377,0568,70131,55436,438Especializado Pilotos45,157127,43922,25842,28467,415169,723Apoyo Aéreo20,95948,8256,68512,79327,64461,618Apoyo al Proceso Sustantivo46,74469,01611,80516,93558,54985,951Ventanilla Única20,37131,3376,3849,50926,75540,846Desarrolladores30,00359,6747,86215,49337,86575,167Traductores30,07244,6928,34812,20838,42056,900Atención a Víctimas26,07137,9207,28510,56933,35648,489Profesional Coordinadores de Proyectos25,753106,0977,42125,53833,174131,635Abogados26,005113,1167,28927,67833,294140,794Evaluadores21,11653,6926,39414,05327,51067,745Docentes13,66227,2265,4348,60419,09635,830Técnico Protección a Personas53,18687,69112,56320,21565,749107,906De Protección a Instalaciones Estratégicas15,38543,6075,48511,88720,87055,494Administrativo Apoyo Administrativo14,27024,8945,6078,27819,87733,172Operativo Confianza12,95716,48111,22212,94324,17929,424Operativo Base13,09715,16311,26612,71424,36327,877Nota:Las cantidades:a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago.b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025.c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional.
+| ANEXO 23.10.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (BRUTOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tipo de personal | Sueldos y salarios | Prestaciones | Percepción Ordinaria Total |   |   |   |
+| (Efectivo y especie) |   |   |   |   |   |   |
+| Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |
+| Directivo |   |   |   |   |   |   |
+| Fiscales | 44,946 | 190,035 | 11,436 | 47,029 | 56,382 | 237,064 |
+| Titulares Sustantivos | 113,116 | 188,527 | 26,409 | 46,331 | 139,525 | 234,858 |
+| Titulares Administrativos | 113,116 | 188,527 | 26,409 | 46,331 | 139,525 | 234,858 |
+| Mando |   |   |   |   |   |   |
+| Sustantivo | 26,005 | 137,247 | 7,596 | 33,262 | 33,601 | 170,509 |
+| Administrativo | 26,005 | 137,247 | 7,596 | 33,262 | 33,601 | 170,509 |
+| Agentes del Ministerio Público de la Federación |   |   |   |   |   |   |
+| De Coordinación Ministerial | 112,217 | 120,653 | 25,086 | 28,332 | 137,303 | 148,985 |
+| De Supervisión Ministerial | 53,780 | 89,288 | 13,492 | 22,135 | 67,272 | 111,423 |
+| De Apoyo Ministerial | 20,374 | 31,518 | 6,320 | 9,114 | 26,694 | 40,632 |
+| Agentes de la Policía Federal Ministerial |   |   |   |   |   |   |
+| De Coordinación Policial | 57,943 | 91,588 | 13,558 | 23,363 | 71,501 | 114,951 |
+| De Supervisión Policial | 41,827 | 48,481 | 9,809 | 12,751 | 51,636 | 61,232 |
+| De Apoyo Policial | 20,374 | 33,634 | 6,320 | 9,431 | 26,694 | 43,065 |
+| Peritos |   |   |   |   |   |   |
+| De Coordinación Pericial | 56,010 | 79,166 | 13,825 | 20,093 | 69,835 | 99,259 |
+| De Supervisión Pericial | 45,525 | 63,113 | 11,039 | 16,271 | 56,564 | 79,384 |
+| De Apoyo Pericial | 20,353 | 24,070 | 6,318 | 7,830 | 26,671 | 31,900 |
+| Analistas |   |   |   |   |   |   |
+| De Coordinación de Analistas | 69,539 | 77,452 | 15,772 | 18,242 | 85,311 | 95,694 |
+| De Supervisión de Analistas | 38,951 | 57,042 | 9,840 | 14,614 | 48,791 | 71,656 |
+| De Apoyo de Analistas | 20,374 | 31,518 | 6,320 | 9,114 | 26,694 | 40,632 |
+| Facilitadores |   |   |   |   |   |   |
+| Facilitadores | 39,842 | 39,842 | 9,939 | 10,986 | 49,781 | 50,828 |
+| De Apoyo a Facilitadores | 24,498 | 27,737 | 7,056 | 8,701 | 31,554 | 36,438 |
+| Especializado |   |   |   |   |   |   |
+| Pilotos | 45,157 | 127,439 | 22,258 | 42,284 | 67,415 | 169,723 |
+| Apoyo Aéreo | 20,959 | 48,825 | 6,685 | 12,793 | 27,644 | 61,618 |
+| Apoyo al Proceso Sustantivo | 46,744 | 69,016 | 11,805 | 16,935 | 58,549 | 85,951 |
+| Ventanilla Única | 20,371 | 31,337 | 6,384 | 9,509 | 26,755 | 40,846 |
+| Desarrolladores | 30,003 | 59,674 | 7,862 | 15,493 | 37,865 | 75,167 |
+| Traductores | 30,072 | 44,692 | 8,348 | 12,208 | 38,420 | 56,900 |
+| Atención a Víctimas | 26,071 | 37,920 | 7,285 | 10,569 | 33,356 | 48,489 |
+| Profesional |   |   |   |   |   |   |
+| Coordinadores de Proyectos | 25,753 | 106,097 | 7,421 | 25,538 | 33,174 | 131,635 |
+| Abogados | 26,005 | 113,116 | 7,289 | 27,678 | 33,294 | 140,794 |
+| Evaluadores | 21,116 | 53,692 | 6,394 | 14,053 | 27,510 | 67,745 |
+| Docentes | 13,662 | 27,226 | 5,434 | 8,604 | 19,096 | 35,830 |
+| Técnico |   |   |   |   |   |   |
+| Protección a Personas | 53,186 | 87,691 | 12,563 | 20,215 | 65,749 | 107,906 |
+| De Protección a Instalaciones Estratégicas | 15,385 | 43,607 | 5,485 | 11,887 | 20,870 | 55,494 |
+| Administrativo |   |   |   |   |   |   |
+| Apoyo Administrativo | 14,270 | 24,894 | 5,607 | 8,278 | 19,877 | 33,172 |
+| Operativo Confianza | 12,957 | 16,481 | 11,222 | 12,943 | 24,179 | 29,424 |
+| Operativo Base | 13,097 | 15,163 | 11,266 | 12,714 | 24,363 | 27,877 |
+| Nota: |   |   |   |   |   |   |
+| Las cantidades: |   |   |   |   |   |   |
+| a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago. |   |   |   |   |   |   |
+| b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025. |   |   |   |   |   |   |
+| c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional. |   |   |   |   |   |   |
 
-ANEXO 23.10.2. REMUNERACIÓN TOTAL ANUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos)DescripciónRemuneración TotalISRRemuneración
+| ANEXO 23.10.2. REMUNERACIÓN TOTAL ANUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Descripción | Remuneración Total | ISR | Remuneración |
 
-NetaMensual
+| Neta | Mensual |
+| --- | --- |
 
-NetaREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS 2,046,947  - 2,046,947 170,578 Impuesto sobre la renta retenido  797,057  -  -  - Percepción ordinaria bruta anual   2,844,004 797,057 2,046,947 170,578 a) Sueldos y salarios:    2,280,420 656,310 1,624,110 135,343 i) Sueldo base    511,632 147,276 364,356 30,363 ii) Compensación adicional por servicios especiales1,768,788 509,034 1,259,754 104,980 b) Prestaciones:    563,584 140,747 422,837 35,235 i) Aportaciones a seguridad social   82,056  - 82,056 6,838 ii) Ahorro solidario    26,475  - 26,475 2,206 iii) Prima vacacional    14,212 4,255 9,957 828 iv) Aguinaldo (sueldo base)   84,385 27,537 56,848 4,737 v) Gratificación de fin de año (Compensación adicional por servicios especiales)297,776 101,244 196,532 16,378 vi) Prima quinquenal (antigüedad)   4,500 1,530 2,970 248 vii) Ayuda para despensa    18,180 6,181 11,999 1,000 viii) Seguro de vida institucional   35,575  - 35,575 2,965 ix) Seguro colectivo de retiro   425  - 425 35
+| Neta |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS | 2,046,947 | - | 2,046,947 | 170,578 |   |   |   |
+| Impuesto sobre la renta retenido |   |   | 797,057 | - | - | - |   |
+| Percepción ordinaria bruta anual |   |   | 2,844,004 | 797,057 | 2,046,947 | 170,578 |   |
+| a) Sueldos y salarios: |   |   |   | 2,280,420 | 656,310 | 1,624,110 | 135,343 |
+| i) Sueldo base |   |   |   | 511,632 | 147,276 | 364,356 | 30,363 |
+| ii) Compensación adicional por servicios especiales | 1,768,788 | 509,034 | 1,259,754 | 104,980 |   |   |   |
+| b) Prestaciones: |   |   |   | 563,584 | 140,747 | 422,837 | 35,235 |
+| i) Aportaciones a seguridad social |   |   | 82,056 | - | 82,056 | 6,838 |   |
+| ii) Ahorro solidario |   |   |   | 26,475 | - | 26,475 | 2,206 |
+| iii) Prima vacacional |   |   |   | 14,212 | 4,255 | 9,957 | 828 |
+| iv) Aguinaldo (sueldo base) |   |   | 84,385 | 27,537 | 56,848 | 4,737 |   |
+| v) Gratificación de fin de año (Compensación adicional por servicios especiales) | 297,776 | 101,244 | 196,532 | 16,378 |   |   |   |
+| vi) Prima quinquenal (antigüedad) |   |   | 4,500 | 1,530 | 2,970 | 248 |   |
+| vii) Ayuda para despensa |   |   |   | 18,180 | 6,181 | 11,999 | 1,000 |
+| viii) Seguro de vida institucional |   |   | 35,575 | - | 35,575 | 2,965 |   |
+| ix) Seguro colectivo de retiro |   |   | 425 | - | 425 | 35 |   |
 
-ANEXO 23.10.3. REMUNERACIÓN TOTAL LÍQUIDA MENSUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos)DescripciónRemuneración TotalISRREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA   132,418 59,542 Impuesto sobre la renta retenido y deducciones personales   59,542 4,207 I. Percepciones ordinarias:     191,960 55,335 a) Sueldos y salarios:      190,035 54,693 i) Sueldo base      42,636 12,273 ii) Compensación adicional por servicios especiales   147,399 42,420 b) Prestaciones:      1,925 642 vi) Prima quinquenal (antigüedad)     375 127 vii) Ayuda para despensa     1,515 515 ix) Seguro colectivo de retiro     35  -
+| ANEXO 23.10.3. REMUNERACIÓN TOTAL LÍQUIDA MENSUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Descripción | Remuneración Total | ISR |   |   |   |   |   |
+| REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA |   |   |   | 132,418 | 59,542 |   |   |
+| Impuesto sobre la renta retenido y deducciones personales |   |   |   | 59,542 | 4,207 |   |   |
+| I. Percepciones ordinarias: |   |   |   |   |   | 191,960 | 55,335 |
+| a) Sueldos y salarios: |   |   |   |   |   | 190,035 | 54,693 |
+| i) Sueldo base |   |   |   |   |   | 42,636 | 12,273 |
+| ii) Compensación adicional por servicios especiales |   |   |   | 147,399 | 42,420 |   |   |
+| b) Prestaciones: |   |   |   |   |   | 1,925 | 642 |
+| vi) Prima quinquenal (antigüedad) |   |   |   |   | 375 | 127 |   |
+| vii) Ayuda para despensa |   |   |   |   | 1,515 | 515 |   |
+| ix) Seguro colectivo de retiro |   |   |   |   | 35 | - |   |
 
-ANEXO 23.11. INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍAANEXO 23.11.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (NETOS MENSUALES) (pesos)Tipo de personalSueldos y SalariosPrestacionesPercepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoPresidencia del Instituto 130,804 15,769 146,573Vicepresidencia 130,804 15,769 146,573Unidad 128,453 15,338 143,791Dirección General126,568127,95115,13415,283141,702143,234Coordinación General / Dirección General Adjunta / Dirección Regional103,275124,83812,45514,815115,730139,653Dirección de Área58,718102,5167,69212,32466,410114,840Subdirección de Área36,08654,7795,4137,17441,49961,953Jefatura de Departamento25,43235,8184,3955,37429,82741,192Personal de Enlace17,69722,8913,6864,16521,38327,056Personal Operativo11,16815,6267,0737,20618,24122,832La percepción ordinaria neta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago. Así mismo contempla la aplicación de las disposiciones fiscales y de seguridad social.Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+| ANEXO 23.11. INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.11.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA |   |   |   |   |   |   |
+| (NETOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| Tipo de personal | Sueldos y Salarios | Prestaciones | Percepción Ordinaria Total |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |
+| Presidencia del Instituto |   | 130,804 |   | 15,769 |   | 146,573 |
+| Vicepresidencia |   | 130,804 |   | 15,769 |   | 146,573 |
+| Unidad |   | 128,453 |   | 15,338 |   | 143,791 |
+| Dirección General | 126,568 | 127,951 | 15,134 | 15,283 | 141,702 | 143,234 |
+| Coordinación General / Dirección General Adjunta / Dirección Regional | 103,275 | 124,838 | 12,455 | 14,815 | 115,730 | 139,653 |
+| Dirección de Área | 58,718 | 102,516 | 7,692 | 12,324 | 66,410 | 114,840 |
+| Subdirección de Área | 36,086 | 54,779 | 5,413 | 7,174 | 41,499 | 61,953 |
+| Jefatura de Departamento | 25,432 | 35,818 | 4,395 | 5,374 | 29,827 | 41,192 |
+| Personal de Enlace | 17,697 | 22,891 | 3,686 | 4,165 | 21,383 | 27,056 |
+| Personal Operativo | 11,168 | 15,626 | 7,073 | 7,206 | 18,241 | 22,832 |
+| La percepción ordinaria neta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago. Así mismo contempla la aplicación de las disposiciones fiscales y de seguridad social. |   |   |   |   |   |   |
+| Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada. |   |   |   |   |   |   |
 
-ANEXO 23.11.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (BRUTOS MENSUALES) (pesos)Tipo de personalSueldos y SalariosPrestacionesPercepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoPresidencia del Instituto188,52723,764212,291Vicepresidencia188,52723,764212,291Unidad184,00423,095207,099Dirección General181,148183,24322,77823,011203,926206,254Coordinación General / Dirección General Adjunta / Dirección Regional145,135177,80618,65222,283163,787200,089Dirección de Área78,844143,73511,17518,45390,019162,188Subdirección de Área46,08372,5667,40310,35853,48682,924Jefatura de Departamento31,98945,6555,8047,34037,79352,995Personal de Enlace21,90028,5634,6355,38826,53533,951Personal Operativo13,71019,5638,8029,07022,51228,633La percepción ordinaria bruta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago.Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+| ANEXO 23.11.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| (BRUTOS MENSUALES) (pesos) |   |   |   |   |   |   |
+| Tipo de personal | Sueldos y Salarios | Prestaciones | Percepción Ordinaria Total |   |   |   |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |
+| Presidencia del Instituto |   |   |   |   |   |   |
+| 188,527 |   |   |   |   |   |   |
+| 23,764 |   |   |   |   |   |   |
+| 212,291 |   |   |   |   |   |   |
+| Vicepresidencia |   |   |   |   |   |   |
+| 188,527 |   |   |   |   |   |   |
+| 23,764 |   |   |   |   |   |   |
+| 212,291 |   |   |   |   |   |   |
+| Unidad |   |   |   |   |   |   |
+| 184,004 |   |   |   |   |   |   |
+| 23,095 |   |   |   |   |   |   |
+| 207,099 |   |   |   |   |   |   |
+| Dirección General | 181,148 | 183,243 | 22,778 | 23,011 | 203,926 | 206,254 |
+| Coordinación General / Dirección General Adjunta / Dirección Regional | 145,135 | 177,806 | 18,652 | 22,283 | 163,787 | 200,089 |
+| Dirección de Área | 78,844 | 143,735 | 11,175 | 18,453 | 90,019 | 162,188 |
+| Subdirección de Área | 46,083 | 72,566 | 7,403 | 10,358 | 53,486 | 82,924 |
+| Jefatura de Departamento | 31,989 | 45,655 | 5,804 | 7,340 | 37,793 | 52,995 |
+| Personal de Enlace | 21,900 | 28,563 | 4,635 | 5,388 | 26,535 | 33,951 |
+| Personal Operativo | 13,710 | 19,563 | 8,802 | 9,070 | 22,512 | 28,633 |
+| La percepción ordinaria bruta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago. |   |   |   |   |   |   |
+| Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada. |   |   |   |   |   |   |
 
-ANEXO 23.11.2. LÍMITES DE PERCEPCIÓN EXTRAORDINARIA NETA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) Tipo de personalPago Extraordinario
+| ANEXO 23.11.2. LÍMITES DE PERCEPCIÓN EXTRAORDINARIA NETA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) |   |
+| --- | --- |
+| Tipo de personal | Pago Extraordinario |
 
 Anual Unitario
 
-MáximoPresidencia del Instituto Vicepresidencia Unidad41,168 Dirección General41,199 Coordinación General / Dirección General Adjunta / Dirección Regional41,613 Dirección de Área43,151 Subdirección de Área46,031 Jefatura de Departamento53,171 Personal de Enlace84,257 Personal Operativo231,563 La percepción extraordinaria se otorga al personal que se hace acreedor a la misma, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable.La percepción extraordinaria neta incluye la aplicación de las disposiciones fiscales.Los límites de percepción extraordinaria no consideran los efectos del artículo 129 de la Ley de Premios, Estímulos y Recompensas Civiles, respecto del Impuesto Sobre la Renta del premio nacional de antigüedad y recompensa anual.
+| Máximo |   |
+| --- | --- |
+| Presidencia del Instituto |   |
+| Vicepresidencia |   |
+| Unidad | 41,168 |
+| Dirección General | 41,199 |
+| Coordinación General / Dirección General Adjunta / Dirección Regional | 41,613 |
+| Dirección de Área | 43,151 |
+| Subdirección de Área | 46,031 |
+| Jefatura de Departamento | 53,171 |
+| Personal de Enlace | 84,257 |
+| Personal Operativo | 231,563 |
+| La percepción extraordinaria se otorga al personal que se hace acreedor a la misma, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable. |   |
+| La percepción extraordinaria neta incluye la aplicación de las disposiciones fiscales. |   |
+| Los límites de percepción extraordinaria no consideran los efectos del artículo 129 de la Ley de Premios, Estímulos y Recompensas Civiles, respecto del Impuesto Sobre la Renta del premio nacional de antigüedad y recompensa anual. |   |
 
-ANEXO 23.11.3. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) Tipo de personalPago Extraordinario
+| ANEXO 23.11.3. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) |   |
+| --- | --- |
+| Tipo de personal | Pago Extraordinario |
 
-MensualizadoPresidencia del Instituto Vicepresidencia Unidad4,808Dirección General4,808Coordinación General / Dirección General Adjunta / Dirección Regional4,808Dirección de Área4,808Subdirección de Área4,808Jefatura de Departamento5,374Personal de Enlace7,835Personal Operativo21,542Las percepciones extraordinarias se encuentran representadas en términos mensuales y su otorgamiento se realiza de forma anual al personal que se hace acreedor a las mismas, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable.
+| Mensualizado |   |
+| --- | --- |
+| Presidencia del Instituto |   |
+| Vicepresidencia |   |
+| Unidad | 4,808 |
+| Dirección General | 4,808 |
+| Coordinación General / Dirección General Adjunta / Dirección Regional | 4,808 |
+| Dirección de Área | 4,808 |
+| Subdirección de Área | 4,808 |
+| Jefatura de Departamento | 5,374 |
+| Personal de Enlace | 7,835 |
+| Personal Operativo | 21,542 |
+| Las percepciones extraordinarias se encuentran representadas en términos mensuales y su otorgamiento se realiza de forma anual al personal que se hace acreedor a las mismas, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable. |   |
 
-ANEXO 23.11.4. REMUNERACIÓN TOTAL ANUAL DE LA PRESIDENTA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos)NIVEL JERÁRQUICO: HC3Remuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS1,950,350Impuesto sobre la renta746,101Percepción bruta anual2,696,451I. Percepciones ordinarias:2,696,451a) Sueldos y salarios:2,262,324I) Sueldo base400,200II) Compensación garantizada1,862,124b) Prestaciones:434,127I) Aportaciones de seguridad social87,230II) Ahorro solidario26,013III) Prima vacacional11,117IV) Aguinaldo (sueldo base)44,467V) Gratificación de fin de año (Compensación garantizada)206,903VI) Prima quinquenal (antigüedad)4,500VII) Ayuda para despensa18,180VIII) Seguro de vida institucional35,292IX) Seguro colectivo de retiro425El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.Se consideró la estimación de cinco quinquenios.La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+| ANEXO 23.11.4. REMUNERACIÓN TOTAL ANUAL DE LA PRESIDENTA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) |   |
+| --- | --- |
+| NIVEL JERÁRQUICO: HC3 | Remuneración Total |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS | 1,950,350 |
+| Impuesto sobre la renta | 746,101 |
+| Percepción bruta anual | 2,696,451 |
+| I. Percepciones ordinarias: | 2,696,451 |
+| a) Sueldos y salarios: | 2,262,324 |
+| I) Sueldo base | 400,200 |
+| II) Compensación garantizada | 1,862,124 |
+| b) Prestaciones: | 434,127 |
+| I) Aportaciones de seguridad social | 87,230 |
+| II) Ahorro solidario | 26,013 |
+| III) Prima vacacional | 11,117 |
+| IV) Aguinaldo (sueldo base) | 44,467 |
+| V) Gratificación de fin de año (Compensación garantizada) | 206,903 |
+| VI) Prima quinquenal (antigüedad) | 4,500 |
+| VII) Ayuda para despensa | 18,180 |
+| VIII) Seguro de vida institucional | 35,292 |
+| IX) Seguro colectivo de retiro | 425 |
+| El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta. |   |
+| Se consideró la estimación de cinco quinquenios. |   |
+| La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada. |   |
 
-ANEXO 23.11.5. REMUNERACIÓN TOTAL ANUAL DE LAS VICEPRESIDENCIAS DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos)NIVEL JERÁRQUICO: HA1Remuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   1,950,350Impuesto sobre la renta      746,101Percepción bruta anual      2,696,451I. Percepciones ordinarias:     2,696,451a) Sueldos y salarios:      2,262,324I) Sueldo base      400,200II) Compensación garantizada     1,862,124b) Prestaciones:      434,127I) Aportaciones de seguridad social     87,230II) Ahorro solidario      26,013III) Prima vacacional     11,117IV) Aguinaldo (sueldo base)     44,467V) Gratificación de fin de año (Compensación garantizada)    206,903VI) Prima quinquenal (antigüedad)     4,500VII) Ayuda para despensa     18,180VIII) Seguro de vida institucional     35,292IX) Seguro colectivo de retiro     425El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.Se consideró la estimación de 5 quinquenios.La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+| ANEXO 23.11.5. REMUNERACIÓN TOTAL ANUAL DE LAS VICEPRESIDENCIAS DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| NIVEL JERÁRQUICO: HA1 | Remuneración Total |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS |   |   |   | 1,950,350 |   |   |   |
+| Impuesto sobre la renta |   |   |   |   |   |   | 746,101 |
+| Percepción bruta anual |   |   |   |   |   |   | 2,696,451 |
+| I. Percepciones ordinarias: |   |   |   |   |   | 2,696,451 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   | 2,262,324 |
+| I) Sueldo base |   |   |   |   |   |   | 400,200 |
+| II) Compensación garantizada |   |   |   |   |   | 1,862,124 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 434,127 |
+| I) Aportaciones de seguridad social |   |   |   |   |   | 87,230 |   |
+| II) Ahorro solidario |   |   |   |   |   |   | 26,013 |
+| III) Prima vacacional |   |   |   |   |   | 11,117 |   |
+| IV) Aguinaldo (sueldo base) |   |   |   |   |   | 44,467 |   |
+| V) Gratificación de fin de año (Compensación garantizada) |   |   |   |   | 206,903 |   |   |
+| VI) Prima quinquenal (antigüedad) |   |   |   |   |   | 4,500 |   |
+| VII) Ayuda para despensa |   |   |   |   |   | 18,180 |   |
+| VIII) Seguro de vida institucional |   |   |   |   |   | 35,292 |   |
+| IX) Seguro colectivo de retiro |   |   |   |   |   | 425 |   |
+| El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta. |   |   |   |   |   |   |   |
+| Se consideró la estimación de 5 quinquenios. |   |   |   |   |   |   |   |
+| La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada. |   |   |   |   |   |   |   |
 
-ANEXO 23.12. TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVAANEXO 23.12.1. REMUNERACIÓN TOTAL ANUAL DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)         REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS    1,854,850Impuesto sobre la renta retenido     687,540Percepción ordinaria bruta anual     2,542,390a) Sueldos y salarios:      1,998,768i) Sueldo base     404,568ii) Compensación Garantizada     1,594,200b) Prestaciones:      543,622i) Aportaciones de seguridad social    81,500ii) Ahorro solidario     26,297iii) Prima Vacacional     11,238iv) Aguinaldo (sueldo base)     68,109v) Gratificación de fin de año (compensación garantizada)   269,291vi) Prima Quinquenal (antigüedad)    4,500vii) Ayuda de Despensa     18,180viii) Seguro de Vida Institucional     41,974ix) Seguro Colectivo de Retiro     425x) Seguro de Gastos Médicos Mayores    22,108Notas:
+| ANEXO 23.12. TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ANEXO 23.12.1. REMUNERACIÓN TOTAL ANUAL DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos) |   |   |   |   |   |   |   |
+| REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS |   |   |   |   | 1,854,850 |   |   |
+| Impuesto sobre la renta retenido |   |   |   |   |   | 687,540 |   |
+| Percepción ordinaria bruta anual |   |   |   |   |   | 2,542,390 |   |
+| a) Sueldos y salarios: |   |   |   |   |   |   | 1,998,768 |
+| i) Sueldo base |   |   |   |   |   | 404,568 |   |
+| ii) Compensación Garantizada |   |   |   |   |   | 1,594,200 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 543,622 |
+| i) Aportaciones de seguridad social |   |   |   |   | 81,500 |   |   |
+| ii) Ahorro solidario |   |   |   |   |   | 26,297 |   |
+| iii) Prima Vacacional |   |   |   |   |   | 11,238 |   |
+| iv) Aguinaldo (sueldo base) |   |   |   |   |   | 68,109 |   |
+| v) Gratificación de fin de año (compensación garantizada) |   |   |   | 269,291 |   |   |   |
+| vi) Prima Quinquenal (antigüedad) |   |   |   |   | 4,500 |   |   |
+| vii) Ayuda de Despensa |   |   |   |   |   | 18,180 |   |
+| viii) Seguro de Vida Institucional |   |   |   |   |   | 41,974 |   |
+| ix) Seguro Colectivo de Retiro |   |   |   |   |   | 425 |   |
+| x) Seguro de Gastos Médicos Mayores |   |   |   |   | 22,108 |   |   |
+| Notas: |   |   |   |   |   |   |   |
 
-En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad.
+| En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad. |
+| --- |
 
-ANEXO 23.12.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)Remuneración Ordinaria Total Líquida Mensual Neta    117,526Impuesto Sobre la Renta Retenido y deducciones de Seguridad Social   50,964Percepción Ordinaria Bruta Líquida Mensual     168,489a) Sueldos y Salarios:      166,564i) Sueldo Base      33,714ii) Compensación Garantizada     132,850b) Prestaciones:      1,925i) Prima Quinquenal      375ii) Ayuda de Despensa     1,515iii) Seguro Colectivo de Retiro     35Notas:
+| ANEXO 23.12.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos) |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Remuneración Ordinaria Total Líquida Mensual Neta |   |   |   |   | 117,526 |   |   |
+| Impuesto Sobre la Renta Retenido y deducciones de Seguridad Social |   |   |   | 50,964 |   |   |   |
+| Percepción Ordinaria Bruta Líquida Mensual |   |   |   |   |   | 168,489 |   |
+| a) Sueldos y Salarios: |   |   |   |   |   |   | 166,564 |
+| i) Sueldo Base |   |   |   |   |   |   | 33,714 |
+| ii) Compensación Garantizada |   |   |   |   |   | 132,850 |   |
+| b) Prestaciones: |   |   |   |   |   |   | 1,925 |
+| i) Prima Quinquenal |   |   |   |   |   |   | 375 |
+| ii) Ayuda de Despensa |   |   |   |   |   | 1,515 |   |
+| iii) Seguro Colectivo de Retiro |   |   |   |   |   | 35 |   |
+| Notas: |   |   |   |   |   |   |   |
 
-En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad.
+| En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad. |
+| --- |
 
-ANEXO 23.12.3. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA NETA TOTAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)GrupoNivelNúmero de
+| ANEXO 23.12.3. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA NETA TOTAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos) |   |   |
+| --- | --- | --- |
+| Grupo | Nivel | Número de |
 
-PlazasSueldos y salariosPrestaciones / 1Percepción Ordinaria Neta MensualMínimoMáximoMínimoMáximoMínimoMáximoMagistrada o Magistrado1, 2, 3 y 4202119,357 119,852 33,589 33,850 152,946 153,702 Titular54 - 117,753  - 32,918  - 150,671 Jefa o Jefe de Unidad63 - 108,888  - 29,913  - 138,801 Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor7, 8, 9 y 102381,201 103,359 21,297 28,107 102,498 131,466 Titular de Unidad12 y 21446,154 71,593 13,041 19,344 59,195 90,937 Secretaria o Secretario de Acuerdos11, 13, 17, 18, 20 y 2161146,154 75,081 13,041 20,208 59,195 95,289 Directora o Director de Área o Asesora o Asesor o Coordinadora o Coordinador11, 14, 15, 19 y 216046,154 75,081 13,041 20,208 59,195 95,289 Coordinadora o Coordinador17 y 19552,033 58,097 14,445 15,939 66,478 74,036 Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato22, 23, 24, 25, 26 y 2718326,318 45,422 8,936 13,003 35,254 58,425 Actuaria o Actuario27165 - 26,318  - 8,936  - 35,254 Oficial Jurisdiccional28 y 2938123,318 23,554 8,431 8,471 31,749 32,025 Jefa o Jefe de Departamento o Delegada o Delegado Sindical28, 29 y 3016721,217 23,554 8,078 8,471 29,295 32,025 Operadora u Operador de Servicios3036 - 21,217  - 8,078  - 29,295 Oficial de Partes3194 - 17,557  - 7,390  - 24,947 Enlace31, 32 y 3373814,880 17,557 6,940 7,390 21,820 24,947 Operativo34 y 3583212,342 14,629 12,530 13,105 24,872 27,734 Notas:
+| Plazas | Sueldos y salarios | Prestaciones / 1 | Percepción Ordinaria Neta Mensual |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |
+| Magistrada o Magistrado | 1, 2, 3 y 4 | 202 | 119,357 | 119,852 | 33,589 | 33,850 | 152,946 | 153,702 |
+| Titular | 5 | 4 | - | 117,753 | - | 32,918 | - | 150,671 |
+| Jefa o Jefe de Unidad | 6 | 3 | - | 108,888 | - | 29,913 | - | 138,801 |
+| Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor | 7, 8, 9 y 10 | 23 | 81,201 | 103,359 | 21,297 | 28,107 | 102,498 | 131,466 |
+| Titular de Unidad | 12 y 21 | 4 | 46,154 | 71,593 | 13,041 | 19,344 | 59,195 | 90,937 |
+| Secretaria o Secretario de Acuerdos | 11, 13, 17, 18, 20 y 21 | 611 | 46,154 | 75,081 | 13,041 | 20,208 | 59,195 | 95,289 |
+| Directora o Director de Área o Asesora o Asesor o Coordinadora o Coordinador | 11, 14, 15, 19 y 21 | 60 | 46,154 | 75,081 | 13,041 | 20,208 | 59,195 | 95,289 |
+| Coordinadora o Coordinador | 17 y 19 | 5 | 52,033 | 58,097 | 14,445 | 15,939 | 66,478 | 74,036 |
+| Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato | 22, 23, 24, 25, 26 y 27 | 183 | 26,318 | 45,422 | 8,936 | 13,003 | 35,254 | 58,425 |
+| Actuaria o Actuario | 27 | 165 | - | 26,318 | - | 8,936 | - | 35,254 |
+| Oficial Jurisdiccional | 28 y 29 | 381 | 23,318 | 23,554 | 8,431 | 8,471 | 31,749 | 32,025 |
+| Jefa o Jefe de Departamento o Delegada o Delegado Sindical | 28, 29 y 30 | 167 | 21,217 | 23,554 | 8,078 | 8,471 | 29,295 | 32,025 |
+| Operadora u Operador de Servicios | 30 | 36 | - | 21,217 | - | 8,078 | - | 29,295 |
+| Oficial de Partes | 31 | 94 | - | 17,557 | - | 7,390 | - | 24,947 |
+| Enlace | 31, 32 y 33 | 738 | 14,880 | 17,557 | 6,940 | 7,390 | 21,820 | 24,947 |
+| Operativo | 34 y 35 | 832 | 12,342 | 14,629 | 12,530 | 13,105 | 24,872 | 27,734 |
+| Notas: |   |   |   |   |   |   |   |   |
 
 1) En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluyen los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como por servicios de seguridad.
 
-2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles.
+| 2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles. |
+| --- |
 
-ANEXO 23.12.4. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA BRUTA MENSUAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)GrupoNivelNúmero de
+| ANEXO 23.12.4. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA BRUTA MENSUAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos) |   |   |
+| --- | --- | --- |
+| Grupo | Nivel | Número de |
 
-PlazasSueldos y salariosPrestaciones / 1Percepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoMagistrada o Magistrado1, 2, 3 y 4202165,814 166,564 46,145 58,426 211,959 224,990 Titular54 - 163,385  - 45,308  - 208,693 Jefa o Jefe de Unidad63 - 149,953  - 41,102  - 191,055 Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor7, 8, 9 y 1023108,512 141,575 31,328 39,044 139,840 180,619 Titular de Unidad12 y 21458,030 94,382 18,282 25,622 76,312 120,004 Secretaria o Secretario de Acuerdos11, 13, 17, 18, 20 y 2161158,030 99,512 18,282 26,648 76,312 126,160 Directora o Director De Área o Asesora o Asesor o Coordinadora o Coordinador11, 14, 15, 19 y 216058,030 99,512 18,282 26,648 76,312 126,160 Coordinadora o Coordinador17 y 19566,428 75,091 19,950 21,617 86,378 96,708 Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato22, 23, 24, 25, 26 y 2718331,348 56,984 13,330 18,110 44,678 75,094 Actuaria o Actuario27165 - 31,348  - 13,330  - 44,678 Oficial Jurisdiccional28 y 2938127,530 27,830 12,702 12,751 40,232 40,581 Jefa o Jefe de Departamento o Delegada o Delegado Sindical28, 29 y 3016724,858 27,830 12,262 12,751 37,120 40,581 Operadora u Operador de Servicios3036 - 24,858  - 12,262  - 37,120 Oficial de Partes3194 - 20,205  - 11,426  - 31,631 Enlace31, 32 y 3373816,800 20,205 10,866 11,426 27,666 31,631 Operativo34 y 3583213,653 16,481 14,411 14,701 28,064 31,182 Notas: 1) En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluyen los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como por servicios de seguridad.
+| Plazas | Sueldos y salarios | Prestaciones / 1 | Percepción Ordinaria Total |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Mínimo | Máximo | Mínimo | Máximo | Mínimo | Máximo |   |   |
+| Magistrada o Magistrado | 1, 2, 3 y 4 | 202 | 165,814 | 166,564 | 46,145 | 58,426 | 211,959 | 224,990 |
+| Titular | 5 | 4 | - | 163,385 | - | 45,308 | - | 208,693 |
+| Jefa o Jefe de Unidad | 6 | 3 | - | 149,953 | - | 41,102 | - | 191,055 |
+| Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor | 7, 8, 9 y 10 | 23 | 108,512 | 141,575 | 31,328 | 39,044 | 139,840 | 180,619 |
+| Titular de Unidad | 12 y 21 | 4 | 58,030 | 94,382 | 18,282 | 25,622 | 76,312 | 120,004 |
+| Secretaria o Secretario de Acuerdos | 11, 13, 17, 18, 20 y 21 | 611 | 58,030 | 99,512 | 18,282 | 26,648 | 76,312 | 126,160 |
+| Directora o Director De Área o Asesora o Asesor o Coordinadora o Coordinador | 11, 14, 15, 19 y 21 | 60 | 58,030 | 99,512 | 18,282 | 26,648 | 76,312 | 126,160 |
+| Coordinadora o Coordinador | 17 y 19 | 5 | 66,428 | 75,091 | 19,950 | 21,617 | 86,378 | 96,708 |
+| Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato | 22, 23, 24, 25, 26 y 27 | 183 | 31,348 | 56,984 | 13,330 | 18,110 | 44,678 | 75,094 |
+| Actuaria o Actuario | 27 | 165 | - | 31,348 | - | 13,330 | - | 44,678 |
+| Oficial Jurisdiccional | 28 y 29 | 381 | 27,530 | 27,830 | 12,702 | 12,751 | 40,232 | 40,581 |
+| Jefa o Jefe de Departamento o Delegada o Delegado Sindical | 28, 29 y 30 | 167 | 24,858 | 27,830 | 12,262 | 12,751 | 37,120 | 40,581 |
+| Operadora u Operador de Servicios | 30 | 36 | - | 24,858 | - | 12,262 | - | 37,120 |
+| Oficial de Partes | 31 | 94 | - | 20,205 | - | 11,426 | - | 31,631 |
+| Enlace | 31, 32 y 33 | 738 | 16,800 | 20,205 | 10,866 | 11,426 | 27,666 | 31,631 |
+| Operativo | 34 y 35 | 832 | 13,653 | 16,481 | 14,411 | 14,701 | 28,064 | 31,182 |
+| Notas: |   |   |   |   |   |   |   |   |
+| 1) En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluyen los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como por servicios de seguridad. |   |   |   |   |   |   |   |   |
 
-2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles.NOTA GENERAL: Para la integración de las remuneraciones incluidas en los subanexos 23.2 al 23.12, se tomó como base la información remitida por los Poderes Legislativo y Judicial, así como por los entes autónomos en el ámbito de su competencia.
+| 2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles. |
+| --- |
+| NOTA GENERAL: Para la integración de las remuneraciones incluidas en los subanexos 23.2 al 23.12, se tomó como base la información remitida por los Poderes Legislativo y Judicial, así como por los entes autónomos en el ámbito de su competencia. |
 
-ANEXO 24. PREVISIONES SALARIALES Y ECONÓMICAS DE LOS RAMOS 25 Y 33 (pesos)Incremento a las percepcionesCreación de plazasOtras medidas de carácter económico, laboral y contingenteTotalRamos Generales    25Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos 28,143,190,597650,000,0006,096,828,81134,890,019,408Autoridad Educativa Federal en la Ciudad de México1,668,894,945 2,523,618,7294,192,513,674Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo 26,200,143,029650,000,0003,517,709,98130,367,853,010Fondo de Aportaciones para la Educación Tecnológica y de Adultos274,152,623 55,500,101329,652,72433Aportaciones Federales para Entidades Federativas y Municipios1,563,767,1050285,357,7801,849,124,885Fondo de Aportaciones para los Servicios de Salud1,563,767,105 285,357,7801,849,124,885
+| ANEXO 24. PREVISIONES SALARIALES Y ECONÓMICAS DE LOS RAMOS 25 Y 33 (pesos) |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   | Incremento a las percepciones | Creación de plazas | Otras medidas de carácter económico, laboral y contingente | Total |   |
+| Ramos Generales |   |   |   |   |   |
+| 25 | Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos | 28,143,190,597 | 650,000,000 | 6,096,828,811 | 34,890,019,408 |
+|   | Autoridad Educativa Federal en la Ciudad de México | 1,668,894,945 |   | 2,523,618,729 | 4,192,513,674 |
+|   | Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo | 26,200,143,029 | 650,000,000 | 3,517,709,981 | 30,367,853,010 |
+|   | Fondo de Aportaciones para la Educación Tecnológica y de Adultos | 274,152,623 |   | 55,500,101 | 329,652,724 |
+| 33 | Aportaciones Federales para Entidades Federativas y Municipios | 1,563,767,105 | 0 | 285,357,780 | 1,849,124,885 |
+|   | Fondo de Aportaciones para los Servicios de Salud | 1,563,767,105 |   | 285,357,780 | 1,849,124,885 |
 
-ANEXO 25. PROGRAMAS SUJETOS A REGLAS DE OPERACIÓN08 Agricultura y Desarrollo Rural        Fertilizantes        Pesca        Precios de Garantía       Producción para el Bienestar       Programa de Abasto Rural       Programa de Abasto Social de Leche       Sanidad e Inocuidad Agroalimentaria      11 Educación Pública        Atención de Planteles Públicos de Educación Media Superior con Estudiantes con Discapacidad (PAPPEMS)   Beca Nivel Medio Superior       Beca Nivel Superior       Beca Rita Cetina        Becas Elisa Acuña       La Escuela es Nuestra       Programa de Cultura Física y Deporte      Programa para el Desarrollo Profesional Docente     12 Salud         Programa de Atención a Personas con Discapacidad     14 Trabajo y Previsión Social        Jóvenes Construyendo el Futuro       Programa de Apoyo al Empleo (PAE)      15 Desarrollo Agrario, Territorial y Urbano       Programa de Vivienda Social        Programa para Regularizar asentamientos Humanos     16 Medio Ambiente y Recursos Naturales       Desarrollo Forestal Sustentable para el Bienestar      Programa de Conservación para el Desarrollo Sostenible     20 Bienestar        Niñas y Niños        Pensión Mujeres Bienestar       Pensión para Adultos Mayores       Pensión para Personas con Discapacidad      Salud Casa por Casa       Sembrando Vida       38 Ciencia, Humanidades, Tecnología e Innovación       Becas de posgrado y apoyos a la calidad      Sistema Nacional de Investigadoras e Investigadores     47 Entidades no Sectorizadas        Programa de Apoyo a la Educación Indígena      Programa para el Bienestar Integral de los Pueblos Indígenas    48 Cultura         Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales   Programa Nacional de Becas Artísticas y Culturales      Programas de Apoyos a la Cultura       Programas del fondo nacional de fomento a las artesanías (FONART)    54 Mujeres        Programa de Atención Integral para el Bienestar de las Mujeres
+| ANEXO 25. PROGRAMAS SUJETOS A REGLAS DE OPERACIÓN |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 08 Agricultura y Desarrollo Rural |   |   |   |   |   |   |   |   |
+|   | Fertilizantes |   |   |   |   |   |   |   |
+|   | Pesca |   |   |   |   |   |   |   |
+|   | Precios de Garantía |   |   |   |   |   |   |   |
+|   | Producción para el Bienestar |   |   |   |   |   |   |   |
+|   | Programa de Abasto Rural |   |   |   |   |   |   |   |
+|   | Programa de Abasto Social de Leche |   |   |   |   |   |   |   |
+|   | Sanidad e Inocuidad Agroalimentaria |   |   |   |   |   |   |   |
+| 11 Educación Pública |   |   |   |   |   |   |   |   |
+|   | Atención de Planteles Públicos de Educación Media Superior con Estudiantes con Discapacidad (PAPPEMS) |   |   |   |   |   |   |   |
+|   | Beca Nivel Medio Superior |   |   |   |   |   |   |   |
+|   | Beca Nivel Superior |   |   |   |   |   |   |   |
+|   | Beca Rita Cetina |   |   |   |   |   |   |   |
+|   | Becas Elisa Acuña |   |   |   |   |   |   |   |
+|   | La Escuela es Nuestra |   |   |   |   |   |   |   |
+|   | Programa de Cultura Física y Deporte |   |   |   |   |   |   |   |
+|   | Programa para el Desarrollo Profesional Docente |   |   |   |   |   |   |   |
+| 12 Salud |   |   |   |   |   |   |   |   |
+|   | Programa de Atención a Personas con Discapacidad |   |   |   |   |   |   |   |
+| 14 Trabajo y Previsión Social |   |   |   |   |   |   |   |   |
+|   | Jóvenes Construyendo el Futuro |   |   |   |   |   |   |   |
+|   | Programa de Apoyo al Empleo (PAE) |   |   |   |   |   |   |   |
+| 15 Desarrollo Agrario, Territorial y Urbano |   |   |   |   |   |   |   |   |
+|   | Programa de Vivienda Social |   |   |   |   |   |   |   |
+|   | Programa para Regularizar asentamientos Humanos |   |   |   |   |   |   |   |
+| 16 Medio Ambiente y Recursos Naturales |   |   |   |   |   |   |   |   |
+|   | Desarrollo Forestal Sustentable para el Bienestar |   |   |   |   |   |   |   |
+|   | Programa de Conservación para el Desarrollo Sostenible |   |   |   |   |   |   |   |
+| 20 Bienestar |   |   |   |   |   |   |   |   |
+|   | Niñas y Niños |   |   |   |   |   |   |   |
+|   | Pensión Mujeres Bienestar |   |   |   |   |   |   |   |
+|   | Pensión para Adultos Mayores |   |   |   |   |   |   |   |
+|   | Pensión para Personas con Discapacidad |   |   |   |   |   |   |   |
+|   | Salud Casa por Casa |   |   |   |   |   |   |   |
+|   | Sembrando Vida |   |   |   |   |   |   |   |
+| 38 Ciencia, Humanidades, Tecnología e Innovación |   |   |   |   |   |   |   |   |
+|   | Becas de posgrado y apoyos a la calidad |   |   |   |   |   |   |   |
+|   | Sistema Nacional de Investigadoras e Investigadores |   |   |   |   |   |   |   |
+| 47 Entidades no Sectorizadas |   |   |   |   |   |   |   |   |
+|   | Programa de Apoyo a la Educación Indígena |   |   |   |   |   |   |   |
+|   | Programa para el Bienestar Integral de los Pueblos Indígenas |   |   |   |   |   |   |   |
+| 48 Cultura |   |   |   |   |   |   |   |   |
+|   | Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales |   |   |   |   |   |   |   |
+|   | Programa Nacional de Becas Artísticas y Culturales |   |   |   |   |   |   |   |
+|   | Programas de Apoyos a la Cultura |   |   |   |   |   |   |   |
+|   | Programas del fondo nacional de fomento a las artesanías (FONART) |   |   |   |   |   |   |   |
+| 54 Mujeres |   |   |   |   |   |   |   |   |
+|   | Programa de Atención Integral para el Bienestar de las Mujeres |   |   |   |   |   |   |   |
 
-ANEXO 26. PRINCIPALES PROGRAMAS         04 Gobernación        Política para la protección y defensa de los derechos humanos     Servicios migratorios       Subsidios para las acciones de búsqueda de personas desaparecidas y no localizadas   05 Relaciones Exteriores        Atención y servicios integrales de protección y asistencia consular     Política de promoción y defensa de los intereses de México en el ámbito multilateral   06 Hacienda y Crédito Público        Inclusión financiera para el bienestar       Servicios de recaudación de las contribuciones federales     07 Defensa Nacional        Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional     Operación y desarrollo de la Fuerza Aérea Mexicana      Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas     Programa de igualdad entre mujeres y hombres SDN      Servicios de administración de la Infraestructura Aeroportuaria en Santa Lucía, Edo. Méx.    Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares    Servicios de operación para la prevención, investigación y persecución de delitos    Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya    08 Agricultura y Desarrollo Rural        Adquisición, industrialización y comercialización de productos agroalimentarios     Fertilizantes        Pesca        Precios de Garantía       Producción para el Bienestar       Programa de Abasto Rural       Programa de Abasto Social de Leche       Sanidad e Inocuidad Agroalimentaria      09 Infraestructura, Comunicaciones y Transportes       Caminos artesanales       Infraestructura de carreteras y caminos      Infraestructura ferroviaria para transporte de carga y pasajeros    10 Economía        Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión  11 Educación Pública        Beca Nivel Medio Superior       Beca Nivel Superior       Beca Rita Cetina        Beca Universal de Educación Media Superior Benito Juárez     Investigación en ciencia, humanidades, tecnología e innovación     La Escuela es Nuestra       Programa de Cultura Física y Deporte      Servicios de educación Básica Comunitaria      Servicios de Educación Media Superior      Servicios de educación para Adultos (INEA)      Servicios de Educación Superior y Posgrado     12 Salud         Investigación, desarrollo tecnológico y formación en salud     Política de prevención y control de enfermedades      Política en Salud Materna Sexual y Reproductiva      Servicios de atención a la salud       Servicios de atención a la salud mental y prevención de las adicciones     Servicios de vacunación       13 Marina         Administración y Operación de Capitanías de Puerto y Asuntos Marítimos     Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales    Infraestructura ferroviaria para transporte de carga y pasajeros     Sistema Educativo Naval      14 Trabajo y Previsión Social        Jóvenes Construyendo el Futuro       Servicios de conciliación laboral y registros laborales      Servicios de impartición y procuración de justicia laboral      Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral  15 Desarrollo Agrario, Territorial y Urbano       Programa de Vivienda Social      16 Medio Ambiente y Recursos Naturales       Agua Potable, Drenaje y Tratamiento       Conservación y Manejo de Áreas Naturales Protegidas      Desarrollo Forestal Sustentable para el Bienestar      Infraestructura en materia de agua potable, alcantarillado y saneamiento     Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones    Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde    Programa de Apoyo a la Infraestructura Hidroagrícola      Programa de Conservación para el Desarrollo Sostenible      Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias    Protección Forestal       Servicios de operación y suministro hídrico     18 Energía         Articulación de la política energética       Articulación de la política nuclear y eléctrica     20 Bienestar        Niñas y Niños        Pensión Mujeres Bienestar       Pensión para Adultos Mayores       Pensión para Personas con Discapacidad      Salud Casa por Casa       Sembrando Vida        Servicios a grupos con necesidades especiales     23 Provisiones Salariales y Económicas       Investigación en materia de hidrocarburos y sustentabilidad energética    33 Aportaciones Federales para Entidades Federativas y Municipios      FASP       36 Seguridad y Protección Ciudadana       Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública     Política de inteligencia para la Seguridad Nacional      Servicios de administración del Sistema Federal Penitenciario    38 Ciencia, Humanidades, Tecnología e Innovación       Becas de posgrado y apoyos a la calidad      Sistema Nacional de Investigadoras e Investigadores     47 Entidades no Sectorizadas        Programa para el Bienestar Integral de los Pueblos Indígenas     Servicios de atención a víctimas      48 Cultura         Política de educación y cultura indígena      Programas de apoyos a la cultura       Programas del fondo nacional de fomento a las artesanías (FONART)     Servicios de desarrollo cultural       Servicios de protección y conservación del patrimonio cultural    Instituto Mexicano del Seguro Social       Servicios de atención a la salud       Servicios de guardería      Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado     Servicios de atención a la salud      Petróleos Mexicanos        Producción, distribución y comercialización de petróleo, gas, petrolíferos y petroquímicos    Servicios de operación y mantenimiento de la infraestructura en ecología    Comisión Federal de Electricidad        Coordinación, operación y recarga de la Coordinación Nuclear     Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica    54 Mujeres Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres     Programa de Atención Integral para el Bienestar de las Mujeres     Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas  55 Agencia de Transformación Digital y Telecomunicaciones      Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones   Investigación, estudios y proyectos en materia espacial      Regulación y supervisión de las telecomunicaciones y la radiodifusión     Servicios de correo      56 Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar     Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral    Fortalecimiento a la atención médica       Servicios de atención a la salud
+| ANEXO 26. PRINCIPALES PROGRAMAS |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 04 Gobernación |   |   |   |   |   |   |   |   |
+|   | Política para la protección y defensa de los derechos humanos |   |   |   |   |   |   |   |
+|   | Servicios migratorios |   |   |   |   |   |   |   |
+|   | Subsidios para las acciones de búsqueda de personas desaparecidas y no localizadas |   |   |   |   |   |   |   |
+| 05 Relaciones Exteriores |   |   |   |   |   |   |   |   |
+|   | Atención y servicios integrales de protección y asistencia consular |   |   |   |   |   |   |   |
+|   | Política de promoción y defensa de los intereses de México en el ámbito multilateral |   |   |   |   |   |   |   |
+| 06 Hacienda y Crédito Público |   |   |   |   |   |   |   |   |
+|   | Inclusión financiera para el bienestar |   |   |   |   |   |   |   |
+|   | Servicios de recaudación de las contribuciones federales |   |   |   |   |   |   |   |
+| 07 Defensa Nacional |   |   |   |   |   |   |   |   |
+|   | Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional |   |   |   |   |   |   |   |
+|   | Operación y desarrollo de la Fuerza Aérea Mexicana |   |   |   |   |   |   |   |
+|   | Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas |   |   |   |   |   |   |   |
+|   | Programa de igualdad entre mujeres y hombres SDN |   |   |   |   |   |   |   |
+|   | Servicios de administración de la Infraestructura Aeroportuaria en Santa Lucía, Edo. Méx. |   |   |   |   |   |   |   |
+|   | Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares |   |   |   |   |   |   |   |
+|   | Servicios de operación para la prevención, investigación y persecución de delitos |   |   |   |   |   |   |   |
+|   | Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya |   |   |   |   |   |   |   |
+| 08 Agricultura y Desarrollo Rural |   |   |   |   |   |   |   |   |
+|   | Adquisición, industrialización y comercialización de productos agroalimentarios |   |   |   |   |   |   |   |
+|   | Fertilizantes |   |   |   |   |   |   |   |
+|   | Pesca |   |   |   |   |   |   |   |
+|   | Precios de Garantía |   |   |   |   |   |   |   |
+|   | Producción para el Bienestar |   |   |   |   |   |   |   |
+|   | Programa de Abasto Rural |   |   |   |   |   |   |   |
+|   | Programa de Abasto Social de Leche |   |   |   |   |   |   |   |
+|   | Sanidad e Inocuidad Agroalimentaria |   |   |   |   |   |   |   |
+| 09 Infraestructura, Comunicaciones y Transportes |   |   |   |   |   |   |   |   |
+|   | Caminos artesanales |   |   |   |   |   |   |   |
+|   | Infraestructura de carreteras y caminos |   |   |   |   |   |   |   |
+|   | Infraestructura ferroviaria para transporte de carga y pasajeros |   |   |   |   |   |   |   |
+| 10 Economía |   |   |   |   |   |   |   |   |
+|   | Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión |   |   |   |   |   |   |   |
+| 11 Educación Pública |   |   |   |   |   |   |   |   |
+|   | Beca Nivel Medio Superior |   |   |   |   |   |   |   |
+|   | Beca Nivel Superior |   |   |   |   |   |   |   |
+|   | Beca Rita Cetina |   |   |   |   |   |   |   |
+|   | Beca Universal de Educación Media Superior Benito Juárez |   |   |   |   |   |   |   |
+|   | Investigación en ciencia, humanidades, tecnología e innovación |   |   |   |   |   |   |   |
+|   | La Escuela es Nuestra |   |   |   |   |   |   |   |
+|   | Programa de Cultura Física y Deporte |   |   |   |   |   |   |   |
+|   | Servicios de educación Básica Comunitaria |   |   |   |   |   |   |   |
+|   | Servicios de Educación Media Superior |   |   |   |   |   |   |   |
+|   | Servicios de educación para Adultos (INEA) |   |   |   |   |   |   |   |
+|   | Servicios de Educación Superior y Posgrado |   |   |   |   |   |   |   |
+| 12 Salud |   |   |   |   |   |   |   |   |
+|   | Investigación, desarrollo tecnológico y formación en salud |   |   |   |   |   |   |   |
+|   | Política de prevención y control de enfermedades |   |   |   |   |   |   |   |
+|   | Política en Salud Materna Sexual y Reproductiva |   |   |   |   |   |   |   |
+|   | Servicios de atención a la salud |   |   |   |   |   |   |   |
+|   | Servicios de atención a la salud mental y prevención de las adicciones |   |   |   |   |   |   |   |
+|   | Servicios de vacunación |   |   |   |   |   |   |   |
+| 13 Marina |   |   |   |   |   |   |   |   |
+|   | Administración y Operación de Capitanías de Puerto y Asuntos Marítimos |   |   |   |   |   |   |   |
+|   | Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales |   |   |   |   |   |   |   |
+|   | Infraestructura ferroviaria para transporte de carga y pasajeros |   |   |   |   |   |   |   |
+|   | Sistema Educativo Naval |   |   |   |   |   |   |   |
+| 14 Trabajo y Previsión Social |   |   |   |   |   |   |   |   |
+|   | Jóvenes Construyendo el Futuro |   |   |   |   |   |   |   |
+|   | Servicios de conciliación laboral y registros laborales |   |   |   |   |   |   |   |
+|   | Servicios de impartición y procuración de justicia laboral |   |   |   |   |   |   |   |
+|   | Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral |   |   |   |   |   |   |   |
+| 15 Desarrollo Agrario, Territorial y Urbano |   |   |   |   |   |   |   |   |
+|   | Programa de Vivienda Social |   |   |   |   |   |   |   |
+| 16 Medio Ambiente y Recursos Naturales |   |   |   |   |   |   |   |   |
+|   | Agua Potable, Drenaje y Tratamiento |   |   |   |   |   |   |   |
+|   | Conservación y Manejo de Áreas Naturales Protegidas |   |   |   |   |   |   |   |
+|   | Desarrollo Forestal Sustentable para el Bienestar |   |   |   |   |   |   |   |
+|   | Infraestructura en materia de agua potable, alcantarillado y saneamiento |   |   |   |   |   |   |   |
+|   | Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones |   |   |   |   |   |   |   |
+|   | Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde |   |   |   |   |   |   |   |
+|   | Programa de Apoyo a la Infraestructura Hidroagrícola |   |   |   |   |   |   |   |
+|   | Programa de Conservación para el Desarrollo Sostenible |   |   |   |   |   |   |   |
+|   | Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias |   |   |   |   |   |   |   |
+|   | Protección Forestal |   |   |   |   |   |   |   |
+|   | Servicios de operación y suministro hídrico |   |   |   |   |   |   |   |
+| 18 Energía |   |   |   |   |   |   |   |   |
+|   | Articulación de la política energética |   |   |   |   |   |   |   |
+|   | Articulación de la política nuclear y eléctrica |   |   |   |   |   |   |   |
+| 20 Bienestar |   |   |   |   |   |   |   |   |
+|   | Niñas y Niños |   |   |   |   |   |   |   |
+|   | Pensión Mujeres Bienestar |   |   |   |   |   |   |   |
+|   | Pensión para Adultos Mayores |   |   |   |   |   |   |   |
+|   | Pensión para Personas con Discapacidad |   |   |   |   |   |   |   |
+|   | Salud Casa por Casa |   |   |   |   |   |   |   |
+|   | Sembrando Vida |   |   |   |   |   |   |   |
+|   | Servicios a grupos con necesidades especiales |   |   |   |   |   |   |   |
+| 23 Provisiones Salariales y Económicas |   |   |   |   |   |   |   |   |
+|   | Investigación en materia de hidrocarburos y sustentabilidad energética |   |   |   |   |   |   |   |
+| 33 Aportaciones Federales para Entidades Federativas y Municipios |   |   |   |   |   |   |   |   |
+|   | FASP |   |   |   |   |   |   |   |
+| 36 Seguridad y Protección Ciudadana |   |   |   |   |   |   |   |   |
+|   | Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública |   |   |   |   |   |   |   |
+|   | Política de inteligencia para la Seguridad Nacional |   |   |   |   |   |   |   |
+|   | Servicios de administración del Sistema Federal Penitenciario |   |   |   |   |   |   |   |
+| 38 Ciencia, Humanidades, Tecnología e Innovación |   |   |   |   |   |   |   |   |
+|   | Becas de posgrado y apoyos a la calidad |   |   |   |   |   |   |   |
+|   | Sistema Nacional de Investigadoras e Investigadores |   |   |   |   |   |   |   |
+| 47 Entidades no Sectorizadas |   |   |   |   |   |   |   |   |
+|   | Programa para el Bienestar Integral de los Pueblos Indígenas |   |   |   |   |   |   |   |
+|   | Servicios de atención a víctimas |   |   |   |   |   |   |   |
+| 48 Cultura |   |   |   |   |   |   |   |   |
+|   | Política de educación y cultura indígena |   |   |   |   |   |   |   |
+|   | Programas de apoyos a la cultura |   |   |   |   |   |   |   |
+|   | Programas del fondo nacional de fomento a las artesanías (FONART) |   |   |   |   |   |   |   |
+|   | Servicios de desarrollo cultural |   |   |   |   |   |   |   |
+|   | Servicios de protección y conservación del patrimonio cultural |   |   |   |   |   |   |   |
+| Instituto Mexicano del Seguro Social |   |   |   |   |   |   |   |   |
+|   | Servicios de atención a la salud |   |   |   |   |   |   |   |
+|   | Servicios de guardería |   |   |   |   |   |   |   |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado |   |   |   |   |   |   |   |   |
+|   | Servicios de atención a la salud |   |   |   |   |   |   |   |
+| Petróleos Mexicanos |   |   |   |   |   |   |   |   |
+|   | Producción, distribución y comercialización de petróleo, gas, petrolíferos y petroquímicos |   |   |   |   |   |   |   |
+|   | Servicios de operación y mantenimiento de la infraestructura en ecología |   |   |   |   |   |   |   |
+| Comisión Federal de Electricidad |   |   |   |   |   |   |   |   |
+|   | Coordinación, operación y recarga de la Coordinación Nuclear |   |   |   |   |   |   |   |
+|   | Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica |   |   |   |   |   |   |   |
+| 54 Mujeres |   |   |   |   |   |   |   |   |
+|   | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres |   |   |   |   |   |   |   |
+|   | Programa de Atención Integral para el Bienestar de las Mujeres |   |   |   |   |   |   |   |
+|   | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas |   |   |   |   |   |   |   |
+| 55 Agencia de Transformación Digital y Telecomunicaciones |   |   |   |   |   |   |   |   |
+|   | Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones |   |   |   |   |   |   |   |
+|   | Investigación, estudios y proyectos en materia espacial |   |   |   |   |   |   |   |
+|   | Regulación y supervisión de las telecomunicaciones y la radiodifusión |   |   |   |   |   |   |   |
+|   | Servicios de correo |   |   |   |   |   |   |   |
+| 56 Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar |   |   |   |   |   |   |   |   |
+|   | Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral |   |   |   |   |   |   |   |
+|   | Fortalecimiento a la atención médica |   |   |   |   |   |   |   |
+|   | Servicios de atención a la salud |   |   |   |   |   |   |   |
 
-ANEXO 27. CONSERVACION Y MANTENIMIENTO CARRETERO (pesos)EstadoPROGRAMA PLURIANUAL DE CONSERVACIÓN DE LA RED FEDERAL DE CARRETERAS LIBRE DE PEAJEPROVISIONES PARA EL DESARROLLO, MODERNIZACIÓN Y REHABILITACIÓN DE INFRAESTRUCTURA DE COMUNICACIONES Y TRANSPORTEMONTONacional27,720,000,000 27,720,000,00021,432,000,00021,432,000,000Total49,152,000,000
+| ANEXO 27. CONSERVACION Y MANTENIMIENTO CARRETERO (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Estado | PROGRAMA PLURIANUAL DE CONSERVACIÓN DE LA RED FEDERAL DE CARRETERAS LIBRE DE PEAJE | PROVISIONES PARA EL DESARROLLO, MODERNIZACIÓN Y REHABILITACIÓN DE INFRAESTRUCTURA DE COMUNICACIONES Y TRANSPORTE | MONTO |
+| Nacional | 27,720,000,000 |   | 27,720,000,000 |
+| 21,432,000,000 | 21,432,000,000 |   |   |
+| Total | 49,152,000,000 |   |   |
 
-ANEXO 28. SUBSIDIOS PARA ORGANISMOS DESCENTRALIZADOS ESTATALES (pesos)        MONTOU006 Subsidios para organismos descentralizados estatales (UR 511)      Aguascalientes      1,089,555,181 Baja California      2,159,230,705 Baja California Sur      614,796,818 Campeche       1,215,837,199 Chiapas       1,748,854,272 Chihuahua       2,558,676,259 Coahuila       1,815,940,287 Colima       1,980,523,721 Durango       1,743,268,262 Estado de México      2,773,212,748 Guanajuato       2,320,801,157 Guerrero       2,524,737,368 Hidalgo       1,777,395,861 Jalisco       7,676,175,792 Michoacán       2,542,333,722 Morelos       1,593,144,300 Nayarit       1,842,267,336 Nuevo León       6,964,227,093 Oaxaca       1,533,675,789 Puebla       5,516,838,885 Querétaro       1,817,983,220 Quintana Roo      387,004,470 San Luis Potosí      2,561,900,127 Sinaloa       5,815,199,023 Sonora       2,666,535,800 Tabasco       1,598,398,073 Tamaulipas       2,875,790,767 Tlaxcala       836,550,270 Veracruz       3,310,259,309 Yucatán       2,544,642,384 Zacatecas       1,967,298,686 No Distribuible Geográficamente 1/     14,500,000         TOTAL        78,387,554,8841/ Programa para el Desarrollo Profesional Docente
+| ANEXO 28. SUBSIDIOS PARA ORGANISMOS DESCENTRALIZADOS ESTATALES (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| U006 Subsidios para organismos descentralizados estatales (UR 511) |   |   |   |   |   |   |   |   |
+| Aguascalientes |   |   |   |   |   |   | 1,089,555,181 |   |
+| Baja California |   |   |   |   |   |   | 2,159,230,705 |   |
+| Baja California Sur |   |   |   |   |   |   | 614,796,818 |   |
+| Campeche |   |   |   |   |   |   |   | 1,215,837,199 |
+| Chiapas |   |   |   |   |   |   |   | 1,748,854,272 |
+| Chihuahua |   |   |   |   |   |   |   | 2,558,676,259 |
+| Coahuila |   |   |   |   |   |   |   | 1,815,940,287 |
+| Colima |   |   |   |   |   |   |   | 1,980,523,721 |
+| Durango |   |   |   |   |   |   |   | 1,743,268,262 |
+| Estado de México |   |   |   |   |   |   | 2,773,212,748 |   |
+| Guanajuato |   |   |   |   |   |   |   | 2,320,801,157 |
+| Guerrero |   |   |   |   |   |   |   | 2,524,737,368 |
+| Hidalgo |   |   |   |   |   |   |   | 1,777,395,861 |
+| Jalisco |   |   |   |   |   |   |   | 7,676,175,792 |
+| Michoacán |   |   |   |   |   |   |   | 2,542,333,722 |
+| Morelos |   |   |   |   |   |   |   | 1,593,144,300 |
+| Nayarit |   |   |   |   |   |   |   | 1,842,267,336 |
+| Nuevo León |   |   |   |   |   |   |   | 6,964,227,093 |
+| Oaxaca |   |   |   |   |   |   |   | 1,533,675,789 |
+| Puebla |   |   |   |   |   |   |   | 5,516,838,885 |
+| Querétaro |   |   |   |   |   |   |   | 1,817,983,220 |
+| Quintana Roo |   |   |   |   |   |   | 387,004,470 |   |
+| San Luis Potosí |   |   |   |   |   |   | 2,561,900,127 |   |
+| Sinaloa |   |   |   |   |   |   |   | 5,815,199,023 |
+| Sonora |   |   |   |   |   |   |   | 2,666,535,800 |
+| Tabasco |   |   |   |   |   |   |   | 1,598,398,073 |
+| Tamaulipas |   |   |   |   |   |   |   | 2,875,790,767 |
+| Tlaxcala |   |   |   |   |   |   |   | 836,550,270 |
+| Veracruz |   |   |   |   |   |   |   | 3,310,259,309 |
+| Yucatán |   |   |   |   |   |   |   | 2,544,642,384 |
+| Zacatecas |   |   |   |   |   |   |   | 1,967,298,686 |
+| No Distribuible Geográficamente 1/ |   |   |   |   |   | 14,500,000 |   |   |
+| TOTAL |   |   |   |   |   |   |   | 78,387,554,884 |
+| 1/ Programa para el Desarrollo Profesional Docente |   |   |   |   |   |   |   |   |
 
-ANEXO 28.1 CONSOLIDACIÓN DE LAS UNIVERSIDADES INTERCULTURALES (pesos)        MONTOS247 Programa para el Desarrollo Profesional Docente (Universidades Interculturales)     Universidad Intercultural de Chiapas     12,647,099 Universidad Intercultural del Estado de México     16,704,232 Universidad Intercultural del Estado de Tabasco     15,280,106 Universidad Intercultural del Estado de Puebla     10,608,827 Universidad Intercultural Indígena de Michoacán     9,647,420 Universidad Intercultural del Estado de Guerrero     4,134,614 Universidad Intercultural Maya de Quintana Roo     14,037,292 Universidad Intercultural Veracruzana     2,065,272 Universidad Autónoma Indígena de México_1/     12,840,165 Universidad Autónoma Intercultural del Estado de Hidalgo    1,147,186 Universidad Autónoma Intercultural de San Luis Potosí    1,147,186         TOTAL        100,259,3991/ Para efectos comparativos, la Universidad Autónoma Indígena de México se reportó en los ejercicios fiscales anteriores como la Universidad Autónoma Intercultural de Sinaloa.
+| ANEXO 28.1 CONSOLIDACIÓN DE LAS UNIVERSIDADES INTERCULTURALES (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| S247 Programa para el Desarrollo Profesional Docente (Universidades Interculturales) |   |   |   |   |   |   |   |   |
+| Universidad Intercultural de Chiapas |   |   |   |   |   | 12,647,099 |   |   |
+| Universidad Intercultural del Estado de México |   |   |   |   |   | 16,704,232 |   |   |
+| Universidad Intercultural del Estado de Tabasco |   |   |   |   |   | 15,280,106 |   |   |
+| Universidad Intercultural del Estado de Puebla |   |   |   |   |   | 10,608,827 |   |   |
+| Universidad Intercultural Indígena de Michoacán |   |   |   |   |   | 9,647,420 |   |   |
+| Universidad Intercultural del Estado de Guerrero |   |   |   |   |   | 4,134,614 |   |   |
+| Universidad Intercultural Maya de Quintana Roo |   |   |   |   |   | 14,037,292 |   |   |
+| Universidad Intercultural Veracruzana |   |   |   |   |   | 2,065,272 |   |   |
+| Universidad Autónoma Indígena de México_1/ |   |   |   |   |   | 12,840,165 |   |   |
+| Universidad Autónoma Intercultural del Estado de Hidalgo |   |   |   |   | 1,147,186 |   |   |   |
+| Universidad Autónoma Intercultural de San Luis Potosí |   |   |   |   | 1,147,186 |   |   |   |
+| TOTAL |   |   |   |   |   |   |   | 100,259,399 |
+| 1/ Para efectos comparativos, la Universidad Autónoma Indígena de México se reportó en los ejercicios fiscales anteriores como la Universidad Autónoma Intercultural de Sinaloa. |   |   |   |   |   |   |   |   |
 
-ANEXO 29. SUBSIDIOS PARA ACCIONES EN MATERIA DE AGUA (DISTRIBUCIÓN DEL PROGRAMA HIDRÁULICO) (pesos)EstadoSubsidios Administración del Agua y Agua PotableSubsidios HidroagrícolasAguascalientes    38,015,937.0010,803,368.00Baja California    70,491,814.0040,210,398.00Baja California Sur   40,093,679.0012,837,235.00Campeche    50,567,961.0031,486,939.00Coahuila    40,683,437.0020,851,846.00Colima    17,776,864.0012,569,674.00Chiapas    102,907,321.00164,200,155.00Chihuahua    75,252,959.0053,003,832.00Ciudad de México   141,906,329.0071,918,651.00Durango    71,725,234.0024,372,985.00Guanajuato    111,004,498.00112,016,079.00Guerrero    0.00126,234,104.00Hidalgo    70,791,957.0058,709,795.00Jalisco    96,506,099.0042,831,391.00Estado de México    213,808,614.0040,566,905.00Michoacán    93,670,821.0084,312,296.00Morelos    70,603,270.0036,070,048.00Nayarit    0.0016,437,874.00Nuevo León    76,226,238.0020,303,776.00Oaxaca    103,833,026.0067,889,797.00Puebla    0.0089,450,887.00Querétaro    55,413,747.0016,187,869.00Quintana Roo    46,418,203.0054,981,767.00San Luis Potosí    87,173,433.0060,786,917.00Sinaloa    69,085,804.00177,291,702.00Sonora    78,867,560.0094,787,234.00Tabasco    70,946,915.0040,919,082.00Tamaulipas    84,392,229.00119,550,518.00Tlaxcala    20,634,443.006,607,581.00Veracruz    139,304,475.00118,914,668.00Yucatán    60,238,813.0091,329,452.00Zacatecas    53,820,048.0014,509,245.00No Distribuible Geográficamente   5,396,561.000.00Total    2,257,558,289.001,932,944,070.00
+| ANEXO 29. SUBSIDIOS PARA ACCIONES EN MATERIA DE AGUA (DISTRIBUCIÓN DEL PROGRAMA HIDRÁULICO) (pesos) |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Estado | Subsidios Administración del Agua y Agua Potable | Subsidios Hidroagrícolas |   |   |   |   |
+| Aguascalientes |   |   |   |   | 38,015,937.00 | 10,803,368.00 |
+| Baja California |   |   |   |   | 70,491,814.00 | 40,210,398.00 |
+| Baja California Sur |   |   |   | 40,093,679.00 | 12,837,235.00 |   |
+| Campeche |   |   |   |   | 50,567,961.00 | 31,486,939.00 |
+| Coahuila |   |   |   |   | 40,683,437.00 | 20,851,846.00 |
+| Colima |   |   |   |   | 17,776,864.00 | 12,569,674.00 |
+| Chiapas |   |   |   |   | 102,907,321.00 | 164,200,155.00 |
+| Chihuahua |   |   |   |   | 75,252,959.00 | 53,003,832.00 |
+| Ciudad de México |   |   |   | 141,906,329.00 | 71,918,651.00 |   |
+| Durango |   |   |   |   | 71,725,234.00 | 24,372,985.00 |
+| Guanajuato |   |   |   |   | 111,004,498.00 | 112,016,079.00 |
+| Guerrero |   |   |   |   | 0.00 | 126,234,104.00 |
+| Hidalgo |   |   |   |   | 70,791,957.00 | 58,709,795.00 |
+| Jalisco |   |   |   |   | 96,506,099.00 | 42,831,391.00 |
+| Estado de México |   |   |   |   | 213,808,614.00 | 40,566,905.00 |
+| Michoacán |   |   |   |   | 93,670,821.00 | 84,312,296.00 |
+| Morelos |   |   |   |   | 70,603,270.00 | 36,070,048.00 |
+| Nayarit |   |   |   |   | 0.00 | 16,437,874.00 |
+| Nuevo León |   |   |   |   | 76,226,238.00 | 20,303,776.00 |
+| Oaxaca |   |   |   |   | 103,833,026.00 | 67,889,797.00 |
+| Puebla |   |   |   |   | 0.00 | 89,450,887.00 |
+| Querétaro |   |   |   |   | 55,413,747.00 | 16,187,869.00 |
+| Quintana Roo |   |   |   |   | 46,418,203.00 | 54,981,767.00 |
+| San Luis Potosí |   |   |   |   | 87,173,433.00 | 60,786,917.00 |
+| Sinaloa |   |   |   |   | 69,085,804.00 | 177,291,702.00 |
+| Sonora |   |   |   |   | 78,867,560.00 | 94,787,234.00 |
+| Tabasco |   |   |   |   | 70,946,915.00 | 40,919,082.00 |
+| Tamaulipas |   |   |   |   | 84,392,229.00 | 119,550,518.00 |
+| Tlaxcala |   |   |   |   | 20,634,443.00 | 6,607,581.00 |
+| Veracruz |   |   |   |   | 139,304,475.00 | 118,914,668.00 |
+| Yucatán |   |   |   |   | 60,238,813.00 | 91,329,452.00 |
+| Zacatecas |   |   |   |   | 53,820,048.00 | 14,509,245.00 |
+| No Distribuible Geográficamente |   |   |   | 5,396,561.00 | 0.00 |   |
+| Total |   |   |   |   | 2,257,558,289.00 | 1,932,944,070.00 |
 
-ANEXO 31. CONSOLIDACIÓN DE UNA SOCIEDAD DE CUIDADOS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal466,674,926,69304 Gobernación3,443,358 M001Actividades de apoyo administrativo300,000 P007Planeación demográfica del país3,143,35806 Hacienda y Crédito Público150,000 M001Actividades de apoyo administrativo150,00008 Agricultura y Desarrollo Rural3,217,628 M001Actividades de apoyo administrativo3,217,62809 Infraestructura, Comunicaciones y Transportes2,500,000,000 U004Caminos artesanales2,500,000,00011 Educación Pública136,295,037,341 E022Servicios de Educación Media Superior352,766 E023Servicios de Educación Superior y Posgrado188,972,186 E028Servicios de normalización y certificación en competencias laborales5,772,863 E030Servicios de educación Básica Comunitaria4,954,679,953 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S247Programa para el Desarrollo Profesional Docente2,418,483 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)824,350,493 U312Expansión de la Educación Inicial901,412,59912 Salud3,543,952,157 E033Servicios de vacunación3,323,717,109 E034Servicios de protección y asistencia social integral63,380,629 P029Política en Salud Materna Sexual y Reproductiva112,449,123 S039Programa de Atención a Personas con Discapacidad44,405,29616 Medio Ambiente y Recursos Naturales3,329,002 S219Desarrollo Forestal Sustentable para el Bienestar3,329,00220 Bienestar172,001,169,283 E048Servicios a grupos con necesidades especiales311,951,956 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras2,467,011,360 S176Pensión para el Bienestar de las Personas Adultas Mayores123,260,764,047 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente28,961,441,920 S316Pensión Mujeres Bienestar15,000,000,000 S317Salud Casa por casa2,000,000,00025 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos10,000,000 U003Fortalecimiento de la educación básica en la Ciudad de México10,000,00031 Tribunales Agrarios9,608 M001Actividades de apoyo administrativo9,60838 Ciencia, Humanidades, Tecnología e Innovación211,124 M001Actividades de apoyo administrativo211,12447 Entidades no Sectorizadas95,922,62747 Instituto Mexicano de la Radio1,816,909 E058Servicios de producción y transmisión de materiales Radiofónicos de contenidos informativo, educativo, cultural, de orientación, servicio y participación social, y recreativos1,816,90947 Instituto Nacional de los Pueblos Indígenas94,105,717 S178Programa de Apoyo a la Educación Indígena90,657,290 S249 Programa para el Bienestar Integral de los Pueblos Indígenas3,448,42749 Fiscalía General de la República360,950 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos181,500 M001Actividades de apoyo administrativo179,450Instituto Mexicano del Seguro Social147,410,520,667 E031Servicios de atención a la salud126,925,529,468 E067Servicios de prevención y control de enfermedades3,341,291,399 E070Servicios de guardería17,062,045,828 E071Servicios por prestaciones sociales59,506,833 J016Pago de subsidios a los asegurados22,147,139Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado4,039,460,058 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil3,994,178,103 J018Subsidios y ayudas1,881,374 K006Infraestructura integral para el derecho a la salud43,061,666Petróleos Mexicanos525,354,155 M001Actividades de apoyo administrativo525,354,15554 Mujeres45,347,530 M001Actividades de apoyo administrativo296,644 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres4,543,295 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas40,507,59156 IMSS Bienestar197,450,814 E031Servicios de atención a la salud197,450,814
+| ANEXO 31. CONSOLIDACIÓN DE UNA SOCIEDAD DE CUIDADOS (pesos) |   |   |   |
+| --- | --- | --- | --- |
+| Ramo | Programa Presupuestario | Descripción | Monto |
+| Total | 466,674,926,693 |   |   |
+| 04 Gobernación | 3,443,358 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 300,000 |
+|   | P007 | Planeación demográfica del país | 3,143,358 |
+| 06 Hacienda y Crédito Público | 150,000 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 150,000 |
+| 08 Agricultura y Desarrollo Rural | 3,217,628 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 3,217,628 |
+| 09 Infraestructura, Comunicaciones y Transportes | 2,500,000,000 |   |   |
+|   | U004 | Caminos artesanales | 2,500,000,000 |
+| 11 Educación Pública | 136,295,037,341 |   |   |
+|   | E022 | Servicios de Educación Media Superior | 352,766 |
+|   | E023 | Servicios de Educación Superior y Posgrado | 188,972,186 |
+|   | E028 | Servicios de normalización y certificación en competencias laborales | 5,772,863 |
+|   | E030 | Servicios de educación Básica Comunitaria | 4,954,679,953 |
+|   | S072 | Beca Universal de Educación Básica Rita Cetina | 129,386,000,000 |
+|   | S247 | Programa para el Desarrollo Profesional Docente | 2,418,483 |
+|   | S298 | Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS) | 31,077,999 |
+|   | U295 | Fortalecimiento de los Servicios de Educación Especial (PFSEE) | 824,350,493 |
+|   | U312 | Expansión de la Educación Inicial | 901,412,599 |
+| 12 Salud | 3,543,952,157 |   |   |
+|   | E033 | Servicios de vacunación | 3,323,717,109 |
+|   | E034 | Servicios de protección y asistencia social integral | 63,380,629 |
+|   | P029 | Política en Salud Materna Sexual y Reproductiva | 112,449,123 |
+|   | S039 | Programa de Atención a Personas con Discapacidad | 44,405,296 |
+| 16 Medio Ambiente y Recursos Naturales | 3,329,002 |   |   |
+|   | S219 | Desarrollo Forestal Sustentable para el Bienestar | 3,329,002 |
+| 20 Bienestar | 172,001,169,283 |   |   |
+|   | E048 | Servicios a grupos con necesidades especiales | 311,951,956 |
+|   | S174 | Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras | 2,467,011,360 |
+|   | S176 | Pensión para el Bienestar de las Personas Adultas Mayores | 123,260,764,047 |
+|   | S286 | Pensión para el Bienestar de las Personas con Discapacidad Permanente | 28,961,441,920 |
+|   | S316 | Pensión Mujeres Bienestar | 15,000,000,000 |
+|   | S317 | Salud Casa por casa | 2,000,000,000 |
+| 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos | 10,000,000 |   |   |
+|   | U003 | Fortalecimiento de la educación básica en la Ciudad de México | 10,000,000 |
+| 31 Tribunales Agrarios | 9,608 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 9,608 |
+| 38 Ciencia, Humanidades, Tecnología e Innovación | 211,124 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 211,124 |
+| 47 Entidades no Sectorizadas | 95,922,627 |   |   |
+| 47 Instituto Mexicano de la Radio | 1,816,909 |   |   |
+|   | E058 | Servicios de producción y transmisión de materiales Radiofónicos de contenidos informativo, educativo, cultural, de orientación, servicio y participación social, y recreativos | 1,816,909 |
+| 47 Instituto Nacional de los Pueblos Indígenas | 94,105,717 |   |   |
+|   | S178 | Programa de Apoyo a la Educación Indígena | 90,657,290 |
+|   | S249 | Programa para el Bienestar Integral de los Pueblos Indígenas | 3,448,427 |
+| 49 Fiscalía General de la República | 360,950 |   |   |
+|   | E009 | Investigar y perseguir los delitos cometidos en materia de derechos humanos | 181,500 |
+|   | M001 | Actividades de apoyo administrativo | 179,450 |
+| Instituto Mexicano del Seguro Social | 147,410,520,667 |   |   |
+|   | E031 | Servicios de atención a la salud | 126,925,529,468 |
+|   | E067 | Servicios de prevención y control de enfermedades | 3,341,291,399 |
+|   | E070 | Servicios de guardería | 17,062,045,828 |
+|   | E071 | Servicios por prestaciones sociales | 59,506,833 |
+|   | J016 | Pago de subsidios a los asegurados | 22,147,139 |
+| Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 4,039,460,058 |   |   |
+|   | E073 | Servicios de atención a personas con discapacidad | 338,915 |
+|   | E074 | Servicios de estancias de bienestar y desarrollo infantil | 3,994,178,103 |
+|   | J018 | Subsidios y ayudas | 1,881,374 |
+|   | K006 | Infraestructura integral para el derecho a la salud | 43,061,666 |
+| Petróleos Mexicanos | 525,354,155 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 525,354,155 |
+| 54 Mujeres | 45,347,530 |   |   |
+|   | M001 | Actividades de apoyo administrativo | 296,644 |
+|   | P059 | Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres | 4,543,295 |
+|   | U012 | Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas | 40,507,591 |
+| 56 IMSS Bienestar | 197,450,814 |   |   |
+|   | E031 | Servicios de atención a la salud | 197,450,814 |
 
-ANEXO 33. AMPLIACIONES AL RAMO 08 AGRICULTURA Y DESARROLLO RURAL (pesos)        MONTORamo: 08 Agricultura y Desarrollo Rural641,000,000K017Infraestructura para el desarrollo rural sustentable641,000,000
+| ANEXO 33. AMPLIACIONES AL RAMO 08 AGRICULTURA Y DESARROLLO RURAL (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 08 Agricultura y Desarrollo Rural | 641,000,000 |   |   |   |   |   |   |   |
+| K017 | Infraestructura para el desarrollo rural sustentable | 641,000,000 |   |   |   |   |   |   |
 
-ANEXO 34. AMPLIACIONES AL RAMO 11 EDUCACIÓN PÚBLICA (pesos)        MONTORamo: 11 Educación Pública 10,842,600,000 U006Subsidios para organismos descentralizados estatales4,371,000,000U006Subsidios para organismos descentralizados estatales 1/14,500,000600Subsecretaría de Educación Media Superior300,000,000B00Instituto Politécnico Nacional329,000,000U080Apoyos a centros y organizaciones de educación5,000,000,000U312Expansión de la Educación Inicial 2/628,100,000U312Expansión de la Educación Inicial 3/200,000,0001/ Programa para el Desarrollo Profesional Docente2/ Atención de Niñas, Niños y Adolescentes 3/ Fortalecimiento de los Servicios Personales para las acciones de la expanción de la educación inicial
+| ANEXO 34. AMPLIACIONES AL RAMO 11 EDUCACIÓN PÚBLICA (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 11 Educación Pública | 10,842,600,000 |   |   |   |   |   |   |   |
+| U006 | Subsidios para organismos descentralizados estatales | 4,371,000,000 |   |   |   |   |   |   |
+| U006 | Subsidios para organismos descentralizados estatales 1/ | 14,500,000 |   |   |   |   |   |   |
+| 600 | Subsecretaría de Educación Media Superior | 300,000,000 |   |   |   |   |   |   |
+| B00 | Instituto Politécnico Nacional | 329,000,000 |   |   |   |   |   |   |
+| U080 | Apoyos a centros y organizaciones de educación | 5,000,000,000 |   |   |   |   |   |   |
+| U312 | Expansión de la Educación Inicial 2/ | 628,100,000 |   |   |   |   |   |   |
+| U312 | Expansión de la Educación Inicial 3/ | 200,000,000 |   |   |   |   |   |   |
+| 1/ Programa para el Desarrollo Profesional Docente |   |   |   |   |   |   |   |   |
+| 2/ Atención de Niñas, Niños y Adolescentes |   |   |   |   |   |   |   |   |
+| 3/ Fortalecimiento de los Servicios Personales para las acciones de la expanción de la educación inicial |   |   |   |   |   |   |   |   |
 
-ANEXO 35. AMPLIACIONES AL RAMO 14 TRABAJO Y PREVISIÓN SOCIAL (pesos)        MONTORamo: 14 Trabajo y Previsión Social 319,000,000 PBECentro Federal de Conciliación y Registro Laboral319,000,000
+| ANEXO 35. AMPLIACIONES AL RAMO 14 TRABAJO Y PREVISIÓN SOCIAL (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 14 Trabajo y Previsión Social | 319,000,000 |   |   |   |   |   |   |   |
+| PBE | Centro Federal de Conciliación y Registro Laboral | 319,000,000 |   |   |   |   |   |   |
 
-ANEXO 36. AMPLIACIONES AL RAMO 16 MEDIO AMBIENTE Y RECURSOS NATURALES (pesos)        MONTORamo: 16 Medio Ambiente y Recursos Naturales 1,500,000,000 F00Comisión Nacional de Áreas Naturales Protegidas (CONANP)500,000,000B00Comisión Nacional del Agua (CONAGUA)1,000,000,000
+| ANEXO 36. AMPLIACIONES AL RAMO 16 MEDIO AMBIENTE Y RECURSOS NATURALES (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 16 Medio Ambiente y Recursos Naturales | 1,500,000,000 |   |   |   |   |   |   |   |
+| F00 | Comisión Nacional de Áreas Naturales Protegidas (CONANP) | 500,000,000 |   |   |   |   |   |   |
+| B00 | Comisión Nacional del Agua (CONAGUA) | 1,000,000,000 |   |   |   |   |   |   |
 
-ANEXO 37. AMPLIACIONES AL RAMO 38 CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (pesos)        MONTORamo: 38 Ciencia, Humanidades, Tecnología e Innovación 2,500,000,000  Estrategia de ciencia, tecnología e innovación2,500,000,000
+| ANEXO 37. AMPLIACIONES AL RAMO 38 CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 38 Ciencia, Humanidades, Tecnología e Innovación | 2,500,000,000 |   |   |   |   |   |   |   |
+|   | Estrategia de ciencia, tecnología e innovación | 2,500,000,000 |   |   |   |   |   |   |
 
-ANEXO 38. AMPLIACIONES AL RAMO 48 CULTURA (pesos)        MONTORamo: 48 Cultura 1,985,500,000D00Instituto Nacional de Antropología e Historia (Servicios de protección y conservación del patrimonio cultural)938,000,000E00Instituto Nacional de Bellas Artes y Literatura (Servicios educativos culturales y artísticos)985,500,000MDCInstituto Mexicano de Cinematografía62,000,000
+| ANEXO 38. AMPLIACIONES AL RAMO 48 CULTURA (pesos) |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   | MONTO |
+| Ramo: 48 Cultura | 1,985,500,000 |   |   |   |   |   |   |   |
+| D00 | Instituto Nacional de Antropología e Historia (Servicios de protección y conservación del patrimonio cultural) | 938,000,000 |   |   |   |   |   |   |
+| E00 | Instituto Nacional de Bellas Artes y Literatura (Servicios educativos culturales y artísticos) | 985,500,000 |   |   |   |   |   |   |
+| MDC | Instituto Mexicano de Cinematografía | 62,000,000 |   |   |   |   |   |   |
 
 Viernes 21 de noviembre de 2025 DocVariable dvFecha 	DIARIO OFICIAL	(Edición Vespertina)      PAGE  \* MERGEFORMAT 2 DocVariable dvSeccion
 
-kkkkk#k$k&k'k1k2k3k4k6k7k?k@kHkIkKkLkOkPkXkYk[k\k^k_kbkckjkkkmknkxkykkkkkkkkkkkkkkk£k¤k«k¬k·k¸k¼k½kÅkÆkÈkÉkÑkÒkÔkÕkØkÙkåkækékêkìkíkúkûkþkÿklll
-
 "#%&01HIJXY]^`aklmnz{}~®¯°ÂÃÅÆÏÐãäåö÷þÿ
 
-!"-.01:;STUV]^`ano|}~¦§µ¶ÃÄÅÆÍÎÐÑÞßìíîïö÷ÿ
-
 #%&./679:<=STUefghqruv}~ª³´¼½ÀÁÇÈÛÜÝîïñò÷øùúüý
-
-QQQQ*Q+Q@QAQQQpQqQQQQQ Q¡Q£Q¤QìQíQîQ

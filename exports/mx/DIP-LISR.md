@@ -3442,7 +3442,13 @@ Los contribuyentes determinarán los pagos mensuales considerando el total de lo
 
 TABLA MENSUAL
 
-Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales)Tasa aplicableHasta	25,000.001.00%Hasta	50,000.001.10%Hasta	83,333.331.50%Hasta	208,333.332.00%Hasta	3,500,000.002.50%
+| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales) | Tasa aplicable |
+| --- | --- |
+| Hasta	25,000.00 | 1.00% |
+| Hasta	50,000.00 | 1.10% |
+| Hasta	83,333.33 | 1.50% |
+| Hasta	208,333.33 | 2.00% |
+| Hasta	3,500,000.00 | 2.50% |
 
 Los contribuyentes a que se refiere este artículo también podrán aplicar lo dispuesto en esta Sección cuando además obtengan ingresos de los señalados en los Capítulos I y VI del Título IV de esta Ley, siempre que el total de los ingresos obtenidos en el ejercicio inmediato anterior por las actividades mencionadas, en su conjunto, no excedan de la cantidad a que se refiere el primer párrafo de este artículo.
 
@@ -3470,7 +3476,13 @@ F. Los contribuyentes a que se refiere esta Sección están obligados a presenta
 
 Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado
 
-(pesos anuales)Tasa aplicableHasta	300,000.001.00%Hasta	600,000.001.10%Hasta	1,000,000.001.50%Hasta	2,500,000.002.00%Hasta	3,500,000.002.50%
+| (pesos anuales) | Tasa aplicable |
+| --- | --- |
+| Hasta	300,000.00 | 1.00% |
+| Hasta	600,000.00 | 1.10% |
+| Hasta	1,000,000.00 | 1.50% |
+| Hasta	2,500,000.00 | 2.00% |
+| Hasta	3,500,000.00 | 2.50% |
 
 Los contribuyentes podrán disminuir a la cantidad que resulte, el impuesto sobre la renta pagado en las declaraciones mensuales a que se refiere el artículo 113-E de esta Ley y, en su caso, el que les retuvieron conforme al artículo 113-J de este ordenamiento.
 
@@ -6412,7 +6424,21 @@ I.	Los contribuyentes que perciban ingresos de los previstos en el primer párra
 
 TABLA
 
-Subsidio para el empleo mensualLímite InferiorLímite SuperiorSubsidio para el Empleo0.011,768.96407.021,768.971,978.70406.831,978.712,653.38359.842,653.393,472.84343.603,472.853,537.87310.293,537.884,446.15298.444,446.164,717.18354.234,717.195,335.42324.875,335.436,224.67294.636,224.687,113.90253.547,113.917,382.33217.617,382.34En adelante0.00
+| Subsidio para el empleo mensual |   |   |
+| --- | --- | --- |
+| Límite Inferior | Límite Superior | Subsidio para el Empleo |
+| 0.01 | 1,768.96 | 407.02 |
+| 1,768.97 | 1,978.70 | 406.83 |
+| 1,978.71 | 2,653.38 | 359.84 |
+| 2,653.39 | 3,472.84 | 343.60 |
+| 3,472.85 | 3,537.87 | 310.29 |
+| 3,537.88 | 4,446.15 | 298.44 |
+| 4,446.16 | 4,717.18 | 354.23 |
+| 4,717.19 | 5,335.42 | 324.87 |
+| 5,335.43 | 6,224.67 | 294.63 |
+| 6,224.68 | 7,113.90 | 253.54 |
+| 7,113.91 | 7,382.33 | 217.61 |
+| 7,382.34 | En adelante | 0.00 |
 
 En los casos en que el impuesto a cargo del contribuyente que se obtenga de la aplicación de la tarifa del artículo 96 de la Ley del Impuesto sobre la Renta sea menor que el subsidio para el empleo mensual obtenido de conformidad con la tabla anterior, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros las cantidades que entregue a los contribuyentes en los términos de este párrafo. Los ingresos que perciban los contribuyentes derivados del subsidio para el empleo no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
 
@@ -6652,7 +6678,11 @@ I.	Se otorga un estímulo fiscal a los contribuyentes personas físicas que se e
 
 El estímulo a que se refiere esta fracción consiste en un crédito fiscal equivalente al monto que resulte de aplicar al dividendo o utilidad que se distribuya, el porcentaje que corresponda conforme al año de distribución conforme a la siguiente tabla. El crédito fiscal que se determine será acreditable únicamente contra el impuesto sobre la renta que se deba retener y enterar en los términos del segundo párrafo del artículo 140 de esta Ley.
 
-Año de distribución del dividendo o utilidadPorcentaje aplicable al monto del dividendo o utilidad distribuido20171%20182%2019 en adelante5%
+| Año de distribución del dividendo o utilidad | Porcentaje aplicable al monto del dividendo o utilidad distribuido |
+| --- | --- |
+| 2017 | 1% |
+| 2018 | 2% |
+| 2019 en adelante | 5% |
 
 Lo dispuesto en esta fracción sólo será aplicable cuando los dividendos o utilidades sean reinvertidos y distribuidos por personas morales que identifiquen en su contabilidad los registros correspondientes a las utilidades o dividendos generados en 2014, 2015 y 2016, así como las distribuciones respectivas, y además, presenten en las notas de los estados financieros, información analítica del periodo en el cual se generaron las utilidades, se reinvirtieron y se distribuyeron como dividendos o utilidades. Las personas morales también deberán presentar la información que, en su caso, establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
@@ -6676,119 +6706,40 @@ El estímulo consiste en efectuar la deducción inmediata de la inversión de bi
 
 Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere esta fracción, para los contribuyentes a que se refiere el inciso i) de está fracción, son los que a continuación se señalan:
 
-% deducción
+|   | % deducción |
+| --- | --- |
 
-2017A.	Los por cientos por tipo de bien serán:
+| a)	Tratándose de construcciones: |
+| --- |
 
-a)	Tratándose de construcciones:
+| 1.	Inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura. |
+| --- |
 
-1.	Inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura.
+| 1.	Bombas de suministro de combustible a trenes. |
+| --- |
 
-85%74%2.	Demás casos.
+| 1.	Torres de transmisión y cables, excepto los de fibra óptica. |
+| --- |
 
-74%57%b)	Tratándose de ferrocarriles:
+| 1.	Segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite. |
+| --- |
 
-1.	Bombas de suministro de combustible a trenes.
-
-63%43%2.	Vías férreas.
-
-74%57%3.	Carros de ferrocarril, locomotoras, armones y autoarmones.
-
-78%62%4.	Maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes.
-
-80%66%5.	Equipo de comunicación, señalización y telemando.
-
-85%74%c)	Embarcaciones.
-
-78%62%d)	Aviones dedicados a la aerofumigación agrícola.
-
-93%87%e)	Computadoras personales de escritorio y portátiles, servidores, impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo.
-
-94%88%f)	Dados, troqueles, moldes, matrices y herramental.
-
-95%89%g)	Comunicaciones telefónicas:
-
-1.	Torres de transmisión y cables, excepto los de fibra óptica.
-
-74%57%2.	Sistemas de radio, incluye equipo de transmisión y manejo que utiliza el espectro radioeléctrico, tales como el de radiotransmisión de microonda digital o analógica, torres de microondas y guías de onda.
-
-82%69%3.	Equipo utilizado en la transmisión, tales como circuitos de la planta interna que no forman parte de la conmutación y cuyas funciones se enfocan hacia las troncales que llegan a la central telefónica, incluye multiplexores, equipos concentradores y ruteadores.
-
-85%74%4.	Equipo de la central telefónica destinado a la conmutación de llamadas de tecnología distinta a la electromecánica.
-
-93%87%5.	Para los demás.
-
-85%74%h)	Comunicaciones satelitales:
-
-1.	Segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite.
-
-82%69%2.	Equipo satelital en tierra, incluyendo las antenas para la transmisión y recepción de comunicaciones digitales y análogas y el equipo para el monitoreo del satélite.
-
-85%74%B.	Para la maquinaria y equipo distintos de los señalados en el apartado anterior, se aplicarán, de acuerdo a la actividad en la que sean utilizados, los por cientos siguientes:
-
-a)	En la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; y en el transporte marítimo, fluvial y lacustre.
-
-74%57%b)	En la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.
-
-78%62%c)	En la fabricación de pulpa, papel y productos similares.
-
-80%66%d)	En la fabricación de partes para vehículos de motor; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
-
-82%69%e)	En el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
-
-84%71%f)	En el transporte eléctrico.
-
-85%74%g)	En la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
-
-86%75%h)	En la industria minera. Lo dispuesto en este inciso no será aplicable a la maquinaria y equipo señalados para la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.
-
-87%77%i)	En la transmisión de los servicios de comunicación proporcionados por las estaciones de radio y televisión.
-
-90%81%j)	En restaurantes.
-
-92%84%k)	En la industria de la construcción; en actividades de agricultura, ganadería, silvicultura y pesca.
-
-93%87%l)	Para los destinados directamente a la investigación de nuevos productos o desarrollo de tecnología en el país.
-
-95%89%m)	En la manufactura, ensamble y transformación de componentes magnéticos para discos duros y tarjetas electrónicas para la industria de la computación.
-
-96%92%n)	En la actividad del autotransporte público federal de carga o de pasajeros.
-
-93%87%o)	En otras actividades no especificadas en este apartado.85%74%
+| a)	En la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; y en el transporte marítimo, fluvial y lacustre. |
+| --- |
 
 Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere esta fracción, para los contribuyentes a que se refieren los incisos ii) y iii) de esta fracción, son los que a continuación se señalan:
 
-% deducción
+|   | % deducción |
+| --- | --- |
 
-2017C.	Los por cientos por tipo de bien serán:
+| a)	Construcciones en carreteras, caminos, puertos, aeropuertos y ferrocarril y para la generación, transporte, conducción, transformación, distribución y suministro de energía. |
+| --- |
 
-a)	Construcciones en carreteras, caminos, puertos, aeropuertos y ferrocarril y para la generación, transporte, conducción, transformación, distribución y suministro de energía.
+| 1.	Bombas de suministro de combustible a trenes. |
+| --- |
 
-74%57%b)	Tratándose de ferrocarriles:
-
-1.	Bombas de suministro de combustible a trenes.
-
-63%43%2.	Vías férreas.
-
-74%57%3.	Carros de ferrocarril, locomotoras, armones y autoarmones.
-
-78%62%4.	Maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes.
-
-80%66%5.	Equipo de comunicación, señalización y telemando.
-
-85%74%c)	Dados, troqueles, moldes, matrices y herramental.
-
-95%89%d)	Oleoductos, gasoductos, terminales, y tanques de almacenamiento de hidrocarburos.
-
-85%74%D.	Para la maquinaria y equipo distintos de los señalados en el apartado anterior, se aplicarán, de acuerdo a la actividad en la que sean utilizados, los por cientos siguientes:
-
-a)	En la generación, transporte, conducción, transformación, distribución y suministro de energía.
-
-74%57%b)	En la construcción de ferrocarriles.
-
-82%69%c)	En el transporte eléctrico.
-
-85%74%d)	En la industria de la construcción de carreteras, caminos, puertos, y aeropuertos.93%87%
+| a)	En la generación, transporte, conducción, transformación, distribución y suministro de energía. |
+| --- |
 
 En el caso de que el contribuyente se dedique a dos o más actividades de las señaladas en esta fracción, se aplicará el por ciento que le corresponda a la actividad en la que hubiera obtenido la mayor parte de sus ingresos en el ejercicio inmediato anterior a aquél en el que se realice la inversión.
 
@@ -7132,10 +7083,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-ðEñFñÔòÕò²ö³öøøçúèú$ü%ü£ý¤ýqþrþÿ
-
-h¶+5CJh¶+h¶+CJh¶+h¶+5CJh9o´hU!ê5CJh9o´hU!êCJh9o´ht°CJ:çúèú$ü%ü£ý¤ýqþrþÿ
-
 CJh®
 
 CJh®
@@ -7143,8 +7090,6 @@ CJh®
 CJh®
 
 CJh®
-
-@@@#A$A&AmCnC=D>DåFæFéF¤G¥G©GyHzH}HRISIUI¤I¥I¨IJJJÔJ÷îä÷îä÷Úä÷îä÷îä÷î÷îä÷îä÷îä÷î÷îÎÂÎÚä÷î÷î÷îä÷Úä÷î÷îä÷îä÷î÷î÷îä÷îä÷îä÷îä÷îä÷îä÷h¨sÄhN5CJaJh¨sÄh:<5CJaJh9o´hN5CJh9o´h:<5CJh9o´hNCJh9o´h:<CJLk;l;v;¼;½; <¡<Û=Ü=
 
 5CJh9o´hÝöCJh9o´h:<5CJh9o´hÀ
 
@@ -7158,18 +7103,6 @@ CJh9o´hÀ
 
 5CJh9o´hÀ
 
-5CJh¨sÄh:<5CJaJh9o´h:<5CJh9o´hÀ
-
 5CJh9o´h:<5CJh9o´hÀ
 
 åÎ·xåÎ·qxåÎ·åhxåÎ·åhxhíWwhdÚCJ
-
-öéÞÐéÞÐéÞÐéÞÐéÞÐéÉ¿¶ÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞÐéÞh09hS)NCJh09hS)N5CJ
-
-ÀÁWXZÚÛßûü67<
-
-ÓÔÕÙÍÎÏÒGHIKôâÎôÂô³§³yryyy
-
-h¦?å5CJhgÁh¦?åCJKçø*ú+úñúòú
-
-÷hYZh6ITCJaJmHnHu* jhD#ÒhYZCJUaJ*h6ITCJaJmHnHuhD#ÒhYZCJaJjhD#ÒhYZCJUaJ:&P1h/R :p?Y°Ð/ °à=!°"°#$%°°Å°ÅÄ

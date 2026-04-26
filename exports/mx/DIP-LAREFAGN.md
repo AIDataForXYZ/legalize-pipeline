@@ -606,7 +606,8 @@ El dictamen del jurado será sometido a consideración de la persona titular de 
 
 > <small>Párrafo reformado DOF 16-07-2025</small>
 
-Nota: El Decreto de reforma DOF 16-07-2025 establece en la instrucción que se reforma el artículo 31, párrafo segundo. Sin embargo, en el cuerpo del articulado la reforma al artículo 31 se determina al párrafo tercero, dejando sin efecto el contenido del entonces párrafo tercero y repitiendo el contenido de la parte final del actual párrafo segundo.
+| Nota: El Decreto de reforma DOF 16-07-2025 establece en la instrucción que se reforma el artículo 31, párrafo segundo. Sin embargo, en el cuerpo del articulado la reforma al artículo 31 se determina al párrafo tercero, dejando sin efecto el contenido del entonces párrafo tercero y repitiendo el contenido de la parte final del actual párrafo segundo. |
+| --- |
 
 ###### Artículo 31.
 

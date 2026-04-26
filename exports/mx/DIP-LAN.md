@@ -852,7 +852,11 @@ BIS. Cada Consejo de Cuenca contará con una persona Titular de la Presidencia, 
 
 > <small>Párrafo reformado DOF 11-12-2025</small>
 
-VocalesProporción de RepresentaciónRepresentantes del Gobierno FederalLos que resulten conforme a la Fracción IV del Artículo 13 BIS 2Representantes de los Gobiernos Estatales y Municipales conforme a su circunscripción territorial dentro de la cuenca hidrológicaCuando más 35%Representantes de Usuarios en diferentes usos y Organizaciones Ciudadanas o No GubernamentalesAl menos 50%
+| Vocales | Proporción de Representación |
+| --- | --- |
+| Representantes del Gobierno Federal | Los que resulten conforme a la Fracción IV del Artículo 13 BIS 2 |
+| Representantes de los Gobiernos Estatales y Municipales conforme a su circunscripción territorial dentro de la cuenca hidrológica | Cuando más 35% |
+| Representantes de Usuarios en diferentes usos y Organizaciones Ciudadanas o No Gubernamentales | Al menos 50% |
 
 La persona Titular de la Presidencia del Consejo de Cuenca será designada conforme lo establezcan las Reglas Generales de Integración, Organización y Funcionamiento de esta instancia y tendrá voz y voto de calidad. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo de Cuenca, quien tendrá voz y voto.
 
@@ -4483,19 +4487,3 @@ bhO~ãCJ7h»Ãh
 bCJh
 
 ```´`µ`lama
-
-c.cQcRce6e7eGeYeóóîçÛÏÛÛÇçççÛÏîçÛîç¹¹
-
-c#c-c.cQcRc^ce)e+e5e6e7eYefegÀgÁgÍgHhJhªhëÏ¶Ï¤ëÏ¶ÏëÏ¶Ïuëb¶[TTT
-
-Æ>a$gdíÊ$ ` a$gdíÊ
-
-öfökölö9÷=÷û÷ëÏ¶Ï¤ëÏ¶Ï~wwwmdh }h }CJh }h }5CJ
-
-hCF5CJ
-
-hO~ã5CJ{f|fêfëfRgSg|hhhéhi
-
-rrrítDuRuBvDvâwæw³xîÙÆ³ÆÆwÙ[[ÆÆT
-
-hO~ã5CJ%HyIyz	z{ª{«{]|^|ÿ}B~C~Â~Ã~_`

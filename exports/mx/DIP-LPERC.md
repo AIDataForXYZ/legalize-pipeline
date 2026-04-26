@@ -74,7 +74,8 @@ IV.- de Demografía;
 
 Nota: El decreto publicado en el Diario Oficial de la Federación el 7 de marzo de 2003 reformó la fracción IV del artículo 6 para quedar como IV.- de Demografía;.
 
-No obstante, aún cuando la instrucción del Artículo Único del Decreto citado establece que se reforma y adiciona el artículo 6o., ni la propia instrucción, ni el artículo 6 reformado y publicado en tal Decreto, precisan si la fracción III-Bis, que también se refiere al premio De Demografía, debe quedar derogada.
+| No obstante, aún cuando la instrucción del Artículo Único del Decreto citado establece que se reforma y adiciona el artículo 6o., ni la propia instrucción, ni el artículo 6 reformado y publicado en tal Decreto, precisan si la fracción III-Bis, que también se refiere al premio De Demografía, debe quedar derogada. |
+| --- |
 
 V.- de Deportes;
 
@@ -618,7 +619,8 @@ Bis.- Los premios se entregarán el 20 de noviembre de cada año, en el marco de
 
 > <small>Artículo adicionado DOF 14-12-2011. Reformado DOF 26-12-2013, 06-01-2020</small>
 
-Nota: Los Capítulos IX Bis Premio Nacional de Mérito Deportivo y IX Ter Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo, fueron derogados por Decreto DOF 06-01-2020 y los artículos que los integraban, 57 a 58 y 59 a 63 Bis respectivamente, pasaron a formar parte del Capítulo IX Premio Nacional de Deportes.
+| Nota: Los Capítulos IX Bis Premio Nacional de Mérito Deportivo y IX Ter Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo, fueron derogados por Decreto DOF 06-01-2020 y los artículos que los integraban, 57 a 58 y 59 a 63 Bis respectivamente, pasaron a formar parte del Capítulo IX Premio Nacional de Deportes. |
+| --- |
 
 ### CAPÍTULO IX BIS
 
@@ -1671,7 +1673,3 @@ Artículo Vigésimo.- Se reforma el artículo 106 de la Ley de Premios, Estímul
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-hCÚ5CJ
-
-hCÚCJ\

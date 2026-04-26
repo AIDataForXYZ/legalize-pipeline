@@ -122,7 +122,8 @@ Es facultad exclusiva de la Secretaría de Gobernación fijar los lugares destin
 
 > <small>Artículo derogado DOF 25-05-2011. Adicionado DOF 09-04-2012</small>
 
-Nota: El artículo 10 de esta Ley fue derogado por Decreto DOF 25-05-2011. Sin embargo, el Decreto posterior del DOF 09-04-2012 estableció que se reforma el artículo 10, primer párrafo, con lo cual el artículo 10 se adicionó nuevamente a la Ley, para quedar con un párrafo tal como aquí aparece.
+| Nota: El artículo 10 de esta Ley fue derogado por Decreto DOF 25-05-2011. Sin embargo, el Decreto posterior del DOF 09-04-2012 estableció que se reforma el artículo 10, primer párrafo, con lo cual el artículo 10 se adicionó nuevamente a la Ley, para quedar con un párrafo tal como aquí aparece. |
+| --- |
 
 ###### Artículo 11.-
 

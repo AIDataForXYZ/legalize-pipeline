@@ -5452,69 +5452,116 @@ En relación con las medidas de control y vigilancia que deberán adoptar las au
 
 I. 	Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
 
-Denominación Común InternacionalOtras Denominaciones Comunes o VulgaresDenominación QuímicaCATINONA
+| Denominación Común Internacional | Otras Denominaciones Comunes o Vulgares | Denominación Química |
+| --- | --- | --- |
+| CATINONA |   |   |
 
-NO TIENE(-)-(-aminopropiofenona.MEFEDRONA
+|   | NO TIENE | (-)-(-aminopropiofenona. |
+| --- | --- | --- |
+| MEFEDRONA |   |   |
 
-4- METILMETCATITONA2-methylamino-1ptolylpropan-1-oneNO TIENE
+|   | 4- METILMETCATITONA | 2-methylamino-1ptolylpropan-1-one |
+| --- | --- | --- |
+| NO TIENE |   |   |
 
-DETn,n-dietiltriptaminaNO TIENE
+|   | DET | n,n-dietiltriptamina |
+| --- | --- | --- |
+| NO TIENE |   |   |
 
-DMAdl-2,5-dimetoxi-(-metilfeniletilamina.NO TIENEDMHP3-(1,2-dimetilhetil)-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6H dibenzo (b,d) pirano.
+|   | DMA | dl-2,5-dimetoxi-(-metilfeniletilamina. |
+| --- | --- | --- |
+| NO TIENE | DMHP | 3-(1,2-dimetilhetil)-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6H dibenzo (b,d) pirano. |
 
-NO TIENE
+| NO TIENE |
+| --- |
 
-DMTn,n-dimetiltriptamina.BROLAMFETAMINA
+|   | DMT | n,n-dimetiltriptamina. |
+| --- | --- | --- |
+| BROLAMFETAMINA |   |   |
 
-DOB2,5-dimetoxi-4-bromoanfetamina.NO TIENE
+|   | DOB | 2,5-dimetoxi-4-bromoanfetamina. |
+| --- | --- | --- |
+| NO TIENE |   |   |
 
-DOETd1-2,5-dimetoxi-4-etil-(-metilfeniletilamina.(+)-LISERGIDALSD, LSD-25(+)-n,n-dietilisergamida-(dietilamida del ácido d-lisérgico).
+|   | DOET | d1-2,5-dimetoxi-4-etil-(-metilfeniletilamina. |
+| --- | --- | --- |
+| (+)-LISERGIDA | LSD, LSD-25 | (+)-n,n-dietilisergamida-(dietilamida del ácido d-lisérgico). |
 
-NO TIENE
+| NO TIENE |
+| --- |
 
-MDA3,4-metilenodioxianfetamina.TENANFETAMINA
+|   | MDA | 3,4-metilenodioxianfetamina. |
+| --- | --- | --- |
+| TENANFETAMINA |   |   |
 
-MDMAdl-3,4-metilendioxi-n,-dimetilfeniletilamina.NO TIENEMESCALINA (PEYOTE; LO-PHOPHORA WILLIAMS II ANHALONIUM WILLIAMS II; ANHALONIUM LEWIN II.
+|   | MDMA | dl-3,4-metilendioxi-n,-dimetilfeniletilamina. |
+| --- | --- | --- |
+| NO TIENE | MESCALINA (PEYOTE; LO-PHOPHORA WILLIAMS II ANHALONIUM WILLIAMS II; ANHALONIUM LEWIN II. |   |
 
-3,4,5-trimetoxifenetilamina.NO TIENEMMDA.dl-5-metoxi-3,4-metilendioxi-(-metilfeniletilamina.
+|   | 3,4,5-trimetoxifenetilamina. |   |
+| --- | --- | --- |
+| NO TIENE | MMDA. | dl-5-metoxi-3,4-metilendioxi-(-metilfeniletilamina. |
 
-NO TIENEPARAHEXILO3-hexil-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6h-dibenzo [b,d] pirano.
+| NO TIENE | PARAHEXILO | 3-hexil-1-hidroxi-7,8,9,10-tetrahidro-6,6,9-trimetil-6h-dibenzo [b,d] pirano. |
+| --- | --- | --- |
 
-ETICICLIDINA
+| ETICICLIDINA |
+| --- |
 
-PCEn-etil-1-fenilciclohexilamina.ROLICICLIDINA
+|   | PCE | n-etil-1-fenilciclohexilamina. |
+| --- | --- | --- |
+| ROLICICLIDINA |   |   |
 
-PHP, PCPY1-(1-fenilciclohexil) pirrolidina.NO TIENE
+|   | PHP, PCPY | 1-(1-fenilciclohexil) pirrolidina. |
+| --- | --- | --- |
+| NO TIENE |   |   |
 
-PMA4-metoxi-(-metilfenile-tilamina.NO TIENEPSILOCINA, PSILOTSINA3-(2-dimetilaminoetil)
+|   | PMA | 4-metoxi-(-metilfenile-tilamina. |
+| --- | --- | --- |
+| NO TIENE | PSILOCINA, PSILOTSINA | 3-(2-dimetilaminoetil) |
 
 -4-hidroxi-indol.
 
-PSILOCIBINAHONGOS ALUCINANTES DE CUALQUIER VARIEDAD BOTANICA, EN ESPECIAL LAS ESPECIES PSILOCYBE MEXICANA, STOPHARIA CUBENSIS Y CONOCYBE, Y SUS PRINCIPIOS ACTIVOS.
+| PSILOCIBINA | HONGOS ALUCINANTES DE CUALQUIER VARIEDAD BOTANICA, EN ESPECIAL LAS ESPECIES PSILOCYBE MEXICANA, STOPHARIA CUBENSIS Y CONOCYBE, Y SUS PRINCIPIOS ACTIVOS. |
+| --- | --- |
 
-fosfato dihidrogenado de 3-(2-dimetil-aminoetil)-indol-4-ilo.NO TIENE
+|   | fosfato dihidrogenado de 3-(2-dimetil-aminoetil)-indol-4-ilo. |
+| --- | --- |
+| NO TIENE |   |
 
-STP, DOM2-amino-1-(2,5 dimetoxi-4-metil) fenilpropano.TENOCICLIDINA
+|   | STP, DOM | 2-amino-1-(2,5 dimetoxi-4-metil) fenilpropano. |
+| --- | --- | --- |
+| TENOCICLIDINA |   |   |
 
-TCP1-[1-(2-tienil) ciclohexil]-piperi-dina.CANABINOIDES
+|   | TCP | 1-[1-(2-tienil) ciclohexil]-piperi-dina. |
+| --- | --- | --- |
+| CANABINOIDES |   |   |
 
 SINTÉTICOS
 
-K2NO TIENE
+|   | TMA | dl-3,4,5-trimetoxi--metilfeniletilamina. |
+| --- | --- | --- |
+| PIPERAZINA TFMPP |   |   |
 
-TMAdl-3,4,5-trimetoxi--metilfeniletilamina.PIPERAZINA TFMPP
+|   | NO TIENE | 1,3- trifluoromethylphenylpiperazina |
+| --- | --- | --- |
+| PIPERONAL O HELIOTROPINA |   |   |
 
-NO TIENE1,3- trifluoromethylphenylpiperazinaPIPERONAL O HELIOTROPINA
+| ISOSAFROL |
+| --- |
 
-ISOSAFROL
+| SAFROL |
+| --- |
 
-SAFROL
+| CIANURO DE BENCILO |
+| --- |
 
-CIANURO DE BENCILO
+| alfa-Fenilacetoacetonitrilo (APAAN) |
+| --- |
 
-alfa-Fenilacetoacetonitrilo (APAAN)
-
-Sustancia adicionada por Acuerdo DOF 24-12-2018Párrafo con Tabla reformado DOF 19-06-2017
+| Sustancia adicionada por Acuerdo DOF 24-12-2018 |
+| --- |
+| Párrafo con Tabla reformado DOF 19-06-2017 |
 
 Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
 
@@ -8808,7 +8855,8 @@ III.- 	A quien venda u ofrezca en venta, comercie, distribuya o transporte medic
 
 > <small>Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 16-07-2010 (con relación al DOF 25-05-2006, en la parte que establecía multa penal fija). Fracción reformada DOF 27-04-2010, 17-03-2015</small>
 
-Nota: La declaratoria de invalidez DOF 16-07-2010 se emitió con relación a las fracciones I, II y III del Artículo 464 Ter original, publicado en el DOF 25-05-2006, en la parte que establecían multas penales fijas. Las reformas DOF 27-04-2010 y DOF 17-03-2015 dejaron sin efecto dicha declaratoria por lo que se refiere al texto vigente de las fracciones I, II y III de este artículo.
+| Nota: La declaratoria de invalidez DOF 16-07-2010 se emitió con relación a las fracciones I, II y III del Artículo 464 Ter original, publicado en el DOF 25-05-2006, en la parte que establecían multas penales fijas. Las reformas DOF 27-04-2010 y DOF 17-03-2015 dejaron sin efecto dicha declaratoria por lo que se refiere al texto vigente de las fracciones I, II y III de este artículo. |
+| --- |
 
 IV. 	A quien venda, ofrezca en venta o comercie muestras médicas, le será impuesta una pena de uno a nueve años de prisión y multa equivalente de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
 
@@ -8982,9 +9030,22 @@ El Ministerio Público no ejercerá acción penal por el delito previsto en el a
 
 ###### Artículo 479.-
 
-Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente: Tabla de Orientación de Dosis Máximas de Consumo Personal e InmediatoNarcóticoDosis máxima de consumo personal e inmediatoOpio2 gr.Diacetilmorfina o Heroína50 mg.Cannabis Sativa, Indica o Mariguana5 gr.Cocaína500 mg.Lisergida (LSD)0.015 mg.MDA,
+Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente: | Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato |   |
+| --- | --- |
+| Narcótico | Dosis máxima de consumo personal e inmediato |
+| Opio | 2 gr. |
+| Diacetilmorfina o Heroína | 50 mg. |
+| Cannabis Sativa, Indica o Mariguana | 5 gr. |
+| Cocaína | 500 mg. |
+| Lisergida (LSD) | 0.015 mg. |
+| MDA, |   |
 
-MetilendioxianfetaminaPolvo, granulado o cristalTabletas o cápsulas40 mg.Una unidad con peso no mayor a 200 mg.MDMA, dl-34-metilendioxi-n-dimetilfeniletilamina40 mg.Una unidad con peso no mayor a 200 mg.Metanfetamina40 mg.Una unidad con peso no mayor a 200 mg.Artículo adicionado DOF 20-08-2009
+| Metilendioxianfetamina | Polvo, granulado o cristal | Tabletas o cápsulas |
+| --- | --- | --- |
+|   | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+| MDMA, dl-34-metilendioxi-n-dimetilfeniletilamina | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+| Metanfetamina | 40 mg. | Una unidad con peso no mayor a 200 mg. |
+| Artículo adicionado DOF 20-08-2009 |   |   |
 
 ###### Artículo 480.-
 
@@ -11943,21 +12004,3 @@ Xõeopq}ú3=>?K
 hrcCJ\
 
 hrcCJ\
-
-»SÇSÑSÝSÞSßSìSêUV
-
-hOt±5CJ\aJhþ.
-
-hOt±CJ\aJ(hþ.
-
-hOt±CJaJhþ.
-
-hOt±5CJaJhþ.
-
-G5CJaJh
-
-GCJaJh)g×h
-
-G5CJaJ h
-
-ðCJaJ

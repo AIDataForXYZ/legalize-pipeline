@@ -1658,7 +1658,8 @@ II. 	Promover mecanismos de participación ciudadana en el seguimiento del gasto
 
 > <small>Artículo derogado DOF 31-12-2008. Adicionado (y reubicado por coincidir con la materia del Capítulo III del Título Cuarto) DOF 24-01-2014</small>
 
-Nota: Por reestructuración y adición de un nuevo Título Quinto mediante Decreto DOF 11-08-2014, se suprime de la Ley la denominación del Capítulo III De la Formulación de Estados Financieros que formaba parte del anterior Título Quinto y que fue derogado a su vez por DOF 31-12-2008.
+| Nota: Por reestructuración y adición de un nuevo Título Quinto mediante Decreto DOF 11-08-2014, se suprime de la Ley la denominación del Capítulo III De la Formulación de Estados Financieros que formaba parte del anterior Título Quinto y que fue derogado a su vez por DOF 31-12-2008. |
+| --- |
 
 ## TÍTULO QUINTO
 
@@ -2266,7 +2267,12 @@ V.	Los recursos remanentes en el Fondo de Apoyo para la Reestructura de Pensione
 
 VI.	Para efectos de determinar el monto de la transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que se realice al Fondo de Extracción de Hidrocarburos conforme a lo dispuesto en el artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en lugar de aplicar el factor previsto en dicho precepto, durante los ejercicios fiscales 2015 al 2018 se aplicarán lo siguientes factores:
 
-EJERCICIO FISCALFACTOR20150.008020160.008220170.008420180.0085
+| EJERCICIO FISCAL | FACTOR |
+| --- | --- |
+| 2015 | 0.0080 |
+| 2016 | 0.0082 |
+| 2017 | 0.0084 |
+| 2018 | 0.0085 |
 
 ##### TRANSITORIOS
 
@@ -2296,7 +2302,12 @@ Como requisito indispensable para que el Gobierno Federal pueda asumir, en los t
 
 Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del vigésimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
 
-AÑOPRESUPUESTO COMISIÓN NACIONAL DE HIDROCARBUROSPRESUPUESTO COMISIÓN REGULADORA DE ENERGÍA2015350 millones de pesos400 millones de pesos2016320 millones de pesos370 millones de pesos2017290 millones de pesos340 millones de pesos2018240 millones de pesos280 millones de pesos
+| AÑO | PRESUPUESTO COMISIÓN NACIONAL DE HIDROCARBUROS | PRESUPUESTO COMISIÓN REGULADORA DE ENERGÍA |
+| --- | --- | --- |
+| 2015 | 350 millones de pesos | 400 millones de pesos |
+| 2016 | 320 millones de pesos | 370 millones de pesos |
+| 2017 | 290 millones de pesos | 340 millones de pesos |
+| 2018 | 240 millones de pesos | 280 millones de pesos |
 
 La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
 
@@ -2902,30 +2913,10 @@ Octavo. Los proyectos de inversión celebrados con anterioridad a la entrada en 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-ÆCJ^JaJhC`Ah
-
-ÆCJ^JaJh
-
 Æ5CJ\^JaJhC`Ah
 
 Æ5CJ\^JaJhC`Ah
 
 Æ5CJ\^JaJh
 
-ÆCJ^JaJhC`Ah
-
-ÆCJ^JaJhC`Ah
-
 Bhñ
-
-B$!7$8$H$`!a$gdñ
-
-B$7$8$H$^a$gdñ
-
-B$7$8$H$a$gdñ
-
-Bgdñ
-
-B$a$gdñ
-
-B$!7$8$H$`!a$gdñ

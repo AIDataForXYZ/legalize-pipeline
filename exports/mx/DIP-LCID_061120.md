@@ -629,5 +629,3 @@ Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria est
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-QVQWQcQáQâQîQSS%S]S^SaSUUUýUþUV~WWWßWàWãW®X¯X»XYYY+Z,Z0ZïZðZõZh[i[m[õéÞõéÞõéÞõéÞÒÆÞõéÞõéÞõéÞõéÞõéÞÒÆÞõºÒÆÞõÆÞõÆÞõéÞõéÞõéÞõéÞõéÞÒÆÞõéÞõéÞõéÞõéh·	`h`]5CJaJh\fh`]5CJaJh\fhsgq5CJaJh\fh`]CJaJhF>¥h`]5CJaJh\fhsgqCJaJIÁOÂOPP%P&PQ

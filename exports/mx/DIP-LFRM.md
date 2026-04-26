@@ -623,5 +623,3 @@ Notifíquese mediante oficio a las partes y, en su oportunidad, archívese el ex
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
 jhá^
-
-Ujhz.Uhz.ÃÛèÛéÛêÛëÛèo$

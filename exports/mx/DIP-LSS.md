@@ -928,7 +928,13 @@ Las empresas de menos de 10 trabajadores, podrán optar por presentar la declara
 
 ###### Artículo 73.
 
-Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas cubrirán la prima media de la clase que conforme al Reglamento les corresponda, de acuerdo a la tabla siguiente: Prima mediaEn por cientosClase I0.54355Clase II1.13065Clase III2.59840Clase IV4.65325Clase V7.58875
+Al inscribirse por primera vez en el Instituto o al cambiar de actividad, las empresas cubrirán la prima media de la clase que conforme al Reglamento les corresponda, de acuerdo a la tabla siguiente: | Prima media | En por cientos |
+| --- | --- |
+| Clase I | 0.54355 |
+| Clase II | 1.13065 |
+| Clase III | 2.59840 |
+| Clase IV | 4.65325 |
+| Clase V | 7.58875 |
 
 Se aplicará igualmente lo dispuesto por este artículo cuando el cambio de actividad de la empresa se origine por una sentencia definitiva o por disposición de esta Ley o de un reglamento.
 
@@ -1862,9 +1868,20 @@ II. 	En los ramos de cesantía en edad avanzada y vejez:
 
 a)	Los patrones cubrirán la cuota que corresponda sobre el salario base de cotización, calculada conforme a la siguiente tabla:
 
-Salario base de cotización del trabajadorCuota Patronal1.00 SM*3.150%1.01 SM a 1.50 UMA**4.202%1.51 a 2.00 UMA6.552%2.01 a 2.50 UMA7.962%2.51 a 3.00 UMA8.902%3.01 a 3.50 UMA9.573%3.51 a 4.00 UMA10.077%4.01 UMA en adelante11.875%*Salario Mínimo
+| Salario base de cotización del trabajador | Cuota Patronal |
+| --- | --- |
+| 1.00 SM* | 3.150% |
+| 1.01 SM a 1.50 UMA** | 4.202% |
+| 1.51 a 2.00 UMA | 6.552% |
+| 2.01 a 2.50 UMA | 7.962% |
+| 2.51 a 3.00 UMA | 8.902% |
+| 3.01 a 3.50 UMA | 9.573% |
+| 3.51 a 4.00 UMA | 10.077% |
+| 4.01 UMA en adelante | 11.875% |
+| *Salario Mínimo |   |
 
-** Unidad de Medida y Actualización
+| ** Unidad de Medida y Actualización |
+| --- |
 
 b)	Los trabajadores cubrirán una cuota del uno punto ciento veinticinco por ciento sobre el salario base de cotización.
 
@@ -5177,9 +5194,3 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 hd.ÓCJ\
-
-01Mpq~x¨Ç	ê	ë	ø	yª
-
-01>Mpqxa	b	Ç	ê	ë	EFy
-
-ÆC"a$gdÚù

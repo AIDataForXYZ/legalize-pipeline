@@ -895,21 +895,3 @@ Artículo Noveno.- Se reforma el artículo 18, primer párrafo, de la Ley Federa
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-+++ó+ô+ÿ+¾,¿,Ð,Ñ,--½-¾-ð-ñ-ü-///Ò/Ó/A0B0E0111+2,202Ä2Å2Ð233 333¨3E4F4Ð4Ñ4Ü4555O7P7S7Ý7Þ7â7888¡8¢8¤8î8ï8ò8192979v9w99÷íä÷íä÷íä×ä÷ä÷Ë¿Ëµíä÷íä×äµíä÷íä÷íä÷íä÷íäµíä÷ä÷íä÷íäµíä÷íä÷íä÷íä÷íä÷íä÷íhD8®h@5CJhh@5CJaJhh]I5CJaJhD8®hI9
-
-LLL¢L£L¦LDMEMGM@NANCNØNÙNÛNóOôOöOPPPªQ«Q¯QæQçQêQ¼R½R÷îä÷Úä÷îä÷îä÷Úä÷îä÷îä÷îä÷îä÷îä÷îä÷ä÷îä÷î÷îä÷î÷îä÷Úä÷Úä÷îä÷îä÷îä÷Úä÷îä÷îä÷îä÷Úä÷îä÷îä÷îhD8®h@5CJhD8®h]I5CJhD8®h@CJhD8®h]ICJVÖC×C E!EeEfE@FAFGGIInIoIxJyJ`KaK
-
-ÀÁÃ<=?¶·¹ABD¼½ÌÍÐ_`	ãä¢£ÕÖâ@AóéßÖÉÖÀÖÀÖÉÖÀÖÀÖÀßÖÀßÖÀÖÀÖÀßÖÀÖÀßÖÀßÖéßÖÀßÖÀßÖÀßÖÀßÖÀßÖÉÖÀßÖÀÖÀßÖÀÖÀÖÀóéßÖßÖhD8®h@CJhD8®hI9
-
-ßà12FG¥¦¨ûüµ¶¸457ïðò±²´êë"ÌÍRSqrEFTU÷íäÚíäÚíä÷íäíä÷äíä÷ä÷ä÷íä÷íäÚíäÍäÍä÷ä÷íäÍä÷íä÷ä÷íä÷íä÷íä÷íä÷íäÚÁÚíä÷ä÷ä÷äÍä÷hh]I5CJaJhD8®hI9
-
-¹º¾IJP¿ÀÄ67:òó÷üý­®²îïûÔÕ
-
-NõìãõìÙõìÌìãõìãõìãõìõìÌìãõìÃõìÃõìÌìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃõìÃìÃõìhD8®hD8®CJhD8®hI9
-
-YYY=Y>Y±Y³Y´YçYùYúYûY
-
-hCJUaJ*hv2CJaJmHnHuhI9
-
-hCJaJjhI9

@@ -1835,11 +1835,3 @@ Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses con
 Ciudad de México, a 10 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-íåååÖÖÖÉÄÄ¿ÄÄÄ¿³³³Ä$`a$gdÝTHgdÝTHgdÝTH
-
-ÉÊÎÏÅÆÈÉcdfg$&ÒÓÞß¥¦8!9!A"B"æ#ç#ó#º$»$½$¾$%
-
-STT¨TÆUÇU×UØUÉVÊVÚVXWYW[W\WÙWÚWÝWÞWÀXÁXÐX
-
-ÆC"$Ifa$gd 	!§eµe¿eÀeÁeÃeÄeÅeÉeÊeËeÌeÐeÑeÙeÚeÜeÝeÞeáÆ¬wkw\J?wkw/J?h 	!CJ\aJmHnHu*h 	!h 	!CJaJ#jh 	!h 	!CJU\aJ*h 	!CJ\aJmHnHuh 	!h 	!CJ\aJ jh 	!h 	!CJU\aJh®

@@ -213,18 +213,33 @@ _WORD_FIELD_CODE_RE = re.compile(
     r"|\bIfF\d"                # Conditional field code: IfF4, IfF42, IfFM …
     r"|\$If\^"                 # Conditional-format cell reference: $If^
     r"|\$\$Ifa\$"              # Conditional-format array ref: $$Ifa$
-    r"|\$\$IfF"                # Conditional-format field block: $$IfF… (any suffix)
+    r"|\$\$If[A-Z]"            # Conditional-format field block: $$IfF…, $$IfT… (any suffix)
     r"|\$%@[A-Z]"              # TOC-style garbage delimiter: $%@A, $%@B …
     r"|\$!`!\w\$"              # Field-code cell reference: $!`!a$, $!`!b$ …
     r"|Faöf4"                  # Filter field code suffix (öf4 is diagnostic)
-    r"|Qkd[A-Za-z0-9$ì]"       # Field-code delimiter token (Qkd + next char)
-    r"|gd[A-Za-z0-9\[{<_#àÁ¿·Ë;ï¢þ³ô¶ú]"  # Named range ref in Word style sheet dump
+    r"|[Qç]kd[A-Za-z0-9$ì\xaa]"  # Field-code delimiter token (Qkd / çkd + next char)
+    r"|[^\x00-\x7f]kd[^\x00-\x7f]"  # Non-ASCII + kd + non-ASCII (variant field-code delimiter)
+    r"|gd[A-Za-z0-9\[{<_#àÁ¿·Ë;ï¢þ³ô¶úÀ-ÿ~\-]"  # Named range ref in Word style sheet dump
     r"|mH\s+sH"                # Word paragraph-spacing attribute (mH<ws>sH).
                                # NOTE: no \b anchors — this token always appears
                                # glued to other style codes (e.g. CJmH\tsH) so
                                # \b before 'm' would never match inside that cluster.
     r"|CJPJaJ"                 # Word character-style code: CJK + Para + AllJustify
     r"|d\xf0\xa4"              # Word picture-cell reference token (d + eth + ¤)
+    # ── Trailing Word stylesheet / drawing-object tokens (Bug 1 extension) ────
+    # These appear in the binary tail of DOC files after the last legitimate
+    # text paragraph.  They represent inline character-style property strings
+    # that the Word binary format stores after the document text stream.
+    r"|\d?CJ\^J"               # CJ^J / 5CJ^J — Word char-style "CJK + no kerning"
+    r"|CJPJ[\^]]?aJ"           # CJPJ^JaJ / CJPJ]aJ / CJPJaJ variants (ParagraphJustify)
+    r"|CJPJ\^J"                # CJPJ^J without trailing aJ (property-only form)
+    r"|B\*CJ"                  # B*CJ — Word "bold + CJK" boolean attribute
+    r"|CJaJ"                   # CJaJ — bare CJK + AllJustify (no word-boundary needed)
+    r"|nH\s*tH"                # nH tH — Word "no-hyphenation + Thai" flag cluster
+    # ── OLE2 drawing-object coordinate indicators ───────────────────────────────
+    # U+00A4 (¤ currency sign) and U+00A6 (¦ broken bar) appear in Word drawing-
+    # object coordinate dumps but essentially never in authentic Spanish legislation.
+    r"|[\xa4\xa6]"             # ¤ / ¦ — drawing-object coordinate artifact bytes
 )
 
 # Characters that are valid in ordinary Spanish legislative text (including
@@ -236,9 +251,9 @@ _SPANISH_HIGHBYTE_RE = re.compile(
     r"·«»]"
 )
 
-# 4+ consecutive identical non-ASCII chars — indicates OLE2 / TOC table dump.
-# Legitimate Spanish text never repeats the same accented letter 4 times in a row.
-_REPEAT_NONASCII_RE = re.compile(r"([^\x00-\x7f])\1{3,}")
+# 3+ consecutive identical non-ASCII chars — indicates OLE2 / TOC table dump.
+# Legitimate Spanish text never repeats the same accented letter 3 times in a row.
+_REPEAT_NONASCII_RE = re.compile(r"([^\x00-\x7f])\1{2,}")
 
 # 3+ consecutive repetitions of the same NON-ASCII 2-char pair — Word style-sheet
 # comparison-table artifact (e.g. ïáïáïáïá, òáòáòáòá, ÎÎÎÎ is caught by
@@ -349,6 +364,212 @@ def _is_binary_garbage(text: str) -> bool:
     return False
 
 
+def _word_table_to_markdown(raw_segment: str) -> str | None:
+    """Convert a Word binary table segment to a Markdown pipe table.
+
+    Word 97-2003 stores table cells with BEL (U+0007) as the cell separator
+    and a double-BEL (``\\x07\\x07``) as the row terminator.  A segment that
+    contains BEL characters is interpreted as one or more table rows.
+
+    Each row is a sequence of cells terminated by ``\\x07\\x07``.  Within a
+    row, cells are separated by single ``\\x07``.
+
+    Returns a Markdown pipe-table string (multi-line), or ``None`` if the
+    segment contains no BEL characters, is not a valid table, or the cells
+    do not contain recognisable Spanish text.
+    """
+    if "\x07" not in raw_segment:
+        return None
+
+    # Split into rows: double-BEL terminates each row.
+    row_texts = re.split(r"\x07\x07", raw_segment)
+    rows: list[list[str]] = []
+    for row_text in row_texts:
+        # Each remaining single-BEL separates cells within the row.
+        cells = row_text.split("\x07")
+        # Strip control chars and whitespace from each cell.
+        cells = [_CONTROL_RE.sub("", c).strip() for c in cells]
+        # Drop rows that are entirely empty (row separator artifacts).
+        if any(c for c in cells):
+            rows.append(cells)
+
+    if not rows:
+        return None
+
+    # Validity check: the table must contain natural-language content.
+    # Reject the table if:
+    #  (a) the first row's combined text is itself binary garbage, OR
+    #  (b) any cell in the first row contains a Word field-code token, OR
+    #  (c) all cells combined contain only Diputados boilerplate text (header/
+    #      footer templates that the Word file appends after the main body).
+    # This distinguishes real table segments (which have Spanish prose in
+    # at least one cell) from OLE2 binary / drawing-object segments that
+    # also contain BEL bytes.
+    first_row_cells = rows[0]
+    first_row_text = " ".join(first_row_cells)
+    # Strip remaining control chars before checking.
+    first_row_text_clean = _CONTROL_RE.sub("", first_row_text).strip()
+    if not first_row_text_clean:
+        return None
+    if _is_binary_garbage(first_row_text_clean):
+        return None
+    # Additionally reject if any cell contains a Word field-code token —
+    # drawing-object cells often pass the Spanish-word check when a short
+    # real word happens to be embedded in the code string.
+    if any(_WORD_FIELD_CODE_RE.search(c) for c in first_row_cells):
+        return None
+    # Reject Diputados boilerplate header/footer tables (e.g. the page-header
+    # template that appears after the last real paragraph in some DOC files).
+    all_cells_text = " ".join(c for r in rows for c in r)
+    if _DIPUTADOS_BOILERPLATE_RE.search(all_cells_text):
+        return None
+    if _LAST_REFORM_FOOTER_RE.search(all_cells_text):
+        return None
+
+    # Normalise row widths so all rows have the same column count.
+    max_cols = max(len(r) for r in rows)
+    rows = [r + [""] * (max_cols - len(r)) for r in rows]
+
+    # Build pipe-table lines.
+    def _row_line(cells: list[str]) -> str:
+        return "| " + " | ".join(c if c else " " for c in cells) + " |"
+
+    lines = [_row_line(rows[0])]
+    # Separator row (required by Markdown spec).
+    lines.append("| " + " | ".join("---" for _ in range(max_cols)) + " |")
+    for row in rows[1:]:
+        lines.append(_row_line(row))
+    return "\n".join(lines)
+
+
+# Minimum consecutive garbage paragraphs at the document tail that trigger
+# the "tail blob" truncation.  Five is chosen to avoid cutting legitimate
+# isolated binary artifacts that sometimes appear mid-document.
+_TAIL_BLOB_THRESHOLD = 5
+
+
+def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
+    """Drop any trailing binary-garbage blob from the paragraph list.
+
+    After all per-paragraph filters have run, some DOC files still end with
+    a block of Word stylesheet / drawing-object bytes that escaped the main
+    filter.  These paragraphs look like ``h9(CJ^JaJh)^``, ``zz"z'z1z…``,
+    ``´5CJ\\aJh``, etc.
+
+    Strategy
+    --------
+    1. Scan the last ``_TAIL_BLOB_WINDOW`` paragraphs.
+    2. Classify each paragraph as "tail-garbage" using a broader heuristic
+       (looser than ``_is_binary_garbage`` — see ``_is_tail_garbage``).
+    3. Find the last paragraph that is definitively NOT tail-garbage.
+    4. If the blob after that paragraph is at least ``_TAIL_BLOB_THRESHOLD``
+       paragraphs long, truncate at that position.
+
+    The "last non-garbage" approach is used (rather than a strict contiguous
+    run) because garbage paragraphs sometimes alternate with un-caught garbage
+    paragraphs of different shapes.
+
+    A paragraph is considered "tail-garbage" when:
+    - ``_is_binary_garbage`` returns True, OR
+    - it is short (≤ 120 chars) AND contains a known Word style-property
+      token OR starts with a garbage-prefix pattern.
+    """
+    _TAIL_GARBAGE_RE = re.compile(
+        # Broad match for Word stylesheet property token clusters.
+        r"[A-Z][a-z]?[A-Z]\^[A-Z]"  # e.g. CJ^J, CJ^JaJ-style sub-tokens
+        r"|CJaJ|CJPJ|B\*CJ|nHtH"
+        r"|\dCJ"                      # 5CJ, 6CJ … numeric CJK style prefix
+        r"|^h[0-9(A-Z\xc0-\xff]"      # h9(, hJg, hÏTú … style-sheet ref starts
+        r"|^\xb4"                      # ´CJh, ´5CJ … acute-accent garbage prefix
+        # gd named-range refs with characters not in the main filter's char class
+        r"|gd[^\s,;.]"
+        # Dense numeric/symbolic coordinate sequences (OLE2 binary coordinate dumps)
+        r"|(?:[A-Z]{1,2}\d+){3,}"
+        # OLE2 drawing-object byte sequences:
+        # Single-letter + single-char alternating dumps (e.g. zz"z'z1z, dVeWeXe)
+        r"|(?:[A-Za-z][^A-Za-z\s]){4,}"
+        # Non-ASCII ordinal indicator (ª) repeated — OLE2 table comparison dump
+        r"|\xaa{2,}|(?:[^\x00-\x7f]\xaa){2,}"
+        # $& prefix (OLE2 named-range cell reference start)
+        r"|^\$[&%!]"
+        # WWXX / JJJJ style repeated uppercase-2-char pairs (graphic coords)
+        r"|([A-Z]{2,3})\1{2,}"
+        # Dense sequences of non-ASCII chars that are mostly outside Spanish range.
+        # Pattern: 6+ consecutive non-ASCII chars where none are common Spanish
+        # vowels with accent (á é í ó ú) or ñÑ — indicates drawing-object coords
+        r"|[^\x00-\x7fáéíóúÁÉÍÓÚñÑüÜ]{6,}"
+        # OLE2 drawing-coordinate strings: non-ASCII char alternating with digit/punct,
+        # e.g. "Ô!Ô$Ô%Ô0Ö1Ö4Ö5Ö Ø!Ø"Ø%" — seen in Word drawing-object tail
+        r"|(?:[^\x00-\x7f][!\"#$%&'()*+,\-./0-9:;<=>?]){4,}"
+    )
+
+    # Mexican legislative documents that end cleanly never have a binary blob
+    # before the last paragraph.  All real text ends with a promulgation block
+    # ("En cumplimiento de lo dispuesto…") or a signatory line ("Ciudad de
+    # México, a …- Rúbrica.").  These always contain Spanish long words.
+    _SIGNATORY_RE = re.compile(
+        r"cumplimiento|Rúbrica|R\xfabrica|firman|firmas?"
+        r"|[Pp]residenta?|[Ss]ecretari[oa]"
+        r"|Ciudad de M\xe9xico|Ciudad de Mexico",
+        re.IGNORECASE,
+    )
+
+    n = len(paragraphs)
+    if n < _TAIL_BLOB_THRESHOLD:
+        return paragraphs
+
+    def _is_tail_garbage(text: str) -> bool:
+        if _is_binary_garbage(text):
+            return True
+        if len(text) <= 120 and _TAIL_GARBAGE_RE.search(text):
+            return True
+        return False
+
+    # Look back through the last _TAIL_BLOB_WINDOW paragraphs.
+    _TAIL_BLOB_WINDOW = 50
+    window_start = max(0, n - _TAIL_BLOB_WINDOW)
+
+    # Count garbage vs. good paragraphs in the window.
+    window = paragraphs[window_start:]
+    garbage_count = sum(1 for pp in window if _is_tail_garbage(pp))
+    good_count = len(window) - garbage_count
+
+    # If the window is dominated by garbage (> 60%), scan backward to find the
+    # last definitely-good paragraph and truncate there.
+    if good_count == 0 or garbage_count / len(window) > 0.6:
+        last_good = -1
+        for i in range(n - 1, window_start - 1, -1):
+            if not _is_tail_garbage(paragraphs[i]):
+                last_good = i
+                break
+        if last_good < 0:
+            return paragraphs[:window_start]
+        tail_length = n - (last_good + 1)
+        if tail_length >= _TAIL_BLOB_THRESHOLD:
+            return paragraphs[: last_good + 1]
+        return paragraphs
+
+    # Otherwise use the strict contiguous-run approach:
+    # find the last paragraph that is definitely NOT garbage.
+    last_good = -1
+    for i in range(n - 1, window_start - 1, -1):
+        if not _is_tail_garbage(paragraphs[i]):
+            last_good = i
+            break
+
+    if last_good < 0:
+        return paragraphs[:window_start]
+
+    tail_length = n - (last_good + 1)
+    # Use a lower threshold here than _TAIL_BLOB_THRESHOLD: even a single
+    # garbage paragraph after the last real paragraph must be cut.  Mexican
+    # federal laws always end with a promulgation block or signatory line —
+    # any trailing garbage is unambiguous.
+    if tail_length >= 1:
+        return paragraphs[: last_good + 1]
+    return paragraphs
+
+
 def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     """Extract plain-text paragraphs from a Word 97-2003 (.doc) OLE2 file.
 
@@ -361,6 +582,9 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
         high-byte majority — see ``_is_binary_garbage``)
       - Word field codes (PAGE, NUMPAGES, EMBED …)
       - Diputados institutional boilerplate / "Última Reforma" footer lines
+
+    Word 97-2003 tables are detected by the presence of BEL (\\x07) cell
+    separators and converted to Markdown pipe tables inline.
     """
     try:
         import olefile
@@ -380,14 +604,29 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
 
     # Decode as latin-1 (Windows-1252 is a superset; errors='replace' is a
     # safety net for stray bytes outside the BMP).
-    text = raw.decode("latin-1", errors="replace")
-
-    # Strip C0/C1 control characters (keep \r — it is the paragraph separator).
-    text = _CONTROL_RE.sub("", text)
+    # NOTE: do NOT strip control chars yet — we need BEL (0x07) for table
+    # detection in the loop below.
+    raw_text = raw.decode("latin-1", errors="replace")
 
     paragraphs: list[str] = []
-    for raw_para in text.split("\r"):
-        para = unicodedata.normalize("NFC", raw_para).strip()
+    for raw_para in raw_text.split("\r"):
+        # Handle Word table rows BEFORE stripping control characters.
+        # BEL (U+0007) is the Word cell separator; a paragraph that contains
+        # at least one BEL is a table row (or part of a multi-row table block).
+        if "\x07" in raw_para:
+            table_md = _word_table_to_markdown(raw_para)
+            if table_md:
+                # Emit the whole pipe table as a single paragraph.  The block
+                # builder treats it as one body paragraph, and the Markdown
+                # renderer passes it through verbatim.
+                paragraphs.append(table_md)
+            # Whether or not we got a valid table, skip the normal
+            # per-character-class processing for this segment.
+            continue
+
+        # Strip C0/C1 control characters from non-table segments.
+        para = _CONTROL_RE.sub("", raw_para)
+        para = unicodedata.normalize("NFC", para).strip()
         if not para:
             continue
         if _is_binary_garbage(para):
@@ -408,6 +647,10 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     # double-dots ("..").
     while paragraphs and len(paragraphs[-1]) == 1 and paragraphs[-1] not in {".", ","}:
         paragraphs.pop()
+
+    # Tail-blob truncation: drop any trailing contiguous run of binary-garbage
+    # paragraphs that slipped through the per-paragraph filter.
+    paragraphs = _truncate_tail_blob(paragraphs)
 
     return paragraphs
 

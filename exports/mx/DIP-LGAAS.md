@@ -1009,7 +1009,3 @@ Séptimo.- Las obligaciones y erogaciones que se generen con motivo de la entrad
 Ciudad de México, a 6 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ricardo Velázquez Meza, Secretario.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-abcgh±²³µ¶
-
-ÆC"$Ifa$gd"ì

@@ -956,7 +956,8 @@ Si en el contrato no se determinaren con toda precisión la especie y calidad de
 
 ###### Artículo 88.-
 
-En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra. Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo Del Comercio Electrónico. En consecuencia, se suprimió la referencia al Capítulo I De las diferentes clases de sociedades mercantiles (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo De las Sociedades de Comercio.
+En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato o la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra. | Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo Del Comercio Electrónico. En consecuencia, se suprimió la referencia al Capítulo I De las diferentes clases de sociedades mercantiles (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo De las Sociedades de Comercio. |
+| --- |
 
 ## TITULO SEGUNDO
 
@@ -4626,7 +4627,8 @@ Se deroga
 
 > <small>Artículo reformado DOF 09-04-2012. Derogado DOF 10-01-2014</small>
 
-Nota: De conformidad con la fracción III del artículo Tercero Transitorio de la Ley de Navegación, publicada en el DOF 04-01-1994, se establece que se derogan los artículos () 641 a 944 () del Código de Comercio, que conforman el Libro Tercero de este Código. Sin embargo, los artículos del Libro Tercero ya habían sido previamente derogados conforme lo establecido en el artículo 2o. Transitorio de la Ley de Navegación y Comercio Marítimo, publicada en el DOF 21-11-1963.
+| Nota: De conformidad con la fracción III del artículo Tercero Transitorio de la Ley de Navegación, publicada en el DOF 04-01-1994, se establece que se derogan los artículos () 641 a 944 () del Código de Comercio, que conforman el Libro Tercero de este Código. Sin embargo, los artículos del Libro Tercero ya habían sido previamente derogados conforme lo establecido en el artículo 2o. Transitorio de la Ley de Navegación y Comercio Marítimo, publicada en el DOF 21-11-1963. |
+| --- |
 
 ## LIBRO TERCERO
 
@@ -11156,7 +11158,8 @@ bis 20.- En los procedimientos que se ventilen conforme a lo señalado en este C
 
 > <small>Artículo adicionado DOF 23-05-2000</small>
 
-Nota: Por Decreto DOF 04-01-1989 se adicionó un nuevo Título Cuarto entonces denominado Del Procedimiento Arbitral con los artículos 1415 al 1437. En consecuencia, se suprimieron las referencias a los Capítulos I "Disposiciones generales, II "Del aseguramiento de bienes", III "De la rectificación de créditos", IV "De la liquidación judicial", V "Del abandono de activo", VI "Del concurso necesario", VII "De la administración de la quiebra", VIII "De la graduación" y IX "De la segunda instancia", que formaban parte del anterior Título Cuarto Del Procedimiento Especial en las Quiebras, el cual fue previamente derogado en su totalidad con los capítulos y artículos que lo integraban mediante Ley DOF 20-04-1943.
+| Nota: Por Decreto DOF 04-01-1989 se adicionó un nuevo Título Cuarto entonces denominado Del Procedimiento Arbitral con los artículos 1415 al 1437. En consecuencia, se suprimieron las referencias a los Capítulos I "Disposiciones generales, II "Del aseguramiento de bienes", III "De la rectificación de créditos", IV "De la liquidación judicial", V "Del abandono de activo", VI "Del concurso necesario", VII "De la administración de la quiebra", VIII "De la graduación" y IX "De la segunda instancia", que formaban parte del anterior Título Cuarto Del Procedimiento Especial en las Quiebras, el cual fue previamente derogado en su totalidad con los capítulos y artículos que lo integraban mediante Ley DOF 20-04-1943. |
+| --- |
 
 ## TITULO CUARTO
 
@@ -13245,19 +13248,5 @@ uuu$u%u&u2u5uBuKuSuXubucudupusuuuuu u¡u¢u®u±u¾uÇuÏuÔuÞußuàuìuïuüu
 ee5fAfDfafef f¥fgg²g·gMhQh¹h¾h¡i§i~jjIkNkOlSlõlmm!m%mmm
 
 `7`8```÷`ø`ÁaÂalbmbqcrcd
-
-CJaJh;[¾h;
-
-CJaJh;[¾h;
-
-CJaJh;[¾h;
-
-5CJaJh;
-
-CJaJhåh9/CJaJh9/h9/5CJaJ-h
-
-5CJaJ3hTØh
-
-CJaJh;[¾h;
 
 ()°¹ÂÇÑÒÓàã­º½,9<5BEäñôXehÃÐÓ

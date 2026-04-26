@@ -550,10 +550,11 @@ def test_field_code_garbage_filtered_from_dip109():
             f"Trailing single-char artifact not trimmed: {last!r}"
         )
 
-    # No paragraph should contain an embedded newline (post-\r split).
-    newline_paras = [p for p in paras if "\n" in p]
+    # No non-table paragraph should contain an embedded newline (post-\r split).
+    # Table paragraphs legitimately use \n as a line separator in pipe-table format.
+    newline_paras = [p for p in paras if "\n" in p and not p.startswith("|")]
     assert not newline_paras, (
-        "Paragraphs with embedded \\n found: "
+        "Non-table paragraphs with embedded \\n found: "
         + "; ".join(repr(p[:80]) for p in newline_paras)
     )
 
@@ -614,10 +615,11 @@ def test_cpeum_doc_no_garbage_after_fix():
     doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
     paras = _extract_doc_paragraphs(doc_bytes)
 
-    # No paragraph should contain an embedded newline.
-    newline_paras = [p for p in paras if "\n" in p]
+    # No non-table paragraph should contain an embedded newline.
+    # (Table paragraphs legitimately contain \n as part of the pipe-table format.)
+    newline_paras = [p for p in paras if "\n" in p and not p.startswith("|")]
     assert not newline_paras, (
-        f"{len(newline_paras)} paragraph(s) with embedded \\n found in CPEUM output"
+        f"{len(newline_paras)} non-table paragraph(s) with embedded \\n found in CPEUM output"
     )
 
     # No paragraph should contain Word style-sheet tokens.
@@ -1069,3 +1071,230 @@ def test_legitimate_spanish_with_mH_letters_not_dropped():
     )
     # Reform stamp with no garbage tokens
     assert not _is_binary_garbage("Párrafo reformado DOF 04-12-2006, 10-06-2011")
+
+
+# ── Bug 1 — trailing Word XML/CSS metadata tail (CCF/CFF/LFT) ────────────────
+
+
+def test_cj_caret_j_garbage_filtered():
+    """Bug 1: CJ^J / 5CJ^J / CJPJ^JaJ Word stylesheet tokens must be garbage.
+
+    These appear in the binary tail of CCF.doc, LFT.doc, and similar files
+    where the Word application appends character-style property strings after
+    the last real text paragraph.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    # Exact strings from CCF.doc tail
+    assert _is_binary_garbage(
+        "óçóÚóÍóÚóÚÀ¶©¶Àynyaynya¶aynyah<X¢hÃCJ^JaJhAtÊ5CJ^JaJh<X¢hÃ5CJ^J"
+    ), "CCF CJ^J tail garbage not filtered"
+
+    # Exact strings from CFF.doc tail (B*CJ + CJPJ]aJ)
+    assert _is_binary_garbage(
+        "ìhPb6B*CJPJ]aJphÌ3!hPb6B*CJPJ]aJphÌ3"
+    ), "CFF B*CJPJ]aJ tail garbage not filtered"
+
+    # Exact strings from LFT.doc tail (CJPJ^JaJ)
+    assert _is_binary_garbage(
+        "h9(CJ^Jh9(h9(CJ^JaJh9(CJPJ^JaJh)^"
+    ), "LFT CJPJ^JaJ tail garbage not filtered"
+
+
+def test_cj_garbage_does_not_filter_spanish_prose():
+    """Bug 1: The CJ^J/CJPJ filter must NOT drop legitimate Spanish text.
+
+    The added patterns are highly specific to Word stylesheet tokens and must
+    not produce false positives on ordinary accented Spanish text.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    clean_paras = [
+        # Normal constitutional article
+        "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos.",
+        # Article heading with ordinal
+        "Artículo 1o.- La presente Ley es de orden público.",
+        # Reform stamp with DOF date
+        "Párrafo reformado DOF 04-12-2006, 10-06-2011",
+        # Signatory line
+        "Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.",
+        # Promulgation line
+        "En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución.",
+    ]
+    for para in clean_paras:
+        assert not _is_binary_garbage(para), (
+            f"Clean paragraph incorrectly flagged as garbage by CJ-filter: {para!r}"
+        )
+
+
+def test_tail_blob_truncation_removes_trailing_garbage():
+    """Bug 1: _truncate_tail_blob must strip trailing binary-garbage paragraphs.
+
+    The function should truncate at the last legitimate paragraph and drop
+    everything after it when the tail blob is >= 1 paragraph long.
+    """
+    from legalize.fetcher.mx.parser import _truncate_tail_blob
+
+    good_paras = [
+        "Artículo 1o.- Esta ley es de orden público.",
+        "Ciudad de México, a 01 de enero de 2025.- Secretaría.- Rúbrica.",
+        "En cumplimiento de lo dispuesto por la fracción I del Artículo 89.",
+    ]
+    garbage_tail = [
+        "h9(CJ^JaJh)^",
+        "hAtÊ5CJ^JaJh",
+        "ìhPb6B*CJPJ]aJphÌ3",
+        "´5CJ\\aJh*8",
+        "hJgD5CJ",
+        "hD5CJ(`bbb",
+    ]
+    result = _truncate_tail_blob(good_paras + garbage_tail)
+    # All garbage must be removed; the legitimate text must survive.
+    assert result == good_paras, (
+        f"Tail blob not truncated correctly: last para = {repr(result[-1][:80]) if result else 'EMPTY'}"
+    )
+
+
+def test_tail_blob_does_not_cut_legitimate_text():
+    """Bug 1: _truncate_tail_blob must not cut a document that ends cleanly.
+
+    A normal document whose last paragraph is a Spanish promulgation line
+    must come out unchanged.
+    """
+    from legalize.fetcher.mx.parser import _truncate_tail_blob
+
+    clean_document = [
+        "Artículo 1o.- Esta ley es de orden público.",
+        "Artículo 2o.- Las personas físicas y morales…",
+        "TRANSITORIOS",
+        "Único.- La presente ley entrará en vigor al día siguiente.",
+        "Ciudad de México, a 01 de enero de 2025.- Sen. X, Presidenta.- Rúbrica.",
+        "En cumplimiento de lo dispuesto por la fracción I del Artículo 89.",
+    ]
+    result = _truncate_tail_blob(clean_document)
+    assert result == clean_document, "Tail truncation incorrectly cut a clean document"
+
+
+def test_cff_and_lft_doc_no_cj_garbage_via_cache():
+    """Bug 1: CCF.doc, CFF.doc, and LFT.doc must produce 0 CJ-style garbage paragraphs.
+
+    Uses the HTTP cache (no network) to verify the fix against the real DOC files.
+    Skipped when the HTTP cache is not available.
+    """
+    import pytest
+    requests_cache = pytest.importorskip("requests_cache")
+
+    cache_path = ".cache/http_cache.sqlite"
+    import os
+    if not os.path.exists(cache_path):
+        pytest.skip("HTTP cache not available")
+
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    session = requests_cache.CachedSession(
+        cache_path, backend="sqlite", expire_after=requests_cache.NEVER_EXPIRE
+    )
+
+    for abbrev in ("CCF", "CFF", "LFT"):
+        url = f"https://www.diputados.gob.mx/LeyesBiblio/doc/{abbrev}.doc"
+        resp = session.get(url)
+        if not getattr(resp, "from_cache", True):
+            pytest.skip(f"{abbrev}.doc not in cache — skipping to avoid network")
+        paras = _extract_doc_paragraphs(resp.content)
+        cj_garbage = [
+            p for p in paras
+            if "CJ^J" in p or "CJPJ" in p or "B*CJ" in p or "CJaJ" in p
+        ]
+        assert not cj_garbage, (
+            f"{abbrev}: {len(cj_garbage)} CJ-garbage paragraph(s) survived the filter. "
+            f"First: {repr(cj_garbage[0][:100])}"
+        )
+
+
+# ── Bug 2 — Word table cell markers (BEL / \\x07) rendered as pipe tables ─────
+
+
+def test_word_table_bel_produces_pipe_table():
+    """Bug 2: A Word binary table segment with BEL cell markers becomes a pipe table.
+
+    The synthetic input mirrors the exact byte pattern of the CFF.doc tax tarifa
+    table: a header row followed by data rows, each row terminated by double-BEL.
+    """
+    from legalize.fetcher.mx.parser import _word_table_to_markdown
+
+    # Exact pattern from CFF.doc: Ejercicio\x07Por ciento\x07\x071996\x0712.50\x07\x07...
+    raw = "Ejercicio\x07Por ciento\x07\x071996\x0712.50\x07\x071997\x0712.50\x07\x071998\x0712.50\x07\x071999\x0710.00\x07\x07"
+    result = _word_table_to_markdown(raw)
+    assert result is not None, "_word_table_to_markdown returned None for valid table"
+    lines = result.splitlines()
+    assert lines[0] == "| Ejercicio | Por ciento |", f"Header row wrong: {lines[0]!r}"
+    assert lines[1] == "| --- | --- |", f"Separator row wrong: {lines[1]!r}"
+    assert "| 1996 | 12.50 |" in lines, "Data row 1996/12.50 missing"
+    assert "| 1999 | 10.00 |" in lines, "Data row 1999/10.00 missing"
+    assert len(lines) == 6, f"Expected 6 lines (header + sep + 4 data rows), got {len(lines)}"
+
+
+def test_word_table_bel_garbage_not_emitted():
+    """Bug 2: A BEL-containing segment that is OLE2 binary garbage must return None.
+
+    Word drawing-object and style-sheet segments also contain BEL bytes.
+    They must not be converted to pipe tables — the validity check must reject them.
+    """
+    from legalize.fetcher.mx.parser import _word_table_to_markdown
+
+    garbage_segments = [
+        # CJ^J style-sheet token in first cell (caught by field-code RE)
+        "5CJ^JaJhAtÊ\x07h<X¢hÃCJ^JaJ\x07\x07",
+        # Drawing-object coordinate data (only non-Latin chars in cells — garbage check)
+        "ôôôô\x07ÖÖÖÖ\x07\x07ÎÎÎÎ\x07ÜÜÜÜ\x07\x07",
+        # Empty segment
+        "\x07\x07\x07",
+    ]
+    for seg in garbage_segments:
+        result = _word_table_to_markdown(seg)
+        assert result is None, (
+            f"Binary garbage segment produced a table: {repr(seg[:60])!r}"
+        )
+
+
+def test_cff_tax_tarifa_table_rendered_as_pipe_table():
+    """Bug 2: CFF.doc tax tarifa table at article 66 must render as a Markdown pipe table.
+
+    The BEFORE state (pre-fix) collapsed cells into prose: "EjercicioPor
+    ciento199612.50199712.50…".  The AFTER state must be a proper pipe table.
+    Uses the HTTP cache (no network).
+    """
+    import pytest
+    requests_cache = pytest.importorskip("requests_cache")
+
+    cache_path = ".cache/http_cache.sqlite"
+    import os
+    if not os.path.exists(cache_path):
+        pytest.skip("HTTP cache not available")
+
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    session = requests_cache.CachedSession(
+        cache_path, backend="sqlite", expire_after=requests_cache.NEVER_EXPIRE
+    )
+    resp = session.get("https://www.diputados.gob.mx/LeyesBiblio/doc/CFF.doc")
+    if not getattr(resp, "from_cache", True):
+        pytest.skip("CFF.doc not in cache — skipping to avoid network")
+
+    paras = _extract_doc_paragraphs(resp.content)
+
+    # BEFORE: "EjercicioPor ciento199612.50..." (collapsed prose) — must NOT appear.
+    collapsed = [p for p in paras if "EjercicioPor ciento" in p]
+    assert not collapsed, (
+        "Tax tarifa table still collapsed into prose — Bug 2 not fixed"
+    )
+
+    # AFTER: a pipe table containing the ejercicio header and 1996/12.50 row.
+    tax_table = [p for p in paras if "Ejercicio" in p and "Por ciento" in p]
+    assert tax_table, "Tax tarifa table not found in CFF paragraphs"
+    table_para = tax_table[0]
+    assert table_para.startswith("|"), f"Tax table not a pipe table: {repr(table_para[:80])}"
+    assert "| Ejercicio | Por ciento |" in table_para, "Header row missing from tax table"
+    assert "| 1996 | 12.50 |" in table_para or "1996" in table_para, (
+        "Data row 1996/12.50 missing from tax table"
+    )

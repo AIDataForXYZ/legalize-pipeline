@@ -700,7 +700,8 @@ Los propietarios extranjeros de aeronaves no mexicanas destinadas para uso parti
 
 > <small>Artículo adicionado DOF 20-05-2021</small>
 
-Nota: El Decreto DOF 03-05-2023 al reformar el artículo 17 Bis no da cuenta de las líneas de puntos para señalar la permanencia de sus párrafos segundo y tercero. Sin embargo, la instrucción del Decreto señala de forma expresa que se reforma el artículo 17 Bis, párrafo primero.
+| Nota: El Decreto DOF 03-05-2023 al reformar el artículo 17 Bis no da cuenta de las líneas de puntos para señalar la permanencia de sus párrafos segundo y tercero. Sin embargo, la instrucción del Decreto señala de forma expresa que se reforma el artículo 17 Bis, párrafo primero. |
+| --- |
 
 Sección Segunda
 
@@ -944,7 +945,8 @@ La Agencia Federal de Aviación Civil debe regular el transporte aéreo de merca
 
 > <small>Artículo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)</small>
 
-Nota: Por Decreto publicado en las páginas 2 a 13 de la edición vespertina del DOF 03-05-2023 se adicionó un segundo párrafo al artículo 34. Sin embargo, mediante un segundo Decreto publicado en la misma edición del DOF 03-05-2023, pero en las páginas 17 a 62, se reformó completo el artículo 34 para quedar con un solo párrafo.
+| Nota: Por Decreto publicado en las páginas 2 a 13 de la edición vespertina del DOF 03-05-2023 se adicionó un segundo párrafo al artículo 34. Sin embargo, mediante un segundo Decreto publicado en la misma edición del DOF 03-05-2023, pero en las páginas 17 a 62, se reformó completo el artículo 34 para quedar con un solo párrafo. |
+| --- |
 
 ###### Artículo 34.
 
@@ -3015,5 +3017,3 @@ vvw
 l&l2l3llllÚlÛlìl
 
 oooooqqLrMrkslsttvvww
-
-ooo%oo¡oq&qMrUrlststtv$vLwmwww«wÇwÛwówx

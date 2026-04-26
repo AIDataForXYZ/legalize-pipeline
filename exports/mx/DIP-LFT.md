@@ -8404,117 +8404,464 @@ Miembro superior
 
 Pérdidas
 
-1Por la desarticulación interescapulotorácica.85%2Por la pérdida parcial de la clavícula.20%3Por la desarticulación del hombro.80%4Por la amputación del brazo, entre el hombro y el codo.80%5Por la desarticulación del codo.80%6Por la amputación del antebrazo entre el codo y la muñeca.75%7Por la pérdida total de la mano.75%8Por la pérdida total o parcial de los 5 metacarpianos.75%9Por la pérdida de los 5 dedos.70%10Por la pérdida de 4 dedos de la mano, incluyendo el pulgar.65%11Por la pérdida de 4 dedos de la mano incluyendo el pulgar y los metacarpianos correspondientes, aunque la pérdida de éstos no sea completa.70%12Por la pérdida de 4 dedos de la mano, conservando el pulgar móvil.50%13Por la pérdida de 4 dedos de la mano, conservando el pulgar inmóvil.60%14Por la pérdida del pulgar, índice y medio.55%15Por la pérdida del pulgar y del índice.45%16Por la pérdida del pulgar con el metacarpiano correspondiente o parte de éste.35%17Por la pérdida del pulgar solo.30%18Por la pérdida parcial de la falange proximal del dedo pulgar.25%19Por la pérdida de la falange distal del pulgar.20%20Por la pérdida parcial de la falange distal del pulgar.10%21Por la pérdida del índice con el metacarpiano o parte de éste.25%22Por la pérdida del dedo índice.20%23Por la pérdida parcial de la falange proximal del dedo índice.16%24Por la pérdida de la falange distal, con mutilación o pérdida de falange media del índice.12%25Por la pérdida de la falange distal del índice.6%26Por la pérdida parcial de la falange distal del índice.2%27Por la pérdida del dedo medio con pérdida de su metacarpiano o parte de éste.18%28Por la pérdida del dedo medio.15%29Por la pérdida parcial de la falange proximal del dedo medio.13%30Por la pérdida de la falange distal con mutilación o pérdida de la falange media del dedo medio.10%31Por la pérdida de la falange distal del dedo medio.5%32Por la pérdida parcial de la falange distal del dedo medio.2%33Por la pérdida del dedo anular con pérdida de su metacarpiano o parte de éste.15%34Por la pérdida del dedo anular.12%35Por la pérdida parcial de la falange proximal del dedo anular.10%36Por la pérdida de la falange distal con mutilación o pérdida de la falange media del anular.8%37Por la pérdida de la falange distal del anular.4%38Por la pérdida parcial de la falange distal del anular.2%39Por la pérdida del dedo meñique con pérdida de su metacarpiano o parte de éste.15%40Por la pérdida del dedo meñique.12%41Por la pérdida parcial de la falange proximal del dedo meñique.10%42Por la pérdida de la falange distal con mutilación o pérdida de la falange media del meñique.8%43Por la pérdida de la falange distal del meñique.4%44Por la pérdida parcial de la falange distal del meñique.2%
+| 1 | Por la desarticulación interescapulotorácica. | 85% |
+| --- | --- | --- |
+| 2 | Por la pérdida parcial de la clavícula. | 20% |
+| 3 | Por la desarticulación del hombro. | 80% |
+| 4 | Por la amputación del brazo, entre el hombro y el codo. | 80% |
+| 5 | Por la desarticulación del codo. | 80% |
+| 6 | Por la amputación del antebrazo entre el codo y la muñeca. | 75% |
+| 7 | Por la pérdida total de la mano. | 75% |
+| 8 | Por la pérdida total o parcial de los 5 metacarpianos. | 75% |
+| 9 | Por la pérdida de los 5 dedos. | 70% |
+| 10 | Por la pérdida de 4 dedos de la mano, incluyendo el pulgar. | 65% |
+| 11 | Por la pérdida de 4 dedos de la mano incluyendo el pulgar y los metacarpianos correspondientes, aunque la pérdida de éstos no sea completa. | 70% |
+| 12 | Por la pérdida de 4 dedos de la mano, conservando el pulgar móvil. | 50% |
+| 13 | Por la pérdida de 4 dedos de la mano, conservando el pulgar inmóvil. | 60% |
+| 14 | Por la pérdida del pulgar, índice y medio. | 55% |
+| 15 | Por la pérdida del pulgar y del índice. | 45% |
+| 16 | Por la pérdida del pulgar con el metacarpiano correspondiente o parte de éste. | 35% |
+| 17 | Por la pérdida del pulgar solo. | 30% |
+| 18 | Por la pérdida parcial de la falange proximal del dedo pulgar. | 25% |
+| 19 | Por la pérdida de la falange distal del pulgar. | 20% |
+| 20 | Por la pérdida parcial de la falange distal del pulgar. | 10% |
+| 21 | Por la pérdida del índice con el metacarpiano o parte de éste. | 25% |
+| 22 | Por la pérdida del dedo índice. | 20% |
+| 23 | Por la pérdida parcial de la falange proximal del dedo índice. | 16% |
+| 24 | Por la pérdida de la falange distal, con mutilación o pérdida de falange media del índice. | 12% |
+| 25 | Por la pérdida de la falange distal del índice. | 6% |
+| 26 | Por la pérdida parcial de la falange distal del índice. | 2% |
+| 27 | Por la pérdida del dedo medio con pérdida de su metacarpiano o parte de éste. | 18% |
+| 28 | Por la pérdida del dedo medio. | 15% |
+| 29 | Por la pérdida parcial de la falange proximal del dedo medio. | 13% |
+| 30 | Por la pérdida de la falange distal con mutilación o pérdida de la falange media del dedo medio. | 10% |
+| 31 | Por la pérdida de la falange distal del dedo medio. | 5% |
+| 32 | Por la pérdida parcial de la falange distal del dedo medio. | 2% |
+| 33 | Por la pérdida del dedo anular con pérdida de su metacarpiano o parte de éste. | 15% |
+| 34 | Por la pérdida del dedo anular. | 12% |
+| 35 | Por la pérdida parcial de la falange proximal del dedo anular. | 10% |
+| 36 | Por la pérdida de la falange distal con mutilación o pérdida de la falange media del anular. | 8% |
+| 37 | Por la pérdida de la falange distal del anular. | 4% |
+| 38 | Por la pérdida parcial de la falange distal del anular. | 2% |
+| 39 | Por la pérdida del dedo meñique con pérdida de su metacarpiano o parte de éste. | 15% |
+| 40 | Por la pérdida del dedo meñique. | 12% |
+| 41 | Por la pérdida parcial de la falange proximal del dedo meñique. | 10% |
+| 42 | Por la pérdida de la falange distal con mutilación o pérdida de la falange media del meñique. | 8% |
+| 43 | Por la pérdida de la falange distal del meñique. | 4% |
+| 44 | Por la pérdida parcial de la falange distal del meñique. | 2% |
 
 Anquilosis
 
 Pérdida completa de la movilidad articular
 
-45Completa del hombro con movilidad del omóplato.40%46Completa del hombro con fijación e inmovilidad del omóplato.55%47Completa del codo en posición de flexión entre 75 y 140 grados.35%48Completa del codo en posición de flexión menor de 75 grados.50%49De torsión, con supresión de los movimientos de pronación y supinación.25%50Completa de la muñeca en extensión.60%51Completa de la muñeca en flexión.45%52Anquilosis de todas las articulaciones de los dedos de la mano en flexión (mano en garra) o extensión (mano extendida).75%53Carpo-metacarpiana del pulgar.20%54Metacarpo-falángica del pulgar.12%55Interfalángica del pulgar.6%56De las dos articulaciones del pulgar.18%57De las articulaciones del pulgar y carpo-metacarpiana del pulgar.38%58Articulación metacarpo-falángica del índice.7%59Articulación entre la falange proximal y media del índice.10%60Articulación entre las falanges media y distal del índice.4%61De las articulaciones interfalángica proximal y distal del índice.14%62De las tres articulaciones del índice.21%63Articulación metacarpo-falángica del dedo medio.5%64Articulación entre las falanges proximal y media del dedo medio.7%65Articulación entre las falanges media y distal del dedo medio.2%66De las articulaciones interfalángica proximal y distal del dedo medio.10%67De las tres articulaciones del dedo medio.15%68Articulación metacarpo-falángica del anular.3%69Articulación entre las falanges proximal y media del anular.5%70Articulación entre las falanges media y distal del anular.2%71De las articulaciones interfalángica proximal y distal del anular.8%72De las tres articulaciones del anular.12%73Articulación metacarpo-falángica del meñique.3%74Articulación entre las falanges proximal y media del meñique.5%75Articulación entre las falanges media y distal del meñique.2%76De las articulaciones interfalángica proximal y distal del meñique.8%77De las tres articulaciones del meñique.12%
+| 45 | Completa del hombro con movilidad del omóplato. | 40% |
+| --- | --- | --- |
+| 46 | Completa del hombro con fijación e inmovilidad del omóplato. | 55% |
+| 47 | Completa del codo en posición de flexión entre 75 y 140 grados. | 35% |
+| 48 | Completa del codo en posición de flexión menor de 75 grados. | 50% |
+| 49 | De torsión, con supresión de los movimientos de pronación y supinación. | 25% |
+| 50 | Completa de la muñeca en extensión. | 60% |
+| 51 | Completa de la muñeca en flexión. | 45% |
+| 52 | Anquilosis de todas las articulaciones de los dedos de la mano en flexión (mano en garra) o extensión (mano extendida). | 75% |
+| 53 | Carpo-metacarpiana del pulgar. | 20% |
+| 54 | Metacarpo-falángica del pulgar. | 12% |
+| 55 | Interfalángica del pulgar. | 6% |
+| 56 | De las dos articulaciones del pulgar. | 18% |
+| 57 | De las articulaciones del pulgar y carpo-metacarpiana del pulgar. | 38% |
+| 58 | Articulación metacarpo-falángica del índice. | 7% |
+| 59 | Articulación entre la falange proximal y media del índice. | 10% |
+| 60 | Articulación entre las falanges media y distal del índice. | 4% |
+| 61 | De las articulaciones interfalángica proximal y distal del índice. | 14% |
+| 62 | De las tres articulaciones del índice. | 21% |
+| 63 | Articulación metacarpo-falángica del dedo medio. | 5% |
+| 64 | Articulación entre las falanges proximal y media del dedo medio. | 7% |
+| 65 | Articulación entre las falanges media y distal del dedo medio. | 2% |
+| 66 | De las articulaciones interfalángica proximal y distal del dedo medio. | 10% |
+| 67 | De las tres articulaciones del dedo medio. | 15% |
+| 68 | Articulación metacarpo-falángica del anular. | 3% |
+| 69 | Articulación entre las falanges proximal y media del anular. | 5% |
+| 70 | Articulación entre las falanges media y distal del anular. | 2% |
+| 71 | De las articulaciones interfalángica proximal y distal del anular. | 8% |
+| 72 | De las tres articulaciones del anular. | 12% |
+| 73 | Articulación metacarpo-falángica del meñique. | 3% |
+| 74 | Articulación entre las falanges proximal y media del meñique. | 5% |
+| 75 | Articulación entre las falanges media y distal del meñique. | 2% |
+| 76 | De las articulaciones interfalángica proximal y distal del meñique. | 8% |
+| 77 | De las tres articulaciones del meñique. | 12% |
 
 Rigideces articulares
 
 Disminución de los movimientos por lesiones articulares, tendinosas o musculares
 
-78Del hombro, afectando principalmente la flexión y la abducción.10 a 30%79Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados.30%80Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados.20%81Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados.10%82Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados.5%83De torsión, con limitación de los movimientos de pronación y supinación.5 a 15%84De la muñeca.10 a 15%85Metacarpo-falángica del pulgar.2 a 5%86Interfalángica del pulgar.5%87De las dos articulaciones del pulgar.5 a 10%88Metacarpo-falángica del índice.3%89De la articulación interfalángica proximal o distal del índice.6%90De la articulación interfalángica proximal y distal del índice.12%91De las tres articulaciones del índice.15%92De una sola articulación del dedo medio.2%93De dos articulaciones del dedo medio.4%94De las tres articulaciones del dedo medio.6 a 8%95De una sola articulación del anular.2%96De dos articulaciones del anular.3%97De las tres articulaciones del anular.5 a 6%98De una sola articulación del meñique.2%99De dos articulaciones del meñique.3%100De las tres articulaciones del meñique.5 a 6%
+| 78 | Del hombro, afectando principalmente la flexión y la abducción. | 10 a 30% |
+| --- | --- | --- |
+| 79 | Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados. | 30% |
+| 80 | Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados. | 20% |
+| 81 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados. | 10% |
+| 82 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados. | 5% |
+| 83 | De torsión, con limitación de los movimientos de pronación y supinación. | 5 a 15% |
+| 84 | De la muñeca. | 10 a 15% |
+| 85 | Metacarpo-falángica del pulgar. | 2 a 5% |
+| 86 | Interfalángica del pulgar. | 5% |
+| 87 | De las dos articulaciones del pulgar. | 5 a 10% |
+| 88 | Metacarpo-falángica del índice. | 3% |
+| 89 | De la articulación interfalángica proximal o distal del índice. | 6% |
+| 90 | De la articulación interfalángica proximal y distal del índice. | 12% |
+| 91 | De las tres articulaciones del índice. | 15% |
+| 92 | De una sola articulación del dedo medio. | 2% |
+| 93 | De dos articulaciones del dedo medio. | 4% |
+| 94 | De las tres articulaciones del dedo medio. | 6 a 8% |
+| 95 | De una sola articulación del anular. | 2% |
+| 96 | De dos articulaciones del anular. | 3% |
+| 97 | De las tres articulaciones del anular. | 5 a 6% |
+| 98 | De una sola articulación del meñique. | 2% |
+| 99 | De dos articulaciones del meñique. | 3% |
+| 100 | De las tres articulaciones del meñique. | 5 a 6% |
 
 Pseudoartrosis
 
-101Del hombro, consecutiva a resecciones amplias o pérdidas considerables de sustancia ósea.60%102De la clavícula.30%103De la escápula.30%104Del húmero.45%105Del codo, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea.55%106Del antebrazo, de un solo hueso.30%107Del antebrazo, de los dos huesos.50%108De la muñeca, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea.40%109De todos los huesos del metacarpo.40%110De un solo metacarpiano.10%111De la falange distal del pulgar.8%112De la falange distal del dedo índice, medio anular o meñique.6%113De la falange proximal del pulgar.15%114De la falange proximal o media del índice.10%115De la falange proximal o media del dedo medio, anular o meñique, por cada falange.5%
+| 101 | Del hombro, consecutiva a resecciones amplias o pérdidas considerables de sustancia ósea. | 60% |
+| --- | --- | --- |
+| 102 | De la clavícula. | 30% |
+| 103 | De la escápula. | 30% |
+| 104 | Del húmero. | 45% |
+| 105 | Del codo, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea. | 55% |
+| 106 | Del antebrazo, de un solo hueso. | 30% |
+| 107 | Del antebrazo, de los dos huesos. | 50% |
+| 108 | De la muñeca, consecutiva a resecciones amplias o pérdidas considerables de substancia ósea. | 40% |
+| 109 | De todos los huesos del metacarpo. | 40% |
+| 110 | De un solo metacarpiano. | 10% |
+| 111 | De la falange distal del pulgar. | 8% |
+| 112 | De la falange distal del dedo índice, medio anular o meñique. | 6% |
+| 113 | De la falange proximal del pulgar. | 15% |
+| 114 | De la falange proximal o media del índice. | 10% |
+| 115 | De la falange proximal o media del dedo medio, anular o meñique, por cada falange. | 5% |
 
 Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente
 
-116De la axila, según el grado de limitación de los movimientos del brazo.20 a 50%117Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados.30%118Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados.20%119Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados.10%120Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados.5%121De la aponeurosis palmar que afecten la flexión o extensión, la pronación, supinación, o que produzca rigideces combinadas.10 a 30%
+| 116 | De la axila, según el grado de limitación de los movimientos del brazo. | 20 a 50% |
+| --- | --- | --- |
+| 117 | Del codo, que no permite la extensión completa, con un ángulo de flexión de 90 a 140 grados. | 30% |
+| 118 | Del codo, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados. | 20% |
+| 119 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 70 grados. | 10% |
+| 120 | Del codo, que permite la extensión completa, con un ángulo de flexión hasta 110 grados. | 5% |
+| 121 | De la aponeurosis palmar que afecten la flexión o extensión, la pronación, supinación, o que produzca rigideces combinadas. | 10 a 30% |
 
 Trastornos funcionales de los dedos, consecutivos a lesiones no articulares, sino a sección o pérdida de los tendones extensores o flexores, adherencias o cicatrices
 
 Flexión permanente de uno o varios dedos
 
-122De las dos articulaciones del pulgar.10 a 25%123De las tres articulaciones del índice o dedo medio.8 a 15%124De las tres articulaciones del anular o meñique.8 a 12%125De todas las articulaciones de todos los dedos de la mano.65 a 75%126De cuatro dedos de la mano excluyendo el pulgar.45 a 50%
+| 122 | De las dos articulaciones del pulgar. | 10 a 25% |
+| --- | --- | --- |
+| 123 | De las tres articulaciones del índice o dedo medio. | 8 a 15% |
+| 124 | De las tres articulaciones del anular o meñique. | 8 a 12% |
+| 125 | De todas las articulaciones de todos los dedos de la mano. | 65 a 75% |
+| 126 | De cuatro dedos de la mano excluyendo el pulgar. | 45 a 50% |
 
 Extensión permanente de uno o varios dedos
 
-127De las dos articulaciones del pulgar.18 a 22%128De las tres articulaciones del índice.10 a 15%129De las tres articulaciones del medio.8 a 12%130De las tres articulaciones del anular o meñique.8 a 12%131Extensión permanente de todas las articulaciones de todos los dedos de la mano.65 a 75%132Extensión permanente de cuatro dedos de la mano, excluyendo el pulgar.50%
+| 127 | De las dos articulaciones del pulgar. | 18 a 22% |
+| --- | --- | --- |
+| 128 | De las tres articulaciones del índice. | 10 a 15% |
+| 129 | De las tres articulaciones del medio. | 8 a 12% |
+| 130 | De las tres articulaciones del anular o meñique. | 8 a 12% |
+| 131 | Extensión permanente de todas las articulaciones de todos los dedos de la mano. | 65 a 75% |
+| 132 | Extensión permanente de cuatro dedos de la mano, excluyendo el pulgar. | 50% |
 
 Secuelas de fracturas
 
-133De la escápula, cuando produzca rigidez de hombro.10 a 30%134De la clavícula, cuando produzca rigidez del hombro.10 a 30%135Del húmero, cuando produzca rigidez, atrofia muscular.10 a 30%136Del olécranon, que no permite la extensión completa con un ángulo de flexión de 90 a 140 grados.30%137Del olécranon, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados.20%138Del olécranon, que permite la extensión completa, con un ángulo de flexión hasta 70 grados.10%139Del olécranon que permite la extensión completa con un ángulo de flexión hasta 110 grados.5%140Distal de los huesos del antebrazo, cuando produzcan rigidez de la muñeca.10 a 20%141Proximal de los huesos del antebrazo, cuando produzcan rigidez de pronación y/o supinación.10 a 20%142De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y limitación para la pronación y/o supinación.10 a 20%143Del metacarpo, con desviación secundaria de la mano y rigidez de los dedos.10 a 20%
+| 133 | De la escápula, cuando produzca rigidez de hombro. | 10 a 30% |
+| --- | --- | --- |
+| 134 | De la clavícula, cuando produzca rigidez del hombro. | 10 a 30% |
+| 135 | Del húmero, cuando produzca rigidez, atrofia muscular. | 10 a 30% |
+| 136 | Del olécranon, que no permite la extensión completa con un ángulo de flexión de 90 a 140 grados. | 30% |
+| 137 | Del olécranon, que no permite la extensión completa, con un ángulo de flexión menor de 90 grados. | 20% |
+| 138 | Del olécranon, que permite la extensión completa, con un ángulo de flexión hasta 70 grados. | 10% |
+| 139 | Del olécranon que permite la extensión completa con un ángulo de flexión hasta 110 grados. | 5% |
+| 140 | Distal de los huesos del antebrazo, cuando produzcan rigidez de la muñeca. | 10 a 20% |
+| 141 | Proximal de los huesos del antebrazo, cuando produzcan rigidez de pronación y/o supinación. | 10 a 20% |
+| 142 | De los huesos del antebrazo, cuando produzcan rigidez de la muñeca y limitación para la pronación y/o supinación. | 10 a 20% |
+| 143 | Del metacarpo, con desviación secundaria de la mano y rigidez de los dedos. | 10 a 20% |
 
 Parálisis completas e incompletas (paresias) por lesiones de nervios periféricos
 
-144Parálisis total del miembro superior.70%145Parálisis del tronco superior.50%146Parálisis del tronco medio.50%147Parálisis del tronco inferior.50%148Parálisis del nervio subescapular.12%149Parálisis del nervio circunflejo o axilar.30%150Parálisis del nervio músculo-cutáneo.35%151Parálisis del nervio mediano en el brazo.45%152Parálisis del nervio mediano en la muñeca.30%153Parálisis del nervio ulnar si está lesionado arriba del codo.35%154Parálisis del nervio ulnar si está lesionado abajo del codo.30%155Parálisis del nervio radial si está lesionado arriba del codo.50%156Parálisis del nervio radial si está lesionado abajo del codo.40%157En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del cien por ciento.--158En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional. El valor máximo otorgado no podrá ser superior al valor mínimo que se otorga por parálisis.--159Síndrome de dolor regional complejo hombro-mano.20 a 60%160Síndrome de dolor regional complejo hombro.10 a 30%161Síndrome de dolor regional complejo mano-muñeca.10 a 30%
+| 144 | Parálisis total del miembro superior. | 70% |
+| --- | --- | --- |
+| 145 | Parálisis del tronco superior. | 50% |
+| 146 | Parálisis del tronco medio. | 50% |
+| 147 | Parálisis del tronco inferior. | 50% |
+| 148 | Parálisis del nervio subescapular. | 12% |
+| 149 | Parálisis del nervio circunflejo o axilar. | 30% |
+| 150 | Parálisis del nervio músculo-cutáneo. | 35% |
+| 151 | Parálisis del nervio mediano en el brazo. | 45% |
+| 152 | Parálisis del nervio mediano en la muñeca. | 30% |
+| 153 | Parálisis del nervio ulnar si está lesionado arriba del codo. | 35% |
+| 154 | Parálisis del nervio ulnar si está lesionado abajo del codo. | 30% |
+| 155 | Parálisis del nervio radial si está lesionado arriba del codo. | 50% |
+| 156 | Parálisis del nervio radial si está lesionado abajo del codo. | 40% |
+| 157 | En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del cien por ciento. | -- |
+| 158 | En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional. El valor máximo otorgado no podrá ser superior al valor mínimo que se otorga por parálisis. | -- |
+| 159 | Síndrome de dolor regional complejo hombro-mano. | 20 a 60% |
+| 160 | Síndrome de dolor regional complejo hombro. | 10 a 30% |
+| 161 | Síndrome de dolor regional complejo mano-muñeca. | 10 a 30% |
 
 Luxaciones que no puedan ser resueltas quirúrgicamente
 
-162De la clavícula, no reducida o irreductible esternoclavicular.5%163De la clavícula, no reducida o irreductible acromioclavicular.10-30%164Del hombro, glenohumeral.30%165Del codo.25%166De la muñeca (radiocarpal o radioulnar).25%167De los huesos del carpo.25%168De un metacarpiano.8%169Del cuarto y quinto metacarpianos.20%170De todos los metacarpianos.40%171Metacarpo-falángica del pulgar.25%172De la falange distal del pulgar.5%173De la falange proximal o media de cualquier otro dedo.10%174De la falange distal de cualquier otro dedo.4%
+| 162 | De la clavícula, no reducida o irreductible esternoclavicular. | 5% |
+| --- | --- | --- |
+| 163 | De la clavícula, no reducida o irreductible acromioclavicular. | 10-30% |
+| 164 | Del hombro, glenohumeral. | 30% |
+| 165 | Del codo. | 25% |
+| 166 | De la muñeca (radiocarpal o radioulnar). | 25% |
+| 167 | De los huesos del carpo. | 25% |
+| 168 | De un metacarpiano. | 8% |
+| 169 | Del cuarto y quinto metacarpianos. | 20% |
+| 170 | De todos los metacarpianos. | 40% |
+| 171 | Metacarpo-falángica del pulgar. | 25% |
+| 172 | De la falange distal del pulgar. | 5% |
+| 173 | De la falange proximal o media de cualquier otro dedo. | 10% |
+| 174 | De la falange distal de cualquier otro dedo. | 4% |
 
 Músculos
 
-175Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez articular.15%176Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular.10 a 15%177Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez articular.5 a 10%
+| 175 | Amiotrofia del hombro mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 15% |
+| --- | --- | --- |
+| 176 | Amiotrofia del brazo o del antebrazo mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 10 a 15% |
+| 177 | Amiotrofia de la mano mayor o igual a un centímetro, sin anquilosis ni rigidez articular. | 5 a 10% |
 
 Vasos
 
-178Las secuelas y lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, entre otros). En caso de lesiones bilaterales, se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento.--179En los músicos instrumentistas, mecanógrafos, relojeros, joyeros ensamblador de partes electrónicas, etc. y labores similares, la pérdida, anquilosis, pseudoartrosis, luxaciones, parálisis, retracciones cicatrizales y rigideces de los dedos utilizados efectivamente en el trabajo, así como en los casos de retracciones de la aponeurosis palmar de la mano que interese esos mismos dedos, se aumentará hasta el 250%, observándose lo dispuesto en el artículo 494 de la Ley Federal del Trabajo.--
+| 178 | Las secuelas y lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, entre otros). En caso de lesiones bilaterales, se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento. | -- |
+| --- | --- | --- |
+| 179 | En los músicos instrumentistas, mecanógrafos, relojeros, joyeros ensamblador de partes electrónicas, etc. y labores similares, la pérdida, anquilosis, pseudoartrosis, luxaciones, parálisis, retracciones cicatrizales y rigideces de los dedos utilizados efectivamente en el trabajo, así como en los casos de retracciones de la aponeurosis palmar de la mano que interese esos mismos dedos, se aumentará hasta el 250%, observándose lo dispuesto en el artículo 494 de la Ley Federal del Trabajo. | -- |
 
 Miembro inferior
 
 Pérdidas
 
-180Por la desarticulación de la cadera.80%181Por la amputación del muslo, entre la cadera y la rodilla.80%182Por la desarticulación de la rodilla.70%183Por la extirpación de la rótula, con movilidad anormal de la rodilla y amiotrofia del tríceps.40%184Por la amputación de la pierna, entre la rodilla y el tobillo.65%185Por la pérdida total del pie.55%186Por la mutilación de un pie con conservación del talón.45%187Por la pérdida parcial o total del calcáneo.10 a 30%188Por la desarticulación medio-tarsiana.40%189Por la desarticulación tarso metatarsiana.30%190Por la pérdida de los cinco dedos.25%191Por la pérdida del primer dedo, con pérdida o mutilación de su metatarsiano.25%192Por la pérdida del primer dedo sólo.15%193Por la pérdida parcial o total de la falange distal del primer dedo.7%194Por la pérdida de un dedo que no sea el primero.5%195Por la pérdida parcial de la falange proximal de un dedo que no sea el primero.4%196Por la pérdida de la falange distal, con mutilación o pérdida de la falange media de un dedo que no sea el primero.3%197Por la pérdida parcial o total de la falange distal de un dedo que no sea el primero.2%198Por la pérdida del segundo, tercero o cuarto dedo con mutilación o pérdida de su metatarsiano, conservando el primero o quinto dedo.8%199Por la pérdida del quinto dedo con mutilación o pérdida de su metatarsiano20%
+| 180 | Por la desarticulación de la cadera. | 80% |
+| --- | --- | --- |
+| 181 | Por la amputación del muslo, entre la cadera y la rodilla. | 80% |
+| 182 | Por la desarticulación de la rodilla. | 70% |
+| 183 | Por la extirpación de la rótula, con movilidad anormal de la rodilla y amiotrofia del tríceps. | 40% |
+| 184 | Por la amputación de la pierna, entre la rodilla y el tobillo. | 65% |
+| 185 | Por la pérdida total del pie. | 55% |
+| 186 | Por la mutilación de un pie con conservación del talón. | 45% |
+| 187 | Por la pérdida parcial o total del calcáneo. | 10 a 30% |
+| 188 | Por la desarticulación medio-tarsiana. | 40% |
+| 189 | Por la desarticulación tarso metatarsiana. | 30% |
+| 190 | Por la pérdida de los cinco dedos. | 25% |
+| 191 | Por la pérdida del primer dedo, con pérdida o mutilación de su metatarsiano. | 25% |
+| 192 | Por la pérdida del primer dedo sólo. | 15% |
+| 193 | Por la pérdida parcial o total de la falange distal del primer dedo. | 7% |
+| 194 | Por la pérdida de un dedo que no sea el primero. | 5% |
+| 195 | Por la pérdida parcial de la falange proximal de un dedo que no sea el primero. | 4% |
+| 196 | Por la pérdida de la falange distal, con mutilación o pérdida de la falange media de un dedo que no sea el primero. | 3% |
+| 197 | Por la pérdida parcial o total de la falange distal de un dedo que no sea el primero. | 2% |
+| 198 | Por la pérdida del segundo, tercero o cuarto dedo con mutilación o pérdida de su metatarsiano, conservando el primero o quinto dedo. | 8% |
+| 199 | Por la pérdida del quinto dedo con mutilación o pérdida de su metatarsiano | 20% |
 
 Anquilosis
 
-200Completa de la articulación coxofemoral, en rectitud.55%201De la articulación coxofemoral en posición de flexión, aducción, abducción y/o rotación.65%202De las dos articulaciones coxofemorales.100%203De la rodilla en posición de flexión mayor de 45 grados y hasta 140 grados.65%204De la rodilla en posición de flexión hasta 45 grados.40%205De la rodilla en genu valgum o genu varum.50%206Del tobillo en ángulo recto. 15%207Del tobillo en ángulo recto, con rigidez de los dedos.30%208Del tobillo, cuando la posición es diferente a la neutra.55%209De cualquier dedo, en extensión.5%210De cualquier dedo, cuando la posición es diferente a la neutra.15%
+| 200 | Completa de la articulación coxofemoral, en rectitud. | 55% |
+| --- | --- | --- |
+| 201 | De la articulación coxofemoral en posición de flexión, aducción, abducción y/o rotación. | 65% |
+| 202 | De las dos articulaciones coxofemorales. | 100% |
+| 203 | De la rodilla en posición de flexión mayor de 45 grados y hasta 140 grados. | 65% |
+| 204 | De la rodilla en posición de flexión hasta 45 grados. | 40% |
+| 205 | De la rodilla en genu valgum o genu varum. | 50% |
+| 206 | Del tobillo en ángulo recto. | 15% |
+| 207 | Del tobillo en ángulo recto, con rigidez de los dedos. | 30% |
+| 208 | Del tobillo, cuando la posición es diferente a la neutra. | 55% |
+| 209 | De cualquier dedo, en extensión. | 5% |
+| 210 | De cualquier dedo, cuando la posición es diferente a la neutra. | 15% |
 
 Rigideces articulares
 
 Disminución de los movimientos por lesiones articulares, tendinosas o musculares
 
-211De la cadera, con flexión mayor a 90 grados y extensión mayor 10 grados.15 a 25%212De la cadera, con flexión menor o igual a 90 grados y extensión menor o igual 10 grados.30 a 40%213De la rodilla, que permita la extensión completa, según el ángulo de flexión.10 a 20%214De la rodilla que no permita la extensión completa o casi completa, según el ángulo de flexión.25 a 35%215Del tobillo, con flexión mayor o igual a 10 grados y extensión mayor o igual a 30 grados.5 a 10%216Del tobillo, con flexión menor a 10 grados y extensión menor a 30 grados.10 a 20%217De cualquier dedo.2%
+| 211 | De la cadera, con flexión mayor a 90 grados y extensión mayor 10 grados. | 15 a 25% |
+| --- | --- | --- |
+| 212 | De la cadera, con flexión menor o igual a 90 grados y extensión menor o igual 10 grados. | 30 a 40% |
+| 213 | De la rodilla, que permita la extensión completa, según el ángulo de flexión. | 10 a 20% |
+| 214 | De la rodilla que no permita la extensión completa o casi completa, según el ángulo de flexión. | 25 a 35% |
+| 215 | Del tobillo, con flexión mayor o igual a 10 grados y extensión mayor o igual a 30 grados. | 5 a 10% |
+| 216 | Del tobillo, con flexión menor a 10 grados y extensión menor a 30 grados. | 10 a 20% |
+| 217 | De cualquier dedo. | 2% |
 
 Pseudoartrosis
 
 Atrófica, normotrófica o hipertrófica
 
-218De la cadera, consecutiva a resecciones amplias con pérdida considerable de substancia ósea.50 a 70%219Del fémur.40 a 60%220De la rodilla con pierna en péndulo (consecutiva a resecciones de rodilla).40 a 60%221De la rótula con extensión completa y flexión menor o igual a 90 grados.15%222De la rótula con extensión incompleta y flexión mayor o igual a 90 grados.20%223De la rótula con extensión incompleta y flexión menor a 90 grados.40%224De la tibia y el peroné.40 a 60%225De la tibia sola.30 a 40%226Del peroné sólo.8 a 18%227Del primero o del último metatarsiano.8 a 15%228Del segundo, tercero o cuarto metatarsiano.5%
+| 218 | De la cadera, consecutiva a resecciones amplias con pérdida considerable de substancia ósea. | 50 a 70% |
+| --- | --- | --- |
+| 219 | Del fémur. | 40 a 60% |
+| 220 | De la rodilla con pierna en péndulo (consecutiva a resecciones de rodilla). | 40 a 60% |
+| 221 | De la rótula con extensión completa y flexión menor o igual a 90 grados. | 15% |
+| 222 | De la rótula con extensión incompleta y flexión mayor o igual a 90 grados. | 20% |
+| 223 | De la rótula con extensión incompleta y flexión menor a 90 grados. | 40% |
+| 224 | De la tibia y el peroné. | 40 a 60% |
+| 225 | De la tibia sola. | 30 a 40% |
+| 226 | Del peroné sólo. | 8 a 18% |
+| 227 | Del primero o del último metatarsiano. | 8 a 15% |
+| 228 | Del segundo, tercero o cuarto metatarsiano. | 5% |
 
 Cicatrices retráctiles que no puedan ser resueltas quirúrgicamente
 
-229De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados.30 a 50%230De la rodilla en posición de flexión de 10 grados hasta 45 grados.20 a 30%231Del hueco poplíteo, que limiten la extensión a menos de 90 grados.50 a 60%232De la planta del pie, con retracción de la punta hacia uno de sus bordes.20 a 40%
+| 229 | De la rodilla en posición de flexión mayor a 45 grados y hasta 140 grados. | 30 a 50% |
+| --- | --- | --- |
+| 230 | De la rodilla en posición de flexión de 10 grados hasta 45 grados. | 20 a 30% |
+| 231 | Del hueco poplíteo, que limiten la extensión a menos de 90 grados. | 50 a 60% |
+| 232 | De la planta del pie, con retracción de la punta hacia uno de sus bordes. | 20 a 40% |
 
 Secuelas de fracturas
 
-233De la pelvis, con dolores persistentes y dificultad moderada para la marcha y los esfuerzos.15 a 25%234De la pelvis, con acortamiento o desviación del miembro inferior con o sin rigidez de la cadera.25 a 50%235Del acetábulo, con hundimiento con o sin rigidez de la cadera.15 a 40%236De la rama horizontal del pubis, con ligeros dolores persistentes y moderada dificultad para la marcha o los esfuerzos.15 a 20%237De la rama isquiopúbica, con moderada dificultad para la marcha y los esfuerzos.15 a 20%238De la rama horizontal y de la rama isquiopúbica, con dolores persistentes, trastornos vesicales y acentuada dificultad para la marcha o los esfuerzos.40 a 60%239Del cuello del fémur y región trocantérea, con rigidez, claudicación y dolor.30 a 40%240Del cuello del fémur y región trocantérea, con acortamiento mayor a 6 centímetros, rigideces articulares y desviaciones angulares.60 a 80%241De la diáfisis femoral, con acortamiento de 1 a 4 centímetros, con o sin rigidez, con o sin atrofia muscular.8 a 15%242De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular, sin rigidez articular.15 a 30%243De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular y rigidez articular.30 a 40%244De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, atrofia muscular y rigideces articulares.30 a 50%245De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, desviación angular externa, atrofia muscular y flexión de la rodilla menor de 35 grados.50 a 70%246De los cóndilos femorales y/o tuberosidades tibiales, con rigideces articulares, desviaciones, aumento de volumen de la rodilla, y/o alteración de la marcha.30 a 50%247De la rótula, con extensión completa y flexión poco limitada.10%248De la tibia y el peroné, con acortamiento de 2 a 4 centímetros, atrofia muscular, con o sin rigidez.15 a 30%249De la tibia y el peroné, con acortamiento de más de 4 centímetros, consolidación angular, desviación de la pierna hacia fuera o hacia adentro, desviación secundaria del pie, marcha posible con o sin rigidez.35 a 50%250De la tibia y el peroné, con acortamiento de más de 4 centímetros o consolidación angular, marcha imposible, con o sin rigidez.55 a 70%251De la tibia, con dolor, atrofia muscular y rigidez articular.10 a 25%252Del peroné, con dolor, atrofia muscular con o sin rigidez.5 a 10%253Maleolares o maleolar, con desviación del pie hacia adentro y/o con atrofia muscular y rigidez articular.25 a 40%254Maleolares o maleolar, con desviación del pie hacia afuera y/o con atrofia muscular y rigidez articular.25 a 40%255Del tarso, con pie plano postraumático doloroso con o sin rigidez.15 a 20%256Del tarso, con desviación del pie hacia adentro o hacia afuera.20 a 30%257Del tarso, con deformación considerable, inmovilidad de los dedos y atrofia de la pierna.30 a 50%258Del metatarso, con dolor, desviaciones o impotencia funcional.10 a 20%
+| 233 | De la pelvis, con dolores persistentes y dificultad moderada para la marcha y los esfuerzos. | 15 a 25% |
+| --- | --- | --- |
+| 234 | De la pelvis, con acortamiento o desviación del miembro inferior con o sin rigidez de la cadera. | 25 a 50% |
+| 235 | Del acetábulo, con hundimiento con o sin rigidez de la cadera. | 15 a 40% |
+| 236 | De la rama horizontal del pubis, con ligeros dolores persistentes y moderada dificultad para la marcha o los esfuerzos. | 15 a 20% |
+| 237 | De la rama isquiopúbica, con moderada dificultad para la marcha y los esfuerzos. | 15 a 20% |
+| 238 | De la rama horizontal y de la rama isquiopúbica, con dolores persistentes, trastornos vesicales y acentuada dificultad para la marcha o los esfuerzos. | 40 a 60% |
+| 239 | Del cuello del fémur y región trocantérea, con rigidez, claudicación y dolor. | 30 a 40% |
+| 240 | Del cuello del fémur y región trocantérea, con acortamiento mayor a 6 centímetros, rigideces articulares y desviaciones angulares. | 60 a 80% |
+| 241 | De la diáfisis femoral, con acortamiento de 1 a 4 centímetros, con o sin rigidez, con o sin atrofia muscular. | 8 a 15% |
+| 242 | De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular, sin rigidez articular. | 15 a 30% |
+| 243 | De la diáfisis femoral, con acortamiento de 3 a 6 centímetros, atrofia muscular y rigidez articular. | 30 a 40% |
+| 244 | De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, atrofia muscular y rigideces articulares. | 30 a 50% |
+| 245 | De la diáfisis femoral, con acortamiento de 6 a 12 centímetros, desviación angular externa, atrofia muscular y flexión de la rodilla menor de 35 grados. | 50 a 70% |
+| 246 | De los cóndilos femorales y/o tuberosidades tibiales, con rigideces articulares, desviaciones, aumento de volumen de la rodilla, y/o alteración de la marcha. | 30 a 50% |
+| 247 | De la rótula, con extensión completa y flexión poco limitada. | 10% |
+| 248 | De la tibia y el peroné, con acortamiento de 2 a 4 centímetros, atrofia muscular, con o sin rigidez. | 15 a 30% |
+| 249 | De la tibia y el peroné, con acortamiento de más de 4 centímetros, consolidación angular, desviación de la pierna hacia fuera o hacia adentro, desviación secundaria del pie, marcha posible con o sin rigidez. | 35 a 50% |
+| 250 | De la tibia y el peroné, con acortamiento de más de 4 centímetros o consolidación angular, marcha imposible, con o sin rigidez. | 55 a 70% |
+| 251 | De la tibia, con dolor, atrofia muscular y rigidez articular. | 10 a 25% |
+| 252 | Del peroné, con dolor, atrofia muscular con o sin rigidez. | 5 a 10% |
+| 253 | Maleolares o maleolar, con desviación del pie hacia adentro y/o con atrofia muscular y rigidez articular. | 25 a 40% |
+| 254 | Maleolares o maleolar, con desviación del pie hacia afuera y/o con atrofia muscular y rigidez articular. | 25 a 40% |
+| 255 | Del tarso, con pie plano postraumático doloroso con o sin rigidez. | 15 a 20% |
+| 256 | Del tarso, con desviación del pie hacia adentro o hacia afuera. | 20 a 30% |
+| 257 | Del tarso, con deformación considerable, inmovilidad de los dedos y atrofia de la pierna. | 30 a 50% |
+| 258 | Del metatarso, con dolor, desviaciones o impotencia funcional. | 10 a 20% |
 
 Parálisis completas o incompletas (paresias) por lesiones de nervios periféricos
 
-259Parálisis total del miembro inferior.70%260Parálisis del nervio ciático mayor.60%261Parálisis del ciático poplíteo externo o peroneo.35%262Parálisis del ciático poplíteo interno o tibial.30%263Parálisis combinada del ciático poplíteo interno y del ciático poplíteo externo.40%264Parálisis del nervio crural o femoral.50%265En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del cien por ciento.--266En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional. El valor máximo otorgado no podrá ser superior al valor mínimo que se otorga por parálisis.--267Con síndrome de dolor regional complejo sacroilíaco.35 a 40%268Con síndrome de dolor regional complejo de cadera.25 a 35%269Con síndrome de dolor regional complejo de rodilla.20 a 30%270Con síndrome de dolor regional complejo de pie.10 a 20%
+| 259 | Parálisis total del miembro inferior. | 70% |
+| --- | --- | --- |
+| 260 | Parálisis del nervio ciático mayor. | 60% |
+| 261 | Parálisis del ciático poplíteo externo o peroneo. | 35% |
+| 262 | Parálisis del ciático poplíteo interno o tibial. | 30% |
+| 263 | Parálisis combinada del ciático poplíteo interno y del ciático poplíteo externo. | 40% |
+| 264 | Parálisis del nervio crural o femoral. | 50% |
+| 265 | En caso de parálisis combinadas por lesiones de los nervios antes mencionados en ambos miembros, se sumarán los porcentajes correspondientes a cada uno, sin que en ningún caso las incapacidades sumadas pasen del cien por ciento. | -- |
+| 266 | En caso de parálisis incompleta o parcial (paresias), los porcentajes serán reducidos proporcionalmente de acuerdo con el grado de impotencia funcional. El valor máximo otorgado no podrá ser superior al valor mínimo que se otorga por parálisis. | -- |
+| 267 | Con síndrome de dolor regional complejo sacroilíaco. | 35 a 40% |
+| 268 | Con síndrome de dolor regional complejo de cadera. | 25 a 35% |
+| 269 | Con síndrome de dolor regional complejo de rodilla. | 20 a 30% |
+| 270 | Con síndrome de dolor regional complejo de pie. | 10 a 20% |
 
 Luxaciones que no puedan ser resueltas quirúrgicamente
 
-271Del pubis, irreductible o inveterada, o relajación extensa de la sínfisis.25 a 40%
+| 271 | Del pubis, irreductible o inveterada, o relajación extensa de la sínfisis. | 25 a 40% |
+| --- | --- | --- |
 
 Músculos
 
-272Amiotrofia mayor o igual a un centímetro del muslo, sin anquilosis ni rigidez articular.30%273Amiotrofia mayor o igual a un centímetro del lóculo anterior del muslo, sin anquilosis ni rigidez articular.20%274Amiotrofia mayor o igual a un centímetro de la pierna, sin anquilosis ni rigidez articular.30%275Amiotrofia mayor o igual a un centímetro del lóculo antero-externo de la pierna, sin anquilosis ni rigidez articular.15%276Amiotrofia total mayor o igual a un centímetro del miembro inferior.40%
+| 272 | Amiotrofia mayor o igual a un centímetro del muslo, sin anquilosis ni rigidez articular. | 30% |
+| --- | --- | --- |
+| 273 | Amiotrofia mayor o igual a un centímetro del lóculo anterior del muslo, sin anquilosis ni rigidez articular. | 20% |
+| 274 | Amiotrofia mayor o igual a un centímetro de la pierna, sin anquilosis ni rigidez articular. | 30% |
+| 275 | Amiotrofia mayor o igual a un centímetro del lóculo antero-externo de la pierna, sin anquilosis ni rigidez articular. | 15% |
+| 276 | Amiotrofia total mayor o igual a un centímetro del miembro inferior. | 40% |
 
 Vasos
 
-277Las secuelas de lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, entre otros).--278Tromboflebitis crónica.15 a 25%279Úlceras varicosas recidivantes con escasa respuesta a tratamiento, según su extensión.8 a 20%280Varices con edema crónico, cambios tróficos de piel, no controlables y no susceptibles de tratamiento médico quirúrgico.8 a 20%281En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento.--
+| 277 | Las secuelas de lesiones arteriales y venosas se valuarán de acuerdo con la magnitud de las alteraciones orgánicas y los trastornos funcionales que produzcan (amputaciones, rigideces articulares, lesiones de los nervios periféricos, atrofia de masas musculares, entre otros). | -- |
+| --- | --- | --- |
+| 278 | Tromboflebitis crónica. | 15 a 25% |
+| 279 | Úlceras varicosas recidivantes con escasa respuesta a tratamiento, según su extensión. | 8 a 20% |
+| 280 | Varices con edema crónico, cambios tróficos de piel, no controlables y no susceptibles de tratamiento médico quirúrgico. | 8 a 20% |
+| 281 | En caso de lesiones bilaterales se sumarán los porcentajes correspondientes a cada miembro, sin que en ningún caso sobrepasen del cien por ciento. | -- |
 
 Cabeza
 
 Cráneo
 
-282Los trastornos mentales orgánicos y afectivos se valuarán conforme a la Tabla XV.--283El síndrome cráneo-encefálico tardío postconmocional, se valuará conforme a la Tabla XV, independientemente del daño colateral, que se valuará con la fracción que corresponda.--284Avulsión o pérdida mayor a 10 centímetros de la piel cabelluda.20 a 35%285Pérdida ósea del cráneo hasta de 5 centímetros de diámetro, con o sin prótesis.10 a 20%286Pérdida ósea del cráneo mayor a 5 centímetros de diámetro, con o sin prótesis.20 a 30%287Epilepsia traumática no curable quirúrgicamente, cuando las crisis puedan ser controladas médicamente y permitan desempeñar algún trabajo.50 a 70%288Por epilepsia traumática no curable quirúrgicamente, cuando las crisis no puedan ser controladas médicamente y no permitan el desempeño de ningún trabajo.100%289Por epilepsia no traumática, no curable quirúrgicamente, cuando las crisis puedan ser controladas médicamente y permitan desempeñar algún trabajo.50 a 70%290Por epilepsia no traumática, no curable quirúrgicamente, cuando las crisis no puedan ser controladas médicamente y no permitan el desempeño de ningún trabajo.100%291Epilepsia jacksoniana.10 a 25%292Disosmia o anosmia por lesión del nervio olfativo.5%293Disgeusia o ageusia.10%294Por lesión del nervio trigémino.15 a 30%295Por lesión del nervio facial.15 a 30%296Por lesión del neumogástrico o vago (según el grado de trastornos funcionales comprobados).10 a 50%297Por lesión del nervio espinal.10 a 40%298Por lesión del nervio hipogloso, cuando es unilateral.15%299Por lesión del nervio hipogloso, bilateral.60%300Monoplejia superior.70%301Monoparesia superior.20 a 40%302Monoplejia inferior, marcha espasmódica.40 a 70%303Monoparesia inferior, marcha posible.20 a 40%304Paraplejia.100%305Paraparesia, marcha posible.50 a 70%306Paraparesia, marcha imposible.70 a 90%307Hemiplejia.70 a 90%308Hemiparesia.20 a 60%309Cuadriplejia.100%310Cuadriparesia.50 a 70%311Diabetes azucarada o insípida.10 a 40%312Afasia discreta.20 a 30%313Afasia acentuada, aislada.40 a 80%314Afasia con hemiplejia.100%315Agrafia.20 a 30%
+| 282 | Los trastornos mentales orgánicos y afectivos se valuarán conforme a la Tabla XV. | -- |
+| --- | --- | --- |
+| 283 | El síndrome cráneo-encefálico tardío postconmocional, se valuará conforme a la Tabla XV, independientemente del daño colateral, que se valuará con la fracción que corresponda. | -- |
+| 284 | Avulsión o pérdida mayor a 10 centímetros de la piel cabelluda. | 20 a 35% |
+| 285 | Pérdida ósea del cráneo hasta de 5 centímetros de diámetro, con o sin prótesis. | 10 a 20% |
+| 286 | Pérdida ósea del cráneo mayor a 5 centímetros de diámetro, con o sin prótesis. | 20 a 30% |
+| 287 | Epilepsia traumática no curable quirúrgicamente, cuando las crisis puedan ser controladas médicamente y permitan desempeñar algún trabajo. | 50 a 70% |
+| 288 | Por epilepsia traumática no curable quirúrgicamente, cuando las crisis no puedan ser controladas médicamente y no permitan el desempeño de ningún trabajo. | 100% |
+| 289 | Por epilepsia no traumática, no curable quirúrgicamente, cuando las crisis puedan ser controladas médicamente y permitan desempeñar algún trabajo. | 50 a 70% |
+| 290 | Por epilepsia no traumática, no curable quirúrgicamente, cuando las crisis no puedan ser controladas médicamente y no permitan el desempeño de ningún trabajo. | 100% |
+| 291 | Epilepsia jacksoniana. | 10 a 25% |
+| 292 | Disosmia o anosmia por lesión del nervio olfativo. | 5% |
+| 293 | Disgeusia o ageusia. | 10% |
+| 294 | Por lesión del nervio trigémino. | 15 a 30% |
+| 295 | Por lesión del nervio facial. | 15 a 30% |
+| 296 | Por lesión del neumogástrico o vago (según el grado de trastornos funcionales comprobados). | 10 a 50% |
+| 297 | Por lesión del nervio espinal. | 10 a 40% |
+| 298 | Por lesión del nervio hipogloso, cuando es unilateral. | 15% |
+| 299 | Por lesión del nervio hipogloso, bilateral. | 60% |
+| 300 | Monoplejia superior. | 70% |
+| 301 | Monoparesia superior. | 20 a 40% |
+| 302 | Monoplejia inferior, marcha espasmódica. | 40 a 70% |
+| 303 | Monoparesia inferior, marcha posible. | 20 a 40% |
+| 304 | Paraplejia. | 100% |
+| 305 | Paraparesia, marcha posible. | 50 a 70% |
+| 306 | Paraparesia, marcha imposible. | 70 a 90% |
+| 307 | Hemiplejia. | 70 a 90% |
+| 308 | Hemiparesia. | 20 a 60% |
+| 309 | Cuadriplejia. | 100% |
+| 310 | Cuadriparesia. | 50 a 70% |
+| 311 | Diabetes azucarada o insípida. | 10 a 40% |
+| 312 | Afasia discreta. | 20 a 30% |
+| 313 | Afasia acentuada, aislada. | 40 a 80% |
+| 314 | Afasia con hemiplejia. | 100% |
+| 315 | Agrafia. | 20 a 30% |
 
 Cara
 
-316Mutilaciones extensas, cuando comprendan los dos maxilares superiores y la nariz, según la pérdida de substancia de las partes blandas.90 a 100%317Mutilaciones que comprendan el maxilar y la mandíbula.90 a 100%318Mutilación de la rama horizontal de la mandíbula sin prótesis posible, o del maxilar en su totalidad.60 a 80%319Pseudoartrosis del maxilar con masticación imposible.50 a 60%320Pseudoartrosis del maxilar con masticación posible, pero limitada.20 a 30%321Pseudoartrosis del maxilar con masticación posible, en caso de prótesis con mejoría comprobada de la masticación.5 a 15%322Pérdidas de substancia en la bóveda palatina, no resueltas quirúrgicamente, según el sitio y la extensión.15 a 35%323Pérdidas de substancia en la bóveda palatina, en caso de prótesis con mejoría funcional comprobada.5 a 10%324Pseudoartrosis de la rama ascendente de la mandíbula, con masticación posible.5 a 10%325Pseudoartrosis de la rama ascendente de la mandíbula con masticación imposible.15 a 25%326Pseudoartrosis de la rama horizontal de la mandíbula con masticación posible.10 a 20%327Pseudoartrosis de la rama horizontal de la mandíbula con masticación imposible.25 a 35%328Pseudoartrosis de la sínfisis.25 a 30%329Pseudoartrosis de la sínfisis con masticación imposible.25 a 40%330Pseudoartrosis de la mandíbula. En caso de prótesis con mejoría funcional comprobada.5 a 20%331Pseudoartrosis de la mandíbula con o sin pérdida de substancia, no resuelta quirúrgicamente, con masticación insuficiente o abolida.50 a 60%332Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios y limiten la masticación, cuando la apertura oral sea menos a 4 centímetros.20 a 30%333Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios, cuando la apertura oral sea mayor o igual a 4 centímetros.5 a 15%334Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios, cuando con un aparato protésico se corrija la masticación.5 a 10%335Pérdida de uno o varios dientes: reposición.--336Pérdida total de la dentadura, prótesis no tolerada.30%337Pérdida total de la dentadura, prótesis tolerada.15%338Pérdida completa de un arco dentario, prótesis no tolerada.20%339Pérdida completa de un arco dentario, prótesis tolerada.10%340Pérdida de la mitad de un arco dentario, prótesis no tolerada.15%341Pérdida de la mitad de un arco dentario, prótesis tolerada.5%342Bridas cicatrizales que limiten la abertura de la boca, impidiendo la higiene bucal, la pronunciación, la masticación o dejen escurrir la saliva.20 a 50%343Luxación irreductible de la articulación temporomandibular, según el grado de entorpecimiento funcional.20 a 35%344Amputaciones o mutilaciones de la lengua, según el entorpecimiento de la palabra y de la deglución.20 a 40%345Fístula salival no resuelta quirúrgicamente.10 a 20%
+| 316 | Mutilaciones extensas, cuando comprendan los dos maxilares superiores y la nariz, según la pérdida de substancia de las partes blandas. | 90 a 100% |
+| --- | --- | --- |
+| 317 | Mutilaciones que comprendan el maxilar y la mandíbula. | 90 a 100% |
+| 318 | Mutilación de la rama horizontal de la mandíbula sin prótesis posible, o del maxilar en su totalidad. | 60 a 80% |
+| 319 | Pseudoartrosis del maxilar con masticación imposible. | 50 a 60% |
+| 320 | Pseudoartrosis del maxilar con masticación posible, pero limitada. | 20 a 30% |
+| 321 | Pseudoartrosis del maxilar con masticación posible, en caso de prótesis con mejoría comprobada de la masticación. | 5 a 15% |
+| 322 | Pérdidas de substancia en la bóveda palatina, no resueltas quirúrgicamente, según el sitio y la extensión. | 15 a 35% |
+| 323 | Pérdidas de substancia en la bóveda palatina, en caso de prótesis con mejoría funcional comprobada. | 5 a 10% |
+| 324 | Pseudoartrosis de la rama ascendente de la mandíbula, con masticación posible. | 5 a 10% |
+| 325 | Pseudoartrosis de la rama ascendente de la mandíbula con masticación imposible. | 15 a 25% |
+| 326 | Pseudoartrosis de la rama horizontal de la mandíbula con masticación posible. | 10 a 20% |
+| 327 | Pseudoartrosis de la rama horizontal de la mandíbula con masticación imposible. | 25 a 35% |
+| 328 | Pseudoartrosis de la sínfisis. | 25 a 30% |
+| 329 | Pseudoartrosis de la sínfisis con masticación imposible. | 25 a 40% |
+| 330 | Pseudoartrosis de la mandíbula. En caso de prótesis con mejoría funcional comprobada. | 5 a 20% |
+| 331 | Pseudoartrosis de la mandíbula con o sin pérdida de substancia, no resuelta quirúrgicamente, con masticación insuficiente o abolida. | 50 a 60% |
+| 332 | Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios y limiten la masticación, cuando la apertura oral sea menos a 4 centímetros. | 20 a 30% |
+| 333 | Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios, cuando la apertura oral sea mayor o igual a 4 centímetros. | 5 a 15% |
+| 334 | Consolidaciones defectuosas de la mandíbula y maxilar, que dificulten la articulación de los arcos dentarios, cuando con un aparato protésico se corrija la masticación. | 5 a 10% |
+| 335 | Pérdida de uno o varios dientes: reposición. | -- |
+| 336 | Pérdida total de la dentadura, prótesis no tolerada. | 30% |
+| 337 | Pérdida total de la dentadura, prótesis tolerada. | 15% |
+| 338 | Pérdida completa de un arco dentario, prótesis no tolerada. | 20% |
+| 339 | Pérdida completa de un arco dentario, prótesis tolerada. | 10% |
+| 340 | Pérdida de la mitad de un arco dentario, prótesis no tolerada. | 15% |
+| 341 | Pérdida de la mitad de un arco dentario, prótesis tolerada. | 5% |
+| 342 | Bridas cicatrizales que limiten la abertura de la boca, impidiendo la higiene bucal, la pronunciación, la masticación o dejen escurrir la saliva. | 20 a 50% |
+| 343 | Luxación irreductible de la articulación temporomandibular, según el grado de entorpecimiento funcional. | 20 a 35% |
+| 344 | Amputaciones o mutilaciones de la lengua, según el entorpecimiento de la palabra y de la deglución. | 20 a 40% |
+| 345 | Fístula salival no resuelta quirúrgicamente. | 10 a 20% |
 
 Ojos
 
-346Ceguera total, con conservación o pérdida de los globos oculares.100%347Pérdida o disminución permanente (cuando ya no puede ser mejorada con anteojos) de la agudeza visual (visión restante con corrección óptica). Véase Tabla I.--
+| 346 | Ceguera total, con conservación o pérdida de los globos oculares. | 100% |
+| --- | --- | --- |
+| 347 | Pérdida o disminución permanente (cuando ya no puede ser mejorada con anteojos) de la agudeza visual (visión restante con corrección óptica). Véase Tabla I. | -- |
 
 En los casos de pérdida o disminución de la agudeza visual en un solo ojo, estando el otro sano, debajo de la primera línea horizontal, en la que están señalados los diversos grados indemnizables de pérdida o disminución, aparecen inscritos los porcentajes de incapacidad correspondientes a cada grado (segunda línea horizontal).
 
@@ -8524,95 +8871,200 @@ En los casos de pérdida o disminución bilateral de la agudeza visual, a consec
 
 Tabla I
 
-Pérdida o disminución permanente de la agudeza visualA.V.1 a 0.80.70.60.50.40.30.20.10.050.E.c/p *E.p/i. **1 a 0.80%6%9%12%15%20%30%35%40%45%50%60%0.76%13161922273742475257670.69%16192225304045505562720.512%19222528334350556067770.415%22252831405060657075820.320%27303340506070758085900.230%37404350607077859095980.135%4245506070779095981001000.0540%4750556575859598100100100045%52556070809098100100100100E.c/p *50%576267758595100100100100100E.p/i **60%677277829098100100100100100* Enucleación con prótesis.
+| Pérdida o disminución permanente de la agudeza visual |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A.V. | 1 a 0.8 | 0.7 | 0.6 | 0.5 | 0.4 | 0.3 | 0.2 | 0.1 | 0.05 | 0. | E.c/p * | E.p/i. ** |
+| 1 a 0.8 | 0% | 6% | 9% | 12% | 15% | 20% | 30% | 35% | 40% | 45% | 50% | 60% |
+| 0.7 | 6% | 13 | 16 | 19 | 22 | 27 | 37 | 42 | 47 | 52 | 57 | 67 |
+| 0.6 | 9% | 16 | 19 | 22 | 25 | 30 | 40 | 45 | 50 | 55 | 62 | 72 |
+| 0.5 | 12% | 19 | 22 | 25 | 28 | 33 | 43 | 50 | 55 | 60 | 67 | 77 |
+| 0.4 | 15% | 22 | 25 | 28 | 31 | 40 | 50 | 60 | 65 | 70 | 75 | 82 |
+| 0.3 | 20% | 27 | 30 | 33 | 40 | 50 | 60 | 70 | 75 | 80 | 85 | 90 |
+| 0.2 | 30% | 37 | 40 | 43 | 50 | 60 | 70 | 77 | 85 | 90 | 95 | 98 |
+| 0.1 | 35% | 42 | 45 | 50 | 60 | 70 | 77 | 90 | 95 | 98 | 100 | 100 |
+| 0.05 | 40% | 47 | 50 | 55 | 65 | 75 | 85 | 95 | 98 | 100 | 100 | 100 |
+| 0 | 45% | 52 | 55 | 60 | 70 | 80 | 90 | 98 | 100 | 100 | 100 | 100 |
+| E.c/p * | 50% | 57 | 62 | 67 | 75 | 85 | 95 | 100 | 100 | 100 | 100 | 100 |
+| E.p/i ** | 60% | 67 | 72 | 77 | 82 | 90 | 98 | 100 | 100 | 100 | 100 | 100 |
+| * Enucleación con prótesis. |   |   |   |   |   |   |   |   |   |   |   |   |
 
 ** Enucleación, prótesis imposible.
 
-348Pérdida o disminución permanente de la agudeza visual en sujetos monóculos. Ceguera o visión inferior a 0.05 en el ojo contralateral (visión restante con corrección óptica). Ver Tabla II.
+| 348 | Pérdida o disminución permanente de la agudeza visual en sujetos monóculos. Ceguera o visión inferior a 0.05 en el ojo contralateral (visión restante con corrección óptica). Ver Tabla II. |
+| --- | --- |
 
 Tabla II
 
-Pérdida o disminución permanente de la agudeza visual en sujetos monóculosAgudeza visualIncapacidades en persona trabajadoras
+| Pérdida o disminución permanente de la agudeza visual en sujetos monóculos |   |
+| --- | --- |
+| Agudeza visual | Incapacidades en persona trabajadoras |
 
-349Al aceptarse en servicio a las personas trabajadoras, se considerará para reclamaciones posteriores por pérdida de la agudeza visual, que tienen la unidad, aunque tuvieran 0. 8 (8 décimos en cada ojo).
+| 349 | Al aceptarse en servicio a las personas trabajadoras, se considerará para reclamaciones posteriores por pérdida de la agudeza visual, que tienen la unidad, aunque tuvieran 0. 8 (8 décimos en cada ojo). |
+| --- | --- |
 
 Disminución del campo visual uni o bilateral con agudeza visual normal o disminuida aplicando los artículos siguientes:
 
 Deficiencia visual por déficit del campo visual binocular
 
-350Cuadrantanopsia homónima (derecha o izquierda).26%351Cuadrantanopsia bitemporal.26%
+| 350 | Cuadrantanopsia homónima (derecha o izquierda). | 26% |
+| --- | --- | --- |
+| 351 | Cuadrantanopsia bitemporal. | 26% |
 
 Deficiencia visual por déficit concéntrico del campo visual unilocular
 
-352Pérdida total o parcial de un cuadrante.13%353Pérdida total o parcial de dos cuadrantes.26%354Pérdida total o parcial de tres cuadrantes.40%355Pérdida total o parcial de los cuatro cuadrantes.50%356Los escotomas se valuarán según la determinación de pérdida del campo visual, aplicando las fracciones anteriores.
+| 352 | Pérdida total o parcial de un cuadrante. | 13% |
+| --- | --- | --- |
+| 353 | Pérdida total o parcial de dos cuadrantes. | 26% |
+| 354 | Pérdida total o parcial de tres cuadrantes. | 40% |
+| 355 | Pérdida total o parcial de los cuatro cuadrantes. | 50% |
+| 356 | Los escotomas se valuarán según la determinación de pérdida del campo visual, aplicando las fracciones anteriores. |   |
 
 Deficiencia visual por déficit concéntrico del campo visual
 
-357Nictalopía adquirida.30%358Estrechamiento del campo visual, con conservación de 30 grados o más, en un solo ojo.10 a 15%359Estrechamiento del campo visual, con conservación de 30 grados o más, en ambos ojos.20 a 30%360Estrechamiento del campo visual, con conservación de menos de 30 grados en un solo ojo.30 a 50%361Estrechamiento del campo visual, con conservación de menos de 30 grados, en ambos ojos.30 a 100%
+| 357 | Nictalopía adquirida. | 30% |
+| --- | --- | --- |
+| 358 | Estrechamiento del campo visual, con conservación de 30 grados o más, en un solo ojo. | 10 a 15% |
+| 359 | Estrechamiento del campo visual, con conservación de 30 grados o más, en ambos ojos. | 20 a 30% |
+| 360 | Estrechamiento del campo visual, con conservación de menos de 30 grados en un solo ojo. | 30 a 50% |
+| 361 | Estrechamiento del campo visual, con conservación de menos de 30 grados, en ambos ojos. | 30 a 100% |
 
 Hemianopsias verticales
 
-362Homónimas, derecha o izquierda.40 a 50%363Heterónimas binasales.40 a 50%364Heterónimas bitemporales.50 a 60%
+| 362 | Homónimas, derecha o izquierda. | 40 a 50% |
+| --- | --- | --- |
+| 363 | Heterónimas binasales. | 40 a 50% |
+| 364 | Heterónimas bitemporales. | 50 a 60% |
 
 Hemianopsias horizontales
 
-365Superiores.10 a 15%366Inferiores.30 a 50%
+| 365 | Superiores. | 10 a 15% |
+| --- | --- | --- |
+| 366 | Inferiores. | 30 a 50% |
 
 Hemianopsia en sujetos monóculos (visión conservada en un ojo y abolida o menor a 0.05 en el contralateral), con visión central
 
-367Nasal.60 a 70%368Inferior.70 a 80%369Temporal.80 a 90%370En los casos de hemianopsia con pérdida de la visión central uni o bilateral se agregará al porcentaje de valuación correspondiente a la hemianopsia, el relativo a la visión restante, observándose lo dispuesto en el artículo 494 de la Ley Federal del Trabajo.--
+| 367 | Nasal. | 60 a 70% |
+| --- | --- | --- |
+| 368 | Inferior. | 70 a 80% |
+| 369 | Temporal. | 80 a 90% |
+| 370 | En los casos de hemianopsia con pérdida de la visión central uni o bilateral se agregará al porcentaje de valuación correspondiente a la hemianopsia, el relativo a la visión restante, observándose lo dispuesto en el artículo 494 de la Ley Federal del Trabajo. | -- |
 
 Trastornos de la movilidad ocular
 
-371Estrabismo por lesión muscular o alteración nerviosa correspondiente, sin diplopía.10%
+| 371 | Estrabismo por lesión muscular o alteración nerviosa correspondiente, sin diplopía. | 10% |
+| --- | --- | --- |
 
 Diplopía uni o bilateral (no susceptibles de corrección)
 
-372Horizontal.30%373Vertical.30%374Oblicua.30%375En cualquiera de las anteriores cuando se encuentre afectada la posición primaria de la mirada (central) se agregará un 20%, y cuando esté afectada la mirada en la parte inferior del campo se agregará un 10%.--376Diplopía, acompañada o no de ptosis palpebral, con o sin oftalmoplejía interna, que amerita la oclusión de un ojo.50%377Diplopía, por lesión nerviosa bilateral que limita los movimientos de ambos ojos y reduce el campo visual por la desviación, originando desviación de cabeza para fijar, además de la oclusión de un ojo.60%
+| 372 | Horizontal. | 30% |
+| --- | --- | --- |
+| 373 | Vertical. | 30% |
+| 374 | Oblicua. | 30% |
+| 375 | En cualquiera de las anteriores cuando se encuentre afectada la posición primaria de la mirada (central) se agregará un 20%, y cuando esté afectada la mirada en la parte inferior del campo se agregará un 10%. | -- |
+| 376 | Diplopía, acompañada o no de ptosis palpebral, con o sin oftalmoplejía interna, que amerita la oclusión de un ojo. | 50% |
+| 377 | Diplopía, por lesión nerviosa bilateral que limita los movimientos de ambos ojos y reduce el campo visual por la desviación, originando desviación de cabeza para fijar, además de la oclusión de un ojo. | 60% |
 
 Discromatopsias
 
-378Discromatopsia adquirida unilateral.15%379Discromatopsia adquirida bilateral.30%
+| 378 | Discromatopsia adquirida unilateral. | 15% |
+| --- | --- | --- |
+| 379 | Discromatopsia adquirida bilateral. | 30% |
 
 Otras lesiones
 
-380Afaquia unilateral corregible con lente de contacto o intraocular.10%381Afaquia bilateral corregible con lentes de contacto o intraoculares.20%382En las dos fracciones anteriores se les agregará la incapacidad que corresponda de acuerdo con la disminución de la agudeza visual no corregible, sin que la suma sobrepase el 100%, conforme a las estipulaciones del artículo 494 de la Ley Federal del Trabajo.--383Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en un ojo.10%384Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en ambos ojos.20%
+| 380 | Afaquia unilateral corregible con lente de contacto o intraocular. | 10% |
+| --- | --- | --- |
+| 381 | Afaquia bilateral corregible con lentes de contacto o intraoculares. | 20% |
+| 382 | En las dos fracciones anteriores se les agregará la incapacidad que corresponda de acuerdo con la disminución de la agudeza visual no corregible, sin que la suma sobrepase el 100%, conforme a las estipulaciones del artículo 494 de la Ley Federal del Trabajo. | -- |
+| 383 | Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en un ojo. | 10% |
+| 384 | Midriasis, iridodiálisis o iridectomía en sector, cuando ocasionan trastornos funcionales, en ambos ojos. | 20% |
 
 Ptosis palpebral o blefaroespasmo unilaterales, no resueltos quirúrgicamente, cuando cubren el área pupilar
 
-385Ptosis palpebral, pupila descubierta.10%386Ptosis palpebral en forma mínima, con elevación del párpado superior de 7 a 9 mm.15%387Ptosis palpebral, en forma moderada, con elevación del párpado superior de 1 a 6 mm.20%388Ptosis palpebral, en forma severa, sin elevación del párpado superior.30%389A esta incapacidad se le deberá sumar la disminución de la agudeza visual sin que exceda del 100%.--
+| 385 | Ptosis palpebral, pupila descubierta. | 10% |
+| --- | --- | --- |
+| 386 | Ptosis palpebral en forma mínima, con elevación del párpado superior de 7 a 9 mm. | 15% |
+| 387 | Ptosis palpebral, en forma moderada, con elevación del párpado superior de 1 a 6 mm. | 20% |
+| 388 | Ptosis palpebral, en forma severa, sin elevación del párpado superior. | 30% |
+| 389 | A esta incapacidad se le deberá sumar la disminución de la agudeza visual sin que exceda del 100%. | -- |
 
 Ptosis palpebral o blefaroespasmo bilateral no resuelto quirúrgicamente, cuando cubren el área pupilar
 
-390Ptosis palpebral, pupilas descubiertas.20%391Ptosis palpebral, en forma mínima con elevación del párpado superior de 7 a 9 mm.30%392Ptosis palpebral, en forma moderada con elevación del párpado superior de 1 a 6 mm.40%393Ptosis palpebral, en forma severa, sin elevación del párpado superior.60%394A esta incapacidad se le deberá sumar la disminución de la agudeza visual sin que exceda del 100%.--
+| 390 | Ptosis palpebral, pupilas descubiertas. | 20% |
+| --- | --- | --- |
+| 391 | Ptosis palpebral, en forma mínima con elevación del párpado superior de 7 a 9 mm. | 30% |
+| 392 | Ptosis palpebral, en forma moderada con elevación del párpado superior de 1 a 6 mm. | 40% |
+| 393 | Ptosis palpebral, en forma severa, sin elevación del párpado superior. | 60% |
+| 394 | A esta incapacidad se le deberá sumar la disminución de la agudeza visual sin que exceda del 100%. | -- |
 
 Incapacidades que se basan en el grado de la visión, según en qué posición primaria (mirada horizontal de frente). La pupila está más o menos descubierta
 
-395Desviación de los bordes palpebrales (entropión, ectropión, triquiasis, cicatrices deformantes, simblefarón y anquilobléfaron) unilateral.15%396Bilateral.25%
+| 395 | Desviación de los bordes palpebrales (entropión, ectropión, triquiasis, cicatrices deformantes, simblefarón y anquilobléfaron) unilateral. | 15% |
+| --- | --- | --- |
+| 396 | Bilateral. | 25% |
 
 Alteraciones de las vías lagrimales
 
-397Lagoftalmos cicatrizal o paralítico unilateral.15%398Lagoftalmos cicatrizal o paralítico bilateral.25%399Epifora unilateral.10%400Epifora bilateral.20%401Fístula(s) lagrimal unilateral.20%402Fístula(s) lagrimal bilateral.30%
+| 397 | Lagoftalmos cicatrizal o paralítico unilateral. | 15% |
+| --- | --- | --- |
+| 398 | Lagoftalmos cicatrizal o paralítico bilateral. | 25% |
+| 399 | Epifora unilateral. | 10% |
+| 400 | Epifora bilateral. | 20% |
+| 401 | Fístula(s) lagrimal unilateral. | 20% |
+| 402 | Fístula(s) lagrimal bilateral. | 30% |
 
 Nariz
 
-403Mutilación parcial de la nariz, sin estenosis, no corregida plásticamente.20%404Pérdida de la nariz sin estenosis, no reparada plásticamente.40%405Cuando haya sido reparada plásticamente.15 a 20%406Cuando la nariz quede reducida a muñón cicatrizal, con estenosis.30 a 50%
+| 403 | Mutilación parcial de la nariz, sin estenosis, no corregida plásticamente. | 20% |
+| --- | --- | --- |
+| 404 | Pérdida de la nariz sin estenosis, no reparada plásticamente. | 40% |
+| 405 | Cuando haya sido reparada plásticamente. | 15 a 20% |
+| 406 | Cuando la nariz quede reducida a muñón cicatrizal, con estenosis. | 30 a 50% |
 
 Oídos
 
-407Pérdida o deformación total del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo.10%408Pérdida o deformación parcial del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo.7%409Pérdida o deformación total del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo.20%410Pérdida o deformación parcial del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo.15%411Pérdida o deformación total del pabellón auricular, unilateral, con estenosis del conducto auditivo externo.15%412Pérdida o deformación parcial del pabellón auricular, unilateral, con estenosis del conducto auditivo externo.12%413Pérdida o deformación total del pabellón auricular bilateral, con estenosis del conducto auditivo externo.30%414Pérdida o deformación parcial del pabellón auricular bilateral, con estenosis del conducto auditivo externo.25%415Obliteración total del conducto auditivo externo unilateral.20%416Obliteración total del conducto auditivo externo bilateral.40%417Pérdida de la membrana timpánica unilateral (subtotal o total), con injerto funcional.5%418Pérdida de la membrana timpánica bilateral (subtotal o total), con injerto funcional.10%419Pérdida de la membrana timpánica unilateral (subtotal o total), con injerto no funcional o sin posibilidad quirúrgica.20%420Pérdida de la membrana timpánica bilateral (subtotal o total), con injerto no funcional o sin posibilidad quirúrgica.40%421Alteraciones anatómicas irreversibles de las estructuras de oído medio y de la cadena osicular; unilateral.
+| 407 | Pérdida o deformación total del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo. | 10% |
+| --- | --- | --- |
+| 408 | Pérdida o deformación parcial del pabellón auricular, unilateral, sin estenosis del conducto auditivo externo. | 7% |
+| 409 | Pérdida o deformación total del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo. | 20% |
+| 410 | Pérdida o deformación parcial del pabellón auricular, bilateral, sin estenosis del conducto auditivo externo. | 15% |
+| 411 | Pérdida o deformación total del pabellón auricular, unilateral, con estenosis del conducto auditivo externo. | 15% |
+| 412 | Pérdida o deformación parcial del pabellón auricular, unilateral, con estenosis del conducto auditivo externo. | 12% |
+| 413 | Pérdida o deformación total del pabellón auricular bilateral, con estenosis del conducto auditivo externo. | 30% |
+| 414 | Pérdida o deformación parcial del pabellón auricular bilateral, con estenosis del conducto auditivo externo. | 25% |
+| 415 | Obliteración total del conducto auditivo externo unilateral. | 20% |
+| 416 | Obliteración total del conducto auditivo externo bilateral. | 40% |
+| 417 | Pérdida de la membrana timpánica unilateral (subtotal o total), con injerto funcional. | 5% |
+| 418 | Pérdida de la membrana timpánica bilateral (subtotal o total), con injerto funcional. | 10% |
+| 419 | Pérdida de la membrana timpánica unilateral (subtotal o total), con injerto no funcional o sin posibilidad quirúrgica. | 20% |
+| 420 | Pérdida de la membrana timpánica bilateral (subtotal o total), con injerto no funcional o sin posibilidad quirúrgica. | 40% |
+| 421 | Alteraciones anatómicas irreversibles de las estructuras de oído medio y de la cadena osicular; unilateral. |   |
 
-Incluye la perdida de la membrana timpánica.20%422Alteraciones anatómicas irreversibles de las estructuras de oído medio y de la cadena osicular; bilateral. Incluye la perdida de la membrana timpánica.40%423Disfunción de la tuba auditiva unilateral, irreversible y resistente a tratamiento.20%424Disfunción de la tuba auditiva bilateral, irreversible y resistente a tratamiento.40%425Disfunción de la tuba auditiva uni o bilateral, irreversible y resistente a tratamiento que interfiere de manera continua con las actividades laborales aun cuando no afecten las actividades de la vida diaria. Cuyo óptimo funcionamiento de la tuba auditiva, sea indispensable para su desempeño laboral.50%426Acúfeno unilateral debidamente comprobado.5%427Hiperacusia debidamente comprobada.5%428Disfunción vestibular debidamente comprobada.
+| Incluye la perdida de la membrana timpánica. | 20% |   |
+| --- | --- | --- |
+| 422 | Alteraciones anatómicas irreversibles de las estructuras de oído medio y de la cadena osicular; bilateral. Incluye la perdida de la membrana timpánica. | 40% |
+| 423 | Disfunción de la tuba auditiva unilateral, irreversible y resistente a tratamiento. | 20% |
+| 424 | Disfunción de la tuba auditiva bilateral, irreversible y resistente a tratamiento. | 40% |
+| 425 | Disfunción de la tuba auditiva uni o bilateral, irreversible y resistente a tratamiento que interfiere de manera continua con las actividades laborales aun cuando no afecten las actividades de la vida diaria. Cuyo óptimo funcionamiento de la tuba auditiva, sea indispensable para su desempeño laboral. | 50% |
+| 426 | Acúfeno unilateral debidamente comprobado. | 5% |
+| 427 | Hiperacusia debidamente comprobada. | 5% |
+| 428 | Disfunción vestibular debidamente comprobada. |   |
 
-Se valuará siguiendo las normas de la Tabla III.--
+| Se valuará siguiendo las normas de la Tabla III. | -- |
+| --- | --- |
 
 Tabla III-A
 
-Disfunción vestibularEvaluación completa y pruebas pertinentes para establecer el diagnóstico
+| Disfunción vestibular |
+| --- |
+| Evaluación completa y pruebas pertinentes para establecer el diagnóstico |
 
-(contar con al menos una prueba alterada)Pruebas de Gabinete con una vigencia de al menos 3 meses
+| (contar con al menos una prueba alterada) | Pruebas de Gabinete con una vigencia de al menos 3 meses |
+| --- | --- |
 
-(contar con al menos una prueba alterada)Alteraciones en las actividades de su puesto de trabajoGrado de afección funcionalPorcentaje de incapacidad permanenteEvaluación otoneurológica completa:
+| (contar con al menos una prueba alterada) | Alteraciones en las actividades de su puesto de trabajo | Grado de afección funcional | Porcentaje de incapacidad permanente |
+| --- | --- | --- | --- |
+| Evaluación otoneurológica completa: |   |   |   |
 
 De la marcha;
 
@@ -8620,13 +9072,17 @@ De movimientos oculares;
 
 Pruebas postulares, y
 
-Pruebas vestibulares complementarias.Pruebas bitérmicas con agua, y
+| Pruebas vestibulares complementarias. | Pruebas bitérmicas con agua, y |
+| --- | --- |
 
 Pruebas rotatorias con videonistagmografía o electronistagmografía.
 
-En la medida que se disponga;Desequilibrio que interfiere de manera intermitente con las actividades laborales, al menos una vez cada 3 meses.1
+| En la medida que se disponga; | Desequilibrio que interfiere de manera intermitente con las actividades laborales, al menos una vez cada 3 meses. | 1 |
+| --- | --- | --- |
 
-Leve10-30%Según se requiera:
+| Leve | 10-30% |
+| --- | --- |
+| Según se requiera: |   |
 
 Evaluación audiológica completa:
 
@@ -8636,19 +9092,50 @@ Estudio de oído medio, y
 
 Evaluación neurológica completa.
 
-Otras evaluaciones específicas que se requieran.Pruebas de impulso cefálico tridimensional y potenciales miogénicos evocados por estímulo vestibular.Desequilibrio que interfiere de manera continua con las actividades laborales, que impliquen movimientos craneoencefálicos bruscos.2
+| Otras evaluaciones específicas que se requieran. | Pruebas de impulso cefálico tridimensional y potenciales miogénicos evocados por estímulo vestibular. | Desequilibrio que interfiere de manera continua con las actividades laborales, que impliquen movimientos craneoencefálicos bruscos. | 2 |
+| --- | --- | --- | --- |
 
-Moderada31-60%Desequilibrio que interfiere de manera continua con las actividades laborales aun cuando no impliquen movimientos craneoencefálicos bruscos.3
+| Moderada | 31-60% |
+| --- | --- |
+| Desequilibrio que interfiere de manera continua con las actividades laborales aun cuando no impliquen movimientos craneoencefálicos bruscos. | 3 |
 
-Severa61-90%Desequilibrio que impide la deambulación independiente y requiere asistencia continua de otra persona. No puede realizar ninguna actividad laboral.Permanente total100%
+| Severa | 61-90% |   |
+| --- | --- | --- |
+| Desequilibrio que impide la deambulación independiente y requiere asistencia continua de otra persona. No puede realizar ninguna actividad laboral. | Permanente total | 100% |
 
-Adicionalmente a lo establecido en el artículo 492 de la Ley Federal del Trabajo, se debe considerar otorgar el valor máximo del rango del porcentaje de incapacidad, cuando el desempeño de sus actividades laborales pueda poner en riesgo su vida, la de terceros o el patrimonio.
+| Adicionalmente a lo establecido en el artículo 492 de la Ley Federal del Trabajo, se debe considerar otorgar el valor máximo del rango del porcentaje de incapacidad, cuando el desempeño de sus actividades laborales pueda poner en riesgo su vida, la de terceros o el patrimonio. |
+| --- |
 
-429Disfunción tubárica crónica bilateral, resistente a tratamiento.30 a 40%430Disfunción tubárica crónica unilateral, resistente a tratamiento.15 a 20%431Acufeno bilateral debidamente comprobado.10%432Sorderas e hipoacusias profesionales. Se valuarán siguiendo las normas de la Tabla III-B.--
+| 429 | Disfunción tubárica crónica bilateral, resistente a tratamiento. | 30 a 40% |
+| --- | --- | --- |
+| 430 | Disfunción tubárica crónica unilateral, resistente a tratamiento. | 15 a 20% |
+| 431 | Acufeno bilateral debidamente comprobado. | 10% |
+| 432 | Sorderas e hipoacusias profesionales. Se valuarán siguiendo las normas de la Tabla III-B. | -- |
 
 Tabla III-B
 
-Sorderas e hipoacusias profesionalesPorcentaje de hipoacusia bilateral combinadaPorcentaje de incapacidad órgano funcionalPorcentaje de hipoacusia bilateral combinadaPorcentaje de incapacidad órgano funcional1010181611111916121220171312211814132218151423191615241917152520Cálculo de FletcherCálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016).
+| Sorderas e hipoacusias profesionales |   |
+| --- | --- |
+| Porcentaje de hipoacusia bilateral combinada | Porcentaje de incapacidad órgano funcional |
+| Porcentaje de hipoacusia bilateral combinada | Porcentaje de incapacidad órgano funcional |
+| 10 | 10 |
+| 18 | 16 |
+| 11 | 11 |
+| 19 | 16 |
+| 12 | 12 |
+| 20 | 17 |
+| 13 | 12 |
+| 21 | 18 |
+| 14 | 13 |
+| 22 | 18 |
+| 15 | 14 |
+| 23 | 19 |
+| 16 | 15 |
+| 24 | 19 |
+| 17 | 15 |
+| 25 | 20 |
+| Cálculo de Fletcher |   |
+| Cálculo de la incapacidad parcial permanente por obtención de la hipoacusia bilateral combinada de acuerdo a los umbrales obtenidos de la audiometría tonal y utilizando el procedimiento para la valuación de hipoacusias de: Fletcher, A.M.A. modificada por: De La Cruz Ávila, Gómez Cruz, Gutiérrez Farfán, Jiménez Ruiz, Rojo Ramírez, Toledo Ortiz, Torres Valenzuela, Velasco Reyna, Zarate Cabrera (octubre de 2016). |   |
 
 Dependiendo del mecanismo de lesión y secuela se podrán utilizar uno de los siguientes rangos de frecuencia:
 
@@ -8692,47 +9179,75 @@ Cuando la H.B.C. es de 25% o mayor, basta restar 5 unidades para obtener el porc
 
 A partir de 71% de H.B.C. ya no se restarán 5 unidades toda vez que corresponderá a 100% de Incapacidad Permanente. En virtud de que la audición residual no es útil para establecer comunicación humana.
 
-Determinar la incapacidad funcional auditiva biaural, sin reducción por presbiacusia o estado anterior.
+| Determinar la incapacidad funcional auditiva biaural, sin reducción por presbiacusia o estado anterior. |
+| --- |
 
 Cuello
 
-433Desviación (tortícolis, flexión anterior) por retracción muscular o amplia cicatriz.10 a 30%434Flexión anterior cicatrizal, estando el mentón en contacto con el esternón.40 a 60%435Estrechamientos cicatrizales de la laringe que produzcan disfonía.20%436Que produzcan afonía o disfonía sin disnea.30 a 40%437Cuando produzcan disnea de grandes esfuerzos.10%438Cuando produzcan disnea de medianos o pequeños esfuerzos.20 a 70%439Cuando produzcan disnea de reposo.70 a 80%440Cuando por disnea se requiera el uso de cánula traqueal a permanencia.70 a 90%441Cuando causen disfonía (o afonía) y disnea.25 a 80%442Estrechamiento cicatrizal de la faringe con perturbación de la deglución.20 a 40%443Pérdida de la glándula tiroides, incluyendo o no las paratiroides, con respuesta adecuada al tratamiento sustitutivo.20%444Pérdida de la glándula tiroides, incluyendo o no las paratiroides, sin respuesta al tratamiento sustitutivo.26%
+| 433 | Desviación (tortícolis, flexión anterior) por retracción muscular o amplia cicatriz. | 10 a 30% |
+| --- | --- | --- |
+| 434 | Flexión anterior cicatrizal, estando el mentón en contacto con el esternón. | 40 a 60% |
+| 435 | Estrechamientos cicatrizales de la laringe que produzcan disfonía. | 20% |
+| 436 | Que produzcan afonía o disfonía sin disnea. | 30 a 40% |
+| 437 | Cuando produzcan disnea de grandes esfuerzos. | 10% |
+| 438 | Cuando produzcan disnea de medianos o pequeños esfuerzos. | 20 a 70% |
+| 439 | Cuando produzcan disnea de reposo. | 70 a 80% |
+| 440 | Cuando por disnea se requiera el uso de cánula traqueal a permanencia. | 70 a 90% |
+| 441 | Cuando causen disfonía (o afonía) y disnea. | 25 a 80% |
+| 442 | Estrechamiento cicatrizal de la faringe con perturbación de la deglución. | 20 a 40% |
+| 443 | Pérdida de la glándula tiroides, incluyendo o no las paratiroides, con respuesta adecuada al tratamiento sustitutivo. | 20% |
+| 444 | Pérdida de la glándula tiroides, incluyendo o no las paratiroides, sin respuesta al tratamiento sustitutivo. | 26% |
 
 Trastornos de la voz
 
-445Los trastornos de la voz debidamente comprobados se valuarán conforme a la Tabla IV.
+| 445 | Los trastornos de la voz debidamente comprobados se valuarán conforme a la Tabla IV. |
+| --- | --- |
 
 Tabla IV
 
-Valuación de los trastornos de la vozCategoríaCaracterísticasValuaciónLevePresencia de disfonía;
+| Valuación de los trastornos de la voz |   |   |
+| --- | --- | --- |
+| Categoría | Características | Valuación |
+| Leve | Presencia de disfonía; |   |
 
 Presencia de sintomatología leve con base a procedimientos clínicos de evaluación;
 
 Puede hacerse oír en ambiente ruidoso, y
 
-Con aptitud para ejercer actividades de su profesión u oficio.10 al 20%ModeradoPresencia de disfonía;
+| Con aptitud para ejercer actividades de su profesión u oficio. | 10 al 20% |
+| --- | --- |
+| Moderado | Presencia de disfonía; |
 
 Presencia de sintomatología moderada con base a procedimientos clínicos de evaluación;
 
 Puede hacerse oír en ambiente normal, y
 
-Con aptitud limitada para ejercer actividades de su profesión u oficio.21 al 40%SeveroPresencia de disfonía severa o afonía;
+| Con aptitud limitada para ejercer actividades de su profesión u oficio. | 21 al 40% |
+| --- | --- |
+| Severo | Presencia de disfonía severa o afonía; |
 
 Presencia de sintomatología severa con base a procedimientos clínicos de evaluación;
 
 No puede hacerse oír en ambiente silente, y
 
-Sin aptitud para ejercer actividades de su profesión u oficio.41 al 60%En personas trabajadoras cuya calidad de la voz sea indispensable para su desempeño laboral, la valuación no podrá ser menor del 41%.
+| Sin aptitud para ejercer actividades de su profesión u oficio. | 41 al 60% |
+| --- | --- |
+| En personas trabajadoras cuya calidad de la voz sea indispensable para su desempeño laboral, la valuación no podrá ser menor del 41%. |   |
 
-Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada.
+| Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada. |
+| --- |
 
-446Los trastornos de la deglución se valuarán siguiendo las normas de la Tabla V.
+| 446 | Los trastornos de la deglución se valuarán siguiendo las normas de la Tabla V. |
+| --- | --- |
 
 Trastornos de deglución
 
 Tabla V
 
-Trastornos de la degluciónCategoríaCaracterísticasValuaciónLevePresencia de sintomatología leve, con tos ocasional cuando se alimenta;
+| Trastornos de la deglución |   |   |
+| --- | --- | --- |
+| Categoría | Características | Valuación |
+| Leve | Presencia de sintomatología leve, con tos ocasional cuando se alimenta; |   |
 
 Sensación de atragantamiento;
 
@@ -8742,7 +9257,9 @@ Los tiempos de comidas son prolongados;
 
 Necesita tragar varias veces para pasar el alimento, y
 
-Con aptitud para ejercer actividades de su profesión u oficio.20 al 27%ModeradoPresencia de sintomatología moderada, tos frecuente con la ingesta de alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta;
+| Con aptitud para ejercer actividades de su profesión u oficio. | 20 al 27% |
+| --- | --- |
+| Moderado | Presencia de sintomatología moderada, tos frecuente con la ingesta de alimentos sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta; |
 
 Pérdida ponderal menor al 10% del peso en 6 meses;
 
@@ -8752,7 +9269,9 @@ Incrementa el número de mordidas para la masticación;
 
 Necesita varios tragos en seco para pasar el alimento, y
 
-Con aptitud para ejercer actividades de su profesión u oficio con dificultad, pero las lleva a cabo.28 al 34%SeveroPresencia de tos o sensación de ahogo importante con los alimentos, sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta, saliva o flemas espesas;
+| Con aptitud para ejercer actividades de su profesión u oficio con dificultad, pero las lleva a cabo. | 28 al 34% |
+| --- | --- |
+| Severo | Presencia de tos o sensación de ahogo importante con los alimentos, sólidos, semisólidos, semilíquidos, líquidos y de consistencia mixta, saliva o flemas espesas; |
 
 Pérdida ponderal igual o mayor al 10% del peso en 6 meses;
 
@@ -8762,115 +9281,194 @@ Requiere varias degluciones en seco;
 
 Presencia de cuadros respiratorios recurrentes y neumonía, y
 
-Sin aptitud para ejercer actividades de su profesión u oficio.35 al 40%Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada.
+| Sin aptitud para ejercer actividades de su profesión u oficio. | 35 al 40% |
+| --- | --- |
+| Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada. |   |
 
 Tórax y contenido
 
-447Secuelas de fractura aislada del esternón con disminución de los movimientos de amplexión y amplexación.10%448Secuelas de fracturas del esternón con hundimiento o desviación, sin complicaciones profundas.20%449Secuela de fracturas de una a tres costillas, con dolores al esfuerzo físico.5 a 10%450De fracturas costales o condrales con dolor y dificultad al esfuerzo torácico o abdominal.10 a 15%451De fracturas costales con hundimiento y trastornos funcionales más acentuados.20 a 30%452Adherencias y retracciones cicatrizales pleurales.20 a 30%453Secuelas con alteraciones broncopulmonares (asma bronquial, enfisema pulmonar, bronquitis crónica, neumonitis, fibrosis, lesiones postraumáticas, etc.), según el grado de alteración orgánica y funcional, se utilizará la Tabla VI.--
+| 447 | Secuelas de fractura aislada del esternón con disminución de los movimientos de amplexión y amplexación. | 10% |
+| --- | --- | --- |
+| 448 | Secuelas de fracturas del esternón con hundimiento o desviación, sin complicaciones profundas. | 20% |
+| 449 | Secuela de fracturas de una a tres costillas, con dolores al esfuerzo físico. | 5 a 10% |
+| 450 | De fracturas costales o condrales con dolor y dificultad al esfuerzo torácico o abdominal. | 10 a 15% |
+| 451 | De fracturas costales con hundimiento y trastornos funcionales más acentuados. | 20 a 30% |
+| 452 | Adherencias y retracciones cicatrizales pleurales. | 20 a 30% |
+| 453 | Secuelas con alteraciones broncopulmonares (asma bronquial, enfisema pulmonar, bronquitis crónica, neumonitis, fibrosis, lesiones postraumáticas, etc.), según el grado de alteración orgánica y funcional, se utilizará la Tabla VI. | -- |
 
 Tabla VI
 
-Graduación de la deficiencia respiratoria en enfermedades pulmonares del trabajoClínicaEjercicio
+| Graduación de la deficiencia respiratoria en enfermedades pulmonares del trabajo |   |
+| --- | --- |
+| Clínica | Ejercicio |
 
 Cardio
 
-PulmonarMecánica ventilatoriaInsuficiencia respiratoriaValuaciónDisnea clasificación Borg modificadaVO2max ml/kg/minCVF
+| Pulmonar | Mecánica ventilatoria | Insuficiencia respiratoria | Valuación |
+| --- | --- | --- | --- |
+| Disnea clasificación Borg modificada | VO2max ml/kg/min | CVF |   |
 
-%FEV1
+| % | FEV1 |
+| --- | --- |
 
-Variabilidad del PEF%FEF 25-75
+|   | Variabilidad del PEF% | FEF 25-75 |
+| --- | --- | --- |
 
 FEF 75-85
 
-(%)HipoxemiaHipercapniaI.P.P.%0e" 25NormalNormalsímbolo 163 \f "Symbol" \s 7 20Leve
+| (%) | Hipoxemia | Hipercapnia | I.P.P.% |   |   |
+| --- | --- | --- | --- | --- | --- |
+| 0 | e" 25 | Normal | Normal | símbolo 163 \f "Symbol" \s 7 20 | Leve |
 
-(59-20)NormalNormal00NormalNormalModerada
+| (59-20) | Normal | Normal | 0 |   | 0 |   | Normal | Normal |   | Moderada |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-(19-15)NormalNormal50.5-120-24Leve
+| (19-15) | Normal | Normal | 5 |   | 0.5-1 | 20-24 | Leve |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
-(79-75)Leve
+| (79-75) | Leve |
+| --- | --- |
 
-(79-70)21-29Leve
+| (79-70) | 21-29 |   | Leve |
+| --- | --- | --- | --- |
 
-(63-59)Normal20-302-3Moderada
+| (63-59) | Normal | 20-30 |   | 2-3 |   | Moderada |
+| --- | --- | --- | --- | --- | --- | --- |
 
-(74-70)Moderada
+| (74-70) | Moderada |
+| --- | --- |
 
-(69-51)Grave
+| (69-51) |   | Grave |
+| --- | --- | --- |
 
-(14-10)Moderada
+| (14-10) | Moderada |
+| --- | --- |
 
-(58-54)Leve
+| (58-54) | Leve |
+| --- | --- |
 
-(35-36)31-404-615-19Grave
+| (69-65) | Grave |
+| --- | --- |
 
-(69-65)Grave
+| (50-31) | 30-39 | Muy Grave |
+| --- | --- | --- |
 
-(50-31)30-39Muy Grave
+| (< 9) | Grave |
+| --- | --- |
 
-(< 9)Grave
+| (53-49) | Moderada |
+| --- | --- |
 
-(53-49)Moderada
+| (48-44) | Grave |
+| --- | --- |
 
-(37-39)41-607-8-Muy Grave
+| (< 64) | Muy Grave |
+| --- | --- |
 
-(48-44)Grave
-
-(40-44)61-809-10<15Muy Grave
-
-(< 64)Muy Grave
-
-(> 30)>40--Muy Grave
-
-(> 45)100Para poder determinar un índice de perfusión periférica (IPP) en los flujos periféricos mayor al 50%, se deberá valorar también el FEV1.
+| (> 30) | >40 | - | - | Muy Grave |
+| --- | --- | --- | --- | --- |
 
 Para determinar un IPP mayor del 60% con los datos de hipoxemia censada por medio de oximetría de pulso, se deberá valorar además con hipercapnia determinada por la gasometría arterial.
 
 La interpretación de la espirometría tendrá como punto cardinal, la utilización de valores obtenidos en población adulta mexicana sana.
 
-El porcentaje de valuación lo determinan las pruebas de función respiratoria post broncodilatador con el valor más bajo encontrado.
+| El porcentaje de valuación lo determinan las pruebas de función respiratoria post broncodilatador con el valor más bajo encontrado. |
+| --- |
 
-454Fibrosis neumoconiótica complicada con tuberculosis pulmonar, clínica y bacteriológicamente sin remisión. Agregar 20% al monto de las incapacidades consignadas en la Tabla VI, sin exceder del cien por ciento.--455Hernia diafragmática postraumática no resuelta quirúrgicamente.30 a 40%456Estrechamiento del esófago no resuelto quirúrgicamente.20 a 70%
+| 454 | Fibrosis neumoconiótica complicada con tuberculosis pulmonar, clínica y bacteriológicamente sin remisión. Agregar 20% al monto de las incapacidades consignadas en la Tabla VI, sin exceder del cien por ciento. | -- |
+| --- | --- | --- |
+| 455 | Hernia diafragmática postraumática no resuelta quirúrgicamente. | 30 a 40% |
+| 456 | Estrechamiento del esófago no resuelto quirúrgicamente. | 20 a 70% |
 
 Corazón
 
-457Adherencias pericárdicas sin insuficiencia cardíaca.10 a 20%458Cardiopatía hipertensiva sin complicaciones.20 a 40%459Cardiopatía hipertensiva con complicaciones de insuficiencia renal crónica, secuelas de hemorragia cerebral, infarto del miocardio, con o sin disfunción ventricular.100%460Insuficiencia cardiaca clase II.20 a 40%461Insuficiencia cardiaca clase III.41 a 90%462Insuficiencia cardiaca clase IV.91 a 100%463Insuficiencia valvular grado I.20 a 40%464Insuficiencia valvular grado II.41 a 70%465Insuficiencia valvular grado III.71 a 100%466Bloqueo auriculoventricular incompleto grado I.20%467Bloqueo auriculoventricular incompleto grado II (mobitz I o mobitz II).25%468Bloqueo auriculoventricular completo grado III.30%
+| 457 | Adherencias pericárdicas sin insuficiencia cardíaca. | 10 a 20% |
+| --- | --- | --- |
+| 458 | Cardiopatía hipertensiva sin complicaciones. | 20 a 40% |
+| 459 | Cardiopatía hipertensiva con complicaciones de insuficiencia renal crónica, secuelas de hemorragia cerebral, infarto del miocardio, con o sin disfunción ventricular. | 100% |
+| 460 | Insuficiencia cardiaca clase II. | 20 a 40% |
+| 461 | Insuficiencia cardiaca clase III. | 41 a 90% |
+| 462 | Insuficiencia cardiaca clase IV. | 91 a 100% |
+| 463 | Insuficiencia valvular grado I. | 20 a 40% |
+| 464 | Insuficiencia valvular grado II. | 41 a 70% |
+| 465 | Insuficiencia valvular grado III. | 71 a 100% |
+| 466 | Bloqueo auriculoventricular incompleto grado I. | 20% |
+| 467 | Bloqueo auriculoventricular incompleto grado II (mobitz I o mobitz II). | 25% |
+| 468 | Bloqueo auriculoventricular completo grado III. | 30% |
 
 Abdomen
 
-469Hernia inguinal, crural o abdominal inoperables.10 a 20%470Las mismas, reproducidas después de tratamiento quirúrgico (recurrente o recidivante).20 a 30%471Cicatrices viciosas de la pared abdominal que produzcan alguna incapacidad.10 a 30%472Cicatrices con eventración, inoperables o no resueltas quirúrgicamente.30 a 60%473Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad.20 a 60%474Pérdida total del estómago.60 a 80%475Pérdida parcial del estómago.30 a 40%476Pérdida del bazo.15%477Pérdida de la vesícula biliar.15%478Pérdida parcial del intestino delgado.30 a 40%479Pérdida total del colon.60 a 80%480Pérdida parcial del colon.40 a 50%481Incontinencia fecal.60%482Las alteraciones persistentes del tubo digestivo como la enfermedad ácido-péptica y el intestino irritable se evaluarán conforme a la Tabla VII.--
+| 469 | Hernia inguinal, crural o abdominal inoperables. | 10 a 20% |
+| --- | --- | --- |
+| 470 | Las mismas, reproducidas después de tratamiento quirúrgico (recurrente o recidivante). | 20 a 30% |
+| 471 | Cicatrices viciosas de la pared abdominal que produzcan alguna incapacidad. | 10 a 30% |
+| 472 | Cicatrices con eventración, inoperables o no resueltas quirúrgicamente. | 30 a 60% |
+| 473 | Fístulas del tubo digestivo o de sus anexos, inoperables o cuando produzcan alguna incapacidad. | 20 a 60% |
+| 474 | Pérdida total del estómago. | 60 a 80% |
+| 475 | Pérdida parcial del estómago. | 30 a 40% |
+| 476 | Pérdida del bazo. | 15% |
+| 477 | Pérdida de la vesícula biliar. | 15% |
+| 478 | Pérdida parcial del intestino delgado. | 30 a 40% |
+| 479 | Pérdida total del colon. | 60 a 80% |
+| 480 | Pérdida parcial del colon. | 40 a 50% |
+| 481 | Incontinencia fecal. | 60% |
+| 482 | Las alteraciones persistentes del tubo digestivo como la enfermedad ácido-péptica y el intestino irritable se evaluarán conforme a la Tabla VII. | -- |
 
 Tabla VII
 
-Alteraciones persistentes del tubo digestivoClaseDescripciónValuación1Alteraciones persistentes de la enfermedad ácido péptica (reflujo gastroesofágico, gastritis recidivante, úlcera péptica).
+| Alteraciones persistentes del tubo digestivo |   |   |
+| --- | --- | --- |
+| Clase | Descripción | Valuación |
+| 1 | Alteraciones persistentes de la enfermedad ácido péptica (reflujo gastroesofágico, gastritis recidivante, úlcera péptica). |   |
 
 Puede presentar antecedente de tratamiento quirúrgico.
 
-Precisa de tratamiento continuado con control completo de síntomas.0%2Cumple los criterios de la clase 1.
+| Precisa de tratamiento continuado con control completo de síntomas. | 0% |
+| --- | --- |
+| 2 | Cumple los criterios de la clase 1. |
 
 Tiene antecedente de tratamiento quirúrgico.
 
-Precisa de tratamiento continuado sin control completo de síntomas.10%3Cumple los criterios de la clase 2.
+| Precisa de tratamiento continuado sin control completo de síntomas. | 10% |
+| --- | --- |
+| 3 | Cumple los criterios de la clase 2. |
 
 Precisa de tratamiento continuado y puede presentar manifestaciones sistémicas (anemia, sangrado de tubo digestivo alto, pérdida de peso).
 
-Evidencia anatomopatológica o imagenológica de lesiones premalignas.20%4Cumple los criterios de la clase 3.
+| Evidencia anatomopatológica o imagenológica de lesiones premalignas. | 20% |
+| --- | --- |
+| 4 | Cumple los criterios de la clase 3. |
 
 Cuenta con estomas (gastrostomía, gastro yeyunostomía, yeyunostomía).
 
-Tomar en cuenta la capacidad funcional en relación con el desempeño del puesto de trabajo.--Realiza trabajo ligero.40%Realiza trabajo medio.60%Realiza trabajo pesado.80%Incapaz de realizar cualquier actividad laboral.100%
+| Tomar en cuenta la capacidad funcional en relación con el desempeño del puesto de trabajo. | -- |   |
+| --- | --- | --- |
+|   | Realiza trabajo ligero. | 40% |
+|   | Realiza trabajo medio. | 60% |
+|   | Realiza trabajo pesado. | 80% |
+|   | Incapaz de realizar cualquier actividad laboral. | 100% |
 
-483Pérdida parcial del páncreas.60 a 80%484Pérdida parcial del hígado.40 a 60%485Otras lesiones o pérdidas de los órganos contenidos en el abdomen, que produzcan como consecuencia alguna incapacidad probada.30 a 80%486La insuficiencia hepática se evaluará conforme a las Tablas VIII y IX.--
+| 483 | Pérdida parcial del páncreas. | 60 a 80% |
+| --- | --- | --- |
+| 484 | Pérdida parcial del hígado. | 40 a 60% |
+| 485 | Otras lesiones o pérdidas de los órganos contenidos en el abdomen, que produzcan como consecuencia alguna incapacidad probada. | 30 a 80% |
+| 486 | La insuficiencia hepática se evaluará conforme a las Tablas VIII y IX. | -- |
 
 Tabla VIII
 
-Clasificación de estadios de la insuficiencia hepáticaEstadioDescripciónClasificación Child-PughEscala de
+| Clasificación de estadios de la insuficiencia hepática |   |   |   |
+| --- | --- | --- | --- |
+| Estadio | Descripción | Clasificación Child-Pugh | Escala de |
 
-MELD1Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas, bilirrubinas, albumina, tiempos de coagulación).
+| MELD |   |
+| --- | --- |
+| 1 | Alteraciones persistentes de la bioquímica hepática (aminotransferasas, fosfatasas alcalinas, bilirrubinas, albumina, tiempos de coagulación). |
 
 Ausencia de varices esofágicas, y
 
-Ausencia de ascitis.--0-92Cumple los criterios de la clase 1.
+| Ausencia de ascitis. | -- | 0-9 |
+| --- | --- | --- |
+| 2 | Cumple los criterios de la clase 1. |   |
 
 Presencia de varices esofágicas.
 
@@ -8880,13 +9478,17 @@ Ausencia de hemorragia digestiva o historia de hemorragia digestiva.
 
 Evidencia anatomopatológica o imagenológica de lesiones cirrógenas (hepatitis crónica activa, esteatohepatitis, fibrosis portal o fibrosis centrolobulillar).
 
-Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada.Clase A10-193Cumple los criterios de la clase 2.
+| Requiere tratamiento con corticoides inmunosupresores o con inmunomoduladores de manera continuada. | Clase A | 10-19 |
+| --- | --- | --- |
+| 3 | Cumple los criterios de la clase 2. |   |
 
 Presencia de ascitis con o sin varices esofágicas.
 
 Ausencia de hemorragia digestiva o historia de hemorragia digestiva.
 
-Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años.Clase B20- 294Cumple los criterios de la clase 3.
+| Síntomas de insuficiencia hepática, de hipertensión portal, no desencadenados por proceso agudo intercurrente, en los últimos dos años. | Clase B | 20- 29 |
+| --- | --- | --- |
+| 4 | Cumple los criterios de la clase 3. |   |
 
 Síntomas de insuficiencia hepática, de hipertensión portal en forma continua a pesar de recibir tratamiento.
 
@@ -8894,37 +9496,92 @@ Presencia de ascitis.
 
 Presencia de varices esofágicas.
 
-Presencia de hemorragia digestiva o historia de hemorragia digestiva.Clase C30 o más
+| Presencia de hemorragia digestiva o historia de hemorragia digestiva. | Clase C | 30 o más |
+| --- | --- | --- |
 
-La escala de Child-Pugh emplea 5 criterios clínicos de la enfermedad hepática. Cada criterio es medido del 1 al 3, siendo el 3 el que indica el daño más severoPuntos ponderables atribuibles a cada parámetro123EncefalopatíaAusenteGrado 1-2Grado 3-4AscitisAusenteLeveModeradaBilirrubina sérica< 2 mg/dl2-3 mg/dl> 3 mg/dlAlbúmina sérica> 35 g/l28-35 g/l< 28 g/lProtrombina (prolongada)1- 44-6> 6Bilirrubina (en cirrosis biliar primaria)< 4 mg/dl4-10 mg/dl> 10 mg/dlNota: Para la clasificación Child-Pugh se usa la sumatoria de la puntuación de la escala:
+| La escala de Child-Pugh emplea 5 criterios clínicos de la enfermedad hepática. Cada criterio es medido del 1 al 3, siendo el 3 el que indica el daño más severo |   |   |   |
+| --- | --- | --- | --- |
+| Puntos ponderables atribuibles a cada parámetro |   |   |   |
+|   | 1 | 2 | 3 |
+| Encefalopatía | Ausente | Grado 1-2 | Grado 3-4 |
+| Ascitis | Ausente | Leve | Moderada |
+| Bilirrubina sérica | < 2 mg/dl | 2-3 mg/dl | > 3 mg/dl |
+| Albúmina sérica | > 35 g/l | 28-35 g/l | < 28 g/l |
+| Protrombina (prolongada) | 1- 4 | 4-6 | > 6 |
+| Bilirrubina (en cirrosis biliar primaria) | < 4 mg/dl | 4-10 mg/dl | > 10 mg/dl |
+| Nota: Para la clasificación Child-Pugh se usa la sumatoria de la puntuación de la escala: |   |   |   |
 
 A = 5-6 puntos.
 
 B = 7-9 puntos.
 
-C = 10-15 puntos.
+| C = 10-15 puntos. |
+| --- |
 
 Escala de MELD (Model for End Stage Liver Disease) modelo matemático de predicción de la sobrevida de una persona con enfermedad hepática basado en valores de bilirrubina, ratio internacional normalizado (INR) y creatinina.
 
-El rango de valores va de 6 a 40; el valor mínimo es 1 para cada variable y a menor puntaje, mejor pronóstico.MELD Score = 9,57 Ln (Creat) + 3,78 Ln (Bili) + 11,2 Ln (INR) + 6,43
+| El rango de valores va de 6 a 40; el valor mínimo es 1 para cada variable y a menor puntaje, mejor pronóstico. |
+| --- |
+| MELD Score = 9,57 Ln (Creat) + 3,78 Ln (Bili) + 11,2 Ln (INR) + 6,43 |
 
 Tabla IX
 
-Determinación del porcentaje de incapacidad permanente parcial o total por motivo de la insuficiencia hepáticaCategorización de la insuficiencia hepáticaCategorías de capacidad funcional en relación con el desempeño del puesto de trabajo012310%30%50%100%260%70%80%100%380%90%95%100%4100%100%100%100%
+| Determinación del porcentaje de incapacidad permanente parcial o total por motivo de la insuficiencia hepática |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Categorización de la insuficiencia hepática | Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo |   |   |   |
+|   | 0 | 1 | 2 | 3 |
+| 1 | 0% | 30% | 50% | 100% |
+| 2 | 60% | 70% | 80% | 100% |
+| 3 | 80% | 90% | 95% | 100% |
+| 4 | 100% | 100% | 100% | 100% |
 
 Aparato genitourinario
 
-487Pérdida o atrofia de un testículo u ovario, estando el otro sano.25%488Pérdida o atrofia de un testículo u ovario, estando el otro enfermo por afección ajena al trabajo.50%489Pérdida o atrofia de los dos testículos u ovarios.50 a 100%490Por la pérdida de la función de una tuba uterina con capacidad reproductiva antes del riesgo de trabajo.20%491Por la pérdida de la función de dos tubas uterinas con capacidad reproductiva antes del riesgo de trabajo.50%492Pérdida del útero, con capacidad reproductiva antes del riesgo de trabajo.70%493Pérdida del útero, sin capacidad reproductiva antes del riesgo de trabajo.40%494Pérdida parcial o total de vejiga.30%495Pérdida total o parcial del pene, o disminución o pérdida de su función.50 a 100%496Con estrechamiento del orificio uretral, perineal o hipogástrico.70 a 100%497Prolapso uterino consecutivo a accidentes de trabajo, no resuelto quirúrgicamente.50 a 70%498Por la pérdida o mutilación de un seno con prótesis posible.20 a 30%499Por la pérdida o mutilación de un seno con prótesis imposible.30 a 50%500Por la pérdida o mutilación de los dos senos con prótesis posible.50 a 70%501Pérdida orgánica o funcional de un riñón (incluye glándula suprarrenal) estando normal la función del contralateral.35 a 50%502Con perturbación funcional del riñón contralateral. 50 a 100%503La insuficiencia renal crónica se evaluará conforme a la Tabla X.
+| 487 | Pérdida o atrofia de un testículo u ovario, estando el otro sano. | 25% |
+| --- | --- | --- |
+| 488 | Pérdida o atrofia de un testículo u ovario, estando el otro enfermo por afección ajena al trabajo. | 50% |
+| 489 | Pérdida o atrofia de los dos testículos u ovarios. | 50 a 100% |
+| 490 | Por la pérdida de la función de una tuba uterina con capacidad reproductiva antes del riesgo de trabajo. | 20% |
+| 491 | Por la pérdida de la función de dos tubas uterinas con capacidad reproductiva antes del riesgo de trabajo. | 50% |
+| 492 | Pérdida del útero, con capacidad reproductiva antes del riesgo de trabajo. | 70% |
+| 493 | Pérdida del útero, sin capacidad reproductiva antes del riesgo de trabajo. | 40% |
+| 494 | Pérdida parcial o total de vejiga. | 30% |
+| 495 | Pérdida total o parcial del pene, o disminución o pérdida de su función. | 50 a 100% |
+| 496 | Con estrechamiento del orificio uretral, perineal o hipogástrico. | 70 a 100% |
+| 497 | Prolapso uterino consecutivo a accidentes de trabajo, no resuelto quirúrgicamente. | 50 a 70% |
+| 498 | Por la pérdida o mutilación de un seno con prótesis posible. | 20 a 30% |
+| 499 | Por la pérdida o mutilación de un seno con prótesis imposible. | 30 a 50% |
+| 500 | Por la pérdida o mutilación de los dos senos con prótesis posible. | 50 a 70% |
+| 501 | Pérdida orgánica o funcional de un riñón (incluye glándula suprarrenal) estando normal la función del contralateral. | 35 a 50% |
+| 502 | Con perturbación funcional del riñón contralateral. | 50 a 100% |
+| 503 | La insuficiencia renal crónica se evaluará conforme a la Tabla X. |   |
 
 Tabla X
 
-Clasificación de estadios de la enfermedad renal crónicaEstadioDescripciónFiltrado glomerular
+| Clasificación de estadios de la enfermedad renal crónica |   |   |
+| --- | --- | --- |
+| Estadio | Descripción | Filtrado glomerular |
 
-(mL/min/1.73m2)Albuminuria
+| (mL/min/1.73m2) | Albuminuria |
+| --- | --- |
 
-cociente albúmina/creatininaValuación1Normal o alta.Mayor a 900-30 mg/g, normal o levemente aumentada.Sin valuación2Levemente disminuida.60-8910-20%3ALeve a moderadamente disminuida.45-5930-300 mg/g, moderadamente aumentada.20 a 40%3BModerada a gravemente disminuida.30-4441 a 60%4Gravemente disminuida.15-29>300 mg/g, gravemente aumentada.61 a 90%5Insuficiencia renal.Menor a 1591 a 100%
+| cociente albúmina/creatinina | Valuación |   |   |   |
+| --- | --- | --- | --- | --- |
+| 1 | Normal o alta. | Mayor a 90 | 0-30 mg/g, normal o levemente aumentada. | Sin valuación |
+| 2 | Levemente disminuida. | 60-89 |   |   |
+| 10-20% |   |   |   |   |
+| 3A | Leve a moderadamente disminuida. | 45-59 | 30-300 mg/g, moderadamente aumentada. | 20 a 40% |
+| 3B | Moderada a gravemente disminuida. | 30-44 |   |   |
+| 41 a 60% |   |   |   |   |
+| 4 | Gravemente disminuida. | 15-29 | >300 mg/g, gravemente aumentada. | 61 a 90% |
+| 5 | Insuficiencia renal. | Menor a 15 |   |   |
+| 91 a 100% |   |   |   |   |
 
-504Incontinencia de orina permanente.30 a 40%505Estrechamiento parcial de la uretra anterior, no resuelto quirúrgicamente.30 a 40%506Estrechamiento parcial de la uretra posterior, no resuelto quirúrgicamente.60%507Estrechamiento total de la uretra, postraumático, no resuelto quirúrgicamente, que obligue a efectuar la micción por un meato perineal o hipogástrico.60 a 90%
+| 504 | Incontinencia de orina permanente. | 30 a 40% |
+| --- | --- | --- |
+| 505 | Estrechamiento parcial de la uretra anterior, no resuelto quirúrgicamente. | 30 a 40% |
+| 506 | Estrechamiento parcial de la uretra posterior, no resuelto quirúrgicamente. | 60% |
+| 507 | Estrechamiento total de la uretra, postraumático, no resuelto quirúrgicamente, que obligue a efectuar la micción por un meato perineal o hipogástrico. | 60 a 90% |
 
 Columna vertebral
 
@@ -8932,19 +9589,33 @@ Secuelas sin lesión medular
 
 Con limitación de los arcos de movilidad de la columna y pérdida permanente de la curvatura anatómica
 
-508Región cervical.30 a 50%509Región torácica.15 a 30%510Región lumbosacra.30 a 50%511Región coccígea.10%
+| 508 | Región cervical. | 30 a 50% |
+| --- | --- | --- |
+| 509 | Región torácica. | 15 a 30% |
+| 510 | Región lumbosacra. | 30 a 50% |
+| 511 | Región coccígea. | 10% |
 
 Secuelas de traumatismos con lesión medular
 
-512Paraplejía.100%513Paraparesia de los miembros inferiores, si la marcha es imposible.70 a 90%514Si la marcha es posible con muletas.50 a 70%
+| 512 | Paraplejía. | 100% |
+| --- | --- | --- |
+| 513 | Paraparesia de los miembros inferiores, si la marcha es imposible. | 70 a 90% |
+| 514 | Si la marcha es posible con muletas. | 50 a 70% |
 
 Clasificaciones diversas
 
-515La pérdida de ambos ojos, ambos brazos arriba del codo, desarticulación de la cadera de ambos lados o de un brazo arriba del codo y de una pierna arriba de la rodilla del mismo lado, lesión medular por cualquier traumatismo que produzca parálisis completa de los miembros inferiores con trastornos esfinterianos, demencia, se considerarán como incapacidad permanente total.100%516Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la profesión a que se dedica.--517Las lesiones producidas por la acción de agentes físicos y químicos serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad.20 a 100%518Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves.--519En caso de haberse otorgado con anterioridad la valuación de una secuela que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia del porcentaje de la nueva fracción que aplique.--520En caso de no encontrarse la fracción específica para la valuación de las secuelas que presenta la persona trabajadora, deberá hacerse uso del artículo 17 de la Ley Federal del Trabajo vigente y por similitud aplicar la fracción que más se asemeje.--
+| 515 | La pérdida de ambos ojos, ambos brazos arriba del codo, desarticulación de la cadera de ambos lados o de un brazo arriba del codo y de una pierna arriba de la rodilla del mismo lado, lesión medular por cualquier traumatismo que produzca parálisis completa de los miembros inferiores con trastornos esfinterianos, demencia, se considerarán como incapacidad permanente total. | 100% |
+| --- | --- | --- |
+| 516 | Las deformaciones puramente estéticas, según su carácter, serán indemnizadas a juicio del Tribunal del Poder Judicial de la Federación que corresponda, sólo en el caso de que de alguna forma disminuyan la capacidad de trabajo de la persona lesionada, teniendo en cuenta la profesión a que se dedica. | -- |
+| 517 | Las lesiones producidas por la acción de agentes físicos y químicos serán indemnizadas de acuerdo con las modalidades especiales de la incapacidad. | 20 a 100% |
+| 518 | Las cicatrices producidas por amplias quemaduras de los tegumentos serán indemnizadas tomando en cuenta la extensión y la profundidad de las zonas cicatrizales, independientemente de las perturbaciones funcionales que acarreen en los segmentos adyacentes. Tomándose como base para su valuación la regla de los nueves. | -- |
+| 519 | En caso de haberse otorgado con anterioridad la valuación de una secuela que involucre el mismo sitio anatómico, se otorgará únicamente la diferencia del porcentaje de la nueva fracción que aplique. | -- |
+| 520 | En caso de no encontrarse la fracción específica para la valuación de las secuelas que presenta la persona trabajadora, deberá hacerse uso del artículo 17 de la Ley Federal del Trabajo vigente y por similitud aplicar la fracción que más se asemeje. | -- |
 
 Cánceres
 
-521Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios:
+| 521 | Cáncer secundario a agentes físicos, químicos, o biológicos se valuará con base a los siguientes criterios: |
+| --- | --- |
 
 para el cálculo de la incapacidad permanente parcial o total por motivo de los cánceres de origen laboral, el procedimiento para su obtención es realizando los pasos siguientes:
 
@@ -8956,71 +9627,116 @@ Paso 2: Después de identificar a qué categorización pertenece el cáncer de o
 
 Paso 3: Posteriormente, se buscaría en la Tabla XIII en la columna de categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años, el numeral al que pertenece el cáncer diagnosticado a la persona trabajadora, y se buscaría también en la columna de categorización funcional de las neoplasias y sus secuelas derivadas del tratamiento o generadas por el propio tumor en relación con el desempeño de su trabajo, el numeral en que se ubica el resultado de la valoración de la persona trabajadora y se hace un ajuste entre ambas columnas para encontrar el porcentaje que le corresponde.
 
-En el ejemplo tenemos que según la Tabla XII, el cáncer de colon se ubica en el numeral 3, y de acuerdo con su valoración de la categorización funcional, se identifica que corresponde al numeral 1 de la Tabla XII, y haciendo la búsqueda de la intersección de ambos valores encontramos que el resultado sería de 70% de acuerdo con la Tabla XIII.--
+| En el ejemplo tenemos que según la Tabla XII, el cáncer de colon se ubica en el numeral 3, y de acuerdo con su valoración de la categorización funcional, se identifica que corresponde al numeral 1 de la Tabla XII, y haciendo la búsqueda de la intersección de ambos valores encontramos que el resultado sería de 70% de acuerdo con la Tabla XIII. | -- |
+| --- | --- |
 
 Tabla XI
 
-Categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco añosAgresividadSobrevidaTipo de Neoplasia190-100Cáncer de tiroides papilar y folicular, y cáncer de piel (labio).261-89Cáncer de piel (no melanoma), cáncer de hueso, cáncer de laringe, cáncer tiroides medular, y leucemia linfoide.330-60Cáncer de orofaringe, cáncer de colon, cáncer de vejiga urinaria, cáncer de senos paranasales, cáncer de escroto y melanoma, cáncer de tiroides indiferenciado, leucemia mieloide y leucemia monocítica aguda.415-29Mieloma múltiple, leucemia de células plasmáticas y leucemia mieloide aguda.50-14Cáncer broncopulmonar, cáncer de estómago, cáncer del tracto digestivo, cáncer del sistema nervioso central, mesotelioma pericárdico, mesotelioma peritoneal, mesotelioma pleural, tumor maligno de hígado y vías biliares intrahepáticas, angiosarcoma de hígado, cáncer del tracto digestivo (esófago) (tracto intestinal) y otras leucemias de tipo celular especificado.
+| Categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años |   |   |
+| --- | --- | --- |
+| Agresividad | Sobrevida | Tipo de Neoplasia |
+| 1 | 90-100 | Cáncer de tiroides papilar y folicular, y cáncer de piel (labio). |
+| 2 | 61-89 | Cáncer de piel (no melanoma), cáncer de hueso, cáncer de laringe, cáncer tiroides medular, y leucemia linfoide. |
+| 3 | 30-60 | Cáncer de orofaringe, cáncer de colon, cáncer de vejiga urinaria, cáncer de senos paranasales, cáncer de escroto y melanoma, cáncer de tiroides indiferenciado, leucemia mieloide y leucemia monocítica aguda. |
+| 4 | 15-29 | Mieloma múltiple, leucemia de células plasmáticas y leucemia mieloide aguda. |
+| 5 | 0-14 | Cáncer broncopulmonar, cáncer de estómago, cáncer del tracto digestivo, cáncer del sistema nervioso central, mesotelioma pericárdico, mesotelioma peritoneal, mesotelioma pleural, tumor maligno de hígado y vías biliares intrahepáticas, angiosarcoma de hígado, cáncer del tracto digestivo (esófago) (tracto intestinal) y otras leucemias de tipo celular especificado. |
 
 Tabla XII
 
-Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo0Completamente activo, capaz de realizar toda actividad física, previa a la enfermedad.1Restringido en las capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media (actividades tales como empujar y jalar moderadamente, caminar a una velocidad moderada, levantar 5 kg 10 veces por minuto o 12 kg seis veces por minuto, por ejemplo: recolección de frutas y verduras (inclinado, en cuclillas), pintar con brocha, empujar o tirar de carros ligeros o carretillas, operar camiones, tractores o maquinaria de construcción en todo terreno, uso de martillo neumático, eliminar maleza y usar el azadón).
+| Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo |   |
+| --- | --- |
+| 0 | Completamente activo, capaz de realizar toda actividad física, previa a la enfermedad. |
+| 1 | Restringido en las capacidades funcionales, pero es capaz de realizar el trabajo de naturaleza media (actividades tales como empujar y jalar moderadamente, caminar a una velocidad moderada, levantar 5 kg 10 veces por minuto o 12 kg seis veces por minuto, por ejemplo: recolección de frutas y verduras (inclinado, en cuclillas), pintar con brocha, empujar o tirar de carros ligeros o carretillas, operar camiones, tractores o maquinaria de construcción en todo terreno, uso de martillo neumático, eliminar maleza y usar el azadón). |
 
-Si previo a la enfermedad sus actividades laborales correspondían a naturaleza media, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza media.2Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de vehículo en carretera y clavar.
+| Si previo a la enfermedad sus actividades laborales correspondían a naturaleza media, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza media. |   |
+| --- | --- |
+| 2 | Restringido en las capacidades funcionales pero es capaz de realizar el trabajo de naturaleza ligero (permanecer sentado, estar sentado haciendo trabajo manual ligero usando las manos y brazos, conducir un vehículo, estar de pie haciendo trabajo ligero con los brazos y caminando ocasionalmente, caminatas casuales sin exceder los 3 km por hora y levantar 5 kg menos de ocho veces por minuto 12 kg menos de cuatro veces por minuto, por ejemplo: participar en una reunión (sentado), leer instrucciones o llenar papeleo, ver un video de capacitación, uso de herramientas para mesa o pequeñas herramientas eléctricas, inspección y clasificación de productos, clasificación de materiales livianos, ensamblaje de piezas pequeñas, conducción de vehículo en carretera y clavar. |
 
-Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza ligera.3Incapaz de realizar cualquier actividad laboral.
+| Si previo a la enfermedad sus actividades laborales correspondían a naturaleza ligera, se debe categorizar en la categoría 0, debido a que continua con la misma capacidad para realizar las actividades de naturaleza ligera. |   |
+| --- | --- |
+| 3 | Incapaz de realizar cualquier actividad laboral. |
 
 Tabla XIII
 
-Determinación del porcentaje de incapacidad permanente parcial o total por motivo de cáncer laboralCategorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco añosCategorías de capacidad funcional en relación con el desempeño del puesto de trabajo012310%30%50%100%230%40%60%100%360%70%80%100%480%90%95%100%5100%100%100%100%
+| Determinación del porcentaje de incapacidad permanente parcial o total por motivo de cáncer laboral |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Categorización de las neoplasias de acuerdo con su agresividad según sobrevida a cinco años | Categorías de capacidad funcional en relación con el desempeño del puesto de trabajo |   |   |   |
+|   | 0 | 1 | 2 | 3 |
+| 1 | 0% | 30% | 50% | 100% |
+| 2 | 30% | 40% | 60% | 100% |
+| 3 | 60% | 70% | 80% | 100% |
+| 4 | 80% | 90% | 95% | 100% |
+| 5 | 100% | 100% | 100% | 100% |
 
 Virus de Inmunodeficiencia Humana
 
-522La infección por VIH se evaluará conforme a la Tabla XIV.
+| 522 | La infección por VIH se evaluará conforme a la Tabla XIV. |
+| --- | --- |
 
 Tabla XIV
 
-Valuación de infección por VIHEstadioDescripciónCategoría clínicaValuación1Diagnóstico serológico de infección por VIH;
+| Valuación de infección por VIH |   |   |   |
+| --- | --- | --- | --- |
+| Estadio | Descripción | Categoría clínica | Valuación |
+| 1 | Diagnóstico serológico de infección por VIH; |   |   |
 
 Sin discapacidad valuable, y
 
-Requiere tratamiento.A1, A2, B1 y B220%2Requiere tratamiento continuado;
+| Requiere tratamiento. | A1, A2, B1 y B2 | 20% |
+| --- | --- | --- |
+| 2 | Requiere tratamiento continuado; |   |
 
 Presenta menos de tres episodios anuales de enfermedades relacionadas con su inmunodeficiencia, y
 
-Requiere atención médica hospitalaria durante al menos 24 horas cada uno o durante menos de 30 días al año.A3, B3 y C121-25%3Requiere tratamiento continuado;
+| Requiere atención médica hospitalaria durante al menos 24 horas cada uno o durante menos de 30 días al año. | A3, B3 y C1 | 21-25% |
+| --- | --- | --- |
+| 3 | Requiere tratamiento continuado; |   |
 
 Presenta de tres a seis episodios anuales de enfermedades relacionadas con su inmunodeficiencia;
 
 Requiere atención médica hospitalaria durante al menos 24 horas cada uno o durante más de 30 días al año, y
 
-Puede realizar las actividades de la vida diaria, con disminución de la capacidad para realizar actividades laborales.C2 y C326- 59%4Requiere tratamiento continuado;
+| Puede realizar las actividades de la vida diaria, con disminución de la capacidad para realizar actividades laborales. | C2 y C3 | 26- 59% |
+| --- | --- | --- |
+| 4 | Requiere tratamiento continuado; |   |
 
 Presenta más de seis episodios anuales de enfermedades relacionadas con su inmunodeficiencia que precisan atención médica hospitalaria;
 
 Requiere al menos 24 horas o durante más de 60 días al año, y
 
-Disminución de la capacidad para realizar las actividades de la vida diaria.C2 y C360 a 79%5Cumple los criterios de la clase 4;
+| Disminución de la capacidad para realizar las actividades de la vida diaria. | C2 y C3 | 60 a 79% |
+| --- | --- | --- |
+| 5 | Cumple los criterios de la clase 4; |   |
 
 Imposibilidad para realizar las actividades de la vida diaria y de autocuidado, y
 
-Depende de otra persona.C2 y C380 a 100%
+| Depende de otra persona. | C2 y C3 | 80 a 100% |
+| --- | --- | --- |
 
 Trastornos mentales
 
-523Los trastornos mentales se evaluarán conforme a la Tabla XV
+| 523 | Los trastornos mentales se evaluarán conforme a la Tabla XV |
+| --- | --- |
 
-(incluye síndrome cráneo-encefálico tardío postconmocional).
+| (incluye síndrome cráneo-encefálico tardío postconmocional). |
+| --- |
 
-Tabla XVValuación de trastornos mentales, trastornos afectivos (depresivo, de ansiedad o mixto), mentales orgánicos, de estrés postraumático, por lesión cerebral y trastornos del habla secundarios a accidentes y enfermedades de trabajo.
+| Tabla XV |
+| --- |
+| Valuación de trastornos mentales, trastornos afectivos (depresivo, de ansiedad o mixto), mentales orgánicos, de estrés postraumático, por lesión cerebral y trastornos del habla secundarios a accidentes y enfermedades de trabajo. |
 
 Cuando la persona trabajadora presente: trastorno depresivo, de ansiedad, de estrés postraumático, por lesión cerebral (afasia, disartria, agnosias, apraxias, acalculias, alexias, agrafias, anomias, amnesias, síndromes atencionales, síndromes de contusión cerebral, síndrome cráneo-encefálico postconmocional, síndromes frontales, demencias) y trastornos del habla (disfemia, diglosias, bradilalia, taquilalia, taquifemia, farfulleo, tartajeo, alteraciones de la prosodia y alteraciones de la resonancia), requiriendo de tratamiento continuado permanente para mejorar o controlar la sintomatología.
 
-Los trastornos afectivos se valuarán al menos a 6 meses de haber iniciado el tratamiento correspondiente, los trastornos por lesión cerebral y trastornos del habla, se valuarán en cuanto se determine la secuela, de acuerdo con la siguiente Tabla:CategoríaCaracterísticasValuaciónClase IControlado con tratamiento (asintomático);
+| Los trastornos afectivos se valuarán al menos a 6 meses de haber iniciado el tratamiento correspondiente, los trastornos por lesión cerebral y trastornos del habla, se valuarán en cuanto se determine la secuela, de acuerdo con la siguiente Tabla: |   |   |
+| --- | --- | --- |
+| Categoría | Características | Valuación |
+| Clase I | Controlado con tratamiento (asintomático); |   |
 
 Tratamiento farmacológico especializado permanente, y
 
-Con aptitud para ejercer actividades de su profesión u oficio.10%Clase IICon sintomatología leve especifica o derivada del manejo terapéutico;
+| Con aptitud para ejercer actividades de su profesión u oficio. | 10% |
+| --- | --- |
+| Clase II | Con sintomatología leve especifica o derivada del manejo terapéutico; |
 
 Tratamiento farmacológico especializado permanente;
 
@@ -9032,7 +9748,9 @@ Con crisis recurrentes ocasionales que pueden o no ameritar internamiento hospit
 
 Con aptitud para ejercer actividades de su profesión u oficio, pero algunas las realiza con dificultad, y
 
-Sin afectación para realizar actividades de la vida diaria.11 a 25%Clase IIICon sintomatología moderada especifica o derivada del manejo terapéutico;
+| Sin afectación para realizar actividades de la vida diaria. | 11 a 25% |
+| --- | --- |
+| Clase III | Con sintomatología moderada especifica o derivada del manejo terapéutico; |
 
 Tratamiento farmacológico especializado permanente;
 
@@ -9044,7 +9762,9 @@ Con internamientos recurrentes mayores a una semana para manejo especializado;
 
 Con aptitud limitada para ejercer actividades de su profesión u oficio, y
 
-Sin afectación para realizar actividades de la vida diaria.26 a 50%Clase IVCon sintomatología severa especifica o derivada del manejo terapéutico;
+| Sin afectación para realizar actividades de la vida diaria. | 26 a 50% |
+| --- | --- |
+| Clase IV | Con sintomatología severa especifica o derivada del manejo terapéutico; |
 
 Tratamiento farmacológico especializado permanente;
 
@@ -9056,7 +9776,9 @@ Con internamientos recurrentes mayores a una semana para manejo especializado;
 
 Con aptitud limitada para ejercer actividades de su profesión u oficio, y
 
-Sin afectación para realizar actividades de la vida diaria.51 a 70%Clase VCon sintomatología severa especifica o derivada del manejo terapéutico;
+| Sin afectación para realizar actividades de la vida diaria. | 51 a 70% |
+| --- | --- |
+| Clase V | Con sintomatología severa especifica o derivada del manejo terapéutico; |
 
 Tratamiento farmacológico especializado permanente;
 
@@ -9068,17 +9790,23 @@ Con internamientos recurrentes mayores a una semana para manejo especializado;
 
 Sin aptitud para ejercer actividades de su profesión u oficio, y
 
-Con disminución para realizar actividades de la vida diaria, puede realizar las de autocuidado.71 a 90%Clase VIAusencia de respuesta a los tratamientos instituidos;
+| Con disminución para realizar actividades de la vida diaria, puede realizar las de autocuidado. | 71 a 90% |
+| --- | --- |
+| Clase VI | Ausencia de respuesta a los tratamientos instituidos; |
 
 Con internamientos recurrentes mayores a una semana para manejo especializado;
 
 Sin aptitud para ejercer actividades remuneradas semejantes a su profesión u oficio, de la vida diaria y de autocuidado, y
 
-Depende de otra persona.100%Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada.
+| Depende de otra persona. | 100% |
+| --- | --- |
+| Nota: El porcentaje de valuación lo determinará el criterio con la categoría más alta encontrada. |   |
 
 Trastornos de la sangre
 
-524Anemia, leucopenia, trombocitopenia por exposición a agentes físicos y químicos, serán evaluados con el mismo procedimiento que para el cáncer.100%Artículo reformado DOF 30-11-2012, 01-05-2019. Reformado en su totalidad con Tabla de enfermedades de trabajo y Tabla para la valuación de incapacidades permanentes resultantes de los riesgos de trabajo DOF 04-12-2023
+| 524 | Anemia, leucopenia, trombocitopenia por exposición a agentes físicos y químicos, serán evaluados con el mismo procedimiento que para el cáncer. | 100% |
+| --- | --- | --- |
+| Artículo reformado DOF 30-11-2012, 01-05-2019. Reformado en su totalidad con Tabla de enfermedades de trabajo y Tabla para la valuación de incapacidades permanentes resultantes de los riesgos de trabajo DOF 04-12-2023 |   |   |
 
 ###### Artículo 514.-
 
@@ -10832,7 +11560,8 @@ VII. 	Las demás que establezcan las Leyes.
 
 > <small>Artículo adicionado DOF 30-11-2012</small>
 
-Nota: El decreto de reforma DOF 01-05-2019 no derogó el artículo 641-A de esta Ley.
+| Nota: El decreto de reforma DOF 01-05-2019 no derogó el artículo 641-A de esta Ley. |
+| --- |
 
 ###### Artículo 642.-
 
@@ -16561,33 +17290,3 @@ Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas s
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-ÚoÛoÜoãokpppppppZq\q_q`qaqÊrërìrírïrðrñrésësîsïsðs^t`tdtetft¨t©téÜÎÜ´é¥~k~¥ÎÜ^Ü´é¥~k~¥~k~¥~k~¥h¶3h`}
-
-h9(CJ^JaJh)^
-
-/0Õøù³Ö×ä.÷íííÛÓÛÛÓÛÛÓÉÉÓÁ´««$
-
-òòæòòæòòòÜÔòòæòËËÃòÜÜÜ$a$gd$
-
-óæÜÜÜóæææÈÀÈÈÈ¬¤¬¬¤$a$gdÝW$
-
-íííåÛÛåÎÄ¸ÎÄ°Î°$
-
-ECFCÐCóCôCE$E%E@E{E|EEEÔEÕEF¤F¥F-G.GõõíààÔàÊÔàÁÁ¹àõíà¥¥$
-
-ÓÓ Ô!Ô$Ô%Ô0Ö1Ö4Ö5Ö Ø!Ø"Ø%Ø&ØDÙEÙFÙ¬Ú­Ú®Ú²Ú³ÚÜÜ
-
-JJJJÑJéJõJÿJK
-
-h9(CJ^JaJh)^
-
-h9(5CJ^JaJh)^
-
-h9(CJ^Jh9(h9(CJ^JaJh9(CJPJ^JaJh)^
-
-h9(CJPJ^JaJh)^
-
-h9(5CJ^JaJh)^
-
-h9(CJ^JaJ#h)^

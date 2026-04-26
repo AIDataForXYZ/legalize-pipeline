@@ -1754,7 +1754,60 @@ Para los efectos de esta Ley, se entenderá por el valor diario de la Unidad de 
 
 ###### Artículo 170.-
 
-Las sanciones y multas establecidas en el presente ordenamiento se aplicarán conforme a la siguiente tabla: POR COMETER LA INFRACCIÓN PREVISTA EN EL ARTÍCULO (167)EN SU CASO LA MULTA CORRESPONDIENTE SE APLICARÁ DE ACUERDO CON EL TABULADOR DEL ARTÍCULO (169)SE APLICARÁ SANCIÓN CONFORME AL ARTÍCULO (168) POR TIPOFRACC. IB5FRACC. IIB5FRACC. IIIB5FRACC. IVC5FRACC. VA5FRACC. VIC4 y 5 FRACC. VIIB3 y 5 FRACC. VIIIB5FRACC. IXC5FRACC. XC5FRACC. XID4 y 5 FRACC. XIIC4 y 5FRACC. XIIIB2 y 5FRACC. XIVB5FRACC. XVB5FRACC. XVI-4FRACC. XVIIA5FRACC. XVIIIC1 y 5FRACC. XIXA5FRACC. XXD5FRACC. XXIA3 y 5FRACC. XXIIA5FRACC. XXIIIB3 y 5FRACC. XXIVB2 y 5FRACC. XXVB5FRACC. XXVIB3 y 5FRACC. XXVIIB5FRACC. XXVIIID5FRACC. XXIXB4 y 5FRACC. XXXA5FRACC. XXXIA5FRACC. XXXIIA5FRACC. XXXIIID3 y 5FRACC. XXXIVC3 y 5FRACC. XXXVB5FRACC. XXXVIB5FRACC. XXXVIIB3 y 5FRACC. XXXVIIIA5FRACC. XXXIXA5FRACC. XLC5FRACC. XLIB5FRACC. XLIIB3 y 5FRACC. XLIIIC3 y 5FRACC. XLIVB4 y 5FRACC. XLVA5FRACC. XLVIC5FRACC. XLVIIB1 y 5FRACC. XLVIIID5FRACC. XLIXC5FRACC. LArtículo 151 Fracción II, D; Fracción III, B; Fracción IV, A; Fracción V, A; Fracción VI, A; Fracción VII, C; Fracción VIII, C.5FRACC. LIB5FRACC. LIID5
+Las sanciones y multas establecidas en el presente ordenamiento se aplicarán conforme a la siguiente tabla: | POR COMETER LA INFRACCIÓN PREVISTA EN EL ARTÍCULO (167) | EN SU CASO LA MULTA CORRESPONDIENTE SE APLICARÁ DE ACUERDO CON EL TABULADOR DEL ARTÍCULO (169) | SE APLICARÁ SANCIÓN CONFORME AL ARTÍCULO (168) POR TIPO |
+| --- | --- | --- |
+| FRACC. I | B | 5 |
+| FRACC. II | B | 5 |
+| FRACC. III | B | 5 |
+| FRACC. IV | C | 5 |
+| FRACC. V | A | 5 |
+| FRACC. VI | C | 4 y 5 |
+| FRACC. VII | B | 3 y 5 |
+| FRACC. VIII | B | 5 |
+| FRACC. IX | C | 5 |
+| FRACC. X | C | 5 |
+| FRACC. XI | D | 4 y 5 |
+| FRACC. XII | C | 4 y 5 |
+| FRACC. XIII | B | 2 y 5 |
+| FRACC. XIV | B | 5 |
+| FRACC. XV | B | 5 |
+| FRACC. XVI | - | 4 |
+| FRACC. XVII | A | 5 |
+| FRACC. XVIII | C | 1 y 5 |
+| FRACC. XIX | A | 5 |
+| FRACC. XX | D | 5 |
+| FRACC. XXI | A | 3 y 5 |
+| FRACC. XXII | A | 5 |
+| FRACC. XXIII | B | 3 y 5 |
+| FRACC. XXIV | B | 2 y 5 |
+| FRACC. XXV | B | 5 |
+| FRACC. XXVI | B | 3 y 5 |
+| FRACC. XXVII | B | 5 |
+| FRACC. XXVIII | D | 5 |
+| FRACC. XXIX | B | 4 y 5 |
+| FRACC. XXX | A | 5 |
+| FRACC. XXXI | A | 5 |
+| FRACC. XXXII | A | 5 |
+| FRACC. XXXIII | D | 3 y 5 |
+| FRACC. XXXIV | C | 3 y 5 |
+| FRACC. XXXV | B | 5 |
+| FRACC. XXXVI | B | 5 |
+| FRACC. XXXVII | B | 3 y 5 |
+| FRACC. XXXVIII | A | 5 |
+| FRACC. XXXIX | A | 5 |
+| FRACC. XL | C | 5 |
+| FRACC. XLI | B | 5 |
+| FRACC. XLII | B | 3 y 5 |
+| FRACC. XLIII | C | 3 y 5 |
+| FRACC. XLIV | B | 4 y 5 |
+| FRACC. XLV | A | 5 |
+| FRACC. XLVI | C | 5 |
+| FRACC. XLVII | B | 1 y 5 |
+| FRACC. XLVIII | D | 5 |
+| FRACC. XLIX | C | 5 |
+| FRACC. L | Artículo 151 Fracción II, D; Fracción III, B; Fracción IV, A; Fracción V, A; Fracción VI, A; Fracción VII, C; Fracción VIII, C. | 5 |
+| FRACC. LI | B | 5 |
+| FRACC. LII | D | 5 |
 
 A los infractores reincidentes se les sancionará de la manera siguiente:
 
@@ -1981,19 +2034,3 @@ Artículo Único. Se reforman los artículos 169, apartados A, B, C, D y segundo
 Ciudad de México, a 3 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de mayo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-hpWÏ5CJ
-
-hü75CJhpWÏ@ÿÿCJaJ
-
-hpWÏ5CJ
-
-]]f]s]·_Ä_FcSce)effNfRfff§fªfñfóf^gagg±g¿giiâiäijj@jDjÂjÆj.k0k6l9lmmUpbpjqqqwttGwTwx
-
-hpWÏ5CJ
-
-@DwzÃÅûþ59Ôâ		2@·Åð
-
-hpWÏ5CJW?@vwÂÃúû45bcÓÔ		12¶·ï
-
-hpWÏ5CJ

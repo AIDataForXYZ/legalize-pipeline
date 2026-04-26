@@ -193,5 +193,3 @@ hp3;CJhp35;CJ
 hp35CJhp35;CJ
 
 hp3;CJhp35;CJ
-
-hp35CJhp35;CJ

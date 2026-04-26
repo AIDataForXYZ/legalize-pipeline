@@ -271,5 +271,3 @@ Artículo Único.- Se reforma la fracción III del artículo 10 de la Ley de Edu
 Ciudad de México, a 02 de febrero de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Delgadillo García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de marzo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-
-**++ +"+#+D+E+F+I+J+t+u+v+z+{+Ã+Ä+Å+ä+å+æ+ò+à,á,â,î,V-W-X-d-...<.=.óçÝÓÊÁÝÓÊÁµ©ÊÁµ©ÊÁµ©ÊÁÝÓÊÁµ©ÊÁµ©ÊÁµ©ÊÁÝóçÝÓÊÁÝÓÊÁÝÓÊÁÝóçhOhõ}5@ûÿCJhOhi¾5@ûÿCJhOhO5@ûÿCJhOhsr³CJhOhi¾CJhOhi¾5CJhOhO5CJhOhsr³5CJaJhOhi¾5CJaJ>'''](^(¹(º(`)a)Ô)Õ)*

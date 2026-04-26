@@ -754,7 +754,28 @@ VI.	Marinería.
 
 ###### Artículo 81.
 
-Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes: ARMADAEJÉRCITO Y FUERZA AÉREAGUARDIA NACIONALI. ALMIRANTESGENERALESGENERALESAlmiranteGeneral de DivisiónGeneral de División de Guardia NacionalVicealmiranteGeneral de Brigada o General de AlaGeneral de Brigada de Guardia NacionalContralmiranteGeneral Brigadier o General de GrupoGeneral Brigadier de Guardia NacionalII. CAPITANESJEFESJEFESCapitán de NavíoCoronelCoronel de Guardia NacionalCapitán de FragataTeniente CoronelTeniente Coronel de Guardia NacionalCapitán de CorbetaMayorMayor de Guardia NacionalIII. OFICIALESOFICIALESOFICIALESTeniente de NavíoCapitán PrimeroCapitán Primero de Guardia NacionalTeniente de FragataCapitán SegundoCapitán Segundo de Guardia NacionalTeniente de CorbetaTenienteTeniente de Guardia NacionalGuardiamarinaSubtenienteSubteniente de Guardia NacionalPrimer MaestreSubtenienteSubteniente de Guardia NacionalIV. CLASESCLASESCLASESSegundo MaestreSargento PrimeroSargento Primero de Guardia NacionalTercer MaestreSargento SegundoSargento Segundo de Guardia NacionalCaboCaboCabo de Guardia NacionalV. MARINERÍAMarineroSoldadoSoldado de Guardia Nacional
+Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes: | ARMADA | EJÉRCITO Y FUERZA AÉREA | GUARDIA NACIONAL |
+| --- | --- | --- |
+| I. ALMIRANTES | GENERALES | GENERALES |
+| Almirante | General de División | General de División de Guardia Nacional |
+| Vicealmirante | General de Brigada o General de Ala | General de Brigada de Guardia Nacional |
+| Contralmirante | General Brigadier o General de Grupo | General Brigadier de Guardia Nacional |
+| II. CAPITANES | JEFES | JEFES |
+| Capitán de Navío | Coronel | Coronel de Guardia Nacional |
+| Capitán de Fragata | Teniente Coronel | Teniente Coronel de Guardia Nacional |
+| Capitán de Corbeta | Mayor | Mayor de Guardia Nacional |
+| III. OFICIALES | OFICIALES | OFICIALES |
+| Teniente de Navío | Capitán Primero | Capitán Primero de Guardia Nacional |
+| Teniente de Fragata | Capitán Segundo | Capitán Segundo de Guardia Nacional |
+| Teniente de Corbeta | Teniente | Teniente de Guardia Nacional |
+| Guardiamarina | Subteniente | Subteniente de Guardia Nacional |
+| Primer Maestre | Subteniente | Subteniente de Guardia Nacional |
+| IV. CLASES | CLASES | CLASES |
+| Segundo Maestre | Sargento Primero | Sargento Primero de Guardia Nacional |
+| Tercer Maestre | Sargento Segundo | Sargento Segundo de Guardia Nacional |
+| Cabo | Cabo | Cabo de Guardia Nacional |
+| V. MARINERÍA |   |   |
+| Marinero | Soldado | Soldado de Guardia Nacional |
 
 Además de las distintas categorías y jerarquías que ostenta el personal de la Armada de México, señaladas en el cuadro anterior, se cuenta con Cadetes y Alumnado, quienes cursan diversos estudios en los planteles educativos navales.
 
@@ -975,9 +996,3 @@ Cuarto. Los procedimientos que se encuentren en trámite a la entrada en vigor d
 Quinto. Las referencias que se hagan de las personas servidoras públicas o unidades operativas de la Armada de México en otros ordenamientos, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor de la presente Ley, se entenderán referidas a las personas servidoras públicas y unidades operativas que, conforme al mismo, sean competentes en la materia que se trate.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-$¤P`a$gd Àýdÿ^`Àýgd dÿgd tuyz­®±²¼½¿Àßàãäÿ¨©µVWxyùúüý!"%&FGKLÎÏÑÒ£¤°
-
-æ%ç&ç*ç+çÅçÆçÉçÊçÓçÔçÖç×çéé é!é¬é­é±é²éãêäêéêêêWëXë[ë\ë7ì8ì:ì;ìÅìÆìÉìÊì;í<í@íAíÚíÛíçíÝîÞî-ñ.ñÌñÍñÙñ,ò-ò/ò0ò»ò¼ò¿òÀò\ó]ó_ó`óDôEôGôHôõ	õ
-
-ÆC"$IfgdÑskgdêcO°

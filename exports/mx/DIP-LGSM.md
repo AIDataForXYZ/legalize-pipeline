@@ -1864,7 +1864,8 @@ Las sociedades extranjeras deberán publicar anualmente, en el sistema electrón
 
 > <small>Párrafo reformado DOF 13-06-2014</small>
 
-Nota: El Decreto DOF 28-07-2006 que reformó el párrafo segundo del artículo 251 de esta Ley, hace referencia a las fracciones I a III de dicho párrafo segundo, como si estuvieran vigentes (I. a III. ...). Sin embargo, estas fracciones fueron previamente suprimidas del artículo 251, segundo párrafo, al reformarse dicho precepto por Decreto DOF 24-12-1996.
+| Nota: El Decreto DOF 28-07-2006 que reformó el párrafo segundo del artículo 251 de esta Ley, hace referencia a las fracciones I a III de dicho párrafo segundo, como si estuvieran vigentes (I. a III. ...). Sin embargo, estas fracciones fueron previamente suprimidas del artículo 251, segundo párrafo, al reformarse dicho precepto por Decreto DOF 24-12-1996. |
+| --- |
 
 ### CAPITULO XIII
 

@@ -596,43 +596,53 @@ Los grados y las insignias de la Guardia Nacional no podrán ser usados por pers
 
 ###### Artículo 40.
 
-Para una adecuada colaboración de la Guardia Nacional, con el Ejército, Armada y Fuerza Aérea en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 18, 19 y 20, fracción I, de esta Ley, la equivalencia jerárquica será la siguiente: GUARDIA NACIONALEJÉRCITO Y FUERZA AÉREAARMADAI. Generales:
+Para una adecuada colaboración de la Guardia Nacional, con el Ejército, Armada y Fuerza Aérea en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 18, 19 y 20, fracción I, de esta Ley, la equivalencia jerárquica será la siguiente: | GUARDIA NACIONAL | EJÉRCITO Y FUERZA AÉREA | ARMADA |
+| --- | --- | --- |
+| I. Generales: |   |   |
 
 General de División de Guardia Nacional
 
 General de Brigada de Guardia Nacional
 
-General Brigadier de Guardia NacionalI. Generales:
+| General Brigadier de Guardia Nacional | I. Generales: |
+| --- | --- |
 
 General de División
 
 General de Brigada o General de Ala
 
-General Brigadier o General de GrupoI. Almirantes:
+| General Brigadier o General de Grupo | I. Almirantes: |
+| --- | --- |
 
 Almirante
 
 Vicealmirante
 
-ContralmiranteII. Jefes:
+| Contralmirante |
+| --- |
+| II. Jefes: |
 
 Coronel de Guardia Nacional
 
 Teniente Coronel de Guardia Nacional
 
-Mayor de Guardia NacionalII. Jefes:
+| Mayor de Guardia Nacional | II. Jefes: |
+| --- | --- |
 
 Coronel
 
 Teniente Coronel
 
-MayorII. Capitanes:
+| Mayor | II. Capitanes: |
+| --- | --- |
 
 Capitán de Navío
 
 Capitán de Fragata
 
-Capitán de CorbetaIII. Oficiales:
+| Capitán de Corbeta |
+| --- |
+| III. Oficiales: |
 
 Capitán Primero de Guardia Nacional
 
@@ -640,7 +650,8 @@ Capitán Segundo de Guardia Nacional
 
 Teniente de Guardia Nacional
 
-Subteniente de Guardia NacionalIII. Oficiales:
+| Subteniente de Guardia Nacional | III. Oficiales: |
+| --- | --- |
 
 Capitán Primero
 
@@ -648,7 +659,8 @@ Capitán Segundo
 
 Teniente
 
-SubtenienteIII. Oficiales:
+| Subteniente | III. Oficiales: |
+| --- | --- |
 
 Teniente de Navío
 
@@ -656,7 +668,9 @@ Teniente de Fragata
 
 Teniente de Corbeta
 
-Primer Maestre/Guardia MarinaIV. Clases:
+| Primer Maestre/Guardia Marina |
+| --- |
+| IV. Clases: |
 
 Sargento Primero de Guardia Nacional
 
@@ -664,7 +678,8 @@ Sargento Segundo de Guardia Nacional
 
 Cabo de Guardia Nacional
 
-Soldado de Guardia NacionalIV. Clases:
+| Soldado de Guardia Nacional | IV. Clases: |
+| --- | --- |
 
 Sargento Primero
 
@@ -672,7 +687,8 @@ Sargento Segundo
 
 Cabo
 
-SoldadoIV. Clases:
+| Soldado | IV. Clases: |
+| --- | --- |
 
 Segundo Maestre
 
@@ -680,7 +696,8 @@ Tercer Maestre
 
 Cabo
 
-Marinero
+| Marinero |
+| --- |
 
 ###### Artículo 41.
 
@@ -766,7 +783,18 @@ La reincorporación al servicio del personal al que se refiere la fracción III 
 
 La licencia por edad límite es la que se concede al personal integrante de la Guardia Nacional, con veinte o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente: Años de Servicio
 
-Generales, Jefes y OficialesTropaTiempo de la Licencia25 años20 años3 meses26 años22 años4 meses28 años24 años5 meses30 años25 años6 meses32 años26 años7 meses34 años27 años8 meses36 años28 años9 meses38 años29 años10 meses40 años30 años11 meses42 o más años31 o más años12 meses
+| Generales, Jefes y Oficiales | Tropa | Tiempo de la Licencia |
+| --- | --- | --- |
+| 25 años | 20 años | 3 meses |
+| 26 años | 22 años | 4 meses |
+| 28 años | 24 años | 5 meses |
+| 30 años | 25 años | 6 meses |
+| 32 años | 26 años | 7 meses |
+| 34 años | 27 años | 8 meses |
+| 36 años | 28 años | 9 meses |
+| 38 años | 29 años | 10 meses |
+| 40 años | 30 años | 11 meses |
+| 42 o más años | 31 o más años | 12 meses |
 
 El personal integrante de la Guardia Nacional que se ubique en cualquiera de los supuestos de este artículo podrá solicitarla a la Secretaría con treinta días de anticipación a la fecha que le corresponda gozar de esta licencia; en caso de que la petición se realice en forma extemporánea, sólo se concederá este beneficio en el caso de que sea procedente, por el tiempo que reste para cumplir la edad límite para su permanencia en el activo.
 
@@ -1263,11 +1291,3 @@ Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Regla
 Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-$dNÆÿgd*r¤&dPÆÿgd|D$a$gd|D$¤&dPÆÿa$gd|D				Ú	Û	STno»¼Ç
-
-___L_M_}_~__r`s`Ê`Ë`Ø`aRaSaTafa×aØabbbb.b/b2b3b<bbbbbc	cc
-
-ïðüäåçèõöùú;<qrÅÆÒ¦§³ôõ÷ø`adeÞßàâ
-
-/0uvêë÷©fsÍ Î Û m!n!W"X""""0#1#À#Á#ò#ó#J$K$W$

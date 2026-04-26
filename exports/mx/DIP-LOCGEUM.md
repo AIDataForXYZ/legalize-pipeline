@@ -2122,7 +2122,9 @@ a) 	Los asuntos a cargo de las comisiones ordinarias y especiales vigentes, así
 
 COMISIONES VIGENTES
 
-NUEVAS COMISIONES O COMITESAsuntos de la Frontera Sur
+|   | NUEVAS COMISIONES O COMITES |
+| --- | --- |
+| Asuntos de la Frontera Sur |   |
 
 Asuntos Fronterizos
 
@@ -2136,35 +2138,53 @@ Radio, Televisión y Cinematografía
 
 Seguridad Pública
 
-Gobernación, Población y Seguridad PúblicaGobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
+|   | Gobernación, Población y Seguridad Pública |
+| --- | --- |
+| Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional) |   |
 
 Fortalecimiento del Federalismo
 
 Fortalecimiento Municipal
 
-Puntos Constitucionales y Sistema FederalDerechos Humanos
+|   | Puntos Constitucionales y Sistema Federal |
+| --- | --- |
+| Derechos Humanos |   |
 
 Justicia
 
-Justicia y Derechos HumanosRelaciones Exteriores
+|   | Justicia y Derechos Humanos |
+| --- | --- |
+| Relaciones Exteriores |   |
 
-Relaciones ExterioresDefensa Nacional
+|   | Relaciones Exteriores |
+| --- | --- |
+| Defensa Nacional |   |
 
-Defensa NacionalMarina
+|   | Defensa Nacional |
+| --- | --- |
+| Marina |   |
 
-MarinaHacienda y Crédito Público
+|   | Marina |
+| --- | --- |
+| Hacienda y Crédito Público |   |
 
-Hacienda y Crédito PúblicoDesarrollo Regional y Apoyo a la Producción
+|   | Hacienda y Crédito Público |
+| --- | --- |
+| Desarrollo Regional y Apoyo a la Producción |   |
 
 Programación, Presupuesto y Cuenta Pública
 
-Presupuesto y Cuenta PúblicaAsentamientos Humanos y Obras Públicas
+|   | Presupuesto y Cuenta Pública |
+| --- | --- |
+| Asentamientos Humanos y Obras Públicas |   |
 
 Desarrollo Social
 
 Vivienda
 
-Desarrollo Social y ViviendaAsuntos Hidráulicos
+|   | Desarrollo Social y Vivienda |
+| --- | --- |
+| Asuntos Hidráulicos |   |
 
 Bosques y Selvas
 
@@ -2172,21 +2192,31 @@ Ecología y Medio Ambiente
 
 Pesca
 
-Medio Ambiente, Recursos Naturales y PescaEnergéticos
+|   | Medio Ambiente, Recursos Naturales y Pesca |
+| --- | --- |
+| Energéticos |   |
 
-EnergíaArtesanías
+|   | Energía |
+| --- | --- |
+| Artesanías |   |
 
 Comercio
 
 Patrimonio y Fomento Industrial
 
-Comercio y Fomento IndustrialAgricultura
+|   | Comercio y Fomento Industrial |
+| --- | --- |
+| Agricultura |   |
 
 Ganadería
 
-Agricultura, Ganadería y Desarrollo RuralComunicaciones y Transportes
+|   | Agricultura, Ganadería y Desarrollo Rural |
+| --- | --- |
+| Comunicaciones y Transportes |   |
 
-Comunicaciones y Transportes Ciencia y Tecnología
+|   | Comunicaciones y Transportes |
+| --- | --- |
+| Ciencia y Tecnología |   |
 
 Corrección de Estilo
 
@@ -2196,55 +2226,92 @@ Deporte
 
 Educación
 
-Educación Pública, Cultura y Ciencia y TecnologíaPensionados y Jubilados
+|   | Educación Pública, Cultura y Ciencia y Tecnología |
+| --- | --- |
+| Pensionados y Jubilados |   |
 
 Salud
 
 Seguridad Social
 
-Salud y Seguridad SocialTrabajo y Previsión Social
+|   | Salud y Seguridad Social |
+| --- | --- |
+| Trabajo y Previsión Social |   |
 
-Trabajo y Previsión Social Reforma Agraria
+|   | Trabajo y Previsión Social |
+| --- | --- |
+| Reforma Agraria |   |
 
-Reforma Agraria Turismo
+|   | Reforma Agraria |
+| --- | --- |
+| Turismo |   |
 
-Turismo Estudios Legislativos
+|   | Turismo |
+| --- | --- |
+| Estudios Legislativos |   |
 
 Reglamentos y Prácticas Parlamentarias
 
-Reglamentos y Prácticas ParlamentariasDistrito Federal
+|   | Reglamentos y Prácticas Parlamentarias |
+| --- | --- |
+| Distrito Federal |   |
 
-Distrito FederalAsuntos Indígenas
+|   | Distrito Federal |
+| --- | --- |
+| Asuntos Indígenas |   |
 
-Asuntos Indígenas Equidad y Género
+|   | Asuntos Indígenas |
+| --- | --- |
+| Equidad y Género |   |
 
-Equidad y GéneroAtención y Apoyo a Discapacitados
+|   | Equidad y Género |
+| --- | --- |
+| Atención y Apoyo a Discapacitados |   |
 
 Asuntos de la Juventud
 
 Participación Ciudadana
 
-Atención a Grupos VulnerablesFomento Cooperativo
+|   | Atención a Grupos Vulnerables |
+| --- | --- |
+| Fomento Cooperativo |   |
 
 Distribución y Manejo de Bienes de Consumo y Servicios
 
-Fomento Cooperativo y Economía SocialVigilancia de la Contaduría Mayor de Hacienda
+|   | Fomento Cooperativo y Economía Social |
+| --- | --- |
+| Vigilancia de la Contaduría Mayor de Hacienda |   |
 
-Vigilancia de la Contaduría Mayor de HaciendaComisión Información, Gestoría y Quejas
+|   | Vigilancia de la Contaduría Mayor de Hacienda |
+| --- | --- |
+| Comisión Información, Gestoría y Quejas |   |
 
-Comité de Información, Gestoría y QuejasCOMITES VIGENTESORGANO O AREA QUE ASUME SUS TAREAS
+|   | Comité de Información, Gestoría y Quejas |   |
+| --- | --- | --- |
+|   | COMITES VIGENTES | ORGANO O AREA QUE ASUME SUS TAREAS |
 
-Administración
+| Administración |
+| --- |
 
-Junta de Coordinación PolíticaAsuntos Editoriales
+|   | Junta de Coordinación Política |
+| --- | --- |
+| Asuntos Editoriales |   |
 
-Coordinación de Comunicación SocialAsuntos Internacionales
+|   | Coordinación de Comunicación Social |
+| --- | --- |
+| Asuntos Internacionales |   |
 
-Comisión de Relaciones ExterioresBiblioteca e Informática
+|   | Comisión de Relaciones Exteriores |
+| --- | --- |
+| Biblioteca e Informática |   |
 
-Servicios de BibliotecasComunicación Social
+|   | Servicios de Bibliotecas |
+| --- | --- |
+| Comunicación Social |   |
 
-Coordinación de Comunicación SocialInstituto de investigaciones LegislativasCentro de Estudios de Derecho e Investigaciones Parlamentarias
+|   | Coordinación de Comunicación Social |
+| --- | --- |
+| Instituto de investigaciones Legislativas | Centro de Estudios de Derecho e Investigaciones Parlamentarias |
 
 b) 	Las iniciativas de reforma constitucional que se encuentren en la Comisión de Gobernación y Puntos Constitucionales, serán turnadas a la Comisión de Puntos Constitucionales y Sistema Federal, así como a las otras comisiones ordinarias que corresponda. Los demás asuntos a cargo de la Comisión de Gobernación y Puntos Constitucionales se turnarán a la nueva Comisión de Gobernación, Población y Seguridad Pública.
 
@@ -2844,25 +2911,43 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 
 a) Los asuntos a cargo de las Comisiones Ordinarias que se extinguen o fusionan, se distribuirán de la siguiente forma:
 
-Comisiones Ordinarias que se extinguen o fusionanNuevas Comisiones OrdinariasAgricultura y Sistemas de Riego
+| Comisiones Ordinarias que se extinguen o fusionan | Nuevas Comisiones Ordinarias |
+| --- | --- |
+| Agricultura y Sistemas de Riego |   |
 
 Desarrollo Rural
 
-Reforma AgrariaDesarrollo y Conservación Rural, Agrícola y Autosuficiencia AlimentariaAgua Potable y Saneamiento
+| Reforma Agraria | Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria |
+| --- | --- |
+| Agua Potable y Saneamiento |   |
 
-Recursos HidráulicosRecursos Hidráulicos, Agua Potable y SaneamientoCambio Climático
+| Recursos Hidráulicos | Recursos Hidráulicos, Agua Potable y Saneamiento |
+| --- | --- |
+| Cambio Climático |   |
 
-Medio Ambiente y Recursos NaturalesMedio Ambiente, Sustentabilidad, Cambio Climático y Recursos NaturalesCiudad de MéxicoGobernación y PoblaciónCompetitividad
+| Medio Ambiente y Recursos Naturales | Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales |
+| --- | --- |
+| Ciudad de México | Gobernación y Población |
+| Competitividad |   |
 
-EconomíaEconomía, Comercio y CompetitividadComunicaciones
+| Economía | Economía, Comercio y Competitividad |
+| --- | --- |
+| Comunicaciones |   |
 
-TransportesComunicaciones y TransportesDesarrollo Metropolitano
+| Transportes | Comunicaciones y Transportes |
+| --- | --- |
+| Desarrollo Metropolitano |   |
 
-Desarrollo Urbano y Ordenamiento TerritorialDesarrollo Metropolitano, Urbano, Ordenamiento Territorial y MovilidadDesarrollo Municipal
+| Desarrollo Urbano y Ordenamiento Territorial | Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad |
+| --- | --- |
+| Desarrollo Municipal |   |
 
-Fortalecimiento al FederalismoFederalismo y Desarrollo MunicipalGobernación
+| Fortalecimiento al Federalismo | Federalismo y Desarrollo Municipal |
+| --- | --- |
+| Gobernación |   |
 
-PoblaciónGobernación y Población
+| Población | Gobernación y Población |
+| --- | --- |
 
 b) En caso de que se presenten controversias sobre la distribución de las competencias de las Comisiones establecidas en el inciso a), la Conferencia para la Dirección y Programación de los Trabajos Legislativos resolverá lo conducente.
 
@@ -2932,30 +3017,15 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Rúbrica.- Sen. Gerardo Fernández Noroña, Presidente.- Rúbrica.- Dip. José Luis Montalvo Luna, Secretario.- Rúbrica.- Sen. Lizeth Sánchez García, Secretaria.- Rúbrica.
 
-Dirección General de BibliotecasÚltima Reforma DOF 10-05-2004
-
-fðúûüÿÊáëìíü¼ ¾ ß â ¤!§!*"-"Õ"Ø"L###©#D$G$O%R%)&,&ä&ç&ÿ'(è×Ï¿°wlÏlÏlÏlÏlÏlÏaXlÏlÏlÏlÏlÏlh±i5CJ^Jh±i5CJ\^Jh±i5CJ\^Jhá
-
-fCJ^J-há
-
-CJaJhhh¿'
-
-CJaJhhh¿'
+| Dirección General de Bibliotecas | Última Reforma DOF 10-05-2004 |
+| --- | --- |
 
 uuuu
 
 Nhr
 
-h±i5CJh±iCJ^Jh±iCJ^JefØÙäåòóuv	 	RSæ
-
 fhá
 
 fhá
-
-fCJ^Jhá
-
-fCJ^Jhá
-
-fCJaJhá
 
 fhá

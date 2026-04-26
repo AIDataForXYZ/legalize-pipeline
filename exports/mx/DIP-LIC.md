@@ -3582,7 +3582,8 @@ En caso de que alguna de las infracciones contenidas en los artículos 108 y 108
 
 > <small>Artículo adicionado DOF 06-02-2008. Reformado DOF 10-01-2014</small>
 
-Nota: el Artículo 108 Bis anterior fue reformado en dos ocasiones por el mismo Decreto publicado en el DOF 10-01-2014. El Artículo Décimo Primero de dicho Decreto reformó la fracción I, mientras que el Artículo Trigésimo Primero reformó en su totalidad el artículo 108 Bis, dejando sin efecto la primera modificación establecida en el Artículo Décimo Primero del citado Decreto.
+| Nota: el Artículo 108 Bis anterior fue reformado en dos ocasiones por el mismo Decreto publicado en el DOF 10-01-2014. El Artículo Décimo Primero de dicho Decreto reformó la fracción I, mientras que el Artículo Trigésimo Primero reformó en su totalidad el artículo 108 Bis, dejando sin efecto la primera modificación establecida en el Artículo Décimo Primero del citado Decreto. |
+| --- |
 
 ###### Artículo 108.
 
@@ -8570,17 +8571,7 @@ Uh(CJh
 
 UhïU@CJh
 
-.B*CJphhíeÍh
-
-.B*CJphhíeÍh
-
 CJhHãh£@
-
-×ÚmpóöRuþ!"7
-
-Ö×lmòóRuvùúþ!"
-
-¡Q£R£T£1¦2¦z§{§GªHªaªbªìÙÓÇ´®Ç´¤Ç´ÙxÓrrkrkrrrr
 
 h@5CJh@CJmHsHh@5CJmHsH7\
 
@@ -8591,7 +8582,3 @@ UhÜhCJh
 CJh£_Kh$-
 
 CJh£_Kh$-
-
-5CJhd$h$-
-
-5CJh£_Kh$-

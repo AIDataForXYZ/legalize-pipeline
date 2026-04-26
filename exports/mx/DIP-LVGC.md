@@ -4372,7 +4372,8 @@ Publicada en el Diario Oficial de la Federación el 11 de mayo de 1950
 
 Nota:
 
-Fe de erratas a los artículos 309, 313, 319, 327, 328, 329, 331, 336, 337, 341, 342, 343, 348, 349, 350, 357, 362, 363, 367, 371, 372, 555, 556, 562, 565, 567 y 568
+| Fe de erratas a los artículos 309, 313, 319, 327, 328, 329, 331, 336, 337, 341, 342, 343, 348, 349, 350, 357, 362, 363, 367, 371, 372, 555, 556, 562, 565, 567 y 568 |
+| --- |
 
 #### DECRETO que reforma el artículo 124 de la Ley Vías Generales de Comunicación.
 
@@ -5396,24 +5397,10 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-XsYsuuwÃwÄw<zjzkzxz¦z§zÏ{ü{ý{t|u|¾~ß~à~ÞöêêêÞöÒÞöÍÍöÒÅöööÒ¹öö$
-
-CJ^JaJhð#!hÊ
-
-CJ^JaJhÊ
-
 h1uCJ
 
 ÆÆíÚÇ±ysfbXRXRbC8ChÊ
 
-CJaJjhÊ
-
 h1uCJ
 
-hååCJaJh½ÿCJaJmHnHu*jhÊ
-
 CJUaJhÊ
-
-CJaJ jhÊ
-
-CJUaJ*h½ÿCJaJmHnHu#Æ$Æ%Æ&Æýýñ$ ` a$gd:¨50P°Ð/ °à=!°"°#$%°°Ð°ÐÐDp

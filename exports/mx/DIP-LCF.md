@@ -2064,7 +2064,13 @@ Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor 
 
 Séptimo.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en, al menos, los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio o demarcación territorial por concepto del citado Fondo, considerando el 100% de la facturación de los conceptos referidos:
 
-Ejercicio FiscalPorcentaje de Retención201450%201560%201675%201785%2018100%
+| Ejercicio Fiscal | Porcentaje de Retención |
+| --- | --- |
+| 2014 | 50% |
+| 2015 | 60% |
+| 2016 | 75% |
+| 2017 | 85% |
+| 2018 | 100% |
 
 Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia, vigentes en la fecha de publicación de esta Ley.
 
@@ -2122,7 +2128,12 @@ Para determinar la recaudación federal participable referida en el párrafo ant
 
 a)	Tratándose de la proporción de ingresos por derechos a que se refiere la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar el porcentaje establecido en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, para determinar los ingresos participables, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes:
 
-Ejercicio FiscalPorcentaje201573.00%201674.82%201776.65%201878.47%
+| Ejercicio Fiscal | Porcentaje |
+| --- | --- |
+| 2015 | 73.00% |
+| 2016 | 74.82% |
+| 2017 | 76.65% |
+| 2018 | 78.47% |
 
 b)	Tratándose de la proporción de ingresos por contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos, se estará a lo dispuesto por el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
 

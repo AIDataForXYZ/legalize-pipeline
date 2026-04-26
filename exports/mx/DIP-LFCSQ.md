@@ -912,21 +912,141 @@ APÉNDICE UNO
 
 LISTADO NACIONAL
 
-SUSTANCIASNÚMERO DE CASGRUPO 1GRUPO 1A1A.1Alquil (metil, etil, propil (normal o isopropil)) fosfonofluoridatos de O-alquilo (<C10, incluido el cicloalquilo)ej.: Sarín: Metilfosfonofluoridato de O-isopropilo(107-44-8)Somán: Metilfosfonofluoridato de O-pinacolilo(96-64-0)1A.2N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamidocianidatos de O-alquilo (<C10, incluido el cicloalquilo)ej.: Tabún: N,N-dimetilfosforamidocianidato de O-etilo(77-81-6)1A.3S-2-dialquil (metil, etil, propil (normal o isopropil)) aminoetilalquil (metil, etil, propil (normal o isopropil)) fosfonotiolatos de O-alquilo (H o <C10, incluido el cicloalquilo) y sales alquilatadas o protonadas correspondientesej.: VX:S-2-diisopropilaminoetilmetilfosfonotiolato de O-etilo(50782-69-9)1A.4Mostazas de azufre:Clorometilsulfuro de 2-cloroetil(2625-76-5)Gas mostaza: sulfuro de bis (2-cloroetilo)(505-60-2)Bis(2-cloroetiltio)metano(63869-13-6)Sesquimostaza: 1,2-bis(2-cloroetiltio)etano(3563-36-8)1,3-bis(2-cloroetiltio)propano normal(63905-10-2)1,4-bis(2-cloroetiltio)butano normal(142868-93-7)1,5-bis(2-cloroetiltio)pentano normal(142868-94-8)Bis(2-cloroetiltiometil)éter(63918-90-1)Mostaza O: bis(2-cloroetiltioetil)éter(63918-89-8)1A.5Lewisitas:Lewisita 1: 2-clorovinildicloroarsina(541-25-3)Lewisita 2: bis(2-clorovinil) cloroarsina(40334-69-8)Lewisita 3: tris(2-clorovinil) arsina(40334-70-1)1A.6Mostazas de nitrógeno:HN1: bis(2-cloroetil) etilamina(538-07-8)HN2: bis(2-cloroetil) metilamina(51-75-2)HN3: tris(2-cloroetil) amina(555-77-1)1A.7Saxitoxina(35523-89-8)1A.8Ricina(9009-86-3)1A.9Fluoruros de P-alquil (H o d"C10, incluido el cicloalquilo) N-(1-(dialquil (d"C10, incluido el cicloalquilo) amino)) alquiliden (H o d"C10, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientesej.: fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamídico(2387495-99-8)Metil-(1-(dietilamino)etiliden) fosfonamidofluoridato(2387496-12-8)1A.10O-alquil (H o d"C10, incluido el cicloalquilo) N-(1-(dialquil (d"C10, incluido el cicloalquilo) amino)) alquiliden (H o d"C10, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientesej.: O-n-decil N-(1-(di-n-decilamino)-n-deciliden) fosforamidofluoridato(2387496-00-4)Metil (1-(dietilamino)etiliden) fosforamidofluoridato(2387496-04-8)Etil (1-(dietilamino)etiliden) fosforamidofluoridato(2387496-06-0)1A.11Metil-(bis(dietilamino)metilen) fosfonamidofluoridato(2387496-14-0)1A.12Carbamatos (cuaternarios y bicuaternarios de dimetilcarbamoiloxipiridinas)
+|   | SUSTANCIAS | NÚMERO DE CAS |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| GRUPO 1 | GRUPO 1A | 1A.1 | Alquil (metil, etil, propil (normal o isopropil)) fosfonofluoridatos de O-alquilo (<C10, incluido el cicloalquilo) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| ej.: Sarín: Metilfosfonofluoridato de O-isopropilo | (107-44-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Somán: Metilfosfonofluoridato de O-pinacolilo | (96-64-0) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.2 | N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamidocianidatos de O-alquilo (<C10, incluido el cicloalquilo) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| ej.: Tabún: N,N-dimetilfosforamidocianidato de O-etilo | (77-81-6) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.3 | S-2-dialquil (metil, etil, propil (normal o isopropil)) aminoetilalquil (metil, etil, propil (normal o isopropil)) fosfonotiolatos de O-alquilo (H o <C10, incluido el cicloalquilo) y sales alquilatadas o protonadas correspondientes |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| ej.: VX:S-2-diisopropilaminoetilmetilfosfonotiolato de O-etilo | (50782-69-9) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.4 | Mostazas de azufre: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Clorometilsulfuro de 2-cloroetil | (2625-76-5) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Gas mostaza: sulfuro de bis (2-cloroetilo) | (505-60-2) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Bis(2-cloroetiltio)metano | (63869-13-6) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Sesquimostaza: 1,2-bis(2-cloroetiltio)etano | (3563-36-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | 1,3-bis(2-cloroetiltio)propano normal | (63905-10-2) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | 1,4-bis(2-cloroetiltio)butano normal | (142868-93-7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | 1,5-bis(2-cloroetiltio)pentano normal | (142868-94-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Bis(2-cloroetiltiometil)éter | (63918-90-1) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Mostaza O: bis(2-cloroetiltioetil)éter | (63918-89-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.5 | Lewisitas: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Lewisita 1: 2-clorovinildicloroarsina | (541-25-3) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Lewisita 2: bis(2-clorovinil) cloroarsina | (40334-69-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | Lewisita 3: tris(2-clorovinil) arsina | (40334-70-1) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.6 | Mostazas de nitrógeno: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| HN1: bis(2-cloroetil) etilamina | (538-07-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | HN2: bis(2-cloroetil) metilamina | (51-75-2) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | HN3: tris(2-cloroetil) amina | (555-77-1) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.7 | Saxitoxina | (35523-89-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.8 | Ricina | (9009-86-3) |   |   |   | 1A.9 | Fluoruros de P-alquil (H o d"C10, incluido el cicloalquilo) N-(1-(dialquil (d"C10, incluido el cicloalquilo) amino)) alquiliden (H o d"C10, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientes |   |   |   |   |   | ej.: fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamídico | (2387495-99-8) |   |   |   |   | Metil-(1-(dietilamino)etiliden) fosfonamidofluoridato | (2387496-12-8) |   |   |   | 1A.10 | O-alquil (H o d"C10, incluido el cicloalquilo) N-(1-(dialquil (d"C10, incluido el cicloalquilo) amino)) alquiliden (H o d"C10, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientes |   |   |   |   |   | ej.: O-n-decil N-(1-(di-n-decilamino)-n-deciliden) fosforamidofluoridato | (2387496-00-4) |   |   |   |   | Metil (1-(dietilamino)etiliden) fosforamidofluoridato | (2387496-04-8) |
+|   | Etil (1-(dietilamino)etiliden) fosforamidofluoridato | (2387496-06-0) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.11 | Metil-(bis(dietilamino)metilen) fosfonamidofluoridato | (2387496-14-0) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1A.12 | Carbamatos (cuaternarios y bicuaternarios de dimetilcarbamoiloxipiridinas) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 Cuaternarios de dimetilcarbamoiloxipiridinas:
 
-Dibromuro de 1-[N,N-dialquil(d"!10)-N-(n-(hidroxil, ciano, acetoxi)alquil(d"!10)) amonio]-n-[N-(3-dimetilcarbamoxi-±-picolinil)-N,N-dialquil(d"!10) amonio]decano (n=1-8)ej.: Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetilcarbamoxi-±-picolinil)-N,N-dimetilamonio]decano(77104-62-2)Bicuaternarios de dimetilcarbamoiloxipiridinas:
+| Dibromuro de 1-[N,N-dialquil(d"!10)-N-(n-(hidroxil, ciano, acetoxi)alquil(d"!10)) amonio]-n-[N-(3-dimetilcarbamoxi-±-picolinil)-N,N-dialquil(d"!10) amonio]decano (n=1-8) |   |   |   |   |   | ej.: Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetilcarbamoxi-±-picolinil)-N,N-dimetilamonio]decano | (77104-62-2) |   |   |   |   | Bicuaternarios de dimetilcarbamoiloxipiridinas: |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-Dibromuro de 1,n-bis[N-(3-dimetilcarbamoxi-±-picolil)-N,N-dialquil(d"!10) amonio]-alcano-(2,(n-1)-diona) (n=2-12)ej.: Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-±-picolil)-N-etil-N-metilamonio]decano-2,9-diona)(77104-00-8)GRUPO 1B1B.1Fosfonildifluoruros de alquilo (metilo, etilo, propilo (normal o isopropilo))ej.: DF: metilfosfonildifluoruro(676-99-3)1B.2O-2-dialquil (metil, etil, propil (normal o isopropil)) aminoetilalquil (metil, etil, propil (normal o isopropil)) fosfonitos de O-alquilo (H o <C10, incluido el cicloalquilo) y sales alquilatadas o protonadas correspondientesej.: QL: O-2-diisopropilaminoetilmetilfosfonito de O-etilo(57856-11-8)1B.3Cloro Sarín: metilfosfonocloridato de O-isopropilo(1445-76-7)1B.4Cloro Somán: metilfosfonocloridato de O-pinacolilo(7040-57-5)
+| Dibromuro de 1,n-bis[N-(3-dimetilcarbamoxi-±-picolil)-N,N-dialquil(d"!10) amonio]-alcano-(2,(n-1)-diona) (n=2-12) |   |   |   |   |   | ej.: Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-±-picolil)-N-etil-N-metilamonio]decano-2,9-diona) | (77104-00-8) |   |   | GRUPO 1B | 1B.1 | Fosfonildifluoruros de alquilo (metilo, etilo, propilo (normal o isopropilo)) |   |   |   |   |   | ej.: DF: metilfosfonildifluoruro | (676-99-3) |   |   |   | 1B.2 | O-2-dialquil (metil, etil, propil (normal o isopropil)) aminoetilalquil (metil, etil, propil (normal o isopropil)) fosfonitos de O-alquilo (H o <C10, incluido el cicloalquilo) y sales alquilatadas o protonadas correspondientes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ej.: QL: O-2-diisopropilaminoetilmetilfosfonito de O-etilo | (57856-11-8) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1B.3 | Cloro Sarín: metilfosfonocloridato de O-isopropilo | (1445-76-7) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| 1B.4 | Cloro Somán: metilfosfonocloridato de O-pinacolilo | (7040-57-5) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
-SUSTANCIASNÚMERO DE CASGRUPO 2GRUPO 2A2A.1Amitón: Fosforotiolato de O,O-dietil S-2-(dietilamino) etil y sales alquilatadas o protonadas correspondientes(78-53-5)2A.2PFIB: 1,1,3,3,3-pentafluoro-2-(trifluorometil) de 1-propeno(382-21-8)2A.3BZ: Bencilato de 3-quinuclidinilo (*)(6581-06-2)GRUPO 2B2B.1Sustancias químicas, excepto las sustancias enumeradas en el Grupo 1, que contengan un átomo de fósforo al que esté enlazado un grupo metilo, etilio o propilo (normal o isopropilo), pero no otros átomos de carbonoej.: dicloruro de metilfosfonilo(676-97-1)metilfosfonato de dimetilo(756-79-6)Excepción: Fonofos: etilfosfonotiolotionato de O-etilo S-fenilo(944-22-9)2B.2Dihaluros N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamídicos2B.3N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamidatos dialquílicos (metílicos, etílicos, propílicos (propilo normal o isopropilo)).2B.4Tricloruro de arsénico(7784-34-1)2B.5Ácido 2,2-difenil-2-hidroxiacético(76-93-7)2B.6Quinuclidinol-3(1619-34-7)2B.7Cloruros de N,N-dialquil (metil, etil, propil (normal o isopropil)) aminoetilo-2 y sales protonadas correspondientes2B.8N,N-dialquil (metil, etil, propil (propilo normal o isopropilo)) aminoetanoles-2 y sales protonadas correspondientesExcepciones: N,N-dimetilaminoetanol y sales protonadas correspondientes(108-01-0)N,N-dietilaminoetanol y sales protonadas correspondientes(100-37-8)2B.9N,N-dialquil (metil, etil, propil (propilo normal o isopropilo)) aminoetanoltioles-2 y sales protonadas correspondientes2B.10Tiodiglicol: sulfuro de bis (2-hidroxietilo)(111-48-8)2B.11Alcohol pinacolílico: 3,3-dimetilbutanol-2(464-07-3)2B.12Etilfosfonato de dietilo (78-38-6)2B.13Metilfosfonito de O,O-dietilo(15715-41-0)2B.14N,N-dimetilfosforamidato de dietilo(2404-03-7)2B.15N,N-diisopropil-beta-aminoetanotiol(5842-07-9)2B.16Cloruro de 2-cloroetildiisopropilamonio(4261-68-1)2B.172-diisopropilaminoetanol(96-80-0)2B.182-cloro-N,N-diisopropiletilamina(96-79-7)2B.19Etilfosfonato de O,O-dimetilo(6163-75-3)2B.20Dicloroetilfosfina(1498-40-4)2B.21Difluoruro de etilfosfinilo(430-78-4)2B.22Dicloruro etilfosfónico(1066-50-8)2B.23Ácido metilfosfónico(993-13-5)2B.24Metilfosfonato de dietilo(683-08-9)2B.25Dicloruro dimetilfosforamídico(677-43-0)2B.26Dicloruro de metilfosforotioato(676-98-2)
+|   | SUSTANCIAS | NÚMERO DE CAS |   |   |
+| --- | --- | --- | --- | --- |
+| GRUPO 2 | GRUPO 2A | 2A.1 | Amitón: Fosforotiolato de O,O-dietil S-2-(dietilamino) etil y sales alquilatadas o protonadas correspondientes | (78-53-5) |
+| 2A.2 | PFIB: 1,1,3,3,3-pentafluoro-2-(trifluorometil) de 1-propeno | (382-21-8) |   |   |
+| 2A.3 | BZ: Bencilato de 3-quinuclidinilo (*) | (6581-06-2) |   |   |
+|   | GRUPO 2B | 2B.1 | Sustancias químicas, excepto las sustancias enumeradas en el Grupo 1, que contengan un átomo de fósforo al que esté enlazado un grupo metilo, etilio o propilo (normal o isopropilo), pero no otros átomos de carbono |   |
+| ej.: dicloruro de metilfosfonilo | (676-97-1) |   |   |   |
+|   | metilfosfonato de dimetilo | (756-79-6) |   |   |
+|   | Excepción: Fonofos: etilfosfonotiolotionato de O-etilo S-fenilo | (944-22-9) |   |   |
+| 2B.2 | Dihaluros N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamídicos |   |   |   |
+|   | 2B.3 | N,N-dialquil (metil, etil, propil (normal o isopropil)) fosforamidatos dialquílicos (metílicos, etílicos, propílicos (propilo normal o isopropilo)). |   |   |
+|   | 2B.4 | Tricloruro de arsénico | (7784-34-1) |   |
+| 2B.5 | Ácido 2,2-difenil-2-hidroxiacético | (76-93-7) |   |   |
+| 2B.6 | Quinuclidinol-3 | (1619-34-7) |   |   |
+| 2B.7 | Cloruros de N,N-dialquil (metil, etil, propil (normal o isopropil)) aminoetilo-2 y sales protonadas correspondientes |   |   |   |
+|   | 2B.8 | N,N-dialquil (metil, etil, propil (propilo normal o isopropilo)) aminoetanoles-2 y sales protonadas correspondientes |   |   |
+| Excepciones: N,N-dimetilaminoetanol y sales protonadas correspondientes | (108-01-0) |   |   |   |
+|   | N,N-dietilaminoetanol y sales protonadas correspondientes | (100-37-8) |   |   |
+| 2B.9 | N,N-dialquil (metil, etil, propil (propilo normal o isopropilo)) aminoetanoltioles-2 y sales protonadas correspondientes |   |   |   |
+|   | 2B.10 | Tiodiglicol: sulfuro de bis (2-hidroxietilo) | (111-48-8) |   |
+| 2B.11 | Alcohol pinacolílico: 3,3-dimetilbutanol-2 | (464-07-3) |   |   |
+| 2B.12 | Etilfosfonato de dietilo | (78-38-6) |   |   |
+| 2B.13 | Metilfosfonito de O,O-dietilo | (15715-41-0) |   |   |
+| 2B.14 | N,N-dimetilfosforamidato de dietilo | (2404-03-7) |   |   |
+| 2B.15 | N,N-diisopropil-beta-aminoetanotiol | (5842-07-9) |   |   |
+| 2B.16 | Cloruro de 2-cloroetildiisopropilamonio | (4261-68-1) |   |   |
+| 2B.17 | 2-diisopropilaminoetanol | (96-80-0) |   |   |
+| 2B.18 | 2-cloro-N,N-diisopropiletilamina | (96-79-7) |   |   |
+| 2B.19 | Etilfosfonato de O,O-dimetilo | (6163-75-3) |   |   |
+| 2B.20 | Dicloroetilfosfina | (1498-40-4) |   |   |
+| 2B.21 | Difluoruro de etilfosfinilo | (430-78-4) |   |   |
+| 2B.22 | Dicloruro etilfosfónico | (1066-50-8) |   |   |
+| 2B.23 | Ácido metilfosfónico | (993-13-5) |   |   |
+| 2B.24 | Metilfosfonato de dietilo | (683-08-9) |   |   |
+| 2B.25 | Dicloruro dimetilfosforamídico | (677-43-0) |   |   |
+| 2B.26 | Dicloruro de metilfosforotioato | (676-98-2) |   |   |
 
-SUSTANCIASNÚMERO DE CASGRUPO 3GRUPO 3A3A.1Fosgeno: dicloruro de carbonilo(75-44-5)3A.2Cloruro de cianógeno(506-77-4)3A.3Cianuro de hidrógeno(74-90-8)3A.4Cloropicrina: tricloronitrometano(76-06-2)GRUPO 3B3B.1Oxicloruro de fósforo(10025-87-3)3B.2Tricloruro de fósforo(7719-12-2)3B.3Pentacloruro de fósforo(10026-13-8)3B.4Fosfito trimetílico(121-45-9)3B.5Fosfito trietílico(122-52-1)3B.6Fosfito dimetílico(868-85-9)3B.7Fosfito dietílico(762-04-9)3B.8Monocloruro de azufre(10025-67-9)3B.9Dicloruro de azufre(10545-99-0)3B.10Cloruro de tionilo(7719-09-7)3B.11Etildietanolamina(139-87-7)3B.12Metildietanolamina(105-59-9)3B.13Trietanolamina(102-71-6)
+|   | SUSTANCIAS | NÚMERO DE CAS |   |   |
+| --- | --- | --- | --- | --- |
+| GRUPO 3 | GRUPO 3A | 3A.1 | Fosgeno: dicloruro de carbonilo | (75-44-5) |
+| 3A.2 | Cloruro de cianógeno | (506-77-4) |   |   |
+| 3A.3 | Cianuro de hidrógeno | (74-90-8) |   |   |
+| 3A.4 | Cloropicrina: tricloronitrometano | (76-06-2) |   |   |
+|   | GRUPO 3B | 3B.1 | Oxicloruro de fósforo | (10025-87-3) |
+| 3B.2 | Tricloruro de fósforo | (7719-12-2) |   |   |
+| 3B.3 | Pentacloruro de fósforo | (10026-13-8) |   |   |
+| 3B.4 | Fosfito trimetílico | (121-45-9) |   |   |
+| 3B.5 | Fosfito trietílico | (122-52-1) |   |   |
+| 3B.6 | Fosfito dimetílico | (868-85-9) |   |   |
+| 3B.7 | Fosfito dietílico | (762-04-9) |   |   |
+| 3B.8 | Monocloruro de azufre | (10025-67-9) |   |   |
+| 3B.9 | Dicloruro de azufre | (10545-99-0) |   |   |
+| 3B.10 | Cloruro de tionilo | (7719-09-7) |   |   |
+| 3B.11 | Etildietanolamina | (139-87-7) |   |   |
+| 3B.12 | Metildietanolamina | (105-59-9) |   |   |
+| 3B.13 | Trietanolamina | (102-71-6) |   |   |
 
-SUSTANCIASNÚMERO DE CASGRUPO 44.11-metilpiperidin-3-ol(3554-74-3)4.2Fluoruro de potasio(7789-23-3)4.32-cloroetanol(107-07-3)4.4Dimetilamina(124-40-3)4.5Cloruro de dimetilamonio(506-59-2)4.6Fluoruro de hidrógeno(7664-39-3)4.7Bencilato de metilo(76-89-1)4.8Quinuclidin-3-ona(3731-38-2)4.93,3-dimetilbutanona(75-97-8)4.10Cianuro de potasio(151-50-8)4.11Bifluoruro de potasio(7789-29-9)4.12Bifluoruro de amonio(1341-49-7)4.13Hidrogenodifluoruro de sodio(1333-83-1)4.14Fluoruro de sodio(7681-49-4)4.15Cianuro de sodio(143-33-9)4.16Pentasulfuro de fósforo(1314-80-3)4.17Diisopropilamina(108-18-9)4.18Sulfuro de disodio(1313-82-2)4.19Cloruro de tris(2-hidroxietil)amonio(637-39-8)4.20Fosfito triisopropilo(116-17-6)4.21O-O, Dietil fosforotioato(2465-65-8)4.22O-O, Dietil fosforoditioato(298-06-6)4.23Hexafluorosilicato de sodio(16893-85-9)4.24N,N-dietilaminoetanol y sales protonadas correspondientes(100-37-8)
+|   | SUSTANCIAS | NÚMERO DE CAS |
+| --- | --- | --- |
+| GRUPO 4 |   |   |
+| 4.1 | 1-metilpiperidin-3-ol | (3554-74-3) |
+| 4.2 | Fluoruro de potasio | (7789-23-3) |
+| 4.3 | 2-cloroetanol | (107-07-3) |
+| 4.4 | Dimetilamina | (124-40-3) |
+| 4.5 | Cloruro de dimetilamonio | (506-59-2) |
+| 4.6 | Fluoruro de hidrógeno | (7664-39-3) |
+| 4.7 | Bencilato de metilo | (76-89-1) |
+| 4.8 | Quinuclidin-3-ona | (3731-38-2) |
+| 4.9 | 3,3-dimetilbutanona | (75-97-8) |
+| 4.10 | Cianuro de potasio | (151-50-8) |
+| 4.11 | Bifluoruro de potasio | (7789-29-9) |
+| 4.12 | Bifluoruro de amonio | (1341-49-7) |
+| 4.13 | Hidrogenodifluoruro de sodio | (1333-83-1) |
+| 4.14 | Fluoruro de sodio | (7681-49-4) |
+| 4.15 | Cianuro de sodio | (143-33-9) |
+| 4.16 | Pentasulfuro de fósforo | (1314-80-3) |
+| 4.17 | Diisopropilamina | (108-18-9) |
+| 4.18 | Sulfuro de disodio | (1313-82-2) |
+| 4.19 | Cloruro de tris(2-hidroxietil)amonio | (637-39-8) |
+| 4.20 | Fosfito triisopropilo | (116-17-6) |
+| 4.21 | O-O, Dietil fosforotioato | (2465-65-8) |
+| 4.22 | O-O, Dietil fosforoditioato | (298-06-6) |
+| 4.23 | Hexafluorosilicato de sodio | (16893-85-9) |
+| 4.24 | N,N-dietilaminoetanol y sales protonadas correspondientes | (100-37-8) |
 
-SUSTANCIASNÚMERO DE CASGRUPO 55.1Sustancias Químicas Orgánicas Definidas (SQOD)SQODExcepciones: Polímeros y oligómeros que consistan en dos o más unidades repetidas;
+|   | SUSTANCIAS | NÚMERO DE CAS |
+| --- | --- | --- |
+| GRUPO 5 |   |   |
+| 5.1 | Sustancias Químicas Orgánicas Definidas (SQOD) |   |
+| SQOD |   |   |
+| Excepciones: Polímeros y oligómeros que consistan en dos o más unidades repetidas; |   |   |
 
 Materiales y productos químicos y mezclas químicas producidas a través de procesos biológicos o de biorremediación;
 
@@ -934,17 +1054,89 @@ Productos provenientes de la refinación de petróleo crudo, incluyendo el petr�
 
 Carburos de metal (ejemplo: químicos que consisten únicamente en metal y carbón);
 
-SQOD producido por síntesis que sean ingredientes o co-productos de alimentos para el consumo humano y/o animal.Fe de erratas al Apéndice DOF 03-07-2009. Apéndice Uno reformado en su totalidad DOF 14-06-2024
+| SQOD producido por síntesis que sean ingredientes o co-productos de alimentos para el consumo humano y/o animal. |   |
+| --- | --- |
+|   | Fe de erratas al Apéndice DOF 03-07-2009. Apéndice Uno reformado en su totalidad DOF 14-06-2024 |
 
 APÉNDICE DOS
 
 ESTADOS PARTE
 
-1. Afganistán66. Gambia131. Pakistán2. Albania67. Georgia132. Palau3. Alemania68. Ghana133. Palestina4. Andorra69. Grecia134. Panamá5. Angola70. Granada135. Papua Nueva Guinea6. Antigua y Barbuda71. Guatemala136. Paraguay7. Arabia Saudita72. Guinea137. Perú8. Argelia73. Guinea Bissau138. Polonia9. Argentina74. Guinea Ecuatorial139. Portugal10. Armenia75. Guyana140. Reino Unido de la Gran Bretaña11. Australia76. Haití141. República Árabe Siria12. Austria77. Honduras142. República Central Africana13. Azerbaiyán78. Hungría143. República Checa14. Bahamas79. India144. República de Corea15. Baréin80. Indonesia145. República Dominicana16. Bangladesh81. Irán (República Islámica de)146. República de las Maldivas17. Barbados82. Iraq147. República de Moldavia18. Bélgica83. Irlanda148. República Democrática del Congo19. Belice84. Islandia149. República Democrática Popular de Lao20. Benin85. Islas Cook150. Ruanda21. Bielorrusia86. Islas Marshall151. Rumania22. Bolivia87. Islas Salomón152. Samoa23. Bosnia Herzegovina88. Italia153. San Kitts y Nevis24. Botswana89. Jamaica154. San Marino25. Brasil90. Japón155. San Vicente y las Granadinas26. Brunei Darussalam91. Jordania156. Santa Lucía27. Bulgaria92. Katar157. Santa Sede28. Burkina Faso93. Kazajstán158. Santo Tomé y Príncipe29. Burundi94. Kenia159. Senegal30. Bután95. Kirguizistán160. Serbia31. Cabo Verde96. Kiribati161. Seychelles32. Camboya97. Kuwait162. Sierra Leona33. Camerún98. Letonia163. Singapur34. Canadá99. Lesoto164. Somalia35. Chad100. Líbano165. Sri Lanka36. Chile101. Liberia166. Suazilandia37. China102. Libia167. Sudáfrica38. Chipre103. Liechtenstein168. Sudán39. Colombia104. Lituania169. Suecia40. Comoras105. Luxemburgo170. Suiza41. Congo106. Macedonia171. Suriman42. Costa de Marfil107. Madagascar172. Tailandia43. Costa Rica108. Malasia173. Tajikistan44. Croacia109. Malawi174. Tanzania45. Cuba110. Mali175. Timor Oriental46. Dinamarca111. Malta176. Togo47. Dominica112. Marruecos177. Tonga48. Ecuador113. Mauricio178. Trinidad y Tobago49. El Salvador114. Mauritania179. Túnez50. Emiratos Árabes Unidos115. Mónaco180. Turkmenistán51. Eritrea116. Mongolia181. Turquía52. Eslovaquia117. Montenegro182. Tuvalu53. Eslovenia118. Mozambique183. Ucrania54. España119. Myanmar184. Uganda55. Estados Federados de Micronesia120. Namibia185. Uruguay56. Estados Unidos121. Nauru186. Uzbekistán57. Estados Unidos Mexicanos122. Nepal187. Vanuatu58. Estonia123. Nicaragua188. Venezuela59. Etiopía124. Níger189. Vietnam60. Federación Rusa125. Nigeria190. Yemen61. Fiji126. Niue191. Djibouti62. Filipinas127. Noruega192. Zambia63. Finlandia128. Nueva Zelanda193. Zimbawe64. Francia129. Omán65. Gabón130. Países Bajos
+| 1. Afganistán | 66. Gambia | 131. Pakistán |
+| --- | --- | --- |
+| 2. Albania | 67. Georgia | 132. Palau |
+| 3. Alemania | 68. Ghana | 133. Palestina |
+| 4. Andorra | 69. Grecia | 134. Panamá |
+| 5. Angola | 70. Granada | 135. Papua Nueva Guinea |
+| 6. Antigua y Barbuda | 71. Guatemala | 136. Paraguay |
+| 7. Arabia Saudita | 72. Guinea | 137. Perú |
+| 8. Argelia | 73. Guinea Bissau | 138. Polonia |
+| 9. Argentina | 74. Guinea Ecuatorial | 139. Portugal |
+| 10. Armenia | 75. Guyana | 140. Reino Unido de la Gran Bretaña |
+| 11. Australia | 76. Haití | 141. República Árabe Siria |
+| 12. Austria | 77. Honduras | 142. República Central Africana |
+| 13. Azerbaiyán | 78. Hungría | 143. República Checa |
+| 14. Bahamas | 79. India | 144. República de Corea |
+| 15. Baréin | 80. Indonesia | 145. República Dominicana |
+| 16. Bangladesh | 81. Irán (República Islámica de) | 146. República de las Maldivas |
+| 17. Barbados | 82. Iraq | 147. República de Moldavia |
+| 18. Bélgica | 83. Irlanda | 148. República Democrática del Congo |
+| 19. Belice | 84. Islandia | 149. República Democrática Popular de Lao |
+| 20. Benin | 85. Islas Cook | 150. Ruanda |
+| 21. Bielorrusia | 86. Islas Marshall | 151. Rumania |
+| 22. Bolivia | 87. Islas Salomón | 152. Samoa |
+| 23. Bosnia Herzegovina | 88. Italia | 153. San Kitts y Nevis |
+| 24. Botswana | 89. Jamaica | 154. San Marino |
+| 25. Brasil | 90. Japón | 155. San Vicente y las Granadinas |
+| 26. Brunei Darussalam | 91. Jordania | 156. Santa Lucía |
+| 27. Bulgaria | 92. Katar | 157. Santa Sede |
+| 28. Burkina Faso | 93. Kazajstán | 158. Santo Tomé y Príncipe |
+| 29. Burundi | 94. Kenia | 159. Senegal |
+| 30. Bután | 95. Kirguizistán | 160. Serbia |
+| 31. Cabo Verde | 96. Kiribati | 161. Seychelles |
+| 32. Camboya | 97. Kuwait | 162. Sierra Leona |
+| 33. Camerún | 98. Letonia | 163. Singapur |
+| 34. Canadá | 99. Lesoto | 164. Somalia |
+| 35. Chad | 100. Líbano | 165. Sri Lanka |
+| 36. Chile | 101. Liberia | 166. Suazilandia |
+| 37. China | 102. Libia | 167. Sudáfrica |
+| 38. Chipre | 103. Liechtenstein | 168. Sudán |
+| 39. Colombia | 104. Lituania | 169. Suecia |
+| 40. Comoras | 105. Luxemburgo | 170. Suiza |
+| 41. Congo | 106. Macedonia | 171. Suriman |
+| 42. Costa de Marfil | 107. Madagascar | 172. Tailandia |
+| 43. Costa Rica | 108. Malasia | 173. Tajikistan |
+| 44. Croacia | 109. Malawi | 174. Tanzania |
+| 45. Cuba | 110. Mali | 175. Timor Oriental |
+| 46. Dinamarca | 111. Malta | 176. Togo |
+| 47. Dominica | 112. Marruecos | 177. Tonga |
+| 48. Ecuador | 113. Mauricio | 178. Trinidad y Tobago |
+| 49. El Salvador | 114. Mauritania | 179. Túnez |
+| 50. Emiratos Árabes Unidos | 115. Mónaco | 180. Turkmenistán |
+| 51. Eritrea | 116. Mongolia | 181. Turquía |
+| 52. Eslovaquia | 117. Montenegro | 182. Tuvalu |
+| 53. Eslovenia | 118. Mozambique | 183. Ucrania |
+| 54. España | 119. Myanmar | 184. Uganda |
+| 55. Estados Federados de Micronesia | 120. Namibia | 185. Uruguay |
+| 56. Estados Unidos | 121. Nauru | 186. Uzbekistán |
+| 57. Estados Unidos Mexicanos | 122. Nepal | 187. Vanuatu |
+| 58. Estonia | 123. Nicaragua | 188. Venezuela |
+| 59. Etiopía | 124. Níger | 189. Vietnam |
+| 60. Federación Rusa | 125. Nigeria | 190. Yemen |
+| 61. Fiji | 126. Niue | 191. Djibouti |
+| 62. Filipinas | 127. Noruega | 192. Zambia |
+| 63. Finlandia | 128. Nueva Zelanda | 193. Zimbawe |
+| 64. Francia | 129. Omán |   |
+|   | 65. Gabón | 130. Países Bajos |
 
 ESTADOS NO PARTE
 
-1. Corea del Norte2. Egipto3. Israel4. Sudán del SurApéndice Dos reformado en su totalidad DOF 14-06-2024
+| 1. Corea del Norte |
+| --- |
+| 2. Egipto |
+| 3. Israel |
+| 4. Sudán del Sur |
+| Apéndice Dos reformado en su totalidad DOF 14-06-2024 |
 
 ###### Artículo SEGUNDO.-
 
@@ -986,7 +1178,9 @@ Publicada en el Diario Oficial de la Federación el 3 de julio de 2009
 
 En la Primera Sección, página 23:
 
-Dice:Debe decir:Apéndice Uno
+| Dice: | Debe decir: |
+| --- | --- |
+| Apéndice Uno |   |
 
 Listado Nacional
 
@@ -994,7 +1188,8 @@ Grupo 2
 
 Grupo 2 B
 
-10 Cloruros de N,N-dialkil (metil, etil, propil (propilo normal o isopropil)) aminoetilo-2 y sales protonadas correspondientesApéndice Uno
+| 10 Cloruros de N,N-dialkil (metil, etil, propil (propilo normal o isopropil)) aminoetilo-2 y sales protonadas correspondientes | Apéndice Uno |
+| --- | --- |
 
 Listado Nacional
 
@@ -1002,7 +1197,9 @@ Grupo 2
 
 Grupo 2 B
 
-10 Cloruros de N,N-dialkil (metil, etil, propil (normal o isopropil)) aminoetilo-2 y sales protonadas correspondientesApéndice Uno
+| 10 Cloruros de N,N-dialkil (metil, etil, propil (normal o isopropil)) aminoetilo-2 y sales protonadas correspondientes |
+| --- |
+| Apéndice Uno |
 
 Listado Nacional
 
@@ -1010,7 +1207,8 @@ Grupo 2
 
 Grupo 2 B
 
-15 Etilfosfanato de dietilo (78-38-6)Apéndice Uno
+| 15 Etilfosfanato de dietilo (78-38-6) | Apéndice Uno |
+| --- | --- |
 
 Listado Nacional
 
@@ -1018,23 +1216,29 @@ Grupo 2
 
 Grupo 2 B
 
-15 Etilfosfonato de dietilo (78-38-6)
+| 15 Etilfosfonato de dietilo (78-38-6) |
+| --- |
 
 En la Primera Sección, página 24:
 
-Dice:Debe decir:Apéndice Uno
+| Dice: | Debe decir: |
+| --- | --- |
+| Apéndice Uno |   |
 
 Listado Nacional
 
 Grupo 4
 
-2 Floruro de Potasio (7789-23-3)Apéndice Uno
+| 2 Floruro de Potasio (7789-23-3) | Apéndice Uno |
+| --- | --- |
 
 Listado Nacional
 
 Grupo 4
 
-2 Fluoruro de Potasio (7789-23-3)DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
+| 2 Fluoruro de Potasio (7789-23-3) |
+| --- |
+| DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales. |
 
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
@@ -1143,8 +1347,6 @@ En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria 
 Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 
 ÉÊÌñòõTUnorâãå89<
-
-£¤©îïñ|}·¸¼õöû©ª®·¸¼	ïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÀïàÏïàÏïàÀàÀàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏhb_hGXB*CJaJph hb_hGX5B*CJaJphhb_hO0B*CJaJph hb_hO05B*CJaJphLQ|R|¨}©}¡¢ÉÊñònoâã89
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 

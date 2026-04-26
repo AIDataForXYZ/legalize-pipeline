@@ -807,9 +807,3 @@ Sexto. A partir de la entrada en vigor de la presente Ley y dentro del plazo de 
 Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-S`!$%öúûHLMìîïÄÇÈaefÙßàS`
-
-hÓ4ô5aJhÏUkhÉYëaJ
-
-ÆC"$Ifa$gdÓ4ô

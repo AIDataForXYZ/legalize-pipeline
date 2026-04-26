@@ -1273,11 +1273,3 @@ Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del pres
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Æ>a$gdÚABïð9:=ã±²´µ¶¢£¦¤ÄÅÇÈÉ%&úñèñèÞÕÁ»±ÕÁè§ñ¡ñèzè§ñ¡ñqñ¡ñj`Vhõc¹h@S5CJhõc¹hbã5CJ
-
-ÜÜÜÊÜËÜªÝÌÝÍÝÞÞÎßïßðßõõíõõá×××Å×Å½×Å×³§×$
-
-hWÀ5CJh	NhWÀCJh	NhWÀ5CJh\Ëh\Ë5CJh\Ëhbã5CJaJh\Ëh\ËCJh\ËhbãCJ.Ìö=ø>øtùuù¼ú½úþûÿûÚüÛüÖýøýùýÿ ÿ¡ÿÄåæ
-
-¯°¼úîÚÓÉÀºÀÚÓÉÀÚÓÉÀÚ±¥ngn^Th\Ëhbã5CJh\Ëh\ËCJ

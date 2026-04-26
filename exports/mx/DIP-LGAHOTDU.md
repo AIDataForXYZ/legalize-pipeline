@@ -1713,7 +1713,3 @@ Artículo Séptimo.- Se reforman la fracción X del artículo 26, el artículo 5
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María
-
-!"efgj²³´¸ijkýþÿ÷îåÛ÷îåÑ÷îåÑ÷îåÑ÷îå÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÛ÷îå÷îåÑ÷îåÑ÷È÷îåÑ÷îå÷îå¼hvh-45CJaJhvhÿICJh(zh-45CJhvh-45CJhvhïnCJhvh']ÎCJhvh-4CJG-4	5	ã	ä	þ	ÿ	()íîOP«¬ñò&
-
-=j=k=l=Í=Î=+>,>->B>C>Z>[>\>j>k>>>÷îäÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛÈÛ÷îÑÛ÷îÑÛ÷îÑÛ÷î¾Û÷îÛÈÛ÷î²¦²¦²²¦hvh-4CJaJhvhv5CJaJhvh']Î5CJaJhvh-45CJaJhç

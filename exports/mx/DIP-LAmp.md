@@ -2924,7 +2924,8 @@ Los tribunales no estarán obligados a seguir sus propias jurisprudencias. Sin e
 
 ###### Artículo 229.
 
-Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación. Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V Jurisprudencia por sustitución. Se suprime su referencia en virtud de que mediante el mismo Decreto DOF 07-06-2021 se recorrió el entonces Capítulo IV para convertirse en el actual Capítulo V Interrupción de la Jurisprudencia.
+Interrumpida la jurisprudencia, para integrar la nueva se observarán las mismas reglas establecidas para su formación. | Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V Jurisprudencia por sustitución. Se suprime su referencia en virtud de que mediante el mismo Decreto DOF 07-06-2021 se recorrió el entonces Capítulo IV para convertirse en el actual Capítulo V Interrupción de la Jurisprudencia. |
+| --- |
 
 ###### Artículo 230.
 
@@ -3885,5 +3886,3 @@ Todas las autoridades de la Federación, entidades federativas, municipios y alc
 Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-x?x_x`xcxÓxóxôxøxùx

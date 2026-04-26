@@ -5968,7 +5968,8 @@ ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000
 
 Multas y cantidades actualizadas que establece la Ley Aduanera vigentes a partir del 1o. de enero de 2002.
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 181, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2002.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 181, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2002. |
+| --- |
 
 Atentamente
 
@@ -6034,7 +6035,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1o. de enero de 2003
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 181, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2003.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 181, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2003. |
+| --- |
 
 Atentamente
 
@@ -6050,7 +6052,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2005
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2005.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, 160, 164, 165, 173, 178, 183, 185, 185-B, 187, 189, 193 y 200 de la Ley Aduanera, vigentes a partir del 1º de enero de 2005. |
+| --- |
 
 Atentamente
 
@@ -6094,7 +6097,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2006
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2006.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2006. |
+| --- |
 
 Atentamente
 
@@ -6110,7 +6114,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2007
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2007.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2007. |
+| --- |
 
 Atentamente
 
@@ -6126,7 +6131,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2008
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2008.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, de la Ley Aduanera, vigentes a partir del 1 de enero de 2008. |
+| --- |
 
 Atentamente
 
@@ -6140,7 +6146,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2009
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200 de la Ley Aduanera, vigentes a partir del 1 de enero de 2009.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200 de la Ley Aduanera, vigentes a partir del 1 de enero de 2009. |
+| --- |
 
 Atentamente,
 
@@ -6154,7 +6161,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2010
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200 de la Ley Aduanera, vigentes a partir del 1 de enero de 2009.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200 de la Ley Aduanera, vigentes a partir del 1 de enero de 2009. |
+| --- |
 
 Atentamente,
 
@@ -6168,7 +6176,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera, vigentes a partir del 1 de enero de 2011
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, vigentes a partir del 1 de enero de 2011.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, vigentes a partir del 1 de enero de 2011. |
+| --- |
 
 Atentamente
 
@@ -6190,7 +6199,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera y su Reglamento, vigentes a partir del 1 de enero de 2012
 
-Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 16-A último párrafo; 16-B último párrafo; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, vigentes a partir del 1 de enero de 2012.
+| Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 16-A último párrafo; 16-B último párrafo; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200, vigentes a partir del 1 de enero de 2012. |
+| --- |
 
 Atentamente,
 
@@ -6258,7 +6268,8 @@ ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR PARA 2
 
 Multas y cantidades actualizadas que establece la Ley Aduanera y su Reglamento, vigentes a partir del 1 de enero de 2015
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16, fracción II; 16-A, quinto párrafo; 16-B, último párrafo; 160, fracción IX, último párrafo; 164, fracción VII; 165, fracciones II, inciso a) y VII, inciso a); 178, fracción II; 183, fracciones II y V; 185, fracciones II a V y VIII a XII; 185-B; 187, fracciones I, II, V, VI, VIII, X a XII, XIV y XV; 189, fracciones I y II; 191, fracciones I a IV; 193, fracciones I a III y 200 de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16, fracción II; 16-A, quinto párrafo; 16-B, último párrafo; 160, fracción IX, último párrafo; 164, fracción VII; 165, fracciones II, inciso a) y VII, inciso a); 178, fracción II; 183, fracciones II y V; 185, fracciones II a V y VIII a XII; 185-B; 187, fracciones I, II, V, VI, VIII, X a XII, XIV y XV; 189, fracciones I y II; 191, fracciones I a IV; 193, fracciones I a III y 200 de la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6304,7 +6315,8 @@ Multas y cantidades actualizadas que establece la Ley Aduanera y su Reglamento, 
 
 I.	Se dan a conocer las cantidades establecidas en la Ley Aduanera para 2018.
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16, 16-A, 16-B, 160, 164, 165, 178, 181, 183, 184-B, 185, 185-B, 187, 189, 191, 193 y 200 en la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16, 16-A, 16-B, 160, 164, 165, 178, 181, 183, 184-B, 185, 185-B, 187, 189, 191, 193 y 200 en la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6374,7 +6386,8 @@ ANEXO 2 DE LAS REGLAS GENERALES DE COMERCIO EXTERIOR PARA 2018
 
 I. Conforme a las fracciones VI y VII de la regla 1.1.7., se dan a conocer las cantidades actualizadas establecidas en los artículos que se precisan en dicha regla.
 
-Nota: Se actualizan las cantidades establecidas en los artículos 184-B, fracciones I y II; 185 fracciones I y XIV; y 187 fracción IV, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 184-B, fracciones I y II; 185 fracciones I y XIV; y 187 fracción IV, de la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6506,7 +6519,8 @@ Multas y cantidades actualizadas que establece la Ley Aduanera y su Reglamento.
 
 I. Conforme a la regla 1.1.5., fracción VIII, se dan a conocer las cantidades actualizadas establecidas en la en los artículos que precisan en dicha regla, vigentes a partir del 01 de enero de 2021.
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 178 fracción II; 183 fracciones II y V; 185 fracciones II a VI y VIII a XII; 185-B; 187 fracciones I, II, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 178 fracción II; 183 fracciones II y V; 185 fracciones II a VI y VIII a XII; 185-B; 187 fracciones I, II, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6542,7 +6556,8 @@ Nota: Los textos y líneas de puntos que se utilizan en este Anexo tienen la fin
 
 I.	Conforme a la regla 1.1.6., se dan a conocer las cantidades actualizadas establecidas en la Ley Aduanera y su Reglamento.
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6558,7 +6573,8 @@ Multas y cantidades actualizadas que establece la Ley Aduanera y su Reglamento
 
 I.	Conforme a la regla 1.1.6., se dan a conocer las cantidades actualizadas establecidas en la Ley y el Reglamento:
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera. |
+| --- |
 
 Atentamente,
 
@@ -6576,7 +6592,8 @@ Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglame
 
 I.	Cantidades actualizadas establecidas en la Ley, conforme a la regla 1.1.6.:
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera. |
+| --- |
 
 Atentamente.
 
@@ -6594,7 +6611,8 @@ Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglame
 
 I.	Cantidades actualizadas establecidas en la Ley, conforme a la regla 1.1.6.:
 
-Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
+| Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera. |
+| --- |
 
 Atentamente.
 
@@ -6644,16 +6662,83 @@ Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglame
 
 I.	Cantidades actualizadas establecidas en la Ley:
 
-ArtículoCantidadArtículo 16.II.$3,632,910.00Artículo 16-A.Quinto párrafo.$330.00Artículo 16-B.Último párrafo.$260.00Artículo 17.Último párrafo.$270.00Artículo 160.IX.$510.00Artículo 164.VII.$262,210.00Artículo 165.II. a).$374,610.00VII. a).$374,610.00Artículo 167-D.I.$672,680.00Artículo 167-G.IV.$241,620.00Artículo 178.II.$7,520.00 a $18,760.00XII.$1,500,000.00 a $2,000,000.00XIII.$800,000.00 a $1,000,000.00Artículo 181.Primer párrafo.$1,000.00 a $1,500.00Artículo 183.II.$3,020.00 a $4,560.00V.$112,580.00 a $150,090.00Artículo 184-B.I.$53,500.00 a $106,970.00II.$2,330.00 a $3,320.00Artículo 184-D.$69,900.00 a $109,870.00Artículo 185.I.$4,790.00 a $7,190.00II.$2,640.00 a $3,750.00III.$4,520.00 a $7,560.00IV.$6,060.00 a $9,070.00V.$5,640.00 a $9,390.00VI.$5,630.00 a $9,340.00VIII.$108,170.00 a $162,340.00IX.$302,750.00 a $454,110.00X.$3,750.00 a $5,640.00XI.$11,250.00 a $15,000.00$5,640.00 a $9,390.00XII.$1,890.00 a $3,750.00XV.$5,000.00 a $8,000.00Artículo 185-B.$27,070.00 a $54,180.00Artículo 187.I.$10,830.00 a $14,890.00II.$3,020.00 a $4,560.00IV.$26,790.00 a $40,160.00V.$18,160.00 a $24,200.00VI.$108,320.00 a $162,500.00VIII.$60,570.00 a $121,100.00X.$150,090.00 a $206,370.00XI.$1,890.00 a $3,750.00XII.$677,060.00 a $1,083,330.00XIV.$108,320.00 a $162,500.00XV.$1,354,130.00 a $2,708,280.00Artículo 189.I.$60,570.00 a $90,820.00II.$121,100.00 a $181,650.00Artículo 191.I.$30,280.00 a $45,420.00II.$60,570.00 a $90,820.00III.$6,060.00 a $9,070.00IV.$121,100.00 a $181,650.00Artículo 193.I.$18,160.00 a $24,200.00II.$24,200.00 a $30,280.00III.$24,200.00 a $30,280.00Artículo 200.$90,820.00 a $121,100.00
+| Artículo | Cantidad |
+| --- | --- |
+| Artículo 16. |   |
+| II. | $3,632,910.00 |
+| Artículo 16-A. |   |
+| Quinto párrafo. | $330.00 |
+| Artículo 16-B. |   |
+| Último párrafo. | $260.00 |
+| Artículo 17. |   |
+| Último párrafo. | $270.00 |
+| Artículo 160. |   |
+| IX. | $510.00 |
+| Artículo 164. |   |
+| VII. | $262,210.00 |
+| Artículo 165. |   |
+| II. a). | $374,610.00 |
+| VII. a). | $374,610.00 |
+| Artículo 167-D. |   |
+| I. | $672,680.00 |
+| Artículo 167-G. |   |
+| IV. | $241,620.00 |
+| Artículo 178. |   |
+| II. | $7,520.00 a $18,760.00 |
+| XII. | $1,500,000.00 a $2,000,000.00 |
+| XIII. | $800,000.00 a $1,000,000.00 |
+| Artículo 181. |   |
+| Primer párrafo. | $1,000.00 a $1,500.00 |
+| Artículo 183. |   |
+| II. | $3,020.00 a $4,560.00 |
+| V. | $112,580.00 a $150,090.00 |
+| Artículo 184-B. |   |
+| I. | $53,500.00 a $106,970.00 |
+| II. | $2,330.00 a $3,320.00 |
+| Artículo 184-D. | $69,900.00 a $109,870.00 |
+| Artículo 185. |   |
+| I. | $4,790.00 a $7,190.00 |
+| II. | $2,640.00 a $3,750.00 |
+| III. | $4,520.00 a $7,560.00 |
+| IV. | $6,060.00 a $9,070.00 |
+| V. | $5,640.00 a $9,390.00 |
+| VI. | $5,630.00 a $9,340.00 |
+| VIII. | $108,170.00 a $162,340.00 |
+| IX. | $302,750.00 a $454,110.00 |
+| X. | $3,750.00 a $5,640.00 |
+| XI. | $11,250.00 a $15,000.00 |
+|   | $5,640.00 a $9,390.00 |
+| XII. | $1,890.00 a $3,750.00 |
+| XV. | $5,000.00 a $8,000.00 |
+| Artículo 185-B. | $27,070.00 a $54,180.00 |
+| Artículo 187. |   |
+| I. | $10,830.00 a $14,890.00 |
+| II. | $3,020.00 a $4,560.00 |
+| IV. | $26,790.00 a $40,160.00 |
+| V. | $18,160.00 a $24,200.00 |
+| VI. | $108,320.00 a $162,500.00 |
+| VIII. | $60,570.00 a $121,100.00 |
+| X. | $150,090.00 a $206,370.00 |
+| XI. | $1,890.00 a $3,750.00 |
+| XII. | $677,060.00 a $1,083,330.00 |
+| XIV. | $108,320.00 a $162,500.00 |
+| XV. | $1,354,130.00 a $2,708,280.00 |
+| Artículo 189. |   |
+| I. | $60,570.00 a $90,820.00 |
+| II. | $121,100.00 a $181,650.00 |
+| Artículo 191. |   |
+| I. | $30,280.00 a $45,420.00 |
+| II. | $60,570.00 a $90,820.00 |
+| III. | $6,060.00 a $9,070.00 |
+| IV. | $121,100.00 a $181,650.00 |
+| Artículo 193. |   |
+| I. | $18,160.00 a $24,200.00 |
+| II. | $24,200.00 a $30,280.00 |
+| III. | $24,200.00 a $30,280.00 |
+| Artículo 200. | $90,820.00 a $121,100.00 |
 
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
 JklTvwë
-
-CJ^Jhr
-
-ll l¦lÁlÿlmmm
-
-wowwxxþx!yïßßïÏ½ïï¨¨ïï¨¨ïï¨¨ï

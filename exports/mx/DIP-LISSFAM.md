@@ -456,9 +456,12 @@ Los de Estado Mayor, los que hayan obtenido un grado académico a nivel de licen
 
 Los militares que por resolución definitiva pasen a situación de retiro, ascenderán al grado inmediato únicamente para ese fin y para el cálculo del beneficio económico correspondiente, considerando los años de servicios en relación con el tiempo en el grado, de acuerdo con la tabla siguiente: Años de Servicios
 
-Años en el Grado
+|   | Años en el Grado |
+| --- | --- |
 
-40 o más3Artículo reformado DOF 04-02-2011
+| 40 o más | 3 |
+| --- | --- |
+| Artículo reformado DOF 04-02-2011 |   |
 
 ###### Artículo 28.
 
@@ -506,7 +509,35 @@ II. 	La compensación por tiempo de servicios o por fallecimiento, se integrará
 
 III. 	A los militares que pasan a situación de retiro y se les computen 20 o más años de servicios efectivos, se les fijará el haber de retiro como se indicó en la fracción I, aumentando los porcentajes que se indican en la tabla siguiente:
 
-Años de serviciosTanto por ciento2050%2151%2252%2353%2454%2555%2656%2757%2858%2959%3060%3162%3264%3366%3468%3570%3672%3774%3876%3978%4080%4182%4284%4386%4488%45 ó más90%Fracción reformada DOF 03-04-2012
+| Años de servicios | Tanto por ciento |
+| --- | --- |
+| 20 | 50% |
+| 21 | 51% |
+| 22 | 52% |
+| 23 | 53% |
+| 24 | 54% |
+| 25 | 55% |
+| 26 | 56% |
+| 27 | 57% |
+| 28 | 58% |
+| 29 | 59% |
+| 30 | 60% |
+| 31 | 62% |
+| 32 | 64% |
+| 33 | 66% |
+| 34 | 68% |
+| 35 | 70% |
+| 36 | 72% |
+| 37 | 74% |
+| 38 | 76% |
+| 39 | 78% |
+| 40 | 80% |
+| 41 | 82% |
+| 42 | 84% |
+| 43 | 86% |
+| 44 | 88% |
+| 45 ó más | 90% |
+| Fracción reformada DOF 03-04-2012 |   |
 
 IV. 	Para la integración de la pensión por fallecimiento del militar fuera de actos del servicio, se tomará como base el porcentaje del haber del grado que le hubiere correspondido al militar en caso de retiro y se adicionará a éste el 80% de dicho haber, más las primas complementarias por condecoraciones de perseverancia ya otorgadas, así como las asignaciones de técnico, de vuelo, de salto o técnico especial y aquellas otras asignaciones de técnico y que estuviere percibiendo el militar a la fecha del fallecimiento;
 
@@ -536,11 +567,28 @@ IV. 	Los militares que hayan cumplido 30 ó más años de servicios.
 
 ###### Artículo 34.
 
-Los militares incapacitados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya incapacidad se clasifique en la segunda categoría, tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente: Años de serviciosSegunda Categoría de Incapacidad10 o menos80%1185%1290%1395%Artículo reformado DOF 20-11-2008
+Los militares incapacitados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya incapacidad se clasifique en la segunda categoría, tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente: | Años de servicios | Segunda Categoría de Incapacidad |
+| --- | --- |
+| 10 o menos | 80% |
+| 11 | 85% |
+| 12 | 90% |
+| 13 | 95% |
+| Artículo reformado DOF 20-11-2008 |   |
 
 ###### Artículo 35.
 
-Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente: Años de ServiciosTanto por Ciento2060%2162%2265%2368%2471%2575%2680%2785%2890%2995%
+Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente: | Años de Servicios | Tanto por Ciento |
+| --- | --- |
+| 20 | 60% |
+| 21 | 62% |
+| 22 | 65% |
+| 23 | 68% |
+| 24 | 71% |
+| 25 | 75% |
+| 26 | 80% |
+| 27 | 85% |
+| 28 | 90% |
+| 29 | 95% |
 
 Los militares con padecimientos catalogados en la tercera categoría o con trastornos funcionales de menos del 20% que ameriten cambio de Arma, Cuerpo o Servicio podrán ser cambiados del que pertenezcan, a juicio de la Secretaría de la Defensa Nacional o de Marina, de acuerdo a lo dispuesto en la Ley Orgánica correspondiente.
 
@@ -2690,17 +2738,22 @@ Publicada en el Diario Oficial de la Federación el 24 de febrero de 2004
 
 En la página 8:
 
-Dice:Debe decir:
+| Dice: | Debe decir: |
+| --- | --- |
 
 Artículo 21
 
-Artículo 21
+| Artículo 21 |
+| --- |
 
-Pensión es la presentación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley.
+| Pensión es la presentación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley. |
+| --- |
 
-Pensión es la prestación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley.
+|   | Pensión es la prestación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley. |
+| --- | --- |
 
-#### DECRETO por el que se reforma y adiciona la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+| DECRETO por el que se reforma y adiciona la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. |
+| --- |
 
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2006
 
@@ -2730,7 +2783,24 @@ Para efectos del párrafo anterior, el porcentaje aumentará del 70% al 75% en e
 
 b) 	Los militares que pasen a situación de retiro y los que se encuentren en dicha situación con 30 ó más años de servicios efectivos, a partir del mes de enero de 2011 percibirán su haber de retiro con el total del porcentaje adicional que se establece en la fracción III del artículo 31; para dicho efecto, a partir del mes de enero de 2008 se aplicará al monto del haber de retiro integrado con la suma de los conceptos a los que se refiere la fracción I del citado numeral; el porcentaje para cada año se indica en la tabla siguiente:
 
-Años de servicios20082009201020113015.00%30.00%45.00%60.00%3115.50%31.00%46.50%62.00%3216.00%32.00%48.00%64.00%3316.50%33.00%49.50%66.00%3417.00%34.00%51.00%68.00%3517.50%35.00%52.50%70.00%3618.00%36.00%54.00%72.00%3718.50%37.00%55.50%74.00%3819.00%38.00%57.00%76.00%3919.50%39.00%58.50%78.00%4020.00%40.00%60.00%80.00%4120.50%41.00%61.50%82.00%4221.00%42.00%63.00%84.00%4321.50%43.00%64.50%86.00%4422.00%44.00%66.00%88.00%45 ó más22.50%45.00%67.50%90.00%
+| Años de servicios | 2008 | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- | --- |
+| 30 | 15.00% | 30.00% | 45.00% | 60.00% |
+| 31 | 15.50% | 31.00% | 46.50% | 62.00% |
+| 32 | 16.00% | 32.00% | 48.00% | 64.00% |
+| 33 | 16.50% | 33.00% | 49.50% | 66.00% |
+| 34 | 17.00% | 34.00% | 51.00% | 68.00% |
+| 35 | 17.50% | 35.00% | 52.50% | 70.00% |
+| 36 | 18.00% | 36.00% | 54.00% | 72.00% |
+| 37 | 18.50% | 37.00% | 55.50% | 74.00% |
+| 38 | 19.00% | 38.00% | 57.00% | 76.00% |
+| 39 | 19.50% | 39.00% | 58.50% | 78.00% |
+| 40 | 20.00% | 40.00% | 60.00% | 80.00% |
+| 41 | 20.50% | 41.00% | 61.50% | 82.00% |
+| 42 | 21.00% | 42.00% | 63.00% | 84.00% |
+| 43 | 21.50% | 43.00% | 64.50% | 86.00% |
+| 44 | 22.00% | 44.00% | 66.00% | 88.00% |
+| 45 ó más | 22.50% | 45.00% | 67.50% | 90.00% |
 
 Los porcentajes que se señalan para los militares con 45 ó más años de servicios efectivos, sustituirán al porcentaje adicional del 10% que se les viene cubriendo.
 
@@ -2740,7 +2810,12 @@ d) 	La aportación del 3.0% que se cubre con cargo al presupuesto de las Secreta
 
 e) 	La aportación del 15% que el Gobierno Federal realice en términos del artículo 221 del presente Decreto sobre los haberes, haberes de retiro y pensiones, se empezará a cubrir a partir del mes de enero de 2008 conforme a la tabla siguiente, a fin de que a partir del mes de enero de 2011, la aportación del Gobierno Federal sea equivalente al 15% de los conceptos que señala la norma:
 
-AñoHaberesHaberes de RetiroPensiones200811.8%11.8%0%200912.8%12.8%5%201013.9%13.9%10%201115.0%15.0%15%
+| Año | Haberes | Haberes de Retiro | Pensiones |
+| --- | --- | --- | --- |
+| 2008 | 11.8% | 11.8% | 0% |
+| 2009 | 12.8% | 12.8% | 5% |
+| 2010 | 13.9% | 13.9% | 10% |
+| 2011 | 15.0% | 15.0% | 15% |
 
 SEGUNDO. El porcentaje correspondiente al año 2008 será proporcionado del presupuesto actual de las dependencias y entidades involucradas: Secretaría de la Defensa Nacional, Secretaría de Marina e Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
@@ -2776,7 +2851,18 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Los militares que pasen a situación de retiro y los que se encuentren en dicha situación con 20 hasta 29 años de servicios efectivos, a partir del mes de enero de 2016 percibirán su haber de retiro con el total del porcentaje adicional que se establece en la fracción III del artículo 31, para dicho efecto, a partir del mes de enero de 2012 se aplicará al monto del haber de retiro integrado con la suma de los conceptos a los que se refiere la fracción I del citado numeral, el porcentaje que para cada año se indica en la tabla siguiente:
 
-Años de servicios201220132014201520162012.00%20.00%30.00%40.00%50.00%2112.00%20.00%30.00%40.00%51.00%2212.00%20.00%30.00%40.00%52.00%2312.00%20.00%30.00%40.00%53.00%2412.00%20.00%30.00%40.00%54.00%2512.00%20.00%30.00%42.00%55.00%2612.00%20.00%30.00%42.00%56.00%2712.00%20.00%30.00%42.00%57.00%2812.00%20.00%30.00%44.00%58.00%2912.00%20.00%30.00%44.00%59.00%
+| Años de servicios | 2012 | 2013 | 2014 | 2015 | 2016 |
+| --- | --- | --- | --- | --- | --- |
+| 20 | 12.00% | 20.00% | 30.00% | 40.00% | 50.00% |
+| 21 | 12.00% | 20.00% | 30.00% | 40.00% | 51.00% |
+| 22 | 12.00% | 20.00% | 30.00% | 40.00% | 52.00% |
+| 23 | 12.00% | 20.00% | 30.00% | 40.00% | 53.00% |
+| 24 | 12.00% | 20.00% | 30.00% | 40.00% | 54.00% |
+| 25 | 12.00% | 20.00% | 30.00% | 42.00% | 55.00% |
+| 26 | 12.00% | 20.00% | 30.00% | 42.00% | 56.00% |
+| 27 | 12.00% | 20.00% | 30.00% | 42.00% | 57.00% |
+| 28 | 12.00% | 20.00% | 30.00% | 44.00% | 58.00% |
+| 29 | 12.00% | 20.00% | 30.00% | 44.00% | 59.00% |
 
 TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las Secretarías de la Defensa Nacional y de Marina, según corresponda.
 
@@ -3035,5 +3121,3 @@ SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- R
 hui§CJ\hLhLCJ\hLhL5CJ\
 
 h]GCJ\h]Gh]GCJ\$DEèé<=VW
-
-hïU×CJ\hî7ªhHCJ

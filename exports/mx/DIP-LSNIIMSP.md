@@ -721,5 +721,3 @@ Quinto. La instalación de los Grupos de Trabajo previstos en el presente Decret
 Ciudad de México, a 1 de julio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-QRUÆÇË}~tu2 õëâõëâõëâõëâõëâõëâõëâõëâÕõëâÕõëâÕõëâÕõëâÕÆ·ëâõëâõëâõëâõëâõëâõëâõëâõëâõëâhGmh*3O5B*CJphhGmhGm5B*CJphhGmh*3OB*CJphhGmh*3OCJhGmh*3O5CJhGmhGm5CJH¡¯°\]¦§DE}12bcÆÇ

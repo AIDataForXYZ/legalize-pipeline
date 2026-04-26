@@ -70,7 +70,15 @@ Para los efectos del artículo 2o. de esta Ley, se estará a lo siguiente: I.- T
 
 TARIFA
 
-Límite InferiorLímite SuperiorCuota fijaPor ciento para aplicarse sobre el excedente del Límite inferior$$$%0.01383,940.350.002.0383,940.36460,728.357,678.675.0460,728.36537,516.6411,518.2510.0537,516.65691,092.3419,197.0415.0691,092.35En adelante42,233.3517.0Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019,
+| Límite Inferior | Límite Superior | Cuota fija | Por ciento para aplicarse sobre el excedente del Límite inferior |
+| --- | --- | --- | --- |
+| $ | $ | $ | % |
+| 0.01 | 383,940.35 | 0.00 | 2.0 |
+| 383,940.36 | 460,728.35 | 7,678.67 | 5.0 |
+| 460,728.36 | 537,516.64 | 11,518.25 | 10.0 |
+| 537,516.65 | 691,092.34 | 19,197.04 | 15.0 |
+| 691,092.35 | En adelante | 42,233.35 | 17.0 |
+| Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, |   |   |   |
 
 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025
 
@@ -192,7 +200,41 @@ Se crea un Fondo de Compensación del Impuesto sobre Automóviles Nuevos, para r
 
 Mensualmente se distribuirá la cantidad que resulte de dividir el monto establecido en el primer párrafo de este artículo entre 12 a las Entidades Federativas, de acuerdo a los coeficientes de distribución de la siguiente tabla:
 
-EntidadCoeficiente Aguascalientes0.010201 Baja California0.024732 Baja California Sur0.004627 Campeche0.005038 Coahuila0.032702 Colima0.005974 Chiapas0.015838 Chihuahua0.033976 Distrito Federal0.229286 Durango0.007617Guanajuato0.032040 Guerrero0.008630 Hidalgo0.009030 Jalisco0.078613 México0.108289 Michoacán0.028170 Morelos0.009869 Nayarit0.003937Nuevo León0.070119 Oaxaca0.012463 Puebla0.044415 Querétaro0.014387 Quintana Roo0.021638 San Luis Potosí 0.017531 Sinaloa0.027518Sonora0.026867 Tabasco0.016162 Tamaulipas0.040972 Tlaxcala 0.003656 Veracruz0.037974 Yucatán0.013333Zacatecas0.004396 Total 1.000000
+| Entidad | Coeficiente |   |
+| --- | --- | --- |
+|   | Aguascalientes | 0.010201 |
+| Baja California | 0.024732 |   |
+| Baja California Sur | 0.004627 |   |
+| Campeche | 0.005038 |   |
+| Coahuila | 0.032702 |   |
+| Colima | 0.005974 |   |
+| Chiapas | 0.015838 |   |
+| Chihuahua | 0.033976 |   |
+| Distrito Federal | 0.229286 |   |
+| Durango | 0.007617 |   |
+| Guanajuato | 0.032040 |   |
+| Guerrero | 0.008630 |   |
+| Hidalgo | 0.009030 |   |
+| Jalisco | 0.078613 |   |
+| México | 0.108289 |   |
+| Michoacán | 0.028170 |   |
+| Morelos | 0.009869 |   |
+| Nayarit | 0.003937 |   |
+| Nuevo León | 0.070119 |   |
+| Oaxaca | 0.012463 |   |
+| Puebla | 0.044415 |   |
+| Querétaro | 0.014387 |   |
+| Quintana Roo | 0.021638 |   |
+| San Luis Potosí | 0.017531 |   |
+| Sinaloa | 0.027518 |   |
+| Sonora | 0.026867 |   |
+| Tabasco | 0.016162 |   |
+| Tamaulipas | 0.040972 |   |
+| Tlaxcala | 0.003656 |   |
+| Veracruz | 0.037974 |   |
+| Yucatán | 0.013333 |   |
+| Zacatecas | 0.004396 |   |
+| Total 1.000000 |   |   |
 
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá los recursos del fondo a que se refiere el segundo párrafo de este artículo, dentro de los primeros 25 días de cada mes y se considerará como pago definitivo. La entidad federativa de que se trate deberá distribuir cuando menos el 20% de los recursos que reciba de este fondo a los municipios de la entidad, que se distribuirá entre estos últimos, en la forma en que determine la legislatura respectiva.
 
@@ -608,13 +650,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01239,106.980.002.0239,106.99286,928.324,782.065.0286,928.33334,749.857,173.2410.0334,749.86430,392.3811,955.3715.0430,392.39En adelante26,301.7217.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $660,255.71 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $660,255.71
 
@@ -656,13 +699,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01246,423.650.002.0246,423.66295,708.334,928.395.0295,708.34344,993.207,392.7410.0344,993.21443,562.3912,321.2015.0443,562.40En adelante27,106.5517.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $680,459.53 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $680,459.53
 
@@ -686,7 +730,14 @@ A.	Tarifa para determinar el impuesto sobre automóviles nuevos para el año 201
 
 TARIFA
 
-Límite inferiorLímite superiorCuota fijaTasa para aplicarse sobre el excedente del límite inferior$$$%0.01262,120.840.002.0262,120.85314,544.955,242.335.0314,544.96366,969.277,863.6610.0366,969.28471,817.3113,106.0615.0471,817.32En adelante28,833.2417.0
+| Límite inferior | Límite superior | Cuota fija | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- | --- | --- |
+| $ | $ | $ | % |
+| 0.01 | 262,120.84 | 0.00 | 2.0 |
+| 262,120.85 | 314,544.95 | 5,242.33 | 5.0 |
+| 314,544.96 | 366,969.27 | 7,863.66 | 10.0 |
+| 366,969.28 | 471,817.31 | 13,106.06 | 15.0 |
+| 471,817.32 | En adelante | 28,833.24 | 17.0 |
 
 Si el precio del automóvil es superior a $723,804.80 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $723,804.80
 
@@ -712,13 +763,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01274,964.760.002.0274,964.77329,957.655,499.205.0329,957.66384,950.768,248.9810.0384,950.77494,936.3613,748.2615.0494,936.37En adelante30,246.0717.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24
 
@@ -744,13 +796,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01274,964.760.002.0274,964.77329,957.655,499.205.0329,957.66384,950.768,248.9810.0384,950.77494,936.3613,748.2615.0494,936.37En adelante30,246.0717.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $759,271.24 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $759,271.24
 
@@ -776,13 +829,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01283,241.200.002.0283,241.21339,889.385,664.735.0339,889.39396,537.788,497.2710.0396,537.79509,833.9414,162.0815.0509,833.95En adelante31,156.4817.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $782,125.30 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $782,125.30
 
@@ -808,13 +862,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01294,797.440.002.0294,797.45353,756.875,895.855.0353,756.88412,716.528,843.9610.0412,716.53530,635.1614,739.8915.0530,635.17En adelante32,427.6617.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01
 
@@ -860,13 +915,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01313,163.320.002.0313,163.33375,795.926,263.165.0375,795.93438,428.769,394.9410.0438,428.77563,693.7315,658.1915.0563,693.74En adelante34,447.9017.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $864,750.45 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $864,750.45
 
@@ -892,13 +948,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01 339,469.040.002.0339,469.05407,362.786,789.275.0407,362.79 475,256.78 10,184.1110.0475,256.79611,044.0016,973.4815.0611,044.01En adelante37,341.5217.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49
 
@@ -924,13 +981,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01353,896.470.002.0353,896.48424,675.707,077.815.0424,675.71495,455.1910,616.9310.0495,455.20637,013.3717,694.8515.0637,013.38En adelante38,928.5317.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $ 977,228.54 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $ 977,228.54
 
@@ -956,13 +1014,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01370,741.940.002.0370,741.95444,890.267,414.715.0444,890.27519,038.8611,122.3010.0519,038.87667,335.2118,537.1215.0667,335.22En adelante40,718.5317.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62.
 
@@ -990,13 +1049,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%................................................................................................................................................................................................................................................667,335.22En adelante40,718.5317.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Debe decir:
 
@@ -1006,13 +1066,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%................................................................................................................................................................................................................................................667,335.22En adelante40,781.5317.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Atentamente.
 
@@ -1030,13 +1091,14 @@ TARIFA
 
 Límite inferior
 
-$Límite superior
+| $ | Límite superior |
+| --- | --- |
 
-$Cuota fija
+| $ | Cuota fija |
+| --- | --- |
 
-$Tasa para aplicarse sobre el excedente del límite inferior
-
-%0.01383,940.350.002.0383,940.36460,728.357,678.675.0460,728.36537,516.6411,518.2510.0537,516.65691,092.3419,197.0415.0691,092.35En adelante42,233.3517.0
+| $ | Tasa para aplicarse sobre el excedente del límite inferior |
+| --- | --- |
 
 Si el precio del automóvil es superior a $1,060,189.93 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,060,189.93
 

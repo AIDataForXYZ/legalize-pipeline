@@ -1101,7 +1101,3 @@ Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presen
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-
-88888è8õëâØõëâØõëâØõëâØõëâØõëâØõëâØõëâØõâØõëâØõëâØõëâØõëâØõëâØõëâØõëâÏÃ¸ÃØõâØõâh69×h¨cýCJaJh69×hÞ4u5CJaJh¨cýh¨cýCJh¨cýh¨cý5CJh¨cýhÞ4uCJh¨cýh¶n5CJh¨cýhÞ4u5CJHÅ3Æ35577Ã7Ä7Ó7â7ã7ô78
-
-õæÙÈõæõæ¹Èõµ±¨hb9häÐCJhO¦h%\h¨DCJaJmHnHu* jh¨cýh¨cýCJUaJ*h¨DCJaJmHnHujh¨cýh¨cýCJUaJh¨cýh¨cýCJaJG0P&P1h/R :p¨cý°Ð/ °à=!°"°#$%°°Å°ÅÄDp

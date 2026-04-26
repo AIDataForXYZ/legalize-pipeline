@@ -28,7 +28,204 @@ De los Ingresos y el Endeudamiento Público
 
 ###### Artículo 1o.
 
-En el ejercicio fiscal de 2026, la Federación percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en millones de pesos que a continuación se enumeran: CONCEPTOIngreso EstimadoTOTAL10,193,683.71.Impuestos5,838,541.111.Impuestos Sobre los Ingresos:3,070,149.101.Impuesto sobre la renta.3,070,149.112.Impuestos Sobre el Patrimonio.0.013.Impuestos Sobre la Producción, el Consumo y las Transacciones:2,370,732.701.Impuesto al valor agregado.1,589,069.002.Impuesto especial sobre producción y servicios:761,501.901.Combustibles automotrices:473,279.101.Artículo 2o., fracción I, inciso D).432,487.902.Artículo 2o.-A.40,791.202.Bebidas con contenido alcohólico y cerveza:81,518.801.Bebidas alcohólicas.27,780.202.Cervezas y bebidas refrescantes.53,738.603.Tabacos labrados y otros.62,097.504.Juegos con apuestas y sorteos.5,024.705.Redes públicas de telecomunicaciones.8,486.806.Bebidas energetizantes.100.207.Bebidas saborizadas.75,290.008.Alimentos no básicos con alta densidad calórica.42,856.109.Plaguicidas.2,148.010.Combustibles fósiles.10,517.711.Videojuegos con violencia.183.003.Impuesto sobre automóviles nuevos.20,161.814.Impuestos al Comercio Exterior:254,756.801.Impuestos al comercio exterior:254,756.801.A la importación.254,756.802.A la exportación.0.015.Impuestos Sobre Nóminas y Asimilables.0.016.Impuestos Ecológicos.0.017.Accesorios de impuestos:135,769.401.Accesorios de impuestos.135,769.418.Otros impuestos:7,070.401.Impuesto por la actividad de exploración y extracción de hidrocarburos.7,070.402.Impuesto sobre servicios expresamente declarados de interés público por ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la Nación.0.019.Impuestos no comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago.62.72.Cuotas y Aportaciones de Seguridad Social641,782.121.Aportaciones para Fondos de Vivienda:0.001.Aportaciones y abonos retenidos a trabajadores por patrones para el Fondo Nacional de la Vivienda para los Trabajadores.0.022.Cuotas para la Seguridad Social:641,782.101.Cuotas para el Seguro Social a cargo de patrones y trabajadores.641,782.123.Cuotas de Ahorro para el Retiro:0.001.Cuotas del Sistema de Ahorro para el Retiro a cargo de los patrones.0.024.Otras Cuotas y Aportaciones para la Seguridad Social:0.001.Cuotas para el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado a cargo de los citados trabajadores.0.002.Cuotas para el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas a cargo de los militares.0.025.Accesorios de Cuotas y Aportaciones de Seguridad Social.0.03.Contribuciones de Mejoras39.631.Contribuciones de Mejoras por Obras Públicas:39.601.Contribución de mejoras por obras públicas de infraestructura hidráulica.39.639.Contribuciones de Mejoras no Comprendidas en la Ley de Ingresos Vigente, Causadas en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago.0.04.Derechos157,081.741.Derechos por el Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público:81,380.201.Secretaría de Hacienda y Crédito Público.2,601.402.Secretaría Anticorrupción y Buen Gobierno.0.003.Secretaría de Economía.14,798.804.Secretaría de Infraestructura, Comunicaciones y Transportes.17,955.605.Secretaría de Medio Ambiente y Recursos Naturales.26,642.906.Secretaría de Agricultura y Desarrollo Rural.54.007.Secretaría del Trabajo y Previsión Social.0.008.Secretaría de Educación Pública.0.009.Agencia de Transformación Digital y Telecomunicaciones.17,734.910.Secretaría de Cultura.1,154.011.Secretaría de Salud.0.012.Secretaría de Marina.438.613.Secretaría de Seguridad y Protección Ciudadana.0.043.Derechos por Prestación de Servicios:75,701.501.Servicios que presta el Estado en funciones de derecho público:75,701.501.Secretaría de Gobernación.34,038.202.Secretaría de Relaciones Exteriores.14,028.703.Secretaría de la Defensa Nacional.420.304.Secretaría de Marina. 630.205.Secretaría de Hacienda y Crédito Público.15,068.706.Secretaría Anticorrupción y Buen Gobierno.899.907.Secretaría de Energía.820.208.Secretaría de Economía.7.909.Secretaría de Agricultura y Desarrollo Rural.1,875.010.Secretaría de Infraestructura, Comunicaciones y Transportes.1,657.711.Secretaría de Medio Ambiente y Recursos Naturales:1,863.301.Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.62.302.Otros.1,801.012.Secretaría de Educación Pública.2,293.813.Secretaría de Salud.1,671.614.Secretaría del Trabajo y Previsión Social.0.015.Secretaría de Desarrollo Agrario, Territorial y Urbano.83.016.Secretaría de Turismo.0.017.Agencia de Transformación Digital y Telecomunicaciones.40.618.Secretaría de Cultura.77.119.Secretaría de Seguridad y Protección Ciudadana.225.320.Secretaría de Bienestar.0.044.Otros Derechos.0.045.Accesorios de Derechos.0.049.Derechos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago.0.05.Productos16,488.351.Productos:16,488.301.Por los servicios que no correspondan a funciones de derecho público.165.602.Derivados del uso, aprovechamiento o enajenación de bienes no sujetos al régimen de dominio público:16,322.701.Explotación de tierras y aguas.0.002.Arrendamiento de tierras, locales y construcciones.0.003.Enajenación de bienes:3,985.601.Muebles.3,561.602.Inmuebles.424.004.Intereses de valores, créditos y bonos.11,736.905.Utilidades:600.001.De organismos descentralizados y empresas de participación estatal.0.002.De Lotería Nacional.600.003.Otras.0.006.Otros.0.259.Productos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago.0.06.Aprovechamientos203,520.561.Aprovechamientos:201,723.301.Multas.4,769.202.Indemnizaciones.2,408.003.Reintegros:6,190.3001.Sostenimiento de las escuelas artículo 123.0.002.Servicio de vigilancia forestal.0.303.Otros.6,190.004.Provenientes de obras públicas de infraestructura hidráulica.4,304.705.Participaciones en los ingresos derivados de la aplicación de leyes locales sobre herencias y legados expedidas de acuerdo con la Federación.0.006.Participaciones en los ingresos derivados de la aplicación de leyes locales sobre donaciones expedidas de acuerdo con la Federación.0.007.Aportaciones de los Estados, Municipios y particulares para el servicio del Sistema Escolar Federalizado.0.008.Cooperación de la Ciudad de México por servicios públicos locales prestados por la Federación.0.009.Cooperación de los Gobiernos de Estados y Municipios y de particulares para alcantarillado, electrificación, caminos y líneas telegráficas, telefónicas y para otras obras públicas.0.010.5 por ciento de días de cama a cargo de establecimientos particulares para internamiento de enfermos y otros destinados a la Secretaría de Salud.0.011.Participaciones a cargo de los concesionarios de vías generales de comunicación y de empresas de abastecimiento de energía eléctrica.2,723.212.Participaciones señaladas por la Ley Federal de Juegos y Sorteos.2,578.313.Regalías provenientes de fondos y explotación minera.0.014.Aportaciones de contratistas de obras públicas.31.915.Destinados al Fondo para el Desarrollo Forestal:14.801.Aportaciones que efectúen los Gobiernos de la Ciudad de México, Estatales y Municipales, los organismos y entidades públicas, sociales y los particulares.0.002.De las reservas nacionales forestales.0.003.Aportaciones al Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.0.004.Otros conceptos.14.816.Cuotas Compensatorias.1,807.217.Hospitales Militares.0.018.Participaciones por la explotación de obras del dominio público señaladas por la Ley Federal del Derecho de Autor.0.019.Provenientes de decomiso y de bienes que pasan a propiedad del Fisco Federal.337.020.Provenientes del programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.3,496.921.No comprendidos en los incisos anteriores provenientes del cumplimiento de convenios celebrados en otros ejercicios.0.022.Otros:171,113.801.Remanente de operación del Banco de México.0.002.Utilidades por Recompra de Deuda.0.003.Rendimiento mínimo garantizado.0.004.Otros.171,113.823.Provenientes de servicios en materia energética:1,948.001.Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.91.402.Secretaría de Energía.659.303.Comisión Nacional de Energía.1,197.362.Aprovechamientos Patrimoniales:1,176.201.Recuperaciones de capital:1,176.201.Fondos entregados en fideicomiso, a favor de Entidades Federativas y empresas públicas.0.102.Fondos entregados en fideicomiso, a favor de empresas privadas y a particulares.10.203.Inversiones en obras de agua potable y alcantarillado.0.004.Desincorporaciones.0.005.Otros.1,165.963.Accesorios de Aprovechamientos.621.069.Aprovechamientos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago.0.07.Ingresos por Ventas de Bienes, Prestación de Servicios y Otros Ingresos1,630,973.671.Ingresos por Venta de Bienes y Prestación de Servicios de Instituciones Públicas de Seguridad Social:123,819.201.Instituto Mexicano del Seguro Social.62,799.202.Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.61,020.072.Ingresos por Ventas de Bienes y Prestación de Servicios de Empresas Públicas del Estado:1,507,154.401.Petróleos Mexicanos.971,677.202.Comisión Federal de Electricidad.535,477.273.Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales y Fideicomisos No Empresariales y No Financieros.0.074.Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales No Financieras con Participación Estatal Mayoritaria.0.075.Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales Financieras Monetarias con Participación Estatal Mayoritaria.0.076.Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales Financieras No Monetarias con Participación Estatal Mayoritaria.0.077.Ingresos por Venta de Bienes y Prestación de Servicios de Fideicomisos Financieros Públicos con Participación Estatal Mayoritaria.0.078.Ingresos por Venta de Bienes y Prestación de Servicios de los Poderes Legislativo y Judicial, y de los Órganos Autónomos.0.079.Otros Ingresos.8.Participaciones, Aportaciones, Convenios, Incentivos Derivados de la Colaboración Fiscal y Fondos Distintos de Aportaciones0.081.Participaciones.0.082.Aportaciones.0.083.Convenios.0.084.Incentivos Derivados de la Colaboración Fiscal.0.085.Fondos Distintos de Aportaciones.0.09.Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones232,630.491.Transferencias y Asignaciones.0.093.Subsidios y Subvenciones.0.095.Pensiones y jubilaciones.0.097.Transferencias del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo:232,630.401.Ordinarias.232,630.402.Extraordinarias.0.00.Ingresos Derivados de Financiamientos1,472,626.401.Endeudamiento interno:1,858,397.401.Endeudamiento interno del Gobierno Federal.1,779,541.702.Otros financiamientos:78,855.701.Diferimiento de pagos.78,855.702.Otros.0.002.Endeudamiento externo:0.001.Endeudamiento externo del Gobierno Federal.0.003.Financiamiento Interno.04.Déficit de organismos y empresas de control directo.-101,616.205.Déficit de empresas públicas del Estado.-284,154.8Informativo: Endeudamiento neto del Gobierno Federal (0.01.01+0.02.01)1,779,541.7
+En el ejercicio fiscal de 2026, la Federación percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en millones de pesos que a continuación se enumeran: | CONCEPTO | Ingreso Estimado |   |   |
+| --- | --- | --- | --- |
+| TOTAL | 10,193,683.7 |   |   |
+|   | 1. | Impuestos | 5,838,541.1 |
+|   | 11. | Impuestos Sobre los Ingresos: | 3,070,149.1 |
+| 01. | Impuesto sobre la renta. | 3,070,149.1 |   |
+|   | 12. | Impuestos Sobre el Patrimonio. | 0.0 |
+|   | 13. | Impuestos Sobre la Producción, el Consumo y las Transacciones: | 2,370,732.7 |
+| 01. | Impuesto al valor agregado. | 1,589,069.0 |   |
+| 02. | Impuesto especial sobre producción y servicios: | 761,501.9 |   |
+|   | 01. | Combustibles automotrices: | 473,279.1 |
+| 01. | Artículo 2o., fracción I, inciso D). | 432,487.9 |   |
+| 02. | Artículo 2o.-A. | 40,791.2 |   |
+|   | 02. | Bebidas con contenido alcohólico y cerveza: | 81,518.8 |
+| 01. | Bebidas alcohólicas. | 27,780.2 |   |
+| 02. | Cervezas y bebidas refrescantes. | 53,738.6 |   |
+|   | 03. | Tabacos labrados y otros. | 62,097.5 |
+|   | 04. | Juegos con apuestas y sorteos. | 5,024.7 |
+|   | 05. | Redes públicas de telecomunicaciones. | 8,486.8 |
+|   | 06. | Bebidas energetizantes. | 100.2 |
+|   | 07. | Bebidas saborizadas. | 75,290.0 |
+|   | 08. | Alimentos no básicos con alta densidad calórica. | 42,856.1 |
+|   | 09. | Plaguicidas. | 2,148.0 |
+|   | 10. | Combustibles fósiles. | 10,517.7 |
+|   | 11. | Videojuegos con violencia. | 183.0 |
+| 03. | Impuesto sobre automóviles nuevos. | 20,161.8 |   |
+|   | 14. | Impuestos al Comercio Exterior: | 254,756.8 |
+| 01. | Impuestos al comercio exterior: | 254,756.8 |   |
+|   | 01. | A la importación. | 254,756.8 |
+|   | 02. | A la exportación. | 0.0 |
+|   | 15. | Impuestos Sobre Nóminas y Asimilables. | 0.0 |
+|   | 16. | Impuestos Ecológicos. | 0.0 |
+|   | 17. | Accesorios de impuestos: | 135,769.4 |
+| 01. | Accesorios de impuestos. | 135,769.4 |   |
+|   | 18. | Otros impuestos: | 7,070.4 |
+| 01. | Impuesto por la actividad de exploración y extracción de hidrocarburos. | 7,070.4 |   |
+| 02. | Impuesto sobre servicios expresamente declarados de interés público por ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la Nación. | 0.0 |   |
+|   | 19. | Impuestos no comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago. | 62.7 |
+|   | 2. | Cuotas y Aportaciones de Seguridad Social | 641,782.1 |
+|   | 21. | Aportaciones para Fondos de Vivienda: | 0.0 |
+| 01. | Aportaciones y abonos retenidos a trabajadores por patrones para el Fondo Nacional de la Vivienda para los Trabajadores. | 0.0 |   |
+|   | 22. | Cuotas para la Seguridad Social: | 641,782.1 |
+| 01. | Cuotas para el Seguro Social a cargo de patrones y trabajadores. | 641,782.1 |   |
+|   | 23. | Cuotas de Ahorro para el Retiro: | 0.0 |
+| 01. | Cuotas del Sistema de Ahorro para el Retiro a cargo de los patrones. | 0.0 |   |
+|   | 24. | Otras Cuotas y Aportaciones para la Seguridad Social: | 0.0 |
+| 01. | Cuotas para el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado a cargo de los citados trabajadores. | 0.0 |   |
+| 02. | Cuotas para el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas a cargo de los militares. | 0.0 |   |
+|   | 25. | Accesorios de Cuotas y Aportaciones de Seguridad Social. | 0.0 |
+|   | 3. | Contribuciones de Mejoras | 39.6 |
+|   | 31. | Contribuciones de Mejoras por Obras Públicas: | 39.6 |
+| 01. | Contribución de mejoras por obras públicas de infraestructura hidráulica. | 39.6 |   |
+|   | 39. | Contribuciones de Mejoras no Comprendidas en la Ley de Ingresos Vigente, Causadas en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago. | 0.0 |
+|   | 4. | Derechos | 157,081.7 |
+|   | 41. | Derechos por el Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público: | 81,380.2 |
+| 01. | Secretaría de Hacienda y Crédito Público. | 2,601.4 |   |
+| 02. | Secretaría Anticorrupción y Buen Gobierno. | 0.0 |   |
+| 03. | Secretaría de Economía. | 14,798.8 |   |
+| 04. | Secretaría de Infraestructura, Comunicaciones y Transportes. | 17,955.6 |   |
+| 05. | Secretaría de Medio Ambiente y Recursos Naturales. | 26,642.9 |   |
+| 06. | Secretaría de Agricultura y Desarrollo Rural. | 54.0 |   |
+| 07. | Secretaría del Trabajo y Previsión Social. | 0.0 |   |
+| 08. | Secretaría de Educación Pública. | 0.0 |   |
+| 09. | Agencia de Transformación Digital y Telecomunicaciones. | 17,734.9 |   |
+| 10. | Secretaría de Cultura. | 1,154.0 |   |
+| 11. | Secretaría de Salud. | 0.0 |   |
+| 12. | Secretaría de Marina. | 438.6 |   |
+| 13. | Secretaría de Seguridad y Protección Ciudadana. | 0.0 |   |
+|   | 43. | Derechos por Prestación de Servicios: | 75,701.5 |
+| 01. | Servicios que presta el Estado en funciones de derecho público: | 75,701.5 |   |
+|   | 01. | Secretaría de Gobernación. | 34,038.2 |
+|   | 02. | Secretaría de Relaciones Exteriores. | 14,028.7 |
+|   | 03. | Secretaría de la Defensa Nacional. | 420.3 |
+|   | 04. | Secretaría de Marina. | 630.2 |
+|   | 05. | Secretaría de Hacienda y Crédito Público. | 15,068.7 |
+|   | 06. | Secretaría Anticorrupción y Buen Gobierno. | 899.9 |
+|   | 07. | Secretaría de Energía. | 820.2 |
+|   | 08. | Secretaría de Economía. | 7.9 |
+|   | 09. | Secretaría de Agricultura y Desarrollo Rural. | 1,875.0 |
+|   | 10. | Secretaría de Infraestructura, Comunicaciones y Transportes. | 1,657.7 |
+|   | 11. | Secretaría de Medio Ambiente y Recursos Naturales: | 1,863.3 |
+| 01. | Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos. | 62.3 |   |
+| 02. | Otros. | 1,801.0 |   |
+|   | 12. | Secretaría de Educación Pública. | 2,293.8 |
+|   | 13. | Secretaría de Salud. | 1,671.6 |
+|   | 14. | Secretaría del Trabajo y Previsión Social. | 0.0 |
+|   | 15. | Secretaría de Desarrollo Agrario, Territorial y Urbano. | 83.0 |
+|   | 16. | Secretaría de Turismo. | 0.0 |
+|   | 17. | Agencia de Transformación Digital y Telecomunicaciones. | 40.6 |
+|   | 18. | Secretaría de Cultura. | 77.1 |
+|   | 19. | Secretaría de Seguridad y Protección Ciudadana. | 225.3 |
+|   | 20. | Secretaría de Bienestar. | 0.0 |
+|   | 44. | Otros Derechos. | 0.0 |
+|   | 45. | Accesorios de Derechos. | 0.0 |
+|   | 49. | Derechos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago. | 0.0 |
+|   | 5. | Productos | 16,488.3 |
+|   | 51. | Productos: | 16,488.3 |
+| 01. | Por los servicios que no correspondan a funciones de derecho público. | 165.6 |   |
+| 02. | Derivados del uso, aprovechamiento o enajenación de bienes no sujetos al régimen de dominio público: | 16,322.7 |   |
+|   | 01. | Explotación de tierras y aguas. | 0.0 |
+|   | 02. | Arrendamiento de tierras, locales y construcciones. | 0.0 |
+|   | 03. | Enajenación de bienes: | 3,985.6 |
+| 01. | Muebles. | 3,561.6 |   |
+| 02. | Inmuebles. | 424.0 |   |
+|   | 04. | Intereses de valores, créditos y bonos. | 11,736.9 |
+|   | 05. | Utilidades: | 600.0 |
+| 01. | De organismos descentralizados y empresas de participación estatal. | 0.0 |   |
+| 02. | De Lotería Nacional. | 600.0 |   |
+| 03. | Otras. | 0.0 |   |
+|   | 06. | Otros. | 0.2 |
+|   | 59. | Productos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago. | 0.0 |
+|   | 6. | Aprovechamientos | 203,520.5 |
+|   | 61. | Aprovechamientos: | 201,723.3 |
+| 01. | Multas. | 4,769.2 |   |
+| 02. | Indemnizaciones. | 2,408.0 |   |
+| 03. | Reintegros: | 6,190.30 |   |
+|   | 01. | Sostenimiento de las escuelas artículo 123. | 0.0 |
+|   | 02. | Servicio de vigilancia forestal. | 0.3 |
+|   | 03. | Otros. | 6,190.0 |
+| 04. | Provenientes de obras públicas de infraestructura hidráulica. | 4,304.7 |   |
+| 05. | Participaciones en los ingresos derivados de la aplicación de leyes locales sobre herencias y legados expedidas de acuerdo con la Federación. | 0.0 |   |
+| 06. | Participaciones en los ingresos derivados de la aplicación de leyes locales sobre donaciones expedidas de acuerdo con la Federación. | 0.0 |   |
+| 07. | Aportaciones de los Estados, Municipios y particulares para el servicio del Sistema Escolar Federalizado. | 0.0 |   |
+| 08. | Cooperación de la Ciudad de México por servicios públicos locales prestados por la Federación. | 0.0 |   |
+| 09. | Cooperación de los Gobiernos de Estados y Municipios y de particulares para alcantarillado, electrificación, caminos y líneas telegráficas, telefónicas y para otras obras públicas. | 0.0 |   |
+| 10. | 5 por ciento de días de cama a cargo de establecimientos particulares para internamiento de enfermos y otros destinados a la Secretaría de Salud. | 0.0 |   |
+| 11. | Participaciones a cargo de los concesionarios de vías generales de comunicación y de empresas de abastecimiento de energía eléctrica. | 2,723.2 |   |
+| 12. | Participaciones señaladas por la Ley Federal de Juegos y Sorteos. | 2,578.3 |   |
+| 13. | Regalías provenientes de fondos y explotación minera. | 0.0 |   |
+| 14. | Aportaciones de contratistas de obras públicas. | 31.9 |   |
+| 15. | Destinados al Fondo para el Desarrollo Forestal: | 14.8 |   |
+|   | 01. | Aportaciones que efectúen los Gobiernos de la Ciudad de México, Estatales y Municipales, los organismos y entidades públicas, sociales y los particulares. | 0.0 |
+|   | 02. | De las reservas nacionales forestales. | 0.0 |
+|   | 03. | Aportaciones al Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias. | 0.0 |
+|   | 04. | Otros conceptos. | 14.8 |
+| 16. | Cuotas Compensatorias. | 1,807.2 |   |
+| 17. | Hospitales Militares. | 0.0 |   |
+| 18. | Participaciones por la explotación de obras del dominio público señaladas por la Ley Federal del Derecho de Autor. | 0.0 |   |
+| 19. | Provenientes de decomiso y de bienes que pasan a propiedad del Fisco Federal. | 337.0 |   |
+| 20. | Provenientes del programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras. | 3,496.9 |   |
+| 21. | No comprendidos en los incisos anteriores provenientes del cumplimiento de convenios celebrados en otros ejercicios. | 0.0 |   |
+| 22. | Otros: | 171,113.8 |   |
+|   | 01. | Remanente de operación del Banco de México. | 0.0 |
+|   | 02. | Utilidades por Recompra de Deuda. | 0.0 |
+|   | 03. | Rendimiento mínimo garantizado. | 0.0 |
+|   | 04. | Otros. | 171,113.8 |
+| 23. | Provenientes de servicios en materia energética: | 1,948.0 |   |
+|   | 01. | Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos. | 91.4 |
+|   | 02. | Secretaría de Energía. | 659.3 |
+|   | 03. | Comisión Nacional de Energía. | 1,197.3 |
+|   | 62. | Aprovechamientos Patrimoniales: | 1,176.2 |
+| 01. | Recuperaciones de capital: | 1,176.2 |   |
+|   | 01. | Fondos entregados en fideicomiso, a favor de Entidades Federativas y empresas públicas. | 0.1 |
+|   | 02. | Fondos entregados en fideicomiso, a favor de empresas privadas y a particulares. | 10.2 |
+|   | 03. | Inversiones en obras de agua potable y alcantarillado. | 0.0 |
+|   | 04. | Desincorporaciones. | 0.0 |
+|   | 05. | Otros. | 1,165.9 |
+|   | 63. | Accesorios de Aprovechamientos. | 621.0 |
+|   | 69. | Aprovechamientos no Comprendidos en la Ley de Ingresos Vigente, Causados en Ejercicios Fiscales Anteriores Pendientes de Liquidación o Pago. | 0.0 |
+|   | 7. | Ingresos por Ventas de Bienes, Prestación de Servicios y Otros Ingresos | 1,630,973.6 |
+|   | 71. | Ingresos por Venta de Bienes y Prestación de Servicios de Instituciones Públicas de Seguridad Social: | 123,819.2 |
+| 01. | Instituto Mexicano del Seguro Social. | 62,799.2 |   |
+| 02. | Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. | 61,020.0 |   |
+|   | 72. | Ingresos por Ventas de Bienes y Prestación de Servicios de Empresas Públicas del Estado: | 1,507,154.4 |
+| 01. | Petróleos Mexicanos. | 971,677.2 |   |
+| 02. | Comisión Federal de Electricidad. | 535,477.2 |   |
+|   | 73. | Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales y Fideicomisos No Empresariales y No Financieros. | 0.0 |
+|   | 74. | Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales No Financieras con Participación Estatal Mayoritaria. | 0.0 |
+|   | 75. | Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales Financieras Monetarias con Participación Estatal Mayoritaria. | 0.0 |
+|   | 76. | Ingresos por Venta de Bienes y Prestación de Servicios de Entidades Paraestatales Empresariales Financieras No Monetarias con Participación Estatal Mayoritaria. | 0.0 |
+|   | 77. | Ingresos por Venta de Bienes y Prestación de Servicios de Fideicomisos Financieros Públicos con Participación Estatal Mayoritaria. | 0.0 |
+|   | 78. | Ingresos por Venta de Bienes y Prestación de Servicios de los Poderes Legislativo y Judicial, y de los Órganos Autónomos. | 0.0 |
+|   | 79. | Otros Ingresos. |   |
+| 8. | Participaciones, Aportaciones, Convenios, Incentivos Derivados de la Colaboración Fiscal y Fondos Distintos de Aportaciones | 0.0 |   |
+|   | 81. | Participaciones. | 0.0 |
+|   | 82. | Aportaciones. | 0.0 |
+|   | 83. | Convenios. | 0.0 |
+|   | 84. | Incentivos Derivados de la Colaboración Fiscal. | 0.0 |
+|   | 85. | Fondos Distintos de Aportaciones. | 0.0 |
+|   | 9. | Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones | 232,630.4 |
+|   | 91. | Transferencias y Asignaciones. | 0.0 |
+|   | 93. | Subsidios y Subvenciones. | 0.0 |
+|   | 95. | Pensiones y jubilaciones. | 0.0 |
+|   | 97. | Transferencias del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo: | 232,630.4 |
+| 01. | Ordinarias. | 232,630.4 |   |
+| 02. | Extraordinarias. | 0.0 |   |
+|   | 0. | Ingresos Derivados de Financiamientos | 1,472,626.4 |
+|   | 01. | Endeudamiento interno: | 1,858,397.4 |
+| 01. | Endeudamiento interno del Gobierno Federal. | 1,779,541.7 |   |
+| 02. | Otros financiamientos: | 78,855.7 |   |
+|   | 01. | Diferimiento de pagos. | 78,855.7 |
+|   | 02. | Otros. | 0.0 |
+|   | 02. | Endeudamiento externo: | 0.0 |
+| 01. | Endeudamiento externo del Gobierno Federal. | 0.0 |   |
+|   | 03. | Financiamiento Interno. |   |
+| 04. | Déficit de organismos y empresas de control directo. | -101,616.2 |   |
+|   | 05. | Déficit de empresas públicas del Estado. | -284,154.8 |
+| Informativo: Endeudamiento neto del Gobierno Federal (0.01.01+0.02.01) | 1,779,541.7 |   |   |
 
 Cuando una ley que establezca alguno de los ingresos previstos en este artículo, contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en el numeral que corresponda a los ingresos a que se refiere este precepto.
 
@@ -152,7 +349,21 @@ Los ingresos excedentes provenientes de los aprovechamientos a que se refiere el
 
 En tanto no sean autorizados los aprovechamientos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en el que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:
 
-MESFACTOREnero1.0379Febrero1.0350Marzo1.0321Abril1.0289Mayo1.0255Junio1.0226Julio1.0198Agosto1.0170Septiembre1.0084Octubre1.0076Noviembre1.0014Diciembre0.9965En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
+| MES | FACTOR |
+| --- | --- |
+| Enero | 1.0379 |
+| Febrero | 1.0350 |
+| Marzo | 1.0321 |
+| Abril | 1.0289 |
+| Mayo | 1.0255 |
+| Junio | 1.0226 |
+| Julio | 1.0198 |
+| Agosto | 1.0170 |
+| Septiembre | 1.0084 |
+| Octubre | 1.0076 |
+| Noviembre | 1.0014 |
+| Diciembre | 0.9965 |
+| En el caso de aprovechamientos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026. |   |
 
 Los aprovechamientos por concepto de multas, sanciones, penas convencionales, cuotas compensatorias, recuperaciones de capital, aquellos aprovechamientos a que se refieren la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, la Ley Federal de Competencia Económica, y la Ley en Materia de Telecomunicaciones y Radiodifusión, así como los accesorios de los aprovechamientos no requieren de autorización por parte de la Secretaría de Hacienda y Crédito Público para su cobro.
 
@@ -174,7 +385,20 @@ El uso de los medios de identificación electrónica a que se refiere el párraf
 
 En tanto no sean autorizados los productos a que se refiere este artículo para el ejercicio fiscal de 2026, se aplicarán los vigentes al 31 de diciembre de 2025, multiplicados por el factor que corresponda según el mes en que fueron autorizados o, en el caso de haberse realizado una modificación posterior, a partir de la última vez en la que fueron modificados en dicho ejercicio fiscal, conforme a la tabla siguiente:
 
-MESFACTOREnero1.0379Febrero1.0350Marzo1.0321Abril1.0289Mayo1.0255Junio1.0226Julio1.0198Agosto1.0170Septiembre1.0084Octubre1.0076Noviembre1.0014Diciembre0.9965
+| MES | FACTOR |
+| --- | --- |
+| Enero | 1.0379 |
+| Febrero | 1.0350 |
+| Marzo | 1.0321 |
+| Abril | 1.0289 |
+| Mayo | 1.0255 |
+| Junio | 1.0226 |
+| Julio | 1.0198 |
+| Agosto | 1.0170 |
+| Septiembre | 1.0084 |
+| Octubre | 1.0076 |
+| Noviembre | 1.0014 |
+| Diciembre | 0.9965 |
 
 En el caso de productos que, en el ejercicio inmediato anterior, se hayan fijado en porcentajes, se continuarán aplicando durante el ejercicio fiscal de 2026 los porcentajes autorizados por la Secretaría de Hacienda y Crédito Público que se encuentren vigentes al 31 de diciembre de 2025 hasta en tanto dicha Secretaría no emita respuesta respecto de la solicitud de autorización para el ejercicio fiscal de 2026.
 
@@ -963,5 +1187,3 @@ En caso de que el recurso de revocación sea resuelto antes del plazo de seis me
 Trigésimo.- El Servicio de Administración Tributaria, a través de reglas de carácter general, podrá otorgar facilidades administrativas que permitan el cumplimiento de las obligaciones aplicables a las instituciones de crédito para acreditar la notoria imposibilidad práctica de cobro a que se refiere el artículo 25, fracción V de esta Ley.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-ÆC"$Ifa$gdÒ

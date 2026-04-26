@@ -1880,8 +1880,4 @@ Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada e
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-ª«ÁËÌÌ%&3'12ïüØïùúû+56ãú01>¢¦ÀÄØåûëÕ¹ ¹Õë¹ ¹Õë¹ ¹ÕëÕ¹ ¹ë¹ ¹yyyyyÕë¹
-
-%¨©«ÏñõPSmo!$§«óøÎ Ñ _¡a¡)¢-¢À¤ïÓºÓ´ ´ zs´s´s´s´s´s´s´s´s´bShN8h7kB*CJaJph hN8h7k5B*CJaJph
-
 h¯"ÜCJ\

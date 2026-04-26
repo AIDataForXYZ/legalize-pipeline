@@ -102,17 +102,28 @@ III.- Cuando se conduzcan exhortos y toda clase de documentos judiciales.
 
 La correspondencia tendrá los siguientes límites de peso y dimensiones: SOBRES:
 
-Máximo
+|   | Máximo |
+| --- | --- |
 
-MínimoLargo ..............
+|   | Mínimo |
+| --- | --- |
+| Largo .............. |   |
 
-458 milímetros114 milímetrosAncho .............
+|   | 458 milímetros | 114 milímetros |
+| --- | --- | --- |
+| Ancho ............. |   |   |
 
-324 milímetros81 milímetrosPeso ...............1,000 gramos------TARJETAS POSTALES:
+|   | 324 milímetros | 81 milímetros |
+| --- | --- | --- |
+| Peso ............... | 1,000 gramos | ------ |
+| TARJETAS POSTALES: |   |   |
 
-Largo ..............
+| Largo .............. |
+| --- |
 
-148 milímetros105 milímetrosAncho .............140 milímetros90 milímetros
+|   | 148 milímetros | 105 milímetros |
+| --- | --- | --- |
+| Ancho ............. | 140 milímetros | 90 milímetros |
 
 ### CAPITULO V
 
