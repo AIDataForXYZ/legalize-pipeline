@@ -44,6 +44,19 @@ _ARTICULO_RE = re.compile(
     r"(?P<rest>.*)$",
 )
 
+# Matches an article number that is a NUMERIC ordinal (e.g. "1o", "2", "23o", "1 o").
+# Used to distinguish the issuing decree's word-ordinal articles (PRIMERO, SEGUNDO…)
+# from the main law's numeric articles (1o., 2., 3o.-).
+_NUMERIC_ARTICULO_NUM_RE = re.compile(r"^\d")
+
+# Matches a WORD ordinal article number (PRIMERO, SEGUNDO … or mixed-case equivalents).
+# Used to detect the issuing-decree head articles that precede the main law.
+_WORD_ORDINAL_NUM_RE = re.compile(
+    r"^(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|S[ÉE]PTIMO|OCTAVO|NOVENO|D[ÉE]CIMO"
+    r"|Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|S[ée]ptimo|Octavo|Noveno|D[ée]cimo)$",
+    re.IGNORECASE,
+)
+
 # Section / chapter / title headings — for grouping.
 # Requirements to avoid matching prose mid-sentence:
 #   1. Must start with the exact keyword in ALL-CAPS (title-case prose like
@@ -67,6 +80,30 @@ _SECCION_RE = re.compile(r"^SECCI[ÓO]N" + _SECTION_SUFFIX)
 _LIBRO_RE = re.compile(r"^LIBRO" + _SECTION_SUFFIX)
 _TRANSITORIOS_RE = re.compile(
     r"^\s*ART[ÍI]CULOS?\s+TRANSITORIOS?(?:\s+DE\s+DECRETOS?\s+DE\s+REFORMA)?\s*$",
+    re.IGNORECASE,
+)
+
+# Matches the boundary heading that switches us into decreto-tail mode.
+# Once seen, every subsequent "Artículo …" is a transitorio of a reform decree
+# and must NOT be parsed as a main-law article heading.
+_DECRETO_TAIL_TRIGGER_RE = re.compile(
+    r"^\s*ART[ÍI]CULOS?\s+TRANSITORIOS?\s+DE\s+DECRETOS?\s+DE\s+REFORMA\s*$",
+    re.IGNORECASE,
+)
+
+# Matches individual reform-decree intro lines, e.g.:
+#   "DECRETO por el que se reforman los artículos 65 y 66…"
+# These become sub-section headings inside the decreto-tail context.
+_DECRETO_HEADER_RE = re.compile(
+    r"^\s*DECRETO\b",
+    re.IGNORECASE,
+)
+
+# Inside decreto-tail, "TRANSITORIOS" and "TRANSITORIO" headings are
+# sub-headings within a decree block, not the main ARTÍCULOS TRANSITORIOS
+# section heading that the outer parser handles.
+_DECRETO_TRANSITORIOS_RE = re.compile(
+    r"^\s*TRANSITORIOS?\s*$",
     re.IGNORECASE,
 )
 
@@ -99,8 +136,13 @@ _REFORM_STAMP_RE = re.compile(
 # paragraph break.
 _APARTADO_RE = re.compile(r"^[A-Z]\.\s+\S")
 _FRACCION_RE = re.compile(
-    r"^(?:[IVX]+|[ivx]+)[.\-\)]\s+\S",
-    re.IGNORECASE,
+    # Matches fracciones both with explicit punctuation (I. / I- / I) / i.)
+    # and with the bare "I<space><UppercaseLetter>" form that Diputados DOC
+    # files sometimes use (e.g. "I Pudieren verse perjudicadas…").
+    # The bare form requires an uppercase letter after the space so that
+    # mid-sentence Roman references are not mistakenly split.
+    r"^(?:[IVX]+|[ivx]+)(?:[.\-\)]\s+\S|\s+[A-ZÁÉÍÓÚÜÑ]\S)",
+    re.UNICODE,
 )
 _INCISO_RE = re.compile(r"^[a-z]\)\s+\S")
 
@@ -154,31 +196,119 @@ _LAST_REFORM_FOOTER_RE = re.compile(
 # e.g. "PAGE", "NUMPAGES406", "EMBED Word.Picture.8 …".
 _DOC_FIELD_RE = re.compile(r"^(?:PAGE|NUMPAGES\S*|EMBED\s+\S+)", re.IGNORECASE)
 
-# Paragraphs whose printable character ratio is below this threshold are
-# treated as OLE2 binary artefacts (header/footer/embedded-object streams
-# that leak into the WordDocument text block) and discarded.
-_MIN_PRINTABLE_RATIO = 0.70
+# Matches Word 97 style-sheet / field-code tokens that bleed verbatim into
+# the WordDocument text stream.  These originate from:
+#   • OLE2 document summary / FIB header  ("bjbj" is a fixed signature word)
+#   • Word style-sheet XML references     (OJQJ, CJOJQJ, mH sH, ^JaJ …)
+#   • Conditional-format IF field codes   ($If, IfF4, IfF42, Faöf4 …)
+#   • Field code delimiters / cell refs   (Qkd<hex>, gd<name>, $$Ifa$ …)
+#   • Word picture-layout cell refs       (dð¤ = d + eth U+00F0 + U+00A4 …)
+# Any paragraph that contains at least one of these tokens is field-code
+# garbage and must be dropped.  The patterns are deliberately narrow (word
+# boundaries, specific sub-strings) so that ordinary Spanish prose that
+# happens to contain a dollar sign or a capital letter run is not affected.
+_WORD_FIELD_CODE_RE = re.compile(
+    r"bjbj"                    # OLE2 Word document signature (always garbage)
+    r"|OJ[PQ]J"                # Word style-sheet marker: OJQJ or OJPJQJ variants
+    r"|\bIfF\d"                # Conditional field code: IfF4, IfF42, IfFM …
+    r"|\$If\^"                 # Conditional-format cell reference: $If^
+    r"|\$\$Ifa\$"              # Conditional-format array ref: $$Ifa$
+    r"|\$\$IfF"                # Conditional-format field block: $$IfF… (any suffix)
+    r"|\$%@[A-Z]"              # TOC-style garbage delimiter: $%@A, $%@B …
+    r"|\$!`!\w\$"              # Field-code cell reference: $!`!a$, $!`!b$ …
+    r"|Faöf4"                  # Filter field code suffix (öf4 is diagnostic)
+    r"|Qkd[A-Za-z0-9$ì]"       # Field-code delimiter token (Qkd + next char)
+    r"|gd[A-Za-z0-9\[{<_#àÁ¿·Ë;ï¢þ³ô¶ú]"  # Named range ref in Word style sheet dump
+    r"|\bmH\s*sH\b"            # Word paragraph-spacing attribute (mH sH)
+    r"|d\xf0\xa4"              # Word picture-cell reference token (d + eth + ¤)
+)
+
+# Characters that are valid in ordinary Spanish legislative text (including
+# Windows-1252 extended Latin and common punctuation).  Everything else in
+# the 0x80-0xFF range is OLE2/field-code artefact.
+_SPANISH_HIGHBYTE_RE = re.compile(
+    r"[áéíóúÁÉÍÓÚàèìòùÀÈÌÒÙäëïöüÄËÏÖÜâêîôûÂÊÎÔÛãõÃÕñÑçÇ"
+    r"¡¿«»—–‘’""°ºª"
+    r"·«»]"
+)
+
+# 4+ consecutive identical non-ASCII chars — indicates OLE2 / TOC table dump.
+# Legitimate Spanish text never repeats the same accented letter 4 times in a row.
+_REPEAT_NONASCII_RE = re.compile(r"([^\x00-\x7f])\1{3,}")
+
+# 3+ consecutive repetitions of the same NON-ASCII 2-char pair — Word style-sheet
+# comparison-table artifact (e.g. ïáïáïáïá, òáòáòáòá, ÎÎÎÎ is caught by
+# _REPEAT_NONASCII_RE, but alternating-pair dumps require this check).
+_REPEAT_PAIR_NONASCII_RE = re.compile(r"([^\x00-\x7f][^\x00-\x7f])\1{3,}")
 
 
 def _is_binary_garbage(text: str) -> bool:
-    """Return True when a paragraph appears to be OLE2 binary data.
+    """Return True when a paragraph is OLE2 binary data or Word field-code garbage.
 
-    The WordDocument stream contains all text, but OLE2 container headers,
-    embedded-object descriptors, and style-sheet records can bleed into the
-    decoded latin-1 string as unreadable runs.  We discard any paragraph
-    where the fraction of printable ASCII / Latin Extended characters falls
-    below the threshold, unless the paragraph is very short (≤4 chars) in
-    which case it is kept as it may be a lone article number.
+    Three independent signals trigger a True verdict:
+
+    1. **Field-code tokens** — the paragraph contains at least one of the
+       diagnostic Word/OLE2 tokens captured by ``_WORD_FIELD_CODE_RE``
+       (``bjbj``, ``OJQJ``, ``$If^``, ``Faöf4``, ``Qkd…``, ``gd…``,
+       ``mH sH``).  These are unambiguous: they never appear in authentic
+       legislative Spanish prose.
+
+    2. **Embedded newline** — the paragraph (already split on ``\\r``) contains
+       a ``\\n`` (U+000A linefeed) character.  In the Word binary text stream
+       ``\\r`` is the paragraph separator; ``\\n`` only appears inside OLE2
+       table / TOC binary data that bleeds into the text stream.  Legitimate
+       legislative paragraphs never contain embedded newlines after the
+       ``\\r``-split.  (Tabs ``\\t`` are NOT filtered here because Diputados
+       uses them as fraccion/apartado indent separators, e.g. ``I.\\tTexto…``.)
+
+    3. **Non-Spanish high-byte majority** — the paragraph has more than 8
+       bytes above U+007F and fewer than 25 % of those bytes are valid
+       Spanish extended-Latin / punctuation characters.  This catches the
+       OLE2 FIB header block (which always starts the WordDocument stream)
+       and any embedded-object binary that slipped through the control-char
+       strip.
+
+    4. **Repeated non-ASCII character** — 4 or more consecutive occurrences
+       of the same non-ASCII character (e.g. ``ôôôô``, ``ØØØØØ``).
+       Legitimate Spanish legislative text never repeats an accented letter
+       that many times in a row; this pattern is exclusive to OLE2 / Word
+       TOC table cell dumps.
+
+    5. **Repeated non-ASCII 2-char pair** — 4 or more consecutive repetitions
+       of the same 2-char non-ASCII pair (e.g. ``ïáïáïáïá``, ``òáòáòáòá``).
+       Produced by Word style-sheet comparison tables; never in Spanish prose.
+
+    Short paragraphs (≤4 chars) bypass the high-byte check but are still
+    tested for field-code tokens and embedded newlines.
     """
     if not text:
         return True
-    if len(text) <= 4:
-        return False
-    printable = sum(
-        1 for c in text
-        if c.isprintable() and (ord(c) < 0x0100 or unicodedata.category(c)[0] in "LNP")
-    )
-    return printable / len(text) < _MIN_PRINTABLE_RATIO
+    # Signal 1: explicit field-code / OLE2 token.
+    if _WORD_FIELD_CODE_RE.search(text):
+        return True
+    # Signal 2: embedded newline — never present in legitimate legislative text.
+    if "\n" in text:
+        return True
+    # Signal 3: high non-ASCII fraction with few Spanish accented chars.
+    if len(text) > 4:
+        non_ascii_chars = [c for c in text if ord(c) > 0x7F]
+        if len(non_ascii_chars) > 8:
+            spanish_count = sum(
+                1 for c in non_ascii_chars if _SPANISH_HIGHBYTE_RE.match(c)
+            )
+            if spanish_count / len(non_ascii_chars) < 0.25:
+                return True
+    # Signal 4: repeated non-ASCII character run — 4+ identical non-ASCII bytes in a row.
+    # Legitimate Spanish text never repeats the same accented char 4 times consecutively.
+    # Garbage TOC / style-sheet dumps do (e.g. ôôôôôôôô, öööööö, ÎÎÎÎÎÎÎÎ).
+    if _REPEAT_NONASCII_RE.search(text):
+        return True
+    # Signal 5: repeating non-ASCII 2-char pair — 3+ consecutive repetitions of the same
+    # two non-ASCII chars (e.g. ïáïáïáïá, òáòáòáòá).  This pattern is produced by
+    # Word style-sheet comparison table dumps and never appears in Spanish legislative text.
+    if _REPEAT_PAIR_NONASCII_RE.search(text):
+        return True
+    return False
 
 
 def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
@@ -189,7 +319,8 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     uses Windows-1252, a superset of latin-1), strip C0/C1 control chars,
     normalize to NFC Unicode, split on ``\\r``, and discard:
       - empty paragraphs
-      - OLE2 binary-garbage paragraphs (low printable-char ratio)
+      - OLE2 binary-garbage paragraphs (field-code tokens or non-Spanish
+        high-byte majority — see ``_is_binary_garbage``)
       - Word field codes (PAGE, NUMPAGES, EMBED …)
       - Diputados institutional boilerplate / "Última Reforma" footer lines
     """
@@ -230,6 +361,16 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
         if _LAST_REFORM_FOOTER_RE.match(para):
             continue
         paragraphs.append(para)
+
+    # Trim trailing single-character artifacts (lone letters, underscores, etc.)
+    # that are not period/full-stop markers.  OLE2 binary data at the end of
+    # the WordDocument stream sometimes leaves 1-char relics after the main
+    # text that pass all paragraph-level checks.  Legitimate single-char
+    # paragraphs in Mexican federal law are only derogation dots (".") or
+    # double-dots ("..").
+    while paragraphs and len(paragraphs[-1]) == 1 and paragraphs[-1] not in {".", ","}:
+        paragraphs.pop()
+
     return paragraphs
 
 
@@ -336,6 +477,11 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
     blocks: list[Block] = []
     article_seq = 0  # used to disambiguate repeated "Artículo Único" in transitorios
 
+    # Once we see "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA" we switch into
+    # decreto-tail mode.  In this mode _ARTICULO_RE matches are NOT parsed as
+    # main-law article headings; they are body paragraphs within their decree block.
+    in_decreto_tail: bool = False
+
     # State for the article currently being built
     current_article_id: str | None = None
     current_article_title: str | None = None
@@ -411,6 +557,50 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
             continue
 
         line = entry
+
+        # Check for decreto-tail trigger FIRST (before general _TRANSITORIOS_RE
+        # so we can set the flag and still emit the section heading).
+        if _DECRETO_TAIL_TRIGGER_RE.match(line):
+            in_decreto_tail = True
+            emit_section("titulo_tit", line)
+            continue
+
+        # In decreto-tail mode: handle DECRETO headings and sub-headings specially.
+        if in_decreto_tail:
+            if _DECRETO_HEADER_RE.match(line):
+                # Each "DECRETO por el que…" line becomes a sub-section heading
+                # that groups the following transitorios.
+                emit_section("seccion_tit", line)
+                continue
+            if _DECRETO_TRANSITORIOS_RE.match(line):
+                # "TRANSITORIOS" / "TRANSITORIO" within a decree block becomes a
+                # sub-heading (not the outer main-law transitorios section).
+                emit_section("subseccion_tit", line)
+                continue
+            # All other lines in decreto-tail: fall through to normal body-text
+            # accumulation below, but skip the _ARTICULO_RE article-heading branch.
+            # Stamps, fracciones, and apartados are still handled as usual.
+            if current_article_id is None:
+                # Attach to the last section block as a body paragraph by creating
+                # a synthetic article container so text is not silently dropped.
+                article_seq += 1
+                current_article_id = f"decreto-body-{article_seq}"
+                current_article_title = ""
+                current_article_paragraphs = []
+            is_stamp = bool(_REFORM_STAMP_RE.match(line))
+            if pending_body_lines:
+                switching_kind = (
+                    (pending_kind == "stamp" and not is_stamp)
+                    or (pending_kind == "body" and is_stamp)
+                )
+                if switching_kind:
+                    flush_pending_paragraph()
+            if is_stamp:
+                pending_kind = "stamp"
+            elif pending_kind is None:
+                pending_kind = "body"
+            pending_body_lines.append(line)
+            continue
 
         if _TRANSITORIOS_RE.match(line):
             emit_section("titulo_tit", line)
@@ -502,8 +692,29 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
 
     paragraphs_raw = _extract_doc_paragraphs(doc_bytes)
 
+    # Pre-scan: determine whether any numeric article (1o., 2., etc.) exists in
+    # the document.  If so, any leading word-ordinal articles (PRIMERO, SEGUNDO…)
+    # belong to the issuing decree, not to the main law body.
+    _has_numeric_article = any(
+        (m2 := _ARTICULO_RE.match(p2)) is not None
+        and _NUMERIC_ARTICULO_NUM_RE.match(m2.group("num"))
+        for p2 in paragraphs_raw
+    )
+
     blocks: list[Block] = []
     article_seq = 0
+
+    # Once we see "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA" we switch into
+    # decreto-tail mode.  In this mode _ARTICULO_RE matches are NOT parsed as
+    # main-law article headings; they are body paragraphs within their decree block.
+    in_decreto_tail: bool = False
+
+    # True while we are processing the issuing-decree head articles (PRIMERO,
+    # SEGUNDO, etc.) that precede the main-law body.  Only set when the first
+    # article of the document is word-ordinal AND numeric articles exist later.
+    # Cleared as soon as we encounter the first numeric article.
+    in_issuing_decree: bool = False
+    _issuing_decree_section_emitted: bool = False
 
     current_article_id: str | None = None
     current_article_title: str | None = None
@@ -572,6 +783,53 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
         )
 
     for para in paragraphs_raw:
+        # Check for decreto-tail trigger FIRST (before general _TRANSITORIOS_RE
+        # so we can set the flag and still emit the section heading).
+        if _DECRETO_TAIL_TRIGGER_RE.match(para):
+            in_decreto_tail = True
+            emit_section("titulo_tit", para)
+            continue
+
+        # In decreto-tail mode: handle DECRETO headings and sub-headings specially.
+        if in_decreto_tail:
+            if _DECRETO_HEADER_RE.match(para):
+                # Each "DECRETO por el que…" line becomes a sub-section heading
+                # that groups the following transitorios.
+                emit_section("seccion_tit", para)
+                continue
+            if _DECRETO_TRANSITORIOS_RE.match(para):
+                # "TRANSITORIOS" / "TRANSITORIO" within a decree block becomes a
+                # sub-heading (not the outer main-law transitorios section).
+                emit_section("subseccion_tit", para)
+                continue
+            # All other lines in decreto-tail: accumulate as body text.
+            # Stamps are still tagged as nota_pie; _ARTICULO_RE is intentionally
+            # NOT tested here so ordinal article lines stay as plain paragraphs.
+            if current_article_id is None:
+                # Attach to the last section block by creating a synthetic article
+                # container so the text is not silently dropped.
+                article_seq += 1
+                current_article_id = f"decreto-body-{article_seq}"
+                current_article_title = ""
+                current_article_paragraphs = []
+            is_stamp = bool(_REFORM_STAMP_RE.match(para))
+            if pending_body_lines:
+                switching_kind = (
+                    (pending_kind == "stamp" and not is_stamp)
+                    or (pending_kind == "body" and is_stamp)
+                )
+                if switching_kind:
+                    flush_pending_paragraph()
+            if is_stamp:
+                pending_kind = "stamp"
+            elif pending_kind is None:
+                pending_kind = "body"
+            pending_body_lines.append(para)
+            # DOC paragraphs are already complete units — flush body immediately.
+            if not is_stamp:
+                flush_pending_paragraph()
+            continue
+
         if _TRANSITORIOS_RE.match(para):
             emit_section("titulo_tit", para)
             continue
@@ -587,11 +845,59 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
 
         m = _ARTICULO_RE.match(para)
         if m:
-            flush_article()
-            article_seq += 1
             num = m.group("num")
             sep = m.group("sep")
             rest = m.group("rest").strip()
+            is_word_ordinal = bool(_WORD_ORDINAL_NUM_RE.match(num))
+            is_numeric = bool(_NUMERIC_ARTICULO_NUM_RE.match(num))
+
+            # Issuing-decree detection (law-START).
+            # If the very first ARTICLE of this document is word-ordinal AND
+            # the law contains numeric articles later, the word-ordinal articles
+            # are part of the issuing decree, not the main law.
+            # "First article" means current_article_id is None and no previous
+            # art- block has been emitted (section headings don't count).
+            _no_article_emitted = not any(
+                b.block_type == "article" for b in blocks
+            )
+            if (
+                not in_issuing_decree
+                and not _issuing_decree_section_emitted
+                and is_word_ordinal
+                and _has_numeric_article
+                and current_article_id is None
+                and _no_article_emitted
+            ):
+                # Emit an issuing-decree section heading before the first decree article.
+                in_issuing_decree = True
+                emit_section("decreto_tit", "Decreto que expide esta Ley")
+                _issuing_decree_section_emitted = True
+
+            if in_issuing_decree and is_numeric:
+                # First numeric article encountered — the issuing decree is over.
+                in_issuing_decree = False
+
+            if in_issuing_decree:
+                # Word-ordinal article inside the issuing-decree prefix — treat as
+                # body text, NOT as a main-law article heading (same pattern as
+                # decreto-tail handling for transitorios of reform decrees).
+                if current_article_id is None:
+                    article_seq += 1
+                    current_article_id = f"decreto-head-{article_seq}"
+                    current_article_title = ""
+                    current_article_paragraphs = []
+                # Include the article heading line itself as body text so it reads as
+                # a plain paragraph (e.g. "Artículo PRIMERO.- Se expide la Ley X…").
+                heading_text = _article_heading_text(num, sep)
+                body_line = f"{heading_text} {rest}".strip() if rest else heading_text
+                flush_pending_paragraph()
+                pending_body_lines.append(body_line)
+                pending_kind = "body"
+                flush_pending_paragraph()
+                continue
+
+            flush_article()
+            article_seq += 1
             slug = _articulo_id(num)
             current_article_id = f"art-{slug}-{article_seq}"
             current_article_title = _article_heading_text(num, sep)

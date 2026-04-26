@@ -10,7 +10,7 @@ publication_date: "1936-11-25"
 last_updated: "2012-01-27"
 last_reform_dof: "2012-01-27"
 status: "in_force"
-source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/35.doc"
 gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=01&day=27#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf"
@@ -26,17 +26,37 @@ La presente ley es de interés público y tiene por objeto establecer las causas
 
 > <small>Párrafo adicionado DOF 05-06-2009</small>
 
-Se consideran causas de utilidad pública: I.- El establecimiento, explotación o conservación de un servicio público; II.- La apertura, ampliación o alineamiento de calles, la construcción de calzadas, puentes, caminos y túneles para facilitar el tránsito urbano y suburbano; III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, campos deportivos o de aterrizaje, construcciones de oficinas para el Gobierno Federal y de cualquier obra destinada a prestar servicios de beneficio colectivo.
+Se consideran causas de utilidad pública:
+
+I.- El establecimiento, explotación o conservación de un servicio público;
+
+II.- La apertura, ampliación o alineamiento de calles, la construcción de calzadas, puentes, caminos y túneles para facilitar el tránsito urbano y suburbano;
+
+III.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos, la construcción de hospitales, escuelas, parques, jardines, campos deportivos o de aterrizaje, construcciones de oficinas para el Gobierno Federal y de cualquier obra destinada a prestar servicios de beneficio colectivo.
 
 > <small>Fracción reformada DOF 30-12-1949</small>
 
-III Bis. La construcción de obras de infraestructura pública y la prestación de servicios públicos, que requieran de bienes inmuebles y sus mejoras, derivada de concesión, de contrato o de cualquier acto jurídico celebrado en términos de las disposiciones legales aplicables.
+III. Bis. La construcción de obras de infraestructura pública y la prestación de servicios públicos, que requieran de bienes inmuebles y sus mejoras, derivada de concesión, de contrato o de cualquier acto jurídico celebrado en términos de las disposiciones legales aplicables.
 
 > <small>Fracción adicionada DOF 05-06-2009</small>
 
-IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos, y de las cosas que se consideran como características notables de nuestra cultura nacional; V.- La satisfacción de necesidades colectivas en caso de guerra o trastornos interiores; el abastecimiento de las ciudades o centros de población, de víveres o de otros artículos de consumo necesario, y los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones u otras calamidades públicas; VI.- Los medios empleados para la defensa nacional o para el mantenimiento de la paz pública;
+IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos, y de las cosas que se consideran como características notables de nuestra cultura nacional;
 
-VII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación; VIII.- La equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas y con perjuicio de la colectividad en general, o de una clase en particular; IX.- La creación, fomento o conservación de una empresa para beneficio de la colectividad; X.- Las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad; XI.- La creación o mejoramiento de centros de población y de sus fuentes propias de vida; XII.- Los demás casos previstos por leyes especiales.
+V.- La satisfacción de necesidades colectivas en caso de guerra o trastornos interiores; el abastecimiento de las ciudades o centros de población, de víveres o de otros artículos de consumo necesario, y los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones u otras calamidades públicas;
+
+VI.- Los medios empleados para la defensa nacional o para el mantenimiento de la paz pública;
+
+VII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación;
+
+VIII.- La equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas y con perjuicio de la colectividad en general, o de una clase en particular;
+
+IX.- La creación, fomento o conservación de una empresa para beneficio de la colectividad;
+
+X.- Las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad;
+
+XI.- La creación o mejoramiento de centros de población y de sus fuentes propias de vida;
+
+XII.- Los demás casos previstos por leyes especiales.
 
 ###### Artículo 2o.-
 
@@ -46,7 +66,9 @@ Para los casos de expropiación comprendidos en el artículo anterior, la secret
 
 I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
 
-II. La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación y, en su caso, en un diario de la localidad de que se trate, y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados. En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+II. La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación y, en su caso, en un diario de la localidad de que se trate, y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados.
+
+En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
 
 III. Los interesados tendrán un plazo de quince días hábiles a partir de la notificación o de la segunda publicación en el Diario Oficial de la Federación para manifestar ante la Secretaría de Estado correspondiente lo que a su derecho convenga y presentar las pruebas que estimen pertinentes.
 
@@ -62,7 +84,11 @@ VII. El Ejecutivo Federal deberá decretar la expropiación a que se refiere el 
 
 ###### Artículo 2.
 
-Bis. Procederá la ocupación temporal, ya sea total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad, en los supuestos señalados en el artículo 1 de esta ley. El Ejecutivo federal hará la declaratoria de utilidad pública, decretará la medida correspondiente y ordenará su ejecución inmediata. La indemnización que, en su caso, proceda por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado.
+Bis. Procederá la ocupación temporal, ya sea total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad, en los supuestos señalados en el artículo 1 de esta ley. El Ejecutivo federal hará la declaratoria de utilidad pública, decretará la medida correspondiente y ordenará su ejecución inmediata.
+
+La indemnización que, en su caso, proceda por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado.
+
+> <small>Artículo adicionado DOF 16-01-2012</small>
 
 ###### Artículo 3o.-
 
@@ -72,7 +98,11 @@ La Secretaría de Estado competente integrará y tramitará el expediente respec
 
 ###### Artículo 4o.-
 
-Procederá la expropiación previa declaración de utilidad pública a que se refiere el artículo anterior. La declaratoria de expropiación, de ocupación temporal o de limitación de dominio, se hará mediante decreto del Ejecutivo Federal que se publicará en el Diario Oficial de la Federación. Los propietarios e interesados legítimos de los bienes y derechos que podrían resultar afectados serán notificados personalmente del decreto respectivo, así como del avalúo en que se fije el monto de la indemnización. La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del decreto. En caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos una segunda publicación en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+Procederá la expropiación previa declaración de utilidad pública a que se refiere el artículo anterior. La declaratoria de expropiación, de ocupación temporal o de limitación de dominio, se hará mediante decreto del Ejecutivo Federal que se publicará en el Diario Oficial de la Federación.
+
+Los propietarios e interesados legítimos de los bienes y derechos que podrían resultar afectados serán notificados personalmente del decreto respectivo, así como del avalúo en que se fije el monto de la indemnización.
+
+La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del decreto. En caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos una segunda publicación en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
 
 > <small>Artículo reformado DOF 22-12-1993, 05-06-2009</small>
 
@@ -98,7 +128,9 @@ El decreto en el que se ordene la ocupación temporal o la limitación de domini
 
 ###### Artículo 8o.-
 
-En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de esta ley, el Ejecutivo federal hará la declaratoria de utilidad pública, decretará la expropiación y ordenará la ejecución inmediata de la medida de que se trate. Tratándose de la expropiación, no será aplicable lo dispuesto en las fracciones III a VII del artículo 2o. de esta Ley. Esta resolución no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo. En los casos a que se refiere el primer párrafo de este artículo, así como el artículo 2 Bis, durante la tramitación del juicio de amparo que en su caso se instaure, no podrá suspenderse la ejecución de la expropiación, la ocupación temporal o la limitación de dominio.
+En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de esta ley, el Ejecutivo federal hará la declaratoria de utilidad pública, decretará la expropiación y ordenará la ejecución inmediata de la medida de que se trate. Tratándose de la expropiación, no será aplicable lo dispuesto en las fracciones III a VII del artículo 2o. de esta Ley. Esta resolución no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
+
+En los casos a que se refiere el primer párrafo de este artículo, así como el artículo 2 Bis, durante la tramitación del juicio de amparo que en su caso se instaure, no podrá suspenderse la ejecución de la expropiación, la ocupación temporal o la limitación de dominio.
 
 > <small>Artículo reformado DOF 05-06-2009, 16-01-2012</small>
 
@@ -106,23 +138,37 @@ En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de est
 
 Bis. Las medidas a que se refiere esta Ley no requerirán formalizarse en escritura pública. Los decretos respectivos se inscribirán en el Registro Público de la Propiedad Federal y en el registro público de la propiedad que corresponda.
 
+> <small>Artículo adicionado DOF 16-01-2012</small>
+
 ###### Artículo 9o.-
 
-Si los bienes que han originado una declaratoria de expropiación, ocupación temporal o limitación de dominio no fueren destinados total o parcialmente al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá solicitar a la autoridad que haya tramitado el expediente, la reversión total o parcial del bien de que se trate, o la insubsistencia de la ocupación temporal o limitación de dominio, o el pago de los daños causados. Dicha autoridad dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud. En caso de que se resuelva la reversión total o parcial del bien, el propietario deberá devolver únicamente la totalidad o la parte correspondiente de la indemnización que le hubiere sido cubierta. El derecho que se confiere al propietario en este Artículo, deberá ejercerlo dentro del plazo de dos años, contado a partir de la fecha en que sea exigible.
+Si los bienes que han originado una declaratoria de expropiación, ocupación temporal o limitación de dominio no fueren destinados total o parcialmente al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá solicitar a la autoridad que haya tramitado el expediente, la reversión total o parcial del bien de que se trate, o la insubsistencia de la ocupación temporal o limitación de dominio, o el pago de los daños causados. Dicha autoridad dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud. En caso de que se resuelva la reversión total o parcial del bien, el propietario deberá devolver únicamente la totalidad o la parte correspondiente de la indemnización que le hubiere sido cubierta.
+
+El derecho que se confiere al propietario en este Artículo, deberá ejercerlo dentro del plazo de dos años, contado a partir de la fecha en que sea exigible.
+
+> <small>Artículo reformado DOF 22-12-1993</small>
 
 ###### Artículo 9.
 
 Bis. Según las particularidades del caso, la expropiación podrá realizarse conforme a las previsiones siguientes:
 
-I. Si el bien objeto de la expropiación tiene algún gravamen de naturaleza real, la indemnización se consignará ante la autoridad competente, a fin de que ésta determine la parte que corresponda a cada uno de los titulares de los derechos que resulten afectados. En estos casos, de la indemnización al propietario se disminuirá la que corresponda al gravamen de que se trate, de manera que el importe de ambas no exceda del valor que el bien hubiere tenido libre de gravamen.
+I. Si el bien objeto de la expropiación tiene algún gravamen de naturaleza real, la indemnización se consignará ante la autoridad competente, a fin de que ésta determine la parte que corresponda a cada uno de los titulares de los derechos que resulten afectados.
+
+En estos casos, de la indemnización al propietario se disminuirá la que corresponda al gravamen de que se trate, de manera que el importe de ambas no exceda del valor que el bien hubiere tenido libre de gravamen.
 
 II. Cuando se expropie parte de un inmueble y la explotación o aprovechamiento de la superficie restante ya no resulte viable económicamente para el propietario, éste podrá solicitar a la Secretaría de Estado competente, dentro del plazo previsto en el artículo 2, fracción III, de esta ley, la expropiación de dicha superficie, aportando los elementos de prueba que estime procedentes.
 
-La Secretaría de Estado competente resolverá la solicitud en el mismo acto a que se refiere el artículo 2, fracción V, de esta ley, para lo cual deberá considerar, entre otros aspectos, la compatibilidad de la expropiación de la superficie solicitada con la causa de utilidad pública. En los casos de las expropiaciones previstas en el artículo 8 de esta ley, el propietario podrá realizar la solicitud dentro del plazo de diez días hábiles siguientes a la fecha de publicación del decreto en el Diario Oficial de la Federación. La Secretaría de Estado resolverá la solicitud en un plazo máximo de quince días hábiles, contados a partir de la recepción de la misma o, en su caso, de la fecha en que hubiere concluido el desahogo de pruebas;
+La Secretaría de Estado competente resolverá la solicitud en el mismo acto a que se refiere el artículo 2, fracción V, de esta ley, para lo cual deberá considerar, entre otros aspectos, la compatibilidad de la expropiación de la superficie solicitada con la causa de utilidad pública.
+
+En los casos de las expropiaciones previstas en el artículo 8 de esta ley, el propietario podrá realizar la solicitud dentro del plazo de diez días hábiles siguientes a la fecha de publicación del decreto en el Diario Oficial de la Federación. La Secretaría de Estado resolverá la solicitud en un plazo máximo de quince días hábiles, contados a partir de la recepción de la misma o, en su caso, de la fecha en que hubiere concluido el desahogo de pruebas;
 
 III. La Secretaría de Estado competente podrá convenir la ocupación previa de los bienes y derechos afectados por una declaratoria de utilidad pública con los titulares de los mismos, en tanto se tramita el decreto de expropiación; y
 
-IV. La Secretaría de Estado competente podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar a los afectados la diferencia que pudiera resultar en los valores, de conformidad con los lineamientos que para tal efecto expida la Secretaría de la Función Pública. Cuando a campesinos de escasos recursos económicos se entreguen terrenos de riego en substitución de los que les hayan sido afectados como consecuencia de la ejecución de obras hidráulicas o de reacomodo o relocalización de tierras en zonas de riego, la autoridad competente podrá dejar de reclamar las diferencias de valor que resulten a su favor.
+IV. La Secretaría de Estado competente podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar a los afectados la diferencia que pudiera resultar en los valores, de conformidad con los lineamientos que para tal efecto expida la Secretaría de la Función Pública.
+
+Cuando a campesinos de escasos recursos económicos se entreguen terrenos de riego en substitución de los que les hayan sido afectados como consecuencia de la ejecución de obras hidráulicas o de reacomodo o relocalización de tierras en zonas de riego, la autoridad competente podrá dejar de reclamar las diferencias de valor que resulten a su favor.
+
+> <small>Artículo adicionado DOF 16-01-2012</small>
 
 ###### Artículo 10.-
 
@@ -132,7 +178,7 @@ El precio que se fijará como indemnización por el bien expropiado, será equiv
 
 La Secretaría de la Función Pública emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
 
-> <small>Párrafo adicionado DOF 16-01-2012</small>
+> <small>Párrafo adicionado DOF 16-01-2012 Artículo reformado DOF 22-12-1993</small>
 
 ###### Artículo 11.-
 
@@ -170,19 +216,23 @@ Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio
 
 ###### Artículo 19.-
 
-El importe de la indemnización será cubierto por el Estado, cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización. Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
+El importe de la indemnización será cubierto por el Estado, cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización.
+
+Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
 
 ###### Artículo 20.-
 
-La indemnización deberá pagarse en moneda nacional a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la publicación del decreto de expropiación, sin perjuicio de que se convenga su pago en especie. Salvo en los casos a que se refiere el artículo 8o de la Ley, la autoridad podrá proceder a la ocupación del bien o a la disposición del derecho objeto de la expropiación una vez cubierto el monto de la indemnización fijado en el avalúo. En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad proceda a la ocupación del bien o a la disposición del derecho expropiado. La indemnización por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado, así como los daños y perjuicios, si los hubiere, que pudieran ocasionarse por la ejecución de dichas medidas, misma que deberá pagarse conforme al plazo referido en el párrafo primero de este artículo.
+La indemnización deberá pagarse en moneda nacional a más tardar dentro de los cuarenta y cinco días hábiles siguientes a la publicación del decreto de expropiación, sin perjuicio de que se convenga su pago en especie. Salvo en los casos a que se refiere el artículo 8o de la Ley, la autoridad podrá proceder a la ocupación del bien o a la disposición del derecho objeto de la expropiación una vez cubierto el monto de la indemnización fijado en el avalúo.
+
+En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad proceda a la ocupación del bien o a la disposición del derecho expropiado.
+
+La indemnización por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado, así como los daños y perjuicios, si los hubiere, que pudieran ocasionarse por la ejecución de dichas medidas, misma que deberá pagarse conforme al plazo referido en el párrafo primero de este artículo.
 
 > <small>Artículo reformado DOF 22-12-1993, 05-06-2009</small>
 
 ###### Artículo 20.
 
-BIS.- El Jefe de Gobierno del Distrito Federal, en los términos de esta ley, podrá declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, en los casos en que se tienda a alcanzar un fin cuya realización competa al gobierno local del Distrito Federal conforme a sus atribuciones y facultades constitucionales y legales. La declaratoria se hará mediante el decreto que se publicará en la Gaceta Oficial del Distrito Federal y será notificada personalmente a los interesados. La notificación se hará dentro de los quince días hábiles
-
-posteriores a la fecha de publicación del decreto; en caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos en una segunda publicación en la Gaceta Oficial del Distrito Federal, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+BIS.- El Jefe de Gobierno del Distrito Federal, en los términos de esta ley, podrá declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, en los casos en que se tienda a alcanzar un fin cuya realización competa al gobierno local del Distrito Federal conforme a sus atribuciones y facultades constitucionales y legales. La declaratoria se hará mediante el decreto que se publicará en la Gaceta Oficial del Distrito Federal y será notificada personalmente a los interesados. La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del decreto; en caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos en una segunda publicación en la Gaceta Oficial del Distrito Federal, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
 
 > <small>Párrafo reformado DOF 05-06-2009, 27-01-2012</small>
 
@@ -192,28 +242,152 @@ La Ley Orgánica de la Administración Pública del Distrito Federal, señalará
 
 ###### Artículo 21.-
 
-Esta Ley es de carácter federal en los casos en que se tienda a alcanzar un fin cuya realización competa a la Federación conforme a sus facultades constitucionales, y de carácter local para el Distrito Federal. La aplicación de esta Ley se entenderá sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte y, en su caso, en los acuerdos arbitrales que se celebren. Donaciano Carreón, D. P.- Federico Idar, S. P.- J. Gómez Esparza, D. S.- Julián Garza Tijerina, S. S.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintitrés días del mes de noviembre de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Silvestre Guerrero.- Rúbrica.
+Esta Ley es de carácter federal en los casos en que se tienda a alcanzar un fin cuya realización competa a la Federación conforme a sus facultades constitucionales, y de carácter local para el Distrito Federal. La aplicación de esta Ley se entenderá sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte y, en su caso, en los acuerdos arbitrales que se celebren.
+
+> <small>Artículo reformado DOF 22-12-1993</small>
+
+Donaciano Carreón, D. P.- Federico Idar, S. P.- J. Gómez Esparza, D. S.- Julián Garza Tijerina, S. S.- Rúbricas.
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintitrés días del mes de noviembre de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Silvestre Guerrero.- Rúbrica.
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-###### Artículo SEXTO.-
+#### DECRETO que adiciona la fracción III del artículo 1º de la Ley de Expropiación.
 
-Se reforman los Artículos 3o.; 4o.; 5o.; 9o.; 10; 20 y 21 de la Ley de Expropiación, para quedar como sigue: .......... TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994. SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996. TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto. CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor. México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1949
 
-DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal. Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
+ARTICULO UNICO.- Se adiciona la fracción III del artículo 1º de la Ley de Expropiación publicada en el "Diario Oficial" de 25 de noviembre de 1936, quedando en los siguientes términos:
 
-###### Artículo TERCERO.-
+.........
 
-Se adiciona un artículo 20 Bis a la Ley de Expropiación, para quedar como sigue: .......... TRANSITORIO ÚNICO.- La adición del artículo 20 Bis a la Ley de Expropiación entrará en vigor el 5 de diciembre de 1997. ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL. PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto. SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto. TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal. México, D.F., a 3 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. Francisco Rodríguez García, Secretario.- Sen. José Antonio Valdivia, Secretario.- Rúbricas". residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+TRANSITORIO:
 
-DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación. Publicado en el Diario Oficial de la Federación el 5 de junio de 2009 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se ADICIONAN un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación, para quedar en los siguientes términos:
+UNICO.- La presente Ley entrará en vigor a los 3 días después de su publicación en el "Diario Oficial" de la Federación.
 
-## ARTÍCULOS TRANSITORIOS
+Edmundo Gamez Orozco, S. P.- Francisco Hernández y Hernández. D. P.- Demetrio Flores Fagoaga, S. S.- Rafael Suárez Ocaña, D. S.- Rúbricas".
 
-###### Artículo Cuarto.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos cuarenta y nueve.- Miguel Alemán.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.-Rúbrica.
 
-Se reforman los artículos 2, párrafo primero, 8 y 17; y se adicionan los artículos 2 Bis; 8 Bis, 9 Bis, y los párrafos segundo y tercero al artículo 10 todos de la Ley de Expropiación, para quedar como sigue: TRANSITORIOS PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente. SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo. En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación. TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público. CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto. QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo. SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento. México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+#### DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte.
 
-Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993
 
-DECRETO por el que se reforman el artículo 6o. y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación. Publicado en el Diario Oficial de la Federación el 27 de enero de 2012 ARTÍCULO ÚNICO. Se reforman el artículo 6o y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación, para quedar como sigue: TRANSITORIO Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 18 de enero de 2012.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+ARTICULO SEXTO.- Se reforman los Artículos 3o.; 4o.; 5o.; 9o.; 10; 20 y 21 de la Ley de Expropiación, para quedar como sigue:
+
+..........
+
+##### TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
+
+TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor.
+
+México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+#### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal.
+
+Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
+
+ARTÍCULO TERCERO.- Se adiciona un artículo 20 Bis a la Ley de Expropiación, para quedar como sigue:
+
+..........
+
+##### TRANSITORIO
+
+ÚNICO.- La adición del artículo 20 Bis a la Ley de Expropiación entrará en vigor el 5 de diciembre de 1997.
+
+ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+México, D.F., a 3 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. Francisco Rodríguez García, Secretario.- Sen. José Antonio Valdivia, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+#### DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación.
+
+Publicado en el Diario Oficial de la Federación el 5 de junio de 2009
+
+ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se ADICIONAN un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación, para quedar en los siguientes términos:
+
+.
+
+ARTÍCULOS TRANSITORIOS
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no hayan otorgado la garantía de audiencia a los posibles afectados, deberán hacerlo en lo conducente, en términos del artículo 2o del presente Decreto.
+
+México, D. F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. José Manuel del Río Virgen, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+#### DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles.
+
+Publicado en el Diario Oficial de la Federación el 16 de enero de 2012
+
+Artículo Cuarto. Se reforman los artículos 2, párrafo primero, 8 y 17; y se adicionan los artículos 2 Bis; 8 Bis, 9 Bis, y los párrafos segundo y tercero al artículo 10 todos de la Ley de Expropiación, para quedar como sigue:
+
+.
+
+##### TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
+
+México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+#### DECRETO por el que se reforman el artículo 6o. y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación.
+
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
+
+ARTÍCULO ÚNICO. Se reforman el artículo 6o y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación, para quedar como sigue:
+
+.
+
+##### TRANSITORIO
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 18 de enero de 2012.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+[
+
+\
+
+e
+
+[
+
+\
+
+hl[5CJPRSoýý÷î÷

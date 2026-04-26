@@ -1,0 +1,1851 @@
+---
+title: "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026"
+identifier: "DIP-PEF_2026"
+country: "mx"
+rank: "ley"
+jurisdiction: "federal"
+gov_organ: "congreso_federal"
+entidad_federativa: "na"
+publication_date: "2025-11-21"
+last_updated: "2025-11-21"
+status: "in_force"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/PEF_2026.doc"
+department: "Cámara de Diputados"
+pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf"
+source_name: "diputados"
+abbrev: "PEF_2026"
+doc_url: "https://www.diputados.gob.mx/LeyesBiblio/doc/PEF_2026.doc"
+---
+# PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026
+
+## TÍTULO PRIMERO
+
+### CAPÍTULO I
+
+###### Artículo 1.
+
+La planeación, el ejercicio, el control, el seguimiento y la evaluación del gasto público federal para el ejercicio fiscal de 2026, así como la contabilidad y la presentación de la información presupuestaria, financiera y de resultados sobre la ejecución del presupuesto, se deben realizar conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Austeridad Republicana, la Ley Federal de Remuneraciones de los Servidores Públicos, la Ley General de Contabilidad Gubernamental y en las disposiciones que, en el marco de dichas leyes, estén establecidas en otros ordenamientos y en este Presupuesto de Egresos. Las definiciones previstas en el artículo 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria serán aplicables para el presente Decreto.
+
+La interpretación del presente Presupuesto de Egresos, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Federal, corresponde a la Secretaría y a la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus atribuciones, conforme a las disposiciones y definiciones que establece la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Para el ejercicio de los recursos aprobados en el presente Presupuesto de Egresos y la evaluación del desempeño, las Dependencias y Entidades se sujetarán a las políticas y disposiciones rectoras en materia de control presupuestario y de resultados que determine la Secretaría, de conformidad con las atribuciones conferidas en los artículos 6, primer párrafo, y 45, párrafos primero y quinto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+En caso de que la fecha límite para presentar la información sea un día inhábil, la misma se recorrerá al día hábil siguiente.
+
+En el ámbito de sus atribuciones, la Secretaría presentará la información presupuestaria comparable respecto del ejercicio fiscal anterior y de los diversos documentos presupuestarios.
+
+La Secretaría reportará en los Informes trimestrales la evolución de las erogaciones correspondientes a los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), v), y w), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; así como de los Anexos Transversales relacionados con la Prevención integral del delito y la consolidación de una Sociedad de Cuidados. También reportará las principales causas de variación del gasto neto total al trimestre que corresponda, respecto del presupuesto aprobado, por Ramo y Entidad.
+
+Las Dependencias y Entidades, así como las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México que, en el ámbito de sus atribuciones, ejerzan recursos públicos federales, deben participar en las acciones de formación y capacitación para la especialización y profesionalización en materia de Presupuesto basado en Resultados; Sistema de Evaluación del Desempeño; contabilidad gubernamental, y ejecución de las etapas del ciclo presupuestario, incluidas la planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas, conforme a lo que determine la Secretaría, a fin de mejorar la calidad del gasto.
+
+### CAPÍTULO II
+
+###### Artículo 2.
+
+El gasto neto total previsto en el presente Presupuesto de Egresos importa la cantidad de $10,193,683,700,000, y corresponde al total de los ingresos aprobados en la Ley de Ingresos. En términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para el presente ejercicio fiscal se prevé un déficit presupuestario de $1,393,770,634,695.
+
+###### Artículo 3.
+
+El gasto neto total se distribuye conforme a lo establecido en los Anexos de este Decreto y tomos de este Presupuesto de Egresos, de acuerdo con lo siguiente:
+
+I. Las erogaciones de los ramos autónomos, administrativos y generales, así como los capítulos específicos que incorporan los flujos de efectivo de las Entidades, se distribuyen conforme a lo previsto en el Anexo 1 del presente Decreto y los Tomos II a IX, de este Presupuesto de Egresos. En el Tomo I se incluye la información establecida en el artículo 41, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+II. El gasto corriente estructural se incluye en el Anexo 2 de este Decreto;
+
+III. El capítulo específico que incorpora las erogaciones correspondientes a los gastos obligatorios, se incluye en el Anexo 3 de este Decreto;
+
+IV. El capítulo específico que incorpora los proyectos de inversión en infraestructura que cuentan con aprobación para realizar erogaciones plurianuales en términos del artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, se incluye en el Anexo 4 de este Decreto, en términos de lo que se señala en el artículo 26 del mismo;
+
+V. El capítulo específico que incorpora las erogaciones correspondientes a los compromisos plurianuales sujetos a la disponibilidad presupuestaria de los años subsecuentes, se incluye en el Anexo 5 de este Decreto;
+
+VI. El capítulo específico que incorpora el monto máximo anual de gasto programable para atender los compromisos de pago requeridos para los programas y proyectos de inversión, así como nuevos proyectos de asociación público-privada y para aquellos autorizados en ejercicios fiscales anteriores, así como la información de cada uno de ellos, en términos del artículo 24 de la Ley de Asociaciones Público Privadas, se incluye en el Anexo 5.A de este Decreto y en el Tomo VIII los programas y proyectos de inversión de este Presupuesto de Egresos;
+
+VII. El capítulo específico que incorpora las erogaciones correspondientes a los compromisos derivados de proyectos de infraestructura productiva de largo plazo se incluye en el Anexo 6 de este Decreto y en el Tomo VII de este Presupuesto de Egresos;
+
+VIII. El capítulo específico que incorpora las previsiones salariales y económicas, se incluye en los Anexos 7 y 24 de este Decreto y en los Tomos III a VI de este Presupuesto de Egresos.
+
+Los montos y términos aprobados en este capítulo específico en dichos Anexos y tomos del Presupuesto de Egresos, incluyendo las previsiones para contingencias y sus ampliaciones derivadas de adecuaciones presupuestarias y ahorros necesarios durante el ejercicio fiscal para cumplir, en su caso, con las disposiciones laborales aplicables, forman parte de la asignación global a que se refiere el artículo 33 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+IX. La suma de recursos destinados a cubrir el costo financiero de la deuda pública del Gobierno Federal; aquél correspondiente a la deuda de las empresas públicas del Estado incluidas en el Anexo 1, Apartado E, de este Decreto; las erogaciones derivadas de operaciones y programas de saneamiento financiero, así como aquéllas para programas de apoyo a ahorradores y deudores de la banca, se distribuyen conforme a lo establecido en el Anexo 8 de este Decreto;
+
+X. Para los efectos de los artículos 55 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, los montos máximos de adjudicación directa y los de adjudicación mediante invitación a cuando menos tres personas, de las adquisiciones, arrendamientos, prestación de servicios, obras públicas y servicios relacionados con estas, serán los señalados en el Anexo 9 de este Decreto. Los montos establecidos deben considerarse sin incluir el importe del Impuesto al Valor Agregado;
+
+XI. Los recursos para la implementación del desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas se señalan en el Anexo 10 de este Decreto, en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y conforme al artículo 41, fracción II, inciso j), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; se presentan desglosados por ramo y programa presupuestario;
+
+XII. Los recursos para el Programa Especial Concurrente para el Desarrollo Rural Sustentable se señalan en el Anexo 11 de este Decreto, en los términos de los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable y conforme al artículo 41, fracción II, inciso q), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+XIII. El monto total de los recursos previstos en materia de humanidades, ciencias, tecnologías e innovación, a que se refiere el artículo 30 de la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación, y conforme al artículo 41, fracción II, inciso r), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se prevé en el Anexo 12 de este Decreto;
+
+XIV. Las erogaciones de los programas para la Igualdad entre Mujeres y Hombres, se señalan en el Anexo 13 de este Decreto, conforme al artículo 41, fracción II, inciso o), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+XV. El presupuesto consolidado de la Estrategia Nacional de Transición Energética, conforme al artículo 22 de la Ley de Planeación y Transición Energética, se señala en el Anexo 15 de este Decreto;
+
+XVI. Las erogaciones para el Ramo General 23 Provisiones Salariales y Económicas se distribuyen conforme a lo previsto en el Anexo 20 de este Decreto;
+
+XVII. Las erogaciones para el Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos se distribuyen conforme a lo previsto en el Anexo 21 de este Decreto.
+
+Las previsiones para servicios personales del Ramo General referido en el párrafo anterior, que se destinen para sufragar las medidas salariales y económicas, deben ser ejercidas conforme a lo que establece el segundo párrafo de la fracción VIII anterior y el artículo 12 de este Decreto y deben ser entregadas a las entidades federativas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios; solo en el caso de la Ciudad de México deben ser ejercidas por medio del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos;
+
+XVIII. Las erogaciones para el Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios se distribuyen conforme a lo previsto en el Anexo 22 de este Decreto.
+
+En términos de lo establecido en el artículo 38 de la Ley de Coordinación Fiscal, la Secretaría continuará distribuyendo los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN) a que se refiere el inciso a) del artículo 36 de esa ley, en proporción directa al número de habitantes con que cuenta cada entidad federativa, de acuerdo con la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía. Por lo anterior, para el cálculo de la distribución se debe considerar la última información trimestral de población por entidad federativa dada a conocer por el instituto referido, en la Encuesta Nacional de Ocupación y Empleo.
+
+En términos de lo establecido en el artículo 46 de la Ley de Coordinación Fiscal, la Secretaría continuará distribuyendo a las entidades federativas los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, con base en la fórmula señalada en ese artículo, sujetándose a lo siguiente:
+
+a) Para determinar la variable PIBpci, definida como la última información oficial del Producto Interno Bruto per cápita que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad i, en caso de no estar disponible esa información, se debe tomar en cuenta la última información del Producto Interno Bruto por entidad federativa que dé a conocer el instituto referido, misma que se dividirá entre la información de la última publicación de proyección de la población a mitad de año con información anual, que dé a conocer el Consejo Nacional de Población. Cabe señalar que, ambas variables deben corresponder al mismo año para cada entidad federativa, y
+
+b) Con respecto a la variable ni, definida como la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para la entidad i, se debe considerar la última información trimestral de población por entidad federativa, que dé a conocer el instituto referido, en la Encuesta Nacional de Ocupación y Empleo.
+
+La Secretaría, en relación al Fondo de Aportaciones para la Infraestructura Social y al Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, continuará transfiriendo a las entidades federativas que así lo soliciten a la Federación hasta el 100 por ciento de las aportaciones con cargo a cada fondo, en el fideicomiso o vehículo financiero que determinen procedente, siempre y cuando se encuentre previsto en su legislación local; y cuya administración y ejercicio de dichos recursos serán responsabilidad de los gobiernos de las entidades federativas, los cuales deben destinarse exclusivamente para los objetivos y fines expresamente previstos en la Ley de Coordinación Fiscal y cumplir íntegramente con lo establecido en la misma y demás disposiciones aplicables. Para el caso del Fondo de Aportaciones para la Infraestructura Social se debe garantizar la entrega de por lo menos el 10 por ciento de los recursos del mencionado fondo, en términos de la normatividad aplicable a los pueblos y comunidades indígenas y afromexicanas con la finalidad de hacer efectivos sus derechos reconocidos en el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+Asimismo, las entidades federativas en el fideicomiso o vehículo financiero que instrumenten conforme a su legislación local, podrán continuar afectando las aportaciones federales del Fondo de Aportaciones para la Infraestructura Social y del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, en garantía o fuente de pago hasta por el 25 por ciento de los recursos que anualmente les correspondan por concepto de dichos fondos, dando cumplimiento a lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal.
+
+El Fondo de Aportaciones Múltiples se asignará de conformidad con lo establecido en el artículo 40 de la Ley de Coordinación Fiscal, para lo cual la Secretaría de Educación Pública, por lo que se refiere al componente relativo a la construcción, equipamiento y rehabilitación de infraestructura física, podrá asignarlo prioritariamente de la manera siguiente: el 64 por ciento a educación básica; el 4.72 por ciento a educación media superior, y el 31.28 por ciento a educación superior en su modalidad universitaria; a fin de atender las necesidades de cada nivel educativo;
+
+XIX. Los límites de las remuneraciones de las personas servidoras públicas de la Federación se señalan en el Anexo 23 de este Decreto y en el Tomo IX de este Presupuesto de Egresos;
+
+XX. Las previsiones para sufragar las erogaciones correspondientes a las medidas salariales y económicas para los Ramos Generales 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, y 33 Aportaciones Federales para Entidades Federativas y Municipios, se distribuyen conforme a lo establecido en el Anexo 24 de este Decreto;
+
+XXI. Los programas sujetos a reglas de operación se señalan en el Anexo 25 de este Decreto, y
+
+XXII. Los principales programas previstos en este Presupuesto de Egresos se detallan en el Anexo 26 de este Decreto.
+
+Los Anexos 14, 16 al 19 y 27 al 31 de este Decreto, comprenden los recursos para la atención de grupos vulnerables; la adaptación y mitigación de los efectos del cambio climático; el desarrollo de los jóvenes; la atención de niñas, niños y adolescentes; la prevención del delito, combate a las adicciones, rescate de espacios públicos y promoción de proyectos productivos; la conservación y mantenimiento carretero; subsidios para organismos descentralizados estatales; subsidios para acciones en materia de agua (distribución del programa hidráulico), y para la prevención, detección, investigación y sanción de hechos de corrupción, así como para la consolidación de una sociedad de cuidados.
+
+###### Artículo 4.
+
+Para el ejercicio fiscal 2026 se aprueba para Petróleos Mexicanos una meta de balance financiero de $263,476,300,000 y un techo de gasto de servicios personales de $118,201,234,731. Asimismo, se aprueba para la Comisión Federal de Electricidad una meta de balance financiero de $20,678,500,000, y un techo de gasto de servicios personales de $86,298,647,366.
+
+###### Artículo 5.
+
+Conforme al artículo 272 de la Ley del Seguro Social, el gasto programable del Instituto Mexicano del Seguro Social será de $1,590,308,696,623. El Gobierno Federal aportará al instituto la cantidad de $158,756,799,073, como aportaciones para los seguros; dispondrá de la cantidad de $795,824,375,013, para cubrir las pensiones en curso de pago derivadas del Duodécimo transitorio de la Ley del Seguro Social; aportará la cantidad de $8,744,867,191, para atender lo dispuesto en los artículos 141, 172 y 172 A de dicha ley, y aportará la cantidad de $22,147,139, para atender lo dispuesto en el Segundo transitorio del Decreto por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 4 de junio de 2019. Durante el ejercicio fiscal 2026, el Instituto Mexicano del Seguro Social debe destinar a las Reservas Financieras y Actuariales de los seguros y a la Reserva General Financiera y Actuarial, así como al Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual, a que se refieren los artículos 280, fracciones III y IV, y 286 K, respectivamente, de la Ley del Seguro Social, la cantidad de $31,315,722,088, a fin de garantizar el debido y oportuno cumplimiento de las obligaciones que contraiga, derivadas del pago de beneficios y la prestación de servicios relativos a los seguros que se establecen en dicha ley; así como para hacer frente a las obligaciones laborales que contraiga, ya sea por disposición legal o contractual con sus trabajadores.
+
+Para los efectos del artículo 277 G de la Ley del Seguro Social, el Instituto Mexicano del Seguro Social debe sujetarse a las normas de austeridad y disciplina presupuestaria contenidas en este Decreto, en los términos propuestos por el Consejo Técnico de dicho instituto, las cuales se aplicarán sin afectar el servicio público que está obligado a prestar a sus derechohabientes; asimismo, conforme al mismo artículo 277 G, dichas normas no deben afectar las metas de constitución o incremento de reservas establecidas en este Decreto.
+
+El uso de reservas de cualquier naturaleza y tipo debe ser registrado invariablemente como gasto programable. Asimismo, las reservas de los seguros de Invalidez y Vida, y de Riesgos de Trabajo, únicamente podrán destinarse para las prestaciones monetarias de esos seguros, y no para financiar gasto corriente del instituto, salvo en los casos que así lo prevea la Ley del Seguro Social.
+
+La persona titular y las personas servidoras públicas competentes del Instituto Mexicano del Seguro Social serán responsables de que el ejercicio del gasto de dicho instituto se sujete a los montos autorizados para cubrir su gasto programable, para las reservas y el fondo a que se refiere este artículo.
+
+## TÍTULO SEGUNDO
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 6.
+
+El ejercicio de los recursos federales aprobados en este Presupuesto de Egresos para ser transferidos a las entidades federativas y, por conducto de estas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, así como el de los recursos federales que se ejerzan de manera concurrente con recursos de dichos órdenes de gobierno, se sujetará a las disposiciones legales aplicables, al principio de anualidad y a lo siguiente:
+
+I. El resultado de la distribución entre las entidades federativas de los recursos que integran los fondos del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios, se presenta en el Tomo IV de este Presupuesto de Egresos, con excepción del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP), cuya distribución se realizará conforme a lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal;
+
+II. Los recursos federales a que se refiere este artículo, distintos a los previstos en la Ley de Coordinación Fiscal, serán ministrados siempre y cuando las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México, cumplan con lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, este Presupuesto de Egresos y las demás disposiciones jurídicas aplicables, así como, en su caso, las reglas de operación, los convenios o instrumentos jurídicos correspondientes;
+
+III. Los proyectos de infraestructura que realicen las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, con cargo a los recursos de los fondos del Ramo General 23 Provisiones Salariales y Económicas, deben incluir la leyenda siguiente: Esta obra fue realizada con recursos públicos federales, sin perjuicio de las demás que establezca el presente Decreto.
+
+La Secretaría debe publicar de forma trimestral, en el Portal de Transparencia Presupuestaria, la información relativa a los proyectos de infraestructura autorizados en el Ramo General 23 Provisiones Salariales y Económicas, incluyendo el monto aprobado y pagado, su ubicación geográfica, y los lineamientos aplicables a estos recursos. Asimismo, debe informar en dicho medio el avance financiero de los proyectos con base en los reportes que, de conformidad con la normativa aplicable, realicen las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México. La información anterior, debe estar disponible, a su vez, en formato de datos abiertos;
+
+IV. Los programas que prevean la aportación de recursos por parte de las entidades federativas y, en su caso, de los municipios o de las demarcaciones territoriales de la Ciudad de México, para ser ejercidos de manera concurrente con recursos federales, se sujetarán a lo siguiente:
+
+a) El porcentaje o monto que corresponda aportar a las entidades federativas y, en su caso, a los municipios o a las demarcaciones territoriales de la Ciudad de México, será establecido por las Dependencias a cargo de los respectivos programas;
+
+b) Dichos órdenes de gobierno deben realizar las aportaciones de recursos que les correspondan en las cuentas bancarias productivas específicas respectivas, en un periodo que no debe exceder de 20 días hábiles contados a partir de la recepción de los recursos federales. Los recursos federales deben ser ministrados de acuerdo con el calendario establecido en los convenios y de ninguna manera podrá iniciar ministraciones después del mes de marzo.
+
+Antes del vencimiento del plazo a que se refiere el párrafo anterior, las entidades federativas y, cuando aplique, los municipios o las demarcaciones territoriales de la Ciudad de México, en situaciones debidamente justificadas podrán solicitar a la Dependencia o Entidad de que se trate una prórroga para realizar la aportación correspondiente de recursos locales, hasta por el mismo plazo a que se refiere el párrafo anterior;
+
+c) La entidad federativa, el municipio o la demarcación territorial de la Ciudad de México que se vea afectada por situaciones que obliguen al Ejecutivo Federal a emitir declaratorias de emergencia o de desastre natural, en los términos de la Ley General de Protección Civil, contará con una prórroga de 20 días hábiles adicionales para efectuar el depósito de las aportaciones que le correspondan, una vez publicada la declaratoria;
+
+d) Las entidades federativas podrán cubrir hasta en dos exhibiciones durante el ejercicio fiscal su aportación a los programas concurrentes en materia educativa para todos los niveles, y
+
+e) Las ministraciones de recursos federales podrán ser suspendidas cuando las entidades federativas y, en su caso, los municipios y las demarcaciones territoriales de la Ciudad de México no aporten en los plazos previstos los recursos que les corresponden en las cuentas específicas;
+
+V. La Secretaría de Educación Pública comunicará a las entidades federativas a más tardar el último día hábil del mes de marzo, el presupuesto para el subsidio para organismos descentralizados estatales que la Federación otorga, así como para los programas financiados con fondos concurrentes;
+
+VII. Los recursos federales vinculados con ingresos excedentes que, en los términos de los artículos 19, fracción IV, inciso d), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 12, sexto párrafo, del Reglamento, tengan como destino la realización de programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas, se sujetarán a los lineamientos para el ejercicio de los recursos del Fideicomiso para la Infraestructura en los Estados emitidos por la Secretaría, así como a las demás disposiciones aplicables. Dichos recursos se considerarán devengados al momento de su aportación al patrimonio de este Fideicomiso, y su ejercicio por parte de las entidades federativas se realizará conforme a los calendarios de ejecución de los programas y/o proyectos de inversión en infraestructura y equipamiento establecidos en los convenios celebrados para tal efecto con la Secretaría. En el caso de los subsidios que tengan el mismo destino, la Secretaría debe entregar los recursos a las entidades federativas de acuerdo con un calendario establecido y podrá emitir las disposiciones correspondientes para su comprobación en términos de los artículos 79 y 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Para efectos de lo señalado en el artículo 12 A, párrafos sexto y séptimo, del Reglamento, relativo a las compensaciones con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas que se realizan mediante anticipos trimestrales o, en su caso mensuales, la Secretaría compensará en los plazos, forma y términos que comunique a cada entidad federativa, el monto determinado para efectuar la correspondiente compensación provisional, dicha comunicación se llevará a cabo a más tardar a los 10 días hábiles siguientes a la terminación de cada trimestre o, en su caso, de cada mes, según corresponda. En lo referente al cuarto trimestre o, de ser el caso, el mes de diciembre, la comunicación antes señalada se realizará a más tardar a los 15 días del mes de diciembre. Los plazos antes referidos también serán aplicables para el supuesto en que la Secretaría comunique que las compensaciones provisionales se deben realizar con cargo a los recursos que se generen de los esquemas que se instrumenten o se hayan instrumentado para potenciar los recursos de dicho fondo;
+
+VIII. Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deben enviar a la Secretaría, a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria la información de las evaluaciones que lleven a cabo sobre recursos federales transferidos, en los términos de las disposiciones aplicables. La Secretaría debe reportar dicha información en los Informes trimestrales;
+
+IX. El Consejo Nacional de Seguridad Pública aprobará a más tardar en el mes de enero, los criterios de distribución de los recursos de los fondos de ayuda federal para la seguridad pública a que se refiere el artículo 21, décimo primer párrafo, inciso e), de la Constitución Política de los Estados Unidos Mexicanos, en términos del artículo 114 de la Ley General del Sistema Nacional de Seguridad Pública.
+
+Para efectos del párrafo anterior, se promoverá que, por lo menos, el 20 por ciento de los recursos previstos en el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN) se destinen a la atención de necesidades directamente vinculadas con la seguridad pública.
+
+El Consejo Nacional de Seguridad Pública, al aprobar los criterios para la distribución de los recursos de los fondos de ayuda federal que se otorguen a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México para la seguridad pública, promoverá y vigilará que su aplicación se oriente al cumplimiento de los ejes estratégicos y programas con prioridad nacional definidos por dicho órgano, así como que su erogación se realice en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Para tales efectos, los convenios relativos a estos fondos establecerán mecanismos que contribuyan a agilizar la recepción y el ejercicio de los recursos que reciban las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
+
+Dicho consejo promoverá que, por lo menos, el 20 por ciento de los recursos del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP) se distribuya entre los municipios y las demarcaciones territoriales de la Ciudad de México, conforme a criterios que integren el número de habitantes y el avance en la aplicación del Programa Estatal de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura.
+
+Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ejercicio de los recursos federales que les sean transferidos para seguridad pública, a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios deben alinear, en su caso, la aplicación de los recursos para implementar y operar el modelo de desarrollo y operación policial previsto en la ley de la materia, conforme a los ejes estratégicos aprobados por el Consejo Nacional de Seguridad Pública;
+
+X. Los recursos presupuestarios federales asignados al Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública (FOFISP), conforme a lo previsto en el Segundo Transitorio del Decreto por el que se reforma el Artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022, se incluyen en el Ramo 36 Seguridad y Protección Ciudadana.
+
+El ejercicio de los recursos referidos en el párrafo anterior se sujetará a las disposiciones previstas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, en este Decreto y en los lineamientos que para tal efecto emita el Ejecutivo Federal, por conducto del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+Los referidos lineamientos deben ser publicados en el Diario Oficial de la Federación durante el primer bimestre de 2026; dar cumplimiento a lo establecido en el Segundo transitorio referido en el primer párrafo de esta fracción, y contemplar, entre otros aspectos, los siguientes:
+
+a) Los criterios de distribución, fórmulas y variables de asignación, las cuales, cuando corresponda, deben atender los criterios establecidos en las disposiciones a que se refiere el primer párrafo de esta fracción;
+
+b) Los porcentajes que se deban destinar al cumplimiento de las obligaciones establecidas en las disposiciones señaladas en el primer párrafo de esta fracción;
+
+c) Las obligaciones correspondientes a las entidades federativas;
+
+d) Los conceptos a los que, para el cumplimiento a las disposiciones referidas en el primer párrafo de esta fracción, deben destinarse los recursos, en alineación con los programas de prioridad nacional definidos por el Consejo Nacional de Seguridad Pública, y
+
+e) La lista de beneficiarios y el monto de asignación correspondiente a cada uno.
+
+Para efectos de lo previsto en esta fracción, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública debe suscribir, en términos de las disposiciones aplicables, los convenios específicos y sus anexos técnicos con los beneficiarios de los recursos, a más tardar el último día hábil de marzo de 2026.
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública debe publicar y actualizar trimestralmente en su página de Internet un reporte especial sobre el ejercicio de los recursos a que hace referencia la presente fracción, con base en la información que le proporcionen los beneficiarios de los recursos, y
+
+XI. De los fondos a que se refieren los artículos 35 y 36 de la Ley de Coordinación Fiscal, será responsabilidad de las entidades federativas enviar a la Secretaría, en forma impresa y en formato electrónico de base de datos modificable, durante los primeros 10 días naturales del mes de febrero, el calendario de distribución y montos que correspondan a sus municipios o demarcaciones territoriales.
+
+###### Artículo 7.
+
+Las entidades federativas y, en su caso, los municipios y las demarcaciones territoriales de la Ciudad de México, que realicen proyectos de infraestructura con recursos del Ramo General 23 Provisiones Salariales y Económicas deben reportar a la Secretaría, en los términos que esta determine y a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información del contrato bajo el cual se realicen dichos proyectos, su ubicación geográfica, informes sobre sus avances y, en su caso, evidencias de conclusión. Las entidades federativas y, en los casos que corresponda, los municipios y las demarcaciones territoriales de la Ciudad de México serán responsables de la veracidad de la información reportada.
+
+## TÍTULO TERCERO
+
+### CAPÍTULO I
+
+### CAPÍTULO II
+
+###### Artículo 9.
+
+Las Dependencias y Entidades se sujetarán a las disposiciones de austeridad y disciplina presupuestaria que se establezcan en los términos del Título Tercero, Capítulo IV, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; el artículo 32 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; en la Ley Federal de Austeridad Republicana y en las disposiciones de austeridad republicana emitidas por el Ejecutivo Federal, así como por la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus atribuciones. Sin perjuicio de lo anterior, las Dependencias y Entidades observarán las disposiciones siguientes:
+
+I. No crear plazas, salvo que se cuente con la previsión presupuestaria aprobada para tal fin en este Presupuesto de Egresos, o que sean resultado del cumplimiento de reformas jurídicas; por determinación de la Secretaría en los supuestos en que las Dependencias y Entidades generen los ingresos para cubrir su gasto respectivo, administren, exploten, operen y presten servicios aeroportuarios, aeronáuticos, ferroviarios, turísticos, culturales, comerciales, complementarios, auxiliares y conexos a los anteriores rubros, o bien, que dichas plazas tengan como finalidad atender situaciones de carácter emergente o contingente. Asimismo, la Secretaría podrá autorizar modificaciones al presupuesto para la creación de plazas para prestar los servicios de salud;
+
+II. El inventario de plazas y remuneraciones de las Dependencias y Entidades que se incluye en el Tomo IX del presente Presupuesto de Egresos, contiene las plazas autorizadas por la Secretaría que fueron conciliadas con las Dependencias y Entidades en el marco de las medidas de disciplina presupuestaria, así como las plazas y remuneraciones que se encuentran en proceso de conciliación.
+
+Para efectos de lo anterior, las Dependencias y Entidades se abstendrán de solicitar movimientos respecto de las plazas que se encuentran en proceso de conciliación, hasta en tanto se concluya con el mismo.
+
+La Secretaría, a través de la unidad administrativa competente en materia de control presupuestario de los servicios personales, regulará la ocupación de plazas, previa verificación de la disponibilidad presupuestaria;
+
+III. Los incrementos que, en su caso, se otorguen a las personas servidoras públicas, se sujetarán a los recursos aprobados en los Anexos 7 y 24 de este Decreto y tendrán como objetivo exclusivamente mantener el poder adquisitivo respecto del año 2025;
+
+IV. Las Dependencias y Entidades no podrán crear estructuras orgánicas y ocupacionales excesivas, y se sujetarán a lo que establezca la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias;
+
+V. El Instituto de Administración y Avalúos de Bienes Nacionales continuará las acciones para el mejor uso y aprovechamiento inmobiliario que considere, entre otras, la puesta a disposición de inmuebles desaprovechados, mismos que podrán ser utilizados para resolver necesidades de otras instituciones públicas o, en su defecto, para su desincorporación y enajenación. Para tal efecto, dicho instituto actualizará el programa de aprovechamiento inmobiliario federal mismo que debe publicarse en su página de Internet, así como podrá realizar verificaciones a los inmuebles que así considere, previo aviso a la institución pública de que se trate. Las acciones derivadas del programa deben sujetarse al presupuesto aprobado para las Dependencias y Entidades;
+
+VI. Las contrataciones públicas se llevarán a cabo preferentemente de manera consolidada, conforme a los principios de eficiencia, eficacia, economía, imparcialidad, transparencia y honradez, con el objeto de obtener las mejores condiciones y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo, en el ámbito económico, ambiental y social, para tal efecto, las Dependencias y Entidades podrán realizar las transferencias de recursos conforme a las disposiciones aplicables.
+
+Adicionalmente, se utilizará la modalidad de ofertas subsecuentes de descuentos en las licitaciones públicas que se realicen cuando los bienes a adquirir o servicios por contratar satisfagan los requisitos y condiciones que establece la normatividad en la materia y se asegure con ello la obtención de las mejores condiciones para el Estado;
+
+VII. Las Dependencias y Entidades que tengan contratadas pólizas de seguros sobre personas y bienes deben llevar a cabo las acciones necesarias para incorporarse a las pólizas institucionales coordinadas por la Secretaría o por la Secretaría Anticorrupción y Buen Gobierno, según corresponda, siempre y cuando dicha incorporación represente una reducción en el gasto global y que se mantengan o mejoren las condiciones contratadas en la póliza, y
+
+VIII. La Secretaría podrá establecer mecanismos financieros de cobertura de riesgos para atender obligaciones contingentes relacionadas con bienes culturales de las Dependencias y Entidades, considerando las asignaciones con las que cuenten para tal fin, así como de aquellas obras de arte que ingresen al territorio nacional para su exhibición al público en general.
+
+Las Dependencias y Entidades proporcionarán a la Secretaría, en los términos que esta determine, la información relacionada con los contratos que impliquen la erogación de recursos públicos, la cual será pública, en formato de datos abiertos, a través del Portal de Transparencia Presupuestaria. Para ello, la Secretaría Anticorrupción y Buen Gobierno se coordinará con la Secretaría para integrar, en el ámbito de sus atribuciones, la información que al respecto contenga la Plataforma Digital de Contrataciones Públicas, en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley General de Transparencia y Acceso a la Información Pública.
+
+La Secretaría, desde el ámbito del control presupuestario podrá autorizar en casos excepcionales modalidades específicas de aplicación de las medidas de austeridad y disciplina presupuestaria referidas en las fracciones anteriores, o bien en los supuestos que las Dependencias y Entidades sean objeto de reformas jurídicas, de nueva creación o cuando se realicen modificaciones a su estructura programática. Asimismo, se faculta a la Secretaría para que, a través de la unidad competente en materia de control presupuestario, emita disposiciones específicas que amplíen las medidas de control, disciplina presupuestaria y austeridad previstas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en la Ley Federal de Austeridad Republicana.
+
+Las Dependencias y Entidades que reciban ampliaciones líquidas del Ramo General 23 Provisiones Salariales y Económicas, distintas de los ingresos excedentes que tengan un destino específico, únicamente deben destinarlas a los fines autorizados por la Secretaría.
+
+La Secretaría reportará en los Informes trimestrales las variaciones en el gasto corriente estructural.
+
+###### Artículo 10.
+
+En materia de comunicación social, los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, se sujetarán a la Ley General de Comunicación Social y a las demás disposiciones jurídicas aplicables. En el caso de las Dependencias y Entidades, adicionalmente, se sujetarán a la política de comunicación social del Gobierno Federal que formule la Oficina de la Presidencia de la República, con la intervención que corresponda a la Secretaría de Gobernación. Asimismo, los ejecutores de gasto deben observar lo siguiente:
+
+I. Podrán destinar recursos presupuestarios para la difusión de campañas de comunicación social, a través de la radio y la televisión, siempre y cuando hayan solicitado los tiempos oficiales, y dichos tiempos no estuvieran disponibles en los espacios y tiempos solicitados.
+
+No podrán realizarse erogaciones en comunicación social en las entidades federativas en donde se lleven a cabo elecciones, durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada comicial. Solo podrán realizarse erogaciones en los tiempos a que se refiere el párrafo anterior, en los casos de excepción previstos en la Constitución Política de los Estados Unidos Mexicanos y en la legislación de la materia;
+
+II. Las Dependencias y Entidades registrarán la información a la que se refiere el artículo 33 de la Ley General de Comunicación Social, en el sistema respectivo, de conformidad con las disposiciones generales que para tal efecto publique la Secretaría de Gobernación, en el Diario Oficial de la Federación, de conformidad con la ley señalada;
+
+III. Las erogaciones que conforme a este artículo realicen las Entidades deben ser autorizadas por el órgano de gobierno respectivo o su equivalente;
+
+IV. Durante el ejercicio fiscal no podrán realizarse ampliaciones y/o traspasos de recursos de otros capítulos o conceptos de gasto, al concepto de gasto correspondiente a servicios de comunicación social y publicidad de los respectivos presupuestos, ni podrán incrementarse dichos conceptos de gasto, salvo que dichos recursos se destinen a mensajes para atender situaciones de carácter preventivo o contingente; que tengan como propósito mantener la prestación de servicios a la población que no se puedan atender de manera presencial derivado de situaciones emergentes; que se requieran para la promoción comercial de las Entidades para que generen mayores ingresos; que tengan como propósito promover a México como destino turístico en el extranjero, o que se realicen con cargo a los ingresos excedentes que obtenga el Instituto Nacional de Migración para mejorar los servicios migratorios. En dichos supuestos, los ejecutores de gasto deben obtener de la Secretaría de Gobernación la autorización del programa de comunicación social o bien de la modificación respectiva, para lo cual señalarán el costo y su fuente de financiamiento y, posteriormente, deben realizar el trámite de adecuación presupuestaria ante la Secretaría;
+
+Lo anterior, sin perjuicio de las obligaciones que, conforme a la Ley General de Comunicación Social, deban cumplir las Dependencias y Entidades;
+
+VI. Las erogaciones realizadas en materia de comunicación social se acreditarán únicamente con órdenes de transmisión para medios electrónicos, con órdenes de inserción para medios impresos y con órdenes de servicio para medios complementarios. En todos los casos se debe especificar la tarifa convenida, concepto, descripción del mensaje, destinatarios, cobertura geográfica, circulación certificada y pautas de difusión en relación con el medio de comunicación que corresponda;
+
+VII. Los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, previo a la contratación de servicios de producción, espacios en radio y televisión comerciales, deben atender la información de los medios sobre cobertura geográfica, audiencias, programación y métodos para medición de audiencias, así como su capacidad técnica para la producción, postproducción y copiado. La Secretaría de Gobernación debe dar seguimiento a la inclusión de los medios públicos en los programas y campañas de comunicación social y publicidad de las Dependencias y Entidades;
+
+VIII. La Secretaría Anticorrupción y Buen Gobierno, en términos de lo dispuesto en la Ley General de Comunicación Social, a través del sistema respectivo dará seguimiento al registro que realicen las Dependencias y Entidades sobre las erogaciones en materia de comunicación social;
+
+IX. El gasto en comunicación social aprobado en este Presupuesto de Egresos debe destinarse, al menos, en un 5 por ciento a la contratación en medios impresos, conforme a las disposiciones aplicables, y
+
+X. Los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, que cuenten con recursos en este Presupuesto de Egresos para comunicación social, deben elaborar sus respectivos Programas Anuales de Comunicación Social, de conformidad y en los términos de la legislación aplicable.
+
+###### Artículo 11.
+
+Para lograr una mayor transparencia en materia de contrataciones públicas, promover la reactivación económica y fortalecer las cadenas productivas, las Dependencias y Entidades que realicen adquisiciones de bienes y contratación de servicios o de obra pública, se sujetarán al Programa de Cadenas Productivas de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, a fin de dar de alta en el mismo las cuentas por pagar a sus proveedores o contratistas, apegándose a las disposiciones generales aplicables a dicho Programa, las cuales serán emitidas por la Secretaría e interpretadas por la unidad administrativa de la misma que ejerza las facultades de coordinación con las instituciones de banca de desarrollo. Con el propósito de fomentar la transparencia, tratándose de las empresas públicas del Estado, estas podrán incorporarse al Programa de Cadenas Productivas, con el objeto de que sus proveedores y contratistas sean beneficiados con este programa.
+
+El registro de las cuentas por pagar debe realizarse de acuerdo con los plazos definidos en dichas disposiciones, con el propósito de dar mayor certidumbre, transparencia y eficiencia en los pagos.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con el apoyo de dichas Dependencias y Entidades y, en su caso, las empresas públicas del Estado, debe promover la utilización del Programa de Cadenas Productivas con los proveedores y contratistas del sector público y reportará los avances que se presenten en los Informes trimestrales.
+
+### CAPÍTULO III
+
+###### Artículo 12.
+
+Los recursos previstos en los presupuestos de las Dependencias y Entidades en materia de servicios personales y, en su caso, en los ramos generales, incorporan la totalidad de las previsiones para sufragar las erogaciones correspondientes a las medidas salariales y económicas, y se sujetarán a lo siguiente:
+
+I. Los incrementos a las percepciones se determinarán, conforme a:
+
+a) La estructura ocupacional autorizada;
+
+b) Las plazas registradas en el sistema de administración de nómina y demás elementos previstos en el caso del artículo 27-A de la Ley de Coordinación Fiscal y del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para el caso del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+
+c) La plantilla de personal, tratándose del Fondo de Aportaciones para los Servicios de Salud (FASSA), con sujeción a lo establecido en el artículo 30, párrafos penúltimo y último, de la Ley de Coordinación Fiscal, y
+
+d) Las plantillas de personal, tratándose del Fondo de Aportaciones para la Educación Tecnológica y de Adultos (FAETA); y, en el caso de los servicios de educación para adultos, en los términos de la Ley de Coordinación Fiscal.
+
+Las previsiones para el incremento a las percepciones, a que se refieren los Anexos 7 y 24 de este Decreto, incluyen la totalidad de los recursos para categorías y personal de confianza y sindicalizado, por lo que no debe utilizarse la asignación prevista a un grupo para favorecer a otro;
+
+II. En el presente ejercicio fiscal en las Dependencias y Entidades no se deben crear plazas en nivel alguno con excepción de los casos previstos en el artículo 9, fracción I, de este Decreto;
+
+III. Las previsiones a que se refiere el Anexo 24 de este Decreto incluyen los recursos para la educación tecnológica y de adultos correspondientes a aquellas entidades federativas que no han celebrado los convenios establecidos en el artículo 42 de la Ley de Coordinación Fiscal. Una vez que dichas entidades celebren los convenios respectivos, dichos recursos deben ser entregados a estas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios;
+
+IV. Los recursos del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, incluyen las previsiones para cubrir:
+
+a) Las medidas salariales y económicas correspondientes al fondo previsto en los artículos 26, 26-A, 27 y 27-A de la Ley de Coordinación Fiscal y al Fondo de Aportaciones para la Educación Tecnológica y de Adultos (FAETA), que serán cubiertas a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios;
+
+b) Las medidas económicas que se requieran para la cobertura y el mejoramiento de la calidad del sistema educativo. Asimismo, las previsiones para incrementos a las percepciones incluyen las correspondientes a los sistemas de desarrollo profesional que, en su caso, correspondan en los términos de la ley de la materia, y
+
+c) Las plazas que sean creadas con cargo a los recursos establecidos en el rubro de previsiones salariales y económicas del Ramo General 25 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos, para su aplicación a través del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios, de acuerdo con la normatividad aplicable, y
+
+V. Las previsiones incluidas en el Fondo de Aportaciones para los Servicios de Salud (FASSA), incluyen los recursos para cubrir aquellas medidas económicas que se requieran para la cobertura y el mejoramiento de la calidad del sistema de salud, con sujeción a lo establecido en el artículo 30, párrafos penúltimo y último, de la Ley de Coordinación Fiscal.
+
+Las Dependencias y Entidades reportarán en los Informes trimestrales el impacto de los incrementos salariales en el presupuesto regularizable.
+
+###### Artículo 13.
+
+Las remuneraciones autorizadas a las personas servidoras públicas de la Federación se integran en términos de las percepciones previstas en el presente Decreto, en su Anexo 23 y en el Tomo IX de este Presupuesto de Egresos, conforme a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Remuneraciones de los Servidores Públicos:
+
+I. Las remuneraciones se integran, conforme a lo dispuesto en la referida disposición constitucional; los artículos 7 de la Ley Federal de Remuneraciones de los Servidores Públicos, y 2, fracciones XXXIII, XXXIV y XLVI, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con la suma de la totalidad de percepciones ordinarias y extraordinarias que perciben las personas servidoras públicas de la Federación.
+
+Las percepciones ordinarias incluyen la totalidad de los elementos fijos de la remuneración. Las percepciones extraordinarias consideran los elementos variables de dicha remuneración, la cual solo podrá cubrirse conforme a los requisitos y la periodicidad establecidos en las disposiciones aplicables.
+
+La Secretaría podrá autorizar, en términos de las disposiciones específicas que emita, el otorgamiento de compensaciones económicas para el personal que integra la Guardia Nacional como parte de su sistema de remuneraciones, así como de los sistemas complementarios de seguridad social, sin que lo anterior comprometa recursos de largo plazo mayores a los autorizados en los términos de este Decreto.
+
+Las contribuciones a cargo de las personas servidoras públicas que se causen por las percepciones señaladas en la presente fracción, forman parte de su remuneración;
+
+II. La remuneración total anual autorizada a la persona titular de la Presidencia de la República y los límites de remuneración mensual para la Administración Pública Federal se integran en términos de los artículos 7 y 12, inciso a), de la Ley Federal de Remuneraciones de los Servidores Públicos y de las percepciones previstas en el presente Decreto y, conforme a lo siguiente:
+
+a) Los límites mínimos y máximos de percepciones ordinarias brutas y netas mensuales para las personas servidoras públicas de la Administración Pública Federal, las cuales incluyen la suma de la totalidad de pagos fijos, en efectivo y en especie, se presentan en el Anexo 23.1.1. de este Decreto y comprenden los conceptos que a continuación se señalan con sus respectivos montos:
+
+i. Los montos correspondientes a sueldos y salarios, y
+
+ii. Los montos correspondientes a las prestaciones.
+
+Los montos de las percepciones ordinarias presentadas en el Anexo 23.1. no consideran los incrementos salariales que, en su caso, se autoricen para el presente ejercicio fiscal, las repercusiones que se deriven de la aplicación de las disposiciones de carácter fiscal, ni las adecuaciones a la curva salarial del tabulador;
+
+b) La remuneración ordinaria total líquida mensual neta autorizada a la persona titular de la Presidencia de la República para el ejercicio fiscal de 2026 se incluye en el Anexo 23.1.2. de este Decreto;
+
+c) La remuneración total anual de percepciones ordinarias autorizada a la persona titular de la Presidencia de la República para el ejercicio fiscal de 2026 se incluye en el Anexo 23.1.3. de este Decreto, y
+
+d) En el presente Presupuesto de Egresos se consideran recursos para el pago de percepciones extraordinarias que, en su caso, percibirán las personas servidoras públicas que, conforme a las disposiciones aplicables, tengan derecho a recibirlas. Las percepciones extraordinarias que se paguen a las personas servidoras públicas se informarán a la Secretaría, en términos del último párrafo del artículo 14 de este Decreto;
+
+III. La remuneración total anual autorizada a los titulares de los ejecutores de gasto que a continuación se indican y los límites correspondientes a las percepciones ordinarias y extraordinarias de las personas servidoras públicas de dichos ejecutores de gasto, conforme a lo dispuesto en la fracción I, primer párrafo, de este artículo, se presentan en los Anexos siguientes de este Decreto:
+
+a) Anexo 23.2. Ramo 01: Cámara de Senadores;
+
+c) Anexo 23.4. Ramo 01: Auditoría Superior de la Federación;
+
+d) Anexo 23.5. Ramo 03: Suprema Corte de Justicia de la Nación;
+
+e) Anexo 23.6. Ramo 03: Órgano de Administración Judicial / Tribunal de Disciplina Judicial;
+
+f) Anexo 23.7. Ramo 03: Tribunal Electoral del Poder Judicial de la Federación;
+
+g) Anexo 23.8. Ramo 22: Instituto Nacional Electoral;
+
+h) Anexo 23.9. Ramo 35: Comisión Nacional de los Derechos Humanos;
+
+i) Anexo 23.10. Ramo 49: Fiscalía General de la República;
+
+j) Anexo 23.11. Ramo 40: Instituto Nacional de Estadística y Geografía, y
+
+k) Anexo 23.12. Ramo 32: Tribunal Federal de Justicia Administrativa, y
+
+IV. El desglose de las percepciones por ejecutor de gasto, se presenta en el Tomo IX de este Presupuesto de Egresos.
+
+Las Dependencias y Entidades podrán modificar las percepciones ordinarias de los puestos conforme a las disposiciones aplicables, sujetándose a los límites máximos establecidos en el Anexo 23.1. del presente Decreto, previa autorización y registro presupuestario en los términos de las disposiciones aplicables. Asimismo, podrán efectuarse ajustes en la composición de las percepciones ordinarias por concepto de sueldos y salarios, siempre y cuando no se incremente el monto mensual previsto en dicho Anexo para el puesto correspondiente, y no se aumente su presupuesto regularizable de servicios personales.
+
+Las Entidades que cuenten con planes de compensación acordes con el cumplimiento de las expectativas de aumento en el valor agregado, podrán determinar las percepciones aplicables, sin generar costos adicionales y siempre que dichos planes sean autorizados por la Secretaría en lo que se refiere a que el presupuesto total de la Entidad no se incremente y no se afecten negativamente los objetivos y metas de sus programas, y por lo que se refiere a la Secretaría Anticorrupción y Buen Gobierno en cuanto a la congruencia del plan de compensación con la política de planeación y administración de personal de la Administración Pública Federal.
+
+Ninguna persona servidora pública podrá recibir emolumentos extraordinarios, sueldos, compensaciones o gratificaciones por participar en consejos, órganos de gobierno o equivalentes en las Dependencias y Entidades o comités técnicos de fideicomisos públicos o análogos a estos.
+
+Los ejecutores de gasto público federal publicarán en sus respectivas páginas de Internet, de manera permanente, y reportarán en la Cuenta Pública, los tabuladores y las remuneraciones que se cubren a las personas servidoras públicas a su cargo y, en los casos correspondientes, al personal militar; personal de enlace; así como personal operativo de base y confianza, y categorías, especificando los elementos fijos y variables, tanto en efectivo como en especie. Las Dependencias y Entidades deben reportar a la Secretaría, a través del sistema que para tales efectos esta determine, la información relativa a las plazas ocupadas de su plantilla autorizada, para efectos del control presupuestario de los servicios personales, en términos de las disposiciones específicas que emita la Secretaría.
+
+Los Poderes Legislativo y Judicial, los entes autónomos, así como las Dependencias y Entidades, deben abstenerse de cubrir cualquier tipo de estímulo, pago o compensación especial a las personas servidoras públicas a su servicio, con motivo del término de su encargo, o bien por el término de la administración correspondiente.
+
+###### Artículo 14.
+
+Las personas servidoras públicas de mando y personal de enlace de las Dependencias y Entidades solo podrán percibir las prestaciones establecidas en el manual a que se refieren los artículos 66 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 24 de la Ley Federal de Remuneraciones de los Servidores Públicos. Asimismo, las Dependencias y Entidades no podrán destinar recursos para cubrir prestaciones en adición a aquéllos previstos en el gasto de servicios personales aprobado en este Presupuesto de Egresos. En los procesos de revisión de las condiciones generales de trabajo y de los contratos colectivos de trabajo que realicen las Dependencias y Entidades se deben sujetar a su presupuesto autorizado.
+
+Las Dependencias y Entidades enviarán informes a la Secretaría con el detalle de todas las prestaciones y percepciones extraordinarias que perciben las personas servidoras públicas a su cargo, así como el gasto total destinado al pago de las mismas en el periodo correspondiente, a fin de que se incluyan en los Informes trimestrales.
+
+###### Artículo 15.
+
+Las Dependencias y Entidades observarán las siguientes disposiciones en materia de servicios personales:
+
+I. Solicitarán autorización presupuestaria de la Secretaría, respecto de sus tabuladores, para dar cumplimiento a lo dispuesto en la base V del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Una vez que se ocupe una plaza conforme a las disposiciones jurídicas aplicables, se tendrá un plazo máximo de 45 días naturales a partir de la fecha de la ocupación de la misma para que se realice el primer pago de nómina respectivo, siempre y cuando se acredite fehacientemente la asistencia y desempeño del servicio durante dicho periodo en la plaza respectiva. Esta disposición también será aplicable para los contratos de honorarios con cargo al capítulo de Servicios Personales;
+
+III. Podrán traspasarse las plazas necesarias de las Dependencias y Entidades, que con motivo de una reestructura en la Administración Pública Federal, derivada de una reforma legal o a ordenamientos de carácter administrativo, asuman funciones de aquéllas que se transformen, compacten, eliminen o sean creadas, para lo cual se debe contar con la autorización presupuestaria de la Secretaría, conforme al mecanismo presupuestario que establezca para dichos fines;
+
+IV. Las Dependencias y Entidades deben realizar las gestiones necesarias ante la Secretaría para que los recursos que correspondan del gasto de operación previstos en sus presupuestos autorizados se traspasen al capítulo de servicios personales, para cubrir las remuneraciones del personal que sea contratado con cargo a este capítulo de gasto, en cumplimiento a lo establecido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, así como su Decreto de reforma publicado en el mismo órgano de difusión oficial el 31 de julio de 2021, y
+
+V. En los Anexos Informativos previstos en el artículo 41, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se presenta la información correspondiente a las jubilaciones, pensiones, compensaciones, haberes y demás prestaciones por retiro, a que se refiere el artículo 27 de la Ley Federal de Remuneraciones de los Servidores Públicos.
+
+###### Artículo 16.
+
+La Secretaría, en el ámbito de su competencia, podrá establecer un mecanismo para cubrir una compensación económica a las personas servidoras públicas por la terminación de la relación laboral como consecuencia de reestructuras o reorganización en las Dependencias o Entidades de la Administración Pública Federal; la desincorporación de Entidades; la cancelación de plazas, o la eliminación de unidades administrativas de las Dependencias o Entidades, en los términos de las disposiciones específicas que, al efecto, emita la propia Secretaría. Dichas disposiciones específicas establecerán, entre otros aspectos, los montos de la compensación económica, los cuales se podrán cubrir con recursos del Ramo General 23 Provisiones Salariales y Económicas o conforme al mecanismo presupuestario y de pago que se determine; los tipos de personal que podrán acogerse al mismo, considerando no afectar la prestación de servicios públicos; así como el procedimiento que deben seguir las Dependencias y Entidades correspondientes para su aplicación.
+
+###### Artículo 17.
+
+En aquellos puestos de personal militar y, en su caso, en los que se establezcan en las disposiciones específicas que emita la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, respecto de las Dependencias cuyo desempeño ponga en riesgo la seguridad o la salud de la persona servidora pública de mando, podrá otorgarse la potenciación del seguro de vida institucional, y la prima personal de riesgo a que se refiere el artículo 6, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, hasta por el 30 por ciento sobre la percepción ordinaria bruta mensual, por concepto de sueldos y salarios. La Secretaría Anticorrupción y Buen Gobierno evaluará la gravedad del riesgo y determinará el porcentaje de la prima personal en función del riesgo y, en su caso, autorizará el pago, previo dictamen favorable de la Secretaría en el ámbito presupuestario.
+
+###### Artículo 18.
+
+En términos del artículo 6, apartado B, fracción II, de la Ley Federal de Remuneraciones de los Servidores Públicos y conforme a las disposiciones aplicables, se podrá otorgar al personal en activo de la Guardia Nacional, un apoyo económico mensual bruto por concepto de pago del arrendamiento de vivienda de uso habitacional cuando, en el desarrollo del trabajo que realizan para el cumplimiento de funciones oficiales reglamentadas y autorizadas, deba permanecer temporalmente en un área geográfica distinta de la que es originario o resida habitualmente, o bien, que sea objeto de cambio de adscripción o comisión, y que tenga la necesidad de arrendar una vivienda en el lugar donde fue asignado o donde se encuentre desplegado por necesidades y desarrollo de actos del servicio.
+
+###### Artículo 19.
+
+Petróleos Mexicanos y la Comisión Federal de Electricidad deben remitir a la Secretaría los tabuladores y la estructura ocupacional autorizados en términos de las disposiciones jurídicas aplicables y conforme a su presupuesto de servicios personales aprobado.
+
+###### Artículo 20.
+
+Las instituciones de banca de desarrollo deben remitir a la Secretaría para el registro correspondiente los tabuladores y la estructura ocupacional autorizados en términos de las disposiciones jurídicas aplicables. Adicionalmente, deben publicar en el Diario Oficial de la Federación, en la fecha antes señalada, la estructura ocupacional que contenga la integración de los recursos aprobados en el capítulo de servicios personales, con la desagregación de su plantilla total, incluidas las plazas a que se refiere el párrafo anterior, junto con las del personal operativo, eventual y el contratado bajo el régimen de honorarios, en el que se identifiquen todos los conceptos de pago y aportaciones de seguridad social que se otorguen con base en las disposiciones emitidas por sus órganos competentes, así como la totalidad de las plazas vacantes con que cuenten a dicha fecha.
+
+En tanto no se publiquen en el Diario Oficial de la Federación las disposiciones y la estructura ocupacional a que se refieren los párrafos anteriores de este artículo, no procederá el pago de estímulos, incentivos, reconocimientos o gastos equivalentes a los mismos.
+
+### CAPÍTULO IV
+
+###### Artículo 22.
+
+En cumplimiento a la Ley General para la Igualdad entre Mujeres y Hombres, y a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Ejecutivo Federal impulsará, de manera transversal, la igualdad sustantiva entre mujeres y hombres a través de la incorporación de la perspectiva de género en el diseño, elaboración, aplicación, seguimiento y evaluación de resultados de los programas de la Administración Pública Federal. Para tal efecto, las Dependencias y Entidades deben considerar lo siguiente:
+
+I. Incorporar los principios de igualdad entre mujeres y hombres y reflejarla en los instrumentos de diseño y de seguimiento del desempeño de los programas bajo su responsabilidad, en los términos que establezca la Secretaría;
+
+II. Identificar y registrar la población objetivo y la atendida por dichos programas, diferenciada por sexo, orientación sexual, identidad de género, grupo de edad, discapacidad, en su caso, región del país, entidad federativa, municipio o demarcación territorial de la Ciudad de México, y población indígena y afromexicana, de la diversidad sexual y diversidad de género (LGBTIQ+) u otra desagregación aplicable, en los sistemas y términos que disponga la Secretaría y en los padrones de beneficiarios que correspondan;
+
+III. Fomentar la igualdad entre mujeres y hombres en el diseño y la ejecución de programas en los que, aun cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puedan identificar de forma diferenciada los beneficios específicos para mujeres y hombres, contemplando la no discriminación por orientación sexual, identidad de género, expresión de género y características sexuales;
+
+IV. Establecer o consolidar en los programas bajo su responsabilidad, las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género, e
+
+V. Incorporar la perspectiva de género y de diversidad sexual en las evaluaciones de los programas, con los criterios que emitan la Secretaría de las Mujeres y la Secretaría.
+
+Las acciones contenidas en las fracciones anteriores serán obligatorias en lo relativo a los programas y acciones incorporadas en el Anexo 13 del presente Decreto y para los demás programas federales que correspondan.
+
+Las Dependencias y Entidades que tengan a su cargo programas dirigidos a mujeres y atribuciones para lograr la igualdad de género entre mujeres y hombres, así como las entidades federativas y los municipios que reciban recursos etiquetados incluidos en el Anexo 13 de este Decreto, deben suscribir los convenios respectivos durante el primer trimestre, así como informar sobre los resultados de los mismos, los publicarán y difundirán para darlos a conocer a la población e informarle, en las lenguas nacionales reconocidas por la Ley General de Derechos Lingüísticos de los Pueblos Indígenas existentes en la entidad federativa, sobre los beneficios y requisitos para acceder a ellos, en los términos de la normativa aplicable.
+
+Para el seguimiento de los recursos destinados a la igualdad de género entre mujeres y hombres, todo programa federal que contenga padrones de beneficiarios, además de reflejar dicho enfoque en sus instrumentos de diseño y de seguimiento del desempeño, generará información de manera desagregada, al menos por sexo y entidad federativa, debiendo observar las disposiciones aplicables en materia de protección de datos personales.
+
+Las Dependencias y Entidades con presupuesto asignado dentro del Anexo 13, que realicen estudios y generen bases de datos o levantamientos de encuestas, deben hacer públicos sus resultados en sus páginas de Internet con el propósito de poder realizar evaluaciones y análisis posteriores. Las Dependencias y Entidades responsables de la coordinación de los programas contenidos en el Anexo 13 del presente Decreto informarán trimestralmente a través del sistema de información desarrollado por la Secretaría, y en el Sistema de Evaluación del Desempeño en los términos y plazos establecidos en las disposiciones respectivas, sobre los aspectos presupuestarios de los programas y los resultados alcanzados en la materia a la que se refiere el presente Capítulo, medidos a través de los indicadores y sus metas contenidos en el instrumento de seguimiento respectivo. Asimismo, se detallarán los aspectos por cada programa presupuestario, contenido en el Anexo mencionado, la población objetivo y atendida, los indicadores utilizados, la programación y el avance en el ejercicio de los recursos.
+
+La Secretaría presentará en los Informes trimestrales los avances financieros y programáticos que le envíe la Secretaría de las Mujeres con base en la información que a esta le proporcionen las Dependencias y Entidades responsables de los programas a través del sistema indicado en el párrafo anterior.
+
+La información que se publique trimestralmente servirá para las evaluaciones que se realicen en el marco de las disposiciones aplicables.
+
+Los ejecutores de gasto público federal promoverán programas y acciones para cumplir con el programa y las acciones derivadas del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y del Sistema Nacional para la Igualdad entre Mujeres y Hombres, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y de la Ley General para la Igualdad entre Mujeres y Hombres, respectivamente.
+
+Los resultados de los montos autorizados en los programas y actividades contenidas en el Anexo 13 de este Decreto se detallarán en un Anexo específico dentro de la Cuenta Pública del ejercicio fiscal 2026.
+
+La Agencia de Transformación Digital y Telecomunicaciones en conjunción con la Secretaría de las Mujeres revisará las reglas de operación y los lineamientos de operación de los Programas presupuestarios con modalidades S y U que se encuentren en el Anexo 13 a fin de garantizar el cumplimiento de los objetivos de la Política Nacional para la Igualdad entre Mujeres y Hombres, en los términos de las disposiciones aplicables.
+
+Las menciones realizadas en el presente Decreto con respecto a beneficiarios, así como a titulares y las personas servidoras públicas de los ejecutores de gasto, se entenderán referidas a las mujeres y los hombres que integren el grupo de personas correspondiente.
+
+### CAPÍTULO V
+
+###### Artículo 23.
+
+Las Dependencias y Entidades, en coordinación con la Secretaría de Bienestar, revisarán sus respectivos programas, con el objeto de incluir en aquellos que corresponda, acciones que promuevan la inclusión de las personas con discapacidad. A más tardar el último día hábil de octubre, las Dependencias y Entidades entregarán un reporte a la Secretaría de Bienestar, en relación con las acciones señaladas en este artículo.
+
+### CAPÍTULO VI
+
+###### Artículo 24.
+
+El ejercicio de las erogaciones para la implementación de los derechos y el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas a que se refiere el Anexo 10 del presente Decreto, se dirigirá al cumplimiento de los derechos y de las obligaciones que señala el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos. Para tal efecto, de conformidad con los artículos 42, fracción VII, y 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las Dependencias y Entidades, al ejecutar dichas erogaciones y emitir reglas de operación o, en su caso, lineamientos, se ajustarán a lo siguiente:
+
+I. Las disposiciones para la operación de los programas que la Administración Pública Federal desarrolle en la materia deben considerar la participación efectiva y directa de los pueblos y comunidades indígenas y afromexicanas. Tendrán el apoyo técnico del Instituto Nacional de los Pueblos Indígenas, contando con la intervención que corresponda del Consejo Nacional de Pueblos Indígenas;
+
+II. En la ejecución de los programas se debe garantizar el reconocimiento de los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público, de conformidad con sus sistemas normativos y con base en sus formas de organización económica, social y cultural;
+
+III. El Ejecutivo Federal, por sí o a través de sus Dependencias y Entidades, podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas, así como formalizar convenios de concertación de acciones con los municipios, pueblos y comunidades indígenas y afromexicanas o, en su caso, otros instrumentos jurídicos que para tal efecto se celebren, para proveer la mejor observancia de las previsiones del presente artículo. Cuando corresponda, los recursos a los que se refiere este artículo podrán ser transferidos directamente a los pueblos, municipios y comunidades indígenas y afromexicanas, de conformidad con los convenios que para tal efecto se celebren en términos de las disposiciones aplicables.
+
+La entidad federativa correspondiente participará en el ámbito de sus atribuciones en los convenios o instrumentos jurídicos antes señalados, exclusivamente para que los recursos que se transfieran conforme a lo establecido en el presente párrafo, sean registrados por la entidad federativa en su Cuenta Pública;
+
+IV. Las reglas de operación o lineamientos de los programas operados por las Dependencias y Entidades que atiendan a los pueblos y comunidades indígenas y afromexicanas, deben contener disposiciones que faciliten su acceso a los programas y procurarán reducir los trámites y requisitos existentes;
+
+V. En los programas de infraestructura se dará preferencia a las obras priorizadas en los Planes de Justicia y de Desarrollo Regional, y otros procesos de planeación regional, así como a la conclusión de obras iniciadas en ejercicios anteriores, y obras de mantenimiento y reconstrucción;
+
+VI. Se buscará la inclusión financiera de los pueblos y comunidades indígenas y afromexicanas mediante programas de la banca de desarrollo, y
+
+VII. Las Dependencias y Entidades que tengan recursos considerados en el Anexo 10 del presente Decreto, deben observar los criterios que emita el Instituto Nacional de los Pueblos Indígenas para la implementación y seguimiento de los programas incluidos, así como las opiniones de mejora que, en su caso, emita.
+
+Asimismo, el Instituto Nacional de los Pueblos Indígenas integrará la valoración de resultados que, en su caso, realicen los pueblos y comunidades indígenas y afromexicanas a nivel regional, respecto de la ejecución de los recursos, su focalización, perspectiva de género, derechos indígenas y afromexicanos y pertinencia cultural, y cumpla con lo dispuesto en el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPÍTULO VII
+
+###### Artículo 25.
+
+En el presente ejercicio fiscal podrán comprometerse nuevos proyectos de infraestructura productiva de largo plazo de inversión directa, a que se refieren los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18 de la Ley Federal de Deuda Pública, por la cantidad señalada en el Anexo 6.A, de este Decreto, correspondientes a la Comisión Federal de Electricidad. El monto autorizado a los proyectos de infraestructura productiva de largo plazo de inversión directa y condicionada, aprobados en ejercicios fiscales anteriores, asciende a la cantidad señalada en el Anexo 6.B, de este Decreto. Las variaciones en los compromisos de cada uno de dichos proyectos se detallan en el Tomo VII de este Presupuesto de Egresos.
+
+La suma de los montos autorizados de proyectos aprobados en ejercicios fiscales anteriores y los montos para nuevos proyectos se presentan en el Anexo 6.C, de este Decreto.
+
+Los compromisos correspondientes a proyectos de infraestructura productiva de largo plazo de inversión directa, autorizados en ejercicios fiscales anteriores, se detallan en el Anexo 6.D, de este Decreto y comprenden exclusivamente los costos asociados a la adquisición de los activos, excluyendo los relativos al financiamiento en el periodo de operación de dichos proyectos.
+
+Por lo que se refiere a los proyectos de infraestructura productiva de largo plazo de inversión condicionada, en caso de que, conforme a lo dispuesto en el artículo 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el presente ejercicio fiscal surja la obligación de adquirir los bienes en los términos del contrato respectivo, el monto máximo de compromiso de inversión será aquél establecido en el Anexo 6.E, de este Decreto.
+
+Las previsiones necesarias para cubrir las obligaciones de inversión física por concepto de amortizaciones y costo financiero de los proyectos de infraestructura productiva de largo plazo de inversión directa, que tienen efectos en el gasto del presente ejercicio en los términos de las disposiciones aplicables, se incluyen en el Anexo 6.F, de este Decreto. Dichas previsiones se especifican a nivel de flujo en el Tomo VII de este Presupuesto de Egresos y reflejan los montos presupuestarios autorizados, así como un desglose por proyecto.
+
+Los montos de cada uno de los proyectos a que se refiere este artículo se detallan en el Tomo VII de este Presupuesto de Egresos.
+
+En el último informe trimestral del ejercicio, adicionalmente se debe incluir la información sobre los ingresos generados por cada uno de los proyectos de infraestructura productiva de largo plazo en operación; los proyectos que están en construcción, su monto ejercido y comprometido; el monto pendiente de pago de los proyectos concluidos, y la fecha de entrega y de entrada en operación de los proyectos. Esta información se debe publicar en la página de Internet de la Comisión Federal de Electricidad.
+
+###### Artículo 26.
+
+En el presente ejercicio fiscal no se comprometerán nuevos proyectos de inversión en infraestructura a los que se refiere el artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, tal como se observa en el Anexo 4 de este Decreto.
+
+### CAPÍTULO VIII
+
+###### Artículo 27.
+
+La evaluación de los programas presupuestarios a cargo de las Dependencias y Entidades se sujetará a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a los lineamientos emitidos por la Secretaría y a las demás disposiciones jurídicas aplicables, y se llevará a cabo en los términos del Programa Anual de Evaluación, que emita la Secretaría. Las Dependencias y Entidades responsables de los programas, deben observar lo establecido en los Lineamientos para regular la gestión de Instrumentos de Diseño y de Seguimiento del desempeño de los Programas presupuestarios, destacando lo siguiente:
+
+I. Todos los programas presupuestarios deben contar con un instrumento de diseño y un instrumento de seguimiento del desempeño actualizado, priorizando la inclusión de indicadores estratégicos.
+
+Los instrumentos de diseño consistirán en un diagnóstico ampliado, un diagnóstico simplificado o una ficha diagnóstico. Por su parte, los instrumentos de seguimiento del desempeño consistirán en una matriz de indicadores para resultados, una ficha de monitoreo estratégico o una ficha de seguimiento a la gestión, en las cuales estarán contenidos los objetivos, indicadores y metas de los mismos.
+
+Para la actualización de los instrumentos de diseño y de seguimiento del desempeño, se debe atender las recomendaciones derivadas de las acciones de formación y capacitación que determine la Secretaría, y considerar, al menos, lo siguiente:
+
+a) Los avances y resultados obtenidos del seguimiento que se haga respecto del cumplimiento de las metas de los programas presupuestarios;
+
+b) Las evaluaciones y otros ejercicios de análisis realizados conforme al Programa Anual de Evaluación;
+
+c) Las disposiciones emitidas en las reglas o lineamientos de operación de los Programas presupuestarios con modalidades S y U, según sea el caso;
+
+d) Los criterios y recomendaciones que, en su caso, emita la Secretaría, en los términos de las disposiciones aplicables, y
+
+e) Los elementos contenidos en los Instrumentos de Diseño a que se refieren los Lineamientos Generales aplicables a la gestión para resultados de los recursos públicos federales.
+
+Los instrumentos de seguimiento del desempeño deben considerar, en el caso de los programas presupuestarios que así lo requieran y sea factible por su diseño, la inclusión de indicadores que permitan presentar resultados desagregados, de conformidad con lo previsto en los artículos 110, párrafo tercero, fracción V, y 111, párrafo cuarto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Las Dependencias y Entidades deben hacer públicos sus instrumentos de diseño y seguimiento del desempeño en su página de Internet.
+
+La Secretaría reportará en los Informes trimestrales el avance en las metas de los indicadores registrados en los instrumentos de seguimiento del desempeño de los programas presupuestarios que conforman el gasto programable previsto en los ramos administrativos y generales y en las Entidades sujetas a control presupuestario directo, considerando la periodicidad de medición de dichos indicadores;
+
+II. El seguimiento a los avances en las metas de los indicadores se reportará en los sistemas que disponga la Secretaría, y deberá ser utilizado en las evaluaciones que se realicen;
+
+IV. Elaborar un programa de trabajo para dar seguimiento a los principales hallazgos y resultados de las evaluaciones conforme a los Lineamientos para el seguimiento y atención a los aspectos susceptibles de mejora derivados de evaluaciones realizadas a políticas públicas, programas presupuestarios y recursos federales transferidos de la Administración Pública Federal, emitidos por la Secretaría.
+
+Los compromisos se formalizarán mediante instrumentos específicos, se reportarán los avances y resultados que se alcancen mediante el Sistema de Evaluación del Desempeño y se publicarán en los términos de las disposiciones aplicables.
+
+La información que se haya obtenido del seguimiento a los compromisos de mejora y de las evaluaciones, correspondiente al ejercicio fiscal 2025 y, en su caso, a ejercicios fiscales anteriores, se tomará en cuenta como parte de un proceso gradual y progresivo, durante 2026 y para los procesos presupuestarios subsecuentes;
+
+V. Efectuar las evaluaciones de los programas presupuestarios en los siguientes términos:
+
+a) Por sí mismas, o
+
+b) A través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, instituciones académicas y de investigación, u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
+
+La ejecución y la supervisión de la evaluación se deben realizar por una unidad administrativa ajena a la operación del programa a evaluar y al ejercicio de los recursos presupuestarios, en los términos de las disposiciones aplicables.
+
+En el supuesto a que se refiere el inciso b) de la presente fracción, las Dependencias y Entidades, además de realizar la contratación a través de una unidad administrativa ajena a la operación del programa a evaluar y al ejercicio de los recursos presupuestarios, deben cubrir el costo de las evaluaciones con cargo a su presupuesto y conforme al mecanismo de pago que se determine. Asimismo, podrán realizar contrataciones para que las evaluaciones a que se refiere este párrafo abarquen varios ejercicios fiscales, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+El total de las erogaciones que, en su caso, se efectúen para realizar las diferentes etapas de las evaluaciones se debe registrar de manera específica para su plena transparencia y rendición de cuentas;
+
+VI. Publicar y dar transparencia a las evaluaciones, en los términos de las disposiciones aplicables.
+
+Las Dependencias y Entidades deben reportar el avance en el cumplimiento de las metas de los programas, los resultados de las evaluaciones y el grado de cumplimiento de los aspectos que sean susceptibles de mejora derivados de las mismas, en los Informes trimestrales que correspondan, de conformidad con las disposiciones emitidas por la Secretaría.
+
+Dicha información será publicada en las respectivas páginas de Internet de las Dependencias y Entidades.
+
+Por su parte, la Secretaría integrará la información relativa al avance de cumplimiento de metas de los indicadores, a los resultados de las evaluaciones y al seguimiento a los aspectos que sean susceptibles de mejora. Asimismo, las Dependencias y Entidades publicarán dicha información en su página de Internet y la integrarán a los informes correspondientes en términos de las disposiciones aplicables.
+
+La Secretaría debe publicar trimestralmente en el Portal de Transparencia Presupuestaria los avances en el cumplimiento de los aspectos que sean susceptibles de mejora que deriven de las evaluaciones contempladas en los programas anuales de evaluación.
+
+La Secretaría establecerá los modelos de términos de referencia y demás elementos particulares que se requieran para las evaluaciones y coordinarán el proceso correspondiente, de conformidad con las disposiciones aplicables;
+
+VIII. La Secretaría podrá apoyar a las entidades federativas y, por conducto de estas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, en la ejecución del ciclo presupuestario, en materia de planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas, así como en materia de contabilidad gubernamental, sus sistemas de información, y en la instrumentación de la evaluación del desempeño y el Presupuesto basado en Resultados, de conformidad con los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos, 85 y 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, 49 de la Ley de Coordinación Fiscal y 80 de la Ley General de Contabilidad Gubernamental;
+
+IX. Implantar mecanismos para innovar y modernizar el funcionamiento organizacional y el proceso de presupuesto y gasto público, con el objeto de que la información obtenida del seguimiento del cumplimiento de las metas de los indicadores de los programas, de las evaluaciones realizadas a los programas, y del seguimiento a los resultados de estas, se utilice gradualmente en las decisiones presupuestarias y en la gestión de los programas. Lo anterior será coordinado por la Secretaría;
+
+X. Capacitar y coadyuvar a la profesionalización de las personas servidoras públicas involucradas en las funciones de planeación, evaluación, coordinación de las políticas y programas, así como de programación y presupuesto, para impulsar una mayor calidad del gasto público a través del Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño;
+
+XI. Publicar en las páginas de Internet de cada Dependencia o Entidad, para dar transparencia, todas las evaluaciones, estudios y encuestas, que con cargo a recursos fiscales hagan las Dependencias y Entidades, aun cuando no sean parte del Programa Anual de Evaluación, y
+
+XII. Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, a más tardar a los 20 días naturales posteriores al término del segundo trimestre de 2026, deben enviar, en los términos que establezca la Secretaría y mediante el sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, informes definitivos sobre el ejercicio, destino, resultados y, en su caso, reintegros, de los recursos federales que les fueron transferidos durante 2025. Lo anterior, sin perjuicio de la información que deben reportar al finalizar cada trimestre de 2026.
+
+La Secretaría debe incluir en el segundo informe trimestral la información definitiva anual a que hace referencia el párrafo anterior.
+
+Las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México serán responsables de la información de su competencia que se entregue a la Secretaría, incluyendo su veracidad y calidad.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO I
+
+###### Artículo 28.
+
+Los programas que deban sujetarse a reglas de operación son aquellos señalados en el Anexo 25 de este Decreto. El Ejecutivo Federal por conducto de la Secretaría, podrá incluir otros programas que por razones de su impacto social deban sujetarse a reglas de operación. Para tal efecto, se debe observar lo siguiente:
+
+I. Las reglas de operación de los programas federales deben sujetarse a los siguientes criterios generales:
+
+a) Deben ser simples, precisas y de fácil acceso para las personas beneficiarias;
+
+b) Deberán guardar consistencia todos los elementos de los Instrumentos de Diseño y de Seguimiento con las reglas de operación de los programas. La Secretaría verificará dicha consistencia;
+
+c) Se procurará que la ejecución de las acciones correspondientes a los programas federales que por su naturaleza así lo permitan, sea desarrollada por los órdenes de gobierno más cercanos a la población, debiendo reducir al mínimo indispensable los gastos administrativos y de operación del programa respectivo; los gobiernos municipales deben llevar un registro de personas beneficiarias y realizar el seguimiento para verificar la efectividad y coadyuvar en la evaluación de las acciones;
+
+d) Se deben tomar en cuenta las características de las diferentes regiones socioeconómicas del país;
+
+e) Se deben considerar las características sociales, económicas y culturales de la población objetivo;
+
+f) Preverán que las aportaciones acordadas se realicen oportunamente y sean ejercidas de inmediato;
+
+g) Se promoverá una calendarización eficiente para el ejercicio de los recursos federales respectivos;
+
+h) Se asegurará la transparencia en la distribución, aplicación y comprobación de recursos;
+
+i) Se promoverán los principios de igualdad, no discriminación, interés superior de la niñez, integridad, integración familiar, igualdad de género, inclusión social de las personas con discapacidad, libre determinación de las comunidades indígenas, protección al medio ambiente, protección a la vida, salud e integridad de las personas, incluyendo el fomento a las condiciones necesarias para que la libertad e igualdad de las personas sean reales y efectivas, según corresponda;
+
+j) Darán prioridad en la asignación presupuestaria a las acciones para la atención de niñas, niños y adolescentes, personas con discapacidad permanente y a los pueblos indígenas;
+
+k) Se promoverán mecanismos para facilitar a las personas mexicanas repatriadas, el acceso a los beneficios de los programas y garantizar su atención y protección de manera prioritaria;
+
+l) Deben promover la eliminación de aquellos obstáculos que limiten el ejercicio de los derechos e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos;
+
+m) En ningún caso se podrá etiquetar o predeterminar de manera específica recursos a determinadas personas físicas o morales u otorgarles preferencias o ventajas sobre el resto de la población objetivo;
+
+n) Se promoverá la transparencia y acceso a la información pública, así como la eficiencia y eficacia de los recursos públicos, y
+
+ñ) Se promoverá el establecimiento de una estructura informática que permita homologar la información proveniente de los datos de las personas beneficiarias de los programas.
+
+II. Las Dependencias y Entidades que tengan a su cargo dichos programas deben observar las siguientes disposiciones para fomentar la transparencia de los mismos:
+
+a) La papelería y documentación oficial para los programas deben incluir la siguiente leyenda: Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa.
+
+Todo el gasto en comunicación social relacionado con la publicidad que se adquiera para estos programas, por parte de las Dependencias y Entidades, así como aquél relacionado con los recursos presupuestarios federales que se transfieran a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, que se aplique a través de anuncios en medios electrónicos, impresos, complementarios o de cualquier otra índole, debe señalar que se realiza con los recursos federales aprobados en este Presupuesto de Egresos y restringirse a lo establecido en el artículo 10 de este Decreto;
+
+b) Publicar en sus respectivas páginas de Internet el padrón de beneficiarios para los programas sujetos a reglas de operación, que debe incluir nombre o razón social del beneficiario, municipio, entidad federativa y monto del apoyo otorgado o bien entregado;
+
+c) Poner a disposición del público en general un medio de contacto directo, en el cual se proporcione asesoría sobre el llenado de los formatos y sobre el cumplimiento de los requisitos y trámites que deben observarse para obtener los recursos o los beneficios de los programas, y
+
+d) Las reglas de operación, los formatos, las solicitudes y demás requisitos que se establezcan para obtener los recursos o los beneficios de los programas; los indicadores de desempeño de los programas, y los medios de contacto de las unidades responsables de los mismos deben estar disponibles en las páginas de Internet de las Dependencias y Entidades.
+
+La Secretaría publicará en el Portal de Transparencia Presupuestaria la información que permita identificar las características de cada programa federal con base en sus reglas de operación. Para efecto de lo anterior, las Dependencias y Entidades remitirán a la Secretaría la información relacionada con las reglas de operación de los programas federales a su cargo, así como las modificaciones a las mismas, en los términos que la Secretaría determine.
+
+Queda estrictamente prohibida la utilización de los programas de apoyo para promover o inducir la afiliación de la población objetivo a determinadas asociaciones o personas morales.
+
+Para la entrega de los apoyos a la población objetivo de los programas de subsidios en numerario, las Dependencias y Entidades deben promover la inclusión financiera mediante el uso de cuentas bancarias personales, preferentemente a través del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, de conformidad con lo previsto en el artículo 67 de la Ley General de Contabilidad Gubernamental.
+
+###### Artículo 29.
+
+Las Dependencias y Entidades que tengan a su cargo programas sujetos a reglas de operación deben observar las siguientes disposiciones para asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos:
+
+I. Publicar en sus páginas de Internet los plazos de respuesta a las solicitudes que reciban. Los rechazos deben estar fundados y motivados;
+
+II. Tratándose de facultades concurrentes, cuando el Ejecutivo Federal por conducto de la Dependencia competente y las entidades federativas decidan suscribir convenios de coordinación en términos de la Ley de Planeación, éstos deben celebrarse en condiciones de oportunidad y certeza para beneficio de la población objetivo. Dichos convenios especificarán como mínimo: los programas a que se refieren, las zonas dentro de la respectiva entidad federativa a que se destinarán los recursos, las aportaciones monetarias de cada parte y su calendarización.
+
+El Gobierno Federal y los gobiernos estatales, previa opinión de los Comités de Planeación para el Desarrollo o su equivalente, y dentro del marco del Convenio de Coordinación respectivo, decidirán a qué orden de gobierno corresponde la ejecución de los programas de acuerdo con la naturaleza de cada uno de ellos y a las características de las zonas donde se van a aplicar los programas, para lograr el mejor desarrollo e impacto social de los mismos, y
+
+III. Brindar asesoría a los municipios y demarcaciones territoriales de la Ciudad de México para la integración de los expedientes técnicos que, en su caso, requiera el programa, especialmente a los que se encuentran en condiciones de muy alta y alta marginación.
+
+###### Artículo 30.
+
+Las Dependencias y Entidades que tengan a su cargo programas presupuestarios por medio de los cuales se otorguen subsidios en beneficio directo a la población deben enviar a la Secretaría, en los términos y plazos que ésta disponga en las Disposiciones específicas para el reporte trimestral de información de los programas presupuestarios que entregan subsidios en beneficio social directo a la población, información sobre sus poblaciones potencial, objetivo y atendida, así como de los avances en el ejercicio de dichos recursos, con desagregación geográfica a nivel municipal o demarcación territorial. La información referida en el párrafo que antecede, se publicará en el Portal de Transparencia Presupuestaria.
+
+Las Dependencias y Entidades serán responsables de la información que se entregue a la Secretaría.
+
+### CAPÍTULO II
+
+###### Artículo 32.
+
+El Programa Especial Concurrente para el Desarrollo Rural Sustentable se sujetará a los siguientes lineamientos para la distribución del gasto aprobado en este Presupuesto de Egresos:
+
+I. Debe abarcar políticas públicas orientadas a incrementar la producción, la productividad y la competitividad agroalimentaria y pesquera del país, a la generación del empleo rural y para las actividades pesqueras y acuícolas, a promover en la población campesina y de la pesca el bienestar, así como su incorporación al desarrollo nacional, dando prioridad a las zonas de alta y muy alta marginación y a poblaciones y comunidades indígenas y afromexicanas.
+
+El presupuesto para el campo procurará fomentar el abasto de alimentos y productos básicos y estratégicos a la población, promoviendo su acceso a los grupos sociales menos favorecidos y dando prioridad a la producción nacional, a que se refiere el artículo 178 de la Ley de Desarrollo Rural Sustentable.
+
+El presupuesto dirigido al campo debe tener las siguientes características:
+
+a) Mejorar e incrementar la productividad, cerrando las brechas existentes;
+
+b) Potenciar la contribución de la agricultura al desarrollo de los territorios rurales y al bienestar de las personas que los habitan;
+
+c) Mejorar la capacidad de la agricultura para adaptarse al cambio climático, mitigar la emisión de gases de efecto invernadero y mejorar la utilización y preservación de los recursos naturales y la biodiversidad;
+
+d) Incrementar la contribución de la agricultura nacional a la seguridad alimentaria de todas las personas;
+
+e) Que permita la complementariedad de acciones con las demás Dependencias y Entidades;
+
+f) Que permita el desarrollo de proyectos productivos por etapas;
+
+g) Que se oriente prioritariamente hacia las pequeñas unidades de producción y al apoyo de los pequeños productores;
+
+h) Una agricultura más incluyente, pero con políticas diferenciadas para cada una de las regiones del país, al tiempo que se oriente prioritariamente hacia las pequeñas unidades de producción y al apoyo de los pequeños productores, e
+
+i) Que procuren la progresividad en el otorgamiento de los incentivos;
+
+II. Los ramos administrativos que participan en el Programa Especial Concurrente para el Desarrollo Rural Sustentable continuarán con el sistema de rendición de cuentas sobre el destino de los recursos fiscales de los programas concurrentes, el cual incorpora los siguientes elementos: región geográfica, entidad federativa, municipio y localidad, actividad productiva, eslabón de la cadena de valor, concepto de apoyo, monto fiscal y fecha de otorgamiento, y la estratificación correspondiente;
+
+III. Establecer como prioridades, entre otras, las siguientes:
+
+a) Incrementar la productividad, la inocuidad y el ingreso de los productores, apoyar en el combate a la pobreza, contribuyendo con la agricultura de autoconsumo a las familias pobres que habitan principalmente en las zonas rurales, en un marco de sustentabilidad, generación de oportunidades y que contribuya a la seguridad alimentaria;
+
+b) Se procurará que los recursos destinados a competitividad, se orienten principalmente a las pequeñas unidades de producción, que se dedican a los productos básicos y estratégicos a que se refiere el artículo 179 de la Ley de Desarrollo Rural Sustentable y otros productos básicos y estratégicos.
+
+Dichos recursos se direccionarán una vez que se cuente con la estratificación de zonas y regiones productivas del país dando prioridad a las pequeñas unidades de producción;
+
+c) Apoyar a los productores para que apliquen las innovaciones y desarrollos tecnológicos disponibles y fortalezcan su vinculación con los centros de investigación, así como la transferencia de tecnología del país, mediante servicios de extensionismo que aseguren la incorporación del pequeño productor a las innovaciones tecnológicas que redunden en la mejora de la productividad;
+
+d) Ampliar la oferta de bienes y servicios públicos, particularmente en materia de infraestructura, investigación y desarrollo, capacitación, extensionismo rural e información;
+
+e) Contribuir a adaptar las actividades agropecuarias, acuícolas y pesqueras mediante acciones para prevenir, mitigar y atender los impactos del fenómeno del cambio climático, así como la oportuna prevención, administración y atención a riesgos climáticos, sanitarios y de mercado, considerando los potenciales productivos de cada región;
+
+f) Contribuir a la sustentabilidad de las actividades agropecuarias, pesqueras y acuícolas en lo referente al aprovechamiento responsable del agua y la tierra, y
+
+g) Contribuir a la sustentabilidad de las actividades agropecuarias, pesqueras y acuícolas en lo referente a los recursos genéticos;
+
+IV. Propiciar la competitividad de los productos básicos y estratégicos, a que se refiere el artículo 179 de la Ley de Desarrollo Rural Sustentable, así como estrategias especiales para otros sistemas producto de alto impacto social;
+
+V. Coadyuvar al impulso de la producción primaria, de los productos básicos y estratégicos señalados en la Ley de Desarrollo Rural Sustentable, entre otros, para el aprovisionamiento de insumos básicos y apoyo a paquetes tecnológicos;
+
+VI. Impulsar la producción y productividad en el sector mediante el fomento de proyectos integrales que consideren la tecnificación del riego y el uso de insumos (semillas, fertilizantes, biofertilizantes y prácticas agrícolas sustentables, entre otros);
+
+VII. Los recursos destinados a fortalecer el medio ambiente buscarán que se beneficie prioritariamente a los territorios ejidales, comunales y privados de los pequeños productores;
+
+VIII. Se fortalecerán las obras de tecnificación de riego para aumentar la producción y productividad, dando prioridad a las pequeñas unidades de producción, y
+
+IX. Las autoridades fiscales pondrán a disposición de las Dependencias y Entidades encargadas del otorgamiento de subsidios y estímulos, herramientas tecnológicas que permitan la consulta sobre el cumplimiento de la obligación contenida dentro del artículo 32-D del Código Fiscal de la Federación. En las reglas de operación de los programas federales del Ramo 08 Agricultura y Desarrollo Rural, se debe establecer que la consulta referida la hará directamente la Secretaría de Agricultura y Desarrollo Rural y no el beneficiario.
+
+###### Artículo 33.
+
+La ejecución y operación de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social deben sujetarse a lo establecido por la Ley General de Salud, la Ley de Coordinación Fiscal, a las disposiciones previstas en el Transitorio Décimo Cuarto de la Ley de Ingresos, así como, en su caso, a las disposiciones de carácter general o específicas que emitan la Secretaría de Salud, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), o las Entidades competentes, en el ámbito de sus respectivas atribuciones.
+
+###### Artículo 34.
+
+La Secretaría de Educación Pública será responsable de emitir las reglas de operación de sus programas sujetos a las mismas, de acuerdo con lo dispuesto en el artículo 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las cuales contendrán, entre otras reglas, las siguientes:
+
+I. Los recursos destinados a programas educativos deben ser ejercidos exclusivamente por las autoridades educativas, tanto federales como estatales;
+
+III. En ningún caso podrán existir nóminas o partidas confidenciales. Los recursos públicos otorgados a las instituciones educativas que sean usados para el pago de nóminas deben ejercerse en el marco de la transparencia y rendición de cuentas, por lo que los beneficiarios de dichos programas deben reportar a la Secretaría de Educación Pública los montos pagados a cada trabajador.
+
+La Secretaría de Educación Pública, antes del 31 de enero, emitirá las convocatorias para el concurso de los diversos fondos aprobados, respecto de los programas a que se refiere este artículo, con la excepción de los que estén sujetos a los calendarios escolares específicos.
+
+###### Artículo 35.
+
+Los programas destinados a educación media superior y superior, deben contener las siguientes disposiciones:
+
+IV. Las instituciones públicas federales y estatales de educación media superior y superior pondrán a disposición de la sociedad la información sobre la aplicación y uso de los recursos recibidos a través de este Presupuesto de Egresos. En el marco de la legislación en materia de transparencia y acceso a la información pública y, en su caso, la ley local respectiva, las instituciones incorporarán en su página de Internet la información relacionada con los proyectos y los montos autorizados. En particular, el registro, la asignación, los avances técnicos, académicos o ambos, y el seguimiento del ejercicio de recursos, manteniendo la información actualizada con periodicidad trimestral.
+
+La información a que se refiere este artículo, debe estar disponible de manera permanente y actualizada en la página de Internet de la Secretaría de Educación Pública, la cual debe enviar dicha información a la Secretaría de manera trimestral.
+
+De conformidad con los Lineamientos Operativos que sean emitidos por la Secretaría de Educación Pública, el otorgamiento de subsidios para organismos descentralizados estatales, conforme al programa presupuestario correspondiente, estará condicionado a que las entidades federativas aporten la parte que les corresponda con cargo a sus presupuestos autorizados.
+
+## TÍTULO QUINTO
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 36.
+
+Con el objeto de impulsar la cultura del pago por suministro de agua en bloque en los Distritos de Riego y mejorar la infraestructura de riego, el Ejecutivo Federal, a través de la Comisión Nacional del Agua, devolverá a los Distritos de Riego que estén al corriente en sus pagos, un importe de recursos equivalente a las cuotas que se generen en el presente ejercicio fiscal, los cuales se destinarán en un 65 por ciento a la conservación y mantenimiento de los canales y drenes menores; 25 por ciento a la conservación de la red mayor, canales y drenes principales; 8 por ciento al mantenimiento de las obras de cabeza, y 2 por ciento a la supervisión y gasto de operación.
+
+###### Artículo 37.
+
+Los programas de la Secretaría de Educación Pública, destinados a fomentar la expansión de la oferta educativa Primera Infancia, Media Superior y Superior, establecerán mecanismos que permitan disminuir el rezago en el índice de cobertura en aquellas entidades federativas que estén por debajo del promedio nacional. Los recursos federales que reciban las universidades e instituciones públicas de educación media superior y superior, incluyendo subsidios, estarán sujetos a la fiscalización que realice la Auditoría en términos de lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación, y se rendirá cuenta sobre el ejercicio de los mismos en los términos de las disposiciones aplicables, detallando la información siguiente:
+
+I. Los programas a los que se destinen los recursos y el cumplimiento de las metas correspondientes;
+
+II. El costo de nómina del personal docente, no docente, administrativo y manual, identificando las distintas categorías y los tabuladores de remuneraciones por puesto, responsabilidad laboral y su lugar de ubicación;
+
+III. Desglose del gasto corriente destinado a su operación;
+
+IV. Los estados de situación financiera, analítico, así como el de origen y aplicación de recursos públicos federales, y
+
+V. La información sobre matrícula de inicio y fin de cada ciclo escolar.
+
+De conformidad con la Ley General de Contabilidad Gubernamental, así como con los lineamientos que emita en la materia el Consejo Nacional de Armonización Contable, las universidades e instituciones públicas de educación media superior y superior llevarán el registro y control de los activos, pasivos, ingresos, gastos, patrimonio y pasivos contingentes.
+
+Las autoridades correspondientes para aplicar dichos recursos verificarán que el personal de cada una de las universidades e instituciones de educación media superior y superior públicas, cumplan con sus obligaciones en términos de los contratos laborales correspondientes realizándose, en su caso, la compulsa entre las nóminas y los registros de asistencia.
+
+La Secretaría de Educación Pública enviará la información a que se refiere este artículo a la Secretaría dentro de los 10 días hábiles posteriores a que aquélla la reciba.
+
+###### Artículo 38.
+
+Las sanciones económicas que, en su caso, aplique el Instituto Nacional Electoral derivado del régimen disciplinario de los partidos políticos durante 2026, serán concentradas a la Tesorería de la Federación dentro de los 30 días naturales siguientes a la fecha en que se realice el pago o se haga efectivo el descuento. Los recursos obtenidos por este concepto serán destinados, en los términos de las disposiciones aplicables, al Ramo 38 para la Secretaría de Ciencia, Humanidades, Tecnología e Innovación y deben destinarse a actividades sustantivas; dichos recursos no podrán ejercerse en servicios personales y su ejercicio y destino debe reportarse en los Informes trimestrales. Con el propósito de que la Secretaría de Ciencia, Humanidades, Tecnología e Innovación cuente con los recursos presupuestarios necesarios para cumplir con los objetivos de los programas S190 Becas de posgrado y apoyos a la calidad y S191 Sistema Nacional de Investigadores, previo a incrementar el número de la población objetivo elegible de los programas antes referidos, la citada dependencia debe obtener el dictamen de suficiencia presupuestaria que emita la Secretaría.
+
+###### Artículo 39.
+
+El Ejecutivo Federal, por conducto de la Secretaría, con la participación que corresponda al Consejo Nacional de Armonización Contable, establecerá los términos y condiciones para la distribución del fondo previsto en este Presupuesto de Egresos, para el otorgamiento de subsidios a las entidades federativas y a los municipios para el equipamiento de las áreas responsables de la contabilidad gubernamental, así como para la modernización de tecnologías de la información y comunicaciones, que promuevan y faciliten el cumplimiento de la armonización contable de los tres órdenes de gobierno conforme a lo dispuesto en la Ley General de Contabilidad Gubernamental. Las disposiciones a que se refiere el párrafo anterior deben ser publicadas en el Diario Oficial de la Federación, a más tardar dentro del primer trimestre del año.
+
+El Consejo Nacional de Armonización Contable, a más tardar el último día hábil de diciembre, debe publicar en su página de Internet un reporte especial sobre la aplicación de los recursos del fondo a que hace referencia el presente artículo, así como:
+
+I. El monto de los subsidios otorgados a cada una de las entidades federativas y municipios;
+
+II. El tipo y alcances de los subsidios federales otorgados, y
+
+III. Los avances y resultados reportados por las entidades federativas y municipios.
+
+Transitorios
+
+Primero. El presente Decreto entra en vigor el 1 de enero de 2026.
+
+Segundo. Las disposiciones administrativas emitidas con base en lo dispuesto en los Decretos de Presupuesto de Egresos de la Federación de ejercicios fiscales anteriores, que se encuentren vigentes hasta antes de la entrada en vigor del presente Decreto, continuarán aplicándose en lo que no se opongan a este, hasta en tanto no se emitan nuevas disposiciones administrativas que las reformen o abroguen.
+
+Tercero. Se faculta al Ejecutivo Federal, a través de la Secretaría, para que emita las autorizaciones que correspondan, en el ámbito presupuestario, a efecto de que las Dependencias y Entidades realicen las adecuaciones o los traspasos de recursos humanos, financieros y materiales, incluyendo bienes muebles e inmuebles, que sean necesarios como consecuencia de reformas jurídicas que tengan por objeto la creación o modificación de la estructura administrativa de cualquier Dependencia, Entidad, o cambio de sector en los casos que corresponda, reportando las mismas en los Informes trimestrales.
+
+Con la finalidad de garantizar y dar continuidad a las acciones de gobierno, las Dependencias, Entidades y unidades administrativas que se encuentren en proceso de readscripción o modificación de sus programas, podrán continuar su operación en la estructura organizacional y presupuestaria en la que se encuentren a la entrada en vigor del presente Decreto, hasta en tanto no se realice la transferencia de recursos humanos, financieros y materiales o se modifiquen sus programas.
+
+Las Dependencias y Entidades deben realizar las adecuaciones que sean necesarias para transferir los recursos fiscales y las estructuras orgánicas y ocupacionales respecto de las unidades responsables que cambiaron de adscripción o se encuentren en proceso de readscripción como consecuencia de reformas jurídicas.
+
+Cuarto. Los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos correspondientes a las entidades federativas que no hayan suscrito los convenios a los que hace referencia el artículo 42 de la Ley de Coordinación Fiscal deben ser transferidos del Ramo General 33 Aportaciones Federales para Entidades Federativas y Municipios al Ramo 11 Educación Pública, a fin de que a través de este se transfieran para esos mismos fines a dichas entidades federativas. Lo anterior, hasta en tanto sean suscritos los convenios de coordinación respectivos.
+
+Quinto. Las entidades federativas deben notificar y realizar la entrega de los recursos federales que correspondan a los municipios o demarcaciones territoriales de la Ciudad de México, en los plazos y términos que establecen las leyes federales aplicables, el Presupuesto de Egresos, y en el caso de programas de subsidios o gasto reasignado, conforme a lo previsto en los convenios que celebren con las Dependencias y Entidades que les transfieran recursos federales.
+
+Las entidades federativas no podrán establecer requisitos adicionales ni realizar acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos públicos que por su conducto se transfieran a los municipios y, en su caso, a las demarcaciones territoriales de la Ciudad de México.
+
+Las entidades federativas, por conducto de sus secretarías de finanzas o sus equivalentes, deben hacer pública la información relativa a la fecha y el monto de las transferencias de recursos federales que deriven de los proyectos aprobados en el Presupuesto de Egresos, realizadas a sus municipios o en las demarcaciones territoriales de la Ciudad de México, a través de sus respectivas páginas oficiales de Internet, dentro de los 10 días naturales siguientes a la fecha en que los recursos correspondientes hayan sido efectivamente depositados en las cuentas bancarias específicas de los municipios o de las demarcaciones territoriales, incluyendo el número de identificación de la transferencia.
+
+El incumplimiento a lo previsto en el presente artículo, incluyendo el destino de los recursos correspondientes, será sancionado por las autoridades competentes en los términos de la legislación aplicable, sin perjuicio de las responsabilidades de carácter civil, administrativo o penal que, en su caso, se determinen.
+
+Los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México serán responsables de la correcta integración de la información técnica, así como del destino, ejercicio, registro y comprobación de los recursos que les transfieran las entidades federativas respectivas, conforme a lo señalado en este artículo.
+
+Sexto. Para el ejercicio 2026, en cumplimiento a lo establecido en las disposiciones jurídicas aplicables, la Secretaría de Bienestar publicará los Lineamientos del Fondo de Aportaciones para la Infraestructura Social, a más tardar el último día del mes de febrero, los cuales podrán determinar que hasta un 60 por ciento de los recursos que de dicho fondo correspondan a las entidades federativas y los municipios o a las demarcaciones territoriales de la Ciudad de México, se destinen a la realización de acciones de carácter complementario en materia de obras de urbanización, pavimentación, caminos rurales, puentes, obras de reconstrucción y carreteras, conforme a los criterios que se establezcan en los referidos lineamientos.
+
+Séptimo. Los ejecutores de gasto deben cubrir con cargo a sus presupuestos autorizados y de conformidad con las disposiciones aplicables, los compromisos u obligaciones de cualquier índole que se deriven de las determinaciones o las resoluciones emitidas por autoridad jurisdiccional competente. Para efectos de lo anterior, los ejecutores de gasto deben ajustar sus presupuestos para el cumplimiento de sus obligaciones, sin que ello implique ampliaciones líquidas de recursos a los mismos, por parte de la Secretaría.
+
+Octavo. Las Dependencias y Entidades llevarán a cabo las acciones que correspondan para que la entrega de los subsidios y apoyos a la población objetivo se realice de manera directa a través de la Tesorería de la Federación, en forma electrónica mediante transferencia de recursos para su depósito en las cuentas bancarias de los mismos, salvo que se esté en alguno de los supuestos de excepción regulados en la Ley de Tesorería de la Federación, su Reglamento y demás disposiciones aplicables, o bien, que la Secretaría autorice que se efectúe de manera distinta. Lo anterior, sin perjuicio de lo señalado en el artículo 28, último párrafo, del presente Decreto.
+
+Noveno. Las Dependencias y Entidades que reciban recursos para llevar a cabo acciones preventivas y/o para la atención de los desastres naturales, continuarán siendo las responsables de destinar y ejercer los mismos para los fines para los cuales fueron autorizados; dar el seguimiento a la ejecución de las obras y acciones que estas contraten y al cumplimiento del calendario de ejecución en los términos y plazos establecidos, y contar con la documentación justificativa y comprobatoria de las erogaciones. Asimismo, en la contratación de las obras de reconstrucción, los ejecutores de gasto deben prever el establecimiento de medidas de mitigación que reduzcan su vulnerabilidad ante futuras amenazas.
+
+Décimo. Los recursos del fondo a que se refiere el artículo 64 de la Ley General de Educación Superior, así como los del fondo referido en el Décimo Séptimo Transitorio de la Ley General de Educación, este último en correlación con los diversos 113, fracción XXI, de la Ley General de Educación y 107 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros se podrán administrar mediante los fideicomisos públicos federales sin estructura que respectivamente se constituyan para tales efectos, en términos de las disposiciones jurídicas aplicables.
+
+Décimo Primero. Se faculta a la Secretaría para que, en su caso, autorice las adecuaciones presupuestarias que correspondan para dar suficiencia adicional de recursos a la asignación global de servicios personales aprobada en este Presupuesto de Egresos, siempre y cuando tengan como objetivo realizar erogaciones de servicios personales para coadyuvar al cumplimiento de los objetivos de los programas a cargo de las Dependencias y Entidades.
+
+Décimo Segundo. Los municipios podrán incorporar a fideicomisos estatales los recursos que reciban de los fondos de aportaciones previstos en la Ley de Coordinación Fiscal, siempre y cuando los mismos se destinen a los fines previstos en dicha ley y den cumplimiento a lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, los lineamientos que regulen el fondo de que se trate y demás disposiciones aplicables.
+
+Décimo Tercero. Las entidades federativas podrán incrementar su techo de gasto en servicios personales para efectos de lo establecido en los artículos 10, fracción I, y 13, fracción V, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, con base en los registros de ingresos que realicen, respecto de los recursos destinados a cubrir las medidas salariales y económicas correspondientes al Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, a que se refieren los artículos 26-A, fracción VIII, y 49, segundo párrafo, parte final de la Ley de Coordinación Fiscal; asimismo, podrán hacerlo respecto de los recursos de libre disposición que las entidades federativas destinen para el pago de la nómina de las plazas de la entidad federativa del sector educativo.
+
+Décimo Cuarto. Para efectos de la fracción III del artículo 45 de la Ley de Coordinación Fiscal, las aportaciones federales con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, también podrán destinarse para la adquisición de equipos de radiocomunicación, vehículos y equipos terrestres para todas las instituciones de seguridad pública de las entidades federativas y municipios.
+
+Las entidades federativas podrán destinar los recursos netos que se obtengan de los mecanismos a que se refiere el artículo 52, párrafo primero, de la Ley de Coordinación Fiscal para la adquisición de los equipos y vehículos señalados en el párrafo anterior que requieran todas las instituciones de seguridad pública de las entidades federativas y municipios, para la ejecución de programas de seguridad pública y nacional, en términos de los convenios respectivos.
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, en coordinación con las instancias competentes de las entidades federativas, realizará las acciones necesarias para dar cumplimiento a este artículo transitorio.
+
+Décimo Quinto. Los recursos del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, cuyo destino sea la adquisición de armamento y municiones, se considerarán devengados en el ejercicio en que se realice el requerimiento correspondiente a la Secretaría de la Defensa Nacional, siempre que realicen el pago respectivo antes del 31 de marzo del año siguiente, sin perjuicio del momento de la entrega material de dichos bienes.
+
+Décimo Sexto. Los gastos de operación del Fondo de Aportaciones para los Servicios de Salud que, conforme a la comunicación que emita la Federación, reciban las entidades federativas para ser destinados o estar asociados a servicios personales, se deberán clasificar en el capítulo de gasto correspondiente a los servicios personales.
+
+Para efectos de lo establecido en los artículos 10, fracción I, último párrafo, y 13, fracción V, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se podrá incrementar el techo de gasto en servicios personales de la entidad federativa respectiva siempre y cuando derive de la clasificación de los recursos federales etiquetados a que se refiere el párrafo anterior.
+
+La disposición prevista en este transitorio también será aplicable para los recursos del Fondo de Aportaciones para los Servicios de Salud que se entreguen al Fondo de Salud para el Bienestar, en los casos en que las entidades federativas concurran con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social, en términos de lo señalado en el Título Tercero Bis de la Ley General de Salud.
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+ANEXO 2. GASTO CORRIENTE ESTRUCTURAL (pesos)     Gasto Corriente Estructural3,868,319,904,030
+
+ANEXO 3. GASTOS OBLIGATORIOS (millones de pesos)Previsiones para Gastos Obligatorios6,702,281.0 Previsiones para Gastos Obligatorios con Pensiones y Jubilaciones8,406,440.2
+
+ANEXO 4. EROGACIONES PLURIANUALES PARA PROYECTOS DE INFRAESTRUCTURA (millones de pesos)En el presente ejercicio fiscal no se comprometerán proyectos de inversión en infraestructura a los que se refiere el artículo 74, fracción IV, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos.0
+
+ANEXO 5. COMPROMISOS PLURIANUALES (millones de pesos)        MONTO         Dependencias y Entidades (Recursos Fiscales)     202,724.92Entidades de Control Directo      65,416.36Empresas Productivas del Estado       234,186.35Poder Judicial       1,340.18Instituto Nacional Electoral      565.71Comisión Nacional de los Derechos Humanos     22.75Fiscalía General de la República      1,350.89
+
+ANEXO 5.A. PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADA    Con base en la fracción VI del artículo 3o. del Proyecto de Presupuesto de Egresos de la Federación, el monto máximo anual de gasto programable para los proyectos de asociación público-privada asciende a la cantidad de $70,109.7 millones de pesos.PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADASECRETARÍA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTESLibramiento de la Carretera La Galarza-AmatitlanesPrograma Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Querétaro - San Luís Potosí)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Coatzacoalcos - Villahermosa)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Matehuala - Saltillo)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Pirámides-Tulancingo-Pachuca)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Saltillo Monterrey Nuevo Laredo)Programa Asociación Público Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Texcoco -Zacatepec)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Arriaga-Tapachula)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Campeche - Merida)Programa Asociación Publico Privada de Conservación Plurianual de La Red Federal de Carreteras (APP San Luis Potosí - Matehuala)Programa Asociación Publico Privada de Conservación Plurianual de la Red Federal de Carreteras (APP Tampico - Ciudad Victoria)SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANAPrevención y Reinserción SocialComplejo Penitenciario Federal PapantlaINSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADONuevo Hospital General en la Delegación Regional Sur de la Ciudad de México
+
+ANEXO 6. PROYECTOS DE INFRAESTRUCTURA PRODUCTIVA DE LARGO PLAZO (pesos)6.A. Monto autorizado para nuevos proyectos    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  32,472,695,502032,472,695,5026.B. Monto autorizado para proyectos aprobados en ejercicios fiscales anteriores de inversión directa e inversión condicionada    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  550,757,616,026254,246,503,933805,004,119,9596.C. Monto autorizado para proyectos aprobados para ejercicios fiscales anteriores y para nuevos proyectos    Inversión DirectaInversión CondicionadaSumaComisión Federal de Electricidad  583,230,311,528254,246,503,933837,476,815,4616.D. Monto comprometido de proyectos de inversión directa autorizados en ejercicios fiscales anteriores    Monto AutorizadoMonto ContratadoMonto ComprometidoComisión Federal de Electricidad  572,935,503,296488,046,696,244150,605,363,293
+
+6.E. Monto máximo de compromiso de proyectos de inversión condicionada autorizados en ejercicios fiscales anteriores    Monto AutorizadoMonto ContratadoMonto ComprometidoComisión Federal de Electricidad  250,304,961,433173,326,969,872124,371,595,6376.F. Previsiones para pago de amortizaciones y costo financiero de proyectos de inversión directaInversión Física (Amortizaciones)Costo FinancieroSumaComisión Federal de Electricidad  13,090,972,7665,491,482,00318,582,454,769Nota: para estos anexos los totales pueden no sumar respecto al total debido al redondeo.
+
+ANEXO 7. PREVISIONES SALARIALES Y ECONÓMICAS (pesos)Incremento a las percepcionesCreación de plazasOtras medidas de carácter económico, laboral y contingenteTotalIIIIIIRamos Administrativos02Oficina de la Presidencia de la República21,931,155 0 2,672,433 24,603,588 04Gobernación169,801,953 0 27,258,061 197,060,014 05Relaciones Exteriores56,513,748 0 9,743,184 66,256,932 06Hacienda y Crédito Público717,868,222 0 111,979,660 829,847,882 07Defensa Nacional3,150,868,672 0 1,302,499,262 4,453,367,934 08Agricultura y Desarrollo Rural345,646,884 0 62,372,685 408,019,569 09Infraestructura, Comunicaciones y Transportes304,399,400 0 67,533,894 371,933,294 10Economía94,727,889 0 20,899,991 115,627,880 11Educación Pública5,064,046,919 0 3,129,976,055 8,194,022,974 12Salud1,350,941,579 0 160,738,780 1,511,680,359 13Marina810,605,963 0 378,515,382 1,189,121,345 14Trabajo y Previsión Social84,795,519 0 19,671,810 104,467,329 15Desarrollo Agrario, Territorial y Urbano81,158,104 0 19,525,871 100,683,975 16Medio Ambiente y Recursos Naturales297,774,691 0 93,507,981 391,282,672 18Energía74,674,813 0 3,568,413 78,243,226 20Bienestar70,139,887 0 19,064,041 89,203,928 21Turismo31,228,968 0 7,328,066 38,557,034 27Anticorrupción y Buen Gobierno81,358,887 0 6,238,003 87,596,890 31Tribunales Agrarios27,476,499 0 5,425,623 32,902,122 36Seguridad y Protección Ciudadana1,139,524,638 0 212,550,643 1,352,075,281 37Consejería Jurídica del Ejecutivo Federal5,833,809 0 345,459 6,179,268 38Ciencia, Humanidades, Tecnología e Innovación284,037,302 0 110,251,949 394,289,251 47Entidades no Sectorizadas78,111,339 0 16,908,784 95,020,123 48Cultura260,672,941 0 15,984,835 276,657,776 54Mujeres7,332,763 0 443,147 7,775,910 55Agencia de Transformación Digital y Telecomunicaciones77,238,690 0 79,045,714 156,284,404 56Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar3,729,822,968 0 552,452,140 4,282,275,108 Ramos Generales23Provisiones Salariales y Económicas18,846,643,362 3,027,710,863 6,506,163,102 28,380,517,327 */ Para efectos de control presupuestario y eficiencia del gasto, la administración de estos recursos se considera en el Ramo General 23 Provisiones Salariales y Económicas.
+
+ANEXO 8. COSTO FINANCIERO DE LA DEUDA Y OTRAS EROGACIONES (pesos)MONTOCosto financiero de la deuda del Gobierno Federal incluido en el Ramo General 24 Deuda Pública1,297,681,062,923Costo financiero de la deuda de las empresas incluidas en el Anexo 1.E de este Decreto238,838,797,003Erogaciones incluidas en el Ramo General 29 Erogaciones para las Operaciones y Programas de Saneamiento Financiero0Erogaciones incluidas en el Ramo General 34 Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca35,553,400,900Obligaciones incurridas a través de los programas de apoyo a deudores900Obligaciones surgidas de los programas de apoyo a ahorradores35,553,400,000Total1,572,073,260,826
+
+ANEXO 9. MONTOS MÁXIMOS DE ADJUDICACIÓN MEDIANTE PROCEDIMIENTO DE ADJUDICACIÓN DIRECTA Y DE INVITACIÓN A CUANDO MENOS TRES PERSONAS, ESTABLECIDOS EN MILES DE PESOS, SIN CONSIDERAR EL IMPUESTO AL VALOR AGREGADOAdquisiciones, Arrendamientos y ServiciosPresupuesto autorizado de adquisiciones, arrendamientos y serviciosMonto máximo total de cada operación que podrá adjudicarse directamenteMonto máximo total de cada operación que podrá adjudicarse mediante invitación a cuando menos tres personasMayor deHasta15,0003092,27215,00030,0003432,64930,00050,0003762,98350,000100,0003913,264100,000150,0004924,351150,000250,0005545,165250,000350,0006246,138350,000450,0006867,068450,000600,0006977,551600,000750,0007778,880750,0001,000,0007909,4611,000,0001,250,00090211,5471,250,0001,500,0001,02313,7411,500,000-1,14516,086Obras Públicas y Servicios Relacionados con las MismasPresupuesto autorizado para realizar obras públicas y servicios relacionados con las mismasMonto máximo total de cada obra pública que podrá adjudicarse directamenteMonto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse directamenteMonto máximo total de cada obra pública que podrá adjudicarse mediante invitación a cuando menos tres personasMonto máximo total de cada servicio relacionado con obra pública que podrá adjudicarse mediante invitación a cuando menos tres personasMayor deHasta15,0004992233,7762,86815,00030,0005902944,4693,24030,00050,0006783575,0793,98150,000100,0007534035,6374,528100,000150,0001,0274927,6425,649150,000250,0001,1895379,0246,620250,000350,0001,38668310,5227,621350,000450,0001,58878112,1168,656450,000600,0001,69988812,96810,148600,000750,0001,9931,06615,25812,082750,0001,000,0002,1281,15216,27612,9811,000,0001,250,0002,5911,34019,93215,2581,250,0001,500,0003,0831,57423,61717,8191,500,0002,700,0003,4711,76026,76619,9662,700,000-3,8931,97528,91322,372
+
+ANEXO 10. EROGACIONES PARA LA IMPLEMENTACIÓN DEL DESARROLLO INTEGRAL, INTERCULTURAL Y SOSTENIBLE DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal234,782,496,92904 Gobernación6,410,667 P005Conducción de la política interior2,726,816 P009Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz2,911,264 P010Política para la protección y defensa de los derechos humanos103,722 P061Política para promover la protección de los derechos humanos y prevenir la discriminación668,86605 Relaciones Exteriores253,186,624 P015Articulación de la política exterior253,186,62406 Hacienda y Crédito Público64,622,494 F001Inclusión financiera para el bienestar64,622,49408 Agricultura y Desarrollo Rural17,554,819,483 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario670,995,394 S052Precio de Garantía y Leche para el Bienestar718,769,511 S053Programa de Abasto Rural950,189,357 S290Acopio para el Bienestar978,554,174 S292Fertilizantes para el Bienestar5,600,000,000 S293Producción para el Bienestar8,197,520,211 S304Pesca y acuacultura sustentable438,790,83709 Infraestructura, Comunicaciones y Transportes3,120,939,009 U004Caminos artesanales3,120,939,00910 Economía65,314,827 P024Articulación de las políticas y programas del sector Economía65,314,82711 Educación Pública76,839,646,422 B008Producción y distribución de libros y materiales educativos3,563,438 E022Servicios de Educación Media Superior5,149,403,109 E023Servicios de Educación Superior y Posgrado12,377,542 E024Servicios de desarrollo Cultural48,260,220 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos9,483,611 E026Servicios de producción y distribución de libros y materiales culturales1,655,942 E029Servicios de educación para Adultos (INEA)97,498,957 E030Servicios de educación Básica Comunitaria832,683,513 E084Servicios de mantenimiento e infraestructura física educativa23,829,583 P026Diseño de la Política Educativa y Regulación de los Servicios121,605,887 S072Beca Universal de Educación Básica Rita Cetina36,228,080,000 S243Programa de Becas Elisa Acuña180,254,082 S247Programa para el Desarrollo Profesional Docente2,799,905 S282La Escuela es Nuestra6,572,800,000 S283Jóvenes Escribiendo el Futuro1,265,000,000 S311Beca Universal de Educación Media Superior Benito Juárez4,255,900,000 U006Subsidios para organismos descentralizados estatales21,635,282,275 U079Expansión de la Educación Media Superior y Superior64,385,838 U083Universidades para el Bienestar Benito Juárez García154,500,000 U312Expansión de la Educación Inicial180,282,52012 Salud7,714,776,217 E031Servicios de atención a la salud6,479,471,990 E032Servicios de atención a la salud mental y prevención de las adicciones18,344,034 E034Servicios de protección y asistencia social integral422,537,527 P027Rectoría del Sistema Nacional de Salud15,480,941 P028Política de prevención y control de enfermedades171,591,703 P029Política en Salud Materna Sexual y Reproductiva56,523,628 S039Programa de Atención a Personas con Discapacidad532,864 U012Fortalecimiento de los Servicios Estatales de Salud550,293,53015 Desarrollo Agrario, Territorial y Urbano4,652,420,953 E042Servicios de ordenamiento y procuración de justicia agraria256,091,884 P033Articulación de la política nacional de vivienda15,935,531 P034Política de ordenamiento agrario, territorial y urbano84,658,542 S177Programa de Vivienda Social 4,233,940,607 S213Programa para Regularizar asentamientos Humanos16,867,131 S273Programa Territorial para el Bienestar2,750,000 U001Regulación y registro de actos jurídicos agrarios23,823,578 U003Programa de modernización de los registros públicos de la propiedad y catastros18,353,67916 Medio Ambiente y Recursos Naturales13,498,900,217 E045Servicios de operación y suministro hídrico769,733,139 V002Protección Forestal712,946,807 V003Conservación y Manejo de Áreas Naturales Protegidas51,592,236 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales506,374,361 G015Gestión integral y sustentable del agua1,459,565,814 G016Regulación, gestión y supervisión socioambiental81,714,063 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento6,332,385,238 P035Articulación de Políticas Hídricas11,082,085 P036Articulación de la Política Ambiental y de Recursos Naturales281,095 S046Programa de Conservación para el Desarrollo Sostenible50,276,108 U074Agua Potable, Drenaje y Tratamiento1,763,140,208 U217Programa de Apoyo a la Infraestructura Hidroagrícola1,256,413,647 S219Desarrollo Forestal Sustentable para el Bienestar439,280,043 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias64,115,37318 Energía181,453,540 P037Articulación de la política energética181,453,54020 Bienestar87,546,326,901 I017Fondo de Aportaciones para la Infraestructura Social de los Pueblos y Comunidades Indígenas y Afromexicanas13,000,000,000 P041Articulación de la Política de Bienestar6,884,727 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S176Pensión para el Bienestar de las Personas Adultas Mayores45,005,109,958 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente1,697,140,497 S287Sembrando Vida23,460,000,000 S316Pensión Mujeres Bienestar879,000,000 S317Salud Casa por Casa186,191,72021 Turismo1,971,043 F025Fomento y promoción de destinos turísticos1,971,04327 Anticorrupción y Buen Gobierno373,829 P044Política anticorrupción373,82935 Comisión Nacional de los Derechos Humanos16,221,521 E022Protección y defensa de los Derechos Humanos de las personas indígenas y afrodescendientes privadas de la libertad.16,221,52138 Ciencia, Humanidades, Tecnología e Innovación13,208,345 S190Becas de posgrado y apoyos a la calidad13,208,34547 Intituto Nacional de los Pueblos Indígenas4,859,624,155 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena2,047,666,754 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,37048 Cultura1,067,416,695 E062Servicios de desarrollo cultural844,805,247 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos14,311,982 E065Servicios de protección de los derechos tutelados por la Ley Federal del Derecho de Autor1,729,113 P056Política de educación y cultura indígena1,661,707 S057Programas del fondo nacional de fomento a las artesanías (FONART)40,252,968 S268Programas de apoyos a la cultura31,104,830 S303Programa Nacional de Becas Artísticas y Culturales2,904,151 S320Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales130,646,696Instituto Mexicano del Seguro Social37,683,352 E031Servicios de atención a la salud37,683,352Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado8,695,807,770 E031Servicios de atención a la salud7,946,458,762 E072Servicios de prevención y control de enfermedades749,349,00854 Mujeres52,680,521 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas10,281,386 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres4,721,218 S319Programa de Atención Integral para el Bienestar de las Mujeres37,677,91755 Agencia de Transformación Digital y Telecomunicaciones12,358,902 G023Supervisión y regulación de telecomunicaciones, radiodifusión y espectro radioeléctrico7,192,412 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones5,166,49056 IMSS-Bienestar8,526,333,441 U200Fortalecimiento a la atención médica247,571,918 U013Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral8,278,761,523
+
+ANEXO 11. PROGRAMA ESPECIAL CONCURRENTE PARA EL DESARROLLO RURAL SUSTENTABLE (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal525,634,094,43405 Relaciones Exteriores69,914,476 P014Articulación de la política de Cooperación internacional para el desarrollo69,914,47606 Hacienda y Crédito Público129,244,988 F001Inclusión financiera para el bienestar129,244,98808 Agricultura y Desarrollo Rural71,423,461,819 B005Producción y comercialización de Biológicos Veterinarios15,165,384 B006Adquisición, industrialización y comercialización de productos agroalimentarios3,072,004,443 M001Actividades de apoyo administrativo2,172,647,017 O001Actividades de apoyo a la función pública y buen gobierno34,734,303 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario6,778,160,225 P021Aplicación de la Política Agropecuaria4,576,591,780 S052Precio de Garantía y Leche para el Bienestar1,539,475,552 S053Programa de Abasto Rural2,664,081,596 S290Acopio para el Bienestar13,000,000,000 S292Fertilizantes para el Bienestar18,200,000,000 S293Producción para el Bienestar17,472,000,000 S304Pesca y acuacultura sustentable1,898,601,51909 Infraestructura, Comunicaciones y Transportes1,560,469,505 U004Caminos artesanales1,560,469,50510 Economía9,212,603 F019Promoción del comercio exterior y atracción de inversión extranjera directa6,749,208 P023Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión2,463,39611 Educación Pública69,103,163,692 E022Servicios de Educación Media Superior11,260,807,170 E023Servicios de Educación Superior y Posgrado1,105,269,981 E028Servicios de normalización y certificación en competencias laborales194,852,714 E029Servicios de educación para Adultos (INEA)81,249,131 E030Servicios de educación Básica Comunitaria3,220,541,969 S072Beca Universal de Educación Básica Rita Cetina38,815,800,000 S243Programa de Becas Elisa Acuña307,727 S283Jóvenes Escribiendo el Futuro3,162,500,000 S311Beca Universal de Educación Media Superior Benito Juárez10,639,750,000 U312Expansión de la Educación Inicial90,141,260 U079Expansión de la Educación Media Superior y Superior85,847,784 U083Universidades para el Bienestar Benito Juárez García309,000,000 Q007Investigación en ciencia, humanidades, tecnología e innovación137,095,95612 Salud10,092,436,193 E031Servicios de atención a la salud9,719,207,986 E034Servicios de protección y asistencia social integral211,268,764 K006Infraestructura integral para el derecho a la salud4,919,725 P027Rectoría del Sistema Nacional de Salud7,506,311 P029Política en Salud Materna Sexual y Reproductiva149,533,40815 Desarrollo Agrario, Territorial y Urbano368,855,001 E042Servicios de ordenamiento y procuración de justicia agraria105,137,962 P034Política de ordenamiento agrario, territorial y urbano9,862,526 U001Regulación y registro de actos jurídicos agrarios226,323,994 U003Programa de modernización de los registros públicos de la propiedad y catastros27,530,51916 Medio Ambiente y Recursos Naturales14,280,014,530 E045Servicios de operación y suministro hídrico1,154,599,707 Q011Investigación científica y tecnológica79,906,272 V002Protección Forestal1,277,923,519 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales347,265,403 G015Gestión integral y sustentable del agua2,189,348,720 G016Regulación, gestión y supervisión socioambiental122,571,093 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento5,376,553,503 K026Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones1,525,601,330 P035Articulación de Políticas Hídricas16,623,126 S046Programa de Conservación para el Desarrollo Sostenible75,414,160 U074Agua Potable, Drenaje y Tratamiento1,015,893,846 U217Programa de Apoyo a la Infraestructura Hidroagrícola579,883,221 S219Desarrollo Forestal Sustentable para el Bienestar422,257,572 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias96,173,05818 Energía327,476,521 P037Articulación de la política energética272,180,310 P039Articulación de la política nuclear y eléctrica55,296,21120 Bienestar194,104,285,762 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S176Pensión para el Bienestar de las Personas Adultas Mayores145,028,285,762 S287Sembrando Vida40,664,000,000 S316Pensión Mujeres Bienestar4,500,000,000 S317Salud Casa por Casa600,000,00021 Turismo5,786,391 F025Fomento y promoción de destinos turísticos2,675,258 G020Regulación y certificación de estándares de calidad turística3,111,13331 Tribunales Agrarios11,795 E052Servicios de resolución de asuntos relativos a conflictos y controversias por la posesión y usufructo de la tierra11,79533 Aportaciones Federales para Entidades Federativas y Municipios95,139,696,685 I004FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal68,246,396,117 I005FORTAMUN15,734,005,828 I006FAM Asistencia Social 11,159,294,73947 Instituto Nacional de los Pueblos Indígenas4,124,023,833 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena1,312,066,432 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,370Instituto Mexicano del Seguro Social 39,215,361,364 E070Servicios de guardería4,957,768,875 E031Servicios de atención a la salud34,257,592,48954 Mujeres 234,059,053 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres77,256,288 S319Programa de Atención Integral para el Bienestar de las Mujeres156,802,76455 Agencia de Transformación Digital y Telecomunicaciones 12,371,869 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones12,371,86956 IMSS-Bienestar25,434,248,356 E031Servicios de atención a la salud25,434,248,356
+
+ANEXO 11.1 DISTRIBUCIÓN DE RECURSOS POR ENTIDAD FEDERATIVA (millones de pesos)Entidad       Sanidad e Inocuidad AgroalimentariaAguascalientes       26.8Baja California       36.0Baja California Sur      34.4Campeche       60.4Coahuila       54.8Colima       32.0Chiapas       119.9Chihuahua       81.1Ciudad de México      4.3Durango       62.3Guanajuato       73.1Guerrero       74.9Hidalgo       58.7Jalisco       116.2Estado de México       52.1Michoacán       129.2Morelos       42.0Nayarit       74.3Nuevo León       54.9Oaxaca       58.4Puebla       75.6Querétaro       30.6Quintana Roo       34.4San Luis Potosí       64.8Sinaloa       241.4Sonora       102.5Tabasco       64.2Tamaulipas       91.6Tlaxcala       15.6Veracruz       117.7Yucatán       58.8Zacatecas       50.9TOTAL        2,193.7
+
+ANEXO 12. PROGRAMA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal160,843,802,92105 Relaciones Exteriores5,300,000 P014Articulación de la política de Cooperación internacional para el desarrollo5,300,00006 Hacienda y Crédito Público168,358,721 P018Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior168,358,72107 Defensa Nacional93,522,819 Q003Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior93,522,81908 Agricultura y Desarrollo Rural6,845,329,213 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario6,845,329,21309 Infraestructura, Comunicaciones y Transportes204,509,088 Q005Investigación, estudios, proyectos y capacitación en materia de transporte204,509,08810 Economía1,688,404,416 E021Servicios integrales para la protección de los derechos de los consumidores274,005,123 F019Promoción del comercio exterior y atracción de inversión extranjera directa80,000 F020Promoción, regulación e información geológica para el desarrollo de la actividad minera 990,498,924 G010Supervisión, vigilancia y actualización del marco normativo y operativo para las unidades económicas.2,875,233 G011Vigilancia del cumplimiento de la normatividad y fortalecimiento de la certeza jurídica entre proveedores y consumidores7,218,706 K001Infraestructura en materia gubernamental48,147,770 M001Actividades de apoyo administrativo144,733,091 O001Actividades de apoyo a la función pública y buen gobierno9,451,619 P023Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión649,460 Q006Desarrollo tecnológico y prestación de servicios metrológicos para la competitividad210,744,49011 Educación Pública106,495,062,047 E023Servicios de Educación Superior y Posgrado31,085,342,750 Q007Investigación en ciencia, humanidades, tecnología e innovación20,083,868,591 S243Programa de Becas Elisa Acuña46,650,759 U006Subsidios para organismos descentralizados estatales55,279,199,94812 Salud8,989,283,078 Q008Investigación, desarrollo tecnológico y formación en salud8,989,283,07813 Marina14,700,000 Q008Investigación y desarrollo tecnológico, producción y mantenimiento de equipos navales y sus accesorios14,700,00016 Medio Ambiente y Recursos Naturales363,658,767 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde169,262,782 Q011Investigación científica y tecnológica193,868,537 P036Articulación de la Política Ambiental y de Recursos Naturales527,44818 Energía1,795,344,497 Q013Investigación y desarrollo en materia nuclear y eléctrica1,795,344,49721 Turismo17,288,309 P043Articulación de la política de turismo17,288,30938 Ciencia, Humanidades, Tecnología e Innovación32,809,683,937 F027Programas nacionales estratégicos de ciencia, tecnología y vinculación con el sector social, público y privado 691,805,925 Q007Investigación en ciencia, humanidades, tecnología e innovación6,448,964,425 P051Diseño y evaluación de políticas en ciencia, tecnología e innovación1,619,376,492 S190Becas de posgrado y apoyos a la calidad14,879,522,046 S191Sistema Nacional de Investigadoras e Investigadores9,170,015,04948 Cultura11,640,615 Q007Investigación en ciencia, humanidades, tecnología e innovación11,640,615Instituto Mexicano del Seguro Social889,121,494 Q008Investigación, desarrollo tecnológico y formación en salud889,121,49455 Agencia de Transformación Digital y Telecomunicaciones39,997,577 M001Investigación, estudios y proyectos en comunicaciones3,527,828 Q014Investigación científica, desarrollo e innovación36,469,74956 IMSS-Bienestar412,598,342 Q008Investigación, desarrollo tecnológico y formación en salud412,598,342
+
+ANEXO 13. EROGACIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal599,145,377,64401 Poder Legislativo6,000,000 R001Actividades derivadas del trabajo legislativo6,000,00004 Gobernación41,202,245 P006Articulación de la política en materia de comunicación social del Gobierno de México137,423 P007Planeación demográfica del país3,104,324 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes37,626,064 P061Política para promover la protección de los derechos humanos y prevenir la discriminación334,43305 Relaciones Exteriores2,579,953 E005Atención y servicios integrales de protección y asistencia consular2,579,95306 Hacienda y Crédito Público8,523,575 F001Inclusión financiera para el bienestar4,523,575 M001Actividades de apoyo administrativo4,000,00007 Defensa Nacional845,498,070 A016Programa de igualdad entre mujeres y hombres SDN101,362,785 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28508 Agricultura y Desarrollo Rural17,630,802,183 S052Precio de Garantía y Leche para el Bienestar873,118,874 S053Programa de Abasto Rural1,625,740,883 S290Acopio para el Bienestar3,296,200,934 S292Fertilizantes para el Bienestar5,249,999,992 S293Producción para el Bienestar5,368,319,926 S304Programa de Fomento a la Agricultura, Ganadería, Pesca y Acuicultura433,421,575 S318Comercio Justo784,000,00009 Infraestructura, Comunicaciones y Transportes1,755,316 M001Actividades de apoyo administrativo1,755,31610 Economía100,000 M001Actividades de apoyo administrativo100,00011 Educación Pública182,797,561,648 E022Servicios de Educación Media Superior 4,237,592,842 E023Servicios de Educación Superior y Posgrado14,940,026,456 E030Educación Inicial y Básica Comunitaria4,224,310,581 M001Políticas de igualdad de género en el sector educativo (en 2026 se convierte en M001)1,188,356,754 S072Beca Universal de Educación Básica Rita Cetina103,508,800,000 S243Programa de Becas Elisa Acuña820,171,723 S247Programa para el Desarrollo Profesional Docente19,347,861 S282La Escuela es Nuestra25,488,580,000 S283Jóvenes Escribiendo el Futuro6,325,000,000 S311Beca Universal de Educación Media Superior Benito Juárez21,279,500,000 U270Programa Nacional de Inglés765,875,43112 Salud5,639,703,839 E031Servicios de atención a la salud866,408,538 E032Servicios de atención a la salud mental y prevención de las adicciones30,574,080 E033Servicios de vacunación 101,610,780 P028Política de prevención y control de enfermedades2,370,777,793 P029Política en Salud Materna Sexual y Reproductiva2,270,332,64813 Marina6,860,000 A023Programa para el fortalecimiento de derechos humanos e igualdad de género6,860,00014 Trabajo y Previsión Social14,996,239,410 E040Servicios de impartición y procuración de justicia laboral8,074,832 P031Implementación de la política laboral151,644 P063Articulación de Políticas Integrales de Juventud12,595,235 S280Jóvenes Construyendo el Futuro14,975,417,70015 Desarrollo Agrario, Territorial y Urbano19,968,000,000 S177Programa de Vivienda Social 19,968,000,00016 Medio Ambiente y Recursos Naturales171,877,021 P036Articulación de la Política Ambiental y de Recursos Naturales277,776 S046Programa de Conservación para el Desarrollo Sostenible83,743,236 S219Desarrollo Forestal Sustentable para el Bienestar87,856,00918 Energía2,796,304 M001Actividades de apoyo Administrativo2,796,30420 Bienestar300,210,861,691 E048Servicios a grupos con necesidades especiales3,119,520 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,089,450,000 S176Pensión para el Bienestar de las Personas Adultas Mayores261,776,055,800 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente11,871,295,043 S287Sembrando Vida7,820,000,000 S316Pensión Mujeres Bienestar14,550,000,000 S317Salud Casa por Casa1,100,941,32821 Turismo3,925,872 P043Articulación de la política de turismo3,925,87222 Instituto Nacional Electoral62,554,364 M001Actividades de apoyo administrativo1,804,791 R003Capacitación y educación para el ejercicio democrático de la ciudadanía29,908,085 R008Dirección, soporte jurídico electoral y apoyo logístico23,910,818 R009Otorgamiento de prerrogativas a partidos políticos, fiscalización de sus recursos y administración de los tiempos del estado en radio y televisión3,511,602 R010Vinculación con la sociedad1,161,270 R011Tecnologías de información y comunicaciones 2,257,79831 Tribunales Agrarios17,916 E052Resolución de asuntos relativos a conflictos y controversias por uso y usufructo de la tierra17,91632 Tribunal Federal de Justicia Administrativa8,666,631 E001Impartición de Justicia Fiscal y Administrativa6,828,775 M001Actividades de apoyo administrativo1,837,85635 Comisión Nacional de los Derechos Humanos42,951,075 E013Realizar la promoción y observancia en el monitoreo, seguimiento y evaluación del impacto de la política nacional en materia de igualdad entre mujeres y hombres37,797,951 M002Actividades relacionadas a la Igualdad de Género Institucional.5,153,12436 Seguridad y Protección Ciudadana40,705 P047Articulación de la política en materia de seguridad nacional y pública40,70538 Ciencia, Humanidades, Tecnología e Innovación12,269,969,553 S190Becas de posgrado y apoyos a la calidad6,699,098,579 S191Sistema Nacional de Investigadoras e Investigadores5,570,870,97440 Instituto Nacional de Estadística y Geografía120,149,206 P002Producción y difusión de información estadística y geográfica120,149,20647 Entidades no Sectorizadas1,419,114,05247 Archivo General de la Nación8,222,286 P053Política en materia de gestión documental1,114,979 E057Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México7,107,30847 Comisión Ejecutiva de Atención a Víctimas7,778,199 E060Servicios de atención a víctimas7,778,19947 Instituto Nacional de los Pueblos Indígenas1,403,113,567 S178Programa de Apoyo a la Educación Indígena1,312,066,432 S249Programa para el Bienestar Integral de los Pueblos Indígenas91,047,13548 Cultura1,879,899 E062Servicios de desarrollo cultural545,519 S303Programa Nacional de Becas Artísticas y Culturales1,334,38049 Fiscalía General de la República80,932,497 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos79,532,497 E010Realizar investigación académica en el marco de las ciencias penales200,000 E011Investigar, perseguir y prevenir delitos del orden electoral1,200,000Instituto Mexicano del Seguro Social32,871,593,284 E031Servicios de atención a la salud10,055,847,270 E070Servicios de guardería17,062,045,828 E072Servicios de prevención y control de enfermedades 5,753,700,186Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado3,599,268,539 E031Servicios de Atención a la Salud1,501,110 E072Servicios de prevención y control de enfermedades7,493 E073Servicios de atención a personas con discapacidad5,016 E074Servicios de estancias de bienestar y desarrollo infantil3,597,754,920Petróleos Mexicanos13,700,000 M001Actividades de apoyo Administrativo13,700,000Comisión Federal de Electricidad6,887,753 E077Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica.1,385,253 E078Servicios de operación y mantenimiento de la Red Nacional de Transmisión1,421,000 E079Servicios de operación y mantenimiento de la infraestructura del proceso de distribución de energía eléctrica 1,900,000 E080Servicios de comercialización de energía eléctrica y productos asociados650,000 F030Coordinación, operación y recarga de la Coordinación Corporativa Nuclear265,000 F032Operación de infraestructura aplicable a telecomunicaciones 151,000 M001Actividades de Apoyo Administrativo 979,000 R037Administración de los contratos de producción independiente de energía CFE Generación V136,50054 Mujeres2,134,622,797 M001Actividades de apoyo administrativo321,203,366 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres171,680,641 S319Programa de Atención Integral para el Bienestar de las Mujeres784,956,605 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas856,782,18555 Agencia de Transformación Digital y Telecomunicaciones2,093,882 M001Actividades de apoyo administrativo796,799 P060Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones1,297,08356 IMSS-Bienestar4,176,648,365 E031Servicios de atención a la salud4,069,479,736 U200Fortalecimiento a la atención médica107,168,629
+
+ANEXO 14. RECURSOS PARA LA ATENCIÓN A GRUPOS VULNERABLES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal687,764,961,25504 Gobernación174,891,359 E001Servicios de atención a refugiados en el país10,862,853 E002Servicios migratorios10,312,270 E004Servicios de registro e identificación de población12,264,291 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes7,678,789 P061Política para promover la protección de los derechos humanos y prevenir la discriminación133,773,15605 Relaciones Exteriores70,868 E005Atención y servicios integrales de protección y asistencia consular70,86806 Hacienda y Crédito Público185,364,562 F001Inclusión financiera para el bienestar129,244,988 P018Diseño y conducción de la política de gasto público56,119,57407 Defensa Nacional62,655,795 A013Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E62,655,79511 Educación Pública63,662,200,600 E029Servicios de educación para Adultos (INEA)324,996,524 S072Beca Universal de Educación Básica Rita Cetina25,877,200,000 S282La Escuela es Nuestra24,700,000,000 S283Jóvenes Escribiendo el Futuro2,530,000,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez8,511,800,000 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)803,741,731 U312Expansión de la Educación Inicial883,384,34712 Salud3,850,268,905 E031Servicios de atención a la salud223,769,895 E032Servicios de atención a la salud mental y prevención de las adicciones152,704,871 E033Servicios de vacunación 474,816,730 E034Servicios de protección y asistencia social integral1,146,746,948 P027Rectoría del Sistema Nacional de Salud429,180,118 P028Política de prevención y control de enfermedades209,690,234 P029Política en Salud Materna Sexual y Reproductiva1,142,483,055 Q008Investigación, desarrollo tecnológico y formación en salud26,471,759 S039Programa de Atención a Personas con Discapacidad44,405,29614 Trabajo y Previsión Social15,975,271,880 P031Implementación de la política laboral5,281,118 P063Articulación de Políticas Integrales de Juventud12,941,595 S043Programa de Apoyo al Empleo (PAE)32,375,006 S280Jóvenes Construyendo el Futuro15,924,674,16115 Desarrollo Agrario, Territorial y Urbano9,926,378,895 E042Servicios de ordenamiento y procuración de justicia agraria76,378,895 S177Programa de Vivienda Social 9,600,000,000 S273Programa Territorial para el Bienestar250,000,00016 Medio Ambiente y Recursos Naturales270,266,549 S046Programa de Conservación para el Desarrollo Sostenible16,758,703 S219Desarrollo Forestal Sustentable para el Bienestar97,617,788 V002Protección Forestal134,518,266 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias21,371,79220 Bienestar557,048,339,770 E048Servicios a grupos con necesidades especiales31,195,196 P042Política de desarrollo integral de las personas con discapacidad33,272,187 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,096,699,350 S176Pensión para el Bienestar de las Personas Adultas Mayores471,802,883,244 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente28,035,302,128 S287Sembrando Vida39,100,000,000 S316Pensión Mujeres Bienestar14,700,000,000 S317Salud Casa por Casa200,000,000 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural48,987,66638 Ciencia, Humanidades, Tecnología e Innovación1,000,000 S190Becas de posgrado y apoyos a la calidad1,000,00047 Entidades no Sectorizadas4,859,624,15547 Instituto Nacional de los Pueblos Indígenas4,859,624,155 P052Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas1,107,973,031 S178Programa de Apoyo a la Educación Indígena2,047,666,754 S249Programa para el Bienestar Integral de los Pueblos Indígenas1,703,984,37048 Cultura101,243,983 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos14,311,982 P056Política de educación y cultura indígena66,468,297 S268Programas de apoyos a la cultura20,463,704Instituto Mexicano del Seguro Social17,062,045,828 E070Servicios de guardería17,062,045,828Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado2,891,379,406 E031Servicios de atención a la salud1,625,926,051 E072Servicios de prevención y control de enfermedades749,349,008 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil359,775,492 K006Infraestructura integral para el derecho a la salud155,989,94054 Mujeres534,572,415 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres17,168,064 S319Programa de Atención Integral para el Bienestar de las Mujeres431,726,133 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas85,678,21956 IMSS-Bienestar11,159,386,284 E031Servicios de atención a la salud11,115,952,615 U200Fortalecimiento a la atención médica43,433,669
+
+ANEXO 15. ESTRATEGIA NACIONAL DE TRANSICIÓN ENERGÉTICA (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal17,868,387,47407 Defensa Nacional744,135,285 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28509 Infraestructura, Comunicaciones y Transportes8,778,152,000 K019Infraestructura ferroviaria para transporte de carga y pasajeros8,778,152,00013 Marina86,089 E038Servicios de operación de la infraestructura ferroviaria86,08916 Medio Ambiente y Recursos Naturales411,268,667 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde158,843 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales2,484,102 G016Regulación, gestión y supervisión socioambiental408,570,311 P035Articulación de Políticas Hídricas55,41118 Energía1,807,781,155 Q013Investigación y desarrollo en materia nuclear y eléctrica667,847 G019Regulación y supervisión de actividades nucleares, radiológicas y de eficiencia energética 97,253 P037Articulación de la política energética74,749,371 P039Articulación de la política nuclear y eléctrica82,132,109 P038Articulación de la política de hidrocarburos1,363,493,169 P040Planeacion y desarrollo de la Cadena de Valor de LitioMx4,291,800 Q013Investigación y desarrollo en materia nuclear y eléctrica282,349,605Petróleos Mexicanos1,318,488,080 K025Infraestructura económica de hidrocarburos1,318,488,080Comisión Federal de Electricidad4,808,476,198 K024Infraestructura económica de electricidad4,808,476,198
+
+ANEXO 16. RECURSOS PARA LA ADAPTACIÓN Y MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal212,569,745,53005 Relaciones Exteriores4,714,013 P014Articulación de la política de Cooperación internacional para el desarrollo4,714,01306 Hacienda y Crédito Público122,011,692 P018Diseño y conducción de la política de gasto público122,011,69207 Defensa Nacional88,839,777,115 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,285 E017Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares3,422,210,314 K003Infraestructura en materia de seguridad nacional40,000,000,000 A001Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional44,673,431,51608 Agricultura y Desarrollo Rural888,447,362 P021Aplicación de la Política Agropecuaria37,471,400 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario13,626,500 S263Sanidad e Inocuidad Agroalimentaria116,750,689 S293Producción para el Bienestar539,999,993 S304Pesca y Acuacultura Sustentables180,598,77909 Infraestructura, Comunicaciones y Transportes46,003,185,042 Q005Investigación, estudios, proyectos y capacitación en materia de transporte3,056,939 P022Articulación de la política de comunicaciones y transportes77,405 K019Infraestructura ferroviaria para transporte de carga y pasajeros46,000,000,000 G006Supervisión, inspección y verificación del transporte terrestre y aéreo50,69911 Educación Pública2,201,341,059 E022Servicios de Educación Media Superior60,054,451 E023Servicios de Educación Superior y Posgrado1,038,993,272 Q007Investigación en ciencia, humanidades, tecnología e innovación1,080,049,198 U006Subsidios para organismos descentralizados estatales22,244,13812 Salud1,501,262 P027Rectoría del Sistema Nacional de Salud1,501,26213 Marina13,005,275 A018Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales13,005,27516 Medio Ambiente y Recursos Naturales7,887,365,409 S219Desarrollo Forestal Sustentable para el Bienestar976,177,872 P036Articulación de la Política Ambiental y de Recursos Naturales4,629,571 V002Protección Forestal1,345,182,652 V003Conservación y Manejo de Áreas Naturales Protegidas97,343,840 S046Programa de Conservación para el Desarrollo Sostenible167,587,023 V005Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias128,230,745 P035Articulación de Políticas Hídricas8,311,564 G016Regulación, gestión y supervisión socioambiental61,285,548 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde23,826,236 Q011Investigación científica y tecnológica26,635,425 K027Infraestructura en materia de agua potable, alcantarillado y saneamiento1,792,184,502 U217Programa de Apoyo a la Infraestructura Hidroagrícola289,941,612 U074Agua Potable, Drenaje y Tratamiento338,631,283 E045Servicios de operación y suministro hídrico577,299,855 G014Inspección, vigilancia y regulación del medio ambiente y recursos naturales955,423,320 G015Gestión integral y sustentable del agua1,094,674,36118 Energía27,215,871,596 P039Articulación de la política nuclear y eléctrica18,432,070 Q013Investigación y desarrollo en materia nuclear y eléctrica555,261,185 P037Articulación de la política energética272,180,310 P038Articulación de la política de hidrocarburos26,369,998,03120 Bienestar39,100,000,000 S287Sembrando Vida39,100,000,00021 Turismo499,775 F025Fomento y promoción de destinos turísticos499,77538 Ciencia, Humanidades, Tecnología e Innovación163,218,420 S190Becas de posgrado y apoyos a la calidad163,218,42047 Instituto Nacional de los Pueblos Indígenas33,143,784 S249Programa para el Bienestar Integral de los Pueblos Indígenas33,143,78454 Mujeres95,663,725 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres17,168,064 S319Programa de Atención Integral para el Bienestar de las Mujeres78,495,661
+
+ANEXO 17. EROGACIONES PARA EL DESARROLLO DE LOS JÓVENES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal735,177,831,84604 Gobernación130,264,952 E001Servicios de atención a refugiados en el país6,517,712 E002Servicios migratorios123,747,24006 Hacienda y Crédito Público77,546,993 F001Inclusión financiera para el bienestar77,546,99307 Defensa Nacional45,451,107,627 A001Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional44,673,431,516 A013Fortalecimiento de las capacidades de auxilio a la población civil mediante el Plan DN-III-E62,655,795 A017Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo715,020,31608 Agricultura y Desarrollo Rural4,896,104,837 Q004Desarrollo y aplicación de programas y proyectos educativos y de investigación en el sector agroalimentario2,888,911,730 S053Programa de Abasto Rural144,733,538 S290Acopio para el Bienestar775,838,830 S292Fertilizantes para el Bienestar525,000,003 S293Producción para el Bienestar561,620,73711 Educación Pública394,143,579,181 B008Producción y distribución de libros y materiales educativos1,057,614,644 E022Servicios de Educación Media Superior51,359,389,544 E023Servicios de Educación Superior y Posgrado67,780,304,112 E024Servicios de desarrollo Cultural4,826,113,300 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos219,328,440 E026Servicios de producción y distribución de libros y materiales culturales9,936,599 E027Servicios de atención al deporte40,331,188 E028Servicios de normalización y certificación en competencias laborales2,082,249,588 E029Servicios de educación para Adultos (INEA)284,371,958 E030Servicios de educación Básica Comunitaria687,609,443 E084Servicios de mantenimiento e infraestructura física educativa110,119,923 Q007Investigación en ciencia, humanidades, tecnología e innovación8,552,208,997 S072Beca Universal de Educación Básica Rita Cetina75,043,880,000 S243Programa de Becas Elisa Acuña1,739,209,727 S247Programa para el Desarrollo Profesional Docente209,929,723 S269Programa de Cultura Física y Deporte1,527,570,187 S282La Escuela es Nuestra14,840,265,062 S283Jóvenes Escribiendo el Futuro10,752,500,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez41,282,230,000 U006Subsidios para organismos descentralizados estatales108,736,605,942 U079Expansión de la Educación Media Superior y Superior858,477,837 U080Apoyos a centros y organizaciones de educación599,028,622 U270Programa Nacional de Inglés447,161,849 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)189,600,613 U300La Normal es Nuestra822,379,127 U312Expansión de la Educación Inicial54,084,75612 Salud1,356,858,150 E032Servicios de atención a la salud mental y prevención de las adicciones921,231,225 E034Servicios de protección y asistencia social integral253,522,516 P029Política en Salud Materna Sexual y Reproductiva179,440,090 S039Programa de Atención a Personas con Discapacidad2,664,31813 Marina617,138,375 A020Sistema Educativo Naval609,829,147 A022Administración y Operación de Capitanías de Puerto y Asuntos Marítimos7,309,22814 Trabajo y Previsión Social24,569,793,191 E040Servicios de impartición y procuración de justicia laboral50,869,285 P063Articulación de Políticas Integrales de Juventud19,425,004 S280Jóvenes Construyendo el Futuro24,499,498,90215 Desarrollo Agrario, Territorial y Urbano6,317,917,466 S177Programa de Vivienda Social 6,317,917,46619 Aportaciones a Seguridad Social8,316,990,000 T001Seguro de Enfermedad y Maternidad8,316,990,00020 Bienestar3,644,403,160 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras198,720,000 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente2,175,960,000 S287Sembrando Vida1,239,145,657 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural30,577,50325 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos16,648,830,582 E085Fortalecimiento de la educación básica en la Ciudad de México15,183,685,300 E086Fortalecimiento de la educación normal en la Ciudad de México1,368,853,388 U001Becas para la población atendida por el sector educativo96,291,89433 Aportaciones Federales para Entidades Federativas y Municipios152,930,116,663 I007FAM Infraestructura Educativa Básica4,105,341,223 I008FAM Infraestructura Educativa Media Superior y Superior 730,958,784 I009FAETA Educación Tecnológica 6,858,303,461 I010FAETA Educación de Adultos 592,970,957 I013FONE Servicios Personales 128,794,484,002 I014FONE Otros de Gasto Corriente 3,287,914,537 I015FONE Gasto de Operación 4,978,255,268 I016FONE Fondo de Compensación 3,581,888,43147 Entidades no Sectorizadas105,883,74647 Archivo General de la Nación15,226,456 E057Servicios de preservación y divulgación del patrimonio documental que resguarda el Archivo General de la Nación y de la memoria histórica de México13,161,681 P053Política en materia de gestión documental2,064,77547 Instituto Nacional de los Pueblos Indígenas90,657,290 S178Programa de Apoyo a la Educación Indígena90,657,290Instituto Mexicano del Seguro Social58,877,397,313 E031Servicios de atención a la salud58,100,450,897 E072Servicios de prevención y control de enfermedades 776,946,416Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado6,407,102,590 E031Servicios de Atención a la Salud5,297,639,175 E072Servicios de prevención y control de enfermedades749,349,008 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil359,775,49254 Mujeres753,843,043 M001Actividades de apoyo administrativo321,203,366 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres171,680,641 S319Programa de Atención Integral para el Bienestar de las Mujeres188,389,585 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas72,569,45156 IMSS-Bienestar9,932,953,978 E031Servicios de atención a la salud5,086,849,672 U200Fortalecimiento a la atención médica4,846,104,306
+
+ANEXO 18. RECURSOS PARA LA ATENCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal1,100,142,094,03304 Gobernación267,921,099 E001Servicios de atención a refugiados en el país12,113,414 E002Servicios migratorios103,122,700 E004Servicios de registro e identificación de población18,911,537 P007Planeación demográfica del país11,939,709 P010Política para la protección y defensa de los derechos humanos44,376,987 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes76,787,886 P061Política para promover la protección de los derechos humanos y prevenir la discriminación668,86605 Relaciones Exteriores3,246,390 E005Atención y servicios integrales de protección y asistencia consular3,246,39006 Hacienda y Crédito Público422,114,131 F001Inclusión financiera para el bienestar422,114,13107 Defensa Nacional1,459,155,601 A017Programa de Becas para los hijos del Personal de las Fuerzas Armadas en activo715,020,316 E015Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya744,135,28508 Agricultura y Desarrollo Rural1,830,229,971 Q004Precio de Garantía y Leche para el Bienestar964,891,198 S052Programa de Abasto Rural865,338,77411 Educación Pública297,603,119,677 B008Producción y distribución de libros y materiales educativos3,011,593,525 E022Servicios de Educación Media Superior51,359,389,544 E023Servicios de Educación Superior y Posgrado4,965,062 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos69,856,611 E026Servicios de producción y distribución de libros y materiales culturales8,434,913 E028Servicios de normalización y certificación en competencias laborales902,817,574 E029Servicios de educación para Adultos (INEA)178,748,088 E030Servicios de educación Básica Comunitaria4,954,679,953 E084Servicios de mantenimiento e infraestructura física educativa219,865,312 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S247Programa para el Desarrollo Profesional Docente121,405,901 S269Programa de Cultura Física y Deporte258,792,215 S282La Escuela es Nuestra25,556,316,050 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 S311Beca Universal de Educación Media Superior Benito Juárez36,175,150,000 U006Subsidios para organismos descentralizados estatales32,484,672,754 U080Apoyos a centros y organizaciones de educación10,074,643,409 U270Programa Nacional de Inglés765,875,431 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)626,506,375 U312Expansión de la Educación Inicial1,412,328,96112 Salud10,834,679,728 E031Servicios de atención a la salud4,780,327,878 E032Servicios de atención a la salud mental y prevención de las adicciones841,635,347 E033Servicios de vacunación 1,876,475,716 E034Servicios de protección y asistencia social integral63,380,629 P028Política de prevención y control de enfermedades480,131,410 P029Política en Salud Materna Sexual y Reproductiva1,748,746,303 Q008Investigación, desarrollo tecnológico y formación en salud1,043,316,366 S039Programa de Atención a Personas con Discapacidad666,07914 Trabajo y Previsión Social30,747,905 P031Implementación de la política laboral226,334 P063Articulación de Políticas Integrales de Juventud30,521,57116 Medio Ambiente y Recursos Naturales23,826,236 Q010Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde23,826,23620 Bienestar13,258,907,209 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,127,521,600 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente9,849,845,600 S317Salud Casa por Casa200,000,000 U011Programa para el Bienestar de las Personas en Emergencia Social o Natural81,540,00922 Instituto Nacional Electoral7,810,728 R003Capacitación y educación para el ejercicio democrático de la ciudadanía2,248,964 R011Tecnologías de información y comunicaciones5,561,76425 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos48,615,406,375 E085Fortalecimiento de la educación básica en la Ciudad de México48,448,261,966 U001Becas para la población atendida por el sector educativo167,144,40933 Aportaciones Federales para Entidades Federativas y Municipios598,673,278,854 I002FASSA Fondo de Aportaciones para los Servicios de Salud 16,010,396,395 I006FAM Asistencia Social 14,095,293,371 I007FAM Infraestructura Educativa Básica15,021,372,934 I008FAM Infraestructura Educativa Media Superior y Superior1,030,278,416 I009FAETA Educación Tecnológica6,059,817,648 I010FAETA Educación de Adultos59,297,096 I013FONE Servicios Personales500,367,070,716 I014FONE Otros de Gasto Corriente12,773,560,750 I015FONE Gasto de Operación19,340,541,058 I016FONE Fondo de Compensación13,915,650,47035 Comisión Nacional de los Derechos Humanos9,783,561 E011Atender asuntos relacionados con las niñas, niños y adolescentes y las familias9,783,56136 Seguridad y Protección Ciudadana1,237,103,189 E055Servicios de administración del Sistema Federal Penitenciario1,223,276,102 N005Coordinación del Sistema Nacional de Protección Civil y prevención de amenazas y desastres derivadas de alertas de riesgos11,551,895 P047Articulación de la política en materia de seguridad nacional y pública2,275,19247 Entidades no Sectorizadas1,312,066,432 S178Programa de Apoyo a la Educación Indígena1,312,066,43249 Fiscalía General de la República2,300,000 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos2,300,000Instituto Mexicano del Seguro Social88,096,540,898 E031Servicios de atención a la salud64,073,796,070 E070Servicios de guardería17,062,045,828 E071Servicios por prestaciones sociales285,223,470 E072Servicios de prevención y control de enfermedades6,675,475,53054 Mujeres185,874,297 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres61,805,031 S319Programa de Atención Integral para el Bienestar de las Mujeres39,247,830 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas84,821,43656 IMSS-Bienestar36,267,981,751 E031Servicios de atención a la salud11,080,854,200 U013Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral24,085,138,403 U200Fortalecimiento a la atención médica1,101,989,148
+
+ANEXO 19. ACCIONES PARA LA PREVENCIÓN DEL DELITO, COMBATE A LAS ADICCIONES, RESCATE DE ESPACIOS PÚBLICOS Y PROMOCIÓN DE PROYECTOS PRODUCTIVOS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal465,729,818,27204 Gobernación86,517,062 P005Conducción de la política interior386,089 P006Articulación de la política en materia de comunicación social del Gobierno de México4,580,777 P009Conducción a la política del Gobierno Federal para la democracia participativa, religiosa y fomento a la construcción de paz3,799,221 P010Política para la protección y defensa de los derechos humanos963,089 P011Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes76,787,88607 Defensa Nacional28,333,285,691 A003Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad Pública5,374,267,434 A008Derechos humanos78,339,878 A011Sistema educativo militar2,800,938,512 A015Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas19,978,377,082 A016Programa de igualdad entre mujeres y hombres SDN101,362,78511 Educación Pública263,461,776,454 E022Servicios de Educación Media Superior47,521,800,549 E023Servicios de Educación Superior y Posgrado28,119,366,522 E024Servicios de desarrollo Cultural4,826,113,300 E025Servicios de producción y transmisión de materiales educativos, culturales y artísticos527,453,349 E026Servicios de producción y distribución de libros y materiales culturales131,600,379 E027Servicios de atención al deporte514,614,676 E029Servicios de educación para Adultos (INEA)32,499,652 E030Servicios de educación Básica Comunitaria247,733,998 Q007Diseño de la Política Educativa y Regulación de los Servicios4,626,149 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S243Programa de Becas Elisa Acuña86,960,486 S269Programa de Cultura Física y Deporte157,445,580 S282La Escuela es Nuestra1,300,000,000 S283Jóvenes Escribiendo el Futuro8,981,500,000 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)1,553,900 S311Beca Universal de Educación Media Superior Benito Juárez31,919,250,000 U006Subsidios para organismos descentralizados estatales9,425,632,866 U083Universidades para el Bienestar Benito Juárez García154,500,000 U270Programa Nacional de Inglés39,075,277 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)41,217,525 U300La Normal es Nuestra42,832,24612 Salud5,018,117,583 E031Servicios de atención a la salud1,619,867,998 E032Servicios de atención a la salud mental y prevención de las adicciones1,528,669,472 E034Servicios de protección y asistencia social integral211,268,764 P027Rectoría del Sistema Nacional de Salud75,063,111 P028Política de prevención y control de enfermedades151,099,131 P029Política en Salud Materna Sexual y Reproductiva1,292,355,461 S039Programa de Atención a Personas con Discapacidad2,220,265 U012Fortalecimiento de los Servicios Estatales de Salud137,573,38313 Marina5,552,889,174 A015Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas4,530,295,324 A020Sistema Educativo Naval1,010,139,551 A022Administración y Operación de Capitanías de Puerto y Asuntos Marítimos12,454,29914 Trabajo y Previsión Social25,188,573,777 P031Implementación de la política laboral2,632,182 P063Articulación de Políticas Integrales de Juventud12,941,595 S280Jóvenes Construyendo el Futuro25,173,000,00015 Desarrollo Agrario, Territorial y Urbano4,159,241 S213Programa para Regularizar asentamientos Humanos4,159,24120 Bienestar106,508,558,692 E048Servicios a grupos con necesidades especiales235,479,394 P041Articulación de la Política de Bienestar5,328,079,298 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras3,312,000,000 S287Sembrando Vida40,664,000,000 S316Pensión Mujeres Bienestar56,969,000,00033 Aportaciones Federales para Entidades Federativas y Municipios18,448,060,665 I005FORTAMUN6,840,872,099 I009FAETA Educación Tecnológica1,656,074,537 I011FASP9,951,114,02936 Seguridad y Protección Ciudadana8,682,704,814 E054Servicios de Policía Complementaria y de Protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones4,529,412,685 G022Regulación de los servicios de seguridad privada para coadyuvar a la prevención del delito2,507,437 M001Actividades de apoyo administrativo2,763,530,857 P047Articulación de la política en materia de seguridad nacional y pública23,889,513 P048Plataforma México8,495,246 P049Política de inteligencia para la Seguridad Nacional188,762,508 U002Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública1,166,106,56947 Instituto Nacional de los Pueblos Indígenas113,012,180 S249Programa para el Bienestar Integral de los Pueblos Indígenas113,012,180Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado520,736,752 E072Servicios de prevención y control de enfermedades321,027,833 E074Servicios de estancias de bienestar y desarrollo infantil199,708,91954 Mujeres154,929,635 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres8,584,032 S319Programa de Atención Integral para el Bienestar de las Mujeres39,247,830 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas107,097,77356 IMSS-Bienestar3,656,496,551 E031Servicios de atención a la salud3,656,496,551
+
+ANEXO 20. PROVISIONES SALARIALES Y ECONÓMICAS (pesos)MONTOPrevisiones Salariales      11,500,000,000 Situaciones laborales supervenientes     11,500,000,000Provisiones Económicas      19,849,635,596 Fondo de Desastres Naturales (FONDEN)    19,430,107,735 Fondo de Prevención de Desastres Naturales (FOPREDEN)   246,669,452 Comisiones y pago a CECOBAN     172,858,409Provisiones Salariales y Económicas     28,380,517,327Desarrollo Regional      62,038,054 Provisión para la Armonización Contable    62,038,054Otras Provisiones Económicas      92,658,271,114 Subsidios a las Tarifas Eléctricas      87,768,800,000 Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica      4,889,471,114Gastos asociados a ingresos petroleros     15,201,763,002TOTAL       167,652,225,093
+
+ANEXO 21. RAMO 25 PREVISIONES Y APORTACIONES PARA LOS SISTEMAS DE EDUCACIÓN BÁSICA, NORMAL, TECNOLÓGICA Y DE ADULTOS (pesos)       MONTOPrevisiones para servicios personales para los servicios de educación básica en la Ciudad de México, para el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE) y para el Fondo de Aportaciones para la Educación Tecnológica y de Adultos34,890,019,408Aportaciones para los servicios de educación básica y normal en la Ciudad de México50,292,389,634
+
+ANEXO 22. RAMO 33 APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS (pesos)       MONTOFondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE):546,396,822,994Servicios Personales      500,367,070,716Otros de Gasto Corriente 1/ 12,773,560,750Gasto de Operación      19,340,541,058Fondo de Compensación      13,915,650,470Fondo de Aportaciones para los Servicios de Salud84,635,885,593Fondo de Aportaciones para la Infraestructura Social, que se distribuye en:135,060,702,396Entidades16,371,317,844Municipal y de las Demarcaciones Territoriales del Distrito Federal118,689,384,552Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal136,817,441,982Fondo de Aportaciones Múltiples, que se distribuye para erogaciones de:43,464,620,760Asistencia Social19,993,725,550Infraestructura Educativa23,470,895,210Fondo de Aportaciones para la Educación Tecnológica y de Adultos, que se distribuye para erogaciones de:10,811,443,171Educación Tecnológica6,858,303,461Educación de Adultos3,953,139,710Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal9,951,114,029Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas74,754,876,000TOTAL 2/1,041,892,906,9251/ Incluye recursos para las plazas subsidiadas a las entidades federativas incluidas en el Fondo de Aportaciones para la Educación Básica y Normal, conforme a los registros que se tienen en las secretarías de Educación Pública y de Hacienda y Crédito Público.2/ Incluye los recursos para dar cumplimiento al artículo 49, fracción IV, de la Ley de Coordinación Fiscal.
+
+Con respecto a lo previsto en el artículo 49, fracción V, de la Ley de Coordinación Fiscal, no se considera transferencia de recursos al Fideicomiso para la Evaluación de los Fondos de Aportaciones Federales (FIDEFAF), toda vez que el patrimonio contable con que cuenta el Fideicomiso resulta suficiente para efectuar la contratación de las evaluaciones de los Fondos de Aportaciones Federales, de conformidad con el marco jurídico aplicable.
+
+ANEXO 23. REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DE LA FEDERACIÓNANEXO 23.1. ADMINISTRACIÓN PÚBLICA FEDERALANEXO 23.1.1. LÍMITES MÍNIMOS Y MÁXIMOS DE LAS PERCEPCIONES ORDINARIAS BRUTAS Y NETAS MENSUALES PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL (pesos)Grupo / Tipo de PersonalPercepción Ordinaria BrutaPercepción Ordinaria Neta TotalSueldos y salariosPrestacionesTotal(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando y Enlace 1/G Secretario de Estado 190,035   45,734   235,769   168,860 H Subsecretario de Estado u Oficial Mayor 188,527   45,039   233,566   167,353 J Jefe de Unidad171,939 184,004  40,241  42,452  212,180  226,456  152,699  162,119 K Director General 143,473 162,888  33,385  37,268  176,858  200,156  128,882  144,359 L Director General Adjunto113,116 137,247  27,155  32,008  140,271  169,255  104,527  123,792 M Coordinador o Director66,362 130,377  16,426  30,112  82,788  160,489  64,611  117,809 N Subdirector39,078 64,854  11,526  16,089  50,604  80,943  41,878  63,300 O Jefe de Departamento26,005 38,309  9,017  11,288  35,022  49,597  29,878  41,083 P Personal de Enlace14,270 24,894  6,830  8,746  21,100  33,640  18,881  28,782 Personal Operativo11,748 16,481  13,719  14,807  25,467  31,288  22,441  27,145 Personal de Categorías:Del Servicio Exterior Mexicano16,059 150,822  7,107  34,729  23,166  185,551  20,502  134,618 De Educación516 137,023  16,731  95,814  17,247  232,838  15,262  163,611 De Salud15,425 91,416  12,903  19,874  28,328  111,290  25,164  86,505 De Investigación Científica y Desarrollo Tecnológico16,112 50,705  24,859  99,980  40,971  150,685  38,071  120,244 De Seguridad Pública14,993 188,528  13,896  42,508  28,888  231,036  25,887  165,945 De las Fuerzas Armadas8,648 190,007  16,910  49,457  25,558  239,464  20,401  166,875 La percepción ordinaria incluye todos los ingresos que reciben los servidores públicos por sueldos y salarios y por prestaciones ordinarias, independientemente de si se reciben en forma periódica o en fechas definidas. Los montos netos mensuales corresponden a la cantidad que perciben los servidores públicos, una vez aplicadas las disposiciones fiscales vigentes. Los montos indicados no incluyen las prestaciones extraordinarias. Los rangos de las remuneraciones del personal operativo y de categorías, varían conforme a las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo.1/ Las denominaciones de Secretario de Estado, Subsecretario de Estado u Oficial Mayor y Jefe de Unidad son exclusivas de las Dependencias del Ejecutivo Federal. Los titulares de los Órganos Administrativos Desconcentrados y Entidades adoptan como denominación el de Director General, Vocal, Comisionado, etc., independientemente de que el rango tabular pudiera ser coincidente con el de las Dependencias para las denominaciones de uso exclusivo.
+
+ANEXO 23.1.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DE LA PRESIDENTA DE LA REPÚBLICA (pesos)Remuneración totalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    134,290 Impuesto sobre la renta retenido y deducciones personales *    59,416 Percepción ordinaria bruta líquida mensual     193,706 a) Sueldos y salarios:      191,846 i) Sueldo base      52,968 ii) Compensación garantizada     138,878 b) Prestaciones:      1,860 vi) Prima quinquenal (antigüedad)     310 vii) Ayuda para despensa      1,515 ix) Seguro colectivo de retiro     35 * Deducciones personales de seguridad social y seguros.La remuneración ordinaria total líquida mensual neta de la Presidenta de la República, en su caso, se actualizará conforme a la Remuneración Total Anual de Percepciones Ordinarias prevista en el Anexo 23.1.3 del presente Decreto y a la política salarial general aplicable para la Administración Pública Federal.Los totales pueden no coincidir, debido al redondeo.
+
+ANEXO 23.1.3. REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS DE LA PRESIDENTA DE LA REPÚBLICA (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   2,073,878 Impuesto sobre la renta retenido     808,253 Percepción ordinaria bruta anual     2,882,131 a) Sueldos y salarios:      2,302,152 i) Sueldo base      635,616 ii) Compensación garantizada     1,666,536 b) Prestaciones:      579,979 i) Aportaciones a seguridad social     90,277 ii) Ahorro solidario      26,475 iii) Prima vacacional      17,656 iv) Aguinaldo (sueldo base)     105,258 v) Gratificación (compensación garantizada)     282,074 vi) Prima quinquenal (antigüedad)     3,720 vii) Ayuda para despensa     18,180 viii) Seguro de vida institucional     35,914 ix) Seguro colectivo de retiro     425 En términos del artículo 10, fracciones IV y V, de la Ley Federal de Remuneraciones de los Servidores Públicos, la Remuneración Anual Máxima es la referencia del monto máximo en términos brutos a que tiene derecho la persona titular de la Presidencia de la República por concepto de Remuneración Anual de Referencia, la cual asciende para el ejercicio fiscal de 2026 a $3,206,868.21De conformidad con lo dispuesto en los artículos 7, fracción I, inciso a), último párrafo, de la Ley Federal de Remuneraciones de los Servidores Públicos, y 13, fracción II, inciso a), último párrafo, de este Decreto, la Remuneración Anual de Referencia para la Presidenta de la República no considera los incrementos salariales que, en su caso, se autoricen durante el ejercicio fiscal de 2026, en términos de lo establecido en el artículo 9, fracción II, de este mismo Decreto, así como las repercusiones que se deriven de la aplicación y actualización de las disposiciones de carácter fiscal ni, en su caso, las adecuaciones a la curva salarial del tabulador.La Remuneración Total Anual de la Presidenta de la República que se integra en el presente Presupuesto de Egresos de la Federación es adecuada al no exceder el monto de la Remuneración Anual de Referencia ni el de la Remuneración Anual Máxima, y las prestaciones de seguridad social otorgadas son las que se determinaron conforme a lo establecido en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, lo anterior en términos del artículo 11 de la Ley Federal de Remuneraciones de los Servidores Públicos; y es determinada conforme a lo señalado en el artículo 12, inciso b), y Quinto transitorio del mismo ordenamiento legal.
+
+ANEXO 23.2. CÁMARA DE SENADORESANEXO 23.2.1.A. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Tipos de personalSueldos y salarios (1)Prestaciones (1)Percepción ordinaria total (1) (2)(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:Secretario General 130,684  35,399  166,083 Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno120,618 124,712 32,960 33,757 153,578 158,469 Director General101,227 120,556 28,706 32,472 129,933 153,028 Jefe de Unidad79,851 97,492 23,279 26,707 103,130 124,199 Director de Área57,755 88,033 18,848 24,707 76,603 112,740 Subdirector de Área42,230 57,576 14,878 17,776 57,108 75,352 Jefe de Departamento29,295 41,479 12,670 14,835 41,965 56,314 Personal de Servicio Técnico de Carrera16,116 53,207 8,460 15,128 24,576 68,335 Personal de Servicios Generales11,011 33,999 7,495 12,644 18,506 46,643 Personal operativo de confianza34,952 36,884 22,496 23,228 57,448 60,112 Personal operativo de base9,571 21,209 51,018 59,916 60,589 81,125 1) La remuneración neta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, una vez aplicadas las disposiciones fiscales y deducciones de seguridad social.2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses.Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha.
+
+ANEXO 23.2.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Tipos de personalSueldos y salarios (1)Prestaciones (1)Percepción ordinaria total (1) (2)(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:Secretario General 187,979  44,859  232,838 Coordinador / Contralor / Tesorero / Secretario Técnico Órgano de Gobierno172,486 178,689 41,509 42,664 213,995 221,353 Director General142,864 172,152 35,528 40,985 178,392 213,137 Jefe de Unidad110,289 136,562 28,224 33,120 138,513 169,682 Director de Área78,182 122,243 22,087 30,297 100,269 152,540 Subdirector de Área55,510 77,432 16,930 20,946 72,440 98,378 Jefe de Departamento37,683 54,020 14,130 17,020 51,813 71,040 Personal de Servicio Técnico de Carrera19,856 70,333 9,167 17,882 29,023 88,215 Personal de Servicios Generales13,208 43,279 7,922 14,371 21,130 57,650 Personal operativo de confianza44,861 47,485 26,573 27,535 71,434 75,020 Personal operativo de base12,900 28,100 60,629 73,445 73,529 101,545 1) La remuneración bruta mensual corresponde a la cantidad que perciben los servidores públicos de la Cámara de Senadores, antes de aplicar las disposiciones fiscales o deducciones de seguridad social.2) En la Percepción Ordinaria Total se incluyen los importes que se cubren anualmente divididos entre doce meses.Los importes de las percepciones mensuales plasmadas en este documento corresponden a los tabuladores vigentes para el ejercicio 2025 a esta fecha.
+
+ANEXO 23.2.2. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos)DescripciónRemuneración recibida 1_/REMUNERACIÓN TOTAL ANUAL NETA (RTA)     2,037,848 Impuesto sobre la renta retenido *_/     785,105 Percepción bruta anual      2,822,953 I. Percepciones ordinarias:     2,822,953 a) Sueldos y salarios:     2,280,278 i) Sueldo base 2_/     2,280,278 ii) Compensación garantizada      N/A b) Prestaciones:      542,675 i) Aportaciones a seguridad social     63,709 ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)     N/A iii) Prima vacacional      N/A iv) Aguinaldo (sueldo base)     382,207 v) Gratificación de fin de año (compensación garantizada)    N/A vi) Prima quinquenal (antigüedad)      N/A vii) Ayuda para despensa      N/A viii) Seguro de vida institucional      96,759 ix) Seguro colectivo de retiro       N/A x) Seguro de gastos médicos mayores       N/A xi) Seguro de separación individualizado       N/A xii) Apoyo económico para adquisición de vehículo       N/A II. Percepciones extraordinarias:       - a) Pago por riesgo y potenciación de seguro de vida       N/A *_/ Cálculo obtenido conforme al artículo 152 de la Ley del Impuesto Sobre la Renta.1_/ Corresponde a las percepciones para 2025.2_/ Dieta.
+
+ANEXO 23.2.3. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL PUESTO DE ELECCIÓN SENADOR DE LA REPÚBLICA (pesos)DescripciónRemuneración recibidaREMUNERACIÓN LÍQUIDA MENSUAL NETA      131,874Impuesto sobre la renta retenido y deducciones de seguridad social      58,149Percepción ordinaria bruta mensual      190,023I. Percepciones ordinarias:      190,023a) Sueldos y salarios:       190,023i) Sueldo base      190,023ii) Compensación garantizada       N/A b) Prestaciones:       - i) Prima quinquenal       N/A ii) Ayuda para despensa       N/A iii) Seguro colectivo de retiro       N/A
+
+ANEXO 23.2.4. REMUNERACIÓN TOTAL ANUAL DEL SECRETARIO GENERAL (pesos)DescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA (RTA)     1,990,722Impuesto sobre la renta retenido (*)     803,334Percepción bruta anual      2,794,056I. Percepciones ordinarias:     2,794,056a) Sueldos y salarios:     2,255,748i) Sueldo base      372,000ii) Compensación garantizada     1,883,748b) Prestaciones:      538,308i) Aportaciones a seguridad social     74,939ii) Ahorro solidario     24,180iii) Prima vacacional     15,500iv) Aguinaldo (sueldo base)     60,147v) Gratificación de fin de año (compensación garantizada)   304,591vi) Ayuda para despensa (vales)     18,180vii) Seguro de vida institucional     40,603viii) Seguro colectivo de retiro     168(*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos.
+
+ANEXO 23.2.5. REMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL DEL SECRETARIO GENERAL (pesos)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA LÍQUIDA MENSUAL NETA    130,684Impuesto sobre la renta retenido y deducciones de seguridad social      57,295Percepción bruta mensual      187,979a) Sueldos y salarios:       187,979i) Sueldo base      31,000ii) Compensación garantizada      156,979(*) El importe neto puede variar en función de las modificaciones de la tabla de impuestos.
+
+ANEXO 23.3.4. REMUNERACIÓN TOTAL ANUAL DEL PUESTO DIPUTADO(A) FEDERAL (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA (RTA) (1)     1,307,224Impuesto sobre la renta retenido (2)     403,453Percepción Bruta Anual     1,710,677I. Percepciones Ordinarias:     1,710,677a) Sueldos y salarios:     1,326,944i) Sueldo Base (3)     1,326,944ii) Compensación Garantizada      - b) Prestaciones:     383,733i) Aportaciones a seguridad social     82,052ii) Ahorro solidario (art. 100 ISSSTE)     26,475iii) Prima vacacional      - iv) Aguinaldo     147,438v) Gratificación de fin de año      - vi) Prima quincenal      - vii) Ayuda para despensa      - viii) Seguro de vida institucional     59,984ix) Seguro colectivo de retiro      - x) Seguro de gastos médicos mayores      - xi) Seguro de separación individualizado      - xii) Apoyo económico para la adquisición de vehículo     - xiii) Otras prestaciones (4)     67,785II. Percepciones extraordinarias:      - a) Pago por riesgo y potencialización de seguro de vida     - Las remuneraciones de los servidores públicos, podrán en su caso, si existen recursos presupuestales, actualizarse conforme a la política salarial del Ejecutivo Federal.(1) Corresponde a las percepciones 2025.(2) Conforme lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.(3) Dieta.(4) Prestación I.S.R. de aguinaldo.
+
+ANEXO 23.4. AUDITORÍA SUPERIOR DE LA FEDERACIÓNANEXO 23.4.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria totalMínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando      Auditor Superior de la Federación 134,645 35,151 169,796Auditor Especial 133,413 34,881 168,294Titular de Unidad 132,180 34,616 166,796Director General y Homólogos129,426130,94830,38834,351159,814165,299Director General Adjunto114,977118,62627,27531,290142,252149,916Director de Área y Homólogos108,870110,84025,65829,150134,528139,990Secretario Técnico86,00197,81821,45226,380107,453124,198Coordinador de Servicios EspecializadosAsesor EspecializadoCoordinador Técnico de la OASFSubdirector de Área y Homólogos68,80473,70417,94020,95886,74494,662Jefe de Departamento y Homólogos50,18953,29814,37516,52264,56469,820Personal Operativo de Confianza      Coordinador de Auditores de Fiscalización32,86034,18315,27820,02748,13854,210Coordinador de Auditores Jurídicos32,86034,18315,27820,02748,13854,210Coordinador de Auditores Administrativos32,86034,18315,27820,02748,13854,210Auditor de Fiscalización "A"28,96830,12215,08819,97344,05650,095Auditor Jurídico "A"28,96830,12215,08819,97344,05650,095Auditor Administrativo "A"28,96830,12215,08819,97344,05650,095Auditor de Fiscalización "B"23,48826,99614,85919,86438,34746,860Auditor Jurídico "B"23,48826,99614,85919,86438,34746,860Auditor Administrativo "B"23,48826,99614,85919,86438,34746,860Coordinador de Analistas "A" 25,494 19,085 44,579Secretaria Particular "A" 33,456 21,057 54,513Operador Supervisor "A"26,11728,68216,92223,44643,03952,128Secretaria Particular "B" 26,790 21,453 48,243Operador Supervisor "B" 23,736 23,804 47,540Operador Supervisor "C" 22,065 23,862 45,927Supervisor de Área Administrativa 20,665 23,863 44,528Supervisor de Área Técnica 20,665 23,863 44,528Operador Supervisor "D" 20,665 23,863 44,528Vigilante de la ASF 20,665 23,863 44,528Secretaria de Director de Área 18,080 23,131 41,211Personal Operativo de Base      Técnico Superior 13,873 33,152 47,025Coordinador de Proyectos Especiales 13,731 33,079 46,810Jefe de Sección Especialistas Hacendarios 13,316 32,839 46,155Analista Especializado en Proyectos 12,492 32,557 45,049Especialista Técnico 12,040 32,359 44,399Especialista en Proyectos Técnicos 11,577 32,165 43,742Especialista Hacendario 11,137 31,998 43,135Técnico Medio 10,677 31,817 42,494Analista Contable 10,204 31,631 41,835Técnico Contable 9,704 31,472 41,176Técnico Medio Contable 9,204 31,313 40,517Auxiliar Técnico Contable 8,709 31,154 39,8631.- Los límites de percepción ordinaria neta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP.4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal.6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal.7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos.
+
+ANEXO 23.4.1.B. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria totalMínimoMáximoMínimoMáximoMínimoMáximoPersonal de MandoAuditor Superior de la Federación 189,126 48,371 237,497Auditor Especial 187,261 47,978 235,239Titular de Unidad 185,396 47,586 232,982Director General y Homólogos181,194183,53041,29447,193222,488230,723Director General Adjunto159,319164,87836,84742,817196,166207,695Director de Área y Homólogos150,076153,09434,66839,846184,744192,940Secretario Técnico115,712133,39028,39135,700144,103169,090Coordinador de Servicios EspecializadosAsesor EspecializadoCoordinador Técnico de la OASFSubdirector de Área y Homólogos90,51897,69323,29927,698113,817125,391Jefe de Departamento y Homólogos63,97768,44917,96021,05381,93789,502Personal Operativo de Confianza      Coordinador de Auditores de Fiscalización39,90241,63218,00724,95157,90966,583Coordinador de Auditores Jurídicos39,90241,63218,00724,95157,90966,583Coordinador de Auditores Administrativos39,90241,63218,00724,95157,90966,583Auditor de Fiscalización "A"34,81436,32217,66424,46052,47860,782Auditor Jurídico "A"34,81436,32217,66424,46052,47860,782Auditor Administrativo "A"34,81436,32217,66424,46052,47860,782Auditor de Fiscalización "B"27,74632,23517,32024,00445,06656,239Auditor Jurídico "B"27,74632,23517,32024,00445,06656,239Auditor Administrativo "B"27,74632,23517,32024,00445,06656,239Coordinador de Analistas "A" 30,298 23,062 53,360Secretaria Particular "A" 40,681 26,521 67,202Operador Supervisor "A"31,09034,44019,99229,15751,08263,597Secretaria Particular "B" 31,966 26,279 58,245Operador Supervisor "B" 28,062 28,980 57,042Operador Supervisor "C" 25,937 28,921 54,858Supervisor de Área Administrativa 24,157 28,871 53,028Supervisor de Área Técnica 24,157 28,871 53,028Operador Supervisor "D" 24,157 28,871 53,028Vigilante de la ASF 24,157 28,871 53,028Secretaria de Director de Área 20,869 27,920 48,789Personal Operativo de BaseTécnico Superior 15,521 40,196 55,717Coordinador de Proyectos Especiales 15,346 40,098 55,444Jefe de Sección Especialistas Hacendarios 14,840 39,777 54,617Analista Especializado en Proyectos 13,836 39,369 53,205Especialista Técnico 13,285 39,095 52,380Especialista en Proyectos Técnicos 12,726 38,819 51,545Especialista Hacendario 12,203 38,571 50,774Técnico Medio 11,655 38,304 49,959Analista Contable 11,094 38,028 49,122Técnico Contable 10,533 37,752 48,285Técnico Medio Contable 9,971 37,476 47,447Auxiliar Técnico Contable 9,417 37,200 46,6171.- Los límites de percepción ordinaria bruta mensual, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.3.- No se consideran las actualizaciones anuales de sueldo al personal de mando, las cuales serán dadas a conocer por la SHCP.4.- No se considera el incremento en la medida de fin de año para el personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.5.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de base, en términos del Reglamento Interior de las Condiciones Generales de Trabajo de la Contaduría Mayor de Hacienda, para el presente ejercicio fiscal.6.- Los montos presentados en este anexo, no consideran los premios de antigüedad autorizados al personal operativo de confianza, en términos del Lineamiento para el Otorgamiento de Estímulos y Gratificación, para el presente ejercicio fiscal.7.- En el ejercicio de los importes aquí señalados, se estará a lo establecido en las disposiciones aplicables, incluida la Ley Federal de Remuneraciones de los Servidores Públicos.
+
+ANEXO 23.4.2.A. LÍMITES DE LA PERCEPCIÓN EXTRAORDINARIA NETA TOTAL (pesos)Tipos de personalPlazasPago extraordinario anual unitarioHastaPersonal de MandoAuditor Superior de la Federación1-Auditor Especial4-Titular de Unidad5-Director General y Homólogos44-Director General Adjunto4-Director de Área y Homólogos170-Secretario Técnico
+
+Coordinador de Servicios Especializados
+
+Asesor Especializado
+
+Coordinador Técnico de la OASF5-Subdirector de Área y Homólogos373-Jefe de Departamento y Homólogos561-Personal Operativo de ConfianzaCoordinador de Auditores de Fiscalización17674,481Coordinador de Auditores Jurídicos3074,481Coordinador de Auditores Administrativos8974,481Auditor de Fiscalización "A"24167,022Auditor Jurídico "A"8467,022Auditor Administrativo "A"13567,022Auditor de Fiscalización "B"15161,277Auditor Jurídico "B"361,277Auditor Administrativo "B"5261,277Coordinador de Analistas "A"160,011Secretaria Particular "A"1673,092Operador Supervisor "A"267,639Secretaria Particular "B"3660,890Operador Supervisor "B"836,512Operador Supervisor "C"2036,036Supervisor de Área Administrativa7336,212Supervisor de Área Técnica1136,212Operador Supervisor "D"736,212Vigilante de la ASF1636,212Secretaria de Director de Área134,368Personal Operativo de Base Técnico Superior3733,537Coordinador de Proyectos Especiales733,599Jefe de Sección Especialistas Hacendarios733,794Analista Especializado en Proyectos633,309Especialista Técnico732,859Especialista en Proyectos Técnicos732,404Especialista Hacendario431,978Técnico Medio1231,531Analista Contable2631,074Técnico Contable3630,617Técnico Medio Contable4130,172Auxiliar Técnico Contable5129,7311.- Los límites de percepción extraordinaria neta total, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.
+
+ANEXO 23.4.2.B. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES (pesos)     Tipos de personalPlazasPago extraordinario bruto mensualHastaPersonal de Mando  Auditor Superior de la Federación1 - Auditor Especial4 - Titular de Unidad5 - Director General y Homólogos44 - Director General Adjunto4 - Director de Área y Homólogos170 - Secretario Técnico
+
+Coordinador de Servicios Especializados
+
+Asesor Especializado
+
+Coordinador Técnico de la OASF5 - Subdirector de Área y Homólogos373 - Jefe de Departamento y Homólogos561 - Personal Operativo de Confianza  Coordinador de Auditores de Fiscalización1768,867 Coordinador de Auditores Jurídicos308,867 Coordinador de Auditores Administrativos898,867 Auditor de Fiscalización "A"2417,979 Auditor Jurídico "A"847,979 Auditor Administrativo "A"1357,979 Auditor de Fiscalización "B"1517,295 Auditor Jurídico "B"37,295 Auditor Administrativo "B"527,295 Coordinador de Analistas "A"16,965 Secretaria Particular "A"168,701 Operador Supervisor "A"28,052 Secretaria Particular "B"367,249 Operador Supervisor "B"84,347 Operador Supervisor "C"204,170 Supervisor de Área Administrativa734,021 Supervisor de Área Técnica114,021 Operador Supervisor "D"74,021 Vigilante de la ASF164,021 Secretaria de Director de Área13,745 Personal Operativo de Base  Técnico Superior373,778 Coordinador de Proyectos Especiales73,762 Jefe de Sección Especialistas Hacendarios73,718 Analista Especializado en Proyectos63,629 Especialista Técnico73,580 Especialista en Proyectos Técnicos73,531 Especialista Hacendario43,484 Técnico Medio123,436 Analista Contable263,386 Técnico Contable363,336 Técnico Medio Contable413,288 Auxiliar Técnico Contable513,239 1.- Las percepciones extraordinarias brutas mensuales, no consideran efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2.- No se considera el incremento salarial anual al personal operativo de confianza y de base, el cual será dado a conocer por la SHCP.
+
+ANEXO 23.4.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN (pesos)AUDITOR SUPERIOR DE LA FEDERACIÓNRemuneración TotalISRRemuneración NetaMensual NetaREMUNERACIÓN TOTAL ANUAL NETA (RTA) 1/2,037,546  - 2,037,546 169,796 Impuesto sobre la renta retenido 2/  812,419  -  -  - Percepción bruta anual  2,849,965 812,419 2,037,546 169,796 I. Percepciones ordinarias:  2,849,965 812,419 2,037,546 169,796 a) Sueldos y salarios:  2,269,515 653,780 1,615,735 134,645 i) Sueldo base  531,683 153,162 378,521 31,543 ii) Compensación garantizada  1,737,832 500,618 1,237,214 103,101 b) Prestaciones:  580,450 158,639 421,811 35,151 i) Aportaciones a seguridad social  82,051  - 82,051 6,838 ii) Prima vacacional  63,043 20,857 42,186 3,516 iii) Aguinaldo (sueldo base)  89,058 29,126 59,932 4,994 iv) Gratificación de fin de año (compensación garantizada)297,065 102,123 194,942 16,245 v) Prima quinquenal (antigüedad)  4,500 1,296 3,204 267 vi) Ayuda para despensa  18,180 5,237 12,943 1,079 vii) Seguro de vida institucional  26,553  - 26,553 2,213 viii) Seguro de gastos médicos mayores  -  -  -  - ix) Seguro de separación individualizado  -  -  -  - x) Revisión Médica   -  -  -  - xi) Vales de Despensa   -  -  -  - II. Percepciones extraordinarias:   -  -  -  - a) Estímulo por Resultado de la Evaluación del Desempeño  -  -  -  - 1/ La remuneración total anual de la máxima representación de la Auditoría Superior de la Federación, no considera efectos inflacionarios, ni la aplicación de disposiciones de carácter fiscal y de seguridad social.2/ No se consideran las actualizaciones anuales de sueldo, las cuales serán dadas a conocer por la SHCP.3/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.
+
+ANEXO 23.5. SUPREMA CORTE DE JUSTICIA DE LA NACIÓNANEXO 23.5.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA MENSUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+
+ANEXO 23.5.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y ÁREAS QUE SE TRANSFIEREN CONFORME AL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+
+ANEXO 23.5.3. REMUNERACIÓN NOMINAL ANUAL DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓNREMUNERACIÓN NOMINAL ANUAL 2026 DE LOS MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DE CONFORMIDAD CON EL ARTÍCULO 7o. TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL (pesos)
+
+ANEXO 23.6. ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL ANEXO 23.6.1. LÍMITES DE LA PERCEPCIÓN ORDINARIA NETA MENSUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+
+ANEXO 23.6.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+
+ANEXO 23.6.3. REMUNERACIÓN TOTAL ANUAL 2026 DE LOS CONSEJEROS DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL / TRIBUNAL DE DISCIPLINA JUDICIAL (pesos)
+
+ANEXO 23.7. TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓNANEXO 23.7.1. LÍMITES DE LOS SUELDOS Y SALARIOS MENSUALES NETOS DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+
+ANEXO 23.7.2. LÍMITES DE LA PERCEPCIÓN ORDINARIA ANUAL DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN (pesos)
+
+ANEXO 23.7.3. REMUNERACIÓN TOTAL ANUAL DE LAS PERSONAS MAGISTRADAS ELECTORALES DE LA SALA SUPERIOR (pesos)DE CONFORMIDAD CON LOS ARTÍCULOS 94, 99 Y 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; ASÍ COMO LOS ARTÍCULOS CUARTO, SÉPTIMO Y DÉCIMO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REFORMA DEL PODER JUDICIAL
+
+ANEXO 23.8. INSTITUTO NACIONAL ELECTORALANEXO 23.8.1.A. LÍMITES DE LA PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL ELECTORAL (NETOS MENSUALES) (pesos)         Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando  Consejero Presidente/Consejeros Electorales 1/182,269183,39046,84375,195229,112258,585Secretario Ejecutivo 172,241172,37344,68971,521216,930243,8941/ Miembros permanentes del Consejo General del Instituto de acuerdo a la Ley General Federal de Instituciones y Procedimientos Electorales (LEGIPE)
+
+ANEXO 23.8.1.B. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (NETOS MENSUALES) (pesos)Grupo JerárquicoTipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando:       1Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. 172,241 183,390 44,689 75,195 216,930 258,585 2Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. 127,777 171,087 33,798 71,029 161,575 242,117 3Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. 108,281 125,841 29,364 51,938 137,645 177,779 4Directores de Área, Coordinadores y puestos homólogos. 82,309 107,287 23,752 45,384 106,061 152,671 5Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos.54,382 80,535 17,599 35,422 71,981 115,957 6Vocales Distritales, Jefes de Departamento y puestos homólogos. 34,476 54,421 13,152 25,089 47,628 79,510 Personal Operativo:  7Técnico Operativo10,292 34,456 4,726 17,531 15,018 51,987
+
+ANEXO 23.8.1.C. LÍMITES DE LA PERCEPCION ORDINARIA TOTAL (BRUTOS MENSUALES) (pesos)Grupo JerárquicoTipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de Mando:1Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo. 245,942262,63458,984104,276304,926366,9102Titular del Órgano Interno de Control, Directores Ejecutivos, Titulares de Unidad Técnica, Titulares de Unidad (OIC) y puestos homólogos. 178,572243,99444,06797,997222,639341,9913Coordinadores del Registro Federal de Electores, Titulares de Unidad Técnica, Vocales Ejecutivos Locales, Directores de Área y puestos homólogos. 149,033175,43937,92071,243186,953246,6824Directores de Área, Coordinadores y puestos homólogos. 110,142147,32629,62461,632139,766208,9585Vocales Secretarios en JL, Vocales Locales, Vocales Ejecutivos y Secretarios Distritales, Subdirectores de Área y puestos homólogos.69,784107,33220,91646,76090,700154,0926Vocales Distritales, Jefes de Departamento y puestos homólogos. 42,01569,64014,57931,57456,594101,214Personal Operativo:  7Técnico Operativo11,19741,9894,97821,83716,17563,826
+
+ANEXO 23.8.3.A. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos)CONSEJERA PRESIDENTA / CONSEJEROS ELECTORALESDescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   3,103,017 Impuesto sobre la renta retenido (35%) *_/     1,299,906 Percepción bruta anual      4,402,923 a) Sueldos y salarios:      3,151,608 i) Sueldo base      588,408 ii) Compensación garantizada     2,563,200 b) Prestaciones:      1,251,315 i) Aportaciones a seguridad social     82,051 ii) Ahorro solidario      26,475 iii) Prima vacacional     16,345 iv) Aguinaldo o Gratificación de fin de año     530,571 vi) Prima quinquenal (antigüedad)     2,400 vii) Ayuda para despensa      - viii) Seguro de vida institucional     63,347 ix) Seguro colectivo de retiro     120 x) Seguro de gastos médicos mayores    52,489 xi) Seguro de separación individualizado    477,516 *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+
+ANEXO 23.8.3.B. REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA (REMUNERACIONES TABULADOR)REMUNERACIÓN TOTAL MENSUAL DE LA CONSEJERA PRESIDENTA 2025(Remuneraciones Tabulador 2025)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    228,041Impuesto sobre la renta retenido y deducciones personales *    93,293Percepción ordinaria bruta líquida mensual     321,334a) Sueldos y salarios:      262,634i) Sueldo base      49,034ii) Compensación garantizada     213,600b) Prestaciones:      58,700i) Aportaciones a seguridad social     6,838ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)    2,206v) Prima quinquenal (antigüedad)     200viii) Seguro de vida institucional     5,279ix) Seguro colectivo de retiro     10x) Seguro de gastos médicos mayores    4,374xi) Seguro de separación individualizado    39,793*_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+
+ANEXO 23.8.3.C. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DEL INSTITUTO NACIONAL ELECTORAL (pesos)SECRETARIO EJECUTIVODescripciónRemuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   2,926,727Impuesto sobre la renta retenido (35%) *_/     1,209,000Percepción bruta anual      4,135,727a) Sueldos y salarios:      2,951,304i) Sueldo base      498,264ii) Compensación garantizada     2,453,040b) Prestaciones:      1,184,423i) Aportaciones a seguridad social     82,051ii) Ahorro solidario      26,475iii) Prima vacacional     13,841iv) Aguinaldo o Gratificación de fin de año    496,358vi) Prima quinquenal (antigüedad)     2,400vii) Ayuda para despensa     4,200viii) Seguro de vida institucional     59,321ix) Seguro colectivo de retiro     120x) Seguro de gastos médicos mayores     52,489xi) Seguro de separación individualizado    447,167*_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+
+ANEXO 23.8.3.D. REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA (pesos)REMUNERACIÓN TOTAL MENSUAL DE LA SECRETARIA EJECUTIVA 2025(Remuneraciones Tabulador 2025)DescripciónRemuneración TotalREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA    215,414Impuesto sobre la renta retenido y deducciones personales *    86,714Percepción ordinaria bruta líquida mensual     302,127a) Sueldos y salarios:      245,942i) Sueldo base      41,522ii) Compensación garantizada     204,420b) Prestaciones:      56,185i) Aportaciones a seguridad social     6,838ii) Ahorro solidario      2,206v) Prima quinquenal (antigüedad)     200vii) Ayuda para despensa     350viii) Seguro de vida institucional     4,943ix) Seguro colectivo de retiro     10x) Seguro de gastos médicos mayores     4,374xi) Seguro de separación individualizado    37,264Otras prestaciones (piramidación del ISR del Aguinaldo)     *_/ Cálculo obtenido conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta, vigente a partir del 1° de Enero del 2014.
+
+ANEXO 23.9. COMISIÓN NACIONAL DE LOS DERECHOS HUMANOSANEXO 23.9.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL (NETOS MENSUALES) 2026 (pesos)Tipos de personalSueldos y salariosPrestacionesPercepción ordinaria total(Efectivo y Especie)MínimoMáximoMínimoMáximoMínimoMáximoPersonal de mando:       Presidenta de la CNDH 111,397 32,852 144,250Titular del Órgano Interno de Control 108,768 32,680 142,377Secretario/a Ejecutivo/a 103,145 32,571 135,716Visitador/a General 103,145 32,571 135,716Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /197,409103,01230,16032,418127,569135,430Director/a de Área 62,30588,33214,12024,80076,425113,132Visitador/a Adjunto/a44,64359,05910,19015,97454,83375,033Subdirector/a de Área 47,14349,54810,20915,97457,35265,522Enlace Administrativo47,14349,548 -  - 47,14349,548Jefe/a de Departamento 37,90040,5578,41111,75546,31152,312Personal operativo:       Operativo/a15,33632,5206,19811,02421,53443,544Supervisor/a Operativo/a de Limpieza 13,888 7,098 20,986Operativo/a de Limpieza 10,500 6,290 16,790Este anexo refleja los límites de percepciones ordinarias netas mensuales aplicables a las personas servidoras públicas durante 2026, en función del puesto que ocupen. Contemplan las cuotas de seguridad social a cargo del trabajador/a.A fin de cumplir con el desglose de remuneraciones que establece el artículo 75 Constitucional, se presentan los límites mínimos y máximos en términos netos por concepto de sueldos y salarios y de prestaciones, diferenciados por el tipo de servidores/as públicos/as a los que aplican los límites correspondientes. Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+
+ANEXO 23.9.1.B. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA TOTAL EN LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS (MONTOS BRUTOS) (pesos)Tipo de personalPercepción Ordinaria Bruta MensualPrestacionesMínimosMáximosMínimosMáximosPersonal de mando:Presidenta de la CNDH 158,830 44,404Titular del Órgano Interno de Control  154,264 42,795Secretario/a Ejecutivo/a 146,04241,76845,946Visitador/a General  146,04241,76845,946Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /1136,839145,54340,51744,683Director/a de Área80,652122,26319,47832,835Visitador/a Adjunto/a57,69678,72214,20222,780Subdirector/a de Área60,69764,79214,74221,670Jefe/a de Departamento46,44751,91512,03914,690Personal operativo:    Operativo19,53540,68010,70516,380Supervisor/a Operativo/a de Limpieza 16,588 16,380Operativo/a de Limpieza 10,992 16,380Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+
+ANEXO 23.9.2. LÍMITES DE PAGOS EXTRAORDINARIOS ANUALES NETOS 2026 (pesos)DenominaciónPlazasPago Extraordinario Anual Unitario MáximoTotal Puestos1,700-Personal de mando:     973-Presidenta de la CNDH     1-Titular del Órgano Interno de Control    1-Secretario/a Ejecutivo/a     1-Visitador/a General      6-Secretario/a Técnico/a del Consejo Consultivo, Director/a de Visitaduría, CGSRAJ, DEMNPT, DEMIMNCDPD, CGECYT, CGAF y Director/a General /133-Director/a de Área     120-Visitador/a Adjunto/a     52816,081Subdirector/a de Área     15515,881Jefe/a de Departamento     12813,945Personal operativo:     727Operativo/a     63720,500Supervisor/a Operativo/a de Limpieza    920,500Operativo/a de Limpieza     8120,500Nota: 1/ Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídicos (CGSRAJ), Dirección Ejecutiva del Mecanismo Nacional de Prevención de la Tortura (DEMNPT), Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad (DEMIMNCDPD), Coordinación General de Especialidades Científicas y Técnicas (CGECYT), Coordinación General de Administración y Finanzas (CGAF).
+
+ANEXO 23.9.3. REMUNERACIÓN TOTAL ANUAL DE LA MÁXIMA REPRESENTACIÓN DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS 2026 (pesos)Remuneración recibidaREMUNERACIÓN TOTAL ANUAL NETA (RTA)     1,768,432 Impuesto sobre la renta retenido     655,674 Percepción bruta anual      2,424,105 I. Percepciones ordinarias:     2,424,105 a) Sueldos y salarios:       1,905,957 Sueldo base      378,323 Compensación Garantizada     1,527,634 b) Prestaciones:      518,148 i) Aportaciones a seguridad social     76,275 ii) Ahorro solidario (Artículo 100 de la Ley del ISSSTE)     - iii) Prima vacacional     52,943 iv) Gratificación de fin de año     321,030 v) Prima quinquenal      1,920 vi) Ayuda para despensa      - vii) Seguro de vida      65,980 II. Percepciones extraordinarias:      - a) Pago extraordinario       -
+
+ANEXO 23.10. FISCALÍA GENERAL DE LA REPÚBLICAANEXO 23.10.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (NETOS MENSUALES) (pesos)Tipo de personalSueldos y salariosPrestacionesPercepción Ordinaria Total(Efectivo y especie)MínimoMáximoMínimoMáximoMínimoMáximoDirectivo        Fiscales  36,717135,3429,28135,30045,998170,642Titulares Sustantivos 84,332134,34719,79034,777104,122169,124Titulares Administrativos 84,332134,34719,79034,777104,122169,124Mando        Sustantivo 22,118100,5026,54124,75728,659125,259Administrativo 22,118100,5026,54124,75728,659125,259Agentes del Ministerio Público de la FederaciónDe Coordinación Ministerial 83,72089,45718,68421,058102,404110,515De Supervisión Ministerial 43,17968,03510,62417,12353,80385,158De Apoyo Ministerial 17,69026,4485,5047,72823,19434,176Agentes de la Policía Federal Ministerial      De Coordinación Policial 46,09369,64510,51518,13656,60887,781De Supervisión Policial 34,33239,4218,16010,10142,49249,522De Apoyo Policial 17,69028,0665,5047,97523,19436,041Peritos        De Coordinación Pericial 44,74060,94910,85315,87655,59376,825De Supervisión Pericial 37,16049,7128,90912,84846,06962,560De Apoyo Pericial 17,67420,5975,5016,82123,17527,418Analistas        De Coordinación de Analistas54,21059,75012,17114,15066,38173,900De Supervisión de Analistas 32,13245,4628,27611,49740,40856,959De Apoyo de Analistas 17,69026,4485,5047,72823,19434,176Facilitadores       Facilitadores 32,81432,8148,3469,30541,16042,119De Apoyo a Facilitadores 20,93323,4806,1127,53127,04531,011Especializado        Pilotos  36,87994,02920,17434,44357,053128,472Apoyo Aéreo 18,15039,6845,84310,10523,99349,789Apoyo al Proceso Sustantivo38,09353,8449,48713,24147,58067,085Ventanilla Única 17,68826,3095,5668,12123,25434,430Desarrolladores 25,26247,3056,65312,23831,91559,543Traductores 25,31736,5237,11410,06532,43146,588Atención a Víctimas 22,17031,3446,2958,95628,46540,300Profesional        Coordinadores de Proyectos 21,92079,5596,43319,50728,35399,066Abogados 22,11884,3326,29921,03628,417105,368Evaluadores 18,27443,1175,55611,09323,83054,210Docentes  12,34923,0794,8867,46617,23530,545Técnico        Protección a Personas 42,76366,9179,75315,38052,51682,297De Protección a Instalaciones Estratégicas13,76335,6934,8279,89818,59045,591Administrativo       Apoyo Administrativo12,84821,2454,9567,17817,80428,423Operativo Confianza11,77014,62910,72812,23722,49826,866Operativo Base11,88513,58110,76312,04522,64825,626Nota:Las cantidades:a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago.b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025.c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional.
+
+ANEXO 23.10.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN LA FISCALÍA GENERAL DE LA REPÚBLICA (BRUTOS MENSUALES) (pesos)Tipo de personalSueldos y salariosPrestacionesPercepción Ordinaria Total(Efectivo y especie)MínimoMáximoMínimoMáximoMínimoMáximoDirectivo      Fiscales44,946190,03511,43647,02956,382237,064Titulares Sustantivos113,116188,52726,40946,331139,525234,858Titulares Administrativos113,116188,52726,40946,331139,525234,858Mando      Sustantivo26,005137,2477,59633,26233,601170,509Administrativo26,005137,2477,59633,26233,601170,509Agentes del Ministerio Público de la FederaciónDe Coordinación Ministerial112,217120,65325,08628,332137,303148,985De Supervisión Ministerial53,78089,28813,49222,13567,272111,423De Apoyo Ministerial20,37431,5186,3209,11426,69440,632Agentes de la Policía Federal Ministerial De Coordinación Policial57,94391,58813,55823,36371,501114,951De Supervisión Policial41,82748,4819,80912,75151,63661,232De Apoyo Policial20,37433,6346,3209,43126,69443,065Peritos De Coordinación Pericial56,01079,16613,82520,09369,83599,259De Supervisión Pericial45,52563,11311,03916,27156,56479,384De Apoyo Pericial20,35324,0706,3187,83026,67131,900Analistas De Coordinación de Analistas69,53977,45215,77218,24285,31195,694De Supervisión de Analistas38,95157,0429,84014,61448,79171,656De Apoyo de Analistas20,37431,5186,3209,11426,69440,632Facilitadores Facilitadores39,84239,8429,93910,98649,78150,828De Apoyo a Facilitadores24,49827,7377,0568,70131,55436,438Especializado Pilotos45,157127,43922,25842,28467,415169,723Apoyo Aéreo20,95948,8256,68512,79327,64461,618Apoyo al Proceso Sustantivo46,74469,01611,80516,93558,54985,951Ventanilla Única20,37131,3376,3849,50926,75540,846Desarrolladores30,00359,6747,86215,49337,86575,167Traductores30,07244,6928,34812,20838,42056,900Atención a Víctimas26,07137,9207,28510,56933,35648,489Profesional Coordinadores de Proyectos25,753106,0977,42125,53833,174131,635Abogados26,005113,1167,28927,67833,294140,794Evaluadores21,11653,6926,39414,05327,51067,745Docentes13,66227,2265,4348,60419,09635,830Técnico Protección a Personas53,18687,69112,56320,21565,749107,906De Protección a Instalaciones Estratégicas15,38543,6075,48511,88720,87055,494Administrativo Apoyo Administrativo14,27024,8945,6078,27819,87733,172Operativo Confianza12,95716,48111,22212,94324,17929,424Operativo Base13,09715,16311,26612,71424,36327,877Nota:Las cantidades:a) Incluyen los ingresos que reciben las personas servidoras públicas independientemente de su periodicidad o fecha de pago.b) Consideran las disposiciones fiscales vigentes para el ejercicio 2025, y de seguridad social como la "Unidad de Medida Actualizada" (UMA) aplicable a partir del 01 de febrero de 2025.c) No incluyen el pago de las prestaciones que deriven del régimen complementario de seguridad social, previsto en el tercer párrafo de la fracción XIII, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, ni la potenciación del seguro de vida institucional.
+
+ANEXO 23.10.2. REMUNERACIÓN TOTAL ANUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos)DescripciónRemuneración TotalISRRemuneración
+
+NetaMensual
+
+NetaREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS 2,046,947  - 2,046,947 170,578 Impuesto sobre la renta retenido  797,057  -  -  - Percepción ordinaria bruta anual   2,844,004 797,057 2,046,947 170,578 a) Sueldos y salarios:    2,280,420 656,310 1,624,110 135,343 i) Sueldo base    511,632 147,276 364,356 30,363 ii) Compensación adicional por servicios especiales1,768,788 509,034 1,259,754 104,980 b) Prestaciones:    563,584 140,747 422,837 35,235 i) Aportaciones a seguridad social   82,056  - 82,056 6,838 ii) Ahorro solidario    26,475  - 26,475 2,206 iii) Prima vacacional    14,212 4,255 9,957 828 iv) Aguinaldo (sueldo base)   84,385 27,537 56,848 4,737 v) Gratificación de fin de año (Compensación adicional por servicios especiales)297,776 101,244 196,532 16,378 vi) Prima quinquenal (antigüedad)   4,500 1,530 2,970 248 vii) Ayuda para despensa    18,180 6,181 11,999 1,000 viii) Seguro de vida institucional   35,575  - 35,575 2,965 ix) Seguro colectivo de retiro   425  - 425 35
+
+ANEXO 23.10.3. REMUNERACIÓN TOTAL LÍQUIDA MENSUAL DEL FISCAL GENERAL DE LA REPÚBLICA (pesos)DescripciónRemuneración TotalISRREMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA   132,418 59,542 Impuesto sobre la renta retenido y deducciones personales   59,542 4,207 I. Percepciones ordinarias:     191,960 55,335 a) Sueldos y salarios:      190,035 54,693 i) Sueldo base      42,636 12,273 ii) Compensación adicional por servicios especiales   147,399 42,420 b) Prestaciones:      1,925 642 vi) Prima quinquenal (antigüedad)     375 127 vii) Ayuda para despensa     1,515 515 ix) Seguro colectivo de retiro     35  -
+
+ANEXO 23.11. INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍAANEXO 23.11.1.A. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (NETOS MENSUALES) (pesos)Tipo de personalSueldos y SalariosPrestacionesPercepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoPresidencia del Instituto 130,804 15,769 146,573Vicepresidencia 130,804 15,769 146,573Unidad 128,453 15,338 143,791Dirección General126,568127,95115,13415,283141,702143,234Coordinación General / Dirección General Adjunta / Dirección Regional103,275124,83812,45514,815115,730139,653Dirección de Área58,718102,5167,69212,32466,410114,840Subdirección de Área36,08654,7795,4137,17441,49961,953Jefatura de Departamento25,43235,8184,3955,37429,82741,192Personal de Enlace17,69722,8913,6864,16521,38327,056Personal Operativo11,16815,6267,0737,20618,24122,832La percepción ordinaria neta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago. Así mismo contempla la aplicación de las disposiciones fiscales y de seguridad social.Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+
+ANEXO 23.11.1.B. LÍMITES DE PERCEPCIÓN ORDINARIA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (BRUTOS MENSUALES) (pesos)Tipo de personalSueldos y SalariosPrestacionesPercepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoPresidencia del Instituto188,52723,764212,291Vicepresidencia188,52723,764212,291Unidad184,00423,095207,099Dirección General181,148183,24322,77823,011203,926206,254Coordinación General / Dirección General Adjunta / Dirección Regional145,135177,80618,65222,283163,787200,089Dirección de Área78,844143,73511,17518,45390,019162,188Subdirección de Área46,08372,5667,40310,35853,48682,924Jefatura de Departamento31,98945,6555,8047,34037,79352,995Personal de Enlace21,90028,5634,6355,38826,53533,951Personal Operativo13,71019,5638,8029,07022,51228,633La percepción ordinaria bruta incluye los ingresos que reciben los servidores públicos independientemente de su periodicidad o fecha de pago.Los límites de percepción ordinaria no consideran los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+
+ANEXO 23.11.2. LÍMITES DE PERCEPCIÓN EXTRAORDINARIA NETA TOTAL EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) Tipo de personalPago Extraordinario
+
+Anual Unitario
+
+MáximoPresidencia del Instituto Vicepresidencia Unidad41,168 Dirección General41,199 Coordinación General / Dirección General Adjunta / Dirección Regional41,613 Dirección de Área43,151 Subdirección de Área46,031 Jefatura de Departamento53,171 Personal de Enlace84,257 Personal Operativo231,563 La percepción extraordinaria se otorga al personal que se hace acreedor a la misma, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable.La percepción extraordinaria neta incluye la aplicación de las disposiciones fiscales.Los límites de percepción extraordinaria no consideran los efectos del artículo 129 de la Ley de Premios, Estímulos y Recompensas Civiles, respecto del Impuesto Sobre la Renta del premio nacional de antigüedad y recompensa anual.
+
+ANEXO 23.11.3. PERCEPCIONES EXTRAORDINARIAS BRUTAS MENSUALES EN EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos) Tipo de personalPago Extraordinario
+
+MensualizadoPresidencia del Instituto Vicepresidencia Unidad4,808Dirección General4,808Coordinación General / Dirección General Adjunta / Dirección Regional4,808Dirección de Área4,808Subdirección de Área4,808Jefatura de Departamento5,374Personal de Enlace7,835Personal Operativo21,542Las percepciones extraordinarias se encuentran representadas en términos mensuales y su otorgamiento se realiza de forma anual al personal que se hace acreedor a las mismas, siempre y cuando se cumplan los requisitos establecidos en el marco normativo aplicable.
+
+ANEXO 23.11.4. REMUNERACIÓN TOTAL ANUAL DE LA PRESIDENTA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos)NIVEL JERÁRQUICO: HC3Remuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS1,950,350Impuesto sobre la renta746,101Percepción bruta anual2,696,451I. Percepciones ordinarias:2,696,451a) Sueldos y salarios:2,262,324I) Sueldo base400,200II) Compensación garantizada1,862,124b) Prestaciones:434,127I) Aportaciones de seguridad social87,230II) Ahorro solidario26,013III) Prima vacacional11,117IV) Aguinaldo (sueldo base)44,467V) Gratificación de fin de año (Compensación garantizada)206,903VI) Prima quinquenal (antigüedad)4,500VII) Ayuda para despensa18,180VIII) Seguro de vida institucional35,292IX) Seguro colectivo de retiro425El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.Se consideró la estimación de cinco quinquenios.La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+
+ANEXO 23.11.5. REMUNERACIÓN TOTAL ANUAL DE LAS VICEPRESIDENCIAS DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA (pesos)NIVEL JERÁRQUICO: HA1Remuneración TotalREMUNERACIÓN TOTAL ANUAL NETA DE PERCEPCIONES ORDINARIAS   1,950,350Impuesto sobre la renta      746,101Percepción bruta anual      2,696,451I. Percepciones ordinarias:     2,696,451a) Sueldos y salarios:      2,262,324I) Sueldo base      400,200II) Compensación garantizada     1,862,124b) Prestaciones:      434,127I) Aportaciones de seguridad social     87,230II) Ahorro solidario      26,013III) Prima vacacional     11,117IV) Aguinaldo (sueldo base)     44,467V) Gratificación de fin de año (Compensación garantizada)    206,903VI) Prima quinquenal (antigüedad)     4,500VII) Ayuda para despensa     18,180VIII) Seguro de vida institucional     35,292IX) Seguro colectivo de retiro     425El impuesto se determinó conforme a lo dispuesto en el artículo 96 de la Ley del Impuesto Sobre la Renta.Se consideró la estimación de 5 quinquenios.La remuneración total anual no contempla los efectos del artículo 42 Bis de la Ley Federal de los Trabajadores al Servicio del Estado respecto del Impuesto Sobre la Renta del aguinaldo de sueldo base y del aguinaldo de la compensación garantizada.
+
+ANEXO 23.12. TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVAANEXO 23.12.1. REMUNERACIÓN TOTAL ANUAL DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)         REMUNERACIÓN TOTAL ANUAL DE PERCEPCIONES ORDINARIAS    1,854,850Impuesto sobre la renta retenido     687,540Percepción ordinaria bruta anual     2,542,390a) Sueldos y salarios:      1,998,768i) Sueldo base     404,568ii) Compensación Garantizada     1,594,200b) Prestaciones:      543,622i) Aportaciones de seguridad social    81,500ii) Ahorro solidario     26,297iii) Prima Vacacional     11,238iv) Aguinaldo (sueldo base)     68,109v) Gratificación de fin de año (compensación garantizada)   269,291vi) Prima Quinquenal (antigüedad)    4,500vii) Ayuda de Despensa     18,180viii) Seguro de Vida Institucional     41,974ix) Seguro Colectivo de Retiro     425x) Seguro de Gastos Médicos Mayores    22,108Notas:
+
+En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad.
+
+ANEXO 23.12.2. REMUNERACIÓN ORDINARIA TOTAL LÍQUIDA MENSUAL NETA DEL MAGISTRADO PRESIDENTE DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)Remuneración Ordinaria Total Líquida Mensual Neta    117,526Impuesto Sobre la Renta Retenido y deducciones de Seguridad Social   50,964Percepción Ordinaria Bruta Líquida Mensual     168,489a) Sueldos y Salarios:      166,564i) Sueldo Base      33,714ii) Compensación Garantizada     132,850b) Prestaciones:      1,925i) Prima Quinquenal      375ii) Ayuda de Despensa     1,515iii) Seguro Colectivo de Retiro     35Notas:
+
+En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018 y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluye los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como servicios de seguridad.
+
+ANEXO 23.12.3. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA NETA TOTAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)GrupoNivelNúmero de
+
+PlazasSueldos y salariosPrestaciones / 1Percepción Ordinaria Neta MensualMínimoMáximoMínimoMáximoMínimoMáximoMagistrada o Magistrado1, 2, 3 y 4202119,357 119,852 33,589 33,850 152,946 153,702 Titular54 - 117,753  - 32,918  - 150,671 Jefa o Jefe de Unidad63 - 108,888  - 29,913  - 138,801 Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor7, 8, 9 y 102381,201 103,359 21,297 28,107 102,498 131,466 Titular de Unidad12 y 21446,154 71,593 13,041 19,344 59,195 90,937 Secretaria o Secretario de Acuerdos11, 13, 17, 18, 20 y 2161146,154 75,081 13,041 20,208 59,195 95,289 Directora o Director de Área o Asesora o Asesor o Coordinadora o Coordinador11, 14, 15, 19 y 216046,154 75,081 13,041 20,208 59,195 95,289 Coordinadora o Coordinador17 y 19552,033 58,097 14,445 15,939 66,478 74,036 Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato22, 23, 24, 25, 26 y 2718326,318 45,422 8,936 13,003 35,254 58,425 Actuaria o Actuario27165 - 26,318  - 8,936  - 35,254 Oficial Jurisdiccional28 y 2938123,318 23,554 8,431 8,471 31,749 32,025 Jefa o Jefe de Departamento o Delegada o Delegado Sindical28, 29 y 3016721,217 23,554 8,078 8,471 29,295 32,025 Operadora u Operador de Servicios3036 - 21,217  - 8,078  - 29,295 Oficial de Partes3194 - 17,557  - 7,390  - 24,947 Enlace31, 32 y 3373814,880 17,557 6,940 7,390 21,820 24,947 Operativo34 y 3583212,342 14,629 12,530 13,105 24,872 27,734 Notas:
+
+1) En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluyen los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como por servicios de seguridad.
+
+2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles.
+
+ANEXO 23.12.4. LÍMITES MÍNIMOS Y MÁXIMOS DE LA PERCEPCIÓN ORDINARIA BRUTA MENSUAL EN EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA (pesos)GrupoNivelNúmero de
+
+PlazasSueldos y salariosPrestaciones / 1Percepción Ordinaria TotalMínimoMáximoMínimoMáximoMínimoMáximoMagistrada o Magistrado1, 2, 3 y 4202165,814 166,564 46,145 58,426 211,959 224,990 Titular54 - 163,385  - 45,308  - 208,693 Jefa o Jefe de Unidad63 - 149,953  - 41,102  - 191,055 Directora o Director General o Coordinadora o Coordinador General o Secretaria Técnica o Secretario Técnico o Asesora o Asesor7, 8, 9 y 1023108,512 141,575 31,328 39,044 139,840 180,619 Titular de Unidad12 y 21458,030 94,382 18,282 25,622 76,312 120,004 Secretaria o Secretario de Acuerdos11, 13, 17, 18, 20 y 2161158,030 99,512 18,282 26,648 76,312 126,160 Directora o Director De Área o Asesora o Asesor o Coordinadora o Coordinador11, 14, 15, 19 y 216058,030 99,512 18,282 26,648 76,312 126,160 Coordinadora o Coordinador17 y 19566,428 75,091 19,950 21,617 86,378 96,708 Subdirectora o Subdirector de Área o Delegada o Delegado Administrativo o Coordinadora o Coordinador Adjunto o Secretaria o Secretario General de Sindicato22, 23, 24, 25, 26 y 2718331,348 56,984 13,330 18,110 44,678 75,094 Actuaria o Actuario27165 - 31,348  - 13,330  - 44,678 Oficial Jurisdiccional28 y 2938127,530 27,830 12,702 12,751 40,232 40,581 Jefa o Jefe de Departamento o Delegada o Delegado Sindical28, 29 y 3016724,858 27,830 12,262 12,751 37,120 40,581 Operadora u Operador de Servicios3036 - 24,858  - 12,262  - 37,120 Oficial de Partes3194 - 20,205  - 11,426  - 31,631 Enlace31, 32 y 3373816,800 20,205 10,866 11,426 27,666 31,631 Operativo34 y 3583213,653 16,481 14,411 14,701 28,064 31,182 Notas: 1) En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018, y se expide la Ley Federal de Remuneraciones de los Servidores Públicos, no se incluyen los recursos percibidos, en su caso, por concepto de pensiones o haberes de retiro, así como por servicios de seguridad.
+
+2) El presente Tabulador considera únicamente un ajuste salarial al nivel 33 del personal de Enlace, el cual ha sido superado por los incrementos aplicados anualmente al personal operativo. Esta medida se establece con carácter emergente, con el propósito de compensar parcialmente dicha disparidad y atender la equidad remunerativa entre ambos niveles.NOTA GENERAL: Para la integración de las remuneraciones incluidas en los subanexos 23.2 al 23.12, se tomó como base la información remitida por los Poderes Legislativo y Judicial, así como por los entes autónomos en el ámbito de su competencia.
+
+ANEXO 24. PREVISIONES SALARIALES Y ECONÓMICAS DE LOS RAMOS 25 Y 33 (pesos)Incremento a las percepcionesCreación de plazasOtras medidas de carácter económico, laboral y contingenteTotalRamos Generales    25Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos 28,143,190,597650,000,0006,096,828,81134,890,019,408Autoridad Educativa Federal en la Ciudad de México1,668,894,945 2,523,618,7294,192,513,674Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo 26,200,143,029650,000,0003,517,709,98130,367,853,010Fondo de Aportaciones para la Educación Tecnológica y de Adultos274,152,623 55,500,101329,652,72433Aportaciones Federales para Entidades Federativas y Municipios1,563,767,1050285,357,7801,849,124,885Fondo de Aportaciones para los Servicios de Salud1,563,767,105 285,357,7801,849,124,885
+
+ANEXO 25. PROGRAMAS SUJETOS A REGLAS DE OPERACIÓN08 Agricultura y Desarrollo Rural        Fertilizantes        Pesca        Precios de Garantía       Producción para el Bienestar       Programa de Abasto Rural       Programa de Abasto Social de Leche       Sanidad e Inocuidad Agroalimentaria      11 Educación Pública        Atención de Planteles Públicos de Educación Media Superior con Estudiantes con Discapacidad (PAPPEMS)   Beca Nivel Medio Superior       Beca Nivel Superior       Beca Rita Cetina        Becas Elisa Acuña       La Escuela es Nuestra       Programa de Cultura Física y Deporte      Programa para el Desarrollo Profesional Docente     12 Salud         Programa de Atención a Personas con Discapacidad     14 Trabajo y Previsión Social        Jóvenes Construyendo el Futuro       Programa de Apoyo al Empleo (PAE)      15 Desarrollo Agrario, Territorial y Urbano       Programa de Vivienda Social        Programa para Regularizar asentamientos Humanos     16 Medio Ambiente y Recursos Naturales       Desarrollo Forestal Sustentable para el Bienestar      Programa de Conservación para el Desarrollo Sostenible     20 Bienestar        Niñas y Niños        Pensión Mujeres Bienestar       Pensión para Adultos Mayores       Pensión para Personas con Discapacidad      Salud Casa por Casa       Sembrando Vida       38 Ciencia, Humanidades, Tecnología e Innovación       Becas de posgrado y apoyos a la calidad      Sistema Nacional de Investigadoras e Investigadores     47 Entidades no Sectorizadas        Programa de Apoyo a la Educación Indígena      Programa para el Bienestar Integral de los Pueblos Indígenas    48 Cultura         Estímulos a la creación artística, reconocimientos a las trayectorias y apoyo al desarrollo de proyectos culturales   Programa Nacional de Becas Artísticas y Culturales      Programas de Apoyos a la Cultura       Programas del fondo nacional de fomento a las artesanías (FONART)    54 Mujeres        Programa de Atención Integral para el Bienestar de las Mujeres
+
+ANEXO 26. PRINCIPALES PROGRAMAS         04 Gobernación        Política para la protección y defensa de los derechos humanos     Servicios migratorios       Subsidios para las acciones de búsqueda de personas desaparecidas y no localizadas   05 Relaciones Exteriores        Atención y servicios integrales de protección y asistencia consular     Política de promoción y defensa de los intereses de México en el ámbito multilateral   06 Hacienda y Crédito Público        Inclusión financiera para el bienestar       Servicios de recaudación de las contribuciones federales     07 Defensa Nacional        Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional     Operación y desarrollo de la Fuerza Aérea Mexicana      Operación y desarrollo de los cuerpos de seguridad de las Fuerzas Armadas     Programa de igualdad entre mujeres y hombres SDN      Servicios de administración de la Infraestructura Aeroportuaria en Santa Lucía, Edo. Méx.    Servicios de dirección la infraestructura aeroportuaria, ferroviaria y de servicios auxiliares    Servicios de operación para la prevención, investigación y persecución de delitos    Servicios Públicos de Transporte Masivo de Personas y Carga Tren Maya    08 Agricultura y Desarrollo Rural        Adquisición, industrialización y comercialización de productos agroalimentarios     Fertilizantes        Pesca        Precios de Garantía       Producción para el Bienestar       Programa de Abasto Rural       Programa de Abasto Social de Leche       Sanidad e Inocuidad Agroalimentaria      09 Infraestructura, Comunicaciones y Transportes       Caminos artesanales       Infraestructura de carreteras y caminos      Infraestructura ferroviaria para transporte de carga y pasajeros    10 Economía        Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e Inversión  11 Educación Pública        Beca Nivel Medio Superior       Beca Nivel Superior       Beca Rita Cetina        Beca Universal de Educación Media Superior Benito Juárez     Investigación en ciencia, humanidades, tecnología e innovación     La Escuela es Nuestra       Programa de Cultura Física y Deporte      Servicios de educación Básica Comunitaria      Servicios de Educación Media Superior      Servicios de educación para Adultos (INEA)      Servicios de Educación Superior y Posgrado     12 Salud         Investigación, desarrollo tecnológico y formación en salud     Política de prevención y control de enfermedades      Política en Salud Materna Sexual y Reproductiva      Servicios de atención a la salud       Servicios de atención a la salud mental y prevención de las adicciones     Servicios de vacunación       13 Marina         Administración y Operación de Capitanías de Puerto y Asuntos Marítimos     Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales    Infraestructura ferroviaria para transporte de carga y pasajeros     Sistema Educativo Naval      14 Trabajo y Previsión Social        Jóvenes Construyendo el Futuro       Servicios de conciliación laboral y registros laborales      Servicios de impartición y procuración de justicia laboral      Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral  15 Desarrollo Agrario, Territorial y Urbano       Programa de Vivienda Social      16 Medio Ambiente y Recursos Naturales       Agua Potable, Drenaje y Tratamiento       Conservación y Manejo de Áreas Naturales Protegidas      Desarrollo Forestal Sustentable para el Bienestar      Infraestructura en materia de agua potable, alcantarillado y saneamiento     Infraestructura en materia hidroagrícola, tecnificación y protección ante inundaciones    Investigación y capacitación en cambio climático, sustentabilidad y crecimiento Verde    Programa de Apoyo a la Infraestructura Hidroagrícola      Programa de Conservación para el Desarrollo Sostenible      Programa para la Protección y Restauración de Ecosistemas y Especies Prioritarias    Protección Forestal       Servicios de operación y suministro hídrico     18 Energía         Articulación de la política energética       Articulación de la política nuclear y eléctrica     20 Bienestar        Niñas y Niños        Pensión Mujeres Bienestar       Pensión para Adultos Mayores       Pensión para Personas con Discapacidad      Salud Casa por Casa       Sembrando Vida        Servicios a grupos con necesidades especiales     23 Provisiones Salariales y Económicas       Investigación en materia de hidrocarburos y sustentabilidad energética    33 Aportaciones Federales para Entidades Federativas y Municipios      FASP       36 Seguridad y Protección Ciudadana       Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública     Política de inteligencia para la Seguridad Nacional      Servicios de administración del Sistema Federal Penitenciario    38 Ciencia, Humanidades, Tecnología e Innovación       Becas de posgrado y apoyos a la calidad      Sistema Nacional de Investigadoras e Investigadores     47 Entidades no Sectorizadas        Programa para el Bienestar Integral de los Pueblos Indígenas     Servicios de atención a víctimas      48 Cultura         Política de educación y cultura indígena      Programas de apoyos a la cultura       Programas del fondo nacional de fomento a las artesanías (FONART)     Servicios de desarrollo cultural       Servicios de protección y conservación del patrimonio cultural    Instituto Mexicano del Seguro Social       Servicios de atención a la salud       Servicios de guardería      Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado     Servicios de atención a la salud      Petróleos Mexicanos        Producción, distribución y comercialización de petróleo, gas, petrolíferos y petroquímicos    Servicios de operación y mantenimiento de la infraestructura en ecología    Comisión Federal de Electricidad        Coordinación, operación y recarga de la Coordinación Nuclear     Servicios de operación y mantenimiento de las centrales generadoras de energía eléctrica    54 Mujeres Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres     Programa de Atención Integral para el Bienestar de las Mujeres     Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas  55 Agencia de Transformación Digital y Telecomunicaciones      Definición, articulación y coordinación de las Políticas de Transformación Digital y Telecomunicaciones   Investigación, estudios y proyectos en materia espacial      Regulación y supervisión de las telecomunicaciones y la radiodifusión     Servicios de correo      56 Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar     Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral    Fortalecimiento a la atención médica       Servicios de atención a la salud
+
+ANEXO 27. CONSERVACION Y MANTENIMIENTO CARRETERO (pesos)EstadoPROGRAMA PLURIANUAL DE CONSERVACIÓN DE LA RED FEDERAL DE CARRETERAS LIBRE DE PEAJEPROVISIONES PARA EL DESARROLLO, MODERNIZACIÓN Y REHABILITACIÓN DE INFRAESTRUCTURA DE COMUNICACIONES Y TRANSPORTEMONTONacional27,720,000,000 27,720,000,00021,432,000,00021,432,000,000Total49,152,000,000
+
+ANEXO 28. SUBSIDIOS PARA ORGANISMOS DESCENTRALIZADOS ESTATALES (pesos)        MONTOU006 Subsidios para organismos descentralizados estatales (UR 511)      Aguascalientes      1,089,555,181 Baja California      2,159,230,705 Baja California Sur      614,796,818 Campeche       1,215,837,199 Chiapas       1,748,854,272 Chihuahua       2,558,676,259 Coahuila       1,815,940,287 Colima       1,980,523,721 Durango       1,743,268,262 Estado de México      2,773,212,748 Guanajuato       2,320,801,157 Guerrero       2,524,737,368 Hidalgo       1,777,395,861 Jalisco       7,676,175,792 Michoacán       2,542,333,722 Morelos       1,593,144,300 Nayarit       1,842,267,336 Nuevo León       6,964,227,093 Oaxaca       1,533,675,789 Puebla       5,516,838,885 Querétaro       1,817,983,220 Quintana Roo      387,004,470 San Luis Potosí      2,561,900,127 Sinaloa       5,815,199,023 Sonora       2,666,535,800 Tabasco       1,598,398,073 Tamaulipas       2,875,790,767 Tlaxcala       836,550,270 Veracruz       3,310,259,309 Yucatán       2,544,642,384 Zacatecas       1,967,298,686 No Distribuible Geográficamente 1/     14,500,000         TOTAL        78,387,554,8841/ Programa para el Desarrollo Profesional Docente
+
+ANEXO 28.1 CONSOLIDACIÓN DE LAS UNIVERSIDADES INTERCULTURALES (pesos)        MONTOS247 Programa para el Desarrollo Profesional Docente (Universidades Interculturales)     Universidad Intercultural de Chiapas     12,647,099 Universidad Intercultural del Estado de México     16,704,232 Universidad Intercultural del Estado de Tabasco     15,280,106 Universidad Intercultural del Estado de Puebla     10,608,827 Universidad Intercultural Indígena de Michoacán     9,647,420 Universidad Intercultural del Estado de Guerrero     4,134,614 Universidad Intercultural Maya de Quintana Roo     14,037,292 Universidad Intercultural Veracruzana     2,065,272 Universidad Autónoma Indígena de México_1/     12,840,165 Universidad Autónoma Intercultural del Estado de Hidalgo    1,147,186 Universidad Autónoma Intercultural de San Luis Potosí    1,147,186         TOTAL        100,259,3991/ Para efectos comparativos, la Universidad Autónoma Indígena de México se reportó en los ejercicios fiscales anteriores como la Universidad Autónoma Intercultural de Sinaloa.
+
+ANEXO 29. SUBSIDIOS PARA ACCIONES EN MATERIA DE AGUA (DISTRIBUCIÓN DEL PROGRAMA HIDRÁULICO) (pesos)EstadoSubsidios Administración del Agua y Agua PotableSubsidios HidroagrícolasAguascalientes    38,015,937.0010,803,368.00Baja California    70,491,814.0040,210,398.00Baja California Sur   40,093,679.0012,837,235.00Campeche    50,567,961.0031,486,939.00Coahuila    40,683,437.0020,851,846.00Colima    17,776,864.0012,569,674.00Chiapas    102,907,321.00164,200,155.00Chihuahua    75,252,959.0053,003,832.00Ciudad de México   141,906,329.0071,918,651.00Durango    71,725,234.0024,372,985.00Guanajuato    111,004,498.00112,016,079.00Guerrero    0.00126,234,104.00Hidalgo    70,791,957.0058,709,795.00Jalisco    96,506,099.0042,831,391.00Estado de México    213,808,614.0040,566,905.00Michoacán    93,670,821.0084,312,296.00Morelos    70,603,270.0036,070,048.00Nayarit    0.0016,437,874.00Nuevo León    76,226,238.0020,303,776.00Oaxaca    103,833,026.0067,889,797.00Puebla    0.0089,450,887.00Querétaro    55,413,747.0016,187,869.00Quintana Roo    46,418,203.0054,981,767.00San Luis Potosí    87,173,433.0060,786,917.00Sinaloa    69,085,804.00177,291,702.00Sonora    78,867,560.0094,787,234.00Tabasco    70,946,915.0040,919,082.00Tamaulipas    84,392,229.00119,550,518.00Tlaxcala    20,634,443.006,607,581.00Veracruz    139,304,475.00118,914,668.00Yucatán    60,238,813.0091,329,452.00Zacatecas    53,820,048.0014,509,245.00No Distribuible Geográficamente   5,396,561.000.00Total    2,257,558,289.001,932,944,070.00
+
+ANEXO 31. CONSOLIDACIÓN DE UNA SOCIEDAD DE CUIDADOS (pesos)RamoPrograma PresupuestarioDescripciónMontoTotal466,674,926,69304 Gobernación3,443,358 M001Actividades de apoyo administrativo300,000 P007Planeación demográfica del país3,143,35806 Hacienda y Crédito Público150,000 M001Actividades de apoyo administrativo150,00008 Agricultura y Desarrollo Rural3,217,628 M001Actividades de apoyo administrativo3,217,62809 Infraestructura, Comunicaciones y Transportes2,500,000,000 U004Caminos artesanales2,500,000,00011 Educación Pública136,295,037,341 E022Servicios de Educación Media Superior352,766 E023Servicios de Educación Superior y Posgrado188,972,186 E028Servicios de normalización y certificación en competencias laborales5,772,863 E030Servicios de educación Básica Comunitaria4,954,679,953 S072Beca Universal de Educación Básica Rita Cetina129,386,000,000 S247Programa para el Desarrollo Profesional Docente2,418,483 S298Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)31,077,999 U295Fortalecimiento de los Servicios de Educación Especial (PFSEE)824,350,493 U312Expansión de la Educación Inicial901,412,59912 Salud3,543,952,157 E033Servicios de vacunación3,323,717,109 E034Servicios de protección y asistencia social integral63,380,629 P029Política en Salud Materna Sexual y Reproductiva112,449,123 S039Programa de Atención a Personas con Discapacidad44,405,29616 Medio Ambiente y Recursos Naturales3,329,002 S219Desarrollo Forestal Sustentable para el Bienestar3,329,00220 Bienestar172,001,169,283 E048Servicios a grupos con necesidades especiales311,951,956 S174Programa de Apoyo para el Bienestar de las Niñas y Niños, Hijos de Madres Trabajadoras2,467,011,360 S176Pensión para el Bienestar de las Personas Adultas Mayores123,260,764,047 S286Pensión para el Bienestar de las Personas con Discapacidad Permanente28,961,441,920 S316Pensión Mujeres Bienestar15,000,000,000 S317Salud Casa por casa2,000,000,00025 Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos10,000,000 U003Fortalecimiento de la educación básica en la Ciudad de México10,000,00031 Tribunales Agrarios9,608 M001Actividades de apoyo administrativo9,60838 Ciencia, Humanidades, Tecnología e Innovación211,124 M001Actividades de apoyo administrativo211,12447 Entidades no Sectorizadas95,922,62747 Instituto Mexicano de la Radio1,816,909 E058Servicios de producción y transmisión de materiales Radiofónicos de contenidos informativo, educativo, cultural, de orientación, servicio y participación social, y recreativos1,816,90947 Instituto Nacional de los Pueblos Indígenas94,105,717 S178Programa de Apoyo a la Educación Indígena90,657,290 S249 Programa para el Bienestar Integral de los Pueblos Indígenas3,448,42749 Fiscalía General de la República360,950 E009Investigar y perseguir los delitos cometidos en materia de derechos humanos181,500 M001Actividades de apoyo administrativo179,450Instituto Mexicano del Seguro Social147,410,520,667 E031Servicios de atención a la salud126,925,529,468 E067Servicios de prevención y control de enfermedades3,341,291,399 E070Servicios de guardería17,062,045,828 E071Servicios por prestaciones sociales59,506,833 J016Pago de subsidios a los asegurados22,147,139Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado4,039,460,058 E073Servicios de atención a personas con discapacidad338,915 E074Servicios de estancias de bienestar y desarrollo infantil3,994,178,103 J018Subsidios y ayudas1,881,374 K006Infraestructura integral para el derecho a la salud43,061,666Petróleos Mexicanos525,354,155 M001Actividades de apoyo administrativo525,354,15554 Mujeres45,347,530 M001Actividades de apoyo administrativo296,644 P059Política de fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres4,543,295 U012Programa para la Prevención y Detección de las Violencias Femenicidas y la Atención de las Causas40,507,59156 IMSS Bienestar197,450,814 E031Servicios de atención a la salud197,450,814
+
+ANEXO 33. AMPLIACIONES AL RAMO 08 AGRICULTURA Y DESARROLLO RURAL (pesos)        MONTORamo: 08 Agricultura y Desarrollo Rural641,000,000K017Infraestructura para el desarrollo rural sustentable641,000,000
+
+ANEXO 34. AMPLIACIONES AL RAMO 11 EDUCACIÓN PÚBLICA (pesos)        MONTORamo: 11 Educación Pública 10,842,600,000 U006Subsidios para organismos descentralizados estatales4,371,000,000U006Subsidios para organismos descentralizados estatales 1/14,500,000600Subsecretaría de Educación Media Superior300,000,000B00Instituto Politécnico Nacional329,000,000U080Apoyos a centros y organizaciones de educación5,000,000,000U312Expansión de la Educación Inicial 2/628,100,000U312Expansión de la Educación Inicial 3/200,000,0001/ Programa para el Desarrollo Profesional Docente2/ Atención de Niñas, Niños y Adolescentes 3/ Fortalecimiento de los Servicios Personales para las acciones de la expanción de la educación inicial
+
+ANEXO 35. AMPLIACIONES AL RAMO 14 TRABAJO Y PREVISIÓN SOCIAL (pesos)        MONTORamo: 14 Trabajo y Previsión Social 319,000,000 PBECentro Federal de Conciliación y Registro Laboral319,000,000
+
+ANEXO 36. AMPLIACIONES AL RAMO 16 MEDIO AMBIENTE Y RECURSOS NATURALES (pesos)        MONTORamo: 16 Medio Ambiente y Recursos Naturales 1,500,000,000 F00Comisión Nacional de Áreas Naturales Protegidas (CONANP)500,000,000B00Comisión Nacional del Agua (CONAGUA)1,000,000,000
+
+ANEXO 37. AMPLIACIONES AL RAMO 38 CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN (pesos)        MONTORamo: 38 Ciencia, Humanidades, Tecnología e Innovación 2,500,000,000  Estrategia de ciencia, tecnología e innovación2,500,000,000
+
+ANEXO 38. AMPLIACIONES AL RAMO 48 CULTURA (pesos)        MONTORamo: 48 Cultura 1,985,500,000D00Instituto Nacional de Antropología e Historia (Servicios de protección y conservación del patrimonio cultural)938,000,000E00Instituto Nacional de Bellas Artes y Literatura (Servicios educativos culturales y artísticos)985,500,000MDCInstituto Mexicano de Cinematografía62,000,000
+
+________________________________
+
+Viernes 21 de noviembre de 2025 DocVariable dvFecha 	DIARIO OFICIAL	(Edición Vespertina)      PAGE  \* MERGEFORMAT 2 DocVariable dvSeccion
+
+)
+
+*
+
+6
+
+7
+
+9
+
+:
+
+=
+
+>
+
+E
+
+F
+
+H
+
+I
+
+W
+
+X
+
+Z
+
+[
+
+^
+
+_
+
+i
+
+j
+
+s
+
+t
+
+v
+
+w
+
+z
+
+{
+
+¡
+
+¢
+
+£
+
+¥
+
+¦
+
+©
+
+ª
+
+·
+
+¸
+
+¼
+
+½
+
+¿
+
+À
+
+Â
+
+Ã
+
+È
+
+É
+
+Ë
+
+Ì
+
+Ò
+
+Ó
+
+Ù
+
+Ú
+
+ß
+
+à
+
+ì
+
+í
+
+ï
+
+ð
+
+õ
+
+ö
+
+;;;;;;";#;(;);+;,;2;3;5;6;<;=;H;I;L;M;U;V;];^;c;d;g;h;o;p;z;{;~;;;;;;;;;;;;¢;£;¨;©;¬;­;¯;°;¸;¹;¾;¿;Á;Â;Í;Î;Ð;Ñ;Ó;Ô;Ú;Û;æ;ç;é;ê;ô;õ;÷;ø;ú;û;<<<<<
+
+kkkkk#k$k&k'k1k2k3k4k6k7k?k@kHkIkKkLkOkPkXkYk[k\k^k_kbkckjkkkmknkxkykkkkkkkkkkkkkkk£k¤k«k¬k·k¸k¼k½kÅkÆkÈkÉkÑkÒkÔkÕkØkÙkåkækékêkìkíkúkûkþkÿklll
+
+(
+
+)
+
++
+
+,
+
+5
+
+6
+
+B
+
+F
+
+G
+
+M
+
+N
+
+Y
+
+Z
+
+]
+
+^
+
+d
+
+e
+
+o
+
+p
+
+r
+
+s
+
+v
+
+w
+
+¢
+
+£
+
+¦
+
+§
+
+³
+
+´
+
+¶
+
+·
+
+¹
+
+º
+
+È
+
+É
+
+Ð
+
+Ñ
+
+Ù
+
+Ú
+
+â
+
+ã
+
+å
+
+æ
+
+é
+
+ê
+
+ñ
+
+ò
+
+÷
+
+ø
+
+ù
+
+ú
+
+û
+
+ü
+
+ÈÑËôüV"$L&=(b+
+
+"
+
+#
+
+,
+
+-
+
+/
+
+0
+
+;
+
+<
+
+=
+
+>
+
+@
+
+A
+
+K
+
+L
+
+N
+
+O
+
+V
+
+W
+
+Y
+
+Z
+
+g
+
+h
+
+l
+
+m
+
+y
+
+z
+
+|
+
+}
+
+¥
+
+¦
+
+©
+
+ª
+
+¯
+
+°
+
+²
+
+³
+
+¿
+
+À
+
+Ä
+
+Å
+
+Ç
+
+È
+
+Ñ
+
+Ò
+
+Ý
+
+Þ
+
+ß
+
+à
+
+â
+
+ã
+
+ê
+
+ë
+
+û
+
+ü
+
+ý
+
+þ
+
+& ' 2 3 9 : = > J K M N V W X Y ` a d e k l p q t u z {           ¢ £ ¥ ¦ ± ² ³ ´ ¶ · À Á Ã Ä Ç È Í Î Ï Ð Ø Ù Ü Ý â ã ì í î ï ñ ò þ ÿ !!
+
+%
+
+&
+
+(
+
+)
+
+9
+
+:
+
+<
+
+=
+
+O
+
+P
+
+Q
+
+^
+
+_
+
+a
+
+b
+
+g
+
+h
+
+m
+
+n
+
+/
+
+9
+
+:
+
+D
+
+O
+
+P
+
+R
+
+W
+
+µ
+
+À
+
+p
+
+q
+
+s
+
+t
+
+~
+
+©
+
+ª
+
+À
+
+Á
+
+Ã
+
+Ä
+
+É
+
+Ê
+
+Ò
+
+Ó
+
+Ô
+
+Õ
+
+Ý
+
+Þ
+
+ö
+
+÷
+
+ø
+
+Á
+
+è
+
+ö
+
+÷
+
+ù
+
+þ
+
+"#%&01HIJXY]^`aklmnz{}~®¯°ÂÃÅÆÏÐãäåö÷þÿ
+
+]]]]]#]$]-].]/]0]2]3]=]>]A]B]S]T]U]f]g]i]j]o]p]]]]¡]¢]¤]¥]§]¨]°]±]³]´]»]¼]¾]¿]È]É]Ñ]Ò]Ó]Ô]ç]è]é]ù]ú]^^
+
+%
+
+&
+
+-
+
+.
+
+<
+
+=
+
+L
+
+M
+
+T
+
+U
+
+W
+
+X
+
+e
+
+f
+
+u
+
+v
+
+}
+
+~
+
+«
+
+¬
+
+º
+
+»
+
+Æ
+
+Ç
+
+É
+
+Ê
+
+Ó
+
+Ô
+
+á
+
+â
+
+ì
+
+í
+
+÷
+
+ø
+
+%
+
+&
+
+A
+
+E
+
+L
+
+M
+
+j
+
+n
+
+u
+
+v
+
+°
+
+³
+
+º
+
+»
+
+Ø
+
+Ú
+
+á
+
+â
+
+ü
+
+ÿ
+
+!"-.01:;STUV]^`ano|}~¦§µ¶ÃÄÅÆÍÎÐÑÞßìíîïö÷ÿ
+
+~((((((((((¦(§(¯(°(±(²(º(»(½(¾(È(É(Ñ(Ò(Ú(Û(Ý(Þ(ß(á(â(ã(ä(å(ê(ë(ð(ñ(ù(ú())))
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+ÌJ	È%C
+
+VÔ	!%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+VÔ	%J
+
+)
+
+*
+
++
+
+<
+
+=
+
+?
+
+@
+
+E
+
+F
+
+G
+
+H
+
+J
+
+K
+
+R
+
+S
+
+Z
+
+[
+
+\
+
+]
+
+a
+
+b
+
+v
+
+x
+
+y
+
+­
+
+®
+
+¯
+
+À
+
+Á
+
+Ã
+
+)
+
+*
+
+,
+
+1
+
+k
+
+u
+
+v
+
+¢
+
+­
+
+®
+
+°
+
+µ
+
+ï
+
+ú
+
+Ä
+
+É
+
+Ê
+
+Ë
+
+Ì
+
+Î
+
+Ï
+
+Ö
+
+×
+
+Þ
+
+ß
+
+à
+
+á
+
+å
+
+æ
+
+û
+
+ý
+
+þ
+
+û
+
+#%&./679:<=STUefghqruv}~ª³´¼½ÀÁÇÈÛÜÝîïñò÷øùúüý
+
+QQQQ*Q+Q@QAQQQpQqQQQQQ Q¡Q£Q¤QìQíQîQ

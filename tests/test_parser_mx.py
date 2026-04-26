@@ -507,3 +507,461 @@ def test_doc_get_text_then_parse_text_end_to_end():
     article_ids = [b.id for b in blocks if b.block_type == "article"]
     # Must include article 1.
     assert any(aid.startswith("art-1o-") for aid in article_ids)
+
+
+# ── Field-code garbage filter tests ──────────────────────────────────────────
+
+
+def test_field_code_garbage_filtered_from_dip109():
+    """DIP-109.doc must produce no field-code garbage paragraphs.
+
+    DIP-109 (Ley Federal de Juegos y Sorteos) is one of the DOC files that
+    previously leaked Word conditional-format field codes (``$$IfF4``,
+    ``Faöf4``, ``$If^``, ``Qkd…``) and OLE2 binary tail artifacts into the
+    extracted text.  After the fix, none of those tokens should appear in
+    any extracted paragraph, and the trailing single-char relics must be gone.
+    """
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    doc_bytes = (FIXTURES / "DIP-109.doc").read_bytes()
+    paras = _extract_doc_paragraphs(doc_bytes)
+
+    # Known field-code garbage substrings that must not survive.
+    garbage_patterns = [
+        "$$IfF4",
+        "Faöf4",
+        "$If^",
+        "Qkd",
+        "OJQJ",
+        "bjbj",
+        "mH\nsH",
+    ]
+    for pattern in garbage_patterns:
+        offenders = [p for p in paras if pattern in p]
+        assert not offenders, (
+            f"Field-code garbage pattern {pattern!r} found in paragraph(s): "
+            + "; ".join(repr(p[:80]) for p in offenders)
+        )
+
+    # Trailing single-char artifacts must be trimmed.
+    if paras:
+        last = paras[-1]
+        assert len(last) > 1 or last in {".", ","}, (
+            f"Trailing single-char artifact not trimmed: {last!r}"
+        )
+
+    # No paragraph should contain an embedded newline (post-\r split).
+    newline_paras = [p for p in paras if "\n" in p]
+    assert not newline_paras, (
+        "Paragraphs with embedded \\n found: "
+        + "; ".join(repr(p[:80]) for p in newline_paras)
+    )
+
+    # Main law text must still be present.
+    assert any("JUEGOS Y SORTEOS" in p or "ARTICULO 1o" in p for p in paras), (
+        "Main law text missing from DIP-109 extraction"
+    )
+
+
+def test_ascii_clean_paragraphs_not_dropped():
+    """_extract_doc_paragraphs must preserve clean ASCII / Spanish prose.
+
+    Regression guard: the garbage filter must not discard ordinary Spanish
+    legislative text (accented chars, periods, commas, digits).
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    clean_paras = [
+        "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos.",
+        "Artículo 1o. En los Estados Unidos Mexicanos todas las personas gozarán.",
+        "I. La libertad de expresión es inviolable.",
+        "A. Derechos individuales.",
+        "Párrafo reformado DOF 04-12-2006, 10-06-2011",
+        "Se concede un plazo de diez días a los interesados.",
+        "El importe podrá ser de $500 a $5,000 pesos.",  # dollar sign in prose
+    ]
+    for para in clean_paras:
+        assert not _is_binary_garbage(para), (
+            f"Clean paragraph incorrectly flagged as garbage: {para!r}"
+        )
+
+
+def test_embedded_newline_always_garbage():
+    """_is_binary_garbage must flag any paragraph containing an embedded newline."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    # These mimic OLE2 binary paragraphs that bleed into the Word text stream.
+    embedded_newline_cases = [
+        "!/õ\tá\t\n\n\n\n\n¶\nº\n¸½#1_",          # DIP-109 artifact
+        "6B*CJOJPJQJ]mH\nphÿsH\nhY>Ìhès",          # CPEUM tail garbage
+        "sometext\nmore text",                         # generic embedded-NL
+    ]
+    for para in embedded_newline_cases:
+        assert _is_binary_garbage(para), (
+            f"Embedded-newline paragraph not flagged as garbage: {para!r}"
+        )
+
+
+def test_cpeum_doc_no_garbage_after_fix():
+    """_extract_doc_paragraphs on CPEUM.doc must not produce field-code garbage.
+
+    CPEUM previously leaked 35+ binary paragraphs containing embedded
+    newlines and CJOJPJQJ style-sheet tokens.  After the fix all extracted
+    paragraphs must be clean.
+    """
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    paras = _extract_doc_paragraphs(doc_bytes)
+
+    # No paragraph should contain an embedded newline.
+    newline_paras = [p for p in paras if "\n" in p]
+    assert not newline_paras, (
+        f"{len(newline_paras)} paragraph(s) with embedded \\n found in CPEUM output"
+    )
+
+    # No paragraph should contain Word style-sheet tokens.
+    for pattern in ["OJQJ", "bjbj", "Faöf4", "$If^"]:
+        offenders = [p for p in paras if pattern in p]
+        assert not offenders, (
+            f"Garbage pattern {pattern!r} found in CPEUM output: "
+            + repr(offenders[0][:80])
+        )
+
+    # Fracción paragraphs that use tab as indent separator must still be present.
+    fraccion_paras = [p for p in paras if "\t" in p]
+    assert len(fraccion_paras) > 100, (
+        f"Expected >100 tab-formatted fracción paragraphs, got {len(fraccion_paras)}"
+    )
+    # Spot-check: Artículo 2o. apartado A with tab separator.
+    tab_apartado = [p for p in fraccion_paras if p.startswith("A. \t") or p.startswith("A.\t")]
+    assert tab_apartado, "Expected at least one 'A. \\t...' apartado paragraph"
+
+
+# ── Bug 1 — mid-document field-code garbage ──────────────────────────────────
+
+
+def test_toc_garbage_runs_filtered():
+    """_is_binary_garbage must reject TOC-style field-code garbage mid-document.
+
+    Covers the patterns that slipped through the original filter for DIP-218
+    and similar files: $$IfF tokens, $%@A TOC delimiters, $!`!a$ cell refs,
+    and long runs of identical or alternating non-ASCII characters.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    garbage_cases = [
+        # $$IfF conditional-format field code (any suffix)
+        "$$IfFÖ0óË×",
+        # $%@A TOC-style delimiter
+        "$%@Aª«ßà();<\\]°±ÅÆõöý" + "ô" * 20 + "$!`!a$ö,-AB¡¢",
+        # 4+ identical non-ASCII chars (ôôôô run)
+        "ãä®¯ÃÄÖ×çèRSop" + "ô" * 10 + "$!`!a$",
+        # Alternating non-ASCII pair (ïáïáïáïá)
+        "ïÙñèñJóYó" + "ïá" * 8 + "ÚÖáïáïáïá",
+        # OJPJQJ Word style-sheet token (variant without Q)
+        "6B*CJOJPJQJ]aJphÿPó_óGô_ôkôtô",
+        # 4+ identical non-ASCII (ØØØ)
+        "ØØØØØÙÙÙÙËÙŸÙÈÚÊÚÐÚÑÚ",
+    ]
+    for para in garbage_cases:
+        assert _is_binary_garbage(para), (
+            f"TOC/field-code garbage not flagged: {para[:80]!r}"
+        )
+
+
+def test_clean_spanish_not_dropped_by_new_signals():
+    """_is_binary_garbage must NOT drop legitimate Spanish legislative text.
+
+    Regression guard for the new signals (4 and 5): accented chars, ordinals,
+    and dollar signs in prose must not trigger false positives.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    clean_paras = [
+        # Normal accented Spanish prose
+        "En los Estados Unidos Mexicanos todas las personas gozarán de derechos.",
+        # Accented chars not repeated 4+ times
+        "Artículo 1o.- La presente Ley tiene por objeto establecer las bases.",
+        # Dollar sign in monetary context
+        "El importe podrá ser de $500 a $5,000 pesos.",
+        # Ellipsis with ASCII periods (multiple dots)
+        "Se concede al C........... como titular de la dependencia.",
+        # Sequence of different non-ASCII accented chars
+        "áéíóúÁÉÍÓÚñÑçÇ — valid chars in Spanish law.",
+    ]
+    for para in clean_paras:
+        assert not _is_binary_garbage(para), (
+            f"Clean paragraph incorrectly flagged as garbage: {para!r}"
+        )
+
+
+# ── Bug 2 — issuing-decree articles at law start ──────────────────────────────
+
+
+def test_issuing_decree_primero_not_article_heading():
+    """Artículo PRIMERO/SEGUNDO at the START of a law (issuing decree) must not
+    render as ###### article headings when numeric articles follow.
+
+    BEFORE: PRIMERO/SEGUNDO appeared as ###### Artículo PRIMERO.-
+    AFTER:  They appear as body text under a "Decreto que expide esta Ley" section.
+    """
+    from legalize.transformer.markdown import render_paragraphs
+
+    blocks = _diputados_doc_block_run([
+        "Artículo PRIMERO.- Se expide la Ley X para quedar como sigue:",
+        "Artículo SEGUNDO.- Se deroga la norma anterior.",
+        "LEY X",
+        "Artículo 1o.- Las disposiciones de esta Ley son de orden público.",
+        "Artículo 2o.- Para efectos de esta Ley se entiende por:",
+    ])
+
+    full_md = "".join(render_paragraphs(b.versions[0].paragraphs) for b in blocks)
+
+    # The issuing-decree section heading must appear
+    assert "Decreto que expide esta Ley" in full_md, (
+        "Missing 'Decreto que expide esta Ley' section heading"
+    )
+    # PRIMERO and SEGUNDO must NOT be ###### headings
+    assert "###### Artículo PRIMERO" not in full_md, (
+        "Artículo PRIMERO still appears as a ###### heading"
+    )
+    assert "###### Artículo SEGUNDO" not in full_md, (
+        "Artículo SEGUNDO still appears as a ###### heading"
+    )
+    # Their text must still be present as prose
+    assert "Se expide la Ley X" in full_md, "Issuing decree text missing"
+    assert "Se deroga la norma anterior" in full_md, "Issuing decree text missing"
+
+    # The main-law articles MUST still be ###### headings
+    assert "###### Artículo 1o." in full_md, "Main law article 1o. missing as heading"
+    assert "###### Artículo 2o." in full_md, "Main law article 2o. missing as heading"
+
+
+def test_issuing_decree_only_triggers_with_numeric_articles():
+    """When a law's articles are ALL word-ordinal (rare), PRIMERO/SEGUNDO must remain
+    as proper article headings (no issuing-decree detection).
+    """
+    blocks = _diputados_doc_block_run([
+        "Artículo PRIMERO.- Primera disposición.",
+        "Artículo SEGUNDO.- Segunda disposición.",
+        "Artículo TERCERO.- Tercera disposición.",
+    ])
+
+    # No numeric articles → no issuing decree section
+    section_blocks = [b for b in blocks if b.block_type == "section"]
+    decreto_sections = [b for b in section_blocks if "Decreto" in b.title]
+    assert not decreto_sections, (
+        "Issuing-decree section should NOT appear when no numeric articles exist"
+    )
+
+    # PRIMERO/SEGUNDO/TERCERO must be regular article blocks
+    art_blocks = [b for b in blocks if b.block_type == "article"]
+    assert len(art_blocks) == 3, f"Expected 3 article blocks, got {len(art_blocks)}"
+
+
+def test_issuing_decree_section_heading_emitted_once():
+    """The 'Decreto que expide esta Ley' heading is emitted exactly once,
+    before the first PRIMERO article.
+    """
+    blocks = _diputados_doc_block_run([
+        "Artículo PRIMERO.- Se expide la Ley Y.",
+        "Artículo SEGUNDO.- Disposición secundaria.",
+        "Artículo 1o.- Texto principal.",
+        "Artículo 2o.- Más texto.",
+    ])
+
+    decreto_sections = [
+        b for b in blocks
+        if b.block_type == "section" and "Decreto que expide" in b.title
+    ]
+    assert len(decreto_sections) == 1, (
+        f"Expected exactly 1 'Decreto que expide' section, got {len(decreto_sections)}"
+    )
+
+    # Confirm ordering: decreto section comes before first main article
+    decreto_idx = next(i for i, b in enumerate(blocks) if "Decreto que expide" in b.title)
+    first_art_idx = next(i for i, b in enumerate(blocks) if b.id.startswith("art-1o-"))
+    assert decreto_idx < first_art_idx, (
+        "Decreto section must appear before the first main-law article"
+    )
+
+
+# ── Decreto-tail grouping tests ──────────────────────────────────────────────
+
+
+def _diputados_doc_block_run(paragraphs: list[str]):
+    """Helper: drive the DOC block builder with a synthetic paragraph list.
+
+    Patches ``_extract_doc_paragraphs`` to return the given list so no real
+    .doc file is needed.  Returns the built blocks.
+    """
+    import base64
+
+    from legalize.fetcher.mx import parser as mx_parser
+
+    real = mx_parser._extract_doc_paragraphs
+    mx_parser._extract_doc_paragraphs = lambda _b: paragraphs
+    try:
+        envelope = {
+            "source": "diputados",
+            "source_format": "doc",
+            "norm_id": "DIP-TEST",
+            "abbrev": "TEST",
+            "title": "Ley de Prueba",
+            "rank": "ley",
+            "publication_date": "2020-01-01",
+            "last_reform_date": "2024-06-15",
+            "doc_url": "https://example.test/TEST.doc",
+            "doc_b64": base64.b64encode(b"\xd0\xcf\x11\xe0stub").decode("ascii"),
+        }
+        return mx_parser._diputados_doc_blocks(envelope)
+    finally:
+        mx_parser._extract_doc_paragraphs = real
+
+
+def test_decreto_tail_trigger_switches_mode():
+    """After ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA, no new art- blocks."""
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Texto del artículo principal.",
+        "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA",
+        "DECRETO por el que se reforma el artículo 1o.",
+        "TRANSITORIOS",
+        "Artículo Primero.- Este decreto entrará en vigor.",
+        "Artículo Segundo.- Se abroga la norma anterior.",
+    ])
+    # Only the main article should be an art- block
+    art_blocks = [b for b in blocks if b.block_type == "article" and b.id.startswith("art-")]
+    assert len(art_blocks) == 1
+    assert art_blocks[0].id.startswith("art-1o-")
+
+
+def test_decreto_tail_articulo_not_an_article_heading():
+    """Artículo PRIMERO/SEGUNDO inside decreto-tail must NOT become ###### headings."""
+    from legalize.transformer.markdown import render_paragraphs
+
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Cuerpo del artículo principal.",
+        "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA",
+        "DECRETO por el que se reforma el artículo 1o.",
+        "TRANSITORIOS",
+        "Artículo Primero.- Este decreto entrará en vigor al día siguiente.",
+        "Artículo Segundo.- Se abrogan las disposiciones contrarias.",
+    ])
+
+    # Render all blocks and check no ###### heading appears in the tail
+    full_md = ""
+    for b in blocks:
+        full_md += render_paragraphs(b.versions[0].paragraphs)
+
+    # The main article heading (###### Artículo 1o.) is expected
+    assert "###### Artículo 1o." in full_md
+
+    # Artículo Primero and Segundo from the decreto-tail must NOT be headings
+    assert "###### Artículo Primero." not in full_md
+    assert "###### Artículo Segundo." not in full_md
+
+    # Their text must still appear as prose
+    assert "Este decreto entrará en vigor" in full_md
+    assert "Se abrogan las disposiciones contrarias" in full_md
+
+
+def test_decreto_tail_decreto_lines_become_section_headings():
+    """Each DECRETO line inside the tail renders as a #### section heading."""
+    from legalize.transformer.markdown import render_paragraphs
+
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Cuerpo del artículo principal.",
+        "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA",
+        "DECRETO por el que se reforma el artículo 1o.",
+        "TRANSITORIOS",
+        "PRIMERO.- Este decreto entrará en vigor.",
+        "DECRETO por el que se reforma el artículo 2o.",
+        "TRANSITORIOS",
+        "PRIMERO.- Este otro decreto también entrará en vigor.",
+    ])
+
+    section_blocks = [b for b in blocks if b.block_type == "section"]
+    section_titles = [b.title for b in section_blocks]
+
+    # The trigger heading
+    assert any("DECRETOS DE REFORMA" in t for t in section_titles)
+    # Both DECRETO lines become section headings
+    assert any("artículo 1o" in t for t in section_titles)
+    assert any("artículo 2o" in t for t in section_titles)
+
+    # TRANSITORIOS inside decreto-tail become sub-section headings
+    full_md = ""
+    for b in blocks:
+        full_md += render_paragraphs(b.versions[0].paragraphs)
+    assert "##### TRANSITORIOS" in full_md
+
+
+def test_decreto_tail_does_not_affect_main_transitorios():
+    """Plain ARTÍCULOS TRANSITORIOS (without DE DECRETOS DE REFORMA) is unaffected."""
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Cuerpo del artículo principal.",
+        "ARTÍCULOS TRANSITORIOS",
+        "Artículo Único.- Esta ley entrará en vigor.",
+    ])
+
+    # The transitorio must be an article block (not a decreto-body container)
+    art_blocks = [b for b in blocks if b.block_type == "article"]
+    unico_blocks = [b for b in art_blocks if "unico" in b.id]
+    assert len(unico_blocks) == 1
+    assert unico_blocks[0].id.startswith("art-unico-")
+
+
+def test_decreto_tail_cpeum_fixture_no_spurious_headings():
+    """On the real CPEUM.doc fixture, the decreto-tail produces no art- blocks past 136."""
+    import base64
+
+    from legalize.fetcher.mx.parser import _diputados_doc_blocks
+    from legalize.transformer.markdown import render_paragraphs
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    envelope = {
+        "source": "diputados",
+        "source_format": "doc",
+        "norm_id": "DIP-CPEUM",
+        "abbrev": "CPEUM",
+        "title": "Constitución Política de los Estados Unidos Mexicanos",
+        "rank": "constitucion",
+        "publication_date": "1917-02-05",
+        "last_reform_date": "2026-04-10",
+        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+        "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc",
+        "doc_b64": base64.b64encode(doc_bytes).decode("ascii"),
+    }
+    blocks = _diputados_doc_blocks(envelope)
+
+    # Main law articles only — no art- blocks should exist after the decreto-tail
+    # trigger (which appears after the constitutional articles at ~block idx 132).
+    main_law_art_seqs = [
+        int(b.id.split("-")[-1])
+        for b in blocks
+        if b.block_type == "article" and b.id.startswith("art-")
+    ]
+    assert main_law_art_seqs, "No main law articles found"
+    # All main law art- blocks must have been built before the decreto-tail trigger;
+    # the maximum sequence number should be close to the real article count (~136).
+    assert max(main_law_art_seqs) <= 150, (
+        f"Suspiciously high max article sequence {max(main_law_art_seqs)} — "
+        "decreto-tail articles may still be getting promoted to art- blocks"
+    )
+
+    # Render and confirm no ###### ordinal headings in the tail portion
+    # (after the first DECRETO section heading).
+    tail_start = next(
+        i for i, b in enumerate(blocks)
+        if b.block_type == "section" and "DECRETOS DE REFORMA" in b.title.upper()
+    )
+    tail_md = ""
+    for b in blocks[tail_start:]:
+        tail_md += render_paragraphs(b.versions[0].paragraphs)
+
+    # Ordinal article headings must not appear in the decreto tail
+    assert "###### Artículo Primero" not in tail_md
+    assert "###### Artículo Segundo" not in tail_md
+    assert "###### Artículo PRIMERO" not in tail_md
+    assert "###### ARTICULO PRIMERO" not in tail_md

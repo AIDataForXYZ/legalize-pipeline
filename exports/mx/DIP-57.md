@@ -10,7 +10,7 @@ publication_date: "1999-01-06"
 last_updated: "2012-04-09"
 last_reform_dof: "2012-04-09"
 status: "in_force"
-source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/57.doc"
 gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=04&day=09#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf"
@@ -124,11 +124,15 @@ Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y
 
 ###### Artículo 7o.-
 
-La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamentos y demás disposiciones aplicables. Las organizaciones ganaderas a que se refiere esta Ley gozarán de personalidad jurídica, una vez que queden registradas. Las organizaciones ganaderas constituidas en los términos de esta Ley, tienen a su favor la presunción de ser representativas de la producción pecuaria de la localidad o región en que operen.
+La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamentos y demás disposiciones aplicables. Las organizaciones ganaderas a que se refiere esta Ley gozarán de personalidad jurídica, una vez que queden registradas.
+
+Las organizaciones ganaderas constituidas en los términos de esta Ley, tienen a su favor la presunción de ser representativas de la producción pecuaria de la localidad o región en que operen.
 
 ###### Artículo 8o.-
 
-Las asociaciones ganaderas locales generales estarán integradas por lo menos, por treinta ganaderos organizados en unidades de producción individuales o colectivas, criadores de cuando menos cinco vientres bovinos o su equivalencia en otras especies, conforme lo disponga el reglamento de esta Ley. Las asociaciones ganaderas locales especializadas estarán integradas por lo menos, por diez ganaderos criadores de cualquier especie-producto animal determinada, conforme lo establezca el reglamento y de acuerdo con las equivalencias determinadas en el mismo. Los productores podrán solicitar en cualquier momento, su ingreso a las asociaciones ganaderas locales, generales o especializadas, en términos del reglamento de esta Ley.
+Las asociaciones ganaderas locales generales estarán integradas por lo menos, por treinta ganaderos organizados en unidades de producción individuales o colectivas, criadores de cuando menos cinco vientres bovinos o su equivalencia en otras especies, conforme lo disponga el reglamento de esta Ley. Las asociaciones ganaderas locales especializadas estarán integradas por lo menos, por diez ganaderos criadores de cualquier especie-producto animal determinada, conforme lo establezca el reglamento y de acuerdo con las equivalencias determinadas en el mismo.
+
+Los productores podrán solicitar en cualquier momento, su ingreso a las asociaciones ganaderas locales, generales o especializadas, en términos del reglamento de esta Ley.
 
 ###### Artículo 9o.-
 
@@ -136,9 +140,7 @@ Las uniones ganaderas regionales generales o estatales y especializadas, se cons
 
 ###### Artículo 10.-
 
-La Confederación Nacional de Organizaciones Ganaderas, denominación reservada exclusivamente para la organización ganadera nacional registrada por la Secretaría, se integrará con las uniones ganaderas regionales, generales o estatales y especializadas, y residirá en la capital de la República.
-
-Los asuntos del conocimiento de la Confederación Nacional de Organizaciones Ganaderas, se resolverán mediante el sistema de votación que establezca el reglamento de esta Ley; cada unión ganadera representará dos votos que se ejercerán por conducto de sus delegados.
+La Confederación Nacional de Organizaciones Ganaderas, denominación reservada exclusivamente para la organización ganadera nacional registrada por la Secretaría, se integrará con las uniones ganaderas regionales, generales o estatales y especializadas, y residirá en la capital de la República. Los asuntos del conocimiento de la Confederación Nacional de Organizaciones Ganaderas, se resolverán mediante el sistema de votación que establezca el reglamento de esta Ley; cada unión ganadera representará dos votos que se ejercerán por conducto de sus delegados.
 
 ###### Artículo 11.-
 
@@ -150,7 +152,15 @@ La Confederación Nacional de Organizaciones Ganaderas en representación de tod
 
 ###### Artículo 13.-
 
-La Secretaría abrirá un registro de las organizaciones ganaderas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el Acta Constitutiva y los Estatutos de las mismas, el número e identidad de sus afiliados, las de liquidación y disolución y en general, los actos y documentos que modifiquen sus inscripciones. Asimismo llevará a cabo el registro de los fierros marcas y tatuajes que hayan sido autorizados en los municipios por la delegación correspondiente, en los términos que establezca el reglamento. La movilización de ganado que se efectúe en la República Mexicana con motivos de transmisión de propiedad o con cualquier otro propósito, se llevarán a cabo siempre y cuando: A) Se acredite debidamente la propiedad con la factura de compraventa correspondiente; B) Se obtenga la certificación de la Asociación Local que exista en el municipio y; C) Se compruebe que se ha cumplido con los requisitos zoosanitarios. Los Estatutos de las organizaciones ganaderas en los términos que establezca el reglamento deberán consignar, cuando menos, normas relativas a la integración, facultades y funcionamiento de sus órganos; al patrimonio de la organización; a los sistemas de elección de sus dirigentes, a la duración de los cargos directivos y las incompatibilidades para su desempeño, así como las relativas a los derechos y obligaciones de sus asociados.
+La Secretaría abrirá un registro de las organizaciones ganaderas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el Acta Constitutiva y los Estatutos de las mismas, el número e identidad de sus afiliados, las de liquidación y disolución y en general, los actos y documentos que modifiquen sus inscripciones. Asimismo llevará a cabo el registro de los fierros marcas y tatuajes que hayan sido autorizados en los municipios por la delegación correspondiente, en los términos que establezca el reglamento. La movilización de ganado que se efectúe en la República Mexicana con motivos de transmisión de propiedad o con cualquier otro propósito, se llevarán a cabo siempre y cuando:
+
+A) Se acredite debidamente la propiedad con la factura de compraventa correspondiente;
+
+B) Se obtenga la certificación de la Asociación Local que exista en el municipio y;
+
+C) Se compruebe que se ha cumplido con los requisitos zoosanitarios.
+
+Los Estatutos de las organizaciones ganaderas en los términos que establezca el reglamento deberán consignar, cuando menos, normas relativas a la integración, facultades y funcionamiento de sus órganos; al patrimonio de la organización; a los sistemas de elección de sus dirigentes, a la duración de los cargos directivos y las incompatibilidades para su desempeño, así como las relativas a los derechos y obligaciones de sus asociados.
 
 ###### Artículo 14.-
 
@@ -162,7 +172,9 @@ Es obligación de la Secretaría proporcionar los servicios técnicos, estímulo
 
 ###### Artículo 16.-
 
-Las organizaciones a que se refiere esta Ley, no tendrán más propósitos que los establecidos en el artículo 5o. de este ordenamiento; no serán de carácter lucrativo aunque realicen actividades remuneradas sobre el proceso económico de la producción ganadera a favor del sostenimiento de la asociación, procurándose en todo tiempo la proporcionalidad de la distribución de los recursos entre las diversas organizaciones. Tampoco podrán, bajo pena de disolución, obligar a sus asociados a la realización de actividades políticas partidistas ni a la adopción de militancia partidista alguna. La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+Las organizaciones a que se refiere esta Ley, no tendrán más propósitos que los establecidos en el artículo 5o. de este ordenamiento; no serán de carácter lucrativo aunque realicen actividades remuneradas sobre el proceso económico de la producción ganadera a favor del sostenimiento de la asociación, procurándose en todo tiempo la proporcionalidad de la distribución de los recursos entre las diversas organizaciones. Tampoco podrán, bajo pena de disolución, obligar a sus asociados a la realización de actividades políticas partidistas ni a la adopción de militancia partidista alguna.
+
+La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO III
 
@@ -176,7 +188,9 @@ II. Cuando no cuenten con los recursos suficientes para su sostenimiento o para 
 
 III. Porque el número de asociados llegue a ser inferior al mínimo necesario que esta Ley establece, o
 
-IV. En caso de que la Secretaría emita resolución que revoque su registro, por las causas previstas en esta Ley, o por resolución judicial que haya causado ejecutoria. Disuelta la organización se procederá a su liquidación, en los términos legales aplicables.
+IV. En caso de que la Secretaría emita resolución que revoque su registro, por las causas previstas en esta Ley, o por resolución judicial que haya causado ejecutoria.
+
+Disuelta la organización se procederá a su liquidación, en los términos legales aplicables.
 
 ###### Artículo 18.-
 
@@ -216,12 +230,48 @@ Tratándose de conflictos entre asociaciones ganaderas locales o entre éstas y 
 
 ###### Artículo 26.-
 
-Las resoluciones que en estos casos emita la Secretaría, serán definitivas y no admitirán ulterior recurso administrativo. TRANSITORIOS PRIMERO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. SEGUNDO.- Se abroga la Ley de Asociaciones Ganaderas del doce de mayo de mil novecientos treinta y seis. TERCERO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia se hubieren expedido con anterioridad, en todo lo que no se opongan a este ordenamiento. El Ejecutivo Federal expedirá el reglamento correspondiente de la presente Ley. CUARTO.- Las Uniones Nacionales de Avicultores y de Apicultores; las Asociaciones Ganaderas Locales Especializadas en Avicultura y Apicultura; la Asociación Nacional de Criadores de Toros de Lidia; la Asociación Ganadera Nacional de Productores de Leche; la Asociación Mexicana de Criadores de Ovinos; la Asociación Nacional de Ganaderos Diversificados Criadores de Fauna y las Asociaciones Nacionales de Criadores de Ganado de Registro, que se encuentren afiliadas a la Confederación Nacional Ganadera; y en general, todas las demás organizaciones o asociaciones y que tengan el mismo objeto,
+Las resoluciones que en estos casos emita la Secretaría, serán definitivas y no admitirán ulterior recurso administrativo. TRANSITORIOS
 
-cualquiera que sea la figura jurídica que hubieren adoptado al constituirse, continuarán gozando de personalidad jurídica en los términos en que se constituyeron y de los beneficios que les otorga el artículo 11 de esta Ley. QUINTO.- Los órganos directivos de las agrupaciones ganaderas constituidas de conformidad con la Ley que se abroga, y que a la entrada en vigor de este ordenamiento no hayan concluido el periodo para el cual fueron electos, continuarán desempeñando su encargo, a cuyo término la Secretaría, realizará las convocatorias respectivas a fin de celebrar asambleas en las que se elijan nuevas mesas directivas y se modifiquen sus estatutos para adecuarlos a las disposiciones aplicables. Tratándose de la Confederación Nacional de Organizaciones Ganaderas, la Secretaría emitirá la convocatoria correspondiente cuando concluya el ejercicio de la actual directiva de la Confederación Nacional Ganadera, para los efectos del párrafo anterior. SEXTO.- El patrimonio actual de las organizaciones ganaderas legalmente constituidas y registradas ante la Secretaría, pertenece a aquellos asociados que a la fecha de entrada en vigor de este ordenamiento, estén reconocidos e inscritos en la organización respectiva. Dichas organizaciones determinarán, al momento de las adecuaciones estatutarias que se realicen en los términos de esta Ley, el régimen patrimonial que deberá prevalecer en las mismas. México, D.F., a 14 de diciembre de 1998.- Dip. Salvador Sánchez Vázquez, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Clarisa Torres Méndez, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas". En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+PRIMERO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley de Asociaciones Ganaderas del doce de mayo de mil novecientos treinta y seis.
+
+TERCERO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia se hubieren expedido con anterioridad, en todo lo que no se opongan a este ordenamiento.
+
+El Ejecutivo Federal expedirá el reglamento correspondiente de la presente Ley.
+
+CUARTO.- Las Uniones Nacionales de Avicultores y de Apicultores; las Asociaciones Ganaderas Locales Especializadas en Avicultura y Apicultura; la Asociación Nacional de Criadores de Toros de Lidia; la Asociación Ganadera Nacional de Productores de Leche; la Asociación Mexicana de Criadores de Ovinos; la Asociación Nacional de Ganaderos Diversificados Criadores de Fauna y las Asociaciones Nacionales de Criadores de Ganado de Registro, que se encuentren afiliadas a la Confederación Nacional Ganadera; y en general, todas las demás organizaciones o asociaciones y que tengan el mismo objeto, cualquiera que sea la figura jurídica que hubieren adoptado al constituirse, continuarán gozando de personalidad jurídica en los términos en que se constituyeron y de los beneficios que les otorga el artículo 11 de esta Ley.
+
+QUINTO.- Los órganos directivos de las agrupaciones ganaderas constituidas de conformidad con la Ley que se abroga, y que a la entrada en vigor de este ordenamiento no hayan concluido el periodo para el cual fueron electos, continuarán desempeñando su encargo, a cuyo término la Secretaría, realizará las convocatorias respectivas a fin de celebrar asambleas en las que se elijan nuevas mesas directivas y se modifiquen sus estatutos para adecuarlos a las disposiciones aplicables.
+
+Tratándose de la Confederación Nacional de Organizaciones Ganaderas, la Secretaría emitirá la convocatoria correspondiente cuando concluya el ejercicio de la actual directiva de la Confederación Nacional Ganadera, para los efectos del párrafo anterior.
+
+SEXTO.- El patrimonio actual de las organizaciones ganaderas legalmente constituidas y registradas ante la Secretaría, pertenece a aquellos asociados que a la fecha de entrada en vigor de este ordenamiento, estén reconocidos e inscritos en la organización respectiva.
+
+Dichas organizaciones determinarán, al momento de las adecuaciones estatutarias que se realicen en los términos de esta Ley, el régimen patrimonial que deberá prevalecer en las mismas.
+
+México, D.F., a 14 de diciembre de 1998.- Dip. Salvador Sánchez Vázquez, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Clarisa Torres Méndez, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil  novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-###### Artículo DÉCIMO.
+#### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 
-OCTAVO. Se reforman los artículos 1o, segundo párrafo; 3o, primer párrafo; y 4o, fracción XII, de la Ley de Organizaciones Ganaderas, para quedar como sigue: ……… TRANSITORIOS Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo. México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+
+ARTÍCULO DÉCIMO OCTAVO. Se reforman los artículos 1o, segundo párrafo; 3o, primer párrafo; y 4o, fracción XII, de la Ley de Organizaciones Ganaderas, para quedar como sigue:
+
+##### TRANSITORIOS
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+Página PAGE9 de NUMPAGES9
+
+.

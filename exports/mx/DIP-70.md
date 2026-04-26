@@ -10,7 +10,7 @@ publication_date: "1934-08-31"
 last_updated: "2012-04-09"
 last_reform_dof: "2012-04-09"
 status: "in_force"
-source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/70.doc"
 gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=04&day=09#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf"
@@ -74,10 +74,42 @@ La Secretaría de Economía intervendrá en el funcionamiento de la sociedad, te
 
 > <small>Párrafo reformado DOF 09-04-2012</small>
 
-I.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales. II.- Convocar para la celebración de asambleas cuando no se hayan reunido en las épocas señaladas en el contrato social, y a falta de estipulación en éste, cuando haya transcurrido más de un año sin que se haya celebrado una de dichas asambleas. III.- Promover ante la autoridad judicial la disolución y liquidación de la sociedad, cuando existan motivos legales para ello. IV.- Denunciar ante el Ministerio Público las irregularidades que tengan carácter delictuoso, cometidas por los administradores de la sociedad.
+I.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales.
+
+II.- Convocar para la celebración de asambleas cuando no se hayan reunido en las épocas señaladas en el contrato social, y a falta de estipulación en éste, cuando haya transcurrido más de un año sin que se haya celebrado una de dichas asambleas.
+
+III.- Promover ante la autoridad judicial la disolución y liquidación de la sociedad, cuando existan motivos legales para ello.
+
+IV.- Denunciar ante el Ministerio Público las irregularidades que tengan carácter delictuoso, cometidas por los administradores de la sociedad.
 
 ###### Artículo 13.-
 
-Los administradores de la sociedad garantizarán su manejo en la forma que prevenga el contrato social. En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente Ley, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los veintiocho días del mes de agosto de mil novecientos treinta y cuatro.- Abelardo L. Rodríguez.- Rúbrica.- El Secretario de la Economía Nacional, P. Villa Michel.- Rúbrica.- Al C. Subsecretario de Gobernación.- Presente." Lo que comunico a usted para su publicación y demás fines. Sufragio Efectivo, No Reelección. México, D. F., a 30 de agosto de 1934.- El Subsecretario de Gobernación Encargado del Despacho Juan G. Cabral.- Rúbrica. Al C…
+Los administradores de la sociedad garantizarán su manejo en la forma que prevenga el contrato social. En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente Ley, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los veintiocho días del mes de agosto de mil novecientos treinta y cuatro.- Abelardo L. Rodríguez.- Rúbrica.- El Secretario de la Economía Nacional, P. Villa Michel.- Rúbrica.- Al C. Subsecretario de Gobernación.- Presente."
+
+Lo que comunico a usted para su publicación y demás fines.
+
+Sufragio Efectivo, No Reelección.
+
+México, D. F., a 30 de agosto de 1934.- El Subsecretario de Gobernación Encargado del Despacho Juan G. Cabral.- Rúbrica.
+
+Al C
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+
+#### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+
+ARTÍCULO VIGÉSIMO CUARTO. Se reforman los artículos 1o.; 3o. y 12, primer párrafo, de la Ley de Sociedades de Responsabilidad Limitada de Interés Público, para quedar como sigue:
+
+.
+
+##### TRANSITORIOS
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

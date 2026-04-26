@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <TITLE>Ficha t&eacute;cnica del Ordenamiento</TITLE>
+  <LINK href="scripts/styles.css" rel="stylesheet" type="text/css">
+  <SCRIPT language="javascript" src=""></SCRIPT>
+  <link href="scripts/estilos2013.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function nuevoAjax()
+{	/* Crea el objeto AJAX. Esta funcion es generica para cualquier utilidad de este tipo, por lo que se puede copiar
+	tal como esta aqui */
+	var xmlhttp=false; 
+	try 
+	{	// Creacion del objeto AJAX para navegadores no IE
+		xmlhttp=new ActiveXObject("Msxml2.XMLHTTP"); 
+	}
+	catch(e)
+	{	try
+		{	// Creacion del objet AJAX para IE 
+			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP"); 
+		} 
+		catch(E) { xmlhttp=false; }
+	}
+	if (!xmlhttp && typeof XMLHttpRequest!="undefined")
+		{ xmlhttp=new XMLHttpRequest(); } 
+	return xmlhttp; 
+}
+
+
+	////////////////FUNCION QUE MUESTRA LOS DATOS DEL ENLACE en enlace.php//////////////////////
+function avisoVinculo(id)
+	{
+				divResultado = document.getElementById('enlace');
+		var ajax=nuevoAjax();
+		ajax.open("POST","./scripts/vinculoRoto.php", true); 
+        ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded"); //necesario cuando es formulario
+		ajax.send("id="+id);
+		ajax.onreadystatechange = function(){
+			if (ajax.readyState==4) 
+			{
+			document.getElementById('aviso').style.display='none';
+			divResultado.innerHTML = ajax.responseText;	
+			
+			//alert("Le agradecemos su ayuda. \n La información ha sido enviada exitosamente");	
+			}
+		}
+	}
+//-->
+</script>
+  <style type="text/css">
+<!--
+.style5 {color: #FFFFFF}
+-->
+  </style>
+</HEAD>
+  <BODY background="imagenes/fondoFicha.gif" leftmargin="0" topmargin="0" onload="MM_preloadImages('imagenes/btns/cerrar_over.gif')">
+  <table width="470" height="370" border="0" cellpadding="0" cellspacing="0" background="imagenes/fondoFicha.gif" class="txt_gral">
+        <tr align="center">
+      <td  class="td_titulo_gral">&nbsp;</td>
+      <td colspan="4"  class="td_titulo_gral"><b>Reglamento de Alcoholes para el Municipio de Ensenada</b></td>
+    </tr>
+    <tr align="center">
+      <td colspan="5"  class="td_imprimir"><a href="javascript:window.print();">Imprimir</a>&nbsp;&nbsp;</td>
+    </tr>
+        <tr valign="middle">
+      <td width="12" class="tabla_gral">&nbsp;</td>
+      <td width="228" class="td_titulosub_fichaor">Fecha de Publicaci&oacute;n:</td>
+      <td width="4">&nbsp;</td>
+      <td width="236" colspan="2" class="tabla_gral"><div align="center" class="fichatxt">
+          10 de Enero de 2003      </div></td>
+    </tr>
+        <tr valign="middle">
+      <td>&nbsp;</td>
+      <td class="td_titulosub_fichaor2">&Aacute;mbito:</td>
+      <td>&nbsp;</td>
+      <td colspan="2" bordercolor="#FFFFFF"><div align="center" class="fichatxt">Municipal</div></td>
+    </tr>
+    <tr valign="middle">
+      <td class="tabla_gral">&nbsp;</td>
+      <td class="td_titulosub_fichaor">Estatus:</td>
+      <td>&nbsp;</td>
+      <td colspan="2" bordercolor="#FFFFFF" class="tabla_gral"><div align="center" class="fichatxt">
+          Vigente      </div></td>
+    </tr>
+    <tr valign="middle">
+      <td>&nbsp;</td>
+      <td class="td_titulosub_fichaor2">Tipo:</td>
+      <td>&nbsp;</td>
+      <td colspan="2" bordercolor="#FFFFFF"><div align="center" class="fichatxt">Reglamento</div></td>
+    </tr>
+    <tr valign="middle">
+      <td class="tabla_gral">&nbsp;</td>
+      <td class="td_titulosub_fichaor">Descargar Ordenamiento:</td>
+      <td>&nbsp;</td>
+      <td colspan="2" class="tabla_gral"><div align="center"><a href="http://www.ordenjuridico.gob.mx/./Documentos/Estatal/Baja California/Todos los Municipios/wo100451.doc" target="_blank">Descargar 
+                    <img src="imagenes/icon-word.gif" width="16" height="16" border=0 />
+                </a> </div></td>
+    </tr>
+        <tr valign="middle">
+      <td>&nbsp;</td>
+      <td class="td_titulosub_fichaor2">Localidad:</td>
+      <td>&nbsp;</td>
+      <td colspan="2"><div align="center"class="fichatxt">
+          Baja California	  
+      </div></td>
+	      </tr>
+
+	
+	<tr><td colspan="5">&nbsp;<div id="enlace"></div></td></tr>
+	<tr>
+	<td colspan="5" align="center">
+	<div id="aviso">
+	<a onclick="avisoVinculo(100451)" style="cursor:hand">::Avisar de archivo inexistente::</a>
+	</div>
+	</td></tr>
+    <tr valign="middle">
+      <td bordercolor="#FFFFFF">&nbsp;</td>
+      <td colspan="4"><div align="right" class="style5"><a href=# onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cerrar','','imagenes/btns/cerrar_over.gif',1)"><img src="imagenes/btns/cerrar.gif" alt="cerrar" name="cerrar" width="72" height="22" border="0" id="cerrar" onclick="self.close()"/></a></div></td>
+    </tr>
+      </table>
+  <a href="#"></a>
+  <tr>
+      <td align="center" colspan="2">&nbsp;</td>
+  </tr>
+  </FORM>
+    </BODY>
+</HTML>

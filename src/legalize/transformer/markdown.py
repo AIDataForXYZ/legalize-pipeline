@@ -16,6 +16,7 @@ Refactored 2026-04-22 (RESEARCH-ES-v2.md):
 
 from __future__ import annotations
 
+import re
 from datetime import date
 from typing import Callable
 
@@ -25,8 +26,65 @@ from legalize.transformer.xml_parser import get_block_at_date
 
 
 # ─────────────────────────────────────────────
+# Mexican fraccion / apartado normalisation
+# ─────────────────────────────────────────────
+
+# Matches a paragraph that starts with a Roman numeral (I–XIX covers the
+# vast majority of Mexican federal article fracciones) followed by a single
+# space and an uppercase letter — the signature of a fraccion rendered
+# without a period separator, e.g. "I Pudieren verse perjudicadas…".
+# Group 1 = the Roman numeral, Group 2 = the rest of the text.
+#
+# The pattern is intentionally narrow:
+#   - requires the numeral to be at the very start of the string
+#   - the character immediately after must be a single space (not "." or ")")
+#   - the word after the space must start with an uppercase accented letter
+#     (A-ZÁÉÍÓÚÑ) so mid-sentence occurrences are not matched
+#   - stray lone numerals ("I" with no body) are excluded via \S requirement
+_FRACCION_BARE_RE = re.compile(
+    r"^(I{1,3}|IV|VI{0,3}|IX|XI{0,3}|XIV|XV|XVI{0,3}|XIX|XX)\s+([A-ZÁÉÍÓÚÜÑ]\S)",
+    re.UNICODE,
+)
+
+# Matches lowercase-letter apartados written as "a) ..." or "a.- ..." that
+# should be formatted uniformly as list items.
+# Group 1 = the letter label including punctuation, Group 2 = rest of text.
+_APARTADO_LETTER_RE = re.compile(
+    r"^([a-záéíóúüñ]\))\s+(\S)",
+    re.UNICODE,
+)
+
+
+def _normalise_fraccion_text(text: str) -> str:
+    """Add a period after a bare Roman-numeral fraccion label if missing.
+
+    Transforms "I Pudieren verse…" → "I. Pudieren verse…".
+    Leaves "I. Texto", "I.- Texto", "I) Texto" and mid-sentence occurrences
+    unchanged.
+
+    # TODO: cross-reference links — when a paragraph contains a phrase like
+    # "el artículo 89 de esta Ley", emit a Markdown link pointing to the
+    # heading anchor of that article within the current document.  Skipped
+    # for now because distinguishing intra-law references from references to
+    # other laws (e.g. "el artículo 89 de la Constitución") requires access
+    # to the full heading set and reliable disambiguation heuristics.
+    """
+    m = _FRACCION_BARE_RE.match(text)
+    if m:
+        numeral = m.group(1)
+        # Insert a period after the numeral and collapse the space
+        return f"{numeral}. {text[len(numeral):].lstrip()}"
+    return text
+
+
+# ─────────────────────────────────────────────
 # CSS class → Markdown mapping
 # ─────────────────────────────────────────────
+
+def _render_parrafo(text: str) -> str:
+    """Render a body paragraph, normalising fraccion/apartado labels."""
+    return f"{_normalise_fraccion_text(text)}\n"
+
 
 _SIMPLE_CSS_MAP: dict[str, Callable[[str], str]] = {
     # --- structural headings (no pair) ---
@@ -68,6 +126,8 @@ _SIMPLE_CSS_MAP: dict[str, Callable[[str], str]] = {
     "image": lambda t: f"{t}\n",
     "list_item": lambda t: f"{t}\n",
     "pre": lambda t: f"```\n{t}\n```\n",
+    # --- Mexican body paragraphs: normalise fraccion/apartado labels ---
+    "parrafo": _render_parrafo,
     # --- generic fallbacks used by non-ES parsers (kept for back-compat) ---
     "h1": lambda t: f"# {t}\n",
     "h2": lambda t: f"## {t}\n",

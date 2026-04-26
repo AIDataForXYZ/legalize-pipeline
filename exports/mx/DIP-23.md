@@ -10,7 +10,7 @@ publication_date: "1932-08-27"
 last_updated: "2012-04-09"
 last_reform_dof: "2012-04-09"
 status: "in_force"
-source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/23.doc"
 gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=04&day=09#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf"
@@ -36,7 +36,19 @@ Las Asociaciones Agrícolas se constituirán con la unión de los productores ag
 
 Las Asociaciones Agrícolas constituidas en los términos de esta Ley tendrán las siguientes finalidades: I.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola.
 
-II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc. III.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones. IV.- Obtener con las mayores facilidades económicas la concesión de crédito para sus agremiados. V.- Procurar la transformación de las condiciones de vida en el campo haciendo cómodo o higiénico el hogar del campesino y educar a las clases rurales del país en los principios de la técnica moderna de producción. VI.- Fomentar, cuando las condiciones sociales y económicas de los productores lo permitan, el desarrollo de la organización cooperativa. VII.- Representar ante las autoridades los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de dichos intereses. VIII.- Impulsar la participación de las mujeres en el desarrollo económico, a través de la organización de cadenas productivas y comercializadoras de productos agrícolas, constituidas por mujeres; o en igualdad de trato y oportunidades entre mujeres y hombres.
+II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.
+
+III.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones.
+
+IV.- Obtener con las mayores facilidades económicas la concesión de crédito para sus agremiados.
+
+V.- Procurar la transformación de las condiciones de vida en el campo haciendo cómodo o higiénico el hogar del campesino y educar a las clases rurales del país en los principios de la técnica moderna de producción.
+
+VI.- Fomentar, cuando las condiciones sociales y económicas de los productores lo permitan, el desarrollo de la organización cooperativa.
+
+VII.- Representar ante las autoridades los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de dichos intereses.
+
+VIII.- Impulsar la participación de las mujeres en el desarrollo económico, a través de la organización de cadenas productivas y comercializadoras de productos agrícolas, constituidas por mujeres; o en igualdad de trato y oportunidades entre mujeres y hombres.
 
 > <small>Fracción adicionada DOF 30-11-2010</small>
 
@@ -48,7 +60,7 @@ Los productores agrícolas de la República podrán reunirse en asociaciones de 
 
 ###### Artículo 5º.-
 
-Las Asociaciones Locales se denominarán “Asociaciones Agrícolas Locales”, y estarán integradas por productores especializados. Para los efectos de este artículo, se entiende por productores especializados a las mujeres y hombres cuya actividad predominante se dedique a un cultivo o a una rama especial de la economía rural.
+Las Asociaciones Locales se denominarán Asociaciones Agrícolas Locales, y estarán integradas por productores especializados. Para los efectos de este artículo, se entiende por productores especializados a las mujeres y hombres cuya actividad predominante se dedique a un cultivo o a una rama especial de la economía rural.
 
 > <small>Fe de erratas al artículo DOF 01-09-1932. Reformado DOF 30-11-2010</small>
 
@@ -116,9 +128,7 @@ Atendiendo a que el funcionamiento de las Asociaciones a que se refiere está Le
 
 ###### Artículo 18.
 
-El uso ilegal por parte de alguna Asociación del nombre de los organismos establecidos por esta Ley, dará motivo a que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación imponga una multa de $ 500.00 que se hará efectiva sobre los bienes de la
-
-asociación o grupo, si los tuviere, o sobre los de los individuos que aparecieren a su frente. Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos.
+El uso ilegal por parte de alguna Asociación del nombre de los organismos establecidos por esta Ley, dará motivo a que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación imponga una multa de $ 500.00 que se hará efectiva sobre los bienes de la asociación o grupo, si los tuviere, o sobre los de los individuos que aparecieren a su frente. Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos.
 
 > <small>Fe de erratas al artículo DOF 01-09-1932. Reformado DOF 09-04-2012</small>
 
@@ -128,22 +138,118 @@ La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentaci�
 
 > <small>Artículo reformado DOF 09-04-2012</small>
 
+TRANSITORIOS
+
 ###### Artículo 1º.-
 
 Se deroga la Ley sobre Cámaras Agrícolas Nacionales de 21 de diciembre de 1909 y todas las disposiciones que se opongan a la presente.
 
 ###### Artículo 2º.-
 
-Se concede un plazo de seis meses a partir de la fecha en que se publique la presente Ley, para que las Cámaras Agrícolas Nacionales que actualmente existen en la República, ajusten su organización y funcionamiento a lo prevenido por la misma Ley. Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dada en el Palacio del Poder Ejecutivo Federal, en México, a los diecinueve días del mes de agosto de mil novecientos treinta y dos.- P. Ortiz Rubio.- Rúbrica.- El Secretario Estado y del Despacho de Agricultura y Fomento, Francisco S. Elías.- Rúbrica.- Al C. Secretario de Gobernación.- Presente.” Lo que comunico a usted para su publicación y demás fines. Sufragio Efectivo. No Reelección. México D. F., a 24 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica. Al C......
+Se concede un plazo de seis meses a partir de la fecha en que se publique la presente Ley, para que las Cámaras Agrícolas Nacionales que actualmente existen en la República, ajusten su organización y funcionamiento a lo prevenido por la misma Ley. Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dada en el Palacio del Poder Ejecutivo Federal, en México, a los diecinueve días del mes de agosto de mil novecientos treinta y dos.- P. Ortiz Rubio.- Rúbrica.- El Secretario Estado y del Despacho de Agricultura y Fomento, Francisco S. Elías.- Rúbrica.- Al C. Secretario de Gobernación.- Presente.
+
+Lo que comunico a usted para su publicación y demás fines.
+
+Sufragio Efectivo. No Reelección.
+
+México D. F., a 24 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.
+
+Al C......
 
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
-###### Artículo Único.
+FE DE ERRATAS de la Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas.
 
-Se reforman los artículos 2o. y 5o. y se adiciona una fracción VIII al artículo 3o. y un segundo párrafo al artículo 12 de la Ley de Asociaciones Agrícolas, para quedar como sigue: ………. Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Las Uniones Regionales Agrícolas deberán acreditar en un plazo de noventa días posteriores a la fecha de su constitución, a las delegadas propietarias y suplentes, ante la Confederación Nacional de Productores Agrícolas, y las ya existentes, a partir de la entrada en vigor del presente Decreto. México, D.F., a 5 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Carlos Samuel Moreno Teran, Secretario.- Rúbricas." Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+Publicada en el Diario Oficial de la Federación el 1º de septiembre de 1932
 
-DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia. Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+Por defectos del original respectivo, en la publicación de la mencionada Ley, inserta en el número LX del tomo LXXIII, correspondiente al día 27 de agosto de 1932, aparecen las siguientes erratas:
 
-###### Artículo OCTAVO.
+En el artículo 5º, dice:
 
-Se reforman los artículos 11, 14, 15, 16, 18 y 19 de la Ley de Asociaciones Agrícolas, para quedar como sigue: ……… Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo. México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+......y estarán integradas exclusivamente por productores.........
+
+Debe decir:
+
+......y estarán integradas por productores.........
+
+En el artículo 11, dice:
+
+......por conducto de la Dirección de Ganadería.........
+
+Debe decir:
+
+......por conducto de la Dirección de Agricultura.........
+
+En la parte final del artículo 18, dice:
+
+Si no obstante la multa se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se consignará a los individuos responsables ante las autoridades judiciales competentes.
+
+Debe decir:
+
+Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos.
+
+LEY DE ASOCIACIONES GANADERAS.
+
+Publicada en el Diario Oficial de la Federación el 12 de mayo de 1936
+
+##### TRANSITORIOS
+
+PRIMERO.- Mientras no se constituya la Confederación Nacional de Asociaciones Ganaderas, la Comisión Permanente de la Convención Nacional Ganadera celebrada en esta ciudad, en el mes de marzo del año de 1935, hará sus veces, pero si después de un año no se ha organizado la Confederación, de acuerdo con esta ley, la Secretaría tomará las medidas necesarias para tal fin, en los términos que se fijen en el Reglamento de esta ley.
+
+SEGUNDO.- Se derogan: La Ley de Asociaciones Agrícolas de 19 de agosto de 1932, únicamente por lo que se refiere a la constitución, organización y funcionamiento general, de las asociaciones e instituciones filiales a ellas, que dediquen sus actividades a la Industria Animal, así como todas las demás disposiciones que se opongan a los términos de la presente ley.
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los siete días del mes de abril de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Agricultura y Fomento, Saturnino Cedillo.- Rúbrica.- Al C. Lic. Silvano Barba González, Secretario de Gobernación.-Presente.
+
+#### DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Asociaciones Agrícolas.
+
+Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
+
+Artículo Único. Se reforman los artículos 2o. y 5o. y se adiciona una fracción VIII al artículo 3o. y un segundo párrafo al artículo 12 de la Ley de Asociaciones Agrícolas, para quedar como sigue:
+
+.
+
+##### TRANSITORIOS
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Uniones Regionales Agrícolas deberán acreditar en un plazo de noventa días posteriores a la fecha de su constitución, a las delegadas propietarias y suplentes, ante la Confederación Nacional de Productores Agrícolas, y las ya existentes, a partir de la entrada en vigor del presente Decreto.
+
+México, D.F., a 5 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Carlos Samuel Moreno Teran, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+#### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+
+ARTÍCULO OCTAVO. Se reforman los artículos 11, 14, 15, 16, 18 y 19 de la Ley de Asociaciones Agrícolas, para quedar como sigue:
+
+##### TRANSITORIOS
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+(
+
+6
+
+*8+,çÙÈ¶È¥È~zk\k~~K h
+
+(
+
+)h@OCJh@Oh@O5CJ h
+
+$&dPÆÿa$$a$
+
+)hÐK~CJh
+
+)hÐK~5CJh
+
+)hÐK~CJ)CoCpCðCñCõCöCDD|D}D

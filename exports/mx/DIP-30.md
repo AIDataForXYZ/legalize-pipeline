@@ -9,7 +9,7 @@ entidad_federativa: "na"
 publication_date: "1990-12-26"
 last_updated: "1990-12-26"
 status: "in_force"
-source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf"
+source: "https://www.diputados.gob.mx/LeyesBiblio/doc/30.doc"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf"
 source_name: "diputados"
@@ -30,9 +30,27 @@ Los sujetos obligados al pago de la contribución de mejoras establecidas en est
 
 ###### Artículo 3o.-
 
-La base de la contribución será el valor recuperable de la obra pública federal determinado y actualizado en los términos del presente artículo.
+La base de la contribución será el valor recuperable de la obra pública federal determinado y actualizado en los términos del presente artículo. El valor recuperable de la obra pública federal se integrará de la siguiente forma:
 
-El valor recuperable de la obra pública federal se integrará de la siguiente forma: I.- Con las erogaciones efectuadas con motivo de la realización de las mismas, las indemnizaciones que deban cubrirse y los gastos de financiamiento generados hasta el momento de la publicación del valor recuperable, sin incluir los gastos de administración, supervisión e inspección de la obra o de operación, conservación y mantenimiento para prestar el servicio de suministro de agua. II.- Al valor que se obtenga, se le disminuirá: a).- El monto de los subsidios que se le destinen conforme al Presupuesto de Egresos de la Federación. b).- El monto de las donaciones, cooperaciones o aportaciones voluntarias. c).- Las recuperaciones por las enajenaciones de excedentes de predios expropiados o adjudicados que no hubieren sido utilizados en la obra. d).- Las amortizaciones del principal del financiamiento de la obra respectiva, efectuadas con anterioridad a la publicación del valor recuperable. III.- Las erogaciones llevadas a cabo con anterioridad a la fecha en que se publique el valor recuperable de la obra y se ponga total o parcialmente en servicio la misma o beneficie en forma directa a algún contribuyente, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes más reciente a la fecha en que se publique el valor recuperable entre el respectivo índice que corresponda a cada uno de los meses en que se realizó la erogación correspondiente. Cuando no se disponga de la calendarización mensual de erogaciones, se podrá hacer el cálculo utilizado para el año en que se efectuaron las mismas, el promedio anual del citado índice. Asimismo, deberán actualizarse las disminuciones a que se refiere la fracción II de este artículo conforme al procedimiento antes señalado. La documentación relativa al valor de la obra podrá ser consultada en la Comisión Nacional del Agua, por las personas obligadas a pagar esta contribución, durante un año contado a partir de la fecha en que se ponga en servicio la obra.
+I.- Con las erogaciones efectuadas con motivo de la realización de las mismas, las indemnizaciones que deban cubrirse y los gastos de financiamiento generados hasta el momento de la publicación del valor recuperable, sin incluir los gastos de administración, supervisión e inspección de la obra o de operación, conservación y mantenimiento para prestar el servicio de suministro de agua.
+
+II.- Al valor que se obtenga, se le disminuirá:
+
+a).- El monto de los subsidios que se le destinen conforme al Presupuesto de Egresos de la Federación.
+
+b).- El monto de las donaciones, cooperaciones o aportaciones voluntarias.
+
+c).- Las recuperaciones por las enajenaciones de excedentes de predios expropiados o adjudicados que no hubieren sido utilizados en la obra.
+
+d).- Las amortizaciones del principal del financiamiento de la obra respectiva, efectuadas con anterioridad a la publicación del valor recuperable.
+
+III.- Las erogaciones llevadas a cabo con anterioridad a la fecha en que se publique el valor recuperable de la obra y se ponga total o parcialmente en servicio la misma o beneficie en forma directa a algún contribuyente, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes más reciente a la fecha en que se publique el valor recuperable entre el respectivo índice que corresponda a cada uno de los meses en que se realizó la erogación correspondiente.
+
+Cuando no se disponga de la calendarización mensual de erogaciones, se podrá hacer el cálculo utilizado para el año en que se efectuaron las mismas, el promedio anual del citado índice.
+
+Asimismo, deberán actualizarse las disminuciones a que se refiere la fracción II de este artículo conforme al procedimiento antes señalado.
+
+La documentación relativa al valor de la obra podrá ser consultada en la Comisión Nacional del Agua, por las personas obligadas a pagar esta contribución, durante un año contado a partir de la fecha en que se ponga en servicio la obra.
 
 ###### Artículo 4o.-
 
@@ -44,15 +62,29 @@ La tasa general que deberán cubrir los contribuyentes que se beneficien en form
 
 ###### Artículo 6o.-
 
-La determinación de la contribución de mejoras que establece esta Ley, se realizará de conformidad con el siguiente procedimiento:
+La determinación de la contribución de mejoras que establece esta Ley, se realizará de conformidad con el siguiente procedimiento: I.- Tratándose de obras hidroagrícolas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra, entre el número de años que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios.
 
-I.- Tratándose de obras hidroagrícolas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra, entre el número de años que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios. II.- Tratándose de otro tipo de obras hidráulicas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra entre el número de semestres que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios. El monto de la contribución determinada, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Este factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor que se registre en el mes más reciente del semestre o, en su caso, del año en que se paga, entre el índice mensual registrado a la fecha de publicación del valor recuperable, el cociente se multiplicará por el monto de la contribución determinada, conforme a las fracciones anteriores, según corresponda, y el resultado será el monto de contribución actualizado a pagar por el conjunto de contribuyentes en ese año o semestre.
+II.- Tratándose de otro tipo de obras hidráulicas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra entre el número de semestres que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios.
+
+El monto de la contribución determinada, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Este factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor que se registre en el mes más reciente del semestre o, en su caso, del año en que se paga, entre el índice mensual registrado a la fecha de publicación del valor recuperable, el cociente se multiplicará por el monto de la contribución determinada, conforme a las fracciones anteriores, según corresponda, y el resultado será el monto de contribución actualizado a pagar por el conjunto de contribuyentes en ese año o semestre.
 
 ###### Artículo 7o.-
 
-El monto a pagar por cada contribuyente se determinará de la siguiente manera: I.- Tratándose de obras hidroagrícolas, incluyendo inversiones para mejorar, rehabilitar, tecnificar y modernizar los distritos o unidades de riego o los sistemas de riego, el monto anual de contribución obtenido en el artículo anterior, se dividirá entre el total de hectáreas del proyecto y el cociente obtenido se multiplicará por el número de hectáreas de riego asignadas a cada usuario y el resultado será el monto de la contribución a cargo de cada contribuyente. II.- Tratándose de acueductos o sistemas de suministro de agua en bloque realizados exclusivamente con inversión federal, el monto de la contribución obtenida en el artículo anterior se dividirá entre la capacidad de suministro del sistema, medida en metros cúbicos por segundo, y el cociente obtenido se multiplicará por el volumen asignado o concesionado por la Comisión Nacional del Agua a cada usuario del sistema, medido en metros cúbicos por segundo y el resultado será el monto de la contribución a cargo de cada contribuyente. III.- En los casos de obras construidas para propósitos múltiples, una vez deducida la parte correspondiente de la contribución que se cobrará por generación hidroeléctrica en los términos del penúltimo párrafo del presente artículo, se dividirá el monto restante de la contribución obtenida en el artículo anterior, entre la suma de los volúmenes asignados o encomendados a cada proyecto beneficiado, y el cociente obtenido se multiplicará por el volumen asignado o concesionado a cada proyecto y el resultado será el monto de la contribución que corresponda a cada uno de ellos. El monto de contribución por proyecto se dividirá entre la suma de las asignaciones o concesiones por usuario, medidas en la unidad correspondiente y el cociente obtenido se multiplicará por la asignación o concesión a cada contribuyente, medida en la unidad correspondiente y el resultado será el monto de la contribución a cargo de cada contribuyente. La Comisión Nacional del Agua revisará anualmente las bases para determinar la contribución a que se refiere este artículo, modificando en su caso, el monto de la contribución a cargo de los usuarios en la medida en que se modifique la cobertura de usuarios de los sistemas hidráulicos conforme lo permitan las capacidades máximas de suministro de las obras públicas federales de infraestructura hidráulica. Cuando los beneficiarios de la obra, en los términos de este artículo, sean contribuyentes de escasa capacidad de pago, el Ejecutivo Federal disminuirá el valor recuperable a que se refieren las fracciones anteriores.
+El monto a pagar por cada contribuyente se determinará de la siguiente manera: I.- Tratándose de obras hidroagrícolas, incluyendo inversiones para mejorar, rehabilitar, tecnificar y modernizar los distritos o unidades de riego o los sistemas de riego, el monto anual de contribución obtenido en el artículo anterior, se dividirá entre el total de hectáreas del proyecto y el cociente obtenido se multiplicará por el número de hectáreas de riego asignadas a cada usuario y el resultado será el monto de la contribución a cargo de cada contribuyente.
 
-En el caso de obras públicas federales de infraestructura hidráulica que total o parcialmente se utilizan para beneficio en la generación hidroeléctrica de entidades de la administración pública, para la prestación de servicios públicos de electricidad el monto de la contribución a que se refiere la presente Ley se determinará, en sustitución de lo previsto en este artículo, mediante el procedimiento que se desprende de aplicar el 25% a los ingresos que se perciban por el suministro o venta de los kilowatts/hora generados como consecuencia de dichas obras. En el caso de que la obra sea exclusivamente para generación hidroeléctrica, el pago se hará como se establece en la fracción II del artículo anterior. Si hay varios usuarios el cálculo será proporcional. En caso de que la Comisión Nacional del Agua suministre y venda en bloque energía eléctrica que exceda su autoabastecimiento, a entidades que presten servicios públicos de electricidad, podrá deducir dichos ingresos, menos los gastos de operación, conservación y mantenimiento, de la contribución de mejoras respectiva calculada en los términos del artículo anterior.
+II.- Tratándose de acueductos o sistemas de suministro de agua en bloque realizados exclusivamente con inversión federal, el monto de la contribución obtenida en el artículo anterior se dividirá entre la capacidad de suministro del sistema, medida en metros cúbicos por segundo, y el cociente obtenido se multiplicará por el volumen asignado o concesionado por la Comisión Nacional del Agua a cada usuario del sistema, medido en metros cúbicos por segundo y el resultado será el monto de la contribución a cargo de cada contribuyente.
+
+III.- En los casos de obras construidas para propósitos múltiples, una vez deducida la parte correspondiente de la contribución que se cobrará por generación hidroeléctrica en los términos del penúltimo párrafo del presente artículo, se dividirá el monto restante de la contribución obtenida en el artículo anterior, entre la suma de los volúmenes asignados o encomendados a cada proyecto beneficiado, y el cociente obtenido se multiplicará por el volumen asignado o concesionado a cada proyecto y el resultado será el monto de la contribución que corresponda a cada uno de ellos.
+
+El monto de contribución por proyecto se dividirá entre la suma de las asignaciones o concesiones por usuario, medidas en la unidad correspondiente y el cociente obtenido se multiplicará por la asignación o concesión a cada contribuyente, medida en la unidad correspondiente y el resultado será el monto de la contribución a cargo de cada contribuyente.
+
+La Comisión Nacional del Agua revisará anualmente las bases para determinar la contribución a que se refiere este artículo, modificando en su caso, el monto de la contribución a cargo de los usuarios en la medida en que se modifique la cobertura de usuarios de los sistemas hidráulicos conforme lo permitan las capacidades máximas de suministro de las obras públicas federales de infraestructura hidráulica.
+
+Cuando los beneficiarios de la obra, en los términos de este artículo, sean contribuyentes de escasa capacidad de pago, el Ejecutivo Federal disminuirá el valor recuperable a que se refieren las fracciones anteriores.
+
+En el caso de obras públicas federales de infraestructura hidráulica que total o parcialmente se utilizan para beneficio en la generación hidroeléctrica de entidades de la administración pública, para la prestación de servicios públicos de electricidad el monto de la contribución a que se refiere la presente Ley se determinará, en sustitución de lo previsto en este artículo, mediante el procedimiento que se desprende de aplicar el 25% a los ingresos que se perciban por el suministro o venta de los kilowatts/hora generados como consecuencia de dichas obras. En el caso de que la obra sea exclusivamente para generación hidroeléctrica, el pago se hará como se establece en la fracción II del artículo anterior. Si hay varios usuarios el cálculo será proporcional.
+
+En caso de que la Comisión Nacional del Agua suministre y venda en bloque energía eléctrica que exceda su autoabastecimiento, a entidades que presten servicios públicos de electricidad, podrá deducir dichos ingresos, menos los gastos de operación, conservación y mantenimiento, de la contribución de mejoras respectiva calculada en los términos del artículo anterior.
 
 ###### Artículo 8o.-
 
@@ -60,7 +92,11 @@ El pago de la contribución de mejoras por obras públicas de infraestructura hi
 
 ###### Artículo 9o.-
 
-Queda facultada la Comisión Nacional del Agua para: I.- Publicar en el Diario Oficial de la Federación el valor recuperable de la obra pública federal de infraestructura hidráulica, a que se refiere el artículo 3o. de este Ley. II.- Determinar y notificar el importe de las contribuciones de mejoras por obras públicas federales de infraestructura hidráulica a cargo de los contribuyentes, así como sus accesorios. III.- Solicitar la presentación de la documentación, información y datos relacionados con la aplicación de la presente Ley.
+Queda facultada la Comisión Nacional del Agua para: I.- Publicar en el Diario Oficial de la Federación el valor recuperable de la obra pública federal de infraestructura hidráulica, a que se refiere el artículo 3o. de este Ley.
+
+II.- Determinar y notificar el importe de las contribuciones de mejoras por obras públicas federales de infraestructura hidráulica a cargo de los contribuyentes, así como sus accesorios.
+
+III.- Solicitar la presentación de la documentación, información y datos relacionados con la aplicación de la presente Ley.
 
 ###### Artículo 10.-
 
@@ -68,13 +104,17 @@ Las contribuciones a que se refiere esta Ley, se causarán respecto a cada contr
 
 ###### Artículo 11.-
 
-La contribución a que se refiere esta Ley, se pagará semestral o anualmente, en los términos de sus artículos 6o. y 7o. y se podrá otorgar un plazo para su pago total de hasta 25 años o tratándose de obras de riego de hasta 40 años. Los contribuyentes podrán optar por iniciar el pago de la contribución a su cargo, un año después de la publicación del valor recuperable de la obra, debiendo en este caso actualizar el pago en términos de lo dispuesto en el artículo 7o. de esta Ley. La Comisión Nacional del Agua notificará a cada contribuyente el crédito fiscal a pagar en forma semestral o por períodos de doce meses tratándose de obra pública hidroagrícola, caso en el cual los pagos se efectuarán durante los quince días hábiles siguientes contados a partir del término del semestre
+La contribución a que se refiere esta Ley, se pagará semestral o anualmente, en los términos de sus artículos 6o. y 7o. y se podrá otorgar un plazo para su pago total de hasta 25 años o tratándose de obras de riego de hasta 40 años. Los contribuyentes podrán optar por iniciar el pago de la contribución a su cargo, un año después de la publicación del valor recuperable de la obra, debiendo en este caso actualizar el pago en términos de lo dispuesto en el artículo 7o. de esta Ley.
 
-o del periodo anual respectivo. La falta de pago oportuno causará los recargos correspondientes, en los términos del Código Fiscal de la Federación.
+La Comisión Nacional del Agua notificará a cada contribuyente el crédito fiscal a pagar en forma semestral o por períodos de doce meses tratándose de obra pública hidroagrícola, caso en el cual los pagos se efectuarán durante los quince días hábiles siguientes contados a partir del término del semestre o del periodo anual respectivo. La falta de pago oportuno causará los recargos correspondientes, en los términos del Código Fiscal de la Federación.
 
 ###### Artículo 12.-
 
-No son objeto de la presente Ley: I.- Las obras públicas para prestar el servicio público de agua potable, drenaje y alcantarillado realizados parcialmente con inversión estatal y municipal, con crédito interno y externo y parcialmente con subsidio federal, cuando se convenga que la inversión se recuperará a través del cobro de contribuciones o derechos estatales o municipales. II.- Las obras públicas federales de control de ríos. III.- Las obras públicas federales para el tratamiento de aguas residuales.
+No son objeto de la presente Ley: I.- Las obras públicas para prestar el servicio público de agua potable, drenaje y alcantarillado realizados parcialmente con inversión estatal y municipal, con crédito interno y externo y parcialmente con subsidio federal, cuando se convenga que la inversión se recuperará a través del cobro de contribuciones o derechos estatales o municipales.
+
+II.- Las obras públicas federales de control de ríos.
+
+III.- Las obras públicas federales para el tratamiento de aguas residuales.
 
 ###### Artículo 13.-
 
@@ -82,7 +122,9 @@ Los ingresos que se perciban por la aplicación de esta Ley, se destinarán a la
 
 ###### Artículo 14.-
 
-Los ingresos que se recauden con motivo de la aplicación de esta Ley, tendrán el carácter de aprovechamiento fiscal, cuando las entidades federativas y los municipios sean los que reciban el beneficio de manera directa con las obras públicas de infraestructura hidráulica, el que se determinará y pagará conforme a las disposiciones que establece esta Ley. En estos casos, será necesario que las entidades federativas y los municipios manifiesten su consentimiento expreso con la realización y operación de las obras públicas, el que implicará cuando no se haya optado por el pago directo, la aceptación de la compensación contra créditos fiscales, o bien la retención contra la participación en la recaudación federal dentro del Sistema Nacional de Coordinación Fiscal. Para el caso de afectación de participaciones federales que correspondan a las entidades federativas y los municipios dentro del Sistema Nacional de Coordinación Fiscal, será necesario que se cumpla previamente con lo dispuesto en el artículo 9o. de la Ley de Coordinación Fiscal.
+Los ingresos que se recauden con motivo de la aplicación de esta Ley, tendrán el carácter de aprovechamiento fiscal, cuando las entidades federativas y los municipios sean los que reciban el beneficio de manera directa con las obras públicas de infraestructura hidráulica, el que se determinará y pagará conforme a las disposiciones que establece esta Ley. En estos casos, será necesario que las entidades federativas y los municipios manifiesten su consentimiento expreso con la realización y operación de las obras públicas, el que implicará cuando no se haya optado por el pago directo, la aceptación de la compensación contra créditos fiscales, o bien la retención contra la participación en la recaudación federal dentro del Sistema Nacional de Coordinación Fiscal.
+
+Para el caso de afectación de participaciones federales que correspondan a las entidades federativas y los municipios dentro del Sistema Nacional de Coordinación Fiscal, será necesario que se cumpla previamente con lo dispuesto en el artículo 9o. de la Ley de Coordinación Fiscal.
 
 ###### Artículo 15.-
 
@@ -102,12 +144,38 @@ Los convenios que hubieran sido celebrados, entre la Federación por una parte y
 
 ###### Artículo CUARTO.-
 
-Los contribuyentes que venían cubriendo el importe de los créditos fiscales a su cargo en los términos de la Ley de Contribución de Mejoras por Obras Públicas de Infraestructura
-
-Hidráulica, en vigor hasta el 31 de diciembre de 1990, lo continuarán haciendo en los términos de dicha Ley.
+Los contribuyentes que venían cubriendo el importe de los créditos fiscales a su cargo en los términos de la Ley de Contribución de Mejoras por Obras Públicas de Infraestructura Hidráulica, en vigor hasta el 31 de diciembre de 1990, lo continuarán haciendo en los términos de dicha Ley.
 
 ###### Artículo QUINTO.-
 
-Las obras públicas que se pongan en servicio con posterioridad a la entrada en vigor de esta Ley, se regirán por lo dispuesto en la misma, salvo lo previsto en los artículos anteriores." ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.- .......... TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación. SEGUNDO.- Durante el año de 1991, las personas físicas que opten por tributar conforme al régimen simplificado y cuyos ingresos en el ejercicio inmediato anterior no hubieran excedido de trescientos millones de pesos; las que durante 1989 reunían los requisitos para pagar el impuesto de referencia conforme al régimen de contribuyentes menores o de bases especiales de tributación y no se encontraban inscritos en el registro federal de contribuyentes; así como las personas físicas o morales que hayan pagado el impuesto sobre la renta conforme al régimen de bases especiales de tributación establecidas por la Secretaría de Hacienda y Crédito Público y las personas morales que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras que en 1989 tributaban en el Título III de la Ley del Impuesto sobre la Renta, gozarán de los siguientes beneficios: I.- Se les condona el impuesto sobre la renta y el impuesto al activo que hubieren causado por los meses de octubre a diciembre de 1990. II.- Se les condona el pago de sanciones y gastos de ejecución por el incumplimiento de las obligaciones fiscales en que hubieran incurrido durante el periodo mencionado en el inciso anterior. III.- No se les impondrán sanciones ni gastos de ejecución durante el periodo de enero a septiembre de 1991. Los contribuyentes a que se refiere este artículo, podrán presentar el aviso de opción al régimen simplificado hasta el 30 de abril de 1991. TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería, pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo y al valor segregado, por los ingresos, bienes y actividades que correspondan a los referidos giros, mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos. CUARTO.- Durante 1991, las personas físicas que opten por tributar en el impuesto sobre la renta conforme al régimen simplificado, que en el ejercicio inmediato anterior obtuvieron ingresos que no excedieron de trescientos millones de pesos y que puedan considerar como salida la prevista en la fracción XII del artículo 119-E de la Ley del impuesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida. QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
+Las obras públicas que se pongan en servicio con posterioridad a la entrada en vigor de esta Ley, se regirán por lo dispuesto en la misma, salvo lo previsto en los artículos anteriores." ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.- ..........
 
-SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes que sean locatarios de mercados, vendedores en puestos fijos y semifijos en la vía pública o como ambulantes. SEPTIMO.- Se abroga el Decreto por el que se Establecen las Cuotas de los Productos por la Extracción de Oro o Plata, publicado en el Diario Oficial de la Federación el 25 de enero de 1980. OCTAVO.- Se abroga el Decreto que Establece Estímulos Fiscales y Facilidades Administrativas para la Operación o Modernización de Centros Comerciales en la Franja Fronteriza Norte y en las Zonas Libres del País, publicado en el Diario Oficial de la Federación el 4 de noviembre de 1983. México, D.F. a 17 de diciembre de 1990.- Dip. Fernando Córdoba Lobo, Presidente.- Sen. Ricardo Canavati Tafich, Presidente.- Dip. Juan Manuel Verdugo Rosas, Secretario.- Sen. Gustavo Almaraz Montaño, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+SEGUNDO.- Durante el año de 1991, las personas físicas que opten por tributar conforme al régimen simplificado y cuyos ingresos en el ejercicio inmediato anterior no hubieran excedido de trescientos millones de pesos; las que durante 1989 reunían los requisitos para pagar el impuesto de referencia conforme al régimen de contribuyentes menores o de bases especiales de tributación y no se encontraban inscritos en el registro federal de contribuyentes; así como las personas físicas o morales que hayan pagado el impuesto sobre la renta conforme al régimen de bases especiales de tributación establecidas por la Secretaría de Hacienda y Crédito Público y las personas morales que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras que en 1989 tributaban en el Título III de la Ley del Impuesto sobre la Renta, gozarán de los siguientes beneficios:
+
+I.- Se les condona el impuesto sobre la renta y el impuesto al activo que hubieren causado por los meses de octubre a diciembre de 1990.
+
+II.- Se les condona el pago de sanciones y gastos de ejecución por el incumplimiento de las obligaciones fiscales en que hubieran incurrido durante el periodo mencionado en el inciso anterior.
+
+III.- No se les impondrán sanciones ni gastos de ejecución durante el periodo de enero a septiembre de 1991.
+
+Los contribuyentes a que se refiere este artículo, podrán presentar el aviso de opción al régimen simplificado hasta el 30 de abril de 1991.
+
+TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería, pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo y al valor segregado, por los ingresos, bienes y actividades que correspondan a los referidos giros, mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.
+
+CUARTO.- Durante 1991, las personas físicas que opten por tributar en el impuesto sobre la renta conforme al régimen simplificado, que en el ejercicio inmediato anterior obtuvieron ingresos que no excedieron de trescientos millones de pesos y que puedan considerar como salida la prevista en la fracción XII del artículo 119-E de la Ley del impuesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida.
+
+QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
+
+SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes que sean locatarios de mercados, vendedores en puestos fijos y semifijos en la vía pública o como ambulantes.
+
+SEPTIMO.- Se abroga el Decreto por el que se Establecen las Cuotas de los Productos por la Extracción de Oro o Plata, publicado en el Diario Oficial de la Federación el 25 de enero de 1980.
+
+OCTAVO.- Se abroga el Decreto que Establece Estímulos Fiscales y Facilidades Administrativas para la Operación o Modernización de Centros Comerciales en la Franja Fronteriza Norte y en las Zonas Libres del País, publicado en el Diario Oficial de la Federación el 4 de noviembre de 1983.
+
+México, D.F. a 17 de diciembre de 1990.- Dip. Fernando Córdoba Lobo, Presidente.- Sen. Ricardo Canavati Tafich, Presidente.- Dip. Juan Manuel Verdugo Rosas, Secretario.- Sen. Gustavo Almaraz Montaño, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
