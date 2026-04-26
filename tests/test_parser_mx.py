@@ -1300,6 +1300,150 @@ def test_cff_tax_tarifa_table_rendered_as_pipe_table():
     )
 
 
+# ── DOF reform extraction ────────────────────────────────────────────────────
+
+
+def test_extract_reforms_single_date():
+    """extract_reforms returns one bootstrap + one reform for a law with one DOF stamp."""
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Texto original.",
+        "Párrafo reformado DOF 14-08-2001",
+    ])
+    from legalize.fetcher.mx.parser import _extract_dof_reforms_from_blocks
+    from datetime import date
+
+    pub_date = date(1980, 1, 1)
+    reforms = _extract_dof_reforms_from_blocks(blocks, "DIP-TEST", pub_date)
+
+    assert len(reforms) == 2, f"Expected 2 reforms, got {len(reforms)}"
+    assert reforms[0].date == pub_date, "First reform must be the bootstrap/publication date"
+    assert reforms[0].norm_id == "DIP-TEST", "Bootstrap norm_id must be the law's own ID"
+    assert reforms[1].date == date(2001, 8, 14), "Second reform must be the DOF date"
+    assert reforms[1].norm_id == "DIP-TEST-DOF-2001-08-14"
+
+
+def test_extract_reforms_multi_date_stamp():
+    """Multi-date stamp 'DOF 04-12-2006, 10-06-2011' produces two separate reforms."""
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Texto original.",
+        "Párrafo reformado DOF 04-12-2006, 10-06-2011",
+    ])
+    from legalize.fetcher.mx.parser import _extract_dof_reforms_from_blocks
+    from datetime import date
+
+    reforms = _extract_dof_reforms_from_blocks(blocks, "DIP-TEST", date(1980, 1, 1))
+
+    assert len(reforms) == 3  # bootstrap + 2006 + 2011
+    dates = [r.date for r in reforms]
+    assert date(2006, 12, 4) in dates
+    assert date(2011, 6, 10) in dates
+
+
+def test_extract_reforms_no_stamps_returns_single_bootstrap():
+    """A law with no reform stamps gets exactly one bootstrap reform."""
+    blocks = _diputados_doc_block_run([
+        "Artículo 1o.- Esta ley es nueva y nunca ha sido reformada.",
+        "Artículo 2o.- Disposición adicional.",
+    ])
+    from legalize.fetcher.mx.parser import _extract_dof_reforms_from_blocks
+    from datetime import date
+
+    reforms = _extract_dof_reforms_from_blocks(blocks, "DIP-TEST", date(2020, 3, 15))
+    assert len(reforms) == 1
+    assert reforms[0].norm_id == "DIP-TEST"
+    assert reforms[0].date == date(2020, 3, 15)
+
+
+def test_mx_text_parser_extract_reforms_via_envelope():
+    """MXTextParser.extract_reforms returns multi-reform list from a DOC envelope."""
+    import base64
+    from datetime import date
+
+    from legalize.fetcher.mx.parser import MXTextParser, _extract_doc_paragraphs
+
+    # Inject a synthetic paragraph list with two reform stamps on different dates.
+    synthetic_paras = [
+        "Artículo 1o.- Texto original del artículo primero.",
+        "Párrafo reformado DOF 14-08-2001",
+        "Artículo 2o.- Texto original del artículo segundo.",
+        "Fracción adicionada DOF 12-04-2019",
+    ]
+
+    import legalize.fetcher.mx.parser as mx_parser
+    real_extract = mx_parser._extract_doc_paragraphs
+    mx_parser._extract_doc_paragraphs = lambda _b: synthetic_paras
+    try:
+        envelope = {
+            "source": "diputados",
+            "source_format": "doc",
+            "norm_id": "DIP-SYNTH",
+            "abbrev": "SYNTH",
+            "title": "Ley Sintética de Prueba",
+            "rank": "ley",
+            "publication_date": "1970-01-01",
+            "last_reform_date": "2019-04-12",
+            "doc_url": "https://example.test/SYNTH.doc",
+            "doc_b64": base64.b64encode(b"\xd0\xcf\x11\xe0stub").decode("ascii"),
+        }
+        data = json.dumps(envelope).encode("utf-8")
+        reforms = MXTextParser().extract_reforms(data)
+    finally:
+        mx_parser._extract_doc_paragraphs = real_extract
+
+    assert len(reforms) == 3, f"Expected 3 reforms (bootstrap + 2001 + 2019), got {len(reforms)}"
+    assert reforms[0].date == date(1970, 1, 1), "First reform = bootstrap"
+    assert reforms[0].norm_id == "DIP-SYNTH"
+    assert reforms[1].date == date(2001, 8, 14)
+    assert reforms[1].norm_id == "DIP-SYNTH-DOF-2001-08-14"
+    assert reforms[2].date == date(2019, 4, 12)
+    assert reforms[2].norm_id == "DIP-SYNTH-DOF-2019-04-12"
+    # Affected blocks must be populated.
+    assert len(reforms[1].affected_blocks) >= 1
+    assert reforms[1].affected_blocks[0].startswith("art-")
+
+
+def test_extract_reforms_cpeum_fixture():
+    """On the real CPEUM.doc fixture, extract_reforms yields many distinct reforms.
+
+    The exact count varies between fixture versions but must be well above 1
+    (the fixture version has ~240 unique DOF dates).
+    """
+    import base64
+    from datetime import date
+
+    from legalize.fetcher.mx.parser import MXTextParser
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    envelope = {
+        "source": "diputados",
+        "source_format": "doc",
+        "norm_id": "DIP-CPEUM",
+        "abbrev": "CPEUM",
+        "title": "Constitución Política de los Estados Unidos Mexicanos",
+        "rank": "constitucion",
+        "publication_date": "1917-02-05",
+        "last_reform_date": "2026-04-10",
+        "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc",
+        "doc_b64": base64.b64encode(doc_bytes).decode("ascii"),
+    }
+    data = json.dumps(envelope).encode("utf-8")
+    reforms = MXTextParser().extract_reforms(data)
+
+    # The CPEUM is a heavily amended law; any correct extraction must find many reforms.
+    assert len(reforms) >= 150, f"Expected ≥150 reforms from CPEUM fixture, got {len(reforms)}"
+    assert reforms[0].date == date(1917, 2, 5), "First reform must be 1917-02-05 (publication)"
+    assert reforms[0].norm_id == "DIP-CPEUM", "Bootstrap norm_id must be the law's own ID"
+    # Verify a known reform date is present.
+    reform_dates = {r.date for r in reforms}
+    assert date(2011, 6, 10) in reform_dates, "2011-06-10 (human rights reform) must be present"
+    # All reform norm_ids (except bootstrap) must follow the DIP-CPEUM-DOF-YYYY-MM-DD pattern.
+    for r in reforms[1:]:
+        assert r.norm_id.startswith("DIP-CPEUM-DOF-"), f"Unexpected norm_id: {r.norm_id}"
+    # All affected_blocks must be populated (except possibly the bootstrap).
+    for r in reforms[1:]:
+        assert len(r.affected_blocks) >= 1, f"Reform {r.norm_id} has no affected blocks"
+
+
 # ── Bug: repeated-short-tail garbage (Jáh-style Word stylesheet handles) ─────
 
 

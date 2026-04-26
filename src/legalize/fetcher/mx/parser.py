@@ -24,7 +24,7 @@ from typing import Any
 import pdfplumber
 
 from legalize.fetcher.base import MetadataParser, TextParser
-from legalize.models import Block, NormMetadata, NormStatus, Paragraph, Rank, Version
+from legalize.models import Block, NormMetadata, NormStatus, Paragraph, Rank, Reform, Version
 
 logger = logging.getLogger(__name__)
 
@@ -197,6 +197,22 @@ _DOF_PAGE_HEADER_RE = re.compile(
 _LAST_REFORM_FOOTER_RE = re.compile(
     r"^[ÚU]ltima\s+[Rr]eforma\s+(?:DOF|publicada)", re.IGNORECASE
 )
+
+# Matches a DOF keyword followed by one or more comma-separated DD-MM-YYYY dates.
+# Example: "DOF 04-12-2006, 10-06-2011" → captures "04-12-2006, 10-06-2011".
+# Used to extract individual date strings from the multi-date capture group.
+_DOF_DATE_RE = re.compile(r"\bDOF\s+((?:\d{2}-\d{2}-\d{4}(?:,\s*)?)+)", re.IGNORECASE)
+# Sub-pattern that extracts individual DD-MM-YYYY dates from a DOF date group.
+_DATE_TOKEN_RE = re.compile(r"\d{2}-\d{2}-\d{4}")
+
+# Maps keywords in reform stamps to canonical commit types.
+# Priority: explicit adición/derogación/erratas keywords override the default "reforma".
+_STAMP_TYPE_MAP: list[tuple[re.Pattern[str], str]] = [
+    (re.compile(r"\bfe\s+de\s+erratas\b", re.IGNORECASE), "fe_de_erratas"),
+    (re.compile(r"\bderogad[ao]\b", re.IGNORECASE), "derogacion"),
+    (re.compile(r"\badicionad[ao]\b", re.IGNORECASE), "adicion"),
+]
+_STAMP_DEFAULT_TYPE = "reforma"
 
 
 # ── DOC text extraction ────────────────────────────────────────────────
@@ -1427,6 +1443,123 @@ def _diputados_metadata(envelope: dict[str, Any], norm_id: str) -> NormMetadata:
     )
 
 
+# ── DOF reform extraction ──────────────────────────────────────────────
+
+
+def _stamp_commit_type(text: str) -> str:
+    """Infer a commit-type string from the wording of a Diputados reform stamp.
+
+    Returns one of: "reforma", "adicion", "derogacion", "fe_de_erratas".
+    """
+    for pattern, commit_type in _STAMP_TYPE_MAP:
+        if pattern.search(text):
+            return commit_type
+    return _STAMP_DEFAULT_TYPE
+
+
+def _extract_dof_reforms_from_blocks(
+    blocks: list[Block],
+    norm_id: str,
+    pub_date: date,
+) -> list[Reform]:
+    """Scan nota_pie paragraphs in blocks and return one Reform per unique DOF date.
+
+    Each ``nota_pie`` paragraph (reform stamp) carries one or more DOF dates,
+    e.g. ``"Párrafo reformado DOF 04-12-2006, 10-06-2011"``.  We collect every
+    unique date, determine the dominant commit type for that date across all stamps,
+    record which block IDs were mentioned in stamps for that date, and return one
+    :class:`~legalize.models.Reform` per date sorted chronologically.
+
+    The *first* Reform is dated to the law's original ``publication_date`` so the
+    bootstrap commit corresponds to the law's enactment (not the first reform).
+    Subsequent reforms are real DOF amendment events.
+
+    Reform ``norm_id``s use the pattern ``{norm_id}-DOF-{YYYY-MM-DD}`` so each
+    produces a unique ``Source-Id`` trailer and idempotency checks work correctly.
+    """
+    # date → (set of block_ids, list of inferred commit types)
+    date_blocks: dict[date, list[str]] = {}
+    date_types: dict[date, list[str]] = {}
+
+    for block in blocks:
+        block_id = block.id
+        for version in block.versions:
+            for para in version.paragraphs:
+                if para.css_class != "nota_pie":
+                    continue
+                text = para.text
+                # _DOF_DATE_RE captures the date group after each "DOF" keyword.
+                # Each group may contain multiple comma-separated dates, e.g.
+                # "04-12-2006, 10-06-2011".  Extract individual date tokens.
+                date_groups = _DOF_DATE_RE.findall(text)
+                if not date_groups:
+                    continue
+                raw_dates = [
+                    token
+                    for group in date_groups
+                    for token in _DATE_TOKEN_RE.findall(group)
+                ]
+                if not raw_dates:
+                    continue
+                commit_type = _stamp_commit_type(text)
+                for raw_date in raw_dates:
+                    try:
+                        day, month, year = raw_date.split("-")
+                        stamp_date = date(int(year), int(month), int(day))
+                    except (ValueError, TypeError):
+                        logger.debug("Could not parse DOF date %r in %s", raw_date, norm_id)
+                        continue
+                    if stamp_date not in date_blocks:
+                        date_blocks[stamp_date] = []
+                    if block_id not in date_blocks[stamp_date]:
+                        date_blocks[stamp_date].append(block_id)
+                    date_types.setdefault(stamp_date, []).append(commit_type)
+
+    if not date_blocks:
+        # No stamps found — return a single bootstrap reform at publication date.
+        return [
+            Reform(
+                date=pub_date,
+                norm_id=norm_id,
+                affected_blocks=(),
+            )
+        ]
+
+    reforms: list[Reform] = []
+
+    # Bootstrap reform: the law's original publication (before any DOF amendments).
+    # Always first, dated to pub_date.
+    reforms.append(
+        Reform(
+            date=pub_date,
+            norm_id=norm_id,
+            affected_blocks=(),
+        )
+    )
+
+    # One reform per unique DOF date (skipping the publication date itself if it
+    # appears in stamps — it would duplicate the bootstrap).
+    for stamp_date in sorted(date_blocks.keys()):
+        if stamp_date == pub_date:
+            # Absorb into the bootstrap reform's affected_blocks rather than
+            # emitting a duplicate reform for the same date.
+            reforms[0] = Reform(
+                date=reforms[0].date,
+                norm_id=reforms[0].norm_id,
+                affected_blocks=tuple(date_blocks[stamp_date]),
+            )
+            continue
+        reforms.append(
+            Reform(
+                date=stamp_date,
+                norm_id=f"{norm_id}-DOF-{stamp_date.isoformat()}",
+                affected_blocks=tuple(date_blocks[stamp_date]),
+            )
+        )
+
+    return reforms
+
+
 # ── Public parser classes ──────────────────────────────────────────────
 
 
@@ -1444,6 +1577,33 @@ class MXTextParser(TextParser):
         raise NotImplementedError(
             f"MX text parser not wired for source '{envelope['source']}'."
         )
+
+    def extract_reforms(self, data: bytes) -> list[Reform]:
+        """Extract per-DOF-date reform timeline from consolidated Diputados text.
+
+        Scans every ``nota_pie`` paragraph for ``DOF DD-MM-YYYY`` stamp patterns
+        and groups them by date.  Each unique date becomes one
+        :class:`~legalize.models.Reform` entry so ``legalize commit`` can produce
+        one git commit per DOF reform event.
+
+        Only implemented for the Diputados source.  Other sources fall through to
+        the generic block-version extractor.
+        """
+        envelope = _decode_envelope(data)
+        if envelope["source"] != "diputados":
+            # Generic fallback for non-Diputados sources.
+            from legalize.transformer.xml_parser import extract_reforms as _generic
+            return _generic(self.parse_text(data))
+
+        norm_id = envelope["norm_id"]
+        pub_date_str = envelope.get("publication_date", "")
+        try:
+            pub_date = date.fromisoformat(pub_date_str)
+        except (ValueError, TypeError):
+            pub_date = date(1900, 1, 1)
+
+        blocks = self.parse_text(data)
+        return _extract_dof_reforms_from_blocks(blocks, norm_id, pub_date)
 
 
 class MXMetadataParser(MetadataParser):

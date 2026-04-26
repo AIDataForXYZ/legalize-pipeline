@@ -262,6 +262,67 @@ CHECKS = {
     "frontmatter_completeness": (check_frontmatter_completeness, True),
 }
 
+# ── JSON-backed reform-count sanity check ─────────────────────────────
+
+JSON_DIR = REPO_ROOT / "countries" / "data-mx" / "json"
+_DOF_STAMP_RE = re.compile(r"\bDOF\s+\d{2}-\d{2}-\d{4}")
+
+
+def check_reform_count_sanity_for_file(md_path: Path) -> list[tuple[int, str]]:
+    """Compare DOF stamps in rendered Markdown with reform count in JSON.
+
+    Rules:
+    - If the MD body contains at least one ``DOF DD-MM-YYYY`` stamp AND the
+      corresponding JSON has reforms == 1, the parser failed to extract
+      reforms → FAIL.
+    - If the number of unique DOF dates visible in the MD body is more than
+      3× the number of JSON reforms, likely an extraction error → FAIL.
+      (A factor of 3 is used because multi-date stamps like
+      ``DOF 04-12-2006, 10-06-2011`` count as two dates in the text but only
+      two reform entries, and the mismo date can appear multiple times in
+      stamps for different paragraphs.)
+
+    Skips gracefully when the corresponding JSON does not exist.
+    """
+    import json as _json
+
+    stem = md_path.stem
+    json_path = JSON_DIR / f"{stem}.json"
+    if not json_path.exists():
+        return []
+
+    try:
+        data = _json.loads(json_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return []
+
+    n_reforms = len(data.get("reforms", []))
+
+    # Count unique DOF dates appearing in the MD body.
+    text = md_path.read_text(encoding="utf-8")
+    # Skip the frontmatter block.
+    body = re.sub(r"^---.*?---\s*", "", text, count=1, flags=re.DOTALL)
+    dof_dates_in_body = set(_DOF_STAMP_RE.findall(body))
+    n_stamps = len(dof_dates_in_body)
+
+    hits: list[tuple[int, str]] = []
+
+    if n_stamps > 0 and n_reforms == 1:
+        hits.append((
+            0,
+            f"reform_count_sanity: {stem} has {n_stamps} DOF stamp date(s) "
+            f"in body but JSON reforms=1 — parser did not extract reforms",
+        ))
+    elif n_stamps > 0 and n_reforms > 1 and n_stamps > n_reforms * 3:
+        hits.append((
+            0,
+            f"reform_count_sanity: {stem} has {n_stamps} unique DOF dates "
+            f"in body but only {n_reforms} reforms in JSON "
+            f"(ratio {n_stamps / n_reforms:.1f}×) — possible extraction gap",
+        ))
+
+    return hits
+
 
 def audit(strict: bool = False) -> int:
     """Run all checks across exports/mx/*.md. Return non-zero if any fatal hit."""
@@ -273,18 +334,33 @@ def audit(strict: bool = False) -> int:
     print(f"Auditing {len(files)} files in {EXPORTS_DIR}\n")
 
     bucket_totals: dict[str, list[tuple[Path, int, str]]] = {k: [] for k in CHECKS}
+    # reform_count_sanity is file-path-aware, so handled separately.
+    reform_hits: list[tuple[Path, int, str]] = []
 
     for f in files:
         text = f.read_text()
         for name, (fn, _fatal) in CHECKS.items():
             for line_no, excerpt in fn(text):
                 bucket_totals[name].append((f, line_no, excerpt))
+        # Run the JSON-backed reform-count check (needs the file path).
+        for line_no, excerpt in check_reform_count_sanity_for_file(f):
+            reform_hits.append((f, line_no, excerpt))
+
+    # Build the display table: standard checks + reform_count_sanity.
+    all_check_names = list(CHECKS.keys()) + ["reform_count_sanity"]
+    all_bucket_totals: dict[str, list[tuple[Path, int, str]]] = {
+        **bucket_totals,
+        "reform_count_sanity": reform_hits,
+    }
+    all_fatal: dict[str, bool] = {name: fatal for name, (_fn, fatal) in CHECKS.items()}
+    all_fatal["reform_count_sanity"] = True  # reform extraction failures are fatal
 
     fatal_hits = 0
     print(f"{'CHECK':<28} {'FILES':>6} {'HITS':>6}  STATUS")
     print("-" * 72)
-    for name, (_fn, fatal) in CHECKS.items():
-        hits = bucket_totals[name]
+    for name in all_check_names:
+        hits = all_bucket_totals[name]
+        fatal = all_fatal[name]
         files_affected = len({h[0] for h in hits})
         status = "OK" if not hits else ("FAIL" if fatal else "WARN")
         if hits and fatal:
@@ -292,7 +368,8 @@ def audit(strict: bool = False) -> int:
         print(f"{name:<28} {files_affected:>6} {len(hits):>6}  {status}")
 
     print()
-    for name, hits in bucket_totals.items():
+    for name in all_check_names:
+        hits = all_bucket_totals[name]
         if not hits:
             continue
         print(f"=== {name} — {len(hits)} hits across {len({h[0] for h in hits})} files ===")
