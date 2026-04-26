@@ -375,3 +375,6 @@ Firman los señores Ministros Presidente y el encargado del engrose con el Secre
 El Presidente Ministro: Luis María Aguilar Morales.- Rúbrica.- El Encargado del Engrose Ministro: Eduardo Medina Mora I.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de sesenta y nueve fojas útiles, concuerda fiel y exactamente con el original de la sentencia de quince de noviembre de dos mil dieciocho, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 6/2018 y sus acumuladas 8/2018, 9/2018, 10/2018 y 11/2018. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a nueve de mayo de dos mil diecinueve.- Rúbrica.
+
+| Declaración de Invalidez de la Ley 15-11-2018 / DOF 30-05-2019 |
+| --- |

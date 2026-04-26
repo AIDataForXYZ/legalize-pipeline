@@ -858,29 +858,13 @@ Donde:
 
 | d | = Día del que se desea conocer el valor de la UDI. |
 | --- | --- |
-
 | m | = Mes del año a que corresponda d. |
-| --- | --- |
-
 | UDId,m | = Unidad de Inversión correspondiente al día d del mes m. |
-| --- | --- |
-
 | UDId-1,m | = Unidad de Inversión correspondiente al día inmediato anterior al día d del mes m. |
-| --- | --- |
-
 | * | = Operador de multiplicación. |
-| --- | --- |
-
 | import "http://www.senado.gob.mx/sgsp/gaceta/61/1/2009-10-30-1/assets/images/a.gif" \* MERGEFORMATINET | = Raíz enésima. |
-| --- | --- |
 
 1. Para determinar el valor de la UDI para los días del 11 al 25 del mes m se utiliza:
-
-| INPCq | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m. |
-| --- | --- |
-
-| INPCq-1 | = Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m. |
-| --- | --- |
 
 2. Para obtener el valor de la UDI para los días del 26 de cada mes al 10 del mes inmediato siguiente, se utiliza la siguiente formulación:
 
@@ -888,23 +872,15 @@ Donde:
 
 | n | = Número de días naturales contados desde el 26 del mes m y hasta el día 10 del mes siguiente. |
 | --- | --- |
-
 | INPCq | = Índice Nacional de Precios al Consumidor de la primera quincena del mes m. |
-| --- | --- |
-
 | INPCq-1 | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m. |
-| --- | --- |
 
 2.2. Para determinar el valor de la UDI para los días del 1 al 10 del mes m se utiliza:
 
 | n | = Número de días naturales contados desde el 26 del mes inmediato anterior al mes m y hasta el día 10 del mes m. |
 | --- | --- |
-
 | INPCq | = Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m. |
-| --- | --- |
-
 | INPCq-1 | = Índice Nacional de Precios al Consumidor de la segunda quincena del mes antepasado al mes m. |
-| --- | --- |
 
 Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 

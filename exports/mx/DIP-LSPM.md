@@ -117,9 +117,7 @@ La correspondencia tendrá los siguientes límites de peso y dimensiones: SOBRES
 | --- | --- | --- |
 | Peso ............... | 1,000 gramos | ------ |
 | TARJETAS POSTALES: |   |   |
-
-| Largo .............. |
-| --- |
+| Largo .............. |   |   |
 
 |   | 148 milímetros | 105 milímetros |
 | --- | --- | --- |

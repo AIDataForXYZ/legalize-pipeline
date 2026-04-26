@@ -596,7 +596,9 @@ Los grados y las insignias de la Guardia Nacional no podrán ser usados por pers
 
 ###### Artículo 40.
 
-Para una adecuada colaboración de la Guardia Nacional, con el Ejército, Armada y Fuerza Aérea en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 18, 19 y 20, fracción I, de esta Ley, la equivalencia jerárquica será la siguiente: | GUARDIA NACIONAL | EJÉRCITO Y FUERZA AÉREA | ARMADA |
+Para una adecuada colaboración de la Guardia Nacional, con el Ejército, Armada y Fuerza Aérea en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 18, 19 y 20, fracción I, de esta Ley, la equivalencia jerárquica será la siguiente:
+
+| GUARDIA NACIONAL | EJÉRCITO Y FUERZA AÉREA | ARMADA |
 | --- | --- | --- |
 | I. Generales: |   |   |
 

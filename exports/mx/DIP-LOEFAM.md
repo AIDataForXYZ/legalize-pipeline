@@ -1422,7 +1422,9 @@ B. 	Soldado.
 
 ###### Artículo 130.
 
-Para el cumplimiento de las misiones conjuntas con la Armada de México, de acuerdo con lo establecido en el artículo 2/o. de esta Ley, así como para todos los efectos disciplinarios, la equivalencia jerárquica del personal del Ejército y Fuerza Aérea con el de la citada institución es la siguiente: | EJERCITO Y FUERZA AEREA | ARMADA |
+Para el cumplimiento de las misiones conjuntas con la Armada de México, de acuerdo con lo establecido en el artículo 2/o. de esta Ley, así como para todos los efectos disciplinarios, la equivalencia jerárquica del personal del Ejército y Fuerza Aérea con el de la citada institución es la siguiente:
+
+| EJERCITO Y FUERZA AEREA | ARMADA |
 | --- | --- |
 |   | I. Generales: |
 | General de División | Almirante |

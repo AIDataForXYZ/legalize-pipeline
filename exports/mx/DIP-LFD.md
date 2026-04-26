@@ -10131,7 +10131,9 @@ Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrad
 
 ###### Artículo 199 -
 
-A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas: | ESPECIE | CUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN | DE ARTES O EQUIPOS |
+A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas:
+
+| ESPECIE | CUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN | DE ARTES O EQUIPOS |
 | --- | --- | --- |
 | I.- 	ABULÓN |   |   |
 
@@ -11086,7 +11088,9 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 ###### Artículo 232 -
 
-C.- Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley: | Zonas | Usos |
+C.- Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
+
+| Zonas | Usos |
 | --- | --- |
 |   | Protección u Ornato |
 
@@ -11963,7 +11967,9 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 ###### Artículo 244 -
 
-E-1. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla de Rango de frecuencias en megahertz que a continuación se indica, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, conforme a las cuotas y coberturas señaladas en la tabla B del artículo 244-E de esta Ley, según corresponda. | Rango de frecuencias en Megahertz |   |
+E-1. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla de Rango de frecuencias en megahertz que a continuación se indica, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, conforme a las cuotas y coberturas señaladas en la tabla B del artículo 244-E de esta Ley, según corresponda.
+
+| Rango de frecuencias en Megahertz |   |
 | --- | --- |
 | De 1770 MHz | A 1780 MHz |
 | De 2170 MHz | A 2180 MHz |
@@ -12412,7 +12418,9 @@ Están obligadas a pagar los derechos sobre minería que establece este Capítul
 
 ###### Artículo 263.
 
-Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, el derecho sobre minería, de acuerdo con las siguientes cuotas: | Concesiones y asignaciones mineras | Cuota por hectárea |
+Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, el derecho sobre minería, de acuerdo con las siguientes cuotas:
+
+| Concesiones y asignaciones mineras | Cuota por hectárea |
 | --- | --- |
 | I. | Durante el primer y segundo año de vigencia. |
 
@@ -13714,7 +13722,9 @@ Lo dispuesto en este artículo, es independiente del pago por los servicios de e
 
 ###### Artículo 290.
 
-Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla: | Clasificación por envergadura de aeronaves |   |   |   |
+Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla:
+
+| Clasificación por envergadura de aeronaves |   |   |   |
 | --- | --- | --- | --- |
 | Pequeñas | Medianas | Grandes |   |
 | Tipo A | Tipo B |   |   |

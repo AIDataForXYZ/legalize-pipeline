@@ -362,6 +362,11 @@ def _is_binary_garbage(text: str) -> bool:
     """
     if not text:
         return True
+    # Markdown pipe-table paragraphs (produced by _word_table_to_markdown) are
+    # multi-line strings that start with "| ".  They are never binary garbage;
+    # skip all checks for them.
+    if text.startswith("| "):
+        return False
     # Signal 1: explicit field-code / OLE2 token.
     if _WORD_FIELD_CODE_RE.search(text):
         return True
@@ -720,8 +725,53 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     # detection in the loop below.
     raw_text = raw.decode("latin-1", errors="replace")
 
+    # Pre-pass: group consecutive multi-paragraph table rows into combined
+    # segments before the per-paragraph loop.
+    #
+    # Word 97-2003 stores table rows in two ways:
+    #   1. Inline: a single \r-paragraph contains multiple rows separated by
+    #      \x07\x07 (e.g. "Header\x07Col2\x07\x07Row1\x07Val1\x07\x07…").
+    #      _word_table_to_markdown handles these already.
+    #   2. Multi-paragraph: each row is its own \r-paragraph.  The first row
+    #      has \x07 cell separators but does NOT start with \x07\x07.
+    #      Subsequent rows start with \x07\x07 (the row-end mark from the
+    #      previous row) followed by cell content.
+    #
+    # This pre-pass detects runs of multi-paragraph rows (first para has \x07
+    # but no \x07\x07 prefix; subsequent paras start with \x07\x07) and
+    # concatenates them into a single inline-format segment that
+    # _word_table_to_markdown can handle.
+    raw_paras = raw_text.split("\r")
+    merged_paras: list[str] = []
+    i = 0
+    while i < len(raw_paras):
+        p = raw_paras[i]
+        # Detect the start of a multi-paragraph table: paragraph has \x07
+        # but does NOT start with \x07\x07 (not already a continuation row).
+        if "\x07" in p and not p.startswith("\x07\x07"):
+            # Collect continuation rows: subsequent paragraphs that start
+            # with \x07\x07.
+            run = [p]
+            j = i + 1
+            while j < len(raw_paras) and raw_paras[j].startswith("\x07\x07"):
+                run.append(raw_paras[j])
+                j += 1
+            if len(run) > 1:
+                # Multiple rows found — reconstruct as a single inline-format
+                # segment: strip the leading \x07\x07 from continuation rows
+                # (those bytes were the prior row's terminator in the split
+                # format) and rejoin using \x07\x07 as row separator.
+                segments = [run[0]] + [r.lstrip("\x07") for r in run[1:]]
+                merged_paras.append("\x07\x07".join(segments) + "\x07\x07")
+            else:
+                merged_paras.append(p)
+            i = j
+        else:
+            merged_paras.append(p)
+            i += 1
+
     paragraphs: list[str] = []
-    for raw_para in raw_text.split("\r"):
+    for raw_para in merged_paras:
         # Handle Word table rows BEFORE stripping control characters.
         # BEL (U+0007) is the Word cell separator; a paragraph that contains
         # at least one BEL is a table row (or part of a multi-row table block).
@@ -1182,7 +1232,14 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
         pending_kind = None
         if not text or current_article_id is None:
             return
-        css = "nota_pie" if kind == "stamp" else "parrafo"
+        # Markdown pipe-table paragraphs (produced by _word_table_to_markdown)
+        # start with "| " — assign the "table" css_class so they render verbatim.
+        if kind == "body" and text.startswith("| "):
+            css = "table"
+        elif kind == "stamp":
+            css = "nota_pie"
+        else:
+            css = "parrafo"
         current_article_paragraphs.append(Paragraph(css_class=css, text=text))
 
     def flush_article() -> None:
@@ -1261,6 +1318,11 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
                 current_article_id = f"decreto-body-{article_seq}"
                 current_article_title = ""
                 current_article_paragraphs = []
+            # Pipe-table paragraphs: emit directly (same logic as general path).
+            if para.startswith("| "):
+                flush_pending_paragraph()
+                current_article_paragraphs.append(Paragraph(css_class="table", text=para))
+                continue
             is_stamp = bool(_REFORM_STAMP_RE.match(para))
             if pending_body_lines:
                 switching_kind = (
@@ -1363,6 +1425,17 @@ def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
 
         if current_article_id is None:
             # Free-form preamble (decree title, promulgation block) — drop.
+            continue
+
+        # Pipe-table paragraphs produced by _word_table_to_markdown start with
+        # "| ".  They must be emitted as standalone paragraphs so they are not
+        # joined with preceding body text by flush_pending_paragraph's " ".join.
+        # Force-flush any accumulated content first, then emit the table
+        # directly into current_article_paragraphs.
+        if para.startswith("| "):
+            flush_pending_paragraph()
+            if current_article_id is not None:
+                current_article_paragraphs.append(Paragraph(css_class="table", text=para))
             continue
 
         is_stamp = bool(_REFORM_STAMP_RE.match(para))

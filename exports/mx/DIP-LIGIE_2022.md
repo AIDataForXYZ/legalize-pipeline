@@ -8125,11 +8125,9 @@ Las parafinas cloradas de cadena corta son mezclas de compuestos, con un grado d
 |   | Prohibida |
 | --- | --- |
 
-|   | Prohibida |
-| --- | --- |
-
-| 3808.59 | -- | Los demás. |   |
+|   | Prohibida |   |   |
 | --- | --- | --- | --- |
+| 3808.59 | -- | Los demás. |   |
 |   | 3808.59.01 |   | Desinfectantes. |
 
 Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 5)

@@ -754,7 +754,9 @@ VI.	Marinería.
 
 ###### Artículo 81.
 
-Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes: | ARMADA | EJÉRCITO Y FUERZA AÉREA | GUARDIA NACIONAL |
+Para el cumplimiento de las operaciones realizadas conjuntamente por la Fuerza Armada permanente, temas inherentes a la disciplina naval, así como para los efectos de los derechos a que alude la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, las distintas categorías y jerarquías de la Armada de México tendrán las equivalencias con las categorías y jerarquías del Ejército, Fuerza Aérea y Guardia Nacional, en los términos siguientes:
+
+| ARMADA | EJÉRCITO Y FUERZA AÉREA | GUARDIA NACIONAL |
 | --- | --- | --- |
 | I. ALMIRANTES | GENERALES | GENERALES |
 | Almirante | General de División | General de División de Guardia Nacional |

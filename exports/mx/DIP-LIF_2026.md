@@ -28,7 +28,9 @@ De los Ingresos y el Endeudamiento Público
 
 ###### Artículo 1o.
 
-En el ejercicio fiscal de 2026, la Federación percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en millones de pesos que a continuación se enumeran: | CONCEPTO | Ingreso Estimado |   |   |
+En el ejercicio fiscal de 2026, la Federación percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en millones de pesos que a continuación se enumeran:
+
+| CONCEPTO | Ingreso Estimado |   |   |
 | --- | --- | --- | --- |
 | TOTAL | 10,193,683.7 |   |   |
 |   | 1. | Impuestos | 5,838,541.1 |

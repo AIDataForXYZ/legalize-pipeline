@@ -458,10 +458,7 @@ Los militares que por resolución definitiva pasen a situación de retiro, ascen
 
 |   | Años en el Grado |
 | --- | --- |
-
-| 40 o más | 3 |
-| --- | --- |
-| Artículo reformado DOF 04-02-2011 |   |
+| 20 |   |
 
 ###### Artículo 28.
 
@@ -567,7 +564,9 @@ IV. 	Los militares que hayan cumplido 30 ó más años de servicios.
 
 ###### Artículo 34.
 
-Los militares incapacitados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya incapacidad se clasifique en la segunda categoría, tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente: | Años de servicios | Segunda Categoría de Incapacidad |
+Los militares incapacitados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya incapacidad se clasifique en la segunda categoría, tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente:
+
+| Años de servicios | Segunda Categoría de Incapacidad |
 | --- | --- |
 | 10 o menos | 80% |
 | 11 | 85% |
@@ -577,7 +576,9 @@ Los militares incapacitados en actos del servicio o a consecuencia de éstos, co
 
 ###### Artículo 35.
 
-Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente: | Años de Servicios | Tanto por Ciento |
+Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente:
+
+| Años de Servicios | Tanto por Ciento |
 | --- | --- |
 | 20 | 60% |
 | 21 | 62% |
