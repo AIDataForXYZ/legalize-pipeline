@@ -125,7 +125,9 @@ class GitRepo:
             SHA of the created commit, or None if there were no changes.
         """
         message = format_commit_message(info)
-        # Git does not accept pre-1970 dates (Unix epoch)
+        # The slow path uses `git commit`, which (unlike fast-import) refuses
+        # pre-1970 dates. Clamp to keep this path working; the fast-import
+        # path (FastImporter._date_to_epoch) does not clamp.
         from datetime import date as date_type
 
         git_date = info.author_date
@@ -276,8 +278,8 @@ class FastImporter:
         return self._mark
 
     def _date_to_epoch(self, d: date_type) -> int:
-        if d < date_type(1970, 1, 2):
-            d = date_type(1970, 1, 2)
+        # Modern git fast-import accepts negative Unix timestamps for
+        # pre-1970 dates (e.g. CPEUM 1917, CCF 1928). Don't clamp.
         return calendar.timegm(d.timetuple())
 
     def _write(self, data: bytes) -> None:
