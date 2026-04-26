@@ -2,8 +2,9 @@
 
 Bytes returned by ``MXClient`` are JSON envelopes (``{source, norm_id, …}``)
 that wrap whatever raw payload came back from the portal — for Diputados,
-the consolidated PDF as base64. The parser dispatches on the envelope's
-``source`` field to the right per-source helper.
+either the consolidated PDF (legacy) or the Word 97-2003 .doc file (default).
+The parser dispatches on the envelope's ``source`` field and, within Diputados,
+on ``source_format`` (``"doc"`` or ``"pdf"``) to the right per-format helper.
 
 Implemented today: Diputados (single-snapshot text + index-based metadata).
 Other sources still raise ``NotImplementedError``.
@@ -74,11 +75,19 @@ _TRANSITORIOS_RE = re.compile(
 #   "Artículo reformado DOF 14-08-2001"
 #   "Fracción adicionada DOF 12-04-2019"
 #   "Apartado A reformado DOF …"
+#   "Reforma DOF 14-08-2001: Derogó del artículo…"     ← bare Reforma prefix (DOC only)
+#   "Denominación del Capítulo reformada DOF …"         ← heading-level stamp (DOC only)
+#   "Base reformada DOF …" / "Numeral reformado DOF …"  ← sub-article unit stamps
 # Tagged as nota_pie so the renderer emits them as quoted small text instead
 # of being mistaken for actual law text.
 _REFORM_STAMP_RE = re.compile(
-    r"^\s*(?:p[áa]rrafo|art[íi]culo|fracci[óo]n|inciso|apartado|"
-    r"subinciso|secci[óo]n|cap[íi]tulo|t[íi]tulo|fe\s+de\s+erratas)\b"
+    r"^\s*(?:"
+    # classic unit-level stamps
+    r"p[áa]rrafo|art[íi]culo|fracci[óo]n|inciso|apartado|"
+    r"subinciso|secci[óo]n|cap[íi]tulo|t[íi]tulo|fe\s+de\s+erratas|"
+    # additional DOC-only stamps
+    r"reforma|denominaci[óo]n|base|numeral|encabezado"
+    r")\b"
     r"[\s\S]*?\bDOF\s+\d{2}-\d{2}-\d{4}",
     re.IGNORECASE,
 )
@@ -137,6 +146,91 @@ _DIPUTADOS_BOILERPLATE_RE = re.compile(
 _LAST_REFORM_FOOTER_RE = re.compile(
     r"^[ÚU]ltima\s+[Rr]eforma\s+(?:DOF|publicada)", re.IGNORECASE
 )
+
+
+# ── DOC text extraction ────────────────────────────────────────────────
+
+# Matches OLE2/Word internal field codes that leak into the text stream,
+# e.g. "PAGE", "NUMPAGES406", "EMBED Word.Picture.8 …".
+_DOC_FIELD_RE = re.compile(r"^(?:PAGE|NUMPAGES\S*|EMBED\s+\S+)", re.IGNORECASE)
+
+# Paragraphs whose printable character ratio is below this threshold are
+# treated as OLE2 binary artefacts (header/footer/embedded-object streams
+# that leak into the WordDocument text block) and discarded.
+_MIN_PRINTABLE_RATIO = 0.70
+
+
+def _is_binary_garbage(text: str) -> bool:
+    """Return True when a paragraph appears to be OLE2 binary data.
+
+    The WordDocument stream contains all text, but OLE2 container headers,
+    embedded-object descriptors, and style-sheet records can bleed into the
+    decoded latin-1 string as unreadable runs.  We discard any paragraph
+    where the fraction of printable ASCII / Latin Extended characters falls
+    below the threshold, unless the paragraph is very short (≤4 chars) in
+    which case it is kept as it may be a lone article number.
+    """
+    if not text:
+        return True
+    if len(text) <= 4:
+        return False
+    printable = sum(
+        1 for c in text
+        if c.isprintable() and (ord(c) < 0x0100 or unicodedata.category(c)[0] in "LNP")
+    )
+    return printable / len(text) < _MIN_PRINTABLE_RATIO
+
+
+def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
+    """Extract plain-text paragraphs from a Word 97-2003 (.doc) OLE2 file.
+
+    The WordDocument stream stores the full document text with ``\\r``
+    (0x0D) as the paragraph separator.  We decode as latin-1 (Diputados
+    uses Windows-1252, a superset of latin-1), strip C0/C1 control chars,
+    normalize to NFC Unicode, split on ``\\r``, and discard:
+      - empty paragraphs
+      - OLE2 binary-garbage paragraphs (low printable-char ratio)
+      - Word field codes (PAGE, NUMPAGES, EMBED …)
+      - Diputados institutional boilerplate / "Última Reforma" footer lines
+    """
+    try:
+        import olefile
+    except ImportError as exc:
+        raise ImportError(
+            "olefile is required for .doc parsing. "
+            "Install it with: uv add olefile"
+        ) from exc
+
+    ole = olefile.OleFileIO(io.BytesIO(doc_bytes))
+    try:
+        if not ole.exists("WordDocument"):
+            raise ValueError("OLE2 file has no 'WordDocument' stream — not a valid .doc")
+        raw = ole.openstream("WordDocument").read()
+    finally:
+        ole.close()
+
+    # Decode as latin-1 (Windows-1252 is a superset; errors='replace' is a
+    # safety net for stray bytes outside the BMP).
+    text = raw.decode("latin-1", errors="replace")
+
+    # Strip C0/C1 control characters (keep \r — it is the paragraph separator).
+    text = _CONTROL_RE.sub("", text)
+
+    paragraphs: list[str] = []
+    for raw_para in text.split("\r"):
+        para = unicodedata.normalize("NFC", raw_para).strip()
+        if not para:
+            continue
+        if _is_binary_garbage(para):
+            continue
+        if _DOC_FIELD_RE.match(para):
+            continue
+        if _DIPUTADOS_BOILERPLATE_RE.search(para):
+            continue
+        if _LAST_REFORM_FOOTER_RE.match(para):
+            continue
+        paragraphs.append(para)
+    return paragraphs
 
 
 def _split_into_lines(pages: list[str]) -> list[str | None]:
@@ -384,6 +478,175 @@ def _diputados_blocks(envelope: dict[str, Any]) -> list[Block]:
     return blocks
 
 
+def _diputados_doc_blocks(envelope: dict[str, Any]) -> list[Block]:
+    """Build Block/Version trees from a Diputados DOC envelope.
+
+    Works identically to ``_diputados_blocks`` but consumes the raw
+    ``doc_b64`` bytes through ``_extract_doc_paragraphs`` instead of
+    pdfplumber.  DOC paragraphs are already cleanly separated by ``\\r``
+    so there is no need for the PDF-specific ``_split_into_lines`` page-
+    merging logic; we feed the paragraphs directly into the same block-
+    builder state machine.
+    """
+    doc_b64 = envelope.get("doc_b64")
+    if not doc_b64:
+        raise ValueError("Diputados DOC envelope is missing 'doc_b64'")
+    doc_bytes = base64.b64decode(doc_b64)
+
+    norm_id = envelope["norm_id"]
+    pub_date = date.fromisoformat(envelope["publication_date"])
+    last_reform = envelope.get("last_reform_date")
+    effective_date = (
+        date.fromisoformat(last_reform) if last_reform else pub_date
+    )
+
+    paragraphs_raw = _extract_doc_paragraphs(doc_bytes)
+
+    blocks: list[Block] = []
+    article_seq = 0
+
+    current_article_id: str | None = None
+    current_article_title: str | None = None
+    current_article_paragraphs: list[Paragraph] = []
+    pending_body_lines: list[str] = []
+    pending_kind: str | None = None  # "body" | "stamp"
+
+    def flush_pending_paragraph() -> None:
+        nonlocal pending_kind
+        if not pending_body_lines:
+            pending_kind = None
+            return
+        text = " ".join(pending_body_lines).strip()
+        pending_body_lines.clear()
+        kind = pending_kind or "body"
+        pending_kind = None
+        if not text or current_article_id is None:
+            return
+        css = "nota_pie" if kind == "stamp" else "parrafo"
+        current_article_paragraphs.append(Paragraph(css_class=css, text=text))
+
+    def flush_article() -> None:
+        nonlocal current_article_id, current_article_title, current_article_paragraphs
+        flush_pending_paragraph()
+        if current_article_id is None:
+            return
+        blocks.append(
+            Block(
+                id=current_article_id,
+                block_type="article",
+                title=current_article_title or current_article_id,
+                versions=(
+                    Version(
+                        norm_id=norm_id,
+                        publication_date=pub_date,
+                        effective_date=effective_date,
+                        paragraphs=tuple(current_article_paragraphs),
+                    ),
+                ),
+            )
+        )
+        current_article_id = None
+        current_article_title = None
+        current_article_paragraphs = []
+
+    section_counter = 0
+
+    def emit_section(css_class: str, text: str) -> None:
+        nonlocal section_counter
+        flush_article()
+        section_counter += 1
+        blocks.append(
+            Block(
+                id=f"sec-{section_counter}",
+                block_type="section",
+                title=text,
+                versions=(
+                    Version(
+                        norm_id=norm_id,
+                        publication_date=pub_date,
+                        effective_date=effective_date,
+                        paragraphs=(Paragraph(css_class=css_class, text=text),),
+                    ),
+                ),
+            )
+        )
+
+    for para in paragraphs_raw:
+        if _TRANSITORIOS_RE.match(para):
+            emit_section("titulo_tit", para)
+            continue
+        if _LIBRO_RE.match(para) or _TITULO_RE.match(para):
+            emit_section("titulo_tit", para)
+            continue
+        if _CAPITULO_RE.match(para):
+            emit_section("capitulo_tit", para)
+            continue
+        if _SECCION_RE.match(para):
+            emit_section("seccion", para)
+            continue
+
+        m = _ARTICULO_RE.match(para)
+        if m:
+            flush_article()
+            article_seq += 1
+            num = m.group("num")
+            sep = m.group("sep")
+            rest = m.group("rest").strip()
+            slug = _articulo_id(num)
+            current_article_id = f"art-{slug}-{article_seq}"
+            current_article_title = _article_heading_text(num, sep)
+            current_article_paragraphs = [
+                Paragraph(css_class="articulo", text=current_article_title)
+            ]
+            if rest:
+                # The article's first body paragraph was on the same DOC paragraph
+                # as the heading.  Seed the pending paragraph with it and mark
+                # kind explicitly so it won't be merged with a following stamp.
+                pending_body_lines.append(rest)
+                pending_kind = "body"
+            continue
+
+        if current_article_id is None:
+            # Free-form preamble (decree title, promulgation block) — drop.
+            continue
+
+        is_stamp = bool(_REFORM_STAMP_RE.match(para))
+        is_sub_marker = bool(
+            _APARTADO_RE.match(para)
+            or _FRACCION_RE.match(para)
+            or _INCISO_RE.match(para)
+        )
+
+        # Force a paragraph break when:
+        #   - the running paragraph is a stamp and we just hit body text (or vice versa)
+        #   - the new line is a sub-article marker (Apartado / fracción / inciso)
+        # In DOC mode each source paragraph is already its own unit so we flush
+        # on every new paragraph rather than waiting for a blank separator.
+        if pending_body_lines:
+            switching_kind = (
+                (pending_kind == "stamp" and not is_stamp)
+                or (pending_kind == "body" and is_stamp)
+            )
+            if switching_kind or is_sub_marker:
+                flush_pending_paragraph()
+
+        if is_stamp:
+            pending_kind = "stamp"
+        elif pending_kind is None:
+            pending_kind = "body"
+        pending_body_lines.append(para)
+
+        # Each DOC paragraph is already complete — flush immediately so that
+        # body paragraphs don't merge.  We do not flush stamp paragraphs here
+        # so that multi-date stamps ("DOF 04-12-2006, 10-06-2011") can collect
+        # if they ever span two raw paragraphs (uncommon, but defensive).
+        if not is_stamp:
+            flush_pending_paragraph()
+
+    flush_article()
+    return blocks
+
+
 def _diputados_metadata(envelope: dict[str, Any], norm_id: str) -> NormMetadata:
     title = envelope["title"]
     pub_date = date.fromisoformat(envelope["publication_date"])
@@ -393,12 +656,19 @@ def _diputados_metadata(envelope: dict[str, Any], norm_id: str) -> NormMetadata:
     )
     rank = Rank(envelope.get("rank") or "ley")
 
+    pdf_url = envelope.get("pdf_url", "")
+    doc_url = envelope.get("doc_url", "")
+    # source points to the DOC when available (primary format), else falls back to PDF.
+    source_url = doc_url or pdf_url
+
     extra: list[tuple[str, str]] = [
         ("source_name", "diputados"),
         ("abbrev", envelope["abbrev"]),
     ]
-    if envelope.get("doc_url"):
-        extra.append(("doc_url", envelope["doc_url"]))
+    if pdf_url:
+        extra.append(("pdf_url", pdf_url))
+    if doc_url:
+        extra.append(("doc_url", doc_url))
     if last_reform:
         extra.append(("last_reform_dof", last_reform))
 
@@ -411,9 +681,9 @@ def _diputados_metadata(envelope: dict[str, Any], norm_id: str) -> NormMetadata:
         publication_date=pub_date,
         status=NormStatus.IN_FORCE,
         department="Cámara de Diputados",
-        source=envelope["pdf_url"],
+        source=source_url,
         last_modified=last_modified,
-        pdf_url=envelope["pdf_url"],
+        pdf_url=pdf_url or None,
         extra=tuple(extra),
     )
 
@@ -427,6 +697,10 @@ class MXTextParser(TextParser):
     def parse_text(self, data: bytes) -> list[Any]:
         envelope = _decode_envelope(data)
         if envelope["source"] == "diputados":
+            # Dispatch on source_format: "doc" (default) or "pdf" (legacy/fallback).
+            fmt = envelope.get("source_format", "doc")
+            if fmt == "doc":
+                return _diputados_doc_blocks(envelope)
             return _diputados_blocks(envelope)
         raise NotImplementedError(
             f"MX text parser not wired for source '{envelope['source']}'."

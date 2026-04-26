@@ -13,6 +13,7 @@ dependencies = [
     "pdfplumber>=0.11",  # Estonia: PDF annex → Markdown table conversion
     "pypdfium2>=4.30",  # Greece: column-aware PDF text extraction (BSD-3-Clause)
     "requests-cache>=1.2",  # Mexico: persistent HTTP response cache (SQLite backend)
+    "olefile>=0.47",   # Mexico: OLE2 Compound Document (.doc) extraction
 ]
 
 [project.optional-dependencies]

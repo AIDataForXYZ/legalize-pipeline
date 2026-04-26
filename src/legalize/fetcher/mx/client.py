@@ -345,11 +345,55 @@ class MXClient(HttpClient):
         }
         return json.dumps(envelope, ensure_ascii=False).encode("utf-8")
 
-    def _diputados_text(self, norm_id: str, meta_data: bytes | None) -> bytes:
+    def _diputados_text(
+        self,
+        norm_id: str,
+        meta_data: bytes | None,
+        *,
+        use_pdf: bool = False,
+    ) -> bytes:
+        """Fetch the consolidated text for a Diputados law.
+
+        By default the DOC (Word 97-2003 OLE2) file is downloaded because it
+        offers cleaner paragraph boundaries and per-paragraph reform stamps.
+        Pass ``use_pdf=True`` (or set ``source_format="pdf"`` in the envelope)
+        to fall back to the PDF path — useful for smoke-testing quality
+        regressions on a per-law basis.
+
+        When a DOC URL is not available for a law, the method falls back to PDF
+        automatically and logs a warning.
+        """
         row = self._diputados_row(norm_id)
-        pdf_bytes = self._get(row.pdf_url)
+
+        # Decide format.  Fall back to PDF when the row has no doc_url.
+        if use_pdf or not row.doc_url:
+            if not row.doc_url:
+                logger.warning(
+                    "No doc_url for %s, falling back to PDF", norm_id
+                )
+            pdf_bytes = self._get(row.pdf_url)
+            envelope = {
+                "source": "diputados",
+                "source_format": "pdf",
+                "norm_id": norm_id,
+                "abbrev": row.abbrev,
+                "title": row.title,
+                "rank": row.rank,
+                "publication_date": row.publication_date.isoformat(),
+                "last_reform_date": (
+                    row.last_reform_date.isoformat() if row.last_reform_date else None
+                ),
+                "pdf_url": row.pdf_url,
+                "doc_url": row.doc_url,
+                "pdf_b64": base64.b64encode(pdf_bytes).decode("ascii"),
+            }
+            return json.dumps(envelope, ensure_ascii=False).encode("utf-8")
+
+        # DOC path (default).
+        doc_bytes = self._get(row.doc_url)
         envelope = {
             "source": "diputados",
+            "source_format": "doc",
             "norm_id": norm_id,
             "abbrev": row.abbrev,
             "title": row.title,
@@ -359,7 +403,8 @@ class MXClient(HttpClient):
                 row.last_reform_date.isoformat() if row.last_reform_date else None
             ),
             "pdf_url": row.pdf_url,
-            "pdf_b64": base64.b64encode(pdf_bytes).decode("ascii"),
+            "doc_url": row.doc_url,
+            "doc_b64": base64.b64encode(doc_bytes).decode("ascii"),
         }
         return json.dumps(envelope, ensure_ascii=False).encode("utf-8")
 

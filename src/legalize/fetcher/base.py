@@ -100,7 +100,12 @@ class HttpClient(LegislativeClient):
         self._rate_lock = threading.Lock()
 
     def _wait_rate_limit(self) -> None:
-        """Wait if needed to respect the rate limit."""
+        """Wait if needed to respect the rate limit, then record the request time.
+
+        Called only when an actual network response has been received (not for
+        cache hits). Records the current time and sleeps any remainder of the
+        minimum interval so the *next* caller can proceed immediately.
+        """
         if self._min_interval <= 0:
             return
         with self._rate_lock:
@@ -108,6 +113,17 @@ class HttpClient(LegislativeClient):
             if elapsed < self._min_interval:
                 time.sleep(self._min_interval - elapsed)
             self._last_request = time.monotonic()
+
+    @staticmethod
+    def _is_cache_hit(resp: requests.Response) -> bool:
+        """Return True when the response was served from a cache layer.
+
+        Uses a strict identity check (``is True``) so only an explicit boolean
+        True triggers the cache-hit path.  A plain requests.Response (no
+        attribute → None) and test mocks (MagicMock attribute → MagicMock
+        object) both return False, preserving correct behaviour in both cases.
+        """
+        return getattr(resp, "from_cache", None) is True
 
     def _request(
         self,
@@ -120,8 +136,18 @@ class HttpClient(LegislativeClient):
         data: bytes | None = None,
         timeout: int | None = None,
     ) -> requests.Response:
-        """HTTP request with rate limiting and retry on transient errors."""
-        self._wait_rate_limit()
+        """HTTP request with rate limiting and retry on transient errors.
+
+        The rate-limit wait is applied only for actual network requests.
+        Responses served from a cache layer (resp.from_cache is True) skip
+        the wait entirely so cached calls return immediately.
+
+        Implementation uses a post-response gate: after each confirmed network
+        response _wait_rate_limit() is called to record the timestamp and sleep
+        any remaining interval, ensuring the next call can proceed without
+        delay. Cache hits bypass _wait_rate_limit() completely — they never
+        sleep and never update the rate-limit timestamp.
+        """
         last_exc: Exception | None = None
         for attempt in range(self._max_retries):
             try:
@@ -134,6 +160,17 @@ class HttpClient(LegislativeClient):
                     data=data,
                     timeout=timeout or self._timeout,
                 )
+                if self._is_cache_hit(resp):
+                    # Cache hit — return immediately without touching the rate
+                    # limiter. The timestamp from the last real network call is
+                    # preserved so the next network request still waits
+                    # correctly.
+                    return resp
+                # Real network response: enforce the rate limit (sleep if the
+                # previous network call was too recent) and record the
+                # timestamp. This is the only place _wait_rate_limit() is
+                # called.
+                self._wait_rate_limit()
                 if resp.status_code in _RETRY_STATUS_CODES and attempt < self._max_retries - 1:
                     wait = 2**attempt
                     logger.warning(
@@ -146,7 +183,6 @@ class HttpClient(LegislativeClient):
                         self._max_retries,
                     )
                     time.sleep(wait)
-                    self._wait_rate_limit()
                     continue
                 resp.raise_for_status()
                 return resp

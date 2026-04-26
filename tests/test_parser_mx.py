@@ -108,10 +108,13 @@ def test_metadata_parser_decodes_diputados_envelope():
     assert meta.publication_date.year == 1917
     assert meta.last_modified is not None
     assert str(meta.rank) == "constitucion"
-    assert meta.source.endswith("/CPEUM.pdf")
+    # source now points to the DOC (primary format); pdf_url is preserved in extra.
+    assert meta.source.endswith("/CPEUM.doc")
     extra = dict(meta.extra)
     assert extra["abbrev"] == "CPEUM"
     assert extra["last_reform_dof"] == "2026-04-10"
+    assert extra["pdf_url"].endswith("/CPEUM.pdf")
+    assert extra["doc_url"].endswith("/CPEUM.doc")
 
 
 def test_text_parser_rejects_non_envelope():
@@ -262,3 +265,245 @@ def test_transitorios_emit_section_heading():
     )
     section_blocks = [b for b in blocks if b.block_type == "section"]
     assert any("TRANSITORIOS" in b.title.upper() for b in section_blocks)
+
+
+# ── DOC path: unit tests against CPEUM.doc fixture ───────────────────────────
+
+
+def test_doc_paragraph_extraction_from_cpeum_fixture():
+    """_extract_doc_paragraphs parses the real CPEUM.doc into sane paragraphs."""
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    paras = _extract_doc_paragraphs(doc_bytes)
+
+    # The CPEUM is 406 pages; we expect thousands of paragraphs.
+    assert len(paras) > 500, f"too few paragraphs: {len(paras)}"
+
+    # Artículo 1 should be present.
+    art1_paras = [p for p in paras if p.startswith("Artículo 1o.")]
+    assert len(art1_paras) >= 1, "Artículo 1o. not found in extracted paragraphs"
+
+    # At least one reform stamp for Artículo 1.
+    reform_near_art1 = any(
+        "Párrafo reformado DOF" in p or "Artículo reformado DOF" in p
+        for p in paras[:50]
+    )
+    assert reform_near_art1, "Expected a reform stamp near the start of the document"
+
+
+def test_doc_block_builder_artículo_1_paragraphs():
+    """DOC block builder correctly parses Artículo 1 of CPEUM from the real fixture."""
+    import base64
+
+    from legalize.fetcher.mx.parser import _diputados_doc_blocks
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    envelope = {
+        "source": "diputados",
+        "source_format": "doc",
+        "norm_id": "DIP-CPEUM",
+        "abbrev": "CPEUM",
+        "title": "Constitución Política de los Estados Unidos Mexicanos",
+        "rank": "constitucion",
+        "publication_date": "1917-02-05",
+        "last_reform_date": "2026-04-10",
+        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+        "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc",
+        "doc_b64": base64.b64encode(doc_bytes).decode("ascii"),
+    }
+
+    blocks = _diputados_doc_blocks(envelope)
+
+    article_blocks = [b for b in blocks if b.block_type == "article"]
+    section_blocks = [b for b in blocks if b.block_type == "section"]
+
+    # CPEUM has 136 constitutional articles + transitorios; allow some variance
+    # from the DOC version (amendments add/remove articles).
+    assert len(article_blocks) > 100, f"too few articles: {len(article_blocks)}"
+    assert len(section_blocks) >= 5, f"too few sections (títulos/capítulos): {len(section_blocks)}"
+
+    # First article must be Artículo 1o.
+    art1 = article_blocks[0]
+    assert art1.id.startswith("art-1o-")
+    assert art1.title == "Artículo 1o."
+
+    # Artículo 1 has a heading paragraph and at least one body paragraph.
+    paras_art1 = art1.versions[0].paragraphs
+    head = paras_art1[0]
+    assert head.css_class == "articulo"
+    assert "Artículo 1o." in head.text
+
+    body_paras = [p for p in paras_art1 if p.css_class == "parrafo"]
+    assert len(body_paras) >= 4, "Expected at least 4 body paragraphs in Artículo 1"
+    # First body paragraph should be the rights enumeration opening.
+    assert "Estados Unidos Mexicanos" in body_paras[0].text
+
+    # Reform stamps must be present and tagged as nota_pie.
+    stamp_paras = [p for p in paras_art1 if p.css_class == "nota_pie"]
+    assert len(stamp_paras) >= 1, "Expected at least one reform stamp in Artículo 1"
+    # All stamps must contain a DOF date.
+    for stamp in stamp_paras:
+        assert "DOF" in stamp.text, f"Stamp missing DOF date: {stamp.text}"
+
+
+def test_doc_dispatch_via_text_parser_envelope():
+    """MXTextParser dispatches source_format='doc' to the DOC block builder."""
+    import base64
+
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    envelope = {
+        "source": "diputados",
+        "source_format": "doc",
+        "norm_id": "DIP-CPEUM",
+        "abbrev": "CPEUM",
+        "title": "Constitución Política de los Estados Unidos Mexicanos",
+        "rank": "constitucion",
+        "publication_date": "1917-02-05",
+        "last_reform_date": "2026-04-10",
+        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+        "doc_url": "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc",
+        "doc_b64": base64.b64encode(doc_bytes).decode("ascii"),
+    }
+    payload = json.dumps(envelope).encode("utf-8")
+    blocks = MXTextParser().parse_text(payload)
+    assert len(blocks) > 100
+
+
+def test_reform_stamp_regex_encabezado():
+    """_REFORM_STAMP_RE must match 'Encabezado de inciso reformado DOF ...' stamps."""
+    from legalize.fetcher.mx.parser import _REFORM_STAMP_RE
+
+    assert _REFORM_STAMP_RE.match("Encabezado de inciso reformado DOF 27-06-1990")
+    assert _REFORM_STAMP_RE.match("Encabezado del Capítulo reformado DOF 01-01-2000")
+    # Sanity-check that existing patterns still work.
+    assert _REFORM_STAMP_RE.match("Párrafo reformado DOF 04-12-2006, 10-06-2011")
+    assert _REFORM_STAMP_RE.match("Reforma DOF 14-08-2001: Derogó del artículo")
+    assert _REFORM_STAMP_RE.match("Denominación del Capítulo reformada DOF 10-06-2011")
+
+
+# ── Mock-HTTP integration: DOC download path ─────────────────────────────────
+
+
+def test_diputados_text_returns_doc_envelope_by_default():
+    """_diputados_text downloads the DOC and embeds it as doc_b64 by default."""
+    import base64
+
+    import responses as responses_lib
+    from responses import RequestsMock
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    index_html = (FIXTURES / "diputados-index.html").read_bytes()
+
+    _INDEX_URL = "https://www.diputados.gob.mx/LeyesBiblio/index.htm"
+    _DOC_URL = "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc"
+
+    with RequestsMock() as rsps:
+        rsps.add(
+            responses_lib.GET,
+            _INDEX_URL,
+            body=index_html,
+            status=200,
+            content_type="text/html; charset=windows-1252",
+        )
+        rsps.add(
+            responses_lib.GET,
+            _DOC_URL,
+            body=doc_bytes,
+            status=200,
+            content_type="application/msword",
+        )
+
+        client = MXClient()
+        raw = client.get_text("DIP-CPEUM")
+
+    envelope = json.loads(raw.decode("utf-8"))
+    assert envelope["source"] == "diputados"
+    assert envelope["source_format"] == "doc"
+    assert "doc_b64" in envelope
+    assert "pdf_b64" not in envelope
+    # Round-trip the bytes.
+    assert base64.b64decode(envelope["doc_b64"]) == doc_bytes
+    # Both URLs must be recorded.
+    assert envelope["pdf_url"].endswith("/CPEUM.pdf")
+    assert envelope["doc_url"].endswith("/CPEUM.doc")
+
+
+def test_diputados_text_falls_back_to_pdf_when_use_pdf_true():
+    """_diputados_text downloads the PDF and sets source_format='pdf' when use_pdf=True."""
+    import base64
+
+    import responses as responses_lib
+    from responses import RequestsMock
+
+    index_html = (FIXTURES / "diputados-index.html").read_bytes()
+
+    _INDEX_URL = "https://www.diputados.gob.mx/LeyesBiblio/index.htm"
+    _PDF_URL = "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+
+    fake_pdf = b"%PDF-1.4 fake"
+
+    with RequestsMock() as rsps:
+        rsps.add(
+            responses_lib.GET,
+            _INDEX_URL,
+            body=index_html,
+            status=200,
+            content_type="text/html; charset=windows-1252",
+        )
+        rsps.add(
+            responses_lib.GET,
+            _PDF_URL,
+            body=fake_pdf,
+            status=200,
+            content_type="application/pdf",
+        )
+
+        client = MXClient()
+        raw = client._diputados_text("DIP-CPEUM", meta_data=None, use_pdf=True)
+
+    envelope = json.loads(raw.decode("utf-8"))
+    assert envelope["source_format"] == "pdf"
+    assert "pdf_b64" in envelope
+    assert "doc_b64" not in envelope
+    assert base64.b64decode(envelope["pdf_b64"]) == fake_pdf
+
+
+def test_doc_get_text_then_parse_text_end_to_end():
+    """Full pipeline: get_text returns a DOC envelope that parse_text can consume."""
+    import responses as responses_lib
+    from responses import RequestsMock
+
+    doc_bytes = (FIXTURES / "CPEUM.doc").read_bytes()
+    index_html = (FIXTURES / "diputados-index.html").read_bytes()
+
+    _INDEX_URL = "https://www.diputados.gob.mx/LeyesBiblio/index.htm"
+    _DOC_URL = "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc"
+
+    with RequestsMock() as rsps:
+        rsps.add(
+            responses_lib.GET,
+            _INDEX_URL,
+            body=index_html,
+            status=200,
+            content_type="text/html; charset=windows-1252",
+        )
+        rsps.add(
+            responses_lib.GET,
+            _DOC_URL,
+            body=doc_bytes,
+            status=200,
+            content_type="application/msword",
+        )
+
+        client = MXClient()
+        raw = client.get_text("DIP-CPEUM")
+
+    # parse_text must produce a non-empty list of blocks without raising.
+    blocks = MXTextParser().parse_text(raw)
+    assert len(blocks) > 100
+    article_ids = [b.id for b in blocks if b.block_type == "article"]
+    # Must include article 1.
+    assert any(aid.startswith("art-1o-") for aid in article_ids)
