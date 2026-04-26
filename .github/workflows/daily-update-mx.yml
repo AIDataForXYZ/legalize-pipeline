@@ -10,37 +10,14 @@ name: Daily update — MX
 # ─────────────────────────────────────────────────────────────────────────────
 
 # ─────────────────────────────────────────────────────────────────────────────
-# VPN REQUIREMENT — SELF-HOSTED RUNNER MANDATORY
+# RUNNER
+#   Standard ubuntu-latest. GitHub-hosted runners (Azure IPs) reach
+#   diputados.gob.mx without issue — verified via probe workflow on
+#   2026-04-26 (HTTP 200 in ~640ms from exit IP 13.83.216.98).
 #
-#   diputados.gob.mx (the Diputados LeyesBiblio portal) is geo-restricted
-#   and/or blocks cloud provider egress IPs.  This pipeline VM reaches it via
-#   WireGuard (wg-exec).  Standard GitHub-hosted runners (ubuntu-latest, etc.)
-#   do NOT have WireGuard configured and cannot reach diputados.gob.mx.
-#
-#   This workflow MUST run on a self-hosted runner that:
-#     1. Has WireGuard installed and a peer configured for diputados.gob.mx.
-#     2. Can reach diputados.gob.mx through that VPN.
-#     3. Has the runner agent registered with the label "self-hosted-mx-vpn"
-#        (see `runs-on` below — change the label to match what you registered).
-#
-#   TO REGISTER A SELF-HOSTED RUNNER:
-#     a. In the AIDataForXYZ/legalize-pipeline repo, go to
-#        Settings → Actions → Runners → New self-hosted runner.
-#     b. Follow the setup instructions on the VM that has WireGuard.
-#     c. When prompted for labels, add:  self-hosted-mx-vpn
-#     d. Start the runner agent:  ./run.sh   (or install as a service with
-#        ./svc.sh install && ./svc.sh start)
-#
-#   ALTERNATIVE (no GitHub Actions):
-#     If you prefer not to register a runner, you can run the pipeline
-#     directly on the VM with a systemd timer or cron job:
-#
-#       # /etc/cron.d/legalize-mx  (Mon–Sat 09:00 UTC)
-#       0 9 * * 1-6  legalize-bot  cd /home/dev/legalize-pipeline && \
-#           wg-exec legalize daily -c mx --push
-#
-#     That approach needs no GitHub App token — just the VM's git push
-#     credentials for AIDataForXYZ/legalize-mx.
+#   Note: this VM (legalize-server, GCP) cannot reach diputados directly
+#   and uses WireGuard (`wg-exec`) as a workaround. That mitigation is
+#   GCP-IP-specific and is NOT needed in CI.
 # ─────────────────────────────────────────────────────────────────────────────
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -97,10 +74,7 @@ permissions:
 
 jobs:
   update-mx:
-    # ── IMPORTANT: change this label to match your registered self-hosted
-    #    runner.  Do NOT switch to ubuntu-latest — the VPN is not available
-    #    on GitHub-hosted runners (see comment block at top of file).
-    runs-on: [self-hosted, self-hosted-mx-vpn]
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout engine repo
