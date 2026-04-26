@@ -5853,13 +5853,7 @@ El monto insoluto de las obligaciones a cargo de la institución en liquidación
 
 La enajenación de los bienes de las instituciones de banca múltiple en liquidación, así como de los Bienes a que se refiere el artículo 5, fracción VI de la Ley de Protección al Ahorro Bancario, deberá efectuarse conforme a lo previsto en los artículos 200 a 215 de esta Ley.
 
-> <small>Artículo adicionado DOF 10-01-2014</small>
-
-###### Artículo 200.-
-
-Los procedimientos de administración y enajenación de bienes propiedad de la institución de banca múltiple en liquidación son de orden público y tienen por objeto que su venta se realice de forma económica, eficaz, imparcial y transparente, buscando siempre las mejores condiciones y plazos más cortos de recuperación de recursos. En la enajenación de los bienes se procurará obtener el máximo valor de recuperación posible, considerando para ello las mejores condiciones de oportunidad y la reducción de los costos de administración y custodia a cargo de la institución de que se trate.
-
-> <small>Artículo adicionado DOF 10-01-2014</small>
+> <small>Artículo adicionado DOF 10-01-2014 Artículo adicionado DOF 10-01-2014</small>
 
 ###### Artículo 201.-
 

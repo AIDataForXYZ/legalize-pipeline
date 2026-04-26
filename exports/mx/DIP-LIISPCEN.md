@@ -415,7 +415,3 @@ Artículo Único.- Se reforman los artículos 11, fracciones III, V y XVI, y 12,
 Ciudad de México, a 13 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-ijkº»ÉæðñòóôO	P	êÕÄ° xexUH8/&hm
-
-ý4þ4ÿ45555555B6C6D6F6G6Ã6Ä6Å6Ç6È6Q7R7S7V7W7¬7­7®7°7±7å8æ8ç8é8ê8³9´9µ9·9¸9Î:Ï:Ð:Ò:Ó:);*;+;-;.;<<<<<m<n<o<s<t<Ç<È<É<Ë<Ì<B=C=D=F=G=>>>>>;?<?=???÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷ÇäÚÑ÷îäÚÑ÷îäÚÑ÷îähm

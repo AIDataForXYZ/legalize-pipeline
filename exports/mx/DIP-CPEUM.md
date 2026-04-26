@@ -8975,11 +8975,3 @@ Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Ciudad de México, a 8 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Sen. Mariela Gutiérrez Escalante, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-ùcúcûcd´dµd½d¾dÆdÑdeee
-
-FFFìFïFðFñFàGäGåGæG
-
-W?XGXYY<ZEZùZ[§[¯[°]´]ä]è]^^K^ÿ_`3`7`k`o``c
-
-U¾U¿UV	VúVûVÿVWW

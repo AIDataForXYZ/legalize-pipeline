@@ -254,6 +254,15 @@ _WORD_FIELD_CODE_RE = re.compile(
     # U+00A4 (¤ currency sign) and U+00A6 (¦ broken bar) appear in Word drawing-
     # object coordinate dumps but essentially never in authentic Spanish legislation.
     r"|[\xa4\xa6]"             # ¤ / ¦ — drawing-object coordinate artifact bytes
+    # U+00A0 (non-breaking space) combined with ASCII punctuation not used in
+    # Spanish legislative prose.  \xa0&, \xa0/, \xa0[, \xa0! etc. are Word
+    # internal reference / coordinate artifacts; legitimate uses of \xa0 in
+    # Spanish text are always surrounded by regular words, not punctuation.
+    r"|\xa0[!-/:-@\[-`{-~]|[!-/:-@\[-`{-~]\xa0"
+    # Alternating uppercase-ASCII + non-ASCII sequence of 3+ pairs that contains
+    # at least one non-Spanish non-ASCII char.  Covers coordinate dumps like
+    # "U¾U¿UV\tVúVûVÿVWW" (Word drawing-object cell dump).
+    r"|(?:[A-Z][^\x00-\x7fáéíóúÁÉÍÓÚñÑ]){3,}"
 )
 
 # Characters that are valid in ordinary Spanish legislative text (including
@@ -464,6 +473,48 @@ def _word_table_to_markdown(raw_segment: str) -> str | None:
 # isolated binary artifacts that sometimes appear mid-document.
 _TAIL_BLOB_THRESHOLD = 5
 
+# Broader tail-garbage detector used in both _truncate_tail_blob and the final
+# micro-trim.  Only applied to paragraphs that are SHORT (≤ 120 chars) or
+# known to be in a binary tail context.  More permissive than _is_binary_garbage
+# to catch patterns that pass the main filter but are clearly garbage at the
+# end of a document.
+_TAIL_PARAGRAPH_GARBAGE_RE = re.compile(
+    # Word stylesheet property token clusters (various forms)
+    r"[A-Z][a-z]?[A-Z]\^[A-Z]"   # e.g. CJ^J, CJ^JaJ-style sub-tokens
+    r"|CJaJ|CJPJ|B\*CJ|nHtH"
+    r"|CJh"                        # CJh — Word CJK-handle stub
+    r"|\dCJ"                       # 5CJ, 6CJ … numeric CJK style prefix
+    r"|^h[0-9(A-Z\xc0-\xff]"       # h9(, hJg, hÏTú … style-sheet ref starts
+    r"|^\xb4"                      # ´CJh, ´5CJ … acute-accent garbage prefix
+    r"|gd[^\s,;.]"                 # gd named-range refs
+    # Dense numeric/symbolic coordinate sequences (OLE2 binary coordinate dumps)
+    r"|(?:[A-Z]{1,2}\d+){3,}"
+    # Alternating letter + non-letter/non-space pairs — lowered to 3 for tail context
+    # (catches VúVûVÿ / U¾U¿ style Word drawing-object coordinate cells)
+    r"|(?:[A-Za-z][^A-Za-z\s]){3,}"
+    # Non-ASCII ordinal indicator (ª) repeated
+    r"|\xaa{2,}|(?:[^\x00-\x7f]\xaa){2,}"
+    # $& prefix (OLE2 named-range cell reference start)
+    r"|^\$[&%!]"
+    # WWXX / JJJJ style repeated uppercase-2-char pairs (graphic coords)
+    r"|([A-Z]{2,3})\1{2,}"
+    # BBB / CCC / DDD / ddd / ggg — 3+ identical letters
+    r"|([A-Za-z])\2{2,}"
+    # Dense sequences of non-ASCII chars outside Spanish range (6+ consecutive)
+    r"|[^\x00-\x7fáéíóúÁÉÍÓÚñÑüÜ]{6,}"
+    # OLE2 drawing-coordinate strings: non-ASCII char alternating with digit/punct
+    r"|(?:[^\x00-\x7f][!\"#$%&'()*+,\-./0-9:;<=>?]){4,}"
+    # Backtick characters — never appear in Spanish legislative text
+    r"|`{2,}|[`\xad].*`"
+    # Non-breaking space (\xa0) adjacent to ASCII punctuation
+    r"|\xa0[!-/:-@\[-`{-~]|[!-/:-@\[-`{-~]\xa0"
+    # Degree sign (\xb0 / °) immediately followed by non-breaking space (\xa0).
+    # In Spanish legislative text ° appears in ordinals ("1°") followed by a
+    # regular space or no space; °\xa0 only appears in Word binary coordinate
+    # dumps.
+    r"|\xb0\xa0"
+)
+
 
 def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
     """Drop any trailing binary-garbage blob from the paragraph list.
@@ -491,49 +542,6 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
     - it is short (≤ 120 chars) AND contains a known Word style-property
       token OR starts with a garbage-prefix pattern.
     """
-    _TAIL_GARBAGE_RE = re.compile(
-        # Broad match for Word stylesheet property token clusters.
-        r"[A-Z][a-z]?[A-Z]\^[A-Z]"  # e.g. CJ^J, CJ^JaJ-style sub-tokens
-        r"|CJaJ|CJPJ|B\*CJ|nHtH"
-        r"|CJh"                       # CJh — Word CJK-handle stub (never in prose)
-        r"|\dCJ"                      # 5CJ, 6CJ … numeric CJK style prefix
-        r"|^h[0-9(A-Z\xc0-\xff]"      # h9(, hJg, hÏTú … style-sheet ref starts
-        r"|^\xb4"                      # ´CJh, ´5CJ … acute-accent garbage prefix
-        # gd named-range refs with characters not in the main filter's char class
-        r"|gd[^\s,;.]"
-        # Dense numeric/symbolic coordinate sequences (OLE2 binary coordinate dumps)
-        r"|(?:[A-Z]{1,2}\d+){3,}"
-        # OLE2 drawing-object byte sequences:
-        # Single-letter + single-char alternating dumps (e.g. zz"z'z1z, dVeWeXe)
-        r"|(?:[A-Za-z][^A-Za-z\s]){4,}"
-        # Non-ASCII ordinal indicator (ª) repeated — OLE2 table comparison dump
-        r"|\xaa{2,}|(?:[^\x00-\x7f]\xaa){2,}"
-        # $& prefix (OLE2 named-range cell reference start)
-        r"|^\$[&%!]"
-        # WWXX / JJJJ style repeated uppercase-2-char pairs (graphic coords)
-        r"|([A-Z]{2,3})\1{2,}"
-        # BBB / CCC / DDD / ddd / ggg — 3+ identical letters (OLE2 binary coord dump)
-        # Any letter repeated 3+ consecutive times is always garbage in Spanish prose.
-        r"|([A-Za-z])\2{2,}"
-        # Dense sequences of non-ASCII chars that are mostly outside Spanish range.
-        # Pattern: 6+ consecutive non-ASCII chars where none are common Spanish
-        # vowels with accent (á é í ó ú) or ñÑ — indicates drawing-object coords
-        r"|[^\x00-\x7fáéíóúÁÉÍÓÚñÑüÜ]{6,}"
-        # OLE2 drawing-coordinate strings: non-ASCII char alternating with digit/punct,
-        # e.g. "Ô!Ô$Ô%Ô0Ö1Ö4Ö5Ö Ø!Ø"Ø%" — seen in Word drawing-object tail
-        r"|(?:[^\x00-\x7f][!\"#$%&'()*+,\-./0-9:;<=>?]){4,}"
-        # Backtick characters — never appear in authentic Spanish legislative text.
-        # Word document tails sometimes contain backtick-delimited style tokens
-        # (e.g. "```´`µ`lama").
-        r"|`{2,}|[`\xad].*`"
-        # Non-breaking space (\xa0) combined with non-Spanish-text context.
-        # \xa0 (U+00A0) legitimately appears in Spanish prose as a non-breaking
-        # space, but in Word binary tails it is embedded in coordinate/style dumps.
-        # The combination of \xa0 with adjacent ASCII punctuation (&/!<>@) that
-        # cannot appear in legislative prose identifies the garbage form.
-        r"|\xa0[!-/:-@[-`{-~]|[!-/:-@[-`{-~]\xa0"
-    )
-
     # Mexican legislative documents that end cleanly never have a binary blob
     # before the last paragraph.  All real text ends with a promulgation block
     # ("En cumplimiento de lo dispuesto…") or a signatory line ("Ciudad de
@@ -552,7 +560,7 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
     def _is_tail_garbage(text: str) -> bool:
         if _is_binary_garbage(text):
             return True
-        if len(text) <= 120 and _TAIL_GARBAGE_RE.search(text):
+        if len(text) <= 120 and _TAIL_PARAGRAPH_GARBAGE_RE.search(text):
             return True
         return False
 
@@ -777,11 +785,21 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     ):
         paragraphs.pop()
 
-    # Pass 2: drop up to 3 tail paragraphs that _is_binary_garbage considers junk
-    # when evaluated in isolation (it can be more accurate with a single paragraph
-    # than with the full-window context that _truncate_tail_blob uses).
+    # Pass 2: drop up to 3 tail paragraphs that the broader _TAIL_PARAGRAPH_GARBAGE_RE
+    # considers junk when evaluated in isolation.  This catches residual OLE2 / Word
+    # coordinate-dump fragments (e.g. "U¾U¿UV\tVúVûVÿVWW", "ijkº»Éæ…hm") whose
+    # garbage nature was masked by surrounding context during the window scan but is
+    # clear once all neighbours have been removed.  We check both _is_binary_garbage
+    # (broad) and _TAIL_PARAGRAPH_GARBAGE_RE (tail-specific) with the ≤ 120-char
+    # guard to avoid false positives on any long paragraph that survives to this point.
     for _ in range(3):
-        if paragraphs and _is_binary_garbage(paragraphs[-1]):
+        if not paragraphs:
+            break
+        last = paragraphs[-1]
+        is_junk = _is_binary_garbage(last) or (
+            len(last) <= 120 and _TAIL_PARAGRAPH_GARBAGE_RE.search(last)
+        )
+        if is_junk:
             paragraphs.pop()
         else:
             break

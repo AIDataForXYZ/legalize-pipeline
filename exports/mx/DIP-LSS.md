@@ -4383,8 +4383,6 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Los bimestres y semanas de cotización de los trabajadores anteriores a la fecha de entrada en vigor del presente Decreto, así como la antigüedad de su cuenta individual, deberán ser reconocidos para efecto del cálculo de los plazos a que se refiere el artículo 191, fracción II, de la Ley del Seguro Social que se reforma.
 
-TERCERO.- Las erogaciones que se requieran durante el ejercicio fiscal 2009 para dar cumplimiento a lo previsto en el presente Decreto, se cubrirán con cargo a los ahorros que, entre otros, se generen en los términos del artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2009.
-
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 QUINTO.- Los trabajadores que hubieren quedado desempleados desde el día primero de octubre de 2008 y que anteriormente a la entrada en vigor del presente Decreto hubieren ejercido el retiro parcial por situación de desempleo, podrán solicitar la diferencia entre la cantidad recibida y la que tengan derecho en los términos del artículo 191, fracción II, de la Ley del Seguro Social, que se reforma.

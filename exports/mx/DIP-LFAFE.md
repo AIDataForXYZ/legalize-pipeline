@@ -1741,5 +1741,3 @@ Ciudad de México, a 30 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 ³´¹klr
-
-Ë/Ì/Ð/Ñ/0000¾0¿0Å0Æ0`1e1f1í1î1ò1Ð2òàÎ½òÎ¬òtctcòM8(hnd

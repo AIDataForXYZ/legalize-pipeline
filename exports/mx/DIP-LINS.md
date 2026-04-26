@@ -108,8 +108,6 @@ A los Institutos Nacionales de Salud les corresponderá:
 
 I. 	Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas, en las áreas biomédicas y sociomédicas en el campo de sus especialidades, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, y rehabilitación de los afectados, así como para promover medidas de salud;
 
-II. 	Publicar los resultados de las investigaciones y trabajos que realice, integrándolos al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, de conformidad con lo estipulado en la Ley de Ciencia y Tecnología.
-
 > <small>Fracción reformada DOF 16-02-2018</small>
 
 III. 	Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio o cooperación con instituciones afines;

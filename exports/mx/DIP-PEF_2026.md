@@ -3564,7 +3564,3 @@ Anual Unitario
 | MDC | Instituto Mexicano de Cinematografía | 62,000,000 |   |   |   |   |   |   |
 
 Viernes 21 de noviembre de 2025 DocVariable dvFecha 	DIARIO OFICIAL	(Edición Vespertina)      PAGE  \* MERGEFORMAT 2 DocVariable dvSeccion
-
-"#%&01HIJXY]^`aklmnz{}~®¯°ÂÃÅÆÏÐãäåö÷þÿ
-
-#%&./679:<=STUefghqruv}~ª³´¼½ÀÁÇÈÛÜÝîïñò÷øùúüý

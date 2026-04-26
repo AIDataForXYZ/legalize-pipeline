@@ -2912,9 +2912,3 @@ En caso de alguna modificación a la estructura orgánica, ésta deberá realiza
 Octavo. Los proyectos de inversión celebrados con anterioridad a la entrada en vigor de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar podrán migrar a los Esquemas de Participación Mixta, previo acuerdo de las partes y aprobación del Consejo, sin perjuicio de las facultades que correspondan a las Dependencias coordinadoras de sector y la normativa aplicable a cada Interesado.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Æ5CJ\^JaJhC`Ah
-
-Æ5CJ\^JaJhC`Ah
-
-Æ5CJ\^JaJh

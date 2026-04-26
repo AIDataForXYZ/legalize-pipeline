@@ -8687,9 +8687,6 @@ Anexo 5 de la Resolución Miscelánea Fiscal para 2010
 
 A. Cantidades actualizadas establecidas en el Código.
 
-| Nota: Se actualizan las cantidades de los artículos 22-C; 29, párrafo quinto; 59, fracción III, párrafo tercero;  82, fracciones X, XXXII, XXXIII y XXXV; 84-B, fracción X; 84-J y 854-L. |
-| --- |
-
 Atentamente.
 
 México, D. F., a 21 de diciembre de 2010.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en los artículos 2, apartado B, fracción V y 8, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 22 de octubre de 2007, en vigor a partir del 23 de diciembre del mismo año, reformado mediante Decreto publicado en el mismo órgano informativo el 29 de abril de 2010, firma el Administrador General Jurídico, Jesús Rojas Ibáñez.- Rúbrica.
@@ -8806,9 +8803,6 @@ Publicadas en el Diario Oficial de la Federación el 31 de diciembre de 2012
 Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2012
 
 A. Cantidades actualizadas establecidas en el Código.
-
-| Nota: Se actualizan las cantidades de los artículos 32-A, fracción I; 80, fracción II;  82, fracción XXXIV; 84, fracción VI; 84-B, fracciones VIII y IX; 84-H; y 90, primer párrafo. |
-| --- |
 
 Atentamente.
 
