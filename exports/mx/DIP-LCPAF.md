@@ -982,8 +982,6 @@ Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
 
 ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL ARTICULO 5 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, PARA QUEDAR COMO SIGUE:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
@@ -1016,8 +1014,6 @@ Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005
 
 Artículo Tercero. Se reforman los Artículos 1o.; 5o., primer párrafo; 36, primero y segundo párrafos; 70; 71; 72; 73, fracciones III y VII y segundo párrafo; 74; 76; 79, primer párrafo y 80, y se adicionan la fracción XIII al Artículo 2o. recorriéndose en su orden las fracciones XIII y XIV; los párrafos quinto y sexto al Artículo 36 y los Artículos 70 Bis; 74 Bis; 74 Ter y 79 Bis, a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1046,8 +1042,6 @@ Publicado en el Diario Oficial de la Federación el 4 de noviembre de 2010
 
 Único.- Se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1064,8 +1058,6 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 2012
 
 Artículo Único.- Se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
@@ -1079,8 +1071,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013
 
 Artículo Único. Se reforma el artículo 74 Bis, primer párrafo; y se adiciona al artículo 2o., la fracción XV, pasando la actual fracción XV a ser XVI; se adicionan un artículo 63 Bis y 63 Ter; se adiciona al artículo 74 Bis, una fracción II, pasando la actual fracción II a ser fracción III de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1099,8 +1089,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2013
 
 ARTÍCULO ÚNICO.- Se adicionan los artículos 45 Bis, 45 Bis 1, 55 Bis, 55 Bis 1 y 55 Bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1188,8 +1176,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017
 
 Artículo Primero.- Se reforman los artículos 63 y 74 Ter, fracción II de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1205,8 +1191,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de mayo de 2018
 
 Artículo Único.- Se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1224,8 +1208,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
 
 Artículo Único.- Se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1239,8 +1221,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2020
 
 Artículo Único.- Se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1270,8 +1250,6 @@ Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023
 
 Artículo Único.- Se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
@@ -1287,8 +1265,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Tercero.- Se reforma el artículo 2o., fracción VI, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1333,21 +1309,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
--
-
-.
-
-j
-
-m
-
-n
-
-*
-
-i
-
-j
-
-h&m5CJ

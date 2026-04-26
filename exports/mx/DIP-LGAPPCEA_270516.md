@@ -418,12 +418,4 @@ El Ministro Presidente, Luis María Aguilar Morales.- Rúbrica.- El Ministro Pon
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de treinta y nueve fojas útiles, concuerda fiel y exactamente con su original que corresponde a la sentencia del dieciocho de febrero de dos mil dieciséis, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 33/2015, promovida por la Comisión Nacional de Derechos Humanos. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a cuatro de mayo de dos mil dieciséis.- Rúbrica.
 
-[\j»¼
-
-ù
-
-ø
-
-ù
-
 >>>>°>±>²>¶>·>?? ?#?$?L?M?N?R?S?É?ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñâÓÃ´ñhê]h8+ÈCJPJnH	tH	hê]hÄF5CJPJnH	tH	hê]hê]CJPJnH	tH	hê]h¦uBCJPJnH	tH	hê]hÄFCJPJnH	tH	GÕ7Ö7M8N8=9>9ó9ô9¡:¢:ú:û:µ;¶;ú;û;c<d<¬=­=

@@ -2516,8 +2516,6 @@ Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Tercero.- Se adiciona un párrafo segundo al artículo 14 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2638,8 +2636,6 @@ Publicado en el Diario Oficial de la Federación el 13 de mayo de 2022
 
 Artículo Único.- Se reforma el primer párrafo del artículo 50 y se adicionan la fracción V Bis al artículo 2; las fracciones I Bis, VII Bis, VII Ter y VII Quater al artículo 4; la fracción VI Bis al artículo 48; la fracción XI Bis al artículo 49; las fracciones XXVI Bis, XXVI Ter, XXVI Quater, XXVI Quinquies, XXVI Sexies, XXVI Septies, XXVI Octies y XXVI Nonies al artículo 53, y las fracciones III Bis y XVIII Bis al artículo 70, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -2664,8 +2660,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Único.- Se reforman los artículos 5, fracción II y 137, primer párrafo de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2679,8 +2673,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Primero.- Se reforman los artículos 2, fracción II; 4, fracciones I Bis y XX; 33, fracciones I, II, III y IV; la denominación del Capítulo Sexto del Título Segundo; 45, párrafo primero, fracciones VII, VIII y IX, y actual párrafo cuarto; 47, párrafo primero; 48, fracción VII; 53, párrafo primero, fracciones II, XV y XXXIV; 68, párrafo segundo; 69, párrafo primero, fracción II; 70, párrafo primero y sus fracciones I, XVII y XXIV; 89, párrafo primero; 105, párrafo quinto; 107, párrafos primero y cuarto; 110; 119, párrafo segundo; 128, párrafos segundo y tercero; 129, párrafo primero; 132, párrafo primero, fracción I; 133, fracciones I y II; 137, párrafo primero, fracción II; 165; 168 y 171, se adicionan las fracciones I Bis y I Ter al artículo 2; las fracciones I Ter, I Quater, I Quinquies, I Sexies, I Septies, IX Bis, IX Ter y XXVI Bis al artículo 4; las fracciones XIII Bis y XIII Ter al artículo 5; los capítulos Tercero, Cuarto y Quinto al Título Primero, los cuales comprenden del artículo 12 Bis al 12 Quater, del 12 Quinquies al 12 Undecies, y 12 Duodecies; 33 Bis; párrafo segundo al artículo 43; 43 Bis; el párrafo primero, las fracciones I Bis, X y XI, y el párrafo cuarto y se recorren los actuales párrafos cuarto y quinto para ser quinto y sexto al artículo 45; la fracción VII Bis al artículo 48; el párrafo tercero y se recorre el actual párrafo tercero para ser cuarto al artículo 68; la fracción III Bis, el párrafo segundo, y las fracciones XXV y XXV Bis, recorriéndose la actual XXV a XXVI al artículo 70; 73 Bis; 73 Ter; 74 Bis; los párrafos cuarto y quinto al artículo 80; el párrafo primero, fracción I Bis al artículo 85; el párrafo segundo al artículo 88; el párrafo séptimo al artículo 119; la fracción III al artículo 133; 152 Bis; 153 Bis; y fracción I Bis al artículo 161, y se derogan de los artículos 53, párrafo primero, la fracción XLIII, y 89, el párrafo tercero, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2714,8 +2706,6 @@ Noveno.- Los Institutos, Centros Forenses o cualquier autoridad que tenga a su c
 
 Décimo.- Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2734,26 +2724,10 @@ hâ+5CJhDÑhúiæCJ
 
 ñCJhIÔh}
 
-ñ5CJ/h}
-
-ñh}
-
-ñ5CJ/h}
-
-ñh}
-
-ñh}
-
 ñCJh}
-
-ñh}
 
 hDÑ5CJhDÑh(}CJhDÑhúiæCJ
 
 h>5CJhDÑhúiæ5CJhDÑhDÑ5CJhIÔhß+|CJhIÔhß+|5CJ
 
 ÒÓÙÚÛ{|ðÃæçðnÜúñëñÓÉ¿¶°¶¦¿¶°¶¦¿¶°¶¦¿¶°¶¦¿¶°¶¦{t{t{t
-
-ÀÀoÀõéÝõÓÉÀ·ÀÓÉÀÓÉÀ±Àª ±xÉÀ±ÀÓÉÀ±ÀÓÉÀ±ÀÓÉÀ±À
-
-ÏÏ

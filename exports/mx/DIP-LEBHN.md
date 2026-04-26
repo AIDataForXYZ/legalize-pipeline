@@ -788,8 +788,6 @@ y retiemble en sus centros la tierra
 
 Al sonoro rugir del cañón.
 
-I
-
 Ciña ¡oh patria! tus sienes de oliva
 
 De la paz el arcángel divino,
@@ -807,8 +805,6 @@ Piensa ¡oh patria querida! que el cielo
 Un soldado en cada hijo te dio.
 
 CORO
-
-II
 
 ¡Guerra, guerra sin tregua al que intente
 
@@ -828,8 +824,6 @@ Con las voces de ¡Unión! ¡Libertad!
 
 CORO
 
-III
-
 Antes, patria, que inermes tus hijos
 
 Bajo el yugo su cuello dobleguen,
@@ -847,8 +841,6 @@ Y sus ruinas existan diciendo:
 De mil héroes la patria aquí fue.
 
 CORO
-
-IV
 
 ¡Patria! ¡patria! Tus hijos te juran
 
@@ -910,11 +902,7 @@ Publicado en el Diario Oficial de la Federación el 9 de enero de 1991
 
 ARTICULO PRIMERO.- Se modifica el inciso a) del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se reforma la fracción II del artículo 35 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -930,11 +918,7 @@ Publicado en el Diario Oficial de la Federación el 9 de mayo de 1995
 
 Artículo Primero.- Se modifican los artículos 2o., 18 y 55 de la Ley sobre El Escudo, La Bandera y El Himno Nacionales, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se adicionan los artículos 54 Bis, 59 y 60, en los siguientes términos:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -956,8 +940,6 @@ Publicado en el Diario Oficial de la Federación el 3 de enero de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona la fecha 21 de abril "Aniversario de la gesta heroica de la defensa del Puerto de Veracruz", al inciso b), del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -971,8 +953,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de enero de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona la fecha 2 de mayo, "Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Mexicana, Escuadrón 201 en 1945", inciso b), del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -988,8 +968,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 39 bis a la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1003,8 +981,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2005
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 46 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1020,8 +996,6 @@ Publicado en el Diario Oficial de la Federación el 3 de febrero de 2006
 
 ARTÍCULO ÚNICO.- Se reforma el inciso a) del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1035,8 +1009,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de junio de 2006
 
 ARTÍCULO ÚNICO.- Se adiciona la fecha 12 de septiembre "Conmemoración de la gesta heroica del Batallón de San Patricio en 1847", al inciso b), del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1052,11 +1024,7 @@ Publicado en el Diario Oficial de la Federación el 20 de octubre de 2007
 
 ARTÍCULO PRIMERO.- Se adiciona una segunda parte al único párrafo del artículo 10 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-.........
-
 ARTÍCULO SEGUNDO.- Se adiciona el artículo 18, inciso a), de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, incluyéndose la fecha de conmemoración propuesta en el orden cronológico correspondiente, recorriéndose las demás fechas posteriores a dicha fecha, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1072,8 +1040,6 @@ Publicado en el Diario Oficial de la Federación el 21 de enero de 2008
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 5o. y 6o. último párrafo, de la Ley sobre el Escudo, la Bandera y el Himno Nacionales para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1087,8 +1053,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de junio de 2010
 
 Artículo Único. Se reforma el artículo 34 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1104,8 +1068,6 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2011
 
 Artículo Único.- Se adiciona el artículo 18, inciso a) de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, incluyéndose la fecha de conmemoración propuesta en el orden cronológico correspondiente, recorriéndose las demás fechas posteriores a dicha fecha para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1120,8 +1082,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2011
 
 Artículo Único.- Se adiciona un párrafo décimo tercero, y se recorren los actuales décimo tercero y décimo cuarto para quedar como décimo cuarto y décimo quinto, respectivamente, al artículo 18, inciso b) de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1135,8 +1095,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de enero de 2012
 
 ARTÍCULO ÚNICO. Se adiciona la fecha 19 de agosto, Aniversario de la instalación de la Suprema Junta Nacional Americana de Zitácuaro, en 1811, al inciso a) del artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1193,8 +1151,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO DÉCIMO SÉPTIMO.- Se REFORMAN los artículos 39 Bis y 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1266,8 +1222,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2018
 
 Artículo Único. Se reforma el artículo 34 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
@@ -1295,8 +1249,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
 
 Artículo Único.- Se adiciona un numeral 29, recorriéndose en su orden los subsecuentes de la fracción I al artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1326,8 +1278,6 @@ Publicado en el Diario Oficial de la Federación el 21 de julio de 2025
 
 Artículo Único.- Se reforma el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1336,70 +1286,6 @@ Ciudad de México, a 23 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-@
-
-A
-
-B
-
-F
-
-B
-
-ö
-
-÷
-
-õ
-
-ö
-
-÷
-
-ù
-
-3
-
-4
-
-:
-
-4
-
-r$ ` a$gd
-
-r$&dPÆÿa$gd
-
-r
-
-rh
-
-rh
-
-rh
-
 rCJaJh
 
 rCJaJh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh
-
-rh

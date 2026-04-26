@@ -106,8 +106,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO SEGUNDO. Se reforman los artículos 3o, primer párrafo; 7o; 8o y 9o, cuarto párrafo de la Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.

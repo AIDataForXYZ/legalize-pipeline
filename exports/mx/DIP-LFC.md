@@ -536,8 +536,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 1996
 
 ARTICULO UNICO.- Se deroga la fracción II del artículo 5o.; se recorre el texto de la fracción VIII para pasar a ser IX y se adiciona una fracción VIII al artículo 6o., de la Ley Federal de Cinematografía, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -557,8 +555,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de enero de 1999
 
 ARTICULO UNICO: SE REFORMAN los Artículos 3, 4, 5, 6, 9, 10, 11, 12, 13, 14 y 15 así como la denominación y ubicación de los Capítulos I, II, III y IV, SE ADICIONAN los Artículos 16 a 47, así como los Capítulos V, VI, VII, VIII y IX, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -582,8 +578,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 Artículo Segundo.- Se reforma la fracción VI del artículo 34 de la Ley Federal de Cinematografía para quedar en los siguientes términos:
 
-..........
-
 Transitorio del Decreto
 
 Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
@@ -597,8 +591,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 
 ARTÍCULO ÚNICO. Se reforma el artículo 41, fracción I, incisos c) y e), y se adiciona el inciso i) de la Ley Federal de Cinematografía, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -614,8 +606,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2010
 
 ARTÍCULO ÚNICO. Se adicionan los Capítulos X, De las visitas de verificación y XI, De las medidas de aseguramiento; pasando el Capítulo X, De las sanciones, con las reformas al mismo, a ser XII a la Ley Federal de Cinematografía, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Artículo Único. El presente decreto entrará en vigor sesenta días después de su publicación en el Diario Oficial de la Federación.
@@ -629,8 +619,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO NOVENO.- Se REFORMAN los artículos 41, párrafo primero, fracción I y sus incisos g) y h); 52, y 53, párrafo primero de la Ley Federal de Cinematografía, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -758,8 +746,6 @@ Publicado en el Diario Oficial de la Federación el 22 de marzo de 2021
 
 Artículo Único.- Se reforma el artículo 8o. de la Ley Federal de Cinematografía, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -796,11 +782,7 @@ Derivado de lo resuelto por la Primera Sala de la Suprema Corte de Justicia de l
 
 RESULTANDO
 
-..
-
 CONSIDERANDO
-
-..
 
 76.	SEXTO. Efectos. Este Tribunal Pleno considera importante remarcar que el artículo 107, fracción II, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos confiere a esta Suprema Corte de Justicia de la Nación amplias facultades para fijar los efectos que deban imprimirse a una declaratoria general de inconstitucionalidad, con la finalidad de que se supere eficazmente el problema de inconstitucionalidad generado por las normas declaradas inconstitucionales en su jurisprudencia. En este sentido, debe entenderse que la Suprema Corte tiene vastas facultades para apreciar e imponer, caso por caso, las medidas que considere necesarias para garantizar que la declaratoria general de inconstitucionalidad cumpla cabalmente su cometido.
 
@@ -893,32 +875,6 @@ Ciudad de México, a 28 de agosto de 2025
 LICENCIADO RAFAEL COELLO CETINA
 
 SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- Rúbrica.
-
-h¾qèhð
-
-5\h¾qèhð
-
-?
-
-?
-
-I
-
-J
-
-L
-
-CJ]^Jh¾qèhð
-
-CJ^Jh¾qèhð
-
-CJ^Jh¾qèhð
-
-5CJ^Jh¾qèhð
-
-h¾qèhð
-
-CJ^Jh¾qèhð
 
 tjh
 

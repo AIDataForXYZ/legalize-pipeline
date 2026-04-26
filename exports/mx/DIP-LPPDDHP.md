@@ -660,8 +660,6 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO PRIMERO. Se reforma la denominación del Capítulo X y los artículos 48; 50; 54 y 63, último párrafo y se derogan los artículos 2, párrafo sexto; 8, fracción XVII; 49; 51; 52; 53 y 54 de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -825,8 +823,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO QUINTO. Se reforman los artículos 5 y 9 de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

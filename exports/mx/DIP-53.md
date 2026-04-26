@@ -312,8 +312,6 @@ Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2004
 
 ARTICULO UNICO.- Se reforma la fracción primera del Artículo Cuarto Transitorio de la Ley de Nacionalidad, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -327,8 +325,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona la fracción VI, pasando la actual a ser la fracción VII, al artículo 3 de la Ley de Nacionalidad, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -357,19 +353,3 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 página  2
 
 DIARIO   OFICIAL           Viernes  23 de enero de 1998
-
-tu
-
-Q
-
-ñ
-
-ó
-
-N
-
-ð
-
-ñ
-
-NOëì

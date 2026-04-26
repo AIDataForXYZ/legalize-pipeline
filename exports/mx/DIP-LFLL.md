@@ -420,8 +420,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
 
 Artículo Único. Se adiciona las fracciones XI, XII, XIII, XIV y XV al artículo 14 de la Ley de Fomento para la Lectura y el Libro, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -435,8 +433,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO SEGUNDO.- Se REFORMAN los artículos 2, párrafo décimo cuarto; 5, apartados A y B; 6, párrafo primero; 11, párrafo primero; 12; 14, fracciones I, II, IX y X; 19 y 20, párrafo primero, y se ADICIONAN un segundo párrafo al artículo 6 y una fracción II Bis al artículo 14 de la Ley de Fomento para la Lectura y el Libro, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -480,8 +476,6 @@ Artículo Vigésimo Tercero.- Se reforman los artículos 3, párrafo segundo; 5,
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-..
-
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
@@ -491,8 +485,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Único.- Se reforman los artículos 2, párrafo octavo; 23; 26; y 27, párrafo primero; se adicionan los artículos 5, apartado E; 11, fracciones VII y VIII; 23, fracciones I, II, III, IV y V; 28; y se derogan la fracción IX del artículo 15; y el párrafo segundo del artículo 27, de la Ley de Fomento para la Lectura y el Libro, para quedar como sigue:
-
-.
 
 ##### Transitorios
 

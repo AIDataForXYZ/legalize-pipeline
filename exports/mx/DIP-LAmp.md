@@ -3568,8 +3568,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3616,8 +3614,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Primero.- Se reforma el artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3647,8 +3643,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Sexagésimo Quinto.- Se reforman los párrafos segundo y tercero del artículo 9o.; el párrafo cuarto del artículo 15; el párrafo primero del artículo 25; el párrafo primero y la fracción I del artículo 40; las fracciones I, II y III del artículo 227, y la fracción III del artículo 237 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3790,8 +3784,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -3826,8 +3818,6 @@ Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archív
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
 Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -3839,8 +3829,6 @@ Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
 
 Artículo Único.- Se adiciona un último párrafo al artículo 148, y se deroga el último párrafo del artículo 129 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -3855,8 +3843,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de marzo 2025
 
 Artículo Único. Se reforman los artículos 1o., párrafo primero, fracciones II y III; 2o., párrafo segundo; 3o., párrafos segundo, cuarto, séptimo y octavo; 4o., párrafos primero, segundo, fracción I, y tercero; 5o., fracción I, párrafos primero, tercero, cuarto y quinto, II, párrafo segundo, III, párrafo primero y sus incisos b), c), d) y e), y IV y, último párrafo; 6o.; 7o.; 8o.; 9o.; 10; 11; 12; 13; 14; 15; 16; 18; 20, párrafo segundo; 23; 24; 25, párrafo primero; 26; fracciones I, incisos a) y b), y II, incisos a), b) y c); 27, párrafo primero, fracciones I, párrafos primero, incisos a), b) y c), y segundo, II, párrafo primero, III, incisos a), b) y c) y, párrafo segundo; 28, fracciones I, y II, párrafo segundo; 29, párrafos primero, fracción II, y segundo; 30, fracciones I, párrafos primero y quinto, y II; 31, fracciones I, párrafo primero, y II; 33, fracción V; 37; 38; 39; 40; 46, párrafo primero; 48, párrafos segundo, tercero y cuarto; 51, párrafo primero y sus fracciones I, III, IV, V y VII; 54, fracción III, inciso a) y b); 55, párrafo primero; 56, párrafo primero; 57, párrafos primero, tercero y cuarto; 60, párrafos primero, segundo, tercero y cuarto; 61, fracciones III, X, XII, XIV, párrafos segundo y tercero, XVII, párrafo segundo, XVIII, párrafos segundo, inciso b), y tercero, XIX, y XX, párrafo primero; 63, fracciones I, párrafo primero, II, y III; 64, segundo párrafo; 71, segundo párrafo; 73, párrafos primero, segundo y tercero; 75, párrafos segundo y cuarto; 77, párrafos primero, fracción I, segundo, tercero y cuarto; 78, párrafos segundo y tercero; 79, fracciones II, III, inciso a) y b), IV, párrafo primero, inciso b), V y VI; 83, párrafo segundo; 88, párrafos segundo, tercero y cuarto; 91, párrafo primero; 92; 93, fracciones I, párrafo primero, II, III, V y VI; 97, fracciones I, incisos d) y g), y II, inciso d); 100, párrafos segundo y tercero; 102; 104, párrafo primero; 105; 106; 107, fracciones I, párrafos primero, y segundo, inciso d), III, inciso a), IV, párrafo segundo, y VII, 108, fracciones I, II, III y VII; 109, fracción IV; 110, párrafo segundo, 111, fracción II; 114, párrafo primero; 115, párrafo primero; 116, párrafo segundo; 117, párrafos segundo, cuarto, sexto, séptimo y octavo; 119, párrafos segundo y quinto; 120; 121, párrafos primero y segundo; 124, párrafo segundo; 125; 127, fracción II; 128, párrafo primero, fracción I; 129, fracciones VIII y XII; 131; 132, párrafos primero y segundo; 133, párrafo primero; 134, párrafo primero y su fracción II; 135, párrafo segundo, fracción II; 136, párrafo segundo; 137; 139; 145; 147, párrafos segundo y tercero; 148, párrafo primero; 150; 152; 159, párrafos primero y sus fracciones II y III, segundo y tercero; 160; 161; 162; 163; 164; 165; 166, párrafos primero, fracciones I y II, segundo y tercero; 167; 168, párrafos primero y segundo, fracción II; 169; 170, fracciones I, párrafos primero, segundo y quinto, y II; 171; 172, párrafo primero y sus fracciones II, IV y XI; 173, párrafo primero y sus apartados A, fracciones I, II, III, IV, VI, X, XI y XIII y B, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XVII y XVIII, párrafo primero; 174, párrafo primero; 175, fracciones I, II y V; 177; 178, fracciones I, párrafo primero, y II; 179; 180; 181; 182, párrafos segundo, fracciones I y II, y tercero; 183; 185; 186, párrafo primero; 187, párrafos primero y segundo; 188, párrafo segundo; 189; 190, párrafo segundo; 191; 192, párrafos tercero y cuarto; 193, párrafos primero, sexto y séptimo; 194; 195; 196, párrafo primero; 198; párrafos cuarto y quinto; 200, párrafo segundo; 202, párrafos primero y segundo; 204; 205, párrafos primero, fracción I, y sexto; 209; 210, párrafo primero y su fracción I, párrafos primero, segundo, tercero y cuarto; 211; 212; 216, párrafos primero y tercero; 219; 222; 225; 226, párrafos primero, fracción II, y tercero; 231, párrafo primero; 232, párrafos primero y segundo; 236, párrafo primero; 237, fracción III; 238; 239; 240; 241; 242; 243; 244; 245; 246; 247; 249; 250; 251; 252; 253; 254; 255; 256; 257; 258; 259; 260, párrafo primero y su fracción II; 261, fracciones I y II; 262, párrafo primero; 263; 264; 265, párrafo primero; 266, párrafo primero y su fracción II, y 271, y se derogan los artículos 43; 54, la fracción II; 56, el párrafo segundo; 217, el párrafo segundo; 223; 226, párrafo primero, la fracción I, y 227, la fracción I, de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -3882,8 +3868,6 @@ Publicado en el Diario Oficial de la Federación el 16 de octubre 2025
 
 Artículo Primero.- Se reforman los artículos 3o.; 7o., párrafo segundo; 25, párrafo segundo; 26, fracción IV; 28, párrafo primero, fracción II, párrafo segundo; 30, fracción I, párrafo primero; 60, párrafo primero; 111, párrafo primero y fracción II; 124, párrafo primero; 128, párrafos primero y actual cuarto; 137; 138, párrafo primero; 146, fracciones I, II, III y IV; 148, párrafo tercero; 166, fracción I; 168, párrafo primero; 181; 186, párrafo segundo; 260, fracción IV; 262, párrafo primero; y 271; y se adicionan un párrafo segundo, recorriéndose los subsecuentes, a la fracción I, del artículo 5o.; una fracción IV al artículo 27; párrafos tercero y cuarto, a la fracción II del artículo 28; un párrafo segundo al artículo 59; un párrafo segundo, recorriéndose los subsecuentes, al artículo 60; un párrafo segundo al artículo 82; un párrafo segundo a la fracción II, del artículo 107; un párrafo tercero al artículo 111; un párrafo tercero al artículo 115; un párrafo segundo, recorriéndose los subsecuentes, al artículo 121; un párrafo segundo con las fracciones I, II, III, y IV, recorriéndose los subsecuentes, al artículo 128; las fracciones XIV, XV, XVI y XVII, al artículo 129; un párrafo tercero, recorriéndose el subsecuente, al artículo 135; un párrafo cuarto al artículo 168; un párrafo tercero, recorriéndose los subsecuentes, al artículo 192 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3902,86 +3886,4 @@ Quinto. El Órgano de Administración Judicial contará con ciento ochenta días
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-+
-
-<
-
-=
-
-H
-
-d
-
-e
-
-Â
-
-Ã
-
-<
-
-=
-
-d
-
-e
-
-q
-
-Â
-
-Ã
-
-Æ
-
-Ø
-
-Ù
-
-Í
-
-×
-
-Ø
-
-Ù
-
 x?x_x`xcxÓxóxôxøxùx
-
-=h%
-
-=h%
-
-=h%
-
-=9¨:¨=¨
-
-Íh
-
-h
-
-l
-
-m
-
-z
-
-{
-
-m
-
-z
-
-{
-
-,
-
-4
-
-,
-
-$6G$^6a$gd\Q	$@&a$gd\Q
-
-$
-
-$ G$` a$gd\Q

@@ -4172,8 +4172,6 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 1940
 
 ARTICULO UNICO.- Se reforman los artículos 123 y 408 de la Ley de Vías Generales de Comunicación, para quedar concebidos en los siguientes términos:
 
-..........
-
 Joaquín Jara Díaz.- D. V. P., José María Dávila.- S. V. P.-, Adán Velarde.- D. S., Mauro Angulo, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los veinticuatro días del mes de abril de mil novecientos cuarenta.- Lázaro Cárdenas.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Melquiades Angulo G.-Rúbrica.- El Secretario de Estado y Despacho de Hacienda y Crédito Público, Eduardo Suárez.-Rúbrica.- Al C. Lic. Ignacio García Tellez, Secretario de Gobernación.- Presente.
@@ -4184,11 +4182,7 @@ Publicado en el Diario Oficial de la Federación el 3 de julio de 1941
 
 ARTICULO 1º.- Se adiciona el artículo 390 de la Ley de Vías Generales de Comunicación, con las siguientes fracciones:
 
-..........
-
 ARTICULO 2º.- Se adiciona el artículo 445 de la Ley de Vías Generales de Comunicación, con la siguiente fracción:
-
-.......
 
 Mariano Samayoa, D.P.-Enrique Osorio Camarena, S.P.-Alfredo S. Sarrelangue L., D. S.-Alfredo Zárate Albarrán, S. S.-Rúbricas."
 
@@ -4200,19 +4194,11 @@ Publicado en el Diario Oficial de la Federación el 20 de agosto de 1941
 
 ARTICULO 1º.- Se adiciona el primer párrafo del artículo 3º de la Ley de Vías Generales de Comunicación, quedando en los términos siguientes:
 
-..........
-
 ARTICULO 2º.- Se adiciona el primer párrafo del artículo 8º de la misma Ley, en los términos siguientes:
-
-.........
 
 ARTICULO 3º.- Se reforma el artículo 49 de la propia Ley, en el cual quedará en los siguientes términos:
 
-.........
-
 ARTICULO 4º.- Se adiciona la fracción VIII del artículo 58 de la Ley de Vías Generales de Comunicaciones, la que quedará redactada en la siguiente forma:
-
-........
 
 ##### TRANSITORIOS
 
@@ -4230,8 +4216,6 @@ Publicado en el Diario Oficial de la Federación el 9 de enero de 1942
 
 ARTICULO UNICO.- Se reforma el artículo 556 de la Ley de Vías Generales de Comunicación, el que quedará redactado de la manera siguiente:
 
-..........
-
 Armando P. Arroyo, D. P.- Esteban García de Alba, S. P.- José Ch. Ramírez, D.S.- Enrique Osornio Camarena, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos cuarenta y uno.- Manuel Avila Camacho.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Maximino Avila Camacho.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
@@ -4242,15 +4226,9 @@ Publicado en el Diario Oficial de la Federación el 13 de marzo de 1943
 
 ARTICULO PRIMERO.- Se reforma el artículo 1º, fracción VII, inciso b), de la Ley de Vías Generales de Comunicación, en los siguientes términos:
 
-.........
-
 ARTICULO SEGUNDO.- Se adiciona el artículo 9º de la misma Ley de Vías Generales de Comunicación, con una nueva fracción que diga:
 
-.........
-
 ARTICULO TERCERO.- Se reforma la fracción III del artículo 166 de la Ley de Vías Generales de Comunicación en los términos siguientes:
-
-.........
 
 José Gómez Esparza, D. P.- Esteban García de Alba, S. P.- Emilio Gutiérrez Roldán, D. S.-Fernando Cruz Chávez, S. S.-Rúbricas".
 
@@ -4262,8 +4240,6 @@ Publicado en el Diario Oficial de la Federación el 7 de julio de 1944
 
 ARTICULO UNICO.- Se modifica el artículo 24 de la Ley de Vías Generales de Comunicación, de 31 de diciembre de 1939, en los siguientes términos:
 
-..........
-
 Gabriel Ramos Millán, D. P.- Vicente Aguirre, S. P.-Teófilo R. Borunda, D. S.-Máximo García, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y tres.- Manuel Avila Camacho.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Maximino Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público; Eduardo Suárez.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
@@ -4273,8 +4249,6 @@ En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 7 de julio de 1944
 
 ARTICULO 1º- Se reforma el artículo 390 de la Ley de Vías Generales de Comunicación, para quedar concebido como sigue:
-
-..........
 
 ARTICULO 2º.- Esta ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
@@ -4288,8 +4262,6 @@ Publicado en el Diario Oficial de la Federación el 10 de agosto de 1944
 
 ARTICULO UNICO.- Se modifica el artículo 20 de la Ley de Vías Generales de Comunicación, de 31 de diciembre de 1939, para quedar redactado como sigue:
 
-..........
-
 Gabriel Ramos Millán, D. P.- Vicente Aguirre, S. P.-Teófilo R. Borunda, D. S.-Máximo García, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un  días del mes de diciembre de mil novecientos cuarenta y tres.- Manuel Avila Camacho.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Maximino Avila Camacho.-Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.-Presente.
@@ -4299,8 +4271,6 @@ En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 21 de febrero de 1945
 
 ARTICULO UNICO.- Se reforma el inciso a), fracción IX del artículo 390 de la Ley de Vías Generales de Comunicación, para quedar concebido como sigue:
-
-.........
 
 Heliodoro Hernández Loza, D. P.-Fernando Amilpa, S. P.- Brígido Reynoso, D. S.-Alfonso Flores M. S. S.-Rúbricas".
 
@@ -4312,8 +4282,6 @@ Publicado en el Diario Oficial de la Federación el 14 de marzo de 1946
 
 ARTICULO UNICO.- Se modifica el artículo 124 de la Ley de Vías Generales de Comunicación de 31 de diciembre de 1939, publicado en el "Diario Oficial" de la Federación de 19 de febrero de 1940, en los siguientes términos:
 
-..........
-
 Julián Garza Tijerina, D. P.-Eugenio Prado, S. P.-Juan Fernández Albarrán, D. S.-Arturo Martínez Adame, S. S.-Rúbricas".
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y cinco.- Manuel Avila Camacho.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Pedro Martínez Tornel.-Rúbrica.- El Secretario de Estado y del Despacho de Trabajo y Previsión Social, Francisco Trujillo Gurría.-Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.-Rúbrica.- Al C. Lic. Primo Villa Michel, Secretario de Gobernación.-Presente.
@@ -4323,8 +4291,6 @@ En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 9 de enero de 1948
 
 ARTICULO UNICO.- Se reforma el Capítulo II del Titulo II Libro Segundo de la Ley de Vías Generales de Comunicación expedida de 30 de diciembre de 1939 y publicada en el "Diario Oficial" de la Federación el 19 de febrero de 1940, para que dicho Capítulo quede concebido en los siguientes términos:
-
-..........
 
 ARTICULOS TRANSITORIOS
 
@@ -4360,8 +4326,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1948
 
 ARTICULO UNICO.- Se reforma el Artículo 363 de la Ley de Vías Generales de Comunicación para quedar como sigue:
 
-..........
-
 Eugenio Prado, D. P.-Gustavo Díaz Ordaz, S. P.-Manuel Flores Castro, D. S.- Gerzayn Ugarte, S. S.-Rúbrica."
 
 En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los  veintiocho días del mes de diciembre de mil novecientos cuarenta y ocho.- Miguel Alemán.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, A. García López-Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.-Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortinez.-Presente.
@@ -4372,11 +4336,7 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1950
 
 ARTICULO I.- Se reforma el Libro Cuarto de la Ley de Vías Generales de Comunicación, para el efecto de que quede concebido en los siguientes términos:
 
-..........
-
 ARTICULO II.- Se modifican los artículos del 555 al 570 inclusive y el 590 del Libro Séptimo de la propia Ley de Vías Generales de Comunicación, los cuales quedarán concebidos como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4422,8 +4382,6 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 ARTICULO UNICO.- Se reforma el artículo 124 de la Ley de Vías Generales de Comunicación en vigor, para quedar en los términos siguientes:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO 1º.- Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
@@ -4443,8 +4401,6 @@ En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 5 de enero de 1951
 
 ARTICULO UNICO.- Se modifica el Libro Sexto de la Ley de Vías Generales de Comunicación, de 31 de diciembre de 1939, en los términos siguientes:
-
-..........
 
 ##### TRANSITORIO
 
@@ -4476,8 +4432,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1972
 
 ARTICULO UNICO.- Se reforma el artículo 126 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 TRANSITORIO:
 
 ARTICULO UNICO.- El presente Decreto entrar  en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
@@ -4491,8 +4445,6 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974
 
 ARTICULO CUADRAGESIMO.- Se reforman la fracción IV del artículo 4o.; los artículos 7o.; segundo párrafo de la fracción II del 309; 347; 348; 350; 355 y 570 de la Ley de Vías Generales de Comunicación, para quedar en los siguientes términos:
-
-..........
 
 ##### TRANSITORIO
 
@@ -4508,11 +4460,7 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1975
 
 ARTICULO PRIMERO.- Se adiciona con una fracción XIV, el artículo 29 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se reforma el artículo 127 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4530,8 +4478,6 @@ Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1975
 
 ARTICULO UNICO.- Se reforma y adiciona el artículo 537 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
@@ -4546,11 +4492,7 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1976
 
 ARTICULO PRIMERO.- Se reforma el artículo 533 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se reforma el artículo 536 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -4565,8 +4507,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1979
 LEY DE VIAS GENERALES DE COMUNICACION
 
 ARTICULO DECIMO SEPTIMO.- Se reforma los artículos 390 fracción I, y párrafo último 515 fracción I y 517 de la Ley de Vías Generales de Comunicación y se deroga el artículo 515, fracciones II, IV y VI de la propia Ley, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4583,8 +4523,6 @@ Ley que reforma, adiciona y deroga diversas disposiciones en Materia Fiscal.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1981
 
 ARTICULO DECIMO QUINTO.- Se REFORMA el artículo 389 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4606,8 +4544,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1982
 
 ARTICULO UNICO.- Se reforma el artículo 288 de la Ley de vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 TRANSITORIOS.
 
 ARTICULO PRIMERO.- A las personas que a la fecha de entrada en vigor de este Decreto hayan obtenido el grado de Piloto o Capitán, así como de Primero o Segundo Maquinista y comprueben haber cursado las asignaturas que forman el Plan de Estudios correspondientes conforme a lo establecido por el artículo que se reforma, se les otorgarán los títulos señalados en este Decreto.
@@ -4624,8 +4560,6 @@ Publicado en el Diario Oficial de la Federación el 21 de enero de 1985
 
 ARTICUL0 UNICO.- Se reforman los artículos 11, 20, 49, 55 fracción III, 66 y 127 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4641,8 +4575,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de enero de 1986
 
 ARTICULO UNICO.- Se reforman los artículos 3o. fracción V y 15 de la Ley de Vías Generales de Comunicación para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4664,8 +4596,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 1986
 
 ARTICULO UNICO.- Se reforma el primer párrafo del Artículo 11, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4679,8 +4609,6 @@ En cumplimiento de lo dispuesto por la Fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de noviembre de 1986
 
 ARTICULO 3.- Se reforman los artículos 533, 536 y 537 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -4710,8 +4638,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1986
 
 ARTICULO UNICO.- Se reforman los artículos 343, 344, 349, 352 y 538 para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4726,8 +4652,6 @@ Publicado en el Diario Oficial de la Federación el 21 de enero de 1988
 
 ARTICULO UNICO.- Se reforman los artículos 11 párrafos segundo y tercero, 127 párrafo quinto y 128 y se adiciona un párrafo al 398, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4741,8 +4665,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de junio de 1992
 
 ARTICULO UNICO.- Se reforman los artículos 15, 93 fracción II, 117,127, 146 y 533 primer párrafo y se derogan los artículos 6o. y 111 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -5004,8 +4926,6 @@ Publicado en el Diario Oficial de la Federación el 7 de noviembre de 1996
 
 ARTÍCULO TERCERO.- Se reforma el primer párrafo del artículo 571 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5021,8 +4941,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
 
 ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 3 DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, PARA QUEDAR COMO SIGUE:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -5056,8 +4974,6 @@ Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005
 
 Artículo Segundo. Se adiciona el Artículo 590 Bis, a la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5085,8 +5001,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO QUINTO. Se reforman los artículos 2o, fracción II; 7o; 8o; 9o, primer párrafo y fracción V; 13, segundo párrafo; 14; 17; 29, fracciones tercera, cuarta y octava; 30; 33, fracciones I y III; 34; primer párrafo; 40; 41, primer y tercer párrafos; 42, primer y segundo párrafos; 45, primer párrafo; 46, primer y segundo párrafos; 47; 48, primer párrafo; 50; 51, primer párrafo; 52, primer párrafo y fracción III; 53; 54; 55, fracciones I, IV y V; 58, fracciones V y VIII; 61, fracciones I y II; 62; 63, primer párrafo; 65; 68; 70; 73, primer párrafo; 79; 86; 96; 99, primer párrafo; 108; 118, fracción I; 121; 122; 123; 124, primer, tercero y quinto párrafo; 371, primer párrafo; 385; 386; 387; 388; 417; 418, segundo párrafo; 523; 524, segundo párrafo; 525; 527; 530; 541; 566; 590 y 591 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -5348,8 +5262,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5383,8 +5295,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Noveno.- Se reforman los artículos 533, primer párrafo y 534 de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5426,8 +5336,6 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Primero. Se reforma la fracción III del artículo 3o. de la Ley de Vías Generales de Comunicación, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5443,8 +5351,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Cuarto.- Se reforman los artículos 1o, fracción XI; 2o, fracción II; 3o, primer párrafo; 8o; 10; 13; 14; 15; 17; 20; 29, párrafo primero, fracciones III, IV y VIII; 30; 33, fracciones I y III; 34, párrafo primero; 40; 41, párrafos primero y tercero; 42; 44; 45, párrafo primero; 46; 47; 48, párrafo primero; 49, párrafos primero y tercero; 50; 51, párrafo primero; 52, párrafo primero, fracciones I, párrafo primero y III; 53; 54; 55, fracciones I, III, párrafo primero, IV, y V, párrafo segundo; 58, párrafo primero, fracciones II, párrafo primero, III, IV, y VIII, y párrafo segundo; 61, párrafo primero, fracciones I y II, y párrafo segundo, 62; 63, párrafo primero; 65; 68; 70; 73, párrafo primero; 79; 86; 96; 99, párrafo primero; 108; 117; 118, párrafo primero, fracción I; 120; 121; 122; 123; 124, párrafos primero, segundo, tercero y quinto; 126, párrafos primero, tercero y cuarto; 127, párrafos primero, segundo, tercero, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero y décimo cuarto; 385; 386; 387; 388; 389; 417; 418, párrafo segundo; 523; 524, párrafo segundo; 525; 527; 530; 541; 590, y 591; se adiciona al artículo 1o., la fracción XII, y se deroga el artículo 9o., de la Ley de Vías Generales de Comunicación, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -5490,110 +5396,24 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-S
-
-u
-
-v
-
-Â
-
-Ã
-
-S
-
-j
-
-t
-
-u
-
-v
-
-Â
-
-Ã
-
-Ç
-
-È
-
-¸hþ
-
-h
-
-h
-
 XsYsuuwÃwÄw<zjzkzxz¦z§zÏ{ü{ý{t|u|¾~ß~à~ÞöêêêÞöÒÞöÍÍöÒÅöööÒ¹öö$
-
-<
-
-V
-
-¢
-
-¯
-
-<
-
-K
-
-V
-
-¯
-
-Õ#ÕJÕ_ÕÕ¯ÕÙÕíÕøÕbÖdÖªÖ«Ö¼Ö¿ÖÇÖI×U×V×^×Ï×á×é×÷×ÿ×
-
-n
-
-=
-
-F
-
-Y
 
 CJ^JaJhð#!hÊ
 
-^JhÊ
-
-hÊ
-
-hÊ
-
-5CJmH	sH	h/hÊ
-
-CJmH	sH	!hQhÊ
-
-^Jhð#!hÊ
-
 CJ^JaJhÊ
-
-gdÊ
-
-$a$gdÊ
 
 h1uCJ
 
 ÆÆíÚÇ±ysfbXRXRbC8ChÊ
 
-hÊ
-
 CJaJjhÊ
-
-hÊ
 
 h1uCJ
 
 hååCJaJh½ÿCJaJmHnHu*jhÊ
 
-hÊ
-
 CJUaJhÊ
 
-hÊ
-
 CJaJ jhÊ
-
-hÊ
 
 CJUaJ*h½ÿCJaJmHnHu#Æ$Æ%Æ&Æýýñ$ ` a$gd:¨50P°Ð/ °à=!°"°#$%°°Ð°ÐÐDp

@@ -720,8 +720,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo Octavo.- Se reforma el artículo 4 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -744,96 +742,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 $$@&Ifa$gdÔ.³
 
-6
-
-8
-
-7
-
-8
-
-9
-
-:
-
-;
-
 ÆC"$Ifa$gdÔ.³
-
-9
-
-;
-
-k
-
-}
-
-~
-
-¤
-
-¥
-
-Â
-
-Ã
-
-Ä
-
-Å
-
-Æ
-
-Ç
-
-;
-
-k
-
-~
-
-¥
-
-Ã
-
-Ä
-
-Å
-
-Æ
-
-Ç
-
-á
-
-È
-
-Ì
-
-Í
-
-Î
-
-Ï
-
-Ó
-
-Ô
-
-Ü
-
-Ý
-
-ß
-
-à
-
-á
-
-â
-
-ã
-
-ä
 
 ïãïÔÂ·ïãï§Â·£h0Ýh+7ÎCJh?àhzhÈ~¹CJ\aJmHnHu*hGähGäCJaJ#jhGähGäCJU\aJ*hÈ~¹CJ\aJmHnHuhGähGäCJ\aJ jhGähGäCJU\aJá

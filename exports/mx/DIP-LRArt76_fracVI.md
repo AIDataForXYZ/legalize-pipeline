@@ -196,8 +196,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Séptimo.- Se reforma el segundo párrafo del artículo 4 de la Ley Reglamentaria de la Fracción VI del Artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

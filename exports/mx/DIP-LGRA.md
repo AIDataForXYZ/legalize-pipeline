@@ -1930,8 +1930,6 @@ Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 Artículo Tercero.- Se reforma la fracción VI del artículo 7 y se adicionan un párrafo segundo al artículo 52, un párrafo segundo al artículo 54, y un artículo 80 Bis a la Ley General de Responsabilidades Administrativas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1947,8 +1945,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de noviembre de 2019
 
 Artículo Segundo.- Se adicionan los artículos 7, con las fracciones X, XI y XII, recorriéndose la actual X, para quedar como XIII, y un segundo párrafo; 49, con una fracción X; 53, con un segundo párrafo; 59, con un segundo párrafo; 60 Bis; 63 Bis y 64 Bis de la Ley General de Responsabilidades Administrativas, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2098,8 +2094,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022
 
 [Artículo Segundo.- Se reforman las fracciones IX y X del párrafo primero del artículo 49, y el artículo 73, y se adiciona la fracción XI al párrafo primero del artículo 49, de la Ley General de Responsabilidades Administrativas, para quedar como sigue:]
 
-..
-
 [Transitorios]
 
 [Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.]
@@ -2136,8 +2130,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -2168,8 +2160,6 @@ valeria palma limón y
 
 aurea hernández meza
 
-.
-
 VI. EFECTOS
 
 252. 	De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
@@ -2191,8 +2181,6 @@ TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, as
 Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
@@ -2229,8 +2217,6 @@ AUREA HERNÁNDEZ MEZA
 Ciudad de México. El Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al ocho de mayo de dos mil veintitrés, emite la siguiente:
 
 SENTENCIA
-
-..
 
 VI. EFECTOS
 
@@ -2290,8 +2276,6 @@ Publicado en el Diario Oficial de la Federación el 2 de enero de 2025
 
 Artículo Único.- Se reforman los artículos 6; 7, primer párrafo; 9, fracción V; 16; 19; 21; 22; 37; 38; 39; 49, párrafo primero y fracciones I y VI, y 148; se adicionan una fracción XXI Bis al artículo 3, y se deroga la fracción XXV del artículo 3, de la Ley General de Responsabilidades Administrativas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2308,8 +2292,6 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2025
 
 Artículo Segundo.- Se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2322,40 +2304,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 012o¯´êÑ»¥tbH1-hI*5B*
 
-Ó
-
-þ
-
-ÿ
-
-Ó
-
-ß
-
-þ
-
-ÿ
-
-]^_c
-
-ò
-
-ò
-
-ÿ
-
 Ô"Ô#Ô1ÔÛÔÜÔêÔÌÕÍÕÛÕ{×|××SÚTÚbÚ$Ü%Ü3ÜºÜ»ÜÉÜiÝjÝxÝÐÞÑÞßÞØàÙàøàùàá÷íä÷íä÷íä÷íäíä÷íä÷íä÷íä÷íä÷ØÎíäÁäÁä÷íäÁä÷íä÷íä÷íä÷íä÷íä÷íä÷íä÷íäÎíä´ä÷íh Vhç]
 
 cdr¤fg`ao12@EFT!"07 8 X Y g P#Q#_#´$µ$Ã$@%A%c%d%r%%%%w&x&|&''''£'))õìãõìãõìãõìÖìãõìãõìãõìãõìãõìãõìãõìÖìãõìãõìãõìãõìãÊÀõìãõìãõìãÊÀõìãõìÀõìÖìãõìãh Vh V5CJhzÀh)Á5CJaJh Vhç]
 
 $./7z{pqxòó¤
 
-¥
-
-¥
-
-ÆÜ!`!gd±
-
 ÆÜgd±$^a$gd±$7$8$H$a$gd±$a$gd±gd±$
-
-ÆÜ!`!gd±¾[Â[?\M\N\T\­\·\

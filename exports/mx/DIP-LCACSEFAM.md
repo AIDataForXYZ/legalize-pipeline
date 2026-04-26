@@ -392,8 +392,6 @@ Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 Artículo Tercero.- Se reforman los artículos 18, fracción I, párrafo primero y 20 de la Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -410,8 +408,6 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 2024
 
 Artículo Único.- Se reforma el artículo 15, párrafo primero y fracción I, de la Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -424,14 +420,4 @@ Ciudad de México, a 2 de abril de 2024.- Dip. Marcela Guerra Castillo, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-ù
-
-û
-
-ø
-
-ù
-
 hk	ë5CJh-Z^h-Z^CJh-Z^h-Z^5CJ
-
-::::´;µ;S<T<>> ?¡?Á@Â@B

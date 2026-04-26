@@ -750,8 +750,6 @@ Publicado en el Diario Oficial de la Federación el 22 de noviembre de 1996
 
 ARTICULO SEGUNDO.- SE REFORMA el primer párrafo del artículo 65. SE ADICIONAN un párrafo segundo al artículo 60; un tercer párrafo al artículo 62; un segundo párrafo al artículo 64, recorriéndose con su mismo texto el actual segundo párrafo para quedar como tercero; un segundo párrafo al artículo 67; un segundo y un cuarto párrafos al artículo 68, recorriéndose con su mismo texto el actual párrafo segundo para quedar como tercero; un segundo párrafo al artículo 70; y un segundo párrafo al artículo 71; todos de la Ley Reglamentaria de las Fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar en los siguientes términos:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- Las reformas a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos a que se refiere el artículo SEGUNDO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
@@ -788,8 +786,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2013
 
 ARTÍCULO TERCERO. Se reforma el artículo 43 y se adicionan los artículos 9o Bis; 47, con un tercer párrafo; y 72, con un segundo párrafo a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -803,8 +799,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2015
 
 Artículo Único.- Se reforman los artículos 61, fracción IV y 71, primer párrafo, de la Ley Reglamentaria de las fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -896,8 +890,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
 
 Artículo Sexto. Se reforman los artículos 1o.; 10, fracción II; 19, fracciones III, IV y VII; 21, fracción I; 22, fracción IV; 41, fracciones I, IV y V, y 43, y se adiciona una fracción VIII al artículo 19, pasando la actual fracción VIII a ser fracción IX, así como un segundo y tercer párrafos al artículo 43 de la Ley Reglamentaria de las Fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
@@ -962,8 +954,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -998,8 +988,6 @@ Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archív
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
 Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -1011,8 +999,6 @@ Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente
 Publicado en el Diario Oficial de la Federación el 3 de abril de 2025
 
 Artículo Único.- Se reforman los artículos 4o., párrafos primero y segundo; 5o.; 6o., párrafo segundo; 7o.; 8o.; 9o.; 9o. Bis, párrafo primero, las fracciones I y IV, y párrafo tercero; 10, fracciones III y IV; 11; 13; 14; 15; 17; 19, fracción VIII; 22, fracción I; 24; 25; 26, párrafo primero; 28; 29; 31; 32, párrafos segundo y tercero; 33; 35; 36; 37; 42, párrafo primero; 43, párrafo primero; 44; 46; 47, párrafos primero y segundo; 48; 49, párrafo primero; 51, fracciones III, IV, V y VI; 53; 54; 56, fracciones I y II; 57; 58, párrafo primero y fracción II; 61, fracción I; 62, párrafos primero y segundo; 63; 64, párrafos primero y tercero; 65; 66; 67, párrafo primero; 68; 69, párrafo primero; 70, párrafo primero y, 72, párrafo primero; y se adiciona una fracción VIII Bis al artículo 19, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1038,8 +1024,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Noveno.- Se reforma el artículo 1o. de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1057,61 +1041,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-[
-
-\
-
-ö
-
-÷
-
-D
-
-N
-
-Z
-
-[
-
-\
-
-i
-
-÷
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-hà7û5CJ
-
-Æ>a$gdÎB$ ` a$gdÎB$
-
-hà7û5CJ
-
-Õ
-
-Ö
-
-å
-
-Õ
-
-Ö
-
-23"#MN)*=>:;uv

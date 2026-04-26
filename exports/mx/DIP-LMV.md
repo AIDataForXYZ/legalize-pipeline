@@ -6688,8 +6688,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO OCTAVO. Se reforma el artículo 212 fracción I, de la Ley del Mercado de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6706,8 +6704,6 @@ Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009
 
 ARTÍCULO ÚNICO. Se adiciona la fracción VI Bis al artículo 104 de la Ley del Mercado de Valores, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6721,8 +6717,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO TRIGÉSIMO CUARTO.- Se ADICIONA un último párrafo al artículo 156, y un último párrafo al artículo 158 de la Ley del Mercado de Valores, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -6754,11 +6748,7 @@ Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respe
 
 X.	La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999.
 
-.
-
 ARTÍCULO TRIGÉSIMO SÉPTIMO.- Se REFORMAN los Artículos 70; 93, fracción VI y cuarto párrafo, y se ADICIONAN los artículos 71, con una fracción III; 82 Bis a 82 Bis 2, de la Ley del Mercado de Valores, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -6804,8 +6794,6 @@ MERCADO DE VALORES
 
 ARTÍCULO TRIGÉSIMO NOVENO.- Se REFORMAN los artículos 2, fracción XVI; 7, segundo y último párrafos; 8, primer párrafo; 16, fracciones I y II; 19, fracción I, inciso b); 44, tercer párrafo, fracción V; 45, último párrafo; 50, el encabezado del primer párrafo; 62; 63, primer párrafo, fracción IV y último párrafo; 64; 66, segundo párrafo; 69, primer párrafo; 71, último párrafo; 75, último párrafo; 80, primer párrafo; 85, primer párrafo, fracción V; 87, primer párrafo, fracción II en su encabezado e inciso f); 92, primer párrafo; 105, último párrafo; 106, primero en su encabezado, penúltimo y último párrafos; 108, primer párrafo, fracción III; 117, cuarto párrafo; 120; 130; 135; 136; 153, fracción VII; 165, tercer párrafo; 173; 178; 183; 185, segundo párrafo; 186, fracción V; 189, tercer párrafo; 190; 191; 200, fracciones II, primer párrafo, VIII, segundo párrafo; 201; 203, primer párrafo; 208; 212, primer párrafo, fracción II, segundo párrafo; 225; 226, primer párrafo, fracciones I, II y penúltimo párrafo; 227, primer párrafo, fracciones I, II y IV; 237, cuarto y quinto párrafos; 241, último párrafo; 242, primer párrafo; 252; 254, fracciones III y IV y último párrafo; 257; 262, primer párrafo; 263, primer párrafo, fracción II; 275, segundo párrafo; 282, primer párrafo; 283, primer párrafo; 295, último párrafo; 316, fracción III; 324, último párrafo; 335, último párrafo; 344, primer párrafo; 350 párrafos primero, segundo y cuarto; 358; 359; 363, primer párrafo, fracciones IV, X, en su encabezado; 366, segundo párrafo; 368; 369; 370, primer párrafo, fracciones II y V; 371, primer párrafo en su encabezado; 374, primer párrafo en su encabezado; 380, primer párrafo; 383, primer párrafo en su encabezado; 388, primer párrafo; 389, primer párrafo; 391, primer párrafo en su encabezado y sus fracciones II y III, tercer y quinto párrafos; 392, primer párrafo, fracciones I, en su encabezado e incisos b), c) y n), II, en su encabezado e incisos f) y m), III, en su encabezado e incisos l) a y), IV, incisos b) y c), V, primero y segundo párrafos y VII; 393, primer párrafo en su encabezado y fracción I, primer párrafo en su encabezado y fracción III; 399, primer párrafo en su encabezado; 413; 415, primer párrafo; se ADICIONAN los artículos 2, fracción XVIII con un segundo párrafo; 63 Bis; 63 Bis 1; 64 Bis al 64 Bis 3; 85, fracción II con un segundo párrafo; 87, fracción II con el inciso i) y con un último párrafo; 88 con una fracción VI; 115, con una fracción IV, recorriéndose la actual fracción IV y la V en su orden; 129, con un último párrafo; 130 Bis; 132, con un último párrafo; 165, con un último párrafo; 167, con un último párrafo; 173 Bis; 177 Bis; 188 con las fracciones III y IV; 189 con los párrafos cuarto y quinto recorriéndose el actual párrafo cuarto para ser último párrafo; 190 Bis; 190 Bis 1; 200, fracción I, con los párrafos tercero, cuarto y quinto y con una fracción XII; 204, con los párrafos quinto, sexto y séptimo, recorriéndose los demás párrafos en su orden y según corresponda; 212, fracción III, primer párrafo con los incisos e) y f) y los párrafos cuarto, quinto y sexto, antepenúltimo, penúltimo y último; 224, con un segundo párrafo; 226, primer párrafo con las fracciones VIII y IX y un último párrafo; un artículo 226 Bis; 227, primer párrafo con una fracción V; 227 Bis; 237, con un último párrafo; 237 Bis; 244, con una fracción X, recorriéndose las demás fracciones en su orden y según corresponda; 252 Bis; 259, con un último párrafo; 262, con un último párrafo; 279, con un tercer párrafo; 280 con una fracción XI y recorriéndose la actual fracción XI en su orden; 333, con un último párrafo; 339, con un último párrafo; 351 Bis; 358 Bis; 363, fracción X, con un inciso d); 366, con un tercer párrafo, recorriéndose el actual tercero para ser el último; 370 Bis; 371, primer párrafo con las fracciones VI y VII; 383 Bis; 386, con un segundo párrafo, recorriéndose el segundo y tercer párrafos en su orden y según corresponda; 390, con un último párrafo; 391, fracción IV; 391 Bis; 392, primer párrafo, fracciones I, inciso a) con un segundo párrafo y el inciso aa), III, incisos z) a ac), VIII y IX y los párrafos cuarto y quinto, recorriéndose los párrafos cuarto y quinto en su orden y según corresponda, así como un último párrafo; 393 Bis; un Capítulo II Bis De los programas de autocorrección al Título XV que comprende los artículos 395 Bis a 395 Bis 3; 399, con los párrafos penúltimo y último; y se DEROGAN los artículos 20, inciso c) y último párrafo, 226, fracciones IV y VII y segundo párrafo; 264, último párrafo; 391, sexto y último párrafos; 392, primer párrafo, fracciones I, incisos e), f), j) y k), III, inciso j) de la Ley del Mercado de Valores, para quedar como sigue:
 
-.
-
 Disposiciones Transitorias
 
 ARTÍCULO CUADRAGÉSIMO.- En relación con las modificaciones a que se refiere el Artículo Trigésimo Noveno de este Decreto, se estará a lo siguiente.
@@ -6846,8 +6834,6 @@ Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
 
 ARTÍCULO TERCERO.- Se reforma el artículo 1, fracciones II y VI, y se adiciona el artículo 277 Bis 1 de la Ley del Mercado de Valores, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
@@ -6882,13 +6868,9 @@ Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023
 
 Artículo Primero.- Se reforman los artículos 2, fracción XVIII, segundo párrafo; 10, fracción II; 22, primer párrafo; 48, fracción I; 54, primer párrafo; 56, fracción VI; 71, fracción I; 73, fracciones I y II; 74; 75, segundo párrafo; 81, primer y cuarto párrafos; 83, último párrafo; 93, segundo párrafo, fracción VI; 115, fracción III, inciso b); 171, fracciones I y VII; 177 Bis, último párrafo; 199, primer párrafo; 204, segundo párrafo; 215, tercer párrafo; 225, segundo párrafo y fracción IV; 226, fracciones I y IX, y último párrafo; 227, fracción I; 227 Bis, fracciones II, III, y el segundo párrafo; 229, segundo párrafo; 242; 243, segundo párrafo; 244, fracciones IV y IX; 249, último párrafo; 252 Bis, último párrafo; 282, tercer, cuarto y quinto párrafos; 288, fracciones I, segundo párrafo y II; 290, último párrafo; 325, fracción IV; 338; 342; 343, segundo párrafo; 344; 346, actual segundo párrafo; 347, primer párrafo; 351, primer, segundo y tercer párrafos; 360, primer párrafo; 362, primer párrafo; 363, primer párrafo, fracciones I, II, III, IV, V, VI, VIII y IX; 364, fracciones I y III, y cuarto párrafo; 365, párrafos primero, segundo, fracciones III, V, incisos a), b) y e), y tercero; 366; 367, fracciones I, II, III, incisos a) y b), y IV; 368; 369, primer párrafo; 388, primer párrafo; se adicionan los artículos 2, con las fracciones V Bis y XII Bis; 6, con un cuarto párrafo, recorriéndose los subsecuentes en su orden; 9 Bis; 55 Bis; 70 Bis; 75, con un último párrafo; 79, con un último párrafo; 85, con un último párrafo; 86 Bis; 90 Bis; 91, con un último párrafo; 95, con un segundo párrafo; 104, con un sexto y séptimo párrafos; 105, tercer párrafo, recorriendo el subsecuente; 107, con un segundo y cuarto párrafos, recorriéndose los subsecuentes en su orden; 108, fracciones I, con un segundo párrafo, y III, con un segundo párrafo; 108 Bis; 177 Ter; 225, segundo párrafo, con las fracciones VI y VII, y quinto, sexto, séptimo y octavo párrafos, recorriéndose los subsecuentes;  225 Bis; 225 Bis 1; 225 Bis 2; 227 Bis, con las fracciones VI, VII y VIII; 247, fracción IV, con un segundo párrafo, recorriéndose el subsecuente; 248, con un último párrafo; 339, con un segundo párrafo, recorriéndose los subsecuentes en su orden; 345, con un último párrafo; 346, con un segundo párrafo, recorriéndose el subsecuente; 352, con un último párrafo; 353, con un último párrafo; 370 Bis, con un último párrafo; 371, con una fracción VII, recorriéndose la subsecuente en su orden; 388, con un segundo párrafo, recorriéndose los subsecuentes en su orden; y se derogan los artículos 19, fracción I, incisos b) y c); 20, fracciones I, inciso b) y II; 21, tercer y cuarto párrafos; 48, fracciones II y III; 54, segundo y tercer párrafos; 55; 225, actual quinto párrafo, recorriéndose los subsecuentes; 392, fracción III, inciso i), de la Ley del Mercado de Valores, para quedar como sigue:
 
-.
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL MERCADO DE VALORES
 
 Único.- La Comisión Nacional Bancaria y de Valores deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del día siguiente de su entrada en vigor.
-
-..
 
 ##### Transitorio
 
@@ -6903,8 +6885,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 Artículo Cuarto.- Se reforman los artículos 389, párrafo segundo; y 391, fracción I; y se adicionan los artículos 389 Bis; 391, con los párrafos segundo y tercero, recorriéndose los subsecuentes; y se deroga el artículo 389, párrafo último, de la Ley del Mercado de Valores, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -6926,8 +6906,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Vigésimo Noveno.- Se reforma el tercer párrafo del artículo 389 de la Ley del Mercado de Valores, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6946,190 +6924,24 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-h¶5CJ/ÒÓ
-
-h¶5CJ
-
-h¶5CJ
-
 xxsxtxwxûz{{"{| |ë|
-
-h¶5CJ
 
 xxsxtxûz{{ë|
 
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-hN#5CJ
-
-h¶5CJ
-
-a
-
 Ëìí-NO[3÷ðæÞðæÞðÏÏÏðæÞææÞðÁÁÁð
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-<
-
-÷
-
-ù
-
-.
-
-ö
-
-÷
 
 h¶5CJhªhªCJ
 
-hª5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-hð$
-
-hð$
-
-h¶5CJ
-
-$ ` a$gdð$
-
 ÊKàKêKëKMMN¥N¯N°N±N¿NüNþNÛQÜQÒRÓRõR¸U¹UÛUW¼W½WÁWãÊã½³½|u|u|ulfSlfSlSLBh¼h¼5CJ
-
-hð$
-
-hð$
-
-h¼CJ\h¼h¼CJ\h¼h¼5CJ\
-
-$ ` a$gdð$
-
-÷÷Öø×øû£û¤û
-
-$ ` a$gdð$
-
-hð$
 
 CJhð$
 
-hð$
-
-5CJ
-
-hð$
-
-=
-
->
-
-º
-
-Ü
-
-Ý
-
-2
-
-<
-
-=
-
->
-
-º
-
-Ñ
-
-Û
-
-Ü
-
-Ý
-
 h¶5CJhMR3hMR3CJhMR3hMR35CJ
-
-h¶5CJ
-
-h¶5CJ
-
-t£CJ
-
-°
-
-t£h
 
 t£CJh
 
-t£h
-
-t£5CJ
-
-t£CJ%h
-
-h¶5CJ$÷ø¡ÃÄÏ%&ijþÿ¡
-
-¢
-
-h¶5CJ
-
-h¶5CJ
-
 h¶5CJK"Í#ÍÎÎCÐDÐÐÐÒ
-
-l
-
-h¶5CJ
-
-l
-
-ù
 
 QRijBCÐÑ
 
-q
-
-ù
-
-h¶5CJ
-
 h¶5CJh¶5CJ\
-
-h¶5CJ
-
-hR7CJ\
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ
-
-h¶5CJ

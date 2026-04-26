@@ -2634,8 +2634,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2018
 
 Artículo Único. Se adiciona una fracción XXII al artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2687,8 +2685,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 3 de junio de 2019
 
 Único.- Se reforman la fracción I del artículo 1, el párrafo segundo del artículo 2, el párrafo primero del artículo 5, el párrafo cuarto del artículo 22, los párrafos primero, segundo, tercero, cuarto y quinto y la fracción I del artículo 26, el párrafo primero y la fracción III del artículo 29, el párrafo primero y las fracciones I y V del artículo 30, y la fracción II del artículo 111; y se adicionan una fracción XV al artículo 6o., los párrafos sexto a décimo del artículo 26, las fracciones VI y VII al artículo 30, los artículos 30 Bis, 30 Bis 1, 30 Bis 2, 30 Bis 3, 30 Bis 4, 30 Bis 5, 30 Bis 6, 30 Bis 7, 30 Bis 8, 30 Bis 9, 30 Bis 10, 30 Bis 11, 30 Bis 12, 30 Bis 13, 30 Bis 14, 30 Bis 15, los párrafos segundo y tercero, recorriéndose en su orden los actuales párrafos segundo, tercero, cuarto y quinto para ser los párrafos cuarto, quinto, sexto y séptimo, y un párrafo octavo al artículo 31 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2748,8 +2744,6 @@ Publicado en el Diario Oficial de la Federación 11 de enero de 2021
 
 Artículo Primero. Se reforma la fracción IV del artículo 105; y se adiciona una fracción VIII al artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2763,8 +2757,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 15 de marzo de 2022
 
 Artículo Único.- Se reforman las fracciones VIII y XI del artículo 57; y la fracción II del artículo 59 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2782,8 +2774,6 @@ Publicado en el Diario Oficial de la Federación 15 de marzo de 2022
 
 Artículo Único.- Se reforma la fracción XIX del artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -2798,8 +2788,6 @@ Publicado en el Diario Oficial de la Federación 23 de marzo de 2022
 
 Artículo Único.- Se reforma la fracción VI al artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2813,8 +2801,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 28 de abril de 2022
 
 ARTÍCULO NOVENO. Se reforma el primer párrafo y sus fracciones I y V y, el segundo párrafo del artículo 124; y el artículo 127 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar  como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2836,8 +2822,6 @@ Publicado en el Diario Oficial de la Federación 8 de mayo de 2023
 
 Artículo Único. Se reforma el párrafo segundo de la fracción I del artículo 103; se adiciona una fracción VI al artículo 120, recorriéndose la subsecuente; y se adiciona una Sección Cuarta al Capítulo Tercero, denominada "Del Registro Nacional de Obligaciones Alimentarias", que comprende los artículos 135 Bis a 135 Septies de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2858,8 +2842,6 @@ Publicado en el Diario Oficial de la Federación 26 de mayo de 2023
 
 Artículo Único.- Se reforma el segundo párrafo del artículo 63 y se adiciona un artículo 63 Bis a la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2876,8 +2858,6 @@ Publicado en el Diario Oficial de la Federación 1 de diciembre de 2023
 
 Artículo Único.- Se adiciona un segundo y tercer párrafos al artículo 45 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2891,8 +2871,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 4 de diciembre de 2023
 
 Artículo Único.- Se reforma el primer párrafo del artículo 54 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2922,8 +2900,6 @@ Publicado en el Diario Oficial de la Federación 26 de marzo de 2024
 
 Artículo Único.- Se reforman los artículos 44; 103, fracción V; 109, fracción VII y 148, fracción II; y se adicionan una fracción VII Bis al artículo 4 y una fracción XXVI al artículo 116 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2942,8 +2918,6 @@ Publicado en el Diario Oficial de la Federación 27 de marzo de 2024
 
 Artículo Primero.- Se reforma el artículo 57, fracción XI de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2957,8 +2931,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 17 de abril de 2024
 
 Artículo Único.- Se adicionan las fracciones XVII y XVIII, recorriéndose el orden de las subsecuentes, al artículo 4, y las fracciones XVI y XVII al artículo 6 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2974,8 +2946,6 @@ Publicado en el Diario Oficial de la Federación 27 de mayo de 2024
 
 Artículo Único.- Se reforma la fracción XIX del artículo 57 y se adiciona una fracción XI al artículo 58 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2990,8 +2960,6 @@ Publicado en el Diario Oficial de la Federación 24 de diciembre de 2024
 
 Artículo Único.- Se adiciona un artículo 101 Bis 3 a la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3005,8 +2973,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 15 de enero de 2026
 
 Artículo Décimo.- Se reforman los artículos 1, fracción III; 2, fracciones I y III; 3, primer párrafo; 12; 13, segundo párrafo; 83, primer párrafo; 90 y 114, segundo párrafo y se adicionan una fracción IV al artículo 2; un párrafo tercero al artículo 10, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3030,59 +2996,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 :;¼ÆÇÈÉÊ%	&	7	8	J	êÕÁ­p_KB9B9/hxìhyÊ5CJhxìhECJhxìhB!CJ'hxìh
 
-k9h
-
-«
-
-¬
-
-ª
-
-«
-
-¬
-
-°
-
-h¥S¤5CJ
-
-h¥S¤5CJ
-
-hÆlË5CJ
-
-þ
-
-¨
-
-©
-
-©
-
-66u6v6w6|6ÿ677797:7ª7«7¬7¯788889
-
-o
-
-p
-
-u
-
-p
-
-k9$a$gd
-
-k9k$a$gd
-
-k9k$a$gd
-
-k9h
-
-k9h
-
-h
-
 k95CJhGPåh
-
-k9h
 
 k9CJhGPåh
 
@@ -3095,7 +3009,3 @@ h»CJhH}
 h»CJhH}
 
 h»5CJhH}
-
-ÂÂÃÃÄÅÅaÅbÅúÅûÅÆÆ
-
-k9CJ

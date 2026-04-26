@@ -512,8 +512,6 @@ Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Segundo.- Se adiciona un párrafo segundo al artículo 6; así como los artículos 7 Bis y 11 Bis, de la Ley General en Materia de Delitos Electorales, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -537,8 +535,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Quincuagésimo Octavo.- Se reforma el párrafo primero del artículo 24 y el artículo 26 de la Ley General en Materia de Delitos Electorales, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

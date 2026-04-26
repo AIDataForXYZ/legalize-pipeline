@@ -2990,8 +2990,6 @@ El fideicomitente puede designar varios fideicomisarios para que reciban simult�
 
 > <small>Artículo reformado DOF 31-08-1933, 24-05-1996. Reformado y recorrido (antes artículo 348) DOF 23-05-2000. Reformado DOF</small>
 
-13-06-2003
-
 ###### Artículo 384.-
 
 Sólo pueden ser fideicomitentes las personas con capacidad para transmitir la propiedad o la titularidad de los bienes o derechos objeto del fideicomiso, según sea el caso, así como las autoridades judiciales o administrativas competentes para ello.
@@ -3592,8 +3590,6 @@ Publicado en el Diario Oficial de la Federación el 24 de mayo de 1996
 
 ARTÍCULO CUARTO.- SE REFORMA el artículo 348, cuarto párrafo y SE ADICIONA un quinto párrafo de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
@@ -3614,8 +3610,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2000
 
 ARTICULO PRIMERO.- Se ADICIONAN las siguientes disposiciones a la Ley General de Títulos y Operaciones de Crédito; Sección Séptima, artículos 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379 y 380 del Título Segundo, Capítulo IV, con lo cual se recorrerán los actuales artículos 346 al 359, para quedar como artículos 381 al 394; asimismo, se adiciona la Sección Segunda, del Título Segundo, Capítulo V con los artículos 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413 y 414; se REFORMAN los artículos 341 segundo párrafo, 383 segundo párrafo y 392 fracción VII, y se DEROGA el párrafo tercero del artículo 341, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente.
@@ -3634,8 +3628,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO PRIMERO.- Se reforman los artículos 346, 348, 353 primer párrafo, 361 primer párrafo, 373, 374 primer, penúltimo y último párrafo, 375, 381 al 385, 386 segundo párrafo, 387, 392 fracción V, 393 primer párrafo, 394 fracción III y 395 al 407; se adicionan el segundo párrafo del artículo 346, segundo y tercer párrafos del 393, y se derogan los artículos 379 y del 408 al 414, todos de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3651,8 +3643,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2006
 
 ARTÍCULO PRIMERO.- Se REFORMA la fracción V y el último párrafo del artículo 395, y se ADICIONA al Título Segundo, el Capítulo VI con los artículos 408 al 418 y el Capítulo VII con los artículos 419 al 431 todos de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3764,8 +3754,6 @@ Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008
 
 SEGUNDO.- Se REFORMAN los artículos 32, tercer párrafo; 179, segundo párrafo, y 392, fracciones VI y VII, y se ADICIONAN una fracción VIII al artículo 392 y el artículo 392 Bis de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el artículo Noveno Transitorio del presente Decreto.
@@ -3864,8 +3852,6 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
 
 Artículo Segundo.- Se adiciona un Título Tercero a la Ley General de Títulos y Operaciones de Crédito, denominado "De los Delitos en Materia de Títulos y Operaciones de Crédito", compuesto por un Capítulo Único que incluye los artículos 432, 433, 434 y 435, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3883,8 +3869,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
 
 ARTÍCULO SEGUNDO.- Se reforman las fracciones V y VI, y adiciona una fracción VII al artículo 395 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3940,8 +3924,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXAGÉSIMO PRIMERO. Se reforman los artículos 228 V, tercer párrafo; y 286 de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3990,8 +3972,6 @@ V.	Las normas procesales contenidas en el presente Decreto no serán aplicables 
 
 ARTÍCULO VIGÉSIMO NOVENO.- Se REFORMAN los artículos 230; 234 y 395 en sus fracciones V, VI y VII; y se ADICIONA el artículo 395 con la fracción VIII; de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-.........
-
 Disposiciones Transitorias
 
 ARTÍCULO TRIGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Vigésimo Octavo y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
@@ -4023,8 +4003,6 @@ XII.	Las erogaciones que, en su caso, se requieran por parte de la Administraci�
 XIII.	Los centros cambiarios y los transmisores de dinero que a la entrada en vigor de este Decreto se encuentren registrados ante la Comisión Nacional Bancaria y de Valores, gozarán del plazo de doscientos cuarenta días naturales contados a partir del día siguiente a aquél en que entre en vigor el presente Decreto, para solicitar la renovación de su registro. Transcurrido dicho plazo sin que se cumpla con ello, las sociedades de que se trate perderán su carácter de centro cambiario o transmisor de dinero por ministerio de ley.
 
 XIV.	Las disposiciones de carácter general a que se refieren los artículos 86 Bis y 87-P de este Decreto, deberán ser emitidas dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto. Las disposiciones de carácter general a que se refiere el artículo 87-C Bis 1 de este Decreto, deberán ser expedidas dentro de los trescientos sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-
-..
 
 ##### TRANSITORIO
 
@@ -4076,8 +4054,6 @@ Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024
 
 Artículo Primero.- Se reforman los artículos 2o., fracciones III y IV; 5o., párrafo primero; 17; 23, párrafo primero; 54, párrafo segundo; 229; 231, fracciones II, V y IX; 232, párrafo primero y fracciones I, II, III, IV y V; 235; 236, párrafos primero y segundo; 238; 239; 240; 242; 243; 244, fracciones II y III; 246; 247; 248; 249; 250, párrafos segundo y tercero; 251, párrafos primero y tercero; 287, párrafos segundo y tercero; 334, fracción VI y 345; se adicionan los artículos 5o., con los párrafos segundo y tercero; 5o. Bis; 26, con los párrafos segundo y tercero; 27, con un párrafo segundo; 29, con un párrafo segundo; 39, con un párrafo segundo; 40, con un párrafo segundo; 47, con un párrafo cuarto; 54, con un párrafo tercero; 111, con un párrafo segundo; 231, con las fracciones XIII, XIV, XV y XVI; 287, con un párrafo cuarto; 337, con un párrafo segundo, y 341, con un párrafo quinto; y se derogan los artículos 230; 232, fracción VI; 233; 234; 236, párrafos tercero y cuarto; 237 y 251, párrafos segundo y cuarto, recorriéndose los subsecuentes en su orden, de la Ley General de Títulos y Operaciones de Crédito, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4096,40 +4072,6 @@ Ciudad de México, a 08 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-Â
-
-Ì
-
-Í
-
-Í
-
-Î
-
-tuÒÓ
-
-Ä
-
-Ó
-
-:
-
-;
-
-/
-
-9
-
-:
-
-;
-
-L
-
 r\¶_Ø_Ù_W`X`·`¸`RaSaccëc
-
-\
-
-[
 
 ææ^æ_æ@éAéDêEêFêIêTíUíZî[î\î`î¸ï¹ïºïËïÿòó

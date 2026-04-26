@@ -1150,8 +1150,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Tercero.- Se reforma la fracción IV del artículo 6o. de la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1170,21 +1168,7 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-z
-
-ö
-
-ú
-
 h!r#5CJh!r#B*CJphh!r#5B*CJ\ph
-
-x
-
-ö
-
-÷
-
-h!r#CJ\h!r#5CJ\
 
 hhiiüijljpjójöjkk½lÄlmmæmêm0nop{pØpÚpJqNqr
 

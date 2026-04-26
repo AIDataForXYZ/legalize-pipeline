@@ -30,8 +30,6 @@ Se Autoriza al Gobierno Federal efectuar una aportación a la Asociación Intern
 
 > <small>Artículo reformado DOF 08-01-1981, 28-12-1981, 04-11-1983. Fe de erratas al artículo DOF 21-05-1984. Reformado DOF 24-12-1984,</small>
 
-13-01-1986, 19-01-1988, 26-07-1990, 16-07-1993, 07-05-1997, 30-12-2008, 22-01-2009, 29-12-2014, 06-06-2025
-
 ###### Artículo 3o.-
 
 La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo a la Asociación Internacional de Fomento y ejercer al respecto toda clase de facultades.
@@ -96,8 +94,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 1993
 
 ARTICULO PRIMERO.- Se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 13 de enero de 1986, 19 de enero de 1988 y 26 de julio de 1990, para quedar como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
 
 ##### TRANSITORIO
@@ -114,8 +110,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 1997
 
 ARTICULO UNICO.- Se reforma el artículo 2o. y se deroga el artículo 5o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -129,8 +123,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008
 
 ARTÍCULO PRIMERO. Se reforma el Artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, para quedar como sigue:
-
-.
 
 ARTÍCULO SEGUNDO. Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
 
@@ -147,8 +139,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de enero de 2009
 
 ARTÍCULO PRIMERO.- Se reforma el artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 19 de enero de 1988, 26 de julio de 1990, 16 de julio de 1993, 7 de mayo de 1997 y 01 de junio de 2001, para quedar como sigue:
-
-..
 
 ARTÍCULO SEGUNDO. Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
 
@@ -181,8 +171,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2025
 
 Artículo Primero.- Se reforman los artículos 2o. y 11 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por decretos publicados en el Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 13 de enero de 1986, 19 de enero de 1988, 26 de julio de 1990, 16 de julio de 1993, 7 de mayo de 1997, 1 de junio de 2001, 30 de diciembre de 2008, 22 de enero de 2009 y 29 de diciembre de 2014, para quedar como sigue:
-
-.
 
 Artículo Segundo.- Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
 

@@ -482,8 +482,6 @@ ARTICULO TERCERO.- Se reforman los artículos 6o. fracciones IV y VI; 9o.; 16 pr
 
 > <small>Fe de erratas al artículo DOF 08-07-2002</small>
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -518,8 +516,6 @@ Publicado en el Diario Oficial de la Federación el 1º de agosto de 2005
 
 Artículo Cuarto: Se Adiciona una fracción VIII Bis, al Artículo 6 de la Ley Orgánica del Banco Nacional de Comercio Exterior, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -535,8 +531,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXAGÉSIMO OCTAVO. Se reforma el artículo 34, cuarto párrafo de la Ley Orgánica del Banco Nacional de Comercio Exterior, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -582,8 +576,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Sexto.- Se reforma el artículo 6o., fracción VIII Bis, de la Ley Orgánica del Banco Nacional de Comercio Exterior, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -592,14 +584,10 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-Ê
-
 UVh
 
 0Jjh
 
 0JUh
-
-h
 
 hÉV'h

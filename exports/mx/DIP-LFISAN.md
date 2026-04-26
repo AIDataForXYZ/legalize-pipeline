@@ -78,8 +78,6 @@ Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto 
 
 Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019,
 
-14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025
-
 Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
 
 > <small>Párrafo reformado DOF 31-12-2003</small>
@@ -240,8 +238,6 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 Artículo Décimo.- Se REFORMAN los artículos 2o., primer y actual segundo párrafos; 3o., fracciones I, primer párrafo y II; 5o., inciso a); 6o. y 13, y se ADICIONAN los artículos 2o., con un segundo y tercer párrafos, pasando los actuales segundo a quinto a ser cuarto a séptimo párrafos, respectivamente; 8o., con una fracción III y 11, con un último párrafo, de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
@@ -257,8 +253,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003
 Ley Federal del Impuesto sobre Automóviles Nuevos
 
 ARTÍCULO OCTAVO. Se REFORMAN los artículos 2o., primer, cuarto y sexto párrafos; 3o., fracción I, último párrafo; 6o., primer párrafo, y 10, y se ADICIONA el artículo 5o., con un inciso d), de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -278,8 +272,6 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ARTÍCULO OCTAVO. Se ADICIONA el artículo 14 a la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
 
-..........
-
 Disposición transitoria de la Ley Federal del Impuesto sobre Automóviles Nuevos
 
 ARTÍCULO NOVENO. El monto del fondo a que se refiere el primer párrafo del artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos es el que estará vigente a partir del 1 de enero de 2006 y deberá incorporarse en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal de 2006.
@@ -297,8 +289,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2005
 
 Artículo Único.- Se reforman los artículos 1o., fracciones I y II; 5o., inciso d); 8o., fracción II, primer y segundo párrafos, y 11, segundo y tercer párrafos; se adiciona el artículo 1o., con un último párrafo, y se deroga el penúltimo párrafo del artículo 2o., de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -343,8 +333,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ARTÍCULO NOVENO. Se REFORMA el artículo 14, primer párrafo de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
-
-..........
 
 Disposición de Vigencia Anual de la Ley Federal del Impuesto sobre Automóviles Nuevos
 
@@ -408,8 +396,6 @@ Artículo 8o. fracción II primer párrafo: $162,255.49
 
 Artículo 8o. fracción II segundo párrafo: $162,255.50 y hasta $205,523.62
 
-.
-
 Atentamente
 
 México, D.F., a 20 de junio de 2008.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
@@ -425,8 +411,6 @@ F.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $172,364.01
 
 Artículo 8o. fracción II segundo párrafo: $172,364.02 y hasta $218,327.74
-
-.
 
 Atentamente
 
@@ -492,8 +476,6 @@ Atentamente.
 
 México, D. F., a 21 de diciembre de 2009.- En ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en el artículo 8 del Reglamento Interior del Servicio de Administración Tributaria, firma Jesús Rojas Ibañez, Administrador General Jurídico.- Rúbrica.
 
-.
-
 Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2009
 
 F.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2010.
@@ -501,8 +483,6 @@ F.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $179,017.26
 
 Artículo 8o. fracción II segundo párrafo: $179,017.27 y hasta $226,755.19
-
-.
 
 Atentamente.
 
@@ -520,8 +500,6 @@ Artículo 8o. fracción II primer párrafo: $179,017.26
 
 Artículo 8o. fracción II segundo párrafo: $179,017.27 y hasta $226,755.19
 
-.
-
 Atentamente
 
 México, D.F., a 18 de noviembre de 2010.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
@@ -537,8 +515,6 @@ F.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $186,732.90
 
 Artículo 8o. fracción II segundo párrafo: $186,732.91 y hasta $236,528.34
-
-.
 
 Atentamente.
 
@@ -556,8 +532,6 @@ Artículo 8o. fracción II primer párrafo: $186,732.90
 
 Artículo 8o. fracción II segundo párrafo: $186,732.91 y hasta $236,528.34
 
-.
-
 Atentamente
 
 México, D.F., a 31 de mayo de 2011.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
@@ -574,8 +548,6 @@ Artículo 8o. fracción II primer párrafo: $193,231.20
 
 Artículo 8o. fracción II segundo párrafo: $193,231.21 y hasta $244,759.53
 
-.
-
 Atentamente
 
 México, D.F., a 19 de diciembre de 2011.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
@@ -591,8 +563,6 @@ B.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $201,288.94
 
 Artículo 8o. fracción II segundo párrafo: $201,288.95 y hasta $254,966.00
-
-.
 
 Atentamente
 
@@ -621,8 +591,6 @@ B.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $217,231.38
 
 Artículo 8o. fracción II segundo párrafo: $217,231.39 y hasta $275,159.75
-
-.
 
 Atentamente.
 
@@ -656,8 +624,6 @@ Artículo 8o. fracción II primer párrafo: $222,032.19
 
 Artículo 8o. fracción II segundo párrafo: $222,032.20 y hasta $281,240.78
 
-.
-
 Atentamente.
 
 Ciudad de México a 14 de diciembre de 2015.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
@@ -669,8 +635,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2016
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 Artículo Séptimo.- Se adiciona el artículo 8o., con una fracción IV de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -731,8 +695,6 @@ B.	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fed
 Artículo 8o. fracción II primer párrafo: $244, 565.77
 
 Artículo 8o. fracción II segundo párrafo: $244,565.78 y hasta $309,783.32
-
-..
 
 Atentamente,
 
@@ -830,8 +792,6 @@ Artículo 8o. fracción II primer párrafo: $263,690.54
 
 Artículo 8o. fracción II segundo párrafo: $263,690.55 y hasta $334,008.02
 
-.
-
 Atentamente,
 
 Ciudad de México, a 23 de diciembre de 2019.- En suplencia por ausencia de la Jefa del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma la Administradora General Jurídica, María de los Angeles Jasso Cisneros.- Rúbrica.
@@ -864,8 +824,6 @@ Artículo 8o. fracción II primer párrafo: $272,471.43
 
 Artículo 8o. fracción II segundo párrafo: $272,471.44 y hasta $345,130.49
 
-..
-
 Atentamente,
 
 Ciudad de México, a 22 de diciembre de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.
@@ -881,8 +839,6 @@ Artículo Quinto. Se reforman los artículos 2o., primer párrafo, y 8o., fracci
 DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 Artículo Sexto. Para los efectos del artículo 8o., fracción II, primer y segundo párrafos de la Ley Federal del Impuesto sobre Automóviles Nuevos, las cantidades vigentes para el ejercicio fiscal 2022, se actualizarán en el mes de enero de dicho ejercicio, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2020, hasta el mes de diciembre de 2021, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de 2022.
-
-..
 
 ##### Transitorio
 
@@ -920,8 +876,6 @@ Artículo 8o. fracción II primer párrafo: $292,552.57
 
 Artículo 8o. fracción II segundo párrafo: $292,552.58 y hasta $370,566.61
 
-..
-
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2021.- Jefa del Servicio de Administración Tributaria, Mtra. Raquel Buenrostro Sánchez.- Rúbrica.
@@ -953,8 +907,6 @@ B. 	Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Fe
 Artículo 8o. fracción II primer párrafo: $315,342.42
 
 Artículo 8o. fracción II segundo párrafo: $315,342.43 y hasta $399,433.75
-
-..
 
 Atentamente,
 
@@ -1020,8 +972,6 @@ Artículo 8o. fracción II primer párrafo: $343,900.23
 
 Artículo 8o. fracción II segundo párrafo: $343,900.24 y hasta $435,606.98
 
-.
-
 Atentamente.
 
 Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -1048,8 +998,6 @@ $Tasa para aplicarse sobre el excedente del límite inferior
 
 %................................................................................................................................................................................................................................................667,335.22En adelante40,718.5317.0
 
-...
-
 Debe decir:
 
 A.	Tarifa para determinar el ISAN para el año 2025.
@@ -1065,8 +1013,6 @@ $Cuota fija
 $Tasa para aplicarse sobre el excedente del límite inferior
 
 %................................................................................................................................................................................................................................................667,335.22En adelante40,781.5317.0
-
-...
 
 Atentamente.
 
@@ -1100,80 +1046,6 @@ Artículo 8o. fracción II primer párrafo: $356,934.05
 
 Artículo 8o. fracción II segundo párrafo: $356,934.06 y hasta $452,116.48
 
-.
-
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
-
-´
-
-h÷Q[5CJ
-
-´
-
-µ
-
-R
-
-R
-
-ÆÐÐPþ^Ð`Pþa$gd÷%$ ` a$gd]S$a$gd]S
-
-ÆÐÐPþ^Ð`Pþa$gd]S$
-
-Æ\
-
-¹
-
-¼
-
-½
-
-Ã
-
-Ä
-
-Ç
-
-È
-
-É
-
-Ö
-
-*
-
-:
-
-J
-
-Z
-
-[
-
-k
-
-{
-
-§
-
-³
-
-½
-
-Â
-
-Ã
-
-Ä
-
-È
-
-É
-
-Ö
-
-×
-
-]^}u}}}}gg

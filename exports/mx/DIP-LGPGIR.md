@@ -1592,15 +1592,9 @@ Publicado en el Diario Oficial de la Federación el 22 de mayo de 2006
 
 Artículo Primero.- Se adicionan los párrafos tercero y cuarto al Artículo 111 de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar de la siguiente manera:
 
-..........
-
 Artículo Segundo.- Se reforman los Artículos 1, fracción XIII; 7, fracción VIII y 101, y se adiciona un primer párrafo, recorriéndose los demás párrafos en su orden al Artículo 104 de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar de la siguiente manera:
 
-..........
-
 Artículo Tercero.- Se adiciona la fracción V al Artículo 112 de la Ley General para la Prevención y Gestión Integral de Residuos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1616,8 +1610,6 @@ Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 ARTÍCULO PRIMERO.- Se reforma el Artículo 17 de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1631,8 +1623,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de mayo de 2012
 
 Artículo Único.- Se adiciona una fracción XIII al artículo 96 de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1663,8 +1653,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ARTÍCULO CUARTO.- Se reforman los artículos 17 y 77, se adiciona un párrafo al artículo 68, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1697,8 +1685,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de marzo de 2014
 
 ARTÍCULO ÚNICO.- Se reforman la fracción I del artículo 7; las fracciones I; II y III del artículo 9, y el primer párrafo del artículo 26, y se adiciona una fracción IX al artículo 19, recorriendo la actual fracción IX para que pase a ser fracción X del mismo artículo; una fracción IV al artículo 28, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1756,8 +1742,6 @@ Publicado en el Diario Oficial de la Federación el 22 de mayo de 2015
 
 Artículo Único. Se reforma el artículo 47 de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1779,8 +1763,6 @@ Artículo Décimo Quinto.- Se reforman los artículos 9, párrafo segundo y 11 d
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
-
-..
 
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
@@ -1810,8 +1792,6 @@ Publicado en el Diario Oficial de la Federación el 18 de enero de 2021
 
 Artículo Único.- Se reforman los artículos 62, primer párrafo y 63, primer párrafo; y se adicionan la fracción LXIII al artículo 5, recorriéndose las subsecuentes fracciones, y el artículo 62 Bis de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1835,8 +1815,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Cuarto. Se reforman los artículos 1, párrafo segundo, y la fracción V; 7, fracción III; 12, fracción II; 16; 17; 33, párrafo primero; 39, párrafo primero; 40, párrafo primero; 41; 42, párrafo primero; 45, párrafo primero, y se adicionan las fracciones XXX Bis y XXX Bis 1 al artículo 5; los párrafos segundo, tercero y cuarto al artículo 17; la fracción VI al artículo 27, y un párrafo cuarto al artículo 42, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1880,8 +1858,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
 
 Artículo Tercero.- Se reforman los artículos 2, fracción XII; 5, fracciones II, XXIV y XLIII; 35, fracción I; 95; y 106, fracción II, y se adiciona un párrafo tercero, recorriéndose en su orden el último párrafo, al artículo 25, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1904,52 +1880,8 @@ Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada e
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Ò
-
-Ó
-
-¥
-
-Å
-
-Ç
-
-Ñ
-
-Ò
-
-Ó
-
-Õ
-
-Ö
-
-×
-
-À#Á$ÁbÂÂÂÝÃÞÃºÄ»Ä
-
-ÆÆðÆôÆ§ÇªÇnÈpÈªÈ­È	É
-
-¢
-
-¨
-
-©
-
-¶
-
-¨
-
-©
-
-«ÌÍËÌÚ
-
 ª«ÁËÌÌ%&3'12ïüØïùúû+56ãú01>¢¦ÀÄØåûëÕ¹ ¹Õë¹ ¹Õë¹ ¹ÕëÕ¹ ¹ë¹ ¹yyyyyÕë¹
 
 %¨©«ÏñõPSmo!$§«óøÎ Ñ _¡a¡)¢-¢À¤ïÓºÓ´ ´ zs´s´s´s´s´s´s´s´s´bShN8h7kB*CJaJph hN8h7k5B*CJaJph
 
 h¯"ÜCJ\
-
-&
-
-$&dPÆÿa$&

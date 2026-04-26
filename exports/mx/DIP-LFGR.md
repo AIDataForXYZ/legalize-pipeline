@@ -1694,8 +1694,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión celebrada el veintitrés de marzo de dos mil veintitrés, resolvió la acción de inconstitucionalidad 98/2021, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
 
 PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
@@ -1734,15 +1732,11 @@ VISTOS los autos para resolver la acción de inconstitucionalidad 98/2021, promo
 
 RESULTANDO:
 
-..
-
 391.	SEXTO. Efectos. De acuerdo con el artículo 41, fracción IV, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, este Tribunal Pleno puede extender los efectos a todas aquellas normas cuya validez dependa de la norma invalidada.
 
 392.	Es procedente declarar la invalidez por extensión del artículo 82, último párrafo, de la Ley de la Fiscalía General de la República, que establece lo siguiente:
 
 Artículo 82. Las medidas disciplinarias a que refiere el artículo 80 de esta Ley se impondrán de conformidad con las reglas siguientes:
-
-[]
 
 La persona que impida el cumplimiento de un arresto, permita que se quebrante o no lo cumpla, será sancionada conforme a una falta considerada como grave. La reincidencia significará en cualquier caso la aplicación de la sanción establecida en la fracción III del artículo 72 de esta Ley, y sustanciado el procedimiento correspondiente y determinada su responsabilidad implicará la separación en términos del Capítulo IX, del Título VI de esta Ley.
 
@@ -1774,8 +1768,6 @@ Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese e
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
 Firman la señora Ministra Presidenta y la señora Ministra Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -1790,8 +1782,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Vigésimo Octavo.- Se reforma el artículo 13, fracción VI, de la Ley de la Fiscalía General de la República, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1805,8 +1795,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Séptimo.- Se reforma el artículo 68 de la Ley de la Fiscalía General de la República, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1828,56 +1816,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 *+,|¨²³µ¶		#	êÕÂ¬x_xRB909hÛhþh4FCJhÛhþhQ±CJh
 
-Tôh
-
-Tô$¤&dPÆÿa$gd
-
-Â
-
-z{
-
-Â
-
-Í
-
-z{
-
 ôõKLW «ÊËÖÍÎvw½¾ÀÁ
 
-c
-
-¯
-
-°
-
-G
-
-a
-
-b
-
-c
-
-g
-
-h
-
-¯
-
-°
-
-¼
-
-Ü
-
-Ý
-
 jvjwj{j|jîjïjòjój3k4k6k7ktkukxkykÃkÄkÈkÉkëkìkñkòkLlMlPlQl¹lºl¼l½lølùlnnÚnÛnènRpSp[p\pdpgpypzp}pñãÖÉÖñãÖñã»Öñã»Öñã»Öñã»Öñã»Öñã»Öñã»Öñã»Öñã»Öñã»ÖÉÖÉÖñãÖñã­ã­ãÖ hÛhþh
-
-Tôgd
 
 Tôh$j$CJUaJ*h( WCJaJmHnHuh
 
 Tôh$j$CJaJjh
-
-Tô°Ð/ °à=!°"°#$%°°Å°ÅÄDp

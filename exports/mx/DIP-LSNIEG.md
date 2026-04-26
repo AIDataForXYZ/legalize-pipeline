@@ -1746,8 +1746,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1820,8 +1818,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
 
 Artículo Único.- Se reforman los artículos 2, fracción III; 11, fracción III; 17, párrafo segundo; 19; 21; 29, párrafo primero y su fracción I; 78, fracción I y 79, párrafo segundo; y se adicionan una Sección IV denominada Del Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia; y los artículos 17, con una fracción IV; y 29, con una fracción IV, a la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1841,8 +1837,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Vigésimo Noveno.- Se reforma el inciso a) de la fracción XV del artículo 2; la fracción IV del artículo 29, y la fracción VIII del artículo 91 Quáter, de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1920,8 +1914,6 @@ Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2023
 
 Artículo Único.- Se adicionan un segundo y tercer párrafos al artículo 26 de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1937,8 +1929,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo.- Se reforma el artículo 126 de la Ley del Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1958,25 +1948,9 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Z
-
-Z
-
-g
-
 :;@§¨ÈÉòåòåÖòåÊ¿´Ê¿´Ê¿´Ê¿´Ê¿¥¥ÖòåÊ¿´Ê¿´Ê¿´Ê¿´Ê¿´Ê¿´Ê¿åòåhe'hè%æB*CJaJph he'hè%æ5B*CJaJphh³Nh5B*CJphh³NhCJaJh³Nhè%æCJaJhe'hè%æ5CJaJh³Nhè%æ5B*CJphh³NhB*CJphh³Nhè%æB*CJph4q{2|3|¥|¦|À}Á}
 
-r
-
-r
-
-Ä
-
 CJUVh
-
-hè%æh
-
-h
 
 0JaJh
 
@@ -1984,12 +1958,6 @@ h
 
 0JaJjhè%æh
 
-h
-
 CJaJh!PtCJaJmHnHu* jhÑ±hÑ±CJUaJ*h!PtCJaJmHnHuhÑ±hÑ±CJaJjhÑ±hÑ±CJUaJh
 
-h
-
 0Jjh
-
-0JU:&P|1h/R :p9Ï°Ð/ °à=!°"°#$%°°Å°ÅÄ

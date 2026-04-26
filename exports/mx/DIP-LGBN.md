@@ -1982,8 +1982,6 @@ Publicado en el Diario Oficial de la Federación el 31 de agosto de 2007
 
 Artículo Único.- Se adiciona un segundo párrafo al Artículo Décimo Tercero Transitorio de la Ley General de Bienes Nacionales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1998,8 +1996,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2012
 
 Artículo Único.- Se reforman la fracción IV del artículo 81, el segundo párrafo de la fracción VI del artículo 83 y el artículo 105 de la Ley General de Bienes Nacionales, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2013,8 +2009,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de enero de 2012
 
 Artículo Quinto. Se reforman los artículos 51; 52; 54; 84, fracción VIII, y el párrafo primero del artículo 98; y se adicionan un segundo párrafo al artículo 50 pasando a ser los actuales párrafos segundo, tercero, cuarto y quinto a ser tercero, cuarto, quinto y sexto, respectivamente, los artículos 54 Bis, 54 Ter, 54 Quáter y 54 Quintus, y se deroga el artículo 90 de la Ley General de Bienes Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2042,8 +2036,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ARTÍCULO NOVENO.- Se adiciona un artículo 153 a la Ley General de Bienes Nacionales, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
@@ -2061,8 +2053,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO DÉCIMO SEXTO.- Se REFORMAN los artículos 2, fracción II; 23, último párrafo; 30, párrafos primero y tercero; 62, fracción V; 64, párrafo tercero; 79, fracción VIII; 81, párrafo primero; 83, fracciones III, VI, segundo párrafo y VII; 103; 104, párrafo segundo, y 105 de la Ley General de Bienes Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2150,8 +2140,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Trigésimo Noveno.- Se reforma la fracción V del artículo 2; la fracción XVII del artículo 6; la fracción I del artículo 11; el artículo 12; la fracción VIII del artículo 28; las fracciones XIV y XVI del artículo 29; los párrafos primero y segundo y la fracción V del artículo 32; el artículo 36; el párrafo primero y las fracciones II, III, IV y VII del artículo 49; los párrafos primero, tercero, cuarto, y sexto del artículo 50; el párrafo primero del artículo 51; el artículo 52; el artículo 53; el párrafo primero y la fracción III, el inciso g) de la fracción IV, del artículo 55; el párrafo segundo del artículo 56; la fracción V del artículo 59; el párrafo primero del artículo 65; el párrafo segundo del artículo 71; la fracción VI del artículo 84; los párrafos segundo y tercero del artículo 97; el párrafo segundo del artículo 106; el párrafo primero del artículo 128; los párrafos primero y tercero del artículo 129; el párrafo primero del artículo 130; los párrafos primero y sexto del artículo 131; los párrafos tercero y cuarto del artículo 132; el párrafo primero del artículo 133; el artículo 134; el artículo 136; el artículo 137; el artículo 138; el párrafo primero del artículo 140; las fracciones V, X y XI del artículo 141; el párrafo primero y la fracción XII del artículo 143; el párrafo primero y las fracciones IV, V, VIII y IX del artículo 144; el artículo 145; y el párrafo primero del artículo 146, y se adiciona una fracción XVIII, al artículo 6, de la Ley General de Bienes Nacionales para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -2228,8 +2216,6 @@ Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2021
 
 Artículo Primero.- Se reforman los párrafos primero y séptimo del artículo 132 de la Ley General de Bienes Nacionales, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2262,8 +2248,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Quinto.- Se reforman los artículos 8, párrafo segundo; 16, y 18, y se adiciona al artículo 42, la fracción VIII Bis, de la Ley General de Bienes Nacionales, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2289,8 +2273,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Cuadragésimo Séptimo.- Se reforman los artículos 5 y 114 de la Ley General de Bienes Nacionales, para quedar como sigue:
-
-.
 
 ##### Transitorios
 

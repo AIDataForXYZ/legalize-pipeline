@@ -156,8 +156,6 @@ Sufragio Efectivo. No Reelección.
 
 México D. F., a 24 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.
 
-Al C......
-
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 FE DE ERRATAS de la Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas.
@@ -208,8 +206,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 
 Artículo Único. Se reforman los artículos 2o. y 5o. y se adiciona una fracción VIII al artículo 3o. y un segundo párrafo al artículo 12 de la Ley de Asociaciones Agrícolas, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -236,17 +232,7 @@ México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 
-(
-
-6
-
-*8+,çÙÈ¶È¥È~zk\k~~K h
-
-(
-
 )h@OCJh@Oh@O5CJ h
-
-$&dPÆÿa$$a$
 
 )hÐK~CJh
 

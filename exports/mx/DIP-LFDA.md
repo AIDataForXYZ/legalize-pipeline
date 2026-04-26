@@ -2254,8 +2254,6 @@ Publicado en el Diario Oficial de la Federación el 19 de mayo de 1997
 
 ARTICULO PRIMERO.- Se reforma la fracción III del artículo 231 de la Ley Federal del Derecho de Autor para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2269,8 +2267,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de julio de 2003
 
 ARTICULO UNICO.- Se reforman los artículos 27, fracciones I y III, inciso e), 29, 78 primer párrafo, 86, 88, 89, 90, 118 último párrafo, 122, 132, 133, 134, 146 y 213; y se adicionan los artículos 26 bis, 83 bis, 92 bis, 117 bis, 131 bis y 216 bis; todos de la Ley Federal del Derecho de Autor, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2289,8 +2285,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 Artículo Segundo. Se reforma la fracción I del artículo 232 de la Ley Federal del Derecho de Autor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2321,8 +2315,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
 
 ARTÍCULO TERCERO.- Se adicionan un segundo párrafo al artículo 27; y un segundo párrafo al artículo 144 de la Ley Federal del Derecho de Autor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2622,8 +2614,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2702,8 +2692,6 @@ Publicado en el Diario Oficial de la Federación el 1 de julio de 2020
 
 Artículo Único.- Se reforman el artículo 10; la fracción III del artículo 16; el artículo 17; el inciso c) de la fracción II del artículo 27; el párrafo primero y las fracciones I, II y III del artículo 118; el artículo 130; la fracción III del artículo 131; el párrafo primero del artículo 132; las fracciones I, II y III del artículo 145; la fracción VIII del artículo 148; se modifica la denominación del Capítulo I del Título XI para quedar como Del Procedimiento ante Autoridades Jurisdiccionales; el primer párrafo del artículo 213; el artículo 214; el primer párrafo del artículo 215; la fracción III del artículo 218; la fracción I y II y el párrafo segundo del artículo 230; las fracciones I y III del artículo 231; el artículo 236; se adicionan un inciso d) al artículo 27; una fracción V al artículo 106; un Capítulo V denominado De las Medidas Tecnológicas de Protección, la Información sobre la Gestión de Derechos y los Proveedores de Servicios de Internet, al Título IV, que comprende los artículos 114 Bis, 114 Ter, 114 Quáter, 114 Quinquies, 114 Sexies, 114 Septies y 114 Octies; las fracciones IV, V y VI al artículo 118; las fracciones VI y VII al artículo 131; una fracción IV al artículo 145; un párrafo segundo a la fracción VIII del artículo 148; una fracción VI al artículo 209; un párrafo tercero al artículo 230 y los artículos 232 Bis, 232 Ter, 232 Quáter; 232 Quinquies y 232 Sexies, de la Ley Federal del Derecho de Autor, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2746,8 +2734,6 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Décimo Quinto.- Se reforma el artículo 209, fracción IV; y se adiciona un tercer párrafo al artículo 2o.; un tercer párrafo al artículo 13; un tercer párrafo al artículo 77; un tercer párrafo al artículo 162 y un tercer párrafo al artículo 218, de la Ley Federal del Derecho de Autor, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2769,83 +2755,3 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 \PAGE80     (Primera Sección)	DIARIO OFICIAL	Martes 24 de diciembre de 1996
-
-ô
-
-h\'µ5CJ
-
-h\'µ5CJ.éêö~JKàáî
-
-W
-
-Z
-
-û
-
-ü
-
-W
-
-û
-
-ü
-
-?
-
-?
-
-D
-
-f
-
-g
-
-j
-
-¤
-
-¥
-
-¦
-
-«
-
-Ä
-
-Å
-
-Æ
-
-Ø
-
-g
-
-¥
-
-¦
-
-Å
-
-Æ
-
-$ ` a$gd	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-h	.
-
-<00P&P°Ð/ °Ò=!°"°#$%°°Å°ÅÐDp

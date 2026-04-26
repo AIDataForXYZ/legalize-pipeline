@@ -3232,8 +3232,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo Sexto.- Se reforman los artículos 3 y 400 de la Ley Federal de Protección a la Propiedad Industrial, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3258,8 +3256,6 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Décimo Sexto.- Se reforman las fracciones XVI, incisos d) y e) de la fracción XX, las fracciones XXI y XXXII, del artículo 5; y se adiciona un segundo párrafo a la fracción I del artículo 2 y un inciso f) a la fracción XX del artículo 5, de la Ley Federal de Protección a la Propiedad Industrial, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3280,70 +3276,18 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-$õìâõìâõìâõìâõìâõìÜìâõìÜìõâõÕìâõìÜìâõìÜìâõìÜìâõìÜìâõÕìâõìÜìâõìÜìâõìÜìâõìÜìâõìÜìâõìÜìâ
-
 àá<=PQóçóÛóÑÇ¾µ¾ÑÇ¾ÑÇ¾ÑÇ¾ÑÇ¾ÑÇ¾¬¾µ¾µ¾ÑÇ¾¬¾µ¾ÑÇ¾µ¾ÑÇ¾µ¾µ¾ÑÇ¾ÑÇ¾ÑÇ¾µ¾£¾µhÉhÁCJhÉh»:CJhÉhÉCJhÉh.,CJhÉh.,5CJhÉhÉ5CJhÉhÉ5CJaJhÉhÁ5CJaJhÉh.,5CJaJ@WÒÓijgh./{|
 
-6
-
-;
-
-º
-
-»
-
-¿
-
 ôõúÕÖVW¸¹'(5LMP õëâõëâÙâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâÙâõëâõëâõëâõëâõëâõëâõëâõëâÙâÙâÙâõëâõëâÙhÉh¨ÓCJhÉh.,CJhÉh.,5CJhÉh¨Ó5CJV5
-
-6
-
-º
-
-»
-
-,
-
-¨
-
-©
-
-·
-
-,
-
-¨
-
-©
 
 +,0EFT±²À
 
 þÿÆÇÕÖ01?±²µìíò±²÷î÷î÷îäÚîäÎÃäÚîäÚî÷îäÚîäÚîºîäÚîäÚîäÚîäÚîäÚîäÚîäÚî÷î÷î±î÷îäÚîäÚîäÚîäÚîähÉhÁCJhÉhQeCJhèýh.,CJaJhèýh.,5CJaJhÉh.,5CJhÉh=5CJhÉh.,CJhÉh=CJFÛ­®pqÔÕrs+,EF±²
 
-­®LM
-
 op~uv4 5 C o¡p¡~¡¡¡H£I£q¤r¤¤¦¦§§å§æ§õ§Ð¨Ñ¨ß¨~©©©´ªµªÂªÃªÑª®«¯«¬¬º¬»¬É¬d­e­s­P®Q®_®¯¯õìâõìâõìâõìâõìâõìâõìÙìÙìÙìâõìÙìâõìÐìâõìÙìâõìÙìÙìâõìâõìâõìÇìâõìÙìÙìâõìâõìâõìâhÉh»:CJhÉhÁCJhÉh=CJhÉh=5CJhÉh.,CJhÉh.,5CJL®LM
-
-(
-
-ä
-
-å
-
-ó
 
 jkyno¼½ãäåó=>BÛÜá÷íã÷Ú÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷Ñ÷íÅºíã÷íã÷íã÷íã÷íãhèýh.,CJaJhèýh.,5CJaJhÉh=CJhÉh»:CJhÉh.,5CJhÉh=5CJhÉh.,CJI^º»EFðñ
 
-ä
-
-å
-
 (((D(E([)\)j)ß)à)ã)***E*F*T*æ*ç*ê*T+U+Y+°+÷íã÷íã÷Ú÷íã÷Ñ÷Ñ÷íã÷Ñ÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷Ñ÷íã÷íÅºíã÷ã÷íã÷íã÷íã÷íã÷íã÷íã÷hèýh.,CJaJhèýh.,5CJaJhÉh=CJhÉh»:CJhÉh.,5CJhÉh=5CJhÉh.,CJI­#®#%%&&®'¯'»'
-
-{{¸{¹{||©}ª}'~(~
-
-{{{¸{¹{||©}ª}'~(~-~
-
-¸¹Ç±²>?M
 
 µ¶ºõöÔÕklz-.<ùú-.=þÿõìâõìâõìâõìÙìâõìÙìÙìÙìâõìâõìÙìâõìÐìâõìÙìâõìâõìâõìÇìÇìâõìÙìâõìâõìâõìâ»âõìâõhèýh.,5CJaJhÉh»:CJhÉhQeCJhÉh=CJhÉh=5CJhÉh.,CJhÉh.,5CJJ¸¹±²>?

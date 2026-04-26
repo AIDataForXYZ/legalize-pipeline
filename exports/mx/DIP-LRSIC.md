@@ -1424,8 +1424,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2004
 
 Artículo Único.- Se REFORMAN los artículos 2o., fracciones IV y V; 17; 23; 38, párrafo segundo; 40, párrafo quinto; 48, párrafo primero; 52, párrafo primero; 53; 54; 55; y 56; asimismo, se ADICIONAN los artículos 8 con un tercer y cuarto párrafos; 28 con un segundo y tercer párrafos, pasando los actuales segundo a octavo párrafos a ser cuarto a décimo párrafos; 48 con un tercer párrafo y los artículos 57 a 68, pasando los actuales 57 y 58 a ser 69 y 70, respectivamente, todos de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue:
 
-..........
-
 ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1451,8 +1449,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o.; 5o., primer párrafo; 9o., tercer párrafo; 13, primer párrafo; 17; 20, primer y segundo párrafos; 21; 23; 24; 25; 28, décimo párrafo; 29, segundo, tercer y quinto párrafos; 30; 36, tercer párrafo; 40, primer y quinto párrafos; 41, segundo párrafo; 42; 43 primer párrafo; 44; 45, segundo párrafo; 46, primer párrafo; 47; 48; 50; 52, segundo párrafo; 53, primer párrafo, inciso a) del segundo párrafo, inciso a) y b) del tercer párrafo quedando el inciso b) en dos párrafos y el último párrafo; 54; 56, el primer, segundo, tercer y cuarto párrafos; 60, fracciones II, IV, V, VI, VIII, IX, XI, XIII, XVI, XVIII, XIX y XXI; 61, fracción IV; 62, fracciones I y III; 64, primer párrafo, fracción IV; 66, fracciones III, IV, VIII y IX; la denominación de la Sección IV; 68, primer párrafo y fracciones I, II, III, IV y V y 69; se ADICIONAN los artículos 8o Bis; 13, con un segundo y tercer párrafos; 20, con un penúltimo y último párrafos; 27 Bis; 28, con un penúltimo y último párrafos; 29, con un último párrafo; 36 Bis; 39, con un último párrafo; 40, con un penúltimo y un último párrafos; 56 Bis; 57 con un segundo párrafo; 60, con las fracciones XXIII, XXIV, XXV, XXVI, XXVII, XXVIII y XXIX; 61, con las fracciones VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII; 68, con las fracciones VII, VIII, IX, X, XI, XII, XIII, XIV y XV; 68 Bis; 69, con un penúltimo y un último párrafos; y se DEROGAN los artículos 28, tercer párrafo; 36, último párrafo; 60, fracciones VII y XVII; 61, fracción V, y 68, último párrafo de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1484,8 +1480,6 @@ Publicado en el Diario Oficial de la Federación el 20 de enero de 2009
 
 Artículo Único.- Se REFORMAN el primero y cuarto párrafos del artículo 20; las fracciones XVI y XVII del artículo 61, y las fracciones XIV y XV del artículo 68; y se ADICIONAN un último párrafo al artículo 20; un tercer párrafo al artículo 26; las fracciones VII y XVII al artículo 60; la fracción XVIII al artículo 61 y las fracciones XVI, XVII y XVIII al artículo 68, de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1499,8 +1493,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2010
 
 ARTÍCULO TERCERO. Se reforman los artículos 2, fracciones VIII y IX; 20, párrafo primero; 36; 36 Bis; se adicionan los artículos 17, con un párrafo tercero; 19, con las fracciones VI y VII, recorriéndose en su orden la actual fracción VI para ser VIII, 19 Bis; 42, sexto y séptimo párrafos; 62, fracciones V, VI y VII; y se deroga el artículo 66, fracciones VI, VII y VIII de la Ley para Regular las Sociedades de Información Crediticia, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1586,43 +1578,13 @@ Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-w
-
-â
-
-w
-
-â
-
-h
-
 v§CJh
 
-v§5CJ^J%h
-
-v§$a$gd
-
-v§CJ
-
-h
-
->
-
-?
-
-·hØ
-
 ·CJhØ
 
-·hØ
-
 ·CJhØ
-
-·hØ
 
 huL5CJ7hØ
-
-·hØ
 
 xhÈf©CJh
 
@@ -1630,43 +1592,19 @@ huLCJ\
 
 huL5CJ
 
-h×5CJ
-
-hí
-
 5CJhí
-
-hí
-
-CJ%hí
 
 xhí
 
 CJhí
 
-hí
-
 $a$gdí
 
 xhí
 
-hí
-
-5CJ
-
-hí
-
-5CJ%hí
-
-hí
-
 CJ63íVíWíòîïïðïðð¨ðËðÌðñ£ñ¤ñò8ò9òÎòóó­óêó÷åå÷åå÷åå÷åå÷åå÷åÏ÷åÏ÷L
 
 $a$gdí
-
-êóëóôµô¶ô6õYõZõö3öVööö÷¶÷·÷Ã÷Ú÷
-
-øõß×ßß×ßß×ÒÊÃ¹±Ã££Ò
 
 xhÿ-ªCJh
 

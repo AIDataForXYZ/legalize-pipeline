@@ -1834,8 +1834,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Sexagésimo Primero.- Se reforma la fracción I del artículo 73 de la Ley para Regular las Instituciones de Tecnología Financiera, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -1932,8 +1930,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Sexto.- Se reforma el tercer párrafo del artículo 102 de la Ley para Regular las Instituciones de Tecnología Financiera, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1951,25 +1947,5 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-D
-
-E
-
-¦
-
-§
-
-³
-
-+,8ÕÖâ
-
-E
-
-¦
-
-§
-
-+,ÕÖ
 
 12¶·ÄXYfTUlmoþÿ)*ýþ

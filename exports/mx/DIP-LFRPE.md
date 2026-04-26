@@ -278,8 +278,6 @@ Publicado en el Diario Oficial de la Federación el 30 de abril de 2009
 
 ARTÍCULO ÚNICO.- Se reforma el segundo párrafo del artículo 2 de la Ley Federal de Responsabilidad Patrimonial del Estado y se adiciona un cuarto párrafo al mismo artículo, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -295,8 +293,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 ARTÍCULO PRIMERO.- Se reforman los artículos 18, primer párrafo; 19; 23; 24 y 25, segundo párrafo de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -389,8 +385,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023
 
 Artículo Único.- Se reforma el primer párrafo del artículo 1 de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorio
 

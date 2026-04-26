@@ -870,8 +870,6 @@ import "http://www.senado.gob.mx/sgsp/gaceta/61/1/2009-10-30-1/assets/images/a.g
 
 1. Para determinar el valor de la UDI para los días del 11 al 25 del mes m se utiliza:
 
-n= 15
-
 INPCq= Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m.
 
 INPCq-1= Índice Nacional de Precios al Consumidor de la primera quincena del mes inmediato anterior al mes m.
@@ -7124,8 +7122,6 @@ El Banco de México calculará el valor de las unidades de inversión de acuerdo
 
 ARTICULO CUARTO.- Se adiciona el artículo 16-B al Código Fiscal de la Federación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7143,10 +7139,6 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995
 Artículo Primero. Se expide la siguiente:
 
 Ley del Servicio de Administración Tributaria
-
-..........
-
-T r a n s i t o r i o s
 
 Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
 
@@ -7464,8 +7456,6 @@ símbolo 183 \f "Symbol" \s 9 \h	248,	penúltimo párrafo.
 
 Las modificaciones anteriores quedan de la siguiente manera:
 
-..........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 Artículo Quinto. En relación con las modificaciones a que se refiere el Artículo Cuarto que antecede, se estará a lo siguiente:
@@ -7493,8 +7483,6 @@ Los recursos que establece el Título VI del Código Fiscal de la Federación y 
 IX.	Los contribuyentes autorizados con anterioridad a la entrada en vigor del presente decreto por las autoridades fiscales para pagar sus créditos fiscales en parcialidades conforme al artículo 66 del Código, podrán acogerse al mecanismo de cálculo de las parcialidades previsto en dicho artículo vigente a partir de 1996 por las parcialidades que tengan que pagar a partir de enero de dicho año, siempre que presenten ante las mencionadas autoridades la información necesaria para realizar el desglose de los créditos fiscales a su cargo, de conformidad con las reglas de carácter general que publique la Secretaría de Hacienda y Crédito Público. Las parcialidades de enero, febrero y marzo de 1996 se pagarán conforme a la autorización emitida con anterioridad a la entrada en vigor del presente decreto. La diferencia entre dichas parcialidades y las que se hubieren pagado durante los meses señalados conforme al artículo 66 vigente a partir de 1996, se restará del saldo insoluto al 31 de diciembre de 1995. No procederá la devolución de la diferencia mencionada.
 
 Artículos Sexto a Vigésimo. .........
-
-T r a n s i t o r i o s
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
@@ -7534,8 +7522,6 @@ CODIGO FISCAL DE LA FEDERACION
 
 Artículo Primero.- Se REFORMAN los artículos 9o., fracción II y penúltimo párrafo; 17-A, primer párrafo; 22, primer y tercer párrafos y actuales sexto y noveno párrafos; 27, tercer párrafo; 28, último párrafo; 29, penúltimo y último párrafos; 32, antepenúltimo y penúltimo párrafos; 32-A, actual tercer párrafo; 46-A, segundo párrafo; 48, fracciones V, VI y VIII; 52, fracción II; 66, fracción I; 73, fracción III; 75, fracción V, segundo párrafo; 76, actual último párrafo; 78; 79, fracción V; 80; 81, fracción VIII; 82, fracciones I, incisos a), b) y d), II, III, IV, VI y VII; 83, fracción IX; 84, fracciones VI, VIII y IX; 84-B, fracción III; 86, fracción I; 86-A; 86-B; 88; 90; 92, fracción I; 105, fracción IX y último párrafo; 108; 114; 121, tercer párrafo; 144, segundo párrafo; 207, cuarto párrafo; 239-A y 248, se ADICIONAN los artículos 15-B; 22, con un cuarto párrafo, pasando los actuales cuarto a noveno párrafos a ser quinto a décimo párrafos; 32-A, con un segundo párrafo pasando los actuales segundo a sexto párrafos a ser tercero a séptimo párrafos; 34-A; 37, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo; 46-A, con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; 48, con una fracción IX; 76, con un último párrafo, pasando el actual último párrafo a ser penúltimo párrafo; 81, con las fracciones IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX; 82, con las fracciones IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX; 83, con la fracción XIV; 84, con la fracción XII; 86-C; 86-D; 86-E; 86-F; 111, con una fracción V; 114-A; 124, con una fracción VIII; 125, con un último párrafo; 202, con una fracción XV y 238, con un último párrafo, y se DEROGAN los artículos 77, fracción II, inciso a); 83, fracción V,  84, fracción IV y la Sección Segunda del Capítulo X del Título VI, denominada De la Apelación, que comprende los artículos 245, 246 y 247; y 249, segundo párrafo del Código Fiscal de la Federación, para quedar como sigue:
 
-.........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 Artículo Segundo.- En relación con las modificaciones a que se refiere el Artículo Primero que antecede, se estará a lo siguiente:
@@ -7571,8 +7557,6 @@ Publicada en el Diario Oficial de la Federación el 29 de diciembre de 1997
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
 Artículo Primero.- Se REFORMAN los artículos 6o., penúltimo párrafo; 16-A; 16-C; 20, séptimo párrafo; 21, primer y segundo párrafos; 22, primero, tercero, cuarto y sexto párrafos; 28, último párrafo; 29, penúltimo y último párrafos; 30, tercer párrafo; 31, actual tercer párrafo; 32, primer y antepenúltimo párrafos; 32-A, antepenúltimo párrafo; 46, fracciones I y IV, segundo párrafo; 46-A, primer y segundo párrafos; 47, fracción I; 48, fracción VI, primer párrafo; 52, fracción I, inciso a) y el penúltimo párrafo del artículo; 55, primer párrafo y la fracción V; 58, fracción III; 66, fracción II, segundo párrafo; 67, cuarto y sexto párrafos; 70, último párrafo; 75, fracción V, segundo párrafo; 76, primer párrafo; 80, fracciones II y III; 81, fracciones I, II, V, VII, VIII, XVIII y XIX; 82, fracciones I, inciso d), II, inciso e), X y XVI; 83, fracción XIII; 84, fracción VI; 88; 102, último párrafo; 108, quinto párrafo, inciso d); 109, fracciones IV y V; 110, fracciones II y III; 114; 133, fracción III y el último párrafo; 141, penúltimo párrafo; 145; 175, tercer párrafo; 176, primer y último párrafos; 210, penúltimo párrafo; 211, último párrafo; 214, penúltimo y último párrafos y 239, segundo párrafo; se ADICIONAN los artículos 27, con un tercer párrafo, pasando los actuales tercero a sexto a ser cuarto a séptimo párrafos, respectivamente; 29-A, con una fracción VIII y un penúltimo párrafo; 31, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto párrafos, respectivamente y con un quinto párrafo, pasando los actuales cuarto a noveno a ser sexto a décimo primero párrafos, respectivamente; 33, con un último párrafo; 34, con un segundo y tercer párrafos; 41-A; 42-A; 46, fracción IV, con cuatro párrafos finales; 48, fracción VII, con un segundo párrafo; 63, con un segundo párrafo, pasando el actual segundo a ser tercer párrafo; 69, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercer y cuarto párrafos, respectivamente; 75, fracción II, con un inciso g); 81, con una fracción XX; 82, fracciones I, con un inciso e), II, con un inciso f) y XX; 85, con una fracción IV; 86, con una fracción IV; 86-A, con una fracción III; 86-B, con una fracción III; 87, con una fracción IV; 105, con una fracción X; 111, con una fracción VI; 124-A; 134, con un último párrafo y 209, con un último párrafo y se DEROGAN los artículos 110, fracción IV y 111, fracción I, del Código Fiscal de la Federación, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias del Código Fiscal de la Federación
 
@@ -7644,8 +7628,6 @@ Código Fiscal de la Federación
 
 Artículo Primero. Se REFORMAN los artículos 9o., fracción II; 16, último párrafo; 22, actual cuarto párrafo y el último párrafo del artículo; 29-B, tercer párrafo; 31, primero, cuarto y actual octavo párrafos; 32, cuarto párrafo; 32-A, fracciones I, segundo párrafo, inciso b), III, primer párrafo, así como los párrafos tercero y quinto del artículo; 42, fracción V; 46, fracción IV, segundo y séptimo párrafos; 47; 49, primer párrafo y fracciones I, II, IV, V y VI; 55, primer párrafo; 56, primer párrafo; 59, fracciones III, IV, V y VII; 62, primer párrafo; 66, fracciones I, actual décimo párrafo, II, primer párrafo y III, incisos a) y c) y antepenúltimo párrafo del artículo; 70, actual último párrafo; 75, fracciones I, inciso b) y V, segundo párrafo; 76, penúltimo párrafo; 79, fracción IV; 81, fracciones VII, XII, XVI y XIX; 82, fracciones II, inciso f) y XVI; 83, fracción VII; 84, fracción VI; 84-B, fracción IV; 86-A, primer párrafo y fracción III; 86-B, fracciones I, II y III; 86-E; 92, cuarto párrafo; 101; 103, primer párrafo; 104, fracciones I, II y IV; 105, último párrafo; 108, quinto párrafo en su encabezado y sexto párrafo; 110, fracción V; 111, fracción V; 113; 141, fracción I; 144, penúltimo párrafo; 150, tercer y cuarto párrafos; 185, último párrafo y 195, último párrafo; se ADICIONAN los artículos 1o., con un tercer párrafo, pasando los actuales tercero y cuarto a ser cuarto y quinto párrafos, respectivamente, 17-B; 18-A; 22, con un cuarto, quinto y sexto párrafos, recorriéndose los actuales párrafos cuarto y siguientes en su orden; 26, con las fracciones XV, XVI y XVII; 27, con un segundo, un tercer, un cuarto, un octavo y un décimo párrafos, pasando los actuales segundo, tercero y cuarto a ser quinto, sexto y séptimo párrafos, el actual quinto a ser noveno párrafo, y los actuales sexto y séptimo a ser décimo primero y décimo segundo párrafos, respectivamente; 29-B, con un cuarto párrafo, pasando el actual cuarto, a ser quinto párrafo; 30, con un último párrafo; 32-D; 46, con un último párrafo; 66, fracciones I, con un décimo y un décimo primer párrafos, pasando los actuales décimo y décimo primer a ser décimo segundo y décimo tercero párrafos, respectivamente y III, con un último párrafo; 70, con un último párrafo; 70-A; 75, fracción I, con un último párrafo; 79, con las fracciones VII, VIII y IX; 80, con las fracciones V y VI; 81, con las fracciones XX, XXI, XXII y XXIII; 82, fracción II, con un inciso g) y con las fracciones XX, XXI, XXII y XXIII; 84, con una fracción IV; 84-A, con una fracción VI; 84-B, con una fracción VI; 85, con una fracción V; 86, con una fracción V; 86-B, con un último párrafo; 91-A; 91-B; 105, con las fracciones XII y XIII; 108, quinto párrafo, con un inciso e); 141, con un último párrafo; 141-A; 145, con una fracción V; 146-A; 196, con un segundo párrafo, pasando el actual segundo a ser tercer párrafo; 196-A y 196-B; y se DEROGAN los artículos 31, quinto párrafo; 58; 70, segundo párrafo; 81, fracciones XI y XVII; 82, fracciones XI y XVII, y 146, último párrafo, del Código Fiscal de la Federación, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
@@ -7678,8 +7660,6 @@ Código Fiscal de la Federación
 
 Artículo Primero. Se REFORMAN los artículos 14-A, fracción I, inciso a), segundo párrafo; 20 Bis, fracción II; 27, actual sexto y penúltimo párrafos; 30, actual último párrafo; 33, fracción II; 34-A, primer y segundo párrafos; 41-A, primer párrafo; 42, fracción V; 46-A, actual tercer párrafo; 49, primer párrafo y fracciones I, II, IV y VI; 67, cuarto y quinto párrafos; 76, último párrafo; 79, fracción VIII; 81, fracciones VIII, XIV, XVIII, XIX y XXI; 86-A, fracción III; 86-E; 91-A, primer párrafo; 105, fracciones I y II; 113, fracción II y 151, primer párrafo; se ADICIONAN los artículos 4o.-A; 21, con un penúltimo párrafo; 27, con un quinto párrafo, pasando los actuales quinto a décimo segundo párrafos a ser sexto a décimo tercer párrafos, respectivamente; 30, con un último párrafo; 46-A, con un tercer párrafo, pasando los actuales tercer y cuarto párrafos a ser cuarto y quinto párrafos, respectivamente; 69-A; 81, con las fracciones XI y XVII; 82, con las fracciones XI y XVII; 124, con la fracción IX; 144, con un antepenúltimo y un penúltimo párrafos; 146, con un penúltimo párrafo; 146-B; 196-A, con la fracción IV y 202, con la fracción XVI; y se DEROGAN los artículos 26, fracción XVI; 81, fracción XXII y 82, fracción XXII del Código Fiscal de la Federación, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de esta Ley, se estará a lo siguiente:
@@ -7703,8 +7683,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 Código Fiscal de la Federación
 
 Artículo Primero. Se REFORMAN los artículos 12, primer párrafo; 14-A, fracción II; 22, séptimo y octavo párrafo; 26, fracción III, tercer párrafo e inciso b); 29, tercer párrafo; 31, segundo y tercer párrafos; 69, primer párrafo; 76, cuarto párrafo; 77, fracciones I, incisos a), b) y c) y II, inciso b); 81, fracciones II, VIII y XIX; 105, último párrafo; la denominación del Título VI; 208, fracción I, penúltimo y último párrafos; 209, primer párrafo y fracciones I, III y IV; 227, último párrafo; 237, primer párrafo; 239-B, primer párrafo y último párrafo de la fracción III; 253, último párrafo; 259, primer párrafo; 261, y 262, segundo párrafo; se ADICIONAN los artículos 14-A, con un penúltimo y un último párrafos; 18-A, con la fracción VIII; 29-C; 32-B, con las fracciones VI y VII; 32-E; 50; 84-A, con las fracciones VII y VIII; 84-B, con las fracciones VII y VIII; 84-G; 84-H; 188-Bis; 208, con la fracción VIII; 208-Bis; 237, con un último párrafo; 239, con la fracción IV; 239-B, fracción I con un inciso c) y con una fracción VII; 258-A, y 260, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo; y se DEROGAN los artículos 81, fracción XX, y 82, fracción XX, del Código Fiscal de la Federación, para quedar como sigue
-
-.........
 
 Disposiciones Transitorias del Código Fiscal de la Federación
 
@@ -8042,8 +8020,6 @@ Publicado en el Diario Oficial de la Federación el 5 de enero de 2004
 
 Artículo Primero. Se REFORMAN la denominación de "Título I, Capítulo Único", pasando a ser "Título I, Capítulo Primero"; los artículos 1o.; 6o., séptimo párrafo; 9o., fracción I, incisos a) y b) y último párrafo; 10, fracción I, inciso b) y último párrafo del artículo; 14, fracción I; 14-A; 15-A, inciso b); 16, último párrafo; 16-A; 17-B; 18; 19, primer párrafo; 20, séptimo párrafo; 22; 23; 24; 26, fracciones XI y XV; 26-A; 27, primero, segundo, séptimo y actuales décimo primero, décimo segundo y décimo tercer párrafos; 28, último párrafo; 29 sexto párrafo; 29-A, tercer párrafo; 29-B, último párrafo; 29-C; 30, actuales tercero, cuarto y sexto párrafos; 31; 32, primer párrafo; 32-A, segundo, cuarto, quinto y séptimo párrafos; 32-B, fracciones IV y VII; 32-D; 32-E; 33, fracción I, incisos b), c) y g); 34, último párrafo; 34-A, primer párrafo; 38; 41-A, primer párrafo; 42, fracción V, primer párrafo; 44, fracción II, segundo párrafo; 46, fracción IV, cuarto párrafo y último párrafo del artículo; 46-A, primero y segundo párrafos; 47, primer párrafo; 48, fracciones VI, primero y último párrafos, VII, primer párrafo y IX; 49, fracción VI; 51, primer párrafo; 52, fracción I, inciso a) y tercer párrafo del artículo; 53, incisos b) y c) y último párrafo; 55, primer párrafo y fracción V; 56, primer párrafo; 62, primer párrafo; 66, antepenúltimo y último párrafos del artículo; 67, primer párrafo, fracciones I y IV, segundo y cuarto párrafos del artículo; 69, actual segundo párrafo; 70, tercer y cuarto párrafos; 73, fracción III; 75, fracciones V, primer párrafo y VI; 76, fracciones I, II y cuarto, quinto y sexto párrafos del artículo; 79, fracción VIII; 80, fracción II; 81, fracciones VII, IX, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX y XXI; 82, fracción VII; 83, fracciones XI y XIII; 84, fracciones IV y VI; 84-A, fracción VII; 84-B, fracción VII; 84-H; 86-A, primer párrafo y fracción III; 86-E, último párrafo; 92, último párrafo; 97; 100; 102, último párrafo; 103, primer párrafo y fracción I; 104, fracciones III y IV; 105, fracciones I, V a VIII, XII, XIII y el último párrafo; 107, último párrafo; 108, actual quinto párrafo, inciso b); 109, fracción I; 111, fracción V; 124, fracción II; 125, primer párrafo; 130; 132, último párrafo; 133, último párrafo; 134, fracción I, primer párrafo; 139; 140; 141, último párrafo; 150, cuarto y sexto párrafos; 153, primer párrafo; 155, primer párrafo y fracción IV; 157, fracción II; 160, segundo párrafo; 174; 176; 177; 181; 182; 183; 185, primer párrafo; 186, primer párrafo; 191, primero y tercer párrafos; 192, fracción III; 196, primer párrafo; se ADICIONAN los artículos 11, con un último párrafo; 14, con una fracción IX; 14-B; 17, con un último párrafo; 17-A, con tres párrafos finales; el Título I, con un Capítulo Segundo, denominado "De los Medios Electrónicos" comprendiendo los artículos 17-C, 17-D, 17-E, 17-F, 17-G, 17-H, 17-I y 17-J; 18-B; 19, con un segundo, tercero, penúltimo y último párrafos, pasando los actuales segundo y tercero a ser cuarto y quinto párrafos, respectivamente; 19-A; 20, con un último párrafo; 22-A; 22-B; 27, con un décimo y décimo primer párrafos; 28, con las fracciones IV y V; 29 con los párrafos octavo a décimo cuarto; 29-A, con la fracción IX y con un último párrafo; 29-B, con un penúltimo párrafo; 30, con un cuarto párrafo, pasando los actuales cuarto a séptimo párrafos a ser quinto a octavo párrafos, respectivamente; 32, con un segundo párrafo, pasando las fracciones I a IV a formar parte de dicho párrafo y pasando los actuales segundo a sexto párrafos a ser tercero a séptimo párrafos respectivamente; 32-A, con un octavo, noveno y décimo párrafos; 32-B, fracción III, con un último párrafo; 32-F; 33, fracción I, con un último párrafo; 34, con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercero y cuarto párrafos, respectivamente; 39, fracción I con un segundo párrafo; 43, con una fracción III; 48, con un último párrafo; 50, con un penúltimo y último párrafos; 52, con una fracción IV y con un último párrafo al artículo; 52-A; 53-A; 69, con un segundo párrafo, pasando los actuales segundo, tercero y cuarto párrafos a ser tercero, cuarto y quinto párrafos, respectivamente; 75, fracción V, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo; 76, con un último párrafo; 81, con las fracciones XX, XXII, XXIV y XXV; 82, con las fracciones XX, XXII, XXIV y XXV; 83, con una fracción XV; 84, con una fracción XIII; 84-G, con un último párrafo; 86-A, con una fracción IV; 86-B, con una fracción IV; 87, con una fracción V; 103, con las fracciones X a XVIII y con un último párrafo; 105, con las fracciones XIV a XVII; 108, con un quinto párrafo, pasando el actual quinto a ser sexto párrafo; 109, con las fracciones VI y VII; 111, con una fracción VII; 114-A, con un segundo párrafo; 114-B; 115-Bis; 133-A; 134, fracción I, con un segundo párrafo; 141, fracción III, con un segundo párrafo y con un último párrafo a dicho artículo; 146, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto párrafo; 156, con un último párrafo; 156-Bis; 191, con un cuarto, quinto, sexto, séptimo, octavo, noveno y décimo párrafos; y se DEROGAN los artículos 27, cuarto párrafo; 29, actual séptimo párrafo; 32-A, actual sexto párrafo; 32-B, fracción VI; 50, segundo párrafo; 59, fracción VII; 81, fracción V; 82, fracción V; 84-A, fracción VIII; 84-B, fracción VIII; 105, fracciones II y III; del Código Fiscal de la Federación, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
@@ -8152,8 +8128,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2004
 
 Artículo Único.- Se adiciona una fracción III al Artículo 33 del Código Fiscal de la Federación para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el 1o. de enero del 2005.
@@ -8167,8 +8141,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005
 
 Artículo Primero. Se adiciona un tercer párrafo al artículo 3o. recorriéndose en su orden actual el párrafo tercero, del Código Fiscal de la Federación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8244,8 +8216,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2006
 
 ARTÍCULO PRIMERO. Se REFORMAN, los artículos 9o., fracción II; 10, fracción I, incisos b) y c) y el último párrafo del artículo; 12, primer párrafo; 14-B, último párrafo; 17-B, tercer párrafo; 18-A, primer párrafo y fracciones VII y VIII; 19, primer y segundo párrafos; 22, cuarto, sexto, séptimo, noveno y décimo párrafos; 22-A, primer párrafo; 22-B primer y segundo párrafos; 23, primer y último párrafos; 27, primer, séptimo, noveno, décimo primero, décimo segundo, décimo tercero y décimo cuarto párrafos; 28, fracción III; 29, séptimo y octavo párrafos del artículo, fracción I, cuarto párrafo; 29-A, fracción VI y segundo párrafo del artículo; 29-C, primer párrafo, fracciones II y IV, y tercer párrafo del artículo; 30, último párrafo; 31, primero, cuarto, octavo y décimo primero párrafos; 32, penúltimo párrafo; 32-A, sexto párrafo; 32-B, fracciones III, segundo y tercer párrafos, y IV; 32-D; 34, primer párrafo; 42, fracciones V, segundo párrafo; 43, fracción III; 46, fracción IV, cuarto párrafo; 46-A, primero, tercero y cuarto párrafos; 48, fracciones I y VII; 49, fracción VI; 50, segundo párrafo; 52, fracción I, inciso a), segundo párrafo; 52-A, fracciones I, primero y segundo párrafos, II, y el actual segundo párrafo del artículo; 63, último párrafo; 66; 67, quinto y sexto párrafos; 75, fracción VI; 76, primero, segundo, tercero y sexto párrafos; 77; 81, fracciones VII y XVI; 86-A, fracciones I y III; 103, fracciones XI, XII, XV y XVI; 104, fracción IV; 105, fracción VIII; 107, segundo párrafo; 110, fracción V; 111, fracción V; 127, primer párrafo; 129, fracciones II, segundo párrafo y IV, segundo párrafo; 133-A, primer párrafo y fracción I, inciso a); 134, fracciones I, III y IV; 135, primer párrafo; 136, segundo párrafo; 139; 140; 141, fracción I; 142, fracción I; 145; 146, último párrafo; 150, cuarto párrafo; 167, fracción II; 182, fracción IV; 183, segundo párrafo; 184; 190, primer párrafo; 191; 196 y 196-A, penúltimo párrafo, se ADICIONAN los artículos 4o. con un último párrafo; 9o., fracción I, con un penúltimo y último párrafos; 14, fracciones V, inciso b) con un segundo párrafo y VI, inciso b) con un segundo párrafo; 17-A, con un último párrafo; 18-A, con un penúltimo párrafo; 22, con un quinto, décimo y décimo primer párrafos, pasando los actuales quinto a octavo párrafos a ser sexto a noveno párrafos y, del noveno al décimoprimer párrafos a ser decimosegundo a decimocuarto párrafos; 22-B, con una fracción IV; 22-C; 23, con un segundo párrafo; 25-A; 27, con un último párrafo; 29, fracción I, con un último párrafo; 32-B, fracciones, III con un último párrafo, VI y VIII; 32-G; 33, fracción I con un inciso h); 34 con un cuarto y quinto párrafos, pasando el actual cuarto a ser sexto párrafo; 38, con una fracción III, pasando las actuales III y IV a ser IV y V, y un segundo, tercer, cuarto, quinto y sexto párrafos; 41-B; 46-A, fracción IV al tercer párrafo; 52, fracciones I, inciso b) con un tercero y cuarto párrafos, III con un segundo párrafo y un último párrafo del artículo; 52-A, fracción I, con un tercer párrafo y, un antepenúltimo, penúltimo y último párrafos al artículo; 63 con un último párrafo; 66-A; 76, con un segundo, tercero, séptimo y noveno párrafos, pasando los actuales segundo a cuarto párrafos a ser cuarto a sexto, el actual quinto párrafo a ser octavo, y los actuales sexto y séptimo párrafos a ser décimo y decimoprimero; 81, fracciones V, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI; 82, fracciones V, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI; 83 fracción XVI; 84 fracción XIV; 91-C; 91-D; 102, con último párrafo; 103, fracciones XIX y XX, 105, fracción XIII con un segundo párrafo; 107, fracción V; 108, incisos f), y g); 133-A, fracción II; 134, fracción I con un tercer, cuarto, quinto, sexto y séptimo párrafos, y un tercer párrafo al artículo; 141, con un penúltimo y último párrafos al artículo; 143 con un último párrafo; 145-A; 146-C; 146-D, y se DEROGAN los artículos 25, último párrafo; 29, cuarto y quinto párrafos, pasando los actuales sexto a décimo tercer párrafos a ser cuarto a décimo primero párrafos; 29-A, último párrafo; 31, tercer y quinto párrafos, pasando el actual cuarto a ser tercer párrafo y los actuales sexto a décimo sexto párrafos a ser cuarto a décimo cuarto párrafos; 46-A, segundo párrafo; 52, último párrafo; 52-A, fracción I, último párrafo, fracción IV, y el último párrafo del artículo; 86-C; 86-D; 94; 109, fracciones VI y VII; 190, último párrafo; 192, fracción III y 193 del Código Fiscal de la Federación, para quedar de la siguiente manera:
 
-..........
-
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ARTÍCULO SEGUNDO. Para los efectos de lo dispuesto en el Código Fiscal de la Federación, se aplicarán las siguientes disposiciones:
@@ -8305,8 +8275,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2006
 
 ARTÍCULO DÉCIMO PRIMERO.- Se REFORMAN los artículos 32-C y 84-E del Código Fiscal de la Federación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8420,8 +8388,6 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ARTÍCULO PRIMERO. Se REFORMAN los artículos 27, primero y segundo párrafos; 34; 46, último párrafo; 52-A, actual penúltimo párrafo, y 76, primer párrafo; 134, fracción I, segundo párrafo y 146-C, fracción II y se ADICIONAN los artículos 30, con un quinto, séptimo y octavo párrafos, pasando el actual quinto párrafo a ser sexto párrafo, y los actuales sexto, séptimo y octavo párrafos a ser noveno, décimo y décimo primer párrafos; 32-D, con un quinto, sexto y séptimo párrafos; 42, con un tercero y cuarto párrafos; 46, con una fracción VIII; 46-A, con una fracción V, y 52-A, con un último párrafo, del Código Fiscal de la Federación, para quedar de la siguiente manera:
 
-..........
-
 Disposición Transitoria del Código Fiscal de la Federación
 
 ARTÍCULO SEGUNDO. En el supuesto de que los particulares soliciten y manifiesten su conformidad ante el Servicio de Administración Tributaria, éste último estará facultado para revocar las respuestas favorables recaídas a las consultas emitidas conforme al artículo 34 del Código Fiscal de la Federación vigente hasta antes de la entrada en vigor del presente decreto y que hayan sido notificadas antes de la citada fecha.
@@ -8480,8 +8446,6 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ARTÍCULO CUARTO. Se REFORMAN los artículos 19, primer párrafo; 22, el actual décimo segundo párrafo; 22-C; 26, fracción XVII; 42, fracción V, primer párrafo; 46, último párrafo; 50, último párrafo; 52-A, quinto párrafo; 63, primer párrafo y actuales segundo y tercer párrafos; 67, tercer párrafo; 69, primer y segundo párrafos; 81, fracción V; 89; 90; 139 y 165, actual primer y tercer párrafos; se ADICIONANlos artículos 18, octavo párrafo; 22, noveno, décimo, décimo primer y décimo octavo párrafos, pasando los actuales noveno a décimo cuarto párrafos a ser décimo segundo a décimo séptimo párrafos, respectivamente; 26, fracción III, tercer párrafo, inciso d); 46-A, segundo párrafo, fracción VI; 49, fracción VI, segundo párrafo; 59, fracción III, segundo, tercer y cuarto párrafos; 63, segundo párrafo, pasando los actuales segundo, tercero y cuarto párrafos a ser tercero, cuarto y quinto párrafos, respectivamente; 69, sexto párrafo; 108, tercer párrafo, pasando los actuales tercer a noveno párrafos a ser cuarto a décimo párrafos, respectivamente; 121, tercer párrafo, pasando los actuales tercer y cuarto párrafos a ser cuarto y quinto párrafos, respectivamente; 144, noveno y décimo párrafos, pasando los actuales noveno y décimo a ser décimo primero y décimo segundo párrafos, y 165, segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos, respectivamente, y se DEROGAN los artículos 91-C y 91-D, del Código Fiscal de la Federación, para quedar de la siguiente manera:
 
-..........
-
 Disposiciones Transitorias del Código Fiscal de la Federación
 
 ARTÍCULO QUINTO. En relación con las modificaciones a que se refiere el artículo tercero de este Decreto se estará a lo siguiente:
@@ -8505,8 +8469,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de julio de 2008
 
 Artículo Primero. Se adiciona un párrafo tercero, pasando los actuales tercer a sexto párrafos a ser cuarto a séptimo párrafos del artículo 69 del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -8578,8 +8540,6 @@ Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009
 
 ARTÍCULO PRIMERO. Se reforma el artículo 132, primer párrafo y se adicionan los artículos 123, último párrafo; 130, tercer y cuarto párrafos, pasando los actuales tercer a séptimo párrafos, a ser quinto a noveno párrafos, respectivamente; 131, último párrafo y 144, tercer párrafo, pasando los actuales tercer a décimo segundo párrafos, a ser cuarto a décimo tercer párrafos, respectivamente, del Código Fiscal de la Federación, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8593,8 +8553,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2009
 
 ARTÍCULO PRIMERO. Se reforman los artículos 32, cuarto párrafo, y 59, primer párrafo en su encabezado, y se adiciona el artículo 59, fracción IX, del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -8611,8 +8569,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2009
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ARTÍCULO NOVENO. Se REFORMAN los artículos 17-A, cuarto, sexto y actual séptimo párrafos; 22, sexto párrafo; 29; 29-A, fracciones II, VIII y IX, y segundo y tercer párrafos; 29-C, encabezado del primer párrafo, segundo y séptimo párrafos; 32-A, fracción I, primer párrafo, y II; 32-B, encabezado y fracciones IV y VII; 32-E; 40, encabezado del primer párrafo y fracción III; 41; 42, fracción V, primer párrafo; 49, fracción I; 63, primer párrafo; 65; 69, primer párrafo; 70, cuarto párrafo; 80, fracción II; 81, encabezado y fracción X; 82, encabezado y fracción X; 84, fracciones IV y VI; 84-A, encabezado y fracción VII; 84-B, encabezado y fracción VII; 84-G; 84-H; 113, encabezado y fracción III; 143 segundo párrafo; 145, séptimo párrafo; 151, cuarto párrafo; 155, fracción I, y 156-Bis; se ADICIONAN los artículos 15-C; 17-A con un séptimo y noveno párrafos, pasando los actuales séptimo y octavo párrafos a ser octavo y décimo párrafos; 20-Ter; 29-C con un tercer párrafo, pasando los actuales tercer y cuarto párrafos, a ser cuarto y quinto párrafos; 32, con un octavo párrafo; 40, con una fracción IV, y con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; 63, con un sexto párrafo; 81, con las fracciones XXXII, XXXIII, XXXIV y XXXV; 82, con las fracciones XXXII, XXXIII, XXXIV y XXXV; 84-A, con las fracciones VIII, IX y X; 84-B, con las fracciones VIII, IX y X; 84-I; 84-J; 84-K; 84-L; 109, primer párrafo con las fracciones VI, VII y VIII; 145-A, con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo, y con un quinto y sexto párrafos, y 156-Ter, y se DEROGA el artículo 29-C, actual quinto párrafo, del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
@@ -8712,8 +8668,6 @@ Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011
 
 ARTÍCULO TERCERO. Se REFORMA el artículo 69 párrafo segundo del Código Fiscal de la Federación, para quedar como sigue:
 
-.
-
 ARTÍCULOS TRANSITORIOS
 
 ARTÍCULO PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
@@ -8741,8 +8695,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 Artículo Único. Se reforman los artículos 14, segundo párrafo; 16-C, fracción III; 17-A, segundo párrafo; 17-D, décimo párrafo; 20, segundo párrafo; 20-Bis, primer párrafo, fracción II y segundo párrafo; 21, primer párrafo; 22-B; 27, primer párrafo; 28, cuarto párrafo; 29; 29-A; 29-B; 29-C; 32-B, fracción VII; 32-E, primer párrafo; 42, fracción V, primer párrafo; 47, primer párrafo; 52, tercer párrafo; 63, sexto párrafo; 69, primer párrafo; 70, tercer párrafo; 81, fracciones IX, XXXII y XXXV; 82, fracción XXXV; 83, fracciones VII, IX y XI; 84, fracciones IV y X; 84-B, fracción VII; 84-I; 84-J; 84-L; 100; 109, fracciones V y VII, y 185, segundo párrafo; se adicionan los artículos 20, con un décimo segundo párrafo, pasando el actual décimo segundo a ser décimo tercer párrafo; 28, con un quinto párrafo; 29-D, y 70, con un sexto párrafo, y se derogan los artículos 81, fracción XXXIII; 82, fracción XXXIII; 83, fracción XIV; 84, fracción XII; 109, fracción VI, y 113, fracción III, del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -8834,8 +8786,6 @@ Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013
 
 ARTÍCULO ÚNICO. Se reforman los artículos 14-B, tercer párrafo; 17-D, séptimo párrafo; 18, segundo párrafo; 18-A, tercer párrafo; 20, séptimo y actual décimo tercer párrafos; 22, sexto párrafo; 26, fracciones X, XI y XV; 26-A; 27, primero, décimo primero y décimo cuarto párrafos; 28; 29; 29-A; 30, primero, tercero y quinto párrafos; 30-A; 32, sexto párrafo; 32-A; 32-B, fracciones IV, V, VII y VIII, apartado B, primer y tercer párrafos; 32-D, fracción IV; 32-E, primer párrafo; el Capítulo Único del Título III, para quedar como Capítulo I; 33, fracción III, primer párrafo; 34-A, primer párrafo; 36-Bis, tercer párrafo; 38, fracción I, segundo párrafo, 40; 42, fracciones II, IV y V, primer párrafo, y tercer párrafo del artículo; 45; 46, fracción IV, cuarto párrafo; 46-A, apartados A y B; 47; 48, fracciones I, IV y VII; 50, primer párrafo; 52; 52-A; 53-A; 63, sexto párrafo; 65; 67, cuarto y sexto párrafos; 69, primero, segundo, cuarto y sexto párrafos; 70, cuarto párrafo; 73, fracción III; 74, primer párrafo; 76, décimo y décimo primer párrafos; 80, fracción II; 81, primer párrafo, y fracciones XI, XII, XIV, XVII, XXII, XXIV, XXV, XXVIII, XXIX; XXX y XXXI; 82, primer párrafo, y fracciones XI, XVI y XXVI; 83, primer párrafo, y fracciones VII, IX, X, XI y XV; 84, fracciones IV, incisos b) y c), VI, IX y X; 84-A, primer párrafo, y fracciones IV, VIII y actual IX; 84-B, fracciones VIII, IX y X; 84-G; 84-I; 85, fracción I; 86-A, primer párrafo, y fracciones I y III, 86-B, fracciones I y III; 91-A; 91-B; 105, fracción XII, primer párrafo y fracción XIV; 108, tercer párrafo y séptimo párrafo, inciso e); 109, fracción I; 110, fracción V; 111, fracciones V y VII; 117, fracción II, inciso b); 121, primer y segundo párrafos; 123, sexto párrafo; 130, tercer párrafo; 133-A, último párrafo; 134, fracción I; 137; 139; 141, primer, tercer, quinto y séptimo párrafos; 143, tercer párrafo, incisos a) y b) y actual cuarto párrafo del artículo; 144; 145; 146; 150, cuarto párrafo; 151; 152, primer y segundo párrafos; 156-Bis; 156-Ter; 160, primer párrafo; 172; 175; 176; 177, primer párrafo; 183, segundo párrafo; 184; 185, segundo párrafo; 196, y 196-A; se adicionan los artículos 10, fracción I, con un último párrafo; 17-H con una fracción X y un sexto párrafo; 17-K; 20, con un décimo tercer y décimo quinto párrafos, pasando el actual décimo tercer párrafo a ser décimo cuarto párrafo; 22, décimo noveno párrafo; 26, fracción XVIII; 31-A; 32-B, con las fracciones IX y X; 32-D, con un octavo párrafo; 32-H; 40-A; 42, con una fracción IX y un quinto párrafo; 53-B; 53-C; 58; 58-A; 66, con un tercer y cuarto párrafos; 69, con un octavo, noveno, décimo, décimo primero y décimo segundo párrafos; 69-B; el Capítulo II del Título III, denominado De los Acuerdos Conclusivos que comprende los artículos 69-C, 69-D, 69-E, 69-F, 69-G y 69-H; 81, con las fracciones XXXVI; XXXVII, XXXVIII y XXXIX; 82, con una fracción XXXVI; 83, con las fracciones XVII y XVIII; 84, con las fracciones XV y XVI; 84-A, con las fracciones IX, X, XII y XIII, pasando las actuales fracciones IX y X a ser las fracciones XI y XIV, respectivamente; 84-B, con las fracciones XI y XII; 86-A, con una fracción V; 86-B, con una fracción V; 86-G, 86-H; 86-I; 86-J; 95, con las fracciones VIII y IX; 108, séptimo párrafo con el inciso h); 110, con una fracción IV; 113, con una fracción III; 143, tercer párrafo, con un inciso c), y un cuarto párrafo, pasando el actual cuarto a ser quinto párrafo; 153, con un cuarto párrafo, pasando el actual cuarto a ser quinto párrafo; 155, fracción I, con un segundo párrafo; 157, fracción XIII; 160, cuarto párrafo, y se derogan los artículos 18, octavo párrafo; 29-B; 29-C, 29-D; 30, sexto y séptimo párrafos; 32, fracción III; 46, segundo párrafo; 50, sexto párrafo; 70-A, fracción III; 81, fracciones XIII, XV, XXXII y XXXV; 82, fracciones XXXII y XXXV; 83, fracciones VIII y XVI; 84, fracciones VII y XIV; 109, fracción VII; 117, fracción II, inciso d); 121, tercer párrafo; 124, fracción VI; 127, segundo párrafo; 129; 131, tercer párrafo; 145-A; 146-A, quinto párrafo; y 191, quinto, sexto y séptimo párrafos, del Código Fiscal de la Federación, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2014, con las salvedades previstas en el artículo transitorio siguiente.
@@ -8900,8 +8850,6 @@ A. Cantidades actualizadas establecidas en el Código.
 
 Nota: Se actualizan las cantidades establecidas en los artículos 20, séptimo párrafo; 22-C; 32-A, primer párrafo; 32-H, fracción I, primer párrafo; 59, fracción III, párrafo tercero; 80, fracción II; 82, fracciones X, XI, XVI, XXVI y XXXVI; 84, fracciones IV, incisos b) y c), VI, IX, XV y XVI; 84-B, fracciones VIII, IX, X, XI y XII; 86-B, fracciones I, III y V; 86-H, párrafos primero, segundo y tercero; y 86-J, primer párrafo.
 
-.
-
 Atentamente.
 
 México, D. F., a 18 de diciembre de 2013.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
@@ -8934,8 +8882,6 @@ A. Cantidades actualizadas establecidas en el Código.
 
 Nota: Se actualizan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-J, 84-L, 86, 86-B, 86-F, 88, 91, 102, 104, 112, 115 y 150.
 
-.
-
 Atentamente.
 
 México, D. F., a 17 de diciembre de 2014.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
@@ -8947,8 +8893,6 @@ Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ARTÍCULO SEXTO.- Se reforman los artículos 22, noveno párrafo; 29-A, fracción VII, inciso a), segundo párrafo; 32-D, fracción IV; 42, quinto párrafo; 53-B, fracciones I y II, segundo párrafo, y segundo párrafo del artículo; 81, primer párrafo;  82,  primer  párrafo  y  127; se adicionan los artículos 22-D; 32-B Bis; 33-B; 42, con un sexto y séptimo párrafos; 52-A, penúltimo párrafo, con un inciso l); 53-B, fracción I, con un segundo párrafo; 81, con las fracciones XL y XLI, y 82, con las fracciones XXXVII y XXXVIII, y se deroga el artículo 22, décimo párrafo, del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
@@ -8984,8 +8928,6 @@ f)	Los contribuyentes a que se refiere el inciso a) que enajenen sus artesanías
 
 g)	Las personas físicas que elaboren y enajenen artesanías con ingresos de hasta dos millones de pesos podrán, mediante comercializadores o entidades gubernamentales de fomento y apoyo a las artesanías, llevar a cabo su inscripción, emisión de comprobantes y presentación de declaraciones, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
@@ -8999,8 +8941,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2016
 
 ARTÍCULO SEXTO. Se reforma el artículo 111, fracción VII; y se deroga el artículo 115 Bis del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -9031,8 +8971,6 @@ Modificación al Anexo 5 de la Resolución Miscelánea Fiscal para 2014
 A. Cantidades actualizadas establecidas en el Código.
 
 Nota: Se actualizan diversas cantidades establecidas en los artículos 82, 84-H y 90.
-
-.
 
 Atentamente.
 
@@ -9098,8 +9036,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
 
 Artículo Tercero.- Se adiciona al Título V, Capítulo I, una Sección Cuarta denominada Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo que comprende los artículos 133-B, 133-C, 133-D, 133-E, 133-F y 133-G al Código Fiscal de la Federación, para quedar como sigue:
 
-.
-
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
 Artículo Cuarto.- En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
@@ -9133,8 +9069,6 @@ Nota: Se actualizan diversas cantidades establecidas en los artículos 20, 22-C,
 B.	Compilación de cantidades establecidas en el Código vigente.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
-
-.
 
 Ciudad de México, 04 de mayo de 2017.- El Jefe del Servicio de Administración Tributaria, Osvaldo Antonio Santín Quiroz.- Rúbrica.
 
@@ -9182,8 +9116,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
 
 Artículo Único. Se reforma el artículo 69-B del Código Fiscal de la Federación, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
@@ -9213,8 +9145,6 @@ Ciudad de México, a 17 de diciembre de 2018.- La Jefa del Servicio de Administr
 Publicado en el Diario Oficial de la Federación el 16 de mayo de 2019
 
 Artículo Único.- Se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -9249,8 +9179,6 @@ Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2019
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
 Artículo Séptimo.- Se reforman los artículos 17-D, quinto párrafo; 17-H, fracción X; 23, primer párrafo; 26, fracciones III, X, primer párrafo y XVII; 27; 30, último párrafo; 31-A, primer párrafo; 32-B, fracción V, primer párrafo; 32-D, párrafos primero y su fracción IV, tercero, sexto y séptimo; 33-B, 38, párrafo primero, fracción V; 42, primer párrafo; 49, primer párrafo y fracciones I y VI; 52, antepenúltimo párrafo, incisos b) y c); 53-B, último párrafo; 79, fracciones VII y VIII; 80, fracción VI; 81, fracción II; 83, fracción XVIII; 84, fracciones III y XVI; 134, fracción I, primer y quinto párrafos; 137, párrafos primero y segundo; se adicionan los artículos  5o-A; 17-H, con un séptimo párrafo; 17-H Bis; 17-K, con un tercer y cuarto párrafos; 31-A, primer párrafo, con los incisos a), b), c), d) y e) y un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser el tercer y cuarto párrafos; 32-D, con las fracciones V, VI, VII, VIII, y los párrafos noveno, décimo y décimo primero; 38, párrafo primero con una fracción VI y con un último párrafo; 42, con una fracción XI; 46-A, párrafo segundo con una fracción VII; 67, con un último párrafo; 69, décimo segundo párrafo con las fracciones VII, VIII y IX; 69-B Ter; 79, con una fracción X; 82-A; 82-B; 82-C; 82-D; 86-C; 86-D; 89, párrafo primero con una fracción IV; 146, con un último párrafo; con un Título Sexto denominado De la Revelación de Esquemas Reportables, con un Capítulo Único que comprende los artículos 197, 198, 199, 200, 201 y 202, y se derogan los artículos 32-D, cuarto párrafo; 41-B; 134, fracción V y 152, segundo párrafo, del Código Fiscal de la Federación, para quedar como sigue:
-
-..........
 
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
@@ -9310,8 +9238,6 @@ B. Compilación de cantidades establecidas en el Código vigente.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
 
-..
-
 Atentamente,
 
 Ciudad de México, a 8 de mayo de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.
@@ -9356,8 +9282,6 @@ B. Compilación de cantidades establecidas en el Código vigente.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 26, 32-A, 59, 80, 82, 82-B, 82-D, 84, 84-B, 86-B, 86-D, 86-H, 86-J y 90-A del Código Fiscal de la Federación.
 
-..
-
 Atentamente,
 
 Ciudad de México, a 22 de diciembre de 2020.- La Jefa del Servicio de Administración Tributaria,  Raquel Buenrostro Sánchez.- Rúbrica.
@@ -9367,8 +9291,6 @@ Ciudad de México, a 22 de diciembre de 2020.- La Jefa del Servicio de Administr
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 Artículo Cuarto. Se adicionan un artículo 15-D; una fracción XVI al artículo 26; un inciso h) a la fracción II del artículo 75; una fracción XLV al artículo 81; una fracción XLI al artículo 82, y un inciso i) al artículo 108 del Código Fiscal de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9436,8 +9358,6 @@ Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 Artículo Único.- Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9456,8 +9376,6 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 Artículo Séptimo. Se reforman los artículos 9o., fracción I, segundo párrafo y los párrafos segundo y tercero del artículo; 12, párrafo quinto; 14, párrafo segundo; 14-B, fracción II, inciso a), cuarto párrafo y el párrafo quinto del artículo; 15-A; 16-C, fracción III; 17-E; 17-G, fracción VII; 17-H, párrafo séptimo; 17-H Bis, fracciones V y VII y quinto párrafo del artículo; 17-I; 21, párrafos décimo y decimoprimero; 22, párrafos cuarto, séptimo, noveno, décimo, decimoquinto y decimoctavo; 22-C; 22-D, fracción VI; 25, párrafos primero y segundo; 25-A, párrafos tercero y cuarto; 26, fracciones V, VIII y XI; 27, Apartados B, fracción VI y C, fracción I, segundo párrafo; 28, fracción I, Apartado B; 29, párrafo primero, las fracciones I, III, IV, inciso a) y VI, tercer párrafo, y el párrafo tercero del artículo; 29-A, fracciones I y IV, párrafo primero y párrafos cuarto y quinto; 31, párrafos primero, cuarto, quinto, sexto, octavo y decimosegundo; 31-A, inciso d); 32-A, segundo, tercero, cuarto y quinto párrafos; 32-B, fracciones III, párrafos primero, segundo y tercero y VI; 32-B Bis, fracciones VII y VIII, y párrafo cuarto del artículo; 32-D, párrafos noveno y décimo; 33, fracción I, inciso c); 38, párrafo quinto; 41, párrafo primero y su fracción I; 42, párrafo primero; 46, fracción IV, párrafos quinto, sexto y séptimo; 46-A, Apartado B; 47, párrafo primero; 48, fracción VII; 49, párrafo primero y fracciones I y VI; 58, fracción I; 60, párrafo cuarto; 66, fracción II, párrafo primero; 67, párrafos cuarto, sexto y noveno; 69, párrafo cuarto; 69-G; 70-A, párrafo quinto; 74, párrafos primero, segundo y cuarto; 81, fracciones XVII y XXV; 82, fracción XXV; 83, fracciones X, XV y XVII; 84, fracción XVI y párrafo segundo del artículo; 86-A, fracción IV; 91-A, párrafo primero; 102, párrafos segundo y tercero; 103, fracción XX; 104, fracción IV; 106, fracción II, inciso c); 111 Bis, fracciones I, II y III; 121, párrafo tercero; 139; 144, párrafos segundo y tercero; 152, párrafo primero; 161, párrafo segundo; 176, párrafo segundo; 181, párrafos primero y segundo; 182, fracción III; 184, párrafo primero; 185, párrafo primero, y 186, párrafo primero; se adicionan los artículos 9o., con un párrafo cuarto; 12, con un párrafo séptimo; 14-B, con los párrafos sexto, séptimo, octavo y décimo, pasando el actual párrafo sexto a ser párrafo noveno y los actuales párrafos séptimo, octavo y noveno, a ser los párrafos decimoprimero, decimosegundo y decimotercero, en su orden; 15-B, con un párrafo tercero, pasando los actuales párrafos tercero y cuarto a ser cuarto y quinto párrafos; 17-D, con un párrafo sexto, pasando los actuales párrafos sexto a decimoprimero a ser séptimo a decimosegundo párrafos; 17-H, con el párrafo octavo; 17-H Bis, fracciones I, con un segundo párrafo, III, con un segundo párrafo, pasando el actual párrafo segundo a ser tercero, y XI, así como un párrafo séptimo, pasando los actuales párrafos séptimo y octavo a ser octavo y noveno párrafos; 22-D, con una fracción VII; 23, con los párrafos sexto al decimoctavo; 26, fracción IV, con un párrafo segundo; 27, Apartados A, con un párrafo quinto, C, con una fracción XIII, y D, fracción IX, con un inciso d); 29 Bis; 29-A, fracción V, con un segundo párrafo, pasando el actual párrafo segundo a ser tercero, así como con los párrafos sexto y séptimo; 30, con un párrafo noveno, pasando los actuales párrafos noveno a decimotercero a ser décimo a decimocuarto párrafos; 32-A, sexto y séptimo párrafos; 32-B Ter; 32-B Quáter; 32-B Quinquies; 32-D, con una fracción IX; 33, fracción I, con un inciso j); 32-H con una fracción VI; 42, fracción VI, con un párrafo segundo, y con las fracciones XII y XIII; 42-B; 48-A; 52, fracción III, con un párrafo tercero; 52-A, fracción III, quinto párrafo, con un inciso m); 55, con una fracción VII; 56, con una fracción VII; 69, párrafo decimosegundo, con una fracción X; 69-B, con un párrafo décimo; 69-C, con un párrafo cuarto; 76, con un párrafo noveno, pasando los actuales párrafos noveno y décimo a ser párrafos décimo y decimoprimero; 77, fracción III, con un párrafo segundo; 81, con una fracción XLVI; 82, con una fracción XLII; 82-E; 82-F; 82-G; 82-H; 83, con la fracción XIX; 84, fracción IV, con un inciso d); 84-M; 84-N; 86-A, con las fracciones VI, VII, VIII y IX; 86-B, con las fracciones VI y VII, y un párrafo tercero al artículo; 86-G, con un párrafo tercero; 86-H, con un párrafo quinto; 87, con una fracción VI; 96, con una fracción III; 103, con las fracciones XXII y XXIII; 104, con un párrafo tercero; 108, párrafo séptimo, con los incisos j) y k); 111 Bis, con las fracciones IV, V y VI, así como un párrafo segundo, pasando el actual párrafo segundo a ser párrafo tercero; 121, con un párrafo cuarto, pasando el actual párrafo cuarto a ser párrafo quinto; 142, con una fracción IV, pasando la actual fracción IV a ser V, y 151 Bis, y se derogan los artículos 9o., fracción I, párrafo tercero; 27, Apartados B, fracción VIII, párrafo segundo, C, fracción VI, párrafo segundo; 29, fracción IV, párrafos segundo, tercero, cuarto y quinto; 31 párrafos decimoquinto y decimosexto; 32-B Bis, fracción IX; 38, párrafo sexto; 81, fracción XLIII; 82, fracción XL; 105, fracciones XII, párrafo segundo y XIII, párrafo segundo; 137, párrafo tercero; 144, párrafo décimo, y 146-B, del Código Fiscal de la Federación, para quedar como sigue:
 
-.........
-
 DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
 Artículo Octavo. En relación con las modificaciones al Código Fiscal de la Federación a que se refiere el Artículo Séptimo de este Decreto, se estará a lo siguiente:
@@ -9475,8 +9393,6 @@ V.	Cuando las personas morales precisen, ante fedatario público, en el instrume
 VI.	Para los efectos de lo previsto en el artículo 27, Apartado A, párrafo quinto del Código Fiscal de la Federación, la inscripción al Registro Federal de Contribuyentes de personas físicas mayores de edad que no realicen alguna actividad económica se entenderá que no genera obligaciones fiscales hasta en tanto se incorporen a alguna actividad económica, por lo que no dará lugar a la aplicación de sanciones, entre ellas la prevista en el artículo 80, fracción I, de dicho Código.
 
 Artículo Decimoprimero. Se reforma el artículo Segundo, fracción XXII, primer párrafo, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, publicado en el Diario Oficial de la Federación el 5 de enero de 2004, para quedar como sigue:
-
-.
 
 Artículo Decimosegundo. Se deroga el artículo transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, publicado en el Diario Oficial de la Federación el 1 de junio de 2018.
 
@@ -9522,8 +9438,6 @@ B. Compilación de cantidades establecidas en el Código.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
 
-..
-
 Atentamente,
 
 Ciudad de México, a 16 de diciembre de 2022.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -9541,8 +9455,6 @@ CONTROVERSIAS CONSTITUCIONALES Y DE
 ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
-
-P R E S E N T E
 
 PRIMERO. Es improcedente la acción de inconstitucionalidad 308/2020.
 
@@ -9574,8 +9486,6 @@ B. Compilación de cantidades establecidas en el CFF.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
 
-..
-
 Atentamente.
 
 Ciudad de México, a 15 de diciembre de 2023.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -9602,8 +9512,6 @@ Ciudad de México. El Pleno de la Suprema Corte de Justicia de la Nación, en se
 
 SENTENCIA
 
-..
-
 VIII. EFECTOS.
 
 166.	Los efectos de esta sentencia se determinan conforme a lo establecido en el artículo 41, fracciones IV y V, así como el diverso 45, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, que disponen que este Tribunal Constitucional debe fijar con precisión los alcances de la sentencia, los órganos obligados a cumplirla, el término para el cumplimiento y que surtirán sus consecuencias a partir de la fecha que determine la Suprema Corte de Justicia de la Nación, ya que éstas no tendrán efectos retroactivos, salvo en materia penal.
@@ -9611,8 +9519,6 @@ VIII. EFECTOS.
 167.	Atendiendo a las razones expuestas en el considerando anterior de esta sentencia, se declara la invalidez de la porción normativa del párrafo tercero del artículo 17-F del Código Fiscal de la Federación, que establece así como el de la verificación de identidad de los usuarios, por lo que ese párrafo debe quedar de la siguiente manera:
 
 Artículo 17-F. El Servicio de Administración Tributaria podrá proporcionar los siguientes servicios de certificación de firmas electrónicas avanzadas:
-
-[]
 
 Los particulares que determinen el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
 
@@ -9631,8 +9537,6 @@ QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, as�
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos propuestos.
 
@@ -9656,8 +9560,6 @@ B. Compilación de cantidades establecidas en el CFF.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 84-N, 86, 86-B, 86-D, 86-F, 86-H, 86-J, 88, 90, 90-A, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
 
-.
-
 Atentamente.
 
 Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -9667,8 +9569,6 @@ Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jef
 Publicado en el Diario Oficial de la Federación el 16 de octubre de 2025
 
 Artículo Segundo.- Se adicionan las fracciones X, XI y XII al artículo 124 del Código Fiscal de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9694,8 +9594,6 @@ Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2025
 
 Artículo Único.- Se reforman los artículos 17-F, último párrafo; 17-H Bis, fracciones I, segundo párrafo, VII y IX; 27, apartado C, fracciones XII y XIII; 29-A, cuarto párrafo; 36, tercer párrafo; 42, fracción V, segundo párrafo, así como los actuales quinto y sexto párrafos; 45, primer párrafo; 48, segundo párrafo; 52, fracción III, tercer párrafo; 59, fracción III, párrafos primero, segundo y tercero; 81, primer párrafo y fracción I; 82, primer párrafo; 83, fracción IX; 84, fracción IV, inciso b); 103, fracción XIII; 105, fracción I; 113 Bis, actual segundo párrafo; 141, primer párrafo y fracciones I, II, III, IV, V y VI, y segundo, tercero y séptimo párrafos; 143, primer párrafo; 144, segundo y tercer párrafos; 145, segundo párrafo, fracciones V y VI, quinto párrafo; 150, fracción II y cuarto párrafo; 151, fracción I, tercer párrafo; 156-Bis, fracción II, cuarto párrafo; 156-Ter, fracciones II y III y segundo párrafo; se adicionan los artículos 17-H, con la fracción XIII; 17-H Bis, con las fracciones XII, XIII y XIV; 27, apartado C, fracciones VI, con un segundo párrafo y XIV; 29-A, fracción V, con un inciso f), con la fracción IX, pasando la actual fracción IX a ser fracción X; 29-A Bis; 30-B; 42, fracción V, con un inciso g) y un tercer párrafo, pasando el actual tercer párrafo de dicha fracción a ser cuarto párrafo de la misma, así como un tercer párrafo a dicho artículo, pasando los actuales tercer, cuarto, quinto, sexto y séptimo párrafos a ser cuarto, quinto, sexto, séptimo y octavo del mismo; 49 Bis; 81, fracción XXV, segundo párrafo, con un inciso i); 82, fracciones I, con un nuevo inciso e), pasando el actual inciso e) a ser inciso f) y XXV, con el inciso i); 103, con las fracciones XXIV, XXV, XXVI y XXVII; 104, con una fracción V; 105, con una fracción XVIII; 113 Bis, con un segundo, tercero y cuarto párrafos, pasando los actuales segundo, tercero, cuarto y quinto párrafos a ser quinto, sexto, séptimo y octavo párrafos; 115 Ter, y 141, con un último párrafo; y se deroga el artículo 66-A, fracción VI, inciso b), del Código Fiscal de la Federación, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, salvo lo dispuesto en el artículo 30-B de este ordenamiento, el cual entrará en vigor el 1 de abril de 2026.
@@ -9713,8 +9611,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Tercero. Se reforma el párrafo sexto del artículo 130 del Código Fiscal de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9750,8 +9646,6 @@ B. Compilación de cantidades establecidas en el CFF.
 
 Nota: Se compilan diversas cantidades establecidas en los artículos 20, 26, 32-A, 59, 80, 82, 82-B, 82-D, 82-F, 82-H,  84, 84-B, 84-N, 86-B, 86-D, 86-H y 86-J del Código Fiscal de la Federación.
 
-.
-
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -9761,8 +9655,6 @@ Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jef
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2026
 
 Artículo Único.- Se reforma el artículo 141, párrafos primero y segundo, del Código Fiscal de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9776,101 +9668,27 @@ Ciudad de México, a 7 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Ö
-
-Ù
-
-Ê
-
-Ë
-
-­
-
-®
-
-"
-
-#
-
-®
-
-±
-
-²
-
 Æ>a$gdªu$a$gd~Æ"#»¿Àôùúcgh¿ÂÃ59:­²à¦³¶÷îÜÌîÜÌîÜÌîÜÌîÜÌîÜÌºªwj^NhÃ
-
-úhÃ
-
-úhÃ
 
 ìhPb6B*CJPJ]aJphÌ3!hPb6B*CJPJ]aJphÌ3'h³
 
 ìh)J6B*CJPJ]aJphÌ3/h³
 
-^
-
-b
-
-^
-
 ìh_å6B*CJPJ]aJphÌ3!h_å6B*CJPJ]aJphÌ3'h³
 
 ìhÝ6B*CJPJ]aJphÌ3/h³
 
-h³
-
-CJPJaJnH	tH	#h³
-
-h³
-
-[[r]
-
 WWXX^Y_YZZ[
-
-[r]s]__`
 
 -.2b ®¯ÃIJNpqu%ñäÚäÉ»É°ñä¢ä°ñä°ñä|qbqbqbq¢ä¢ä¢bhGZhz;B*CJ^JphhGZhz;CJ^JhGZhz;5CJ^Jhz;5CJ^J hGZhz;5B*CJ^Jphhz;5B*CJ^Jphhz;5CJPJ^Jhz;B*CJPJ^Jph!hGZhz;B*CJPJ^Jphhz;CJPJ^JhGZhz;CJPJ^JhGZhz;5CJPJ^J&IJpq&'·¸  ¡¡±£²£5¥6¥§§¨¨©
 
-/CJPJaJhq&h
-
 /CJaJnH	tH	hq&h
 
 /CJaJnH	tH	hq&h
-
-/$
-
-<$`Àý^``Àýa$gd
-
-<$ ` a$gd
-
-Æ>a$gdµ=$ ` a$gdµ=¦§µøùü´µ¹:;@ÛÜàóôõ÷näåè¬»
-
-<h
-
-<h
-
-<h
-
-<h
-
-<$`^`a$gd
-
-<$`Àý^``Àýa$gd
-
-<h
-
-<h
-
-<h
 
 ìh_å6B*CJPJ]aJphÌ3'h³
 
 ìhX ß6B*CJPJ]aJphÌ3/h³
-
-&
-
-2
 
 h£!5CJaJhh
 
@@ -9906,16 +9724,6 @@ hD5CJhDCJaJ!hgI6B*CJPJ]aJphÌ3'h³
 
 ìhX ß6B*CJPJ]aJphÌ3/h³
 
-û
-
-ü
-
-$
-
-ü
-
-'(/Øßíô'/¥
-
 Æ>a$gd~P/$ ` a$gd~P/49>DENOp~¥´ÁÂîÖÁÖîÖÁÖ¬vbQ@!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
 
 ìhBá6B*CJPJ]aJphÌ3'hBáhBá6B*CJPJ]aJphÌ3!hBá6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
@@ -9927,10 +9735,6 @@ $
 ìhBá6B*CJPJ]aJphÌ3E F Q!r!¿!À!÷!"¥"ò"ó"##$#êÕÍÅêê½Íµ¥y
 
 h³DfCJaJ
-
-hf,Ô5CJ
-
-hD5CJ
 
 ìh½t6B*CJPJ]aJphÌ3!h½t6B*CJPJ]aJphÌ3!hn6B*CJPJ]aJphÌ3
 
@@ -9944,13 +9748,9 @@ hD5CJ
 
 h³DfCJaJ
 
-hf,Ô5CJ
-
 h³Df5CJaJhh
 
 h³DfCJaJ
-
-hf,Ô5CJ
 
 ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
 
@@ -9960,13 +9760,9 @@ h³Df5CJaJhh
 
 h³DfCJaJ
 
-hf,Ô5CJ
-
 ìh	D6B*CJPJ]aJphÌ3!h	D6B*CJPJ]aJphÌ3!h³\!6B*CJPJ]aJphÌ3'h³
 
 h³DfCJaJ
-
-he£5CJ
 
 hD5CJ!heÙ6B*CJPJ]aJphÌ3'h³
 
@@ -9987,8 +9783,6 @@ hD5CJ!heÙ6B*CJPJ]aJphÌ3'h³
 hÏTú5CJaJhh
 
 hÏTúCJaJ
-
-he£5CJ
 
 hÏTúCJaJhh
 
@@ -10036,8 +9830,6 @@ hÏTúCJaJhh
 
 hÏTúCJ
 
-he£5CJ
-
 ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
 
 ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
@@ -10047,8 +9839,6 @@ he£5CJ
 hÏTú5CJaJhh
 
 hÏTúCJaJ
-
-he£5CJ
 
 ìhI#F6B*CJPJ]aJphÌ3!hI#F6B*CJPJ]aJphÌ3ãBòBûBüBC+C-C.C=CGCRCaCmCoCçÖ¾©¾o^J9(!hI#F6B*CJPJ]aJphÌ3!h©<6B*CJPJ]aJphÌ3'h³
 
@@ -10236,8 +10026,6 @@ hD5CJ!hu06B*CJPJ]aJphÌ3'h³
 
 ìhyVv6B*CJPJ]aJphÌ3/h³
 
-hy]5CJ
-
 ìhI76B*CJPJ]aJphÌ3!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
 
 ìhI76B*CJPJ]aJphÌ3!hI76B*CJPJ]aJphÌ3!hL1÷6B*CJPJ]aJphÌ3'h³
@@ -10284,21 +10072,13 @@ hy]5CJ
 
 ìh¾Z56B*CJPJ]aJphÌ3/h³
 
-hE_5CJ
-
-hE_5CJ
-
 hD5CJ!h9E6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3'h³
 
 ìhN6B*CJPJ]aJphÌ3¯ô±ô²ôÁôËôÖôåôñôóôõ
 
 ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
 
-hE_5CJ
-
 ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
-
-hE_5CJ
 
 ìhN6B*CJPJ]aJphÌ3!hN6B*CJPJ]aJphÌ3!h@þ6B*CJPJ]aJphÌ3'h³
 
@@ -10321,8 +10101,6 @@ hD5CJ!hÀl6B*CJPJ]aJphÌ3!hZ²6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
 ìhÏTv6B*CJPJ]aJphÌ3/h³
 
 ìhÏTv6B*CJPJ]aJphÌ3/h³
-
-é
 
 ìh®^m6B*CJPJ]aJphÌ3!h®^m6B*CJPJ]aJphÌ3'h³
 
@@ -10350,2317 +10128,21 @@ hD5CJ!hÀl6B*CJPJ]aJphÌ3!hZ²6B*CJPJ]aJphÌ3!h5B6B*CJPJ]aJphÌ3'h³
 
 ìh?_6B*CJPJ]aJphÌ3!h?_6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
 
-hÞv#5CJ
-
-hÞv#5CJ
-
 ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
 
 ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h~	6B*CJPJ]aJphÌ3'h³
 
-Ð	Ð	Ð	Ð	Ð	¤Ð	ôÐ	Ñ	Ñ
-
 ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h²nC6B*CJPJ]aJphÌ3'h³
 
 ìh@I6B*CJPJ]aJphÌ3!h@I6B*CJPJ]aJphÌ3!h²nC6B*CJPJ]aJphÌ3'h³
-
-&hÂ
-
-&$`Àý^``Àýa$gdÂ
-
-&hÂ
-
-&hÂ
-
-&hÂ
-
-&hÂ
-
-&hÂ
-
-&$a$gdÂ
-
-&$`Àý^``Àýa$gdÂ
-
-&hÂ
-
-!
 
 ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
-
-!
-
-3
 
 ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
 
 Æ>a$gdó$ ` a$gdó
 
-Æ>a$gdÀi$ ü^` üa$gdÀi$
-
-$/%0%1%A%N%O%]%¨%©%
-
 ìh?ÿ6B*CJPJ]aJphÌ3!h?ÿ6B*CJPJ]aJphÌ3!h6B*CJPJ]aJphÌ3'h³
-
-¢
-
-£
-
-¢
-
-$&dPÆÿa$$
-
-Æha$$
-
-Æh!`!a$$
-
-Æ¨~	>þdð^~	`>þ%
-
-Æ¨	Bþdð^	`Bþ$
-
-Æ¨~	>þdð^~	`>þ$
-
-Æ$	¨¨
-
-ûdð^¨`
-
-û%
-
-Æ$	¨¨ûdð^¨`û%
-
-Æ$	¨¨
-
-ûdð^¨`
-
-O
-
-v
-
-w
-
-î
-
-ï
-
-D
-
-E
-
-]
-
-^
-
-¥
-
-¦
-
-Þ
-
-ß
-
-³
-
-S
-
-î
-
-ò
-
-:
-
-E
-
-]
-
-^
-
-g
-
-¦
-
-®
-
-õ
-
-1
-
-D
-
-X
-
-o
-
-­
-
-Ä
-
-ß
-
-H
-
-e
-
-§
-
-´
-
-N
-
-O
-
-`
-
-a
-
-¤
-
-±
-
-N
-
-O
-
-£
-
-¤
-
-±
-
-²
-
-+
-
-,
-
-l
-
-m
-
-V
-
-W
-
-2
-
-3
-
-@
-
-A
-
-²
-
-»
-
-)
-
-,
-
-5
-
-'
-
-«
-
-Ç
-
-Û
-
-ï
-
-»
-
-æ
-
-ý
-
-?
-
-@
-
-A
-
-­
-
-¿
-
-Ã
-
-Ë
-
-å
-
-î
-
-o
-
-v
-
-Ü
-
-Ý
-
-ï
-
-a
-
-e
-
-_!
-
-d!
-
-â!
-
-è!
-
-]#
-
-b#
-
-$
-
-$
-
-°%
-
-µ%
-
-¾&
-
-Ä&
-
-Õ(
-
-Ü(
-
-¬
-
-­
-
-Ü
-
-Ý
-
-`
-
-a
-
-^!
-
-_!
-
-á!
-
-â!
-
-\#
-
-]#
-
-$
-
-$
-
-¯%
-
-°%
-
-½&
-
-¾&
-
-Ô(
-
-Õ(
-
-<+
-
-=+
-
-=+
-
-I+
-
-J+
-
-Q+
-
-Ã+
-
-Ú+
-
-ì+
-
-,
-
-,
-
-1,
-
-D,
-
-W,
-
-Þ-
-
-û-
-
-&.
-
-=.
-
-I.
-
-J.
-
-d/
-
-e/
-
-f/
-
-±/
-
-²/
-
-Ò/
-
-ä/
-
-9
-
-Ú9
-
-Û9
-
-í9
-
-1:
-
-5:
-
-­;
-
-²;
-
-ÿ<
-
-=
-
-=
-
-=
-
-$>
-
-C>
-
-a>
-
-e>
-
-A
-
-A
-
-ÿG
-
-H
-
-I
-
-!I
-
-ÿJ
-
-K
-
-ZL
-
-^L
-
-ÓO
-
-ØO
-
-Q
-
-¢Q
-
-xS
-
-S
-
-S
-
-S
-
-I+
-
-J+
-
-+
-
-+
-
-q,
-
-r,
-
-I.
-
-e/
-
-f/
-
-±/
-
-²/
-
-Ñ/
-
-Ò/
-
-9
-
-9
-
-9
-
-9
-
-Ú9
-
-Û9
-
-0:
-
-1:
-
-¬;
-
-­;
-
-þ<
-
-ÿ<
-
-=
-
-=
-
-`>
-
-a>
-
-A
-
-A
-
-C
-
-C
-
-D
-
-D
-
-9E
-
-:E
-
-úF
-
-ûF
-
-þG
-
-ÿG
-
-I
-
-I
-
-þJ
-
-ÿJ
-
-YL
-
-ZL
-
-ÚM
-
-ÛM
-
-ÒO
-
-ÓO
-
-Q
-
-Q
-
-wS
-
-xS
-
-S
-
-S
-
-ËS
-
-ÌS
-
-®T
-
-¯T
-
-V
-
-#W
-
-$W
-
-jW
-
-kW
-
-W
-
-W
-
-ûS
-
-T
-
-!T
-
-6T
-
-JT
-
-hT
-
-|T
-
-T
-
-V
-
-:V
-
-eV
-
-|V
-
-V
-
-#W
-
-$W
-
-jW
-
-kW
-
-W
-
-W
-
-W
-
-¡W
-
-¨W
-
-X
-
-X
-
-X
-
-#X
-
-qX
-
-X
-
-¾X
-
-ÜX
-
-ðX
-
-Y
-
-Y
-
-+Y
-
-?Y
-
-XY
-
-oY
-
-pY
-
-ÜZ
-
-ùZ
-
-$[
-
-=[
-
-I[
-
-J[
-
-¢[
-
-£[
-
-¤[
-
-ï[
-
-ð[
-
-\
-
-"\
-
-$\
-
--\
-
-'a
-
-1a
-
-pg
-
-wg
-
-Gh
-
-h
-
-h
-
-h
-
-i
-
-i
-
-¼j
-
-Àj
-
-©k
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-rY
-
-sY
-
-I[
-
-£[
-
-¤[
-
-ï[
-
-ð[
-
-\
-
-\
-
-:h
-
-;h
-
-Fh
-
-Gh
-
-h
-
-h
-
-i
-
-i
-
-»j
-
-¼j
-
-¨k
-
-©k
-
-l
-
-l
-
-In
-
-Jn
-
-0o
-
-1o
-
->o
-
-?o
-
-o
-
-o
-
-âo
-
-ão
-
-Ñp
-
-Òp
-
-®r
-
-ór
-
-ôr
-
-?s
-
-@s
-
-_s
-
-`s
-
-®k
-
-Jn
-
-Nn
-
-1o
-
->o
-
-?o
-
-Ho
-
-o
-
-o
-
-p
-
-0p
-
-Dp
-
-Wp
-
-kp
-
-p
-
-p
-
-·p
-
-Îp
-
-Ïp
-
-Ar
-
-^r
-
-r
-
-¢r
-
-®r
-
-¯r
-
-òr
-
-ór
-
-ôr
-
-?s
-
-@s
-
-`s
-
-qs
-
-us
-
-}s
-
-u
-
-£u
-
-íw
-
-ôw
-
-x
-
-Âx
-
-Ãx
-
-Ôx
-
-Ey
-
-Iy
-
-dz
-
-hz
-
-|
-
-|
-
-|
-
-!|
-
-|
-
-¦|
-
-º|
-
-Ï|
-
-ô|
-
-}
-
-}
-
-3}
-
-J}
-
-M}
-
-wx
-
-xx
-
-x
-
-x
-
-Âx
-
-Ãx
-
-Dy
-
-Ey
-
-cz
-
-dz
-
-|
-
-|
-
-|
-
-|
-
-\|
-
-]|
-
-M}
-
-N}
-
-,
-
-m
-
-n
-
-¹
-
-º
-
-½~
-
-Ú~
-
-,
-
--
-
-l
-
-m
-
-n
-
-¹
-
-º
-
-Ú
-
-ì
-
-ï
-
-÷
-
-h
-
-r
-
-S
-
-Z
-
-Ô
-
-$
-
-S
-
-X
-
-n
-
-s
-
-r
-
-u
-
-Ý
-
-Þ
-
-á
-
-!
-
-%
-
-Ò
-
-×
-
-G
-
-J
-
-ä
-
-ç
-
-Ù
-
-Ú
-
-È
-
-É
-
-Ó
-
-Ô
-
-R
-
-S
-
-m
-
-n
-
-q
-
-r
-
-Ý
-
-Þ
-
-!
-
-Ñ
-
-Ò
-
-F
-
-G
-
-ã
-
-ä
-
-z
-
-{
-
-0
-
-1
-
-í
-
-î
-
-¯
-
-°
-
-ã
-
-ä
-
-«
-
-¬
-
-n
-
-o
-
-{
-
-1
-
-6
-
-î
-
-ò
-
-¯
-
-ä
-
-ç
-
-«
-
-¬
-
-¯
-
-o
-
-r
-
-Ô
-
-Õ
-
-Ø
-
-P
-
-Q
-
-T
-
-p
-
-s
-
-Ü
-
-ß
-
-V
-
-Y
-
-Ã
-
-Æ
-
-ÿ
-
-¡
-
-.¢
-
-1¢
-
-À¢
-
-Ä¢
-
-Æ£
-
-§
-
-§
-
-Ù©
-
-Ü©
-
-j«
-
-m«
-
-¬
-
-¬
-
-Ì±
-
-Ò±
-
-o²
-
-r²
-
-å²
-
-è²
-
-,³
-
--³
-
-0³
-
-S³
-
-V³
-
-³
-
-³
-
-Ú³
-
-Û³
-
-Þ³
-
-´
-
-´
-
-´
-
-´
-
-´
-
-/µ
-
-0µ
-
-3µ
-
-Ò¶
-
-Õ¶
-
-f·
-
-i·
-
-þ·
-
-¸
-
-#¸
-
-&¸
-
-Ì¸
-
-Ï¸
-
-Çº
-
-Êº
-
-Í»
-
-Ð»
-
-¬¼
-
-¯¼
-
-½
-
-Ô
-
-Õ
-
-P
-
-Q
-
-o
-
-p
-
-Û
-
-Ü
-
-U
-
-V
-
-Â
-
-Ã
-
-þ
-
-ÿ
-
--¢
-
-.¢
-
-¿¢
-
-À¢
-
-Æ£
-
-Ç£
-
-R¤
-
-S¤
-
-;¥
-
-<¥
-
-§
-
-§
-
-Ø©
-
-Ù©
-
-i«
-
-j«
-
-¬
-
-¬
-
-Ó­
-
-Ô­
-
-®
-
-®
-
-6¯
-
-7¯
-
-®¯
-
-¯¯
-
-!±
-
-"±
-
-Ë±
-
-Ì±
-
-n²
-
-o²
-
-ä²
-
-å²
-
-,³
-
--³
-
-R³
-
-S³
-
-³
-
-³
-
-Ú³
-
-Û³
-
-´
-
-´
-
-´
-
-´
-
-/µ
-
-0µ
-
-Ñ¶
-
-Ò¶
-
-e·
-
-f·
-
-ý·
-
-þ·
-
-"¸
-
-#¸
-
-Ë¸
-
-Ì¸
-
-Æº
-
-Çº
-
-Ì»
-
-Í»
-
-«¼
-
-¬¼
-
-½
-
-½
-
-+¿
-
-,¿
-
-À
-
-À
-
-À
-
-À
-
-Á
-
-Á
-
-zÂ
-
-{Â
-
-/Ã
-
-0Ã
-
-Ä
-
-Ä
-
-Ä
-
-Ä
-
-Å
-
-Å
-
-Ç
-
-Ç
-
-ÕÇ
-
-ÖÇ
-
-È
-
-½
-
-À
-
-À
-
-Á
-
-Á
-
-{Â
-
-~Â
-
-/Ã
-
-0Ã
-
-3Ã
-
-Ä
-
-Ä
-
-Ä
-
-Ä
-
-Å
-
-Å
-
-Ç
-
-Ë
-
-Ë
-
-Ì
-
-Ì
-
-Í
-
-£Í
-
-Ï
-
-Ï
-
-Ï
-
-Ï
-
-¡Ï
-
-¢Ï
-
-­Ï
-
-®Ï
-
-¹Ï
-
-ºÏ
-
-ÅÏ
-
-ÆÏ
-
-vÒ
-
-yÒ
-
-AÓ
-
-DÓ
-
-ÅÓ
-
-ÈÓ
-
-&Ö
-
-yÖ
-
-zÖ
-
-Ö
-
-×
-
-×
-
-×
-
-×
-
-¬Ø
-
-±Ø
-
-ÈÚ
-
-ÉÚ
-
-È
-
-^Ê
-
-_Ê
-
-Ë
-
-Ë
-
-Ì
-
-Ì
-
-Í
-
-Í
-
-»Î
-
-¼Î
-
-Ï
-
-Ï
-
-Ï
-
-Ï
-
-Ï
-
-Ï
-
-¡Ï
-
-¢Ï
-
-§Ï
-
-­Ï
-
-®Ï
-
-³Ï
-
-¹Ï
-
-ºÏ
-
-¿Ï
-
-ÅÏ
-
-ÆÏ
-
-ÇÏ
-
-õÐ
-
-öÐ
-
-2Ò
-
-3Ò
-
-uÒ
-
-vÒ
-
-@Ó
-
-AÓ
-
-ÄÓ
-
-ÅÓ
-
-Ô
-
-Ô
-
-pÕ
-
-qÕ
-
-%Ö
-
-&Ö
-
-yÖ
-
-zÖ
-
-×
-
-×
-
-×
-
-×
-
-«Ø
-
-¬Ø
-
-ÈÚ
-
-ÉÚ
-
-ÖÚ
-
-×Ú
-
-ÖÚ
-
-×Ú
-
-ßÚ
-
-Û
-
-'Û
-
-²Û
-
-ÑÛ
-
-ÐÜ
-
-çÜ
-
-ûÜ
-
-Ý
-
-1Ý
-
-KÝ
-
-_Ý
-
-tÝ
-
-Ý
-
-Ý
-
-æÞ
-
-ùÞ
-
-$ß
-
-:ß
-
-Gß
-
-´ß
-
-µß
-
-þß
-
-ÿß
-
-à
-
-dà
-
-eà
-
-à
-
-à
-
-à
-
-à
-
-à
-
-¦à
-
-§à
-
-¨à
-
-ªà
-
-«à
-
-Éà
-
-Êà
-
-Ëà
-
-Îà
-
-Ïà
-
-Üà
-
-Ýà
-
-äà
-
-8á
-
-Wá
-
-Zá
-
-á
-
-uâ
-
-â
-
-â
-
-Íâ
-
-Îâ
-
-/ã
-
-0ã
-
-Û
-
-Û
-
-Ü
-
-¡Ü
-
-Ý
-
-Ý
-
-Fß
-
-´ß
-
-µß
-
-þß
-
-ÿß
-
-cà
-
-dà
-
-à
-
-ªà
-
-Îà
-
-Ïà
-
-Üà
-
-Ýà
-
-Yá
-
-Zá
-
-fá
-
-gá
-
-á
-
-á
-
-â
-
-â
-
-Íâ
-
-Îâ
-
-/ã
-
-0ã
-
-çã
-
-èã
-
-éã
-
-6ã
-
-æã
-
-èã
-
-å
-
-å
-
-&å
-
-'å
-
-å
-
-å
-
-å
-
-Ýå
-
-Þå
-
-æå
-
-Jæ
-
-Wæ
-
-Xæ
-
-aæ
-
-µæ
-
-Ôæ
-
-gç
-
-}ç
-
-ç
-
-ç
-
-ç
-
-¿ç
-
-Àç
-
-è
-
-!è
-
-"è
-
-(è
-
-Øè
-
-Úè
-
-Ûè
-
-jé
-
-é
-
-é
-
-é
-
-÷é
-
-øé
-
-ùé
-
-Aê
-
-Bê
-
-ê
-
-ê
-
-êê
-
-ðê
-
-ë
-
-¢ë
-
-2ì
-
-õã
-
-öã
-
-ä
-
-ä
-
-&å
-
-å
-
-å
-
-Ýå
-
-Þå
-
-Jæ
-
-Wæ
-
-Xæ
-
-×æ
-
-Øæ
-
-äæ
-
-åæ
-
-ç
-
-ç
-
-ç
-
-ç
-
-¿ç
-
-Àç
-
-!è
-
-"è
-
-Ùè
-
-Úè
-
-Ûè
-
-çè
-
-èè
-
-é
-
-é
-
-é
-
-øé
-
-ùé
-
-Aê
-
-Bê
-
-ê
-
-ê
-
-éê
-
-êê
-
-¡ë
-
-¢ë
-
-£ë
-
-¯ë
-
-°ë
-
-Òë
-
-Óë
-
-Tì
-
-ùì
-
-úì
-
-Bí
-
-Cí
-
-í
-
-í
-
-êí
-
-ëí
-
-¢î
-
-Hì
-
-Uì
-
-ùì
-
-úì
-
-Bí
-
-Cí
-
-í
-
-í
-
-ëí
-
-ñí
-
-¡î
-
-£î
-
-±î
-
-7ï
-
-Mï
-
-Pï
-
-Yï
-
-Zï
-
-Ìï
-
-Íï
-
-ð
-
-ð
-
-!ð
-
-÷ð
-
-ñ
-
-1ñ
-
->ñ
-
-?ñ
-
-Gñ
-
-ñ
-
-»ñ
-
-½ñ
-
-Ðñ
-
-jò
-
-ò
-
-ò
-
-Õò
-
-Öò
-
-8ó
-
->ó
-
-hD5CJ(¢î
-
-£î
-
-¤î
-
-°î
-
-±î
-
-Óî
-
-Ôî
-
-Yï
-
-Ìï
-
-Íï
-
-ð
-
-ð
-
-0ñ
-
-1ñ
-
-1ñ
-
->ñ
-
-?ñ
-
-½ñ
-
-¾ñ
-
-Ûñ
-
-Üñ
-
-èñ
-
-éñ
-
-ò
-
-ò
-
-ò
-
-ò
-
-Õò
-
-Öò
-
-7ó
-
-8ó
-
-jô
-
-bó
-
-iô
-
-jô
-
-kô
-
-yô
-
-ô
-
-úô
-
-õ
-
-õ
-
-õ
-
-õ
-
-õ
-
-Öõ
-
-×õ
-
-éõ
-
-ìõ
-
-õõ
-
-}
-
-kô
-
-lô
-
-xô
-
-yô
-
-ô
-
-ô
-
-õ
-
-õ
-
-õ
-
-Öõ
-
-×õ
-
-tu¤~
-
-x
 
 $&dPÆÿa$L]N]«^¾^é^__¯_°_÷_ø_=`>` `¦`Ê`bbb|bb¢bcccJcKcccãcéc
 
@@ -12672,27 +10154,15 @@ hD5CJ(` `bbb"b#b¡bccJcKcôåxxkx
 
 ´CJaJh
 
-´h
-
-´
-
 ´CJaJh*8Òh
 
 ´5CJ\aJh*8Òh
-
-´5CJ\aJ#h*8Òh
-
-´h
-
-´ ¤¤gd
 
 ´5CJaJ$h*8Òh
 
 ´CJaJ'h*8Òh
 
 hH5CJaJh³
-
-h³
 
 5CJaJ*h³
 

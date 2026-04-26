@@ -748,8 +748,6 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 
 Artículo Cuarto.- Se reforman los artículos 2, fracciones X y XI; 5, fracción II; 13; 18, fracciones VII, VIII y su inciso a) y párrafo tercero de la fracción IX; 22, inciso c); 35; 37, fracción III y 44. Se adicionan un segundo párrafo a la fracción X del artículo 2; una fracción XII al artículo 7, recorriéndose en su orden la subsecuente; y un artículo 46 Bis. Se deroga el tercer párrafo del artículo 49, de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
@@ -777,8 +775,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Trigésimo Octavo.- Se reforman las fracciones V y VI del artículo 2; el párrafo primero del artículo 3; el párrafo primero y tercero del artículo 4; el artículo 6; la fracción I, el párrafo segundo de la fracción II, las fracciones V, VII, IX, X y XIII del artículo 7; el párrafo cuarto del artículo 8; el párrafo primero del artículo 13; las fracciones IV, VII y el párrafo tercero de la fracción X, del artículo 18; el párrafo primero del artículo 20; el párrafo primero del artículo 21; la fracción VII del artículo 24; el artículo 25; el párrafo primero del artículo 26; el párrafo tercero del artículo 34; el párrafo primero del artículo 36; el artículo 39; el artículo 45; el artículo 47 y el artículo 48; y se adiciona el artículo 32 Bis a la Ley Federal para la Protección a Personas que intervienen en el Procedimiento Penal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -849,21 +845,5 @@ Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este De
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-m
-
-z
-
-¯
-
-°
-
-¸
-
-m
-
-¯
-
-°
 
 rrrrrrrKsLsNs¸s¹sÛsÜsèsxtyt'v(v5v-w.w0wèwéwôxõxøxâyãyçymznzqzÍzÎzÐz

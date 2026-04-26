@@ -2000,8 +2000,6 @@ Publicado en el Diario Oficial de la Federación el 22 de enero de 2020
 
 Artículo Tercero. Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el 9 de agosto de 2019, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2027,8 +2025,6 @@ DE CONTROVERSIAS CONSTITUCIONALES Y
 DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
-
-P R E S E N T E
 
 El Tribunal Pleno, en su sesión celebrada el veintiuno de junio de dos mil veintiuno, resolvió la acción de inconstitucionalidad 100/2019, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
 
@@ -2056,8 +2052,6 @@ PONENTE: MINISTRA NORMA LUCÍA PIÑA HERNÁNDEZ.
 
 SECRETARIO DE ESTUDIO Y CUENTA ADJUNTO: MELESIO RAMOS MARTÍNEZ.
 
-Vo. Bo.
-
 Ministra
 
 Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente a la sesión del día veintiuno de junio de dos mil veintiuno.
@@ -2074,8 +2068,6 @@ Notifíquese; con testimonio de la presente resolución, y en su oportunidad, ar
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados, dejando a salvo el derecho de las señoras Ministras y de los señores Ministros de formular los votos que consideren pertinentes.
 
 Firman el señor Ministro Presidente y la señora Ministra Ponente, con el Secretario General de Acuerdos, que autoriza y da fe.
@@ -2090,8 +2082,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo Tercero.- Se reforman los artículos 67, primer párrafo y 153 de la Ley Nacional de Extinción de Dominio, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2105,8 +2095,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025
 
 Artículo Quinto.- Se reforma el segundo párrafo del inciso k) del segundo párrafo de la fracción V del artículo 1 de la Ley Nacional de Extinción de Dominio, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2137,25 +2125,3 @@ Décimo. En tanto se creen las unidades especializadas de atención a los delito
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-$%&w£­®¯°±
-
-,(,,,,Á,Â,Ç,8-9-?-±-²-¹-Z.[.`./	/
-
-®®ï®ð®¯¯T°U°©±ª±8²9²
-
-3
-
-A
-
-å
-
-æ
-
-3
-
-å
-
-æ
-
-ÇÈÉù3Q«¢}$

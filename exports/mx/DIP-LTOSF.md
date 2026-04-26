@@ -1324,8 +1324,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2009
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 3, fracciones I, IV, V, VIII y IX; 4, primer párrafo; 7, primer párrafo; 11, primero, segundo, cuarto, quinto, sexto, séptimo y octavo párrafos y las fracciones V y VI; 12, primero, segundo, cuarto y último párrafos; 13; 15, primer párrafo; 18, primer párrafo; 20, primer párrafo; 23, primero y segundo párrafos y las fracciones I, tercer párrafo y IV; la denominación de la Sección V, "Sanciones que corresponde imponer a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros"; 41; 42, primer párrafo y las fracciones III, IV y V; 43, primero y último párrafos y las fracciones II, III y VI; 44, fracción I, inciso e); y 51; y se adicionan los artículos 2 Bis; 3 con una fracción V Bis; 6, sexto párrafo; 10 Bis; 10 Bis 1; 10 Bis 2; 11, fracciones II Bis, VII y VIII; 11 Bis; 11 Bis 1; 12, fracción IV recorriéndose en su orden las fracciones actuales; un Capítulo III Bis "De los créditos, préstamos o financiamientos revolventes asociados a una tarjeta", con sus artículos 18 Bis; 18 Bis 1; 18 Bis 2; 18 Bis 3; 18 Bis 4; 18 Bis 5; 18 Bis 6; 18 Bis 7 y 18 Bis 8; 42, fracciones VI, VII, VIII y IX; 43, fracciones IX, X y XI; 44, fracción I, incisos f), g) y h) y la fracción II, los incisos l) y m), se derogan los artículos 14; la Sección VII "Sanciones que corresponde imponer a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros", con sus artículos 45 y 46 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1355,8 +1353,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2010
 
 ARTÍCULO PRIMERO. Se reforman los artículos 3; 4; 6, cuarto párrafo; y se adicionan los artículos 4 Bis; 4 Bis 1; 4 Bis 2; 8, segundo párrafo; 13 Bis; 15 Bis; 19, segundo párrafo; 19 Bis; 43 Bis; 49, fracciones V, VI, VII y VIII; y 49 Bis, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1454,8 +1450,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Tercero.- Se reforma el tercer párrafo del artículo 30 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1476,11 +1470,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 FG¥¦§ÄÎÏÐÑÒ@	a	õ	êÛÇ·ª·vbN>818
 
-£
-
 £5CJ%òEªF«FHHJJ L!LÒNO
-
-h!
 
 5CJaJ%h!
 
@@ -1490,19 +1480,7 @@ CJaJhÐ_[h!
 
 CJaJhÐ_[h!
 
-<>h
-
-_Qh
-
-_Qh
-
 _Q5B*CJ\phh
-
-_Q5B*CJ\ph%h
-
-_Qh
-
-_Q$a$gd
 
 _QHIÛÜÍÎz { Ô Õ R¡S¡¢
 
@@ -1510,25 +1488,13 @@ _QHIÛÜÍÎz { Ô Õ R¡S¡¢
 
 _QB*CJ\phh
 
-_Q5B*CJ\ph%h
-
 _QB*CJ\phh
 
-_Qh
-
 _QB*CJ\phh
-
-_Qh
 
 _Q5B*CJ\phh
 
 ýýýVýWýjýlývýCþNþjÿÀÿ%?@SUVfg¦ãäåè?@AFfghlÉÊËÎÜ	Ý	¤¥¦«¿ÀÁÇÝÞãâãäéóåßÙßÏÆÏÆÏÆ½³½ßÏ¬ÏÆÏÆÏÆ³ÆßÆÏÆ¬ÏÆßÆÏÆßÆÏÆßÆÏÆßÆßÆÏÆßÆÏÆßÆÏÆßÏÆßÆß
-
-<>$a$gd±^Y$ ` a$gd±^Y
-
-<>h
-
-<>h
 
 <>CJh±^Yh
 
@@ -1536,24 +1502,4 @@ _Q5B*CJ\phh
 
 <>5CJaJh
 
-<>h
-
 <>5CJaJh
-
-<>$ ` a$gd
-
-<>
-
-<>h
-
-<>h
-
-<>h
-
-<>h
-
-<>h
-
-<>h
-
-<>=0P&Pw1h°Ð/ °à=!°"°#$%°°Å°ÅÄDp

@@ -1084,8 +1084,6 @@ Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 Artículo Segundo.- Se reforman los artículos 35, fracción I, y 60, párrafo primero de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1102,8 +1100,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 
 ARTÍCULO PRIMERO.- Se reforma la fracción I del artículo 31 y se adiciona un artículo 31 Bis, a la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1119,8 +1115,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 
 Artículo Segundo.- Se reforman los artículos 9, fracción III; 18, fracciones V y VII y 19; y se adicionan el inciso b a la fracción II del artículo 18, recorriéndose los actuales b, c y d para ser c, d y e, respectivamente y el subinciso c al inciso A de la fracción III del artículo 18 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1144,8 +1138,6 @@ Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XII al artículo 2 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1159,8 +1151,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
 
 Artículo Único. Se reforman los artículos 53, segundo párrafo; 55, 63 y 68; y se adicionan una fracción XII al artículo 53 y un artículo 65 Bis a la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1200,8 +1190,6 @@ Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
 
 Artículo Único.- Se reforman los artículos 18, fracciones I y II, incisos a, b, y d; 19, Apartados A, primer párrafo, y B; 20, fracciones I y II y 34, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1217,8 +1205,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022
 
 Artículo Cuarto.- Se adiciona al artículo 1, el párrafo segundo, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1282,8 +1268,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
 
 SEGUNDO. Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
@@ -1321,8 +1305,6 @@ SECRETARIOS: DANIELA CARRASCO BERGE Y FERNANDO SOSA PASTRANA
 Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en la sesión correspondiente al día veinte de abril de dos mil veintitrés, emite la siguiente:
 
 SENTENCIA
-
-..
 
 VIII. EFECTOS
 
@@ -1372,8 +1354,6 @@ Publicado en el Diario Oficial de la Federación el 15 de abril de 2025
 
 Artículo Único.- Se reforman los artículos 9, fracciones III y VI, y 15 segundo párrafo, y se adicionan al artículo 9, las fracciones III Bis y III Ter, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -1393,8 +1373,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Quinto.- Se reforman los artículos 1; 2, párrafo primero, fracciones I, III, IV, VIII, IX, X y XII; 3; 5, fracciones I y II; 7; 8, fracción V; 9, fracciones I y V, inciso b; 11, fracción I; 12, fracción I; 13, fracción I; 14, fracción III; 16; 18, fracción III, apartados A, inciso b y actual inciso c, que pasa a ser el inciso d, B, incisos a, numerales I y 3, b, numerales 1 y 3 y apartado C, incisos a, numerales 1 y 3, b, numerales 1 y 3; 19, apartado A, párrafo segundo; 20, fracción III, apartados A, incisos a y c, B, incisos a y c; 22; 23; 24; 30; 31, párrafo segundo; 33, párrafos primero y segundo, fracciones I, II, III, IV, V, VI y VII; 34, fracción IV, inciso a; 39; 42, párrafos primero, fracción IV y segundo; 50, párrafo primero; 53, párrafo primero; 55, párrafo primero, fracción II; 56; 60, párrafo primero; 62; 63, fracción II; 65, párrafo primero; 68; 70; 72; 73; 75, así como la denominación de la ley; se adicionan a los artículos 18, fracción III, apartados A, el inciso c, apartado B, el inciso c, apartado C, el inciso c; 20, fracción III, el apartado C; 33, las fracciones V Bis y V Ter, y 56, la fracción III, y se deroga el artículo 36 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1417,47 +1395,3 @@ Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Regla
 Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-5
-
-6
-
-o
-
-*
-
-4
-
-5
-
-6
-
-B
-
-o
-
-÷
-
-÷
-
-PQ©ªAB¦§ÑÒ¸ÚÛ
-
-hM@©5CJ
-
-hM@©5CJ
-
-Æ>a$gd v$ ` a$gd v
-
-Æ>a$gd v$ ` a$gd v
-
-=
-
-=
-
-N
-
-$
-
-ÆC"a$gd}
-
-ÆC"gd}

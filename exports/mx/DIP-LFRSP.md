@@ -706,8 +706,6 @@ Publicado en el Diario Oficial de la Federación el 11 de enero de 1991
 
 Artículo Unico.- Al artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos se le adiciona una fracción que será la XXI y se corre la numeración de las dos fracciones subsistentes posteriores con su mismo texto, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -738,8 +736,6 @@ Publicado en el Diario Oficial de la Federación el 21 de julio de 1992
 
 ARTICULO UNICO.- Se REFORMAN los artículos 4; 9; 10; 12; 17, segundo párrafo y fracción II; 47, primer párrafo y fracciones VIII, XVIII y XX; 51, segundo párrafo; 53, segundo párrafo; 56, fracciones V y VI; 60; 64, fracción II; 70; 71, primer párrafo y fracciones II y III; 73, primer párrafo; 77 primer párrafo; 78, fracción I; 79 y 80, primer y último párrafos, y fracción VIII. Se ADICIONAN los artículos 3o., con la fracción I Bis; 47, con una fracción XXIII, y se recorre la actual fracción XXIII para pasar a ser XXIV; 51, con un tercer párrafo; 53, con los párrafos; tercero y cuarto; 78, con un segundo y tercer párrafos; 80, con la fracción I Bis y un segundo párrafo, y 81, con un tercer párrafo; y se DEROGA el segundo párrafo de la fracción II del artículo 71 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -766,21 +762,13 @@ d) La resolución...
 
 En la página 4, columna derecha, Artículo 17, fracciones III y IV, dice:
 
-III y IV ...................................
-
 Debe decir:
-
-III y IV ....................................
-
-...............................................
 
 #### DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Federal de Procedimientos Penales, del Código de Procedimientos Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 10 de enero de 1994
 
 ARTICULO SEPTIMO.- De la Ley Federal de Responsabilidades de los Servidores Públicos se reforma el artículo 78 párrafo primero, se adicionan un artículo 77 bis y una fracción III al artículo 78, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -842,8 +830,6 @@ Publicado en el Diario Oficial de la Federación el 12 de diciembre de 1995
 
 ARTICULO SEGUNDO.- Se reforma la fracción VI del artículo 3o., el primer párrafo del artículo 51 y el segundo párrafo del artículo 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
 
-.........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -859,8 +845,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO TERCERO.- Se reforman los artículos 48, 56 fracción VI, 57 y 60 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como siguen:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -887,8 +871,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 3o. fracciones I Bis, II y IV, 48, 51, 77 Bis, 79 segundo párrafo, 80 fracciones I Bis, IV, VII y VIII y 90, y se adiciona un Título Quinto con un Capítulo Único con los artículos 91 a 93 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -940,8 +922,6 @@ Publicado en el Diario Oficial de la Federación el 13 de marzo de 2002
 
 ARTICULO PRIMERO.- Se expide la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -984,8 +964,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 9, 12 y 33 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -999,8 +977,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO CUADRAGÉSIMO QUINTO. Se reforman los artículos 47, fracción XIX y último párrafo; 48, párrafo primero; 77 Bis, primer párrafo; 80, fracción IX, primer y último párrafo; y 90, todos ellos de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1017,8 +993,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
 
 Artículo Único. Se adiciona la fracción XXI bis al artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1116,8 +1090,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2023
 
 Artículo Único.- Se reforma la fracción VIII del artículo 7o., y los artículos 91, 92 y 93, así como la denominación del Título Quinto de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1132,8 +1104,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Primero.- Se reforman los artículos 9o. primer párrafo y 33, cuarto párrafo, de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1143,31 +1113,5 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
 úúúòêáÕêááêáÕêêáÈÀáúúú$a$gdü|$
-
-N
-
-\
-
-M
-
-N
-
-ÆJ!!^!`!a$$!!^!`!a$$
-
-ÆJ!`!a$gd`×$
-
-ÆJ!`!a$gdýt$
-
-ÆJa$$
-
-ÆJ!`!a$
-
-ÆHa$$
-
-ÆH!`!a$
-
-ÆHa$$
-
-ÆH!`!a$èÊñÊ<Ë]Ë^ËfË]ÌeÌ´ÌÔÌüÌÍÀÍÇÍÏÏ­ÐµÐ
 
 X!X=XQXjXXXXX®YÉYÖYôY

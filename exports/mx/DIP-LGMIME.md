@@ -1090,8 +1090,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -1171,60 +1169,6 @@ La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolv
 Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
 
 Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Javier Laynez Potisek.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
-
-S
-
-½
-
-¾
-
-Í
-
-ì
-
-í
-
-ø
-
-S
-
-¼
-
-½
-
-¾
-
-Ì
-
-Í
-
-ë
-
-ì
-
-í
-
-÷
-
-ø
-
-""""\"]""""""o#p#r#
-
-"""\"]"h""""o#p#
-
-ò
-
-þ
-
-ÿ
-
-xy{×ØÚ
-
-ò
-
-ÿ
-
-$
 
 ÆC"a$gdé!gdé!$a$gdé!$7$8$H$a$gd!-]^_÷øùfg ¡ÉÊÐÑõö?@ìíîøþ
 

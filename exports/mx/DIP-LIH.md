@@ -368,8 +368,6 @@ a)	Cuando se trate de Gas Natural Asociado:
 
 Tasa =Precio Contractual del Gas Natural
 
-100
-
 b)	Cuando se trate de Gas Natural No Asociado:
 
 i.	Cuando el Precio Contractual del Gas Natural sea menor o igual a 5 dólares de los Estados Unidos de América por millón de BTU, de 0%;
@@ -381,8 +379,6 @@ Tasa =[(Precio Contractual del Gas Natural  5) x 60.5]%Precio Contractual del Ga
 iii.	Cuando el Precio Contractual de Gas Natural sea mayor o igual a 5.5 dólares de los Estados Unidos de América por millón de BTU:
 
 Tasa =Precio Contractual del Gas Natural
-
-100
 
 III.	Al Valor Contractual de los Condensados se le aplicará la siguiente tasa:
 
@@ -1252,8 +1248,6 @@ I. Durante los primeros 60 meses de vigencia de la Asignación
 
 1,442.57 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,449.63 pesos por kilómetro cuadrado
 
-...............................................................................................
-
 Artículo 55.-..................................................................................
 
 I. Durante la fase de exploración 1,881.60 pesos, y
@@ -1279,8 +1273,6 @@ I. Conforme a la regla 10.19., se dan a conocer las cuotas actualizadas del Dere
 Artículo 45.-...........................................................
 
 I. Durante los primeros 60 meses de vigencia de la Asignación1,548.88 pesos por kilómetro cuadradoII. A partir del mes 61 de vigencia de la Asignación y en adelante3,703.86 pesos por kilómetro cuadrado
-
-...............................................................................................
 
 Artículo 55.-..................................................................................
 
@@ -1424,8 +1416,6 @@ De conformidad con las cuotas establecidas en el artículo 55 de la LISH y confo
 
 Artículo 55.-
 
-.........................................................................................................................................
-
 I.	Durante la fase de exploración 2,464.84 pesos, y
 
 II.	Durante la fase de extracción 9,859.56 pesos.
@@ -1434,35 +1424,13 @@ Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
-ÿ
-
-ÿ
-
 ®h`n5CJaJ h¯
-
-¬CJ/h
-
-¬h
 
 Þßðñôõ<=êÒÈ¾´«¢Ò¢¾´«Ò¾´«w«¢¾´«¢¾´«¢¾´«w«¢¾´«¢hí+#h§DNCJhí+#h
 
-¬h
-
 ¬CJh
 
-¬h
-
 ¬5CJhí+#hI¤CJhí+#h`nCJhí+#hW4Ý5CJhí+#h`n5CJhí+#hI¤5CJ/h
-
-¬h
-
-¬h
-
-¬5CJ/h
-
-¬h
-
-¬h
 
 ®hI¤5CJaJh¯
 
@@ -1483,14 +1451,6 @@ hØVA5CJhí+#hí+#5CJhYhY5CJaJh¯
 øCùeùfùú¨ú©ú>û_û`ûmû¦üÈüÉüÖüÓþôþõþqrë
 
 ®h§DN5CJaJh¯
-
-Í
-
-¾
-
-Ì
-
-Í
 
 %n%o%p%q%r%Ã%Ä%Å%Æ%Ç%&&&&&S&T&U&V&W&©&ª&«&­&û&ü&õìãìã×ÍÃìãÃºìÍÃõºìÍÃõìãÃõºìãÃõºìãÃõºìãÃõºìãÃõìãÃõºìãÃõºìÍÃõºìãÃõºìãÃõìãhí+#hW4ÝCJhí+#h`n5CJhí+#hí+#5CJh¯
 

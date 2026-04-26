@@ -646,8 +646,6 @@ Publicado en el Diario Oficial de la Federación el 20 de julio de 2004
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción V bis al artículo 5, y un artículo 7 bis al Capítulo I del Título Segundo, de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -666,8 +664,6 @@ Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2004
 
 ARTÍCULO ÚNICO. Se reforma la Fracción VII del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -681,8 +677,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2005
 
 ARTÍCULO ÚNICO. Se adiciona una fracción VIII Bis al artículo 5 de la Ley de los Institutos Nacionales de Salud para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -704,8 +698,6 @@ Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 
 ÚNICO. Se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -720,8 +712,6 @@ Publicado en el Diario Oficial de la Federación el 14 de julio de 2008
 
 Artículo Único.- Se reforman las fracciones II y III y se adiciona una fracción V al artículo 18 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -735,8 +725,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO QUINTO. Se reforman los artículos 13, 32 y 33 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -779,8 +767,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación 27 de enero de 2015
 
 Artículo Único. Se reforma la fracción VIII Bis del artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -875,9 +861,3 @@ Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, P
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
 página 18     (Primera Sección)	DIARIO OFICIAL	Viernes 26 de mayo de 2000
-
-6
-
-1
-
-hõ5CJ4ÆÍ;Î<ÎÎÎÏ

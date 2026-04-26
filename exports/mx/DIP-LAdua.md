@@ -2128,15 +2128,9 @@ I.	Se determinará el margen de error en las importaciones a que tendrá derecho
 
 donde
 
-ME
-
 = Margen de error.
 
-CE
-
 = Monto total de contribuciones y cuotas compensatorias pagadas por el importador de manera espontánea, conforme a la fracción V del artículo 98 de esta Ley, en el ejercicio inmediato anterior.
-
-CDV
 
 = Monto total de contribuciones y cuotas compensatorias declaradas por el importador en los pedimentos que no fueron objeto de reconocimiento aduanero, verificación de mercancías en transporte o cualquier otro tipo de revisión realizada por la autoridad de conformidad con el Código Fiscal de la Federación y la presente Ley, en el ejercicio inmediato anterior.
 
@@ -2149,8 +2143,6 @@ donde
 PCO
 
 = Porcentaje de contribuciones y cuotas compensatorias omitidas.
-
-CO
 
 = Monto total de las contribuciones y cuotas compensatorias omitidas detectadas con motivo del reconocimiento aduanero, verificación de mercancías en transporte o cualquier otro tipo de revisión realizada por la autoridad de conformidad con el Código Fiscal de la Federación y la presente Ley, en el ejercicio inmediato anterior.
 
@@ -2354,8 +2346,6 @@ Sección Primera
 
 Importaciones temporales
 
-I
-
 Disposiciones generales
 
 ###### Artículo 104.
@@ -2375,8 +2365,6 @@ II.	Se cumplirán las obligaciones en materia de regulaciones y restricciones no
 La propiedad o el uso de las mercancías destinadas al régimen de importación temporal no podrá ser objeto de transferencia o enajenación, excepto entre maquiladoras, empresas con programas de exportación autorizados por la Secretaría de Economía y empresas de comercio exterior que cuenten con registro de esta misma dependencia, cuando cumplan con las condiciones que establezca el Reglamento.
 
 > <small>Artículo reformado DOF 09-04-2012</small>
-
-ll
 
 Para retornar al extranjero en el mismo estado
 
@@ -2486,8 +2474,6 @@ No será necesaria la presentación de pedimento cuando se presente otro documen
 
 > <small>Artículo reformado DOF 30-12-1996, 31-12-1998, 09-12-2013, 25-06-2018</small>
 
-III
-
 Para elaboración, transformación o reparación en programas de maquila o de exportación
 
 ###### Artículo 108.
@@ -2594,8 +2580,6 @@ Sección Segunda
 
 Exportaciones temporales
 
-I
-
 Disposiciones generales
 
 ###### Artículo 113.
@@ -2611,8 +2595,6 @@ Los contribuyentes podrán cambiar el régimen de exportación temporal a defini
 > <small>Párrafo reformado DOF 30-12-1996</small>
 
 Cuando las mercancías exportadas temporalmente no retornen a territorio nacional dentro del plazo concedido, se considerará que la exportación se convierte en definitiva a partir de la fecha en que se venza el plazo y se deberá pagar el impuesto general de exportación actualizado desde que se efectuó la exportación temporal y hasta que el mismo se pague.
-
-II
 
 Para retornar al país en el mismo estado
 
@@ -2655,8 +2637,6 @@ En los demás casos, no se requerirá pedimento, pero se deberá presentar la fo
 Tampoco será necesaria la presentación del pedimento para la exportación temporal, cuando se presente otro documento con el mismo fin previsto en algún tratado internacional del que México sea parte. El Servicio de Administración Tributaria establecerá mediante reglas, los casos y condiciones en que procederá la utilización de ese documento, de conformidad con lo dispuesto en dicho tratado internacional.
 
 > <small>Párrafo reformado DOF 09-12-2013 Reforma DOF 31-12-1998: Derogó del artículo el entonces párrafo segundo</small>
-
-III
 
 Para elaboración, transformación o reparación
 
@@ -5706,8 +5686,6 @@ La interposición del recurso de revocación será optativa para el interesado a
 
 > <small>Párrafo reformado DOF 31-12-2000 Reforma DOF 30-12-1996: Derogó del artículo el entonces último párrafo</small>
 
-T r a n s i t o r i o s
-
 Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones l y ll; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
 
 Segundo. A partir de la fecha en que entre en vigor esta Ley, quedará abrogada la Ley Aduanera, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1981.
@@ -5738,8 +5716,6 @@ Noveno. Las personas que hubieran introducido al país yates y veleros turístic
 
 Artículos Tercero a Vigésimo. ..........
 
-T r a n s i t o r i o s
-
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
@@ -5757,10 +5733,6 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995
 Artículo Primero. Se expide la siguiente:
 
 Ley del Servicio de Administración Tributaria
-
-.........
-
-T r a n s i t o r i o s
 
 Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
 
@@ -5780,10 +5752,6 @@ Séptimo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Cr�
 
 Octavo. Los derechos de los trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
 
-..........
-
-T r a n s i t o r i o s
-
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
@@ -5799,8 +5767,6 @@ Publicada en el Diario Oficial de la Federación el 30 de diciembre de 1996
 LEY ADUANERA
 
 Artículo Octavo.- Se REFORMAN los artículos 1o., primer párrafo; 13; 14, penúltimo párrafo; 17, primer párrafo; 32, segundo y tercer párrafos; 36, fracción I, inciso b); 41; 43; 45, segundo y tercer párrafos; 47, quinto párrafo; 48, tercer párrafo; 50, primer párrafo; 58, primer párrafo; 61, fracciones VII, VIII y IX, inciso b); 62, fracciones I, segundo párrafo y II, inciso b), segundo párrafo; 75, fracción III; 83, último párrafo; 85, fracciones I y III y penúltimo párrafo; 86, primer y último párrafos; 88, último párrafo; 89; 94, primer párrafo; 97, primer párrafo; 103, primer párrafo; 106, fracciones II, inciso e), IV, incisos a) y b) y V, inciso d); 107, primer párrafo; 114, primer párrafo; 120, segundo y último párrafos; 121, fracción I; 132, último párrafo; 140, último párrafo; 144, fracciones X y XII; 146, fracción II; 151, fracciones II, III y IV; 152, primero y segundo párrafos; 159, fracciones I, II y IV; 164, fracción VI, segundo párrafo; 165, fracciones II, segundo párrafo y III; 168, fracciones I y VII; 176, fracción VI; 177, fracción III; 178, fracciones I, primer párrafo, y IV y penúltimo párrafo; 184, fracción I, y 203, primer párrafo; se ADICIONAN los artículos 20, con un último párrafo; 58, con un último párrafo; 61, con una fracción XVI; 106, con un último párrafo; 119, con los párrafos séptimo y octavo, pasando el actual séptimo a ser último; 121, con una fracción IV; 145, con un último párrafo; 151, con los párrafos segundo y tercero pasando el actual segundo a ser cuarto; 177, con una fracción XI; 178, con una fracción VI, y 199, con una fracción III y se DEROGAN los artículos 5o., último párrafo; 106, inciso c) de la fracción II, y, 203, último párrafo; de la Ley Aduanera, para quedar como sigue:
-
-..........
 
 Disposición Transitoria de la Ley Aduanera
 
@@ -5819,8 +5785,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998
 
 Artículo primero. Se REFORMAN los artículos 5o.; 9o.; 14, tercero, cuarto y quinto párrafos; 15, primer párrafo y fracciones I, primer párrafo, III, IV, primer párrafo, V, primero y tercer párrafos, VI y VII, así como el quinto párrafo del artículo; 21, segundo párrafo, fracciones I y II; 24; 26, primer párrafo; 28, tercer párrafo; 32, primer párrafo; 36, fracción I, inciso e) y segundo párrafo de la fracción; 41, fracción III; 43, primero, segundo, tercero, sexto, séptimo y octavo párrafos; 46; 50, tercer párrafo, fracción II; 54, segundo párrafo, fracción II; 62, fracción II, inciso b), segundo párrafo; 82, primer párrafo; 83, primero y tercer párrafos; 85, primer párrafo y fracción I; 86, primer párrafo; 87, fracción II y segundo párrafo del artículo; 88, segundo párrafo; 89, segundo y sexto párrafos; 92, primer párrafo; 93, primero y segundo párrafos; 97, primer párrafo; 100, segundo párrafo; 106, fracciones I, II, incisos d) y e), IV, inciso a), primer párrafo y V, primer párrafo e incisos c) y d); 107, primer párrafo; 108; 109, segundo y tercer párrafos; 110, primer párrafo y fracción I; 116, fracción IV y tercero y cuarto párrafos del artículo; 120, segundo párrafo; 121, fracción I; 127, tercer párrafo, fracciones III y IV; 128, segundo párrafo; 131, fracción I; 144, fracciones I, II, XIII, XV, XVIII y XXVIII; 146, fracción II; 151, fracciones I, III y IV, así como el actual segundo párrafo del artículo; 152, primero, segundo y tercer párrafos; 153, segundo párrafo; 154; 155, primer párrafo; 157; 160, fracciones V, segundo y tercer párrafos y VI, primero y actuales segundo y tercer párrafos; 162, fracción VII, inciso e); 163, fracción IV; 164, fracción VII; 165, fracciones II, primer párrafo e incisos a) y b) y VII, incisos a) y b); 168, fracción VII; 169, actuales segundo y tercer párrafo; 171, fracción IV; 173, fracciones I, primer párrafo e incisos a) y b) y segundo párrafo de la fracción, y V, incisos a) y b); 176, fracción III; 178, fracciones I, II y VI; 183, fracciones I, segundo párrafo, III, primer párrafo, IV y V; 184, fracciones I, III, VI, VII y VIII; 185, fracciones II, III, V y VI; 186, fracciones VI, XIV y XVI; 187, fracciones III y VI; se ADICIONAN los artículos 2o., con una fracción VIII; 15, con un último párrafo; 36, fracción I, con un inciso g); 41, con un último párrafo; 43, con un último párrafo; 52, con un último párrafo; 78-A; 78-B; 78-C; 84-A; 86-A; 87, con una fracción III; 89, con una fracción VII; 103, con un último párrafo; 106, fracciones II, con un inciso c), III, con un inciso e) y V, inciso c), con un segundo párrafo y con un último párrafo a la fracción; 121, fracciones I, con un segundo, un tercero, un cuarto y un quinto párrafos y IV, con un segundo párrafo; 125, con una fracción III; 127, con un último párrafo; 144-A; 151, con las fracciones VI y VII, y con un segundo párrafo, pasando los actuales segundo, tercero y cuarto a ser tercero, cuarto y quinto párrafos del artículo, respectivamente; 153, con un último párrafo; 154, con un  segundo y un tercer párrafos; 160, fracción VI, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto párrafos de la fracción, respectivamente; 162, con una fracción XI; 166, con un segundo párrafo; 169, con una fracción V y con un segundo y un tercer párrafos, pasando los actuales segundo y tercero a ser cuarto y quinto párrafos del artículo, respectivamente; 173, fracción VI, con un segundo párrafo; 176, con las fracciones VII, VIII, IX y X; 178, fracción III, con un segundo párrafo y con las fracciones VII, VIII y IX; 183-A; 184, con las fracciones XI, XII, XIII y XIV; 185, con las fracciones X, XI, XII y XIII; 186, con las fracciones XVII, XVIII y XIX; 187, con las fracciones IX, X y XI; y se DEROGAN los artículos 15, segundo y tercer párrafos; 32, segundo párrafo; 49; 82, segundo párrafo; 106, fracción IV, inciso b), segundo párrafo y segundo párrafo del artículo; 116, segundo párrafo; 121, fracción II; 158, segundo párrafo, 172, fracción IV; 177, fracciones III y XI; 178, fracción IV, segundo párrafo y segundo y tercer párrafos del artículo; 183, fracción III, segundo párrafo, de la Ley Aduanera, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -5862,8 +5826,6 @@ Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
 
 ARTÍCULO SEXTO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 144, DE LA LEY ADUANERA, PARA QUEDAR COMO SIGUE:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
@@ -5895,8 +5857,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 
 Artículo Unico. Se REFORMAN los artículos 9o.; 52, primer párrafo; 56, fracción I; 59, fracción I; el Capítulo II del Título Tercero, para quedar integrado con las Secciones PRIMERA denominada "Afectación de Mercancías" comprendiendo el artículo 60, SEGUNDA denominada "Exenciones" integrada por los artículos 61 a 63 y TERCERA denominada "Restricciones a la devolución o exención del impuesto general de importación, conforme a lo previsto en los Tratados de Libre Comercio" que comprende el artículo 63-A; los artículos 86, primero y último párrafos; 110; 112, primer párrafo; 135, último párrafo; 150, último párrafo; 153, primer párrafo; 160, fracción VI, segundo párrafo; 184, fracción VIII; y 185 fracción III; se ADICIONAN los artículos 2o., con las fracciones IX y X; 59, fracción III, con un segundo y tercer párrafos; 104, fracción I, con un segundo párrafo; 108, con un segundo párrafo, pasando los actuales segundo, tercero y cuarto párrafos a ser tercero, cuarto y quinto párrafos del artículo, respectivamente; 112, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo del artículo; 121, fracciones I y IV, con un último párrafo; 135, con un segundo y un antepenúltimo párrafos, pasando los actuales segundo, tercero, cuarto y quinto párrafos a ser tercero, cuarto, quinto y sexto párrafos del artículo, respectivamente; 185-A y 185-B; y se DEROGAN los artículos 52, último párrafo y 85, de la Ley Aduanera, para quedar como sigue:
-
-.........
 
 ##### Transitorios
 
@@ -5947,8 +5907,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de enero de 2002
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 4o.; 9o.; 14; 15, fracciones III, V, segundo y tercer párrafos y VII y penúltimo párrafo; 26, fracciones V, VII y VIII; 36, fracción I, b); 53, fracción II; 54, primer párrafo y su fracción III; 59, fracción III, segundo y tercer párrafo; 61, último párrafo de la fracción XV; 84-A; 86-A; 106, fracción II, inciso e), fracción IV, inciso a), fracción V, inciso c) y último párrafo de esta fracción; 129, fracción I y II, y actual último párrafo; 131, fracción III; 151, fracciones II y VI, y segundo párrafo; 153, segundo párrafo; 158; 161; 162, fracción VII, inciso g); 164, fracción IV; 176, fracción II; 178, fracción IV; 184, fracciones VIII y XIV; 185, fracción VII; 194; se ADICIONAN los artículos 14-A; 14-B; 16-A; 16-B; 36, con un último párrafo; 38, con un último párrafo; 53, con una fracción VII; 59, último párrafo al artículo; 61, con una fracción XVII; 119, con un quinto párrafo, pasando los actuales quinto a noveno párrafos a ser sexto a décimo párrafos, respectivamente; 127, con una fracción V; 129, segundo párrafo; 144-B; 163, con una fracción VII; 163-A; 176, con una fracción XI; 178, con una fracción X; 182, con las fracciones V, VI y VII; 183, con una fracción VI; 184, con las fracciones XV y XVI; 185, fracción II, con un segundo párrafo; 186, con una fracción XX; 187, con una fracción XII; 199, con una fracción IV; y se DEROGAN los artículos; 15, último párrafo; 59, fracción I, en su tercer párrafo de la Ley Aduanera, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley Aduanera.
 
@@ -6024,8 +5982,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2002
 
 Artículo Único.- Se reforman el primer párrafo del artículo 62, y el primer párrafo del artículo 137; y se adicionan los artículos 137 bis 1; 137 bis 2; 137 bis 3; 137 bis 4; 137 bis 5; 137 bis 6; 137 bis 7; 137 bis 8, y 137 bis 9, de la Ley Aduanera, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6039,8 +5995,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 ARTICULO PRIMERO.- Se REFORMAN los artículos 3, primero y segundo párrafos; 4, primer párrafo; 5, primer párrafo; 7; 14, último párrafo; 14-A, primero y segundo párrafos; 14-B, primer párrafo; 15, primer párrafo, fracciones II, III, V, en su segundo párrafo, VI, en su segundo párrafo y último párrafo del artículo; 16-B, último párrafo; 26, primer párrafo y fracción V; 28, primero y tercer párrafos; 36, fracción I, segundo párrafo; 38, primero y segundo párrafos; 48, primer párrafo; 59, fracciones I, primer párrafo y IV; 100, segundo y quinto párrafos; 108, fracción III; 109, segundo párrafo; 144, fracciones VIII, IX, XI, XXVI y XXX; 144-A, primer párrafo; 145, fracciones I, en su primer párrafo, II, III y tercer párrafo del artículo; 151, fracción II; 157; 158; 159, fracción II; 160, fracción VI, en su segundo párrafo y VII; 178, fracción III; 181, primer párrafo; 184, fracciones I y IX; 185, primer párrafo y fracciones I y VIII; 185-A; 185-B; 186, fracciones VII, XIV y XX; 187, fracciones I, VI y XII; 194; se ADICIONAN los artículos 2, con las fracciones XI y XII; 4, fracción II, con un inciso e); 14-C; 14-D; 15, con una fracción VIII; 20, con las fracciones VII y VIII; 29, fracción ll, inciso b) con un segundo párrafo; 32, con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercero y cuarto párrafos, respectivamente; 36, con un segundo y último párrafos al artículo, pasando los actuales segundo, tercero, cuarto y quinto párrafos a ser tercero, cuarto, quinto y sexto párrafos, respectivamente; 56, fracción I, con un último párrafo; 90, con un Apartado F; 98, con una fracción VI y un último párrafo al artículo; 100-A; 100-B; 101-A; 103, con un quinto párrafo; 109, con un cuarto párrafo; Capítulo VII, denominado Recinto Fiscalizado Estratégico al Título IV con los artículos 135-A; 135-B; 135-C y 135-D; 144, con las fracciones XXXI y XXXII; 144-A, con un tercer párrafo, pasando los actuales tercero, cuarto y quinto párrafos, a ser cuarto, quinto y sexto párrafos, respectivamente; 145, con una fracción IV; 162, con una fracción XII; 177, con una fracción III; 180-A; 184, con las fracciones XVII y XVIII; 185, con la fracción XIV; 186, con las fracciones XXI, XXII y XXIII; 187, con las fracciones XIII, XIV y XV; y se DEROGA el artículo 151, último párrafo de la Ley Aduanera, para quedar de la siguiente manera:
-
-.........
 
 DISPOSICIONES TRANSITORIAS DE LA LEY ADUANERA.
 
@@ -6110,8 +6064,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2006
 
 ARTÍCULO ÚNICO.- Se reforma el segundo párrafo, del inciso b) de la fracción II del artículo 62 de la Ley Aduanera, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6125,8 +6077,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de febrero de 2006
 
 Artículo Único.- Se reforman los Artículos 78; 121, fracción I; 150; 152 y 153, todos de la Ley Aduanera, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -6252,8 +6202,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 Artículo Único. Se reforman el actual segundo párrafo, para quedar como cuarto párrafo y el actual cuarto párrafo, para quedar como séptimo; se adicionan los párrafos segundo, tercero y quinto, pasando los actuales tercero, quinto, sexto y séptimo párrafos a ser sexto, octavo, noveno y décimo al artículo 152 de la Ley Aduanera, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6270,8 +6218,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXTO. Se reforman los artículos 37, segundo párrafo; 61, fracciones XIV y XVI; 89, quinto párrafo; 100, fracción III, tercer párrafo; 105; 108, primer, tercer y quinto párrafos; 109, primer párrafo; 111, tercer párrafo; 112, primer y segundo párrafos; 116, fracción IV y tercer párrafo; 120, fracción IV; 137, primer párrafo; 137 bis 3, último párrafo; 144, fracción XXIII; 145, último párrafo; 147, último párrafo; 151, penúltimo párrafo; 162, fracción II; 171, fracción IV; y 176, fracción III, de la Ley Aduanera, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6287,8 +6233,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013
 
 ARTÍCULO ÚNICO.- Se REFORMAN el Capítulo Único del Título Primero para quedar como Capítulo I denominado Del ámbito de aplicación y principios generales; los artículos 1o., tercer párrafo; 2o., fracción VIII; 3o.; 6o.; 10; 11; 13; 14, tercer párrafo; 14-A, primer párrafo; 14-D, primer párrafo; 15, fracción V, en su encabezado, su inciso a) y su segundo y tercer párrafos; 16-A, primer y tercer párrafos; 19; 20, primer párrafo y fracciones I, III, VII y VIII; 23, primer párrafo; 26, fracciones VI, VII y VIII; 28, cuarto y actual quinto párrafos; 32, primer y tercer párrafos; 35; 36; 37; 39; 40; 41, primer y tercer párrafos; 43; 45, primer párrafo; 46; 47, primer, tercer y cuarto párrafos; 48, primer párrafo; 50; 52, primer y cuarto párrafos; 59, fracciones III, primer párrafo y IV; 61, fracciones VII y XVII, primer y segundo párrafos; 79, segundo párrafo; 81; 82, segundo párrafo; 84; 84-A; 86, segundo párrafo; 86-A, fracción I, primer párrafo; 88, tercer y cuarto párrafos; 89; 91; 93, primer y tercer párrafos; 95; 98, fracciones I, II, III y VI; 99; 100, primer párrafo; 100-A, primer y actual tercer párrafos; 100-B, primer párrafo y fracciones I, y VI; 101; 104, fracción II; 106, fracción IV y V, incisos b) y e); 107; 108, primer párrafo; 116, cuarto y quinto párrafos; 117, primer párrafo; 119, cuarto, quinto y octavo párrafos; 127; 128, primer y tercer párrafos; 129; 131, primer párrafo; 139, primer párrafo; 144, fracciones I, primer párrafo, III, V, VI, IX, XI, XIII, XIV, segundo párrafo, XVIII, XXIV y XXXII; 145; 146, fracciones I, primer párrafo y III; 150, primer y cuarto párrafos; 151, fracciones IV, VI y segundo párrafo; 152, primer y décimo párrafos; 153, primer párrafo; 155, primer párrafo; 157; 158, fracciones I, II y tercer párrafo; 159, párrafos primer y segundo, fracciones II, VII y VIII; 160, fracciones I, II, III, IV, V, VI, segundo y tercer párrafos, IX, primer párrafo, y X y tercer párrafo; 161; 162, fracciones II, VII y XI; 163, fracciones III y IV; 164, primer párrafo; 165, fracción II, primer párrafo y su inciso b) y fracción VI; 166, primer párrafo; 167; 174, segundo párrafo; 175, primer párrafo; 176, fracciones VII y XI; 177, fracción VIII; 178, fracción I, segundo párrafo; 182, fracciones III, VI y VII; 183-A, fracción IV; 184, párrafo primero, fracciones I, III, IV, VI, VII, XI y XIII; 185, fracciones I, VI y XIV; 186, fracciones IV y XVII; 187, fracción IV; 194; y 202; se Adicionan los artículos 2o., fracciones XIII, XIV, XV, XVI y XVII; el Capítulo II del Título Primero denominado "Notificaciones Electrónicas" comprendiendo los artículos 9o.-A, 9o.-B, 9o.-C, 9o.-D y 9o.-E; 16-A, con un sexto párrafo; 20, fracciones IX y X y un quinto párrafo; 25, con un tercer párrafo; 28 con un quinto párrafo pasando el actual quinto a ser sexto párrafo; 36-A; 37-A; 41, fracción IV; 53, fracción VIII; 59-A; 59-B; 100-A, fracción VII y un tercer párrafo, pasando los actuales tercero y cuarto párrafos a ser cuarto y quinto párrafos, respectivamente; 100-C; 135-A, segundo párrafo, pasando los actuales segundo, tercero, cuarto, quinto y sexto párrafos a ser tercero, cuarto, quinto, sexto y séptimo párrafos, respectivamente; 144, fracciones XXXIII, XXXIV y XXXV; 144-C; 160, fracción VI con un quinto párrafo, fracción XI y cuarto párrafo; 162, fracciones XIII y XIV; 165, fracciones IX, X y XI; 166, un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo; 167-A; 167-B; 167-C; 174, con un cuarto y quinto párrafos; 175, con un cuarto párrafo; 175-A; 184-A; 184-B; 199, fracción V, y se Derogan los artículos 20, fracción IV, y tercer párrafo; 38; 44; 98, tercer párrafo y los incisos a), b), c), d), e), f), g), h) e i); 100, fracción I; 100-A, fracciones III y V; 100-B, fracciones II y IV; 134; 143, fracción III; 144, fracciones XXII y XXXI; 159, fracción III y cuarto párrafo; 162, fracción V; 163, fracción VII; 163-A; 164, fracciones IV y VIII; 165, fracción IV; la Sección Segunda, Capítulo Único del Título Séptimo denominada Apoderados Aduanales comprendiendo los artículos 168, 169, 170, 171, 172 y 173; 175, segundo párrafo; 184, fracción XVIII; 185, fracción II, segundo párrafo, y 186, fracciones X y XVI, de la Ley Aduanera, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -6371,8 +6315,6 @@ Ciudad de México, a 15 de diciembre de 2017.- El Jefe del Servicio de Administr
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2018
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 29, fracción II, inciso b), segundo párrafo; 36-A, párrafo quinto; 108, párrafo tercero, fracción I, inciso a), y se adicionan los artículos 108, con un párrafo sexto; 135, con un párrafo décimo, y 135-B, con un párrafo cuarto de la Ley Aduanera, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -6472,8 +6414,6 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO NOVENO. Se reforman los artículos 15, fracción VII, primer y segundo párrafos; 16-A, quinto párrafo; 16-B, quinto párrafo, y 17, tercer párrafo de la Ley Aduanera, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6568,8 +6508,6 @@ I. Conforme a la regla 1.1.5., fracción VIII, se dan a conocer las cantidades a
 
 Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 178 fracción II; 183 fracciones II y V; 185 fracciones II a VI y VIII a XII; 185-B; 187 fracciones I, II, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
 
-........
-
 Atentamente,
 
 Ciudad de México, a 16 de diciembre de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.
@@ -6581,8 +6519,6 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021
 Artículo Noveno. Se deroga el artículo 16-C de la Ley Aduanera.
 
 Artículo Décimo. Para efectos del artículo 36-A, fracción I, inciso f) de la Ley Aduanera, el Servicio de Administración Tributaria establecerá, mediante reglas de carácter general, la información y especificaciones técnicas que deberá reunir el dictamen que avale el peso, volumen u otras características inherentes a las mercancías a que se refiere el artículo 2o., fracción I, inciso D) de la Ley del Impuesto Especial sobre Producción y Servicios.
-
-..
 
 Artículo Decimosegundo. Se deroga el artículo transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley Aduanera, del Código Penal Federal y de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, publicado en el Diario Oficial de la Federación el 1 de junio de 2018.
 
@@ -6624,8 +6560,6 @@ I.	Conforme a la regla 1.1.6., se dan a conocer las cantidades actualizadas esta
 
 Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
 
-.
-
 Atentamente,
 
 Ciudad de México, a 16 de diciembre de 2022.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -6661,8 +6595,6 @@ Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglame
 I.	Cantidades actualizadas establecidas en la Ley, conforme a la regla 1.1.6.:
 
 Nota: Se actualizan las cantidades establecidas en los artículos 16 fracción II; 16-A; 16-B; 17; 160 fracción IX; 164 fracción VII; 165 fracciones II, inciso a) y VII, inciso a); 167-D, fracción I; 167-G, fracción IV; 178 fracción II; 181; 183 fracciones II y V; 184-B, fracciones I y II; 185 fracciones I a VI, VIII a XII y XIV; 185-B; 187 fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189 fracciones I y II; 191 fracciones I a IV; 193 fracciones I, II y III; y 200, de la Ley Aduanera.
-
-..
 
 Atentamente.
 
@@ -6710,178 +6642,18 @@ Multas y cantidades actualizadas que establece la Ley y su Reglamento
 
 Para los efectos de los artículos 5o., primer párrafo de la Ley, 2 del Reglamento y 17-A, sexto párrafo y 70, sexto párrafo del CFF, en relación con la regla 1.1.6., se dan a conocer las multas y cantidades actualizadas establecidas en la Ley y su Reglamento, conforme a lo siguiente:
 
-..
-
 I.	Cantidades actualizadas establecidas en la Ley:
 
 ArtículoCantidadArtículo 16.II.$3,632,910.00Artículo 16-A.Quinto párrafo.$330.00Artículo 16-B.Último párrafo.$260.00Artículo 17.Último párrafo.$270.00Artículo 160.IX.$510.00Artículo 164.VII.$262,210.00Artículo 165.II. a).$374,610.00VII. a).$374,610.00Artículo 167-D.I.$672,680.00Artículo 167-G.IV.$241,620.00Artículo 178.II.$7,520.00 a $18,760.00XII.$1,500,000.00 a $2,000,000.00XIII.$800,000.00 a $1,000,000.00Artículo 181.Primer párrafo.$1,000.00 a $1,500.00Artículo 183.II.$3,020.00 a $4,560.00V.$112,580.00 a $150,090.00Artículo 184-B.I.$53,500.00 a $106,970.00II.$2,330.00 a $3,320.00Artículo 184-D.$69,900.00 a $109,870.00Artículo 185.I.$4,790.00 a $7,190.00II.$2,640.00 a $3,750.00III.$4,520.00 a $7,560.00IV.$6,060.00 a $9,070.00V.$5,640.00 a $9,390.00VI.$5,630.00 a $9,340.00VIII.$108,170.00 a $162,340.00IX.$302,750.00 a $454,110.00X.$3,750.00 a $5,640.00XI.$11,250.00 a $15,000.00$5,640.00 a $9,390.00XII.$1,890.00 a $3,750.00XV.$5,000.00 a $8,000.00Artículo 185-B.$27,070.00 a $54,180.00Artículo 187.I.$10,830.00 a $14,890.00II.$3,020.00 a $4,560.00IV.$26,790.00 a $40,160.00V.$18,160.00 a $24,200.00VI.$108,320.00 a $162,500.00VIII.$60,570.00 a $121,100.00X.$150,090.00 a $206,370.00XI.$1,890.00 a $3,750.00XII.$677,060.00 a $1,083,330.00XIV.$108,320.00 a $162,500.00XV.$1,354,130.00 a $2,708,280.00Artículo 189.I.$60,570.00 a $90,820.00II.$121,100.00 a $181,650.00Artículo 191.I.$30,280.00 a $45,420.00II.$60,570.00 a $90,820.00III.$6,060.00 a $9,070.00IV.$121,100.00 a $181,650.00Artículo 193.I.$18,160.00 a $24,200.00II.$24,200.00 a $30,280.00III.$24,200.00 a $30,280.00Artículo 200.$90,820.00 a $121,100.00
-
-..
 
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
-f
-
-g
-
-Y
-
-[
-
-e
-
-f
-
-g
-
-n
-
-o
-
-n
-
-r
-
-×
-
-Ö
-
-×
-
 JklTvwë
 
-a$
-
-9
-
-:
-
-=
-
-q
-
-r
-
-u
-
-³
-
-´
-
-·
-
-î
-
-ï
-
-ò
-
-9
-
-:
-
-q
-
-r
-
-³
-
-´
-
-î
-
-ï
-
-hr
-
 CJ^Jhr
-
-hr
-
-j
-
-Ä
-
-Å
-
-i
-
-j
-
-n
-
-Ã
-
-Ä
-
-Æ>a$gd§xS$ ` a$gd§xS$a$
-
-ùùù%ù)ù3ù4ù5ùúïàÆ¯Æ£ïàÆ¯Æ£ïàÆ¯ÆïànÆ¯Æ¯ÆbO%h
-
-[Mh
-
-[M$ ` a$gd
-
-[Mh
-
-[Mh
-
-[Mh
-
-i
-
-h
-
-©ª½¾¤¥:;@Av
-
-f
-
-g
-
-[
-
-e
-
-f
-
-j
-
-01¼ßà¹ºEïç×Â²ÂÂ²ÂÂ²¢}$LÕü^L`Õüa$gdÅQ5
-
-!
-
-ý
-
-þ
-
-!
-
-.
-
-ÊÌ
 
 ll l¦lÁlÿlmmm
 
 wowwxxþx!yïßßïÏ½ïï¨¨ïï¨¨ïï¨¨ï
-
-hË
-
-hË
-
-hË
-
-hË
-
-hË
-
-hË
-
-hË
-
-hË
-
-h£
-
-h£

@@ -2304,8 +2304,6 @@ Publicado en el Diario Oficial de la Federación el 20 de enero de 2009
 
 Artículo Único. Se reforman los artículos 1, primer párrafo, 2, 6, fracción I, 8, primer párrafo, 14, primer párrafo, 35, primer párrafo, 40, 41, fracción IX, 42, fracción IV, 48, fracción II, y 49, primer párrafo, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2320,8 +2318,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 ÚNICO.- Se reforman las fracciones X del artículo 42, II del artículo 45, III del artículo 46 y V del artículo 49; se adicionan la fracción IX y un último párrafo al artículo 52 y un Título IV De las Responsabilidades y Sanciones, con un Capítulo Único, que comprende el artículo 60, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2335,8 +2331,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de mayo de 2012
 
 Artículo Único.- Se adicionan una fracción VII al artículo 36, recorriéndose las demás en su orden y un artículo 46 Bis, todos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2354,8 +2348,6 @@ Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
 
 Artículo Segundo. Se reforman la fracción X del artículo 44, las fracciones I, VIII y IX del artículo 47 y las fracciones XXI y XXII del artículo 49; se adicionan el párrafo segundo al artículo 21, la fracción XI al artículo 44, pasando la actual XI a ser la XII del artículo 44, y las fracciones X, XI y XII al artículo 47, así como las fracciones XXIII a XXV al artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2371,8 +2363,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2013
 
 ARTÍCULO ÚNICO. Se reforman los artículos 28, párrafo segundo y 29, fracciones I y II de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2468,8 +2458,6 @@ Publicado en el Diario Oficial de la Federación el 22 de junio de 2017
 
 Artículo Segundo. Se adiciona una fracción XII, recorriéndose la subsecuente al artículo 36 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2529,8 +2517,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de marzo de 2021
 
 Artículo Único.- Se reforman los artículos 27, primer párrafo; 28; 29; 30; 31; 32; 33 y 34; se adicionan los artículos 34 Bis; 34 Ter; 34 Quáter; 34 Quinquies; 34 Sexies; 34 Septies; 34 Octies; 34 Nonies; 34 Decies; 34 Undecies; 34 Duodecies; 34 Terdecies; 34 Quaterdecies a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-.........
 
 ##### Transitorios
 
@@ -2628,8 +2614,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
 
 Artículo Primero.- Se adiciona un Capítulo IV Ter denominado "De la Violencia Digital y Mediática" al Título II, compuesto por los artículos 20 Quáter, 20 Quinquies y 20 Sexies a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -2666,8 +2650,6 @@ Publicado en el Diario Oficial de la Federación el 18 de octubre de 2022
 
 Artículo Único.- Se reforma la fracción II del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -2681,8 +2663,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de abril de 2023
 
 Artículo Único.- Se adiciona un párrafo segundo a la fracción XII del artículo 45 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2700,8 +2680,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Quinto.- Se reforma el artículo 18 y se adiciona un tercer párrafo al artículo 2, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2717,8 +2695,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Único.- Se reforma el artículo 7; artículo 8, párrafo único; artículo 34 Ter, fracciones XIX y XX; artículo 34 Quáter, fracción XII; artículo 38, fracciones IX, X, XII y XIII; artículo 41, fracciones V y XIX; artículo 42, fracción XIV, el título de la Sección Cuarta del Capítulo III del Título III; artículo 44, párrafo único fracciones I, IV y XI; artículo 47, fracción IX; artículo 49, párrafo único, fracciones XXIII y XXIV; artículo 52, fracción III y el último párrafo vigente; artículo 54, párrafo único y fracciones IV y VI. Se adiciona una fracción XVII al artículo 5; párrafo segundo al artículo 8; fracción XX, al artículo 34 Ter, recorriéndose la subsecuente, fracción XIII al artículo 34 Quáter, recorriéndose la subsecuente; fracciones XIV, XV y XVI al artículo 38; fracción XX, al artículo 41, recorriéndose la subsecuente; fracciones XV, XVI, XVII, XVIII y XIX al artículo 42, recorriéndose la subsecuente; fracciones XII y XIII, al artículo 44 y se recorre la subsecuente; fracción XXV, al artículo 49, recorriéndose la subsecuente; dos últimos párrafos al artículo 52; un último párrafo al artículo 54; Capítulo VI, denominado De los Centros de Justicia para las Mujeres al Título III, con los artículos 59 Bis, 59 Ter, 59 Quáter, 59 Quinquies, 59 Sexies, 59 Septies, 59 Octies, 59 Nonies y 59 Decies. Se deroga la fracción III del artículo 44 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2747,8 +2723,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023
 
 Artículo Único.- Se reforma la fracción VII del artículo 38 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2780,8 +2754,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2024
 
 Artículo Único.- Se reforma la fracción V del artículo 6; y se adicionan una fracción XVIII al artículo 5; un artículo 16 Bis; una fracción IV al artículo 17; una fracción I Bis al artículo 49; y una fracción I Bis al artículo 50 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2797,8 +2769,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024
 
 Artículo Segundo.- Se reforman los artículos 1, primer párrafo; 2, tercer párrafo; 25 Bis, segundo párrafo; la denominación del Capítulo VI del Título II, De las Medidas u Órdenes de Protección; 27, primer párrafo; 28, fracción I; 30, primer párrafo; 34 Bis, primer y segundo párrafos; 34 Ter, primer párrafo; 46, fracción I; 46 Bis, fracción II; 48, primer párrafo, y se adicionan un cuarto párrafo al artículo 2; las fracciones XIX y XX al artículo 5; un segundo párrafo, recorriéndose el actual segundo párrafo en su orden, al artículo 27; una fracción IX Bis al artículo 34 Ter; un Capítulo VII, al Título II, denominado Del Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, que comprende los artículos 34 A; 34 B; 34 C; 34 D; 34 E; 34 F; 34 G; las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI, recorriéndose la actual fracción XIV en su orden, al artículo 44; una fracción XII, recorriéndose la actual fracción XII en su orden, al artículo 47; las fracciones X, XI, XII, XIII y XIV, recorriéndose la actual fracción X en su orden, al artículo 48; una fracción XXVI, recorriéndose la actual fracción XXVI en su orden, al artículo 49; una fracción XII, recorriéndose la actual fracción XII en su orden, al artículo 50, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2817,8 +2787,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Segundo.- Se reforman la denominación de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; los artículos 2, primer párrafo; 3; 5, fracciones I, II, III, IV, V, IX y XX; 6, en su párrafo; la denominación del Título II; 8, primer párrafo, fracciones I y V; 14, en su párrafo, fracciones I, III y IV; 20; 23, párrafo segundo, apartado D; 24 Bis, fracción III; 24 Quáter, primer párrafo e incisos a) y e) del segundo párrafo; 24 Sexies; 25, primer y segundo párrafos; 25 Bis, primer párrafo; 31, primer párrafo; 34 Ter, fracciones XIV y XVIII; 34 Duodecies; la denominación del Capítulo I del Título III; 36; 37; la denominación del Capítulo II del Título III; 38, fracciones II, III, VIII y X; la denominación del Capítulo III del Título III; 41,  fracción I, II y X; la denominación de la Sección Segunda del Título III; 42; la denominación de la Sección Décima del Capítulo III del Título III; 48; 49, fracción XXV; 59 Bis, fracción X, y 59 Septies, fracción VIII; se adicionan la fracción XXI al artículo 5; la fracción V al artículo 14; un segundo párrafo al artículo 40; y se derogan la Sección Segunda Bis del Capítulo III del Título III y el artículo 42 Bis, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2842,33 +2810,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 hHuR5CJ
 
-M
-
-P
-
-Q
-
-R
-
-M
-
 h$hõÙÀÙº®¤oh\õUõoÀºLCº®¤hç;'5CJ\hHuR5CJ\
 
-hU2¦CJ\hU2¦hU2¦5CJ\
-
 £p­p®p¯pÑpÒpßpqqqqlqqqqqq5rLrVrWrXr]rèÕÏÆÏ®®ÏeLeEeLeÏ<hHuR5CJ\
-
-h<}!CJ\
 
 h»DãCJ\h»Dãh»Dã5CJ\h{_ph/#B*CJph
 
 hLKdB*CJphhç$
-
-ñ
-
-ñ
-
-I J m!!!¦"È"É"k#l#w#¦#ïÝÝÕË¿·°¿·¿¿·°°°¢¢
 
 d-dAdôãÐÉ¿°£Ð|v|v|v|v|v|v|v|vlalalvZv
 
@@ -2880,39 +2828,7 @@ h^(CJhç$
 
 h^(B*CJphhç$
 
-)
-
-´
-
-µ
-
-º
-
-»
-
-Ç
-
-È
-
-²
-
-³
-
-µ
-
-»
-
-Ç
-
-È
-
-Ï
-
-Ð
-
 CJUVhÌL
-
-hÌL
 
 ^JjhÌL
 
@@ -2921,8 +2837,6 @@ ddddôèôÜÉ¶§rgrZIgrgr jhHW'hHW'CJUaJ*h
 0JjhÌL
 
 0JUhÌL
-
-hÌL
 
 hHW'hÌL
 

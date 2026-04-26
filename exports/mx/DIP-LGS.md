@@ -9176,8 +9176,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 1997
 
 ARTÍCULO PRIMERO. Se reforman los artículos 3o., fracción XXVI; 28; 47; 102, primer párrafo; 107; 194, fracción III; 198, 200, primer párrafo; 200 bis; 202; 203; 204; 208, fracción III; 213; 214; 217; 221, fracción II; 223; 224; 225; 229, fracción IV; 230, segundo párrafo; 241; 242, tercer párrafo; 252; 257; 258; 259; 260; 262, fracción VI; 267; 276, primer párrafo y fracción II; la denominación del capítulo XII, del título decimosegundo; 278; 279, fracciones II, III, IV y V; 280; 281; 282; 286 bis; 295; 298; 304, primer párrafo; 305; 307, tercer párrafo; 310, primero y penúltimo párrafos y la fracción II; la denominación del título decimocuarto; 313; 314, fracciones I y X; 319; 320; la denominación del capítulo II del título decimocuarto; 321; 322; 323; 324; 329; 330; 332; 373; 375, fracciones II, VI y X; 376; 376 bis, fracción I; 389, fracción IV; 401, fracciones III, IV, VII y VIII y tercer párrafo; 413, primer párrafo; 419; 420; 421; 422; 425, fracción I; se adicionan los artículos 17 con una fracción VII bis; 58 con la fracción V bis; 119 con la fracción IV; 125, con un último párrafo; 215 con una fracción V; 218, con un segundo párrafo; 226 con un último párrafo; 276, con un último párrafo; el capítulo XII bis del título decimosegundo; 282 bis; 282 bis 1; 282 bis 2; 287; 298, con un último párrafo; 301 bis; 380 con una fracción VII bis; 391 bis; 418, con una fracción V; 425 con una fracción VIII, y se derogan los artículos 196; 200, fracción II; 235, fracción V; 247, fracción V y 375, fracción I, de la Ley General de Salud, para quedar como sigue:
 
-.........
-
 ARTÍCULO SEGUNDO. Se reforman los artículos 13, fracción I; 14; 20, fracción VII; 42; 45; 46; 66; 76; 94; 118, fracción II; 126; 133; 140; 145; 146; 165; 166; 175; 194; 195; 199; 201; 210; 264; 286 bis, fracción II; 351; 370; 380, fracción VI; 392 y 455 de la Ley General de Salud a fin de que la referencia que se hace en dichos artículos a la expresión normas técnicas, se sustituya por la de normas oficiales mexicanas.
 
 ARTÍCULO TERCERO. Se derogan los artículos 14; y 219.
@@ -9199,8 +9197,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de mayo de 2000
 
 ARTÍCULO ÚNICO. Se reforman los artículos 18, segundo párrafo; la denominación del Título Decimocuarto, para quedar como "Donación, trasplantes y pérdida de la vida"; los artículos 313 a 319; el capítulo II, del Título Decimocuarto denominado "Órganos, tejidos y células" para denominarse "Donación", comprendiendo los artículos 320 a 329; el capítulo III, del Título Decimocuarto denominado "Cadáveres" para denominarse "Trasplantes", comprendiendo los artículos 330 a 342; 375, fracción V; 419; 420; 421; 462, primer párrafo y fracción II, y 462 bis primer párrafo; se adiciona con un capítulo IV, el Título Decimocuarto, para denominarse "Pérdida de la vida", comprendiendo los artículos 343 a 345; un capítulo V al Título Decimocuarto para denominarse "Cadáveres", comprendiendo los artículos 346 a 350 bis 7, y el artículo 462, con una fracción III, de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9228,8 +9224,6 @@ Publicado en el Diario Oficial de la Federación el 31 de mayo de 2000
 
 Artículo Unico. Se modifica la fracción II del artículo 188 de la Ley General de Salud para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Unico.- Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9243,8 +9237,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2001
 
 ARTICULO UNICO.- Se adicionan los artículos 199-Bis y 464-Bis a la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -9260,8 +9252,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2002
 
 ARTICULO UNICO.- Se reforma la fracción VII, del Artículo 115, de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9275,8 +9265,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de mayo de 2003
 
 ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 3o. CON UNA FRACCIÓN II BIS, EL ARTÍCULO 13, APARTADO A) CON UNA FRACCIÓN VII BIS Y EL TÍTULO TERCERO BIS A LA LEY GENERAL DE SALUD CON LOS ARTÍCULOS 77 BIS 1 AL 77 BIS 41; Y SE REFORMA LA FRACCIÓN I DEL APARTADO B) DEL ARTÍCULO 13, LA FRACCIÓN IX DEL ARTÍCULO 17, EL ARTÍCULO 28 Y EL ARTÍCULO 35, DE LA CITADA LEY, EN LOS TÉRMINOS SIGUIENTES.
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9346,8 +9334,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 Artículo Único.- Se reforma la fracción IV del artículo 260 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9361,8 +9347,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2003
 
 Artículo Primero: Se reforman los artículos 114, 115, 210 y 212 de la Ley General de Salud, para quedar como siguen:
-
-..........
 
 ##### Transitorios
 
@@ -9382,8 +9366,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2003
 
 Artículo Primero: Se reforma el artículo 258 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9398,11 +9380,7 @@ Publicado en el Diario Oficial de la Federación el 30 de junio de 2003
 
 ARTÍCULO PRIMERO: Se adicionan los artículos 17 bis, 17 bis 1 y 17 bis 2 a la Ley General de Salud, para quedar como sigue:
 
-..........
-
 SEGUNDO.- Se reforman los artículos 313, fracción I y 340, de la Ley General de Salud para quedar como sigue:
-
-..........
 
 ARTICULOS TRANSITORIOS
 
@@ -9420,8 +9398,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2004
 
 Artículo Unico: Se reforma el primer párrafo del artículo 276 y el artículo 421; se adiciona un segundo y tercer párrafos al artículo 277, un segundo párrafo del artículo 277 bis, un artículo 308 bis, y un artículo 309 bis, todos ellos de la Ley General de Salud, para quedar en los siguientes términos:
 
-.........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
@@ -9438,8 +9414,6 @@ Publicado en el Diario Oficial de la Federación el 2 de junio de 2004
 
 ARTICULO UNICO. Se reforma la fracción II del Artículo 115 de la Ley General de Salud, para quedar como sigue:
 
-.........
-
 ##### TRANSITORIO
 
 UNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9453,8 +9427,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2004
 
 Artículo Unico: Se adiciona un segundo párrafo al artículo 329 y se reforman los artículos 333 fracción VI, 461, 462 y 462 Bis de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ARTICULOS TRANSITORIOS
 
@@ -9471,8 +9443,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de enero de 2005
 
 ARTÍCULO ÚNICO.- Se ADICIONA un párrafo quinto al artículo 36 de la Ley General de Salud para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9494,8 +9464,6 @@ Publicado en el Diario Oficial de la Federación el 24 de febrero de 2005
 
 ARTÍCULO ÚNICO: Se reforma el artículo 376 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9516,8 +9484,6 @@ Publicado en el Diario Oficial de la Federación el 24 de febrero de 2005
 
 Artículo Único.- Se reforman; la fracción II del apartado A y fracción I del apartado B del Artículo 13; la fracción II del Artículo 61; y la fracción III del Artículo 112, y se Adicionan; dos fracciones, la V y VI recorriéndose las demás pasando la actual fracción XXVIII a ser XXX al Artículo 3 y las fracciones IV y V al Artículo 61, de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 Artículos Transitorios
 
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9533,8 +9499,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2005
 
 ÚNICO. Se reforman los artículos 314 fracción II y 350 Bis-6 de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9552,8 +9516,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2005
 
 Artículo Único. Se reforman los artículos 420 y 421, y se adiciona el artículo 414 Bis a la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9567,8 +9529,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2005
 
 ÚNICO.- Se adiciona una fracción V, pasando la actual fracción V a ser VI, del Artículo 159 de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -9598,8 +9558,6 @@ Publicado en el Diario Oficial de la Federación el 14 de febrero de 2006
 
 Artículo Único. Se reforman los artículos 195, 201, 210, 258, 264, 286 Bis y 370 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 TRANSITORIO.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9613,8 +9571,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2006
 
 Artículo Unico.- Se adicionan los Artículos 268 Bis, 268 Bis-1, al Capítulo VIII del Título Décimo Segundo y se reforma el Artículo 419 de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9632,8 +9588,6 @@ Publicado en el Diario Oficial de la Federación el 25 de mayo de 2006
 
 Artículo Primero.- Se reforma el Artículo 464 y se adicionan los Artículos 208 Bis y 464 Ter a Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9647,8 +9601,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Artículo Único.- Se reforma el tercer párrafo del artículo 277 de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -9664,8 +9616,6 @@ Publicado en el Diario Oficial de la Federación el 19 de septiembre de 2006
 
 Artículo Único. Se reforman los Artículos 10, párrafo primero; 11, párrafo primero y la fracción I; 27, fracción X; 54; 106; 393, segundo párrafo y 403, segundo párrafo, y se adicionan los Artículos, 3o., con una fracción IV Bis; 6o. con las fracciones IV Bis y VI Bis; 67, con un último párrafo; 93, con un segundo párrafo y 113, con un segundo párrafo de la Ley General de Salud, para quedar como sigue:
 
-...........
-
 ##### TRANSITORIO
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9679,8 +9629,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de enero de 2007
 
 ÚNICO. Se reforman los artículos 419, 420, 421 y 422, y se adiciona el artículo 421-bis, todos de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -9696,8 +9644,6 @@ Publicado en el Diario Oficial de la Federación el 9 de mayo de 2007
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 164 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9711,8 +9657,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de mayo de 2007
 
 Artículo Único.- Se reforma el párrafo segundo del artículo 79 de la Ley General de Salud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -9732,8 +9676,6 @@ Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 Artículo Único. Se adiciona un segundo párrafo al artículo 271 de la Ley General de Salud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- La Secretaría de Salud deberá emitir el Reglamento a que se refiere el párrafo segundo del Artículo 271 en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
@@ -9749,8 +9691,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2007
 
 ARTÍCULO ÚNICO: Se adiciona una fracción VI al artículo 198 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -9768,11 +9708,7 @@ Publicado en el Diario Oficial de la Federación el 30 de mayo de 2008
 
 ARTÍCULO SEGUNDO. Se derogan los artículos 188, 189, 190, 275, 276, 277, 277 bis, 308 bis y 309 bis de la Ley General de Salud, así como todas aquellas disposiciones que se opongan al presente Decreto, para quedar como sigue:
 
-.
-
 ARTÍCULO TERCERO. Se reforman los artículos 3o., fracción XIV; 286, 301, 308, penúltimo párrafo, 309 y 421 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -9798,8 +9734,6 @@ Publicado en el Diario Oficial de la Federación el 14 de julio de 2008
 
 Artículo Único. Se reforman los artículos 3o., fracción XXVIII, 13, Apartado B, fracción I; 313, fracción II y 350 Bis 3, segundo párrafo y se adiciona la fracción XXVIII Bis al artículo 3o. de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9813,8 +9747,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2008
 
 Artículo Único. Se reforma la fracción V del artículo 100 y el artículo 461, y se adicionan los artículos 317 Bis y 317 Bis 1, todos de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -9830,8 +9762,6 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2008
 
 Artículo Único. Se reforma la fracción II del Apartado A del artículo 13, y se adicionan una fracción XVII Bis al artículo 3o. y un artículo 157 Bis a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9846,8 +9776,6 @@ Publicado en el Diario Oficial de la Federación el 5 de enero de 2009
 
 Artículo Único.- Se reforma el artículo 184 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9861,8 +9789,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2009
 
 Artículo Primero. Se reforma la fracción I del inciso B del artículo 13; la fracción III del artículo 27; el artículo 59; la fracción III del artículo 112, y el artículo 421 bis; se adiciona la fracción XXX recorriéndose las demás al artículo 3o., y la fracción IV al artículo 33, todos de la Ley General de Salud, para quedar como sigue:
-
-.
 
 Artículo Segundo. Se crea un Título Octavo Bis denominado De los Cuidados Paliativos a los Enfermos en Situación Terminal.
 
@@ -9884,8 +9810,6 @@ Publicado en el Diario Oficial de la Federación el 17 de abril de 2009
 
 ÚNICO. Se reforma el artículo 51 y se adicionan los artículos 51 Bis 1, 51 Bis 2 y 51 Bis 3 a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El derecho al que se refiere el artículo 51 podrá ser ejercido por los asegurados del Sistema Nacional de Salud una vez que transcurran 12 meses a partir de la entrada en vigor del presente Decreto, a efecto de que dichos organismos efectúen la reorganización que corresponda en los ámbitos médicos y administrativos.
@@ -9902,8 +9826,6 @@ Publicado en el Diario Oficial de la Federación el 31 de mayo de 2009
 
 Artículo Único. Se adiciona la fracción IV al artículo 64 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9917,8 +9839,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2009
 
 Artículo Único.- Se adiciona un artículo 222 Bis a la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -9942,8 +9862,6 @@ Publicado en el Diario Oficial de la Federación el 11 de junio de 2009
 
 Artículo Único. Se reforman los artículos 17 bis, fracción VIII; 313; 314, fracciones VI, XIII y XIV; 316; 329, primer párrafo; 336; 338, fracciones IV y V; 339; 343; 344; 345; se adicionan las fracciones XV, XVI y XVII al artículo 314; un tercero y quinto párrafos, recorriéndose el actual tercero para pasar a ser cuarto al artículo 322; un tercer párrafo al artículo 337; un artículo 341 Bis, y se deroga la fracción VII del artículo 314 de la Ley de General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9959,8 +9877,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009
 
 Artículo Primero. Se REFORMA la fracción XXIII del artículo 3; el párrafo primero del artículo 192; y se ADICIONA un apartado C al artículo 13, un párrafo segundo al artículo 191, los párrafos segundo, tercero y cuarto con dos fracciones al artículo 192; el artículo 192 Bis; el artículo 192 Ter; el artículo 192 Quáter; el artículo 192 Quintus; el artículo 192 Sextus; el artículo 193 Bis; un párrafo segundo al artículo 204; un Capítulo VII denominado "Delitos Contra la Salud en su modalidad de Narcomenudeo" al Título Décimo Octavo; los artículos 473 a 482, todos de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -9988,8 +9904,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2009
 
 Artículo Único.- Se reforman los artículos 77 bis 12 y 77 bis 13, primer párrafo y fracción I, de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor el día 1 de enero del 2010.
@@ -10008,8 +9922,6 @@ Publicado en el Diario Oficial de la Federación el 27 de abril de 2010
 
 Artículo Único.- Se reforma el artículo 222 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
@@ -10027,8 +9939,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de abril de 2010
 
 Artículo Único.- Se reforman las fracciones I, II y III del artículo 464 Ter de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -10100,11 +10010,7 @@ Publicado en el Diario Oficial de la Federación el 10 de junio de 2011
 
 Artículo Primero.- Se reforma el artículo 3o. de la Ley General de Salud, pasando las actuales fracciones V y VI a ser IV Bis 1 y IV Bis 2, recorriéndose las subsecuentes, para quedar como sigue:
 
-.
-
 Artículo Segundo.- Se reforma la fracción II del apartado A y la fracción I del apartado B del artículo 13 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -10119,8 +10025,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 
 Artículo Único.- Se reforman los artículos 72, 73, 74, 75, 76 y 77; y se adiciona un artículo 74 Bis a la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -10138,8 +10042,6 @@ Publicado en el Diario Oficial de la Federación el 1 de septiembre de 2011
 
 ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 81, 83, 271 Y SE ADICIONA EL ARTÍCULO 272 BIS, 272 BIS 1, 272 BIS 2, 272 BIS 3 DE LA LEY GENERAL DE SALUD, PARA QUEDAR COMO SIGUE:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10156,8 +10058,6 @@ Publicado en el Diario Oficial de la Federación el 16 de noviembre de 2011
 
 Artículo Único. Se adiciona una fracción IX Bis al artículo 3o.; se adiciona un Título Quinto Bis y su Capítulo Único denominado El Genoma Humano con los artículos 103 Bis, 103 Bis 1, 103 Bis 2, 103 Bis 3, 103 Bis 4, 103 Bis 5, 103 Bis 6 y 103 Bis 7, y el artículo 421 Ter, a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10171,8 +10071,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 ARTÍCULO ÚNICO.- Se reforman las fracciones I, II y III del artículo 313; las fracciones X, XVI y XVII del artículo 314; el segundo párrafo del artículo 316; el primer párrafo del artículo 322; el primer párrafo y la fracción II del artículo 323; el primer párrafo del artículo 324; el artículo 328; el artículo 329; el artículo 331; la fracción V del artículo 333; la fracción I y II del artículo 334; los artículos 338 y 339; el artículo 350 Bis 7; el artículo 462, y el primer párrafo del artículo 462 Bis; y se adicionan las fracciones IV y V del artículo 313; las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 314; los artículos 314 Bis, 314 Bis 1, 314 Bis 2, 316 Bis, 316 Bis 1, 329 Bis; los párrafos segundo, tercero y cuarto del artículo 333; la fracción II Bis del artículo 334; los artículos 335 Bis y 335 Bis 1; los artículos 342 Bis, 342 Bis 1 y 342 Bis 2, y un tercer párrafo al artículo 462 Bis, todos de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -10200,8 +10098,6 @@ Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 
 ARTÍCULO ÚNICO.- Se adiciona el Artículo 41 Bis; y se reforma el Artículo 98 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10220,8 +10116,6 @@ Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 
 Artículo Único.- Se adiciona una fracción VII, recorriéndose la actual para ser VIII, al artículo 100 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10236,8 +10130,6 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 109 Bis a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
@@ -10251,8 +10143,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de enero de 2012
 
 Artículo Único. Se adicionan los artículos 224 Bis y 224 Bis 1, a la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -10286,8 +10176,6 @@ Publicado en el Diario Oficial de la Federación el 30 de enero de 2012
 
 Artículo Único. Se reforman los artículos 100, fracción IV y 103; y se adicionan un segundo y tercer párrafos al artículo 102, y un artículo 102 Bis a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10308,8 +10196,6 @@ Publicado en el Diario Oficial de la Federación el 5 de marzo de 2012
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 28 Bis a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación, plazo durante el cual el Ejecutivo Federal, a través de la Secretaría de Salud y de conformidad con el texto propuesto en el último párrafo del artículo 28 Bis de la Ley General de Salud, deberá establecer los lineamientos y procedimientos de operación, así como los criterios para la prescripción de medicamentos por el personal de enfermería en la atención primaria a la salud.
@@ -10323,8 +10209,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de marzo de 2012
 
 ARTÍCULO ÚNICO.- Se adiciona un segundo párrafo al artículo 51 Bis 1, de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -10342,8 +10226,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXAGÉSIMO. Se reforman los artículos 4o., fracción IV; 31; 43; 104; 105; 108; 109; 115, fracción VIII; 117; 123; 182; 286 Bis, fracción I; y 300 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10360,8 +10242,6 @@ Publicado en el Diario Oficial de la Federación el 28 de mayo de 2012
 
 Artículo Único. Se reforma el artículo 32 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10377,8 +10257,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 
 Artículo Segundo. Se reforma la fracción VI del artículo 17 Bis y se adiciona un párrafo segundo al artículo 197 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -10404,8 +10282,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 
 Artículo Único. Se reforman los artículos 61 actual primer párrafo y fracción I; y 64, fracción II; y se adicionan los artículos 61, con un primer párrafo, 61 Bis, 64, fracción II Bis y 64 bis, a la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10420,8 +10296,6 @@ Publicado en el Diario Oficial de la Federación el 14 de enero de 2013
 
 Artículo Primero.- Se reforma el primer párrafo y se adicionan los párrafos segundo, con las fracciones I, II y III, y tercero al artículo 464 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10435,8 +10309,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de enero de 2013
 
 ARTÍCULO ÚNICO. Se reforma la fracción I del artículo 2°., de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -10482,8 +10354,6 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2013
 
 ARTÍCULO ÚNICO. Se reforman los artículos 198, primer párrafo; 314, fracción XXVII; 317; 338, fracción IV; 339, párrafos primero y segundo; y se adicionan los artículos 314, con una fracción I Bis; 315, con una fracción V; 316, con los párrafos sexto, séptimo, octavo y noveno; 321 Bis; 327, con un párrafo segundo y 338, con un párrafo tercero a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10497,8 +10367,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de enero de 2013
 
 ARTÍCULO ÚNICO. Se reforman las fracciones II, III, IV y V del artículo 61 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -10514,8 +10382,6 @@ Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 ARTÍCULO ÚNICO. Se reforma la fracción VI del Artículo 163 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10529,8 +10395,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 ARTÍCULO ÚNICO.- Se reforma la fracción III del artículo 111; y se adicionan una fracción III Bis al artículo 118 y una fracción I Bis al artículo 119 de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -10548,8 +10412,6 @@ Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 ARTÍCULO ÚNICO.- Se reforma la fracción XVII del artículo 3, la fracción III del artículo 6, la fracción III del artículo 33, el artículo 59, la fracción VI del artículo 100, la fracción I del artículo 104, la fracción III del artículo 112, la denominación del Título Noveno Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad, las fracciones I, II y V del artículo 168, el artículo 173, el párrafo primero y las fracciones I, II, III, IV , V y VI del artículo 174 y los artículos 175, 177, 178, 180 y 300 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10561,8 +10423,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2013
 
 ARTÍCULO ÚNICO.- Se adicionan una fracción I Bis al artículo 389 y los artículos 389 Bis y 389 Bis 1, y dos últimos párrafos al artículo 392 a la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -10584,8 +10444,6 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2013
 
 ARTÍCULO ÚNICO. Se reforman los artículos 103 Bis 1 y 103 Bis 3, de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10599,8 +10457,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2013
 
 Artículo Único.- Se adiciona un artículo 1°. Bis a la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -10616,8 +10472,6 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2013
 
 ARTÍCULO ÚNICO. Se adiciona un segundo párrafo al Artículo 220 y un Artículo 467 Bis a la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10631,8 +10485,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de enero de 2014
 
 ARTÍCULO ÚNICO.- Se reforman las fracciones I y III del artículo 245 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -10696,8 +10548,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
 
 Artículo Primero.- Se reforma la fracción II del artículo 64 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10725,8 +10575,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2014
 
 Artículo Único. Se reforman los artículos 77 Bis 2; 77 Bis 5, inciso A), fracciones I, IV, VIII, IX, XII, XV, XVI y XVII, así como el inciso B), párrafo primero y las fracciones I, II y III VIII; 77 Bis 6; 77 Bis 9, párrafo segundo; 77 Bis 10; 77 Bis 11; 77 Bis 12, párrafo tercero; 77 Bis 13, párrafo primero, así como la fracción I; 77 Bis 14; 77 Bis 15; 77 Bis 16; 77 Bis 18, párrafos primero a tercero; 77 Bis 19; 77 Bis 20, párrafos primero y segundo; 77 Bis 22; 77 Bis 23; 77 Bis 24; 77 Bis 30, párrafos primero, tercero y quinto; 77 Bis 31; 77 Bis 32, párrafo primero, así como las fracciones I, II, párrafo primero, III y IV, párrafos primero, segundo y tercero; 77 bis 35, así como la denominación de los capítulos VII y VIII, del Título Tercero Bis; se adicionan al artículo 77 Bis 13, un párrafo quinto y el artículo 469 Bis y se derogan los artículos 77 Bis 33 Y 77 Bis 34, de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -10772,8 +10620,6 @@ Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015
 
 Único.- Se reforma el artículo 157 Bis de la Ley General de Salud, en materia de enfermedades de transmisión sexual, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10787,8 +10633,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015
 
 Artículo Único. Se reforma el artículo 79 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -10876,8 +10720,6 @@ Publicado en el Diario Oficial de la Federación el 20 de abril de 2015
 
 Artículo Único.- Se reforman los artículos: 112, fracción III; 313, fracciones I y V; 314, fracciones I Bis, XIII, XXVI y XXVII; 315; 316 Bis 1; el segundo párrafo del 317; el párrafo quinto del 322; la fracción II del 323; 327; el primer párrafo del 329 Bis; las fracciones I y IV y los párrafos segundo y tercero del 338; el segundo párrafo del 339; 341 y 341 Bis; y se adicionan las fracciones XII Bis, XII Bis 1, XIV Bis y XXVIII al artículo 314; un tercer párrafo al artículo 317; el Capítulo III Bis al Título Décimo Cuarto, tres párrafos al artículo 342 Bis 1; un segundo párrafo al artículo 342 Bis 2, los artículos 342 Bis 3, 460 Bis y una fracción VII al artículo 462, todos de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -10916,8 +10758,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2015
 
 Artículo Único.- Se reforma la fracción V y se adiciona una fracción V Bis, al artículo 73, y se reforma el párrafo segundo del artículo 77 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -10933,8 +10773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2015
 
 Artículo Único.- Se reforma el artículo 46 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -11042,8 +10880,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único.- Se reforma la fracción VIII del artículo 134 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -11057,8 +10893,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único. Se reforma la fracción III del artículo 112 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -11074,8 +10908,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único.- Se adiciona un párrafo segundo al artículo 70 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -11089,8 +10921,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único.- Se reforma el artículo 32 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -11150,8 +10980,6 @@ Publicado en el Diario Oficial de la Federación el 19 de junio de 2017
 
 Artículo Primero.- Se reforman los artículos 237, párrafo primero; 245, fracciones I, II y IV; 290, párrafo primero; y se adicionan el artículo 235 Bis y un segundo párrafo a la fracción V del artículo 245 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -11171,8 +10999,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2017
 
 Artículo Único.- Se reforma el artículo 144; primer párrafo y fracciones III y IV del artículo 408; el artículo 420; y se adicionan las fracciones V y VI y último párrafo del artículo 408; un Capítulo II Bis, al Título Octavo, que comprende los artículos 157 Bis 1 a 157 Bis 16 y un artículo 462 Bis 1 de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11198,8 +11024,6 @@ Publicado en el Diario Oficial de la Federación el 22 de junio de 2017
 
 Artículo Único.- Se adicionan una fracción XVI Bis al artículo 3o.; una fracción X Bis al artículo 7o.; y un capítulo III Bis al Título Octavo denominado Del Registro Nacional de Cáncer que comprende el artículo 161 Bis de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
@@ -11219,8 +11043,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de noviembre de 2017
 
 ARTÍCULO TERCERO.- Se reforman los artículos 348, segundo párrafo; 350 Bis 3, segundo párrafo; 350 Bis 4 y 350 Bis 5, de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -11334,8 +11156,6 @@ Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2017
 
 Artículo Único.- Se reforma el primer párrafo del artículo 79 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -11349,8 +11169,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2018
 
 Artículo Único.- Se adiciona un artículo 10 Bis a la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11386,8 +11204,6 @@ Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Primero.- Se adiciona la fracción I Ter al artículo 389 y se adicionan los artículos 389 Bis 2 y 389 Bis 3 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -11421,8 +11237,6 @@ Ciudad de México, a 13 de noviembre de 2018.- El Secretario de Salud y Presiden
 Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
 
 Artículo Único.- Se reforman los artículos 66, primer párrafo; 111, fracción II; 115, fracción VII; 159, fracción V; 212, primer y segundo párrafos; y se adicionan los artículos 2o., con una fracción VIII; 114, con un tercer párrafo; 210, con un segundo párrafo; 212, con tercer y cuarto párrafos, recorriéndose el actual tercer párrafo para pasar a ser quinto párrafo y 215, con las fracciones VI y VII de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11492,8 +11306,6 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2020
 
 Artículo Único.- Se reforma el primer párrafo del artículo 79 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -11507,8 +11319,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2020
 
 Artículo Único.- Se reforman los artículos 314, fracción V; 348 y 419; y se adicionan los artículos 348 Bis; 348 Bis 1 y 348 Bis 2, a la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11544,8 +11354,6 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2020
 
 Artículo Único.- Se reforma la fracción XIII Bis del artículo 7o.; y se adicionan los artículos 272 Bis 4,  272 Bis 5 y 272 Bis 6 a la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -11564,8 +11372,6 @@ Publicado en el Diario Oficial de la Federación el 7 de enero de 2021
 
 Artículo Segundo.- Se adiciona una fracción VI al artículo 161 Bis de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -11579,8 +11385,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Séptimo.- Se adiciona un segundo párrafo al artículo 480 de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11658,8 +11462,6 @@ SECRETARIO DE ESTUDIO Y CUENTA: ALEJANDRO GONZÁLEZ PIÑA
 
 COLABORÓ: JORGE RODRIGO ARREDONDO LÓPEZ
 
-Vo. Bo.
-
 Ministra:
 
 Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al día veintiocho de junio de dos mil veintiuno, emite la siguiente:
@@ -11667,8 +11469,6 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
 
 Derivada de la jurisprudencia fijada por la Primera Sala de la Suprema Corte de Justicia de la Nación en diversos amparos indirectos en revisión, en la que declaró la inconstitucionalidad del sistema de prohibiciones administrativas previsto en diversas porciones de los artículos 235, último párrafo, 237, 245, fracción I, 247, último párrafo y 248 de la Ley General de Salud, que prohíbe absolutamente a la Secretaría de Salud emitir autorizaciones para realizar las actividades relacionadas con el autoconsumo de cannabis y tetrahidrocannabinol (THC) con fines recreativos, por considerarlo violatorio del derecho fundamental al libre desarrollo de la personalidad reconocido por el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos.
-
-..
 
 SE RESUELVE
 
@@ -11679,8 +11479,6 @@ TERCERO. Notifíquese esta sentencia a la Secretaría de Salud y a la Comisión 
 CUARTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 Firma el señor Ministro Presidente y la señora Ministra Ponente con el Secretario General de Acuerdos que autoriza y da fe.
 
@@ -11703,8 +11501,6 @@ DE CONTROVERSIAS CONSTITUCIONALES Y
 DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
-
-P R E S E N T E
 
 El Tribunal Pleno, en su sesión celebrada el veintiuno de septiembre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 54/2018, promovida por la Comisión Nacional de los Derechos humanos, en los términos siguientes:
 
@@ -11747,8 +11543,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
 
 Artículo Único.- Se reforma el párrafo tercero del artículo 77 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -11794,8 +11588,6 @@ Publicado en el Diario Oficial de la Federación el 16 de marzo de 2022
 
 Artículo Único.- Se reforman los artículos 3o., fracción XIII; 17 bis, fracción II; 130; 146; 155; 156, fracciones II y III; 157; 409 y 463 de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -11809,8 +11601,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de marzo de 2022
 
 Artículo Único.- Se reforman los artículos 3o., fracción XVI; 17, fracción II; 27, fracción II; 37, tercer párrafo; 158; 159, primer párrafo y fracción I; 160 y 161 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -11846,8 +11636,6 @@ Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022
 
 Artículo Primero.- Se adiciona una fracción XIV Bis al artículo 7o. de la Ley General de Salud, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -11861,8 +11649,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Segundo. Se reforma el artículo 15 y 17 bis 2 de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -11881,8 +11667,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de mayo de 2022
 
 Artículo Único.- Se reforman los artículos 72; 73, actual primer párrafo y las fracciones I, II, III, IV, V, VII, VIII y actual IX; 74; actual 74 Bis, 75; 76, primer párrafo; y 77; se adicionan los párrafos tercero, cuarto, quinto, sexto, séptimo, octavo, noveno y décimo al artículo 51 Bis 2; el artículo 72 Bis; el artículo 72 Ter; un primer párrafo, recorriéndose el actual, y las fracciones IX, X y XI, recorriéndose la actual IX en su orden, al artículo 73; 73 Bis; 73 Ter; 74 Ter; 75 Bis y 75 Ter; se deroga la fracción V Bis del artículo 73; el Capítulo I del Título Décimo Primero y el artículo 184 Bis de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -11904,8 +11688,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Único.- Se adiciona un artículo 216 Bis a la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial  de la Federación.
@@ -11921,8 +11703,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 2023
 
 Artículo Único.- Se reforma la fracción II del artículo 17 Bis; la fracción VIII del artículo 27; artículo 29; fracción V Bis del artículo 58; fracción II del artículo 194; artículo 194 Bis; primer párrafo del artículo 195; primer párrafo del artículo 204; artículo 214; primer párrafo del artículo 262; artículo 263; primer párrafo del artículo 376; se adiciona una fracción VII y un segundo párrafo al artículo 262 y el artículo 464 Quater; y se deroga el artículo 268 de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -11945,8 +11725,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 2023
 
 Artículo Único.- Se adiciona un artículo 159 Bis a la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -12002,8 +11780,6 @@ Publicado en el Diario Oficial de la Federación el 3 de enero de 2024
 
 Artículo Segundo. Se reforman el segundo, actuales tercero, cuarto y séptimo párrafos y las fracciones I y II del actual párrafo quinto, del artículo 77 bis 16 A; se adicionan los párrafos tercero y quinto, recorriéndose los subsecuentes, al artículo 77 bis 16 A, y se derogan el segundo párrafo de la fracción II bis, del artículo 3o.; y la fracción III, del artículo 7o. de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12038,8 +11814,6 @@ Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024
 
 Artículo Único.- Se reforman las fracciones VI Bis y VII del artículo 6o.; la fracción IV del artículo 64; el primer párrafo del artículo 79; el artículo 389 Bis, segundo párrafo, y se adiciona un segundo párrafo, recorriéndose los subsecuentes, al artículo 392 de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12058,8 +11832,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Cuadragésimo.- Se reforman los artículos 3o., fracción IV Bis; 6o., fracción IV Bis; 10, primer párrafo; 11, primer párrafo; 51 Bis 1, párrafo segundo; 54; 106; 185 Bis 2, fracción IV; 393, párrafo segundo y 403, párrafo segundo, de la Ley General de Salud, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12073,8 +11845,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Segundo.- Se adiciona un artículo 465 Ter a la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -12091,8 +11861,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Sexto.- Se reforman los artículos 6o., fracción XII; 7o., actual fracción XV; 35, primer párrafo; 36, cuarto párrafo; 70, segundo párrafo; 73, primer párrafo; y se adicionan un segundo párrafo al artículo 2o. y una fracción XV al artículo 7o., de la Ley General de Salud, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -12119,8 +11887,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Único.- Se reforman los artículos 3o., actual fracción XXVIII; 6o., fracción XII; 7o., fracciones VIII Bis, actual X, que pasa a ser IX Bis, XIV Bis y actual XV; 10, párrafo primero y actual párrafo segundo; 13, apartado B, fracciones V, VI y actual VII; 17 Bis, párrafos primero y segundo, fracciones II, VI, X y XI; 18, párrafo primero; 19, párrafo primero; 32, párrafo segundo; 41 Bis; 51 Bis 3; 77 bis 5, inciso A), fracción VI, e inciso B), fracciones V y VI; 77 bis 8; 77 bis 9, párrafo segundo; 77 bis 10, fracción III; 77 bis 17; 77 bis 29, párrafo primero, fracción II, y párrafo cuarto; 77 bis 30, párrafos cuarto y quinto; 77 bis 35, párrafo tercero, fracción XII; 98; 104, primer párrafo; 105; 194, párrafos primero y segundo, fracción I; 222, párrafo segundo; 234; 245, fracciones I, párrafo segundo, II y IV; 259, párrafo primero; 313, fracciones III y V; 314, fracciones XIV Bis, XVII, XXV, XXVII y XXVIII; 316, párrafos primero, segundo, quinto, sexto y séptimo; 316 Bis 1; 319; 321 Bis; 322, párrafo quinto; 323, fracción II; 327, párrafo primero; 332, párrafo segundo; la denominación del Capítulo III Bis del Título Décimo Cuarto; 341, párrafo primero, inciso A), fracción IV, y párrafo segundo;  341 Bis, párrafo primero; 342 Bis 1, párrafo primero; 342 Bis 3, párrafo primero y fracción III; 371; 375, fracción VI; 376; 396, fracción I; 414 Bis, párrafo primero, incisos a) y b), y 431; se adicionan los artículos 3o., con las fracciones III Bis, XXVIII y XXIX; 6o., con la fracción XIII; 7o., con las fracciones II Ter, X, XIV Ter, XV y XVI, recorriéndose en su orden la subsecuente; 9 Bis; 10, con los párrafos segundo, pasando el actual a ser párrafo tercero y último; 13, apartado A, con la fracción III Bis, y apartado B, con la fracción VII, recorriéndose en su orden la subsecuente; 17 Bis, párrafo segundo, con las fracciones XII Bis, XII Ter, XII Quater y XII Quinquies; 35 Bis; el Capítulo IV Bis al Título Tercero, que comprende los artículos 60 Bis, 60 Ter, 60 Quater, 60 Quinquies y 60 Sexies; el Capítulo IV Ter al Título Tercero, que comprende los artículos 60 Septies,  60 Octies, 60 Nonies, 60 Decies; el Capítulo VI Bis al Título Tercero, que comprende los artículos 71 Bis, 71 Ter, 71 Quater, 71 Quinquies, 71 Sexies, 71 Septies y 71 Octies; 77 bis 10, con la fracción IV Bis; 222, párrafo tercero; 245, fracción III, los párrafos quincuagésimo sexto, recorriéndose los subsecuentes en su orden, y último; 262 Bis; el Capítulo XII Ter al Título Décimo Segundo, que comprende los artículos 282 Ter,  282 Quater y 282 Quinquies; 314, con las fracciones XI Bis, XXIX, XXX, XXXI y XXXII; 340 Bis; 340 Ter;  340 Quater; 341, con un párrafo tercero; 342 Bis 1, con los párrafos sexto y séptimo; 342 Bis 4; 414 Bis, párrafo primero, con un inciso c), y 456 Bis, y se derogan los artículos 7o., fracción II, el párrafo tercero; 108; 245, fracción III, párrafo cuadragésimo quinto, y 314, fracción IV, de la Ley General de Salud, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -12162,137 +11928,23 @@ Formalizada la modificación al contrato dentro de los treinta días hábiles si
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-;
-
-F
-
-G
-
-E
-
-F
-
-G
-
-R
-
-¢
-
-£
-
-¤
-
-Ï
-
-Ð
-
 hrc5CJ
-
-XõÕèßèàè÷èé
-
-*
-
-Õ
-
-Ö
 
 IJÍÎ
 
-*
-
-Õ
-
-Ö
-
 IJOÍÎÒ
-
-§ÊË
-
-§¿ÉÊËß
-
-®ha
-
-®ha
-
-®ha
-
-®ha
 
 ®\s}§±²³¸åÎ··jQj>,"ha
 
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-®ha
-
-Æ
-
-Ð
-
-Ò
-
-ß
-
-é
-
-ì
-
-ú
-
 ÉGÝGWImIwIxIJ0J:JEJJJlJmJnJéÔ¸¸zcL2L2&hô
-
--$Ä`Äa$gd$ ` a$gd$Ä`Äa$gd
 
 Xõeopq}ú3=>?K
 
-GCJPJaJh)g×h
-
-Ôëõö÷¡¢
-
-ù«¬	¬¬'¬(¬,¬6¬7¬8¬<¬©¬ª¬·¬¸¬Ä¬Å¬Ñ¬Ò¬Ú¬Û¬ê¬ë¬
-
 hrcCJ\
 
 hrcCJ\
-
-hz35CJ
-
-¥
-
-¦
-
-¤
-
-¥
 
 »SÇSÑSÝSÞSßSìSêUV
-
-Û
-
-Ú
-
-I	I	I	©I	0J	9J	æJ	îJ	´L	»L	M	M	0O	EO	jO	O	O	¬O	ÀO	ÖO	íO	îO	BQ	_Q	Q	¥Q	²Q
-
-Ç
-
-È
-
-ò
-
-È
 
 hOt±5CJ\aJhþ.
 
@@ -12302,1696 +11954,10 @@ hOt±CJaJhþ.
 
 hOt±5CJaJhþ.
 
-G$&dPÆÿa$gd
-
-G
-
-Gh
-
 G5CJaJh
-
-Gh
-
-G5CJPJaJh
-
-ÃÃ.Ã3ÃïÛÏÁ´¦|eÁ´¦T´C1C´#h)g×h
-
-G5CJPJaJmH	sH	 h)g×h
-
-GCJPJaJmH	sH	 h
-
-Gh
-
-Gh
-
-Gh
-
-Gh
-
-GCJPJaJh)g×h
-
-G5CJPJaJh
-
-G3ÃRÃfÃÃÃ³ÃÌÃÍÃÎÃÅÅDÅ]ÅhÅiÅjÅÃÅÅÅÆÅùÅÆÆ
 
 GCJaJh)g×h
 
 G5CJaJ h
 
-Gh
-
-GCJPJaJh)g×h
-
-G5CJPJaJ
-
-W
-
-X
-
-`
-
-X
-
-ªª««
-
-³³i³r³Ó³
-
-±
-
-S
-
-E
-
-`
-
-u
-
-¥
-
-Á
-
-Ö
-
-ÿ
-
-;
-
->
-
-Y
-
-¥
-
-°
-
-±
-
-²
-
-S
-
-T
-
-­
-
-S
-
-T
-
-)
-
-*
-
-0
-
-1
-
-w
-
-x
-
-#
-
-)
-
-2
-
-;
-
-A
-
-]
-
-r
-
-¡
-
-¾
-
-Ó
-
-ï
-
-,
-
-G
-
-w
-
-0
-
-1
-
-d
-
-v
-
-w
-
-x
-
-#
-
-$
-
--
-
-©
-
-v
-
-w
-
-î
-
-ï
-
-÷
-
-#
-
-$
-
-v
-
-w
-
-î
-
-ï
-
-¦
-
-õ
-
-ö
-
-=
-
->
-
-I
-
-d
-
-x
-
-¨
-
-Ä
-
-Ø
-
-õ
-
-3
-
-N
-
-~
-
-¥
-
-¦
-
-§
-
-õ
-
-ö
-
-)
-
-<
-
-=
-
->
-
-O
-
-¡
-
-©
-
-¶
-
-·
-
-Á
-
-/
-
-0
-
-:
-
-Ç
-
-È
-
-ø
-
-¢
-
-£
-
-¨
-
-©
-
-¶
-
-·
-
-/
-
-0
-
-Ç
-
-È
-
-¥
-
-¦
-
-=!
-
-¥!
-
-¦!
-
-ì!
-
-í!
-
-ø#
-
-ù#
-
-þ#
-
-ÿ#
-
-"
-
-8
-
-L
-
-f
-
-x
-
-£
-
-¤
-
-¥
-
-¦
-
-Ê
-
-å
-
-!
-
-1!
-
-<!
-
-=!
-
->!
-
-¥!
-
-¦!
-
-Ù!
-
-ë!
-
-ì!
-
-í!
-
-þ!
-
-÷#
-
-ÿ#
-
-$
-
-$
-
-$
-
-$
-
-$
-
-$
-
-%
-
-%
-
-"%
-
-¼%
-
-½%
-
-Æ%
-
-&'
-
-''
-
-0'
-
-^(
-
-_(
-
-(
-
-¤(
-
-$
-
-$
-
-$
-
-$
-
-%
-
-%
-
-¼%
-
-½%
-
-&'
-
-''
-
-^(
-
-_(
-
-J)
-
-K)
-
-à*
-
-/+
-
-0+
-
-v+
-
-w+
-
-Û+
-
-Ü+
-
-¸(
-
-Î(
-
-â(
-
-þ(
-
-)
-
-0)
-
-H)
-
-I)
-
-J)
-
-K)
-
-m*
-
-*
-
-¸*
-
-Ô*
-
-ß*
-
-à*
-
-á*
-
-/+
-
-0+
-
-c+
-
-u+
-
-v+
-
-w+
-
-+
-
-Ú+
-
-â+
-
-ï+
-
-ð+
-
-ú+
-
-l,
-
-á+
-
-â+
-
-ï+
-
-ð+
-
-l,
-
-m,
-
--
-
--
-
-p.
-
-q.
-
-0
-
-¢0
-
-£0
-
-é0
-
-ê0
-
-:
-
-:
-
-:
-
-:
-
-:
-
-m,
-
-w,
-
--
-
--
-
-½-
-
-Ó-
-
-ç-
-
-ý-
-
-.
-
--.
-
-A.
-
-V.
-
-n.
-
-o.
-
-p.
-
-q.
-
-/
-
-/
-
-®/
-
-Þ/
-
-ú/
-
-0
-
-0
-
-¢0
-
-£0
-
-Ö0
-
-è0
-
-é0
-
-ê0
-
-ú0
-
-:
-
-:
-
-:
-
-:
-
-:
-
-":
-
-:
-
-:
-
-:
-
-:
-
-¾;
-
-¿;
-
-À;
-
-É;
-
->
-
->
-
->
-
->
-
-R@
-
-T@
-
-U@
-
-A
-
-A
-
-.B
-
-/B
-
-C
-
-C
-
-§C
-
-£D
-
-¤D
-
-«D
-
-G
-
-G
-
-G
-
-I
-
-I
-
-I
-
-ÂK
-
-ÃK
-
-ËK
-
-ºL
-
-»L
-
-ÃL
-
->N
-
-?N
-
-fN
-
-nN
-
-N
-
-N
-
-®N
-
-ÂN
-
-àN
-
-ôN
-
-O
-
-(O
-
-)O
-
-*O
-
-+O
-
-NP
-
-:
-
-:
-
-:
-
-¿;
-
-À;
-
->
-
->
-
-T@
-
-U@
-
-A
-
-A
-
-.B
-
-/B
-
-C
-
-C
-
-£D
-
-¤D
-
-G
-
-G
-
-I
-
-I
-
-ÂK
-
-ÃK
-
-ºL
-
-»L
-
->N
-
-?N
-
-*O
-
-+O
-
-ÁP
-
-Q
-
-Q
-
-ÝQ
-
-ÞQ
-
-S
-
-S
-
-S
-
-S
-
-S
-
-S
-
-T
-
-T
-
-æU
-
-çU
-
-Z
-
-Z
-
-[
-
-[
-
-D_
-
-iP
-
-P
-
-µP
-
-ÀP
-
-ÁP
-
-ÂP
-
-Q
-
-Q
-
-Q
-
-ÊQ
-
-ÜQ
-
-ÝQ
-
-ÞQ
-
-ðQ
-
-ëR
-
-òR
-
-S
-
-S
-
-S
-
-S
-
-S
-
-¤S
-
-T
-
-T
-
-T
-
-!T
-
-åU
-
-æU
-
-çU
-
-ïU
-
-Z
-
-Z
-
-[
-
-[
-
-[
-
-D_
-
-E_
-
-a
-
-a
-
-a
-
-+b
-
-,b
-
-2b
-
-mc
-
-nc
-
-vc
-
-d
-
-d
-
-d
-
-íf
-
-îf
-
-õf
-
-ªg
-
-«g
-
-±g
-
-Þg
-
-E_
-
-a
-
-a
-
-+b
-
-,b
-
-mc
-
-nc
-
-d
-
-d
-
-íf
-
-îf
-
-ªg
-
-«g
-
-h
-
-h
-
-'j
-
-ªj
-
-«j
-
-òj
-
-ój
-
--l
-
-.l
-
-õg
-
-h
-
-h
-
-4h
-
-Ph
-
-dh
-
-yh
-
-h
-
-h
-
-¼i
-
-×i
-
-äi
-
-j
-
-j
-
-&j
-
-'j
-
-ªj
-
-«j
-
-Þj
-
-ñj
-
-òj
-
-ój
-
-k
-
-,l
-
-4l
-
-Al
-
-Bl
-
-Kl
-
-¼l
-
-3l
-
-4l
-
-Al
-
-Bl
-
-½l
-
-¾l
-
-Em
-
-Fm
-
-fn
-
-gn
-
-xo
-
-yo
-
-`p
-
-ap
-
-ðq
-
-fr
-
-gr
-
-­r
-
-®r
-
-Ñs
-
-Òs
-
-½l
-
-¾l
-
-Çl
-
-Dm
-
-Em
-
-Fm
-
-Om
-
-en
-
-fn
-
-gn
-
-on
-
-wo
-
-xo
-
-yo
-
-ªo
-
-Áo
-
-Õo
-
-ìo
-
-p
-
-p
-
-0p
-
-Fp
-
-^p
-
-`p
-
-ap
-
-q
-
-q
-
-­q
-
-Ëq
-
-äq
-
-ïq
-
-ðq
-
-ñq
-
-dr
-
-fr
-
-gr
-
-r
-
-¬r
-
-­r
-
-®r
-
-Ær
-
-Ðs
-
-Ùs
-
-ås
-
-îs
-
-`t
-
-t
-
-t
-
-©t
-
-½t
-
-Ôt
-
-èt
-
-þt
-
-u
-
-.u
-
-Fu
-
-Hu
-
-Uv
-
-Øs
-
-Ùs
-
-ås
-
-æs
-
-`t
-
-at
-
-Hu
-
-Iu
-
-Øv
-
-Zw
-
-[w
-
-¡w
-
-¢w
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-ð$ ` a$gdê
-
-ð
-
-ð$a$gdê
-
-ðgdê
-
-ð$a$gdê
-
-mv
-
-v
-
-v
-
-³v
-
-Ìv
-
-×v
-
-Øv
-
-Zw
-
-[w
-
-w
-
-w
-
-¡w
-
-éÏ¶¥¥s^I7"(hm¸hê
-
-ðhê
-
-¢w
-
-´w
-
-x
-
-x
-
-x
-
-x
-
-&x
-
-x
-
-x
-
-¡x
-
-üx
-
-ýx
-
-&y
-
-øæÕÇ±~eVæÕC-+hê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
 ðCJaJ
-
-x
-
-x
-
-üx
-
-ýx
-
-ây
-
-ãy
-
-q{
-
-`
-
-a
-
-¥
-
-¦
-
-'
-
-(
-
-ð&y
-
-,y
-
-Cy
-
-Wy
-
-ny
-
-y
-
-y
-
-¬y
-
-Èy
-
-ày
-
-ây
-
-ãy
-
-ïz
-
-{
-
-!{
-
-.{
-
-L{
-
-e{
-
-p{
-
-q{
-
-r{
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-ðhê
-
-L
-
-_
-
-`
-
-a
-
-r
-
-t
-
-~
-
-¥
-
-¦
-
-®
-
-(
-
-1
-
-¡
-
-¶
-
-¾
-
-Ê
-
-Ò
-
-¼
-
-æ
-
-¤
-
-¦
-
-Ë
-
-â
-
-?
-
-e
-
-f
-
-g
-
-Ì
-
-Î
-
-Ï
-
-¶
-
-·
-
-É
-
-Ê
-
-»
-
-¼
-
-¦
-
-§
-
-f
-
-Î
-
-Ï
-
-É
-
-Ê
-
-Ï
-
-Ð
-
-Ý
-
-(
-
-*
-
-4
-
-£
-
-¬
-
-È
-
-Ð
-
-Ý
-
-Þ
-
-ç
-
-W
-
-X
-
-Y
-
-b
-
-$
-
-~
-
-"
-
-#
-
-,
-
-²
-
-³
-
-´
-
-¼
-
-Þ
-
-X
-
-Y
-
-~
-
-"
-
-#
-
-³
-
-´
-
-Û
-
-Ü
-
-3¢
-
-4¢
-
-£
-
-£
-
-û£
-
-ü£
-
-~§
-
-§
-
-:¨
-
-·
-
-¸
-
-Ú
-
-Û
-
-Ü
-
-2¢
-
-3¢
-
-4¢
-
-<¢
-
-£
-
-£
-
-ú£
-
-û£
-
-ü£
-
-¤
-
-}§
-
-~§
-
-§
-
-§
-
-9¨
-
-:¨
-
-;¨
-
-K¨
-
-u©
-
-v©
-
-ª
-
-ª
-
-ª
-
-R¬
-
-S¬
-
-T¬
-
-9­
-
-:­
-
-e­
-
-*®
-
-,®
-
--®
-
-Q¯
-
-h¯
-
-¡¯
-
-¦¯
-
-Å¯
-
-ì¯
-
-í¯
-
-ï¯
-
-ð¯
-
-ò¯
-
-ó¯
-
-õ¯
-
-ö¯
-
-ø¯
-
-;¨
-
-u©
-
-v©
-
-ª
-
-ª
-
-S¬
-
-T¬
-
-9­
-
-:­
-
-,®
-
--®
-
-ì¯
-
-î¯
-
-ï¯
-
-ñ¯
-
-ò¯
-
-ô¯
-
-õ¯
-
-÷¯
-
-ø¯
-
-ø¯
-
-ù¯

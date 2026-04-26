@@ -654,8 +654,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo Segundo.- Se reforma el artículo 19, tercer párrafo, de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -665,5 +663,3 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
 ¹º¾¿RSXY¸¹¼½
-
-jh

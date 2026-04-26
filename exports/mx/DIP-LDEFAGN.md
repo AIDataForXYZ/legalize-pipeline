@@ -492,15 +492,11 @@ Sufragio Efectivo, No Reelección.
 
 México, D. F., a 13 de enero de 1934.- El Secretario de Gobernación, Eduardo Vasconcelos.- Rúbrica.
 
-Al C . . . . . .
-
 #### DECRETO que reforma y adiciona diversas disposiciones de la Ley de Disciplina del Ejército y Armada Nacionales.
 
 Publicado en el Diario Oficial de la Federación el 11 de diciembre de 1995
 
 ARTICULO UNICO.- SE REFORMAN la denominación de Ley de Disciplina del Ejército y Armada Nacionales por la de Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; y los artículos 1o., 2o., 3o., 4o., 5o., 7o., 8o., 12, 14, 17, 22, 27, 29, 31 párrafo segundo, 34, 35 fracciones I y II, 36 fracción III, 37 inciso a), 39, 41; y se ADICIONA la fracción IV del artículo 36 de la propia Ley, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -518,8 +514,6 @@ Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2004
 
 ÚNICO: Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -535,8 +529,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2024
 
 Artículo Segundo.- Se reforma el artículo 36, párrafo primero, fracción III, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -557,8 +549,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Séptimo.- Se reforman los artículos 1o.; 1o Bis; 2o.; 3o.; 3o Bis; 21; 24 Ter; 25; 31, párrafos segundo y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado Consejo Superior de Disciplina, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

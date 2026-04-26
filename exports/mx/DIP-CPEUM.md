@@ -5100,8 +5100,6 @@ Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993
 
 ARTICULO UNICO.- Se reforman el primer párrafo del artículo 65 y el primer párrafo del artículo 66 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5143,8 +5141,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de septiembre de 1993
 
 ARTICULO UNICO.- Se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -5226,8 +5222,6 @@ Publicado en el Diario Oficial de la Federación el 19 de abril de 1994
 
 ARTICULO UNICO.- Se reforman los párrafos octavo, noveno, decimoséptimo y decimoctavo del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5239,8 +5233,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de julio de 1994
 
 ARTICULO UNICO.- Se modifica el artículo 82, fracción I, de la Constitución Política de los Estados Unidos Mexicanos para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -5255,8 +5247,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994
 
 ARTICULO UNICO.- Se adicionan tres párrafos al artículo 21; se reforma la fracción V del artículo 55; se restablece la fracción XXIII del artículo 73; se reforman las fracciones II y VIII del artículo 76; se reforman las fracciones II y V del artículo 79; se reforman las fracciones II, IX, XVI y XVIII del artículo 89; se reforma el párrafo segundo del artículo 93; se reforman los párrafos primero, segundo, quinto, sexto, octavo, noveno y se adiciona un décimo, del artículo 94; se reforman las fracciones II, III y V, se adiciona una VI y un último párrafo, del artículo 95; se reforma el artículo 96; se reforma el artículo 97; se reforma el artículo 98; se reforma el artículo 99; se reforma el artículo 100; se reforma el artículo 101; se reforman los párrafos primero, tercero, quinto y se adiciona un último, del artículo 102 apartado A; se reforman las fracciones II y III del artículo 103; se reforma  la fracción IV del artículo 104; se reforma el artículo 105; se reforma el artículo 106; se reforman las fracciones V último párrafo, VIII párrafos primero y penúltimo, XI, XII párrafos primero y segundo, XIII párrafo primero y XVI, del artículo 107; se reforma el párrafo tercero del artículo 108; se reforman los párrafos primero y segundo del artículo 110; se reforman los párrafos primero y quinto del artículo 111; se reforma la fracción III, párrafo tercero y se deroga el párrafo quinto, hecho lo cual se recorre la numeración, del artículo 116; se reforma y adiciona la fracción VII del artículo 122, y se reforma la fracción XII, párrafo segundo del Apartado B del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -5320,8 +5310,6 @@ Debe decir:
 
 fondos y recursos federales.
 
-. . .
-
 II.- En la página 8, Primera Sección, segunda columna, renglón 30 (artículo 122, fracción VII), dice:
 
 cargo del Jefe del Distrito Federal
@@ -5335,8 +5323,6 @@ cargo de Jefe del Distrito Federal
 Publicado en el Diario Oficial de la Federación el 2 de marzo de 1995
 
 ARTICULO UNICO.- Se reforma el cuarto párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### TRANSITORIO
 
@@ -5361,8 +5347,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de agosto de 1996
 
 ARTÍCULO ÚNICO. SE REFORMAN la fracción III del artículo 35; la fracción III del artículo 36; el artículo 41, de su párrafo segundo en adelante; el artículo 54, de su fracción II en adelante; el artículo 56; los párrafos segundo y tercero del artículo 60; la fracción I del artículo 74; los párrafos primero, cuarto y octavo del artículo 94; el artículo 99; los párrafos primero y segundo del artículo 101; el encabezado y el párrafo tercero, que se recorre con el mismo texto para quedar como párrafo quinto de la fracción II del artículo 105; el primer párrafo del artículo 108; el primer párrafo del artículo 110; el primer párrafo del artículo 111; el tercer párrafo de la fracción II del artículo 116; y el artículo 122; SE ADICIONAN dos párrafos, tercero y cuarto, al artículo 98; un inciso f) y dos párrafos, tercero y cuarto, a la fracción II del artículo 105; y una fracción IV al artículo 116, por lo que se recorren en su orden las fracciones IV, V y VI vigentes, para quedar como V, VI y VII; SE DEROGAN la fracción VI del artículo 73; y el segundo párrafo del artículo tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100; todos de esta Constitución, para quedar en los siguientes términos:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -5412,8 +5396,6 @@ Publicado en el Diario Oficial de la Federación el 20 de marzo de 1997
 
 ARTÍCULO ÚNICO.- Se reforma la fracción II, la fracción III se recorre y pasa a ser IV y se adiciona una nueva fracción III, del apartado A) del artículo 30; se reforma la fracción II del apartado B) del artículo 30; se reforma el artículo 32; y se reforma el apartado A), el apartado B) se recorre y pasa a ser el C), se agrega un nuevo apartado B), se reforma la fracción I y se agrega un último párrafo al nuevo apartado C) del artículo 37; todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5436,8 +5418,6 @@ Publicado en el Diario Oficial de la Federación el 26 de febrero de 1999
 
 ARTICULO UNICO.- Se reforma el Artículo 3o. transitorio, del decreto por el que se reformaron los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 20 de Marzo de 1997, para quedar como sigue:
 
-.
-
 ARTÍCULO TRANSITORIO
 
 Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5449,8 +5429,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de marzo de 1999
 
 ARTICULO UNICO.- Se reforma el segundo párrafo del artículo 16; se reforma el primer párrafo, se adiciona un segundo párrafo y los dos subsecuentes pasan a ser tercero y cuarto párrafos del artículo 19; se adiciona un tercer párrafo del artículo 22 y el subsecuente pasa a ser el cuarto párrafo; se reforma el primer párrafo y se adiciona un tercer párrafo a la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -5485,8 +5463,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de junio de 1999
 
 Artículo Unico.- Se adiciona un párrafo quinto al artículo 4o., pasando los párrafos quinto y sexto a ser el sexto y séptimo respectivamente, y se reforma el párrafo primero del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 TRANSITORIO:
 
@@ -5537,8 +5513,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de julio de 1999
 
 ARTICULO UNICO.- Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una Sección V el Capítulo II del Título Tercero, así como el artículo 74 fracción IV, párrafo quinto; se reforman los artículos 73, fracción XXIV, 74, fracción II y 79; y se deroga la fracción III del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -5664,8 +5638,6 @@ Publicado en el Diario Oficial de la Federación el 14 de agosto de 2001
 
 ARTICULO UNICO.- Se adicionan un segundo y tercer párrafos al artículo 1o.; se reforma en su integridad el artículo 2o. y se deroga el párrafo primero del artículo 4o.; se adicionan: un sexto párrafo al artículo 18, un último párrafo a la fracción tercera del artículo 115, todos de la Constitución Política de los Estados Unidos Mexicanos, así como cuatro Transitorios, para quedar como sigue:
 
-..
-
 ARTICULOS TRANSITORIOS
 
 ARTICULO PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5706,8 +5678,6 @@ ARTICULO PRIMERO: Se adiciona el artículo 3o. constitucional para quedar como s
 
 ARTICULO SEGUNDO: Se adiciona el artículo 31 constitucional para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5746,8 +5716,6 @@ Publicado en el Diario Oficial de la Federación el 29 de octubre de 2003
 
 ARTÍCULO ÚNICO.- Se reforma el párrafo primero del artículo 63 y la fracción IV del artículo 77, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5759,8 +5727,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de abril de 2004
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XXIX-M al artículo 73 y se reforma la fracción VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### TRANSITORIO
 
@@ -5804,8 +5770,6 @@ Publicado en el Diario Oficial de la Federación el 2 de agosto de 2004
 
 ARTICULO UNICO.- Se reforma el primer párrafo del artículo 65 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5822,8 +5786,6 @@ Publicado en el Diario Oficial de la Federación el 27 de septiembre de 2004
 
 Artículo Unico. Se adiciona la fracción XXIX-L al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5837,8 +5799,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de junio de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo quinto al artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, recorriéndose en su orden los actuales quinto y sexto, que pasan a ser sexto y séptimo, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -5854,8 +5814,6 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2005
 
 ARTÍCULO ÚNICO. Se adiciona un párrafo tercero a la fracción XXI, del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5870,19 +5828,11 @@ Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2005
 
 Artículo Primero.- Se reforma el único párrafo y se adicionan un segundo y tercer párrafos al artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se deroga la fracción IV del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 Artículo Tercero.- Se adicionan las fracciones X y XI, pasando la actual fracción X a ser fracción XII del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 Artículo Cuarto.- Se reforma la fracción I del artículo 105 de la Constitución Política Mexicana, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -5902,8 +5852,6 @@ Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2005
 
 Artículo Único. Se reforman los Artículos 14, segundo párrafo y 22 primer párrafo, y se deroga el cuarto párrafo del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5917,8 +5865,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2005
 
 Artículo Único.- Se reforma el párrafo cuarto y se adicionan los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -5944,11 +5890,7 @@ Publicado en el Diario Oficial de la Federación el 7 de abril de 2006
 
 Artículo Primero.- Se reforma el Artículo 26, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se reforma la fracción XXIX-D del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -5974,8 +5916,6 @@ Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2006
 
 ARTÍCULO ÚNICO. Se adiciona el inciso g) a la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5989,8 +5929,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 73, fracción XXIX-H de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -6008,8 +5946,6 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2006
 
 ARTÍCULO ÚNICO.- Se reforma el Artículo 1o., Párrafo Tercero de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6023,8 +5959,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de febrero de 2007
 
 Artículo Único.- Se reforma el artículo 76 fracción I; y el artículo 89 fracción X de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -6040,8 +5974,6 @@ Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 ARTÍCULO ÚNICO.- Se reforma la fracción VI, del Artículo 82 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6056,8 +5988,6 @@ Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 ARTÍCULO ÚNICO.- Se reforma la fracción V del artículo 55 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6071,8 +6001,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de julio de 2007
 
 ARTÍCULO ÚNICO.- Se reforma la fracción X del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -6089,8 +6017,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de julio de 2007
 
 Artículo Único.- Se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -6110,35 +6036,19 @@ Publicado en el Diario Oficial de la Federación el 2 de agosto de 2007
 
 ARTÍCULO PRIMERO.- Se reforma el artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-...........
-
 ARTÍCULO SEGUNDO.- Se reforma la numeral 2 de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-...........
 
 ARTÍCULO TERCERO.- Se reforman los dos párrafos del artículo 90 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-...........
-
 ARTÍCULO CUARTO.- Se reforma el artículo 92 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-...........
 
 ARTÍCULO QUINTO.- Se reforman los dos primeros párrafos del artículo 93 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-...........
-
 ARTÍCULO SEXTO.- Se reforma la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-...........
 
 ARTÍCULO SÉPTIMO.- Se reforma el primer párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-...........
-
 ARTÍCULO OCTAVO.- Se reforma el primer párrafo del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-...........
 
 ##### TRANSITORIOS
 
@@ -6153,8 +6063,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 2007
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XXIX-N al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -6172,8 +6080,6 @@ Publicado en el Diario Oficial de la Federación el 27 de septiembre de 2007
 
 ARTÍCULO ÚNICO.- Se reforma la fracción IV del artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6187,8 +6093,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de noviembre de 2007
 
 ÚNICO. Se reforma el primer párrafo del artículo 6o.; se reforman y adicionan los artículos 41 y 99; se reforma el párrafo primero del artículo 85; se reforma el párrafo primero del artículo 108; se reforma y adiciona la fracción IV del artículo 116; se reforma el inciso f) de la fracción V de la Base Primera el artículo 122; se adicionan tres párrafos finales al artículo 134; y se deroga el párrafo tercero del artículo 97, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -6244,8 +6148,6 @@ Publicado en el Diario Oficial de la Federación el 18 de junio de 2008
 
 Único. Se reforman los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos transitorios siguientes.
@@ -6279,8 +6181,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 2008
 
 Artículo Único. Se reforma el primer párrafo, y se adiciona un párrafo segundo al artículo 69; se reforma el párrafo segundo y se adicionan los párrafos cuarto y quinto al artículo 93, ambos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 Artículos Transitorios
 
@@ -6328,8 +6228,6 @@ Publicado en el Diario Oficial de la Federación el 30 de abril de 2009
 
 Artículo Único. Se adiciona un párrafo noveno al artículo 4o.; se reforma la fracción XXV y se adiciona una fracción XXIX-Ñ al artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6346,8 +6244,6 @@ Publicado en el Diario Oficial de la Federación el 30 de abril de 2009
 
 Artículo Único.- Se adiciona la fracción XXIX-O al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6362,8 +6258,6 @@ Publicado en el Diario Oficial de la Federación el 4 de mayo de 2009
 
 Artículo Único. Se reforma el párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6377,8 +6271,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2009
 
 Artículo Único.- Se adiciona un segundo párrafo, recorriéndose los subsecuentes en su orden, al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ARTÍCULO TRANSITORIO
 
@@ -6406,8 +6298,6 @@ Publicado en el Diario Oficial de la Federación el 14 de agosto de 2009
 
 Artículo Único. Se adicionan un segundo párrafo al artículo segundo transitorio y un artículo tercero transitorio al Decreto por el que se declara reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2005, para quedar como sigue:
 
-.
-
 Artículo Transitorio
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6421,8 +6311,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de agosto de 2009
 
 Artículo Único. Se reforman el párrafo cuarto del inciso c) de la fracción IV del artículo 115; el primer párrafo del inciso b) de la fracción V de la BASE PRIMERA del artículo 122; el primer párrafo de la fracción IV del apartado B del artículo 123; el artículo 127, y se adicionan los párrafos segundo y tercero al artículo 75; los párrafos cuarto y quinto a la fracción II del artículo 116, recorriéndose en su orden los actuales cuarto y quinto; un párrafo segundo, recorriéndose en su orden los actuales segundo a quinto, al inciso b) de la fracción V de la BASE PRIMERA al artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -6448,8 +6336,6 @@ Publicado en el Diario Oficial de la Federación el 27 de abril de 2010
 
 Artículo Único. Se reforma la fracción II, de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6463,8 +6349,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de julio de 2010
 
 ÚNICO.- Se adiciona un párrafo tercero y se recorre el orden de los párrafos subsecuentes del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -6480,8 +6364,6 @@ Publicado en el Diario Oficial de la Federación el 13 de abril de 2011
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6495,8 +6377,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2011
 
 Artículo Único.- Se reforma el artículo 94, para modificar el párrafo ubicado actualmente en octavo lugar; se incorpora un nuevo párrafo para quedar en séptimo lugar y se incorpora otro nuevo párrafo para quedar en noveno lugar. Se reforma el artículo 103. Se reforma el artículo 104. Se reforma el artículo 107 de la siguiente manera: el párrafo inicial; las fracciones I y II; el inciso a) de la fracción III; las fracciones IV, V, VI y VII; el inciso a) de la fracción VIII; las fracciones IX, X, XI, XIII, XVI y XVII y se deroga la fracción XIV, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 Artículos Transitorios
 
@@ -6515,8 +6395,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2011
 
 ARTÍCULO ÚNICO.- Se modifica la denominación del Capítulo Primero del Título Primero; el primero y quinto párrafos del artículo 1o.; el segundo párrafo del artículo 3o.; el primer párrafo del artículo 11; el artículo 15; el segundo párrafo del artículo 18; el primer párrafo del artículo 29; el primer párrafo del artículo 33; la fracción décima del artículo 89; el segundo párrafo del artículo 97; el segundo y tercer párrafos del apartado B del artículo 102; y el inciso g) de la fracción segunda del artículo 105; la adición de dos nuevos párrafos, segundo y tercero, al artículo 1o. y recorriéndose los actuales en su orden; un nuevo párrafo segundo al artículo 11, los párrafos segundo, tercero, cuarto y quinto al artículo 29; un nuevo párrafo segundo al artículo 33, recorriéndose el actual en su orden y los nuevos párrafos quinto, octavo y décimo primero, recorriéndose los actuales en su orden, al artículo 102 del Apartado B; todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -6542,8 +6420,6 @@ Publicado en el Diario Oficial de la Federación el 14 de julio de 2011
 
 ÚNICO.- Se reforman los artículos 19, segundo párrafo; 20, apartado C, fracción V, y 73, fracción XXI, primer párrafo de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6558,15 +6434,9 @@ Publicado en el Diario Oficial de la Federación el 17 de agosto de 2011
 
 ARTÍCULO PRIMERO.- Se reforma el último párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO.- Se reforma el primer párrafo y de la fracción B del artículo 72 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ARTÍCULO TERCERO.- Se reforma la fracción III del artículo 78 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -6596,8 +6466,6 @@ Publicado en el Diario Oficial de la Federación el 12 de octubre de 2011
 
 Artículo Único. Se reforman los párrafos sexto y séptimo del artículo 4o. y se adiciona la fracción XXIX-P al artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6611,8 +6479,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de octubre de 2011
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo tercero al artículo 4o., recorriéndose en el orden los subsecuentes, y un segundo párrafo a la fracción XX del artículo 27 ambos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -6628,8 +6494,6 @@ Publicado en el Diario Oficial de la Federación el 8 de febrero de 2012
 
 Artículo Único.- Se reforma el párrafo quinto y se adiciona un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -6644,11 +6508,7 @@ Publicado en el Diario Oficial de la Federación el 9 de febrero de 2012
 
 Artículo Primero. Se reforman el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 Artículo Segundo. Se reforma la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -6682,8 +6542,6 @@ Publicado en el Diario Oficial de la Federación el 9 de agosto de 2012
 
 ARTÍCULO ÚNICO.- SE REFORMAN: el párrafo primero y la fracción II del artículo 35; la fracción III del artículo 36; el párrafo segundo del artículo 71; la fracción XXVI del artículo 73; el párrafo cuarto de la fracción VI del artículo 74; la fracción II del artículo 76; las fracciones IV, VI y VII del artículo 78; el artículo 83; los párrafos primero, segundo y tercero (que pasan a ser cuarto y quinto) del artículo 84; los párrafos primero, segundo y tercero del artículo 85; las fracciones II, III y IV del artículo 89; y la fracción III de la Base Primera del Apartado C del artículo 122; SE ADICIONAN: las fracciones VI, VII y VIII al artículo 35; una fracción IV y un tercer y cuarto párrafos al artículo 71; una fracción XXIX-Q al artículo 73; los párrafos segundo y tercero, recorriéndose en su orden los subsecuentes y un último párrafo al artículo 84; un segundo y tercer párrafos al artículo 87; un octavo párrafo a la fracción II del artículo 116; un inciso o), recorriéndose en su orden el subsecuente a la fracción V de la Base Primera del Apartado C del artículo 122, de la Constitución Política de los Estados Unidos Mexicanos, en materia de Reforma Política, para quedar como sigue:
 
-.
-
 ARTÍCULOS TRANSITORIOS
 
 ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6702,8 +6560,6 @@ Publicado en el Diario Oficial de la Federación el 15 de octubre de 2012
 
 ÚNICO.- Se reforma el primer párrafo, se adiciona un segundo párrafo, y se suprimen los dos últimos párrafos del artículo 46; se deroga la fracción XI del artículo 76, y se reforma la fracción I del artículo 105, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y quedarán derogadas todas las disposiciones normativas que contravengan a este decreto.
@@ -6717,8 +6573,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2012
 
 Artículo Único.- Se reforma el Artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -6795,8 +6649,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2013
 
 ARTÍCULO ÚNICO. Se REFORMAN el párrafo primero del artículo 6o.; el artículo 7o.; el párrafo sexto del artículo 27; el párrafo segundo del artículo 28; la fracción XVII del artículo 73; la fracción VII del artículo 78 y el párrafo sexto del artículo 94; y se ADICIONAN los párrafos segundo, tercero y cuarto, pasando el actual párrafo segundo a ser apartado A del párrafo cuarto, y un apartado B al artículo 6o.; los párrafos decimotercero al trigésimo del artículo 28, y un inciso l) a la fracción I del artículo 105, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -6960,8 +6812,6 @@ Publicado en el Diario Oficial de la Federación el 19 de julio de 2013
 
 Artículo Único. Se reforma el primer párrafo del artículo 24 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7007,8 +6857,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013
 
 Artículo Único.- Se reforman los párrafos cuarto, sexto y octavo del artículo 25; el párrafo sexto del artículo 27; los párrafos cuarto y sexto del artículo 28; y se adicionan un párrafo séptimo, recorriéndose los subsecuentes en su orden, al artículo 27; un párrafo octavo, recorriéndose los subsecuentes en su orden, al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -7211,8 +7059,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de febrero de 2014
 
 ARTÍCULO ÚNICO. Se reforman las fracciones I, IV y V del apartado A, y se adiciona una fracción VIII al artículo 6o.; se adicionan las fracciones XXIX-S y XXIX-T al artículo 73; se adiciona una fracción XII al artículo 76 y se recorre la subsecuente; se reforma la fracción XIX del artículo 89; se reforma el inciso l) de la fracción I y se adiciona el inciso h) a la fracción II del artículo 105; se reforma el párrafo tercero del artículo 108; se reforman los párrafos primero y segundo del artículo 110; se reforman los párrafos primero y quinto del artículo 111; se adiciona una fracción VIII al artículo 116; se adiciona un inciso ñ), recorriéndose los actuales incisos en su orden, a la fracción V, de la Base Primera del Apartado C del artículo 122, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -7432,8 +7278,6 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
 
 ARTÍCULO ÚNICO.- Se adiciona un octavo párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7467,8 +7311,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
 
 ARTÍCULO ÚNICO.- Se reforma la fracción III del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -7542,8 +7384,6 @@ Publicado en el Diario Oficial de la Federación el 27 de mayo de 2015
 
 Artículo Único.- Se reforman los artículos 22, párrafo segundo, fracción II; 28, párrafo vigésimo, fracción XII; 41, párrafo segundo, fracción V, Apartado A, en sus párrafos segundo, octavo y décimo; 73, fracciones XXIV y XXIX-H; 74, fracciones II y VI, en sus párrafos segundo, tercero, cuarto y quinto; 76, fracción II; 79, párrafos primero, segundo, actual tercero y sus fracciones I, en sus párrafos segundo, cuarto y quinto, II y IV, primer párrafo, y los actuales párrafos cuarto, quinto y sexto; 104, fracción III; se modifica la denominación del Título Cuarto para quedar De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con faltas administrativas graves o hechos de Corrupción, y Patrimonial del Estado; 109; 113; 114, párrafo tercero; 116, párrafo segundo, fracciones II, en su párrafo sexto y V; 122, Apartado C, BASE PRIMERA, fracción V, incisos c), en su párrafo segundo, e), m) y n) y, BASE QUINTA; se adicionan los artículos 73, con una fracción XXIX-V; 74, con una fracción VIII, pasando la actual VIII a ser IX; 79, con un tercer y cuarto párrafos, recorriéndose los actuales en su orden; 108, con un último párrafo; 116, párrafo segundo, fracción II, con un octavo párrafo, recorriéndose el actual en su orden; 122, Apartado C, BASE PRIMERA, fracción V, inciso c), con un tercer párrafo, recorriéndose el actual en su orden; y se deroga el segundo párrafo de la fracción IV, del actual párrafo tercero del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
@@ -7601,8 +7441,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de julio de 2015
 
 ARTÍCULO ÚNICO.- Se reforma el inciso a) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -7663,8 +7501,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de enero de 2016
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o., Apartado A, fracción III y Apartado B, párrafo primero, y párrafo segundo, fracción IX; 3o., párrafo primero y las fracciones III y VIII; 5o., párrafo segundo; 6o., Apartado A, párrafo primero y fracción VIII, párrafos cuarto, quinto y décimo sexto; 17, párrafo séptimo; 18, párrafos tercero y cuarto; 21, párrafo noveno y párrafo décimo, inciso a); 26, Apartado B, párrafo primero; 27, párrafo quinto y párrafo décimo, fracción VI, párrafos primero y segundo; 28, párrafos noveno y vigésimo tercero, fracción VII; 31, fracción IV; 36, fracción IV; 40; 41, párrafo primero, así como la Base II, párrafo segundo, inciso a), y la Base III, Apartado A, párrafo cuarto, y Apartado C, párrafo segundo; 43; 44; 53, párrafo primero; 55, párrafo primero, fracciones III y V párrafos tercero y cuarto; 56, párrafo primero; 62; 71, fracción III; 73, fracciones III, numerales 3o., 6o. y 7o., IX, XV, XXI, inciso a), párrafo segundo, XXIII, XXV, XXVIII, XXIX-C, XXIX-G, XXIX-I, XXIX-J, XXIX-K, XXIX-N, XXIX-Ñ, XXIX-P y XXIX-T; 76, fracciones IV, V y VI; 79, párrafo tercero, fracción I, segundo párrafo; 82, fracción VI; 89, fracción XIV; 95, fracción VI; 101, párrafo primero; 102, Apartado A, párrafos primero y cuarto, y Apartado B, párrafos quinto y décimo primero; 103, fracciones II y III; 104, fracciones III y VII; 105, párrafo primero, fracción I, inciso a), c), d), h), j), l) y párrafo segundo y fracción II, párrafo segundo, incisos a), b), d), f), g) y h); 106; 107, fracción XI; 108, párrafos primero, tercero y cuarto; 110, párrafos primero y segundo; 111, párrafos primero y quinto; la denominación del Título Quinto; 115, fracción IV, párrafo segundo y fracción V, párrafo segundo; 117, fracción IX, párrafo segundo; 119, párrafo primero; 120; 121, párrafo primero y fracciones I, III, IV y V; 122; 123, párrafo segundo, Apartado A, fracción XXXI y Apartado B, primer párrafo y fracciones IV párrafo segundo, y XIII párrafos segundo y tercero; 124; 125; 127, párrafo primero y fracción VI del párrafo segundo; 130, párrafo séptimo; 131, párrafo primero; 133; 134, párrafos primero, segundo, quinto y séptimo; y 135, párrafo primero; y se DEROGAN la fracción IX del artículo 76; y los incisos e), f) y k) de la fracción I del párrafo segundo, y el inciso e) de la fracción II del párrafo segundo, ambas del artículo 105, todos de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -7866,8 +7702,6 @@ Publicado en el Diario Oficial de la Federación el 15 de agosto de 2016
 
 ARTÍCULO ÚNICO.- Se reforma el párrafo segundo del artículo 11 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7948,8 +7782,6 @@ Publicado en el Diario Oficial de la Federación el 15 de septiembre de 2017
 
 Artículo Único.- Se reforma el primer párrafo del artículo 16; y se adicionan un párrafo tercero, recorriéndose en su orden los actuales párrafos tercero, cuarto, quinto, sexto, séptimo y octavo al artículo 17; y la fracción XXX, recorriéndose en su orden la actual XXX para quedar como XXXI al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el transitorio siguiente.
@@ -7981,8 +7813,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de marzo de 2019
 
 Artículo Único.- Se reforman los artículos 22, segundo párrafo y 73, fracción XXX, y se adicionan un tercer, cuarto y quinto párrafos al artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -8148,8 +7978,6 @@ Publicado en el Diario Oficial de la Federación el 15 de mayo de 2019
 
 Artículo Único. Se reforman los párrafos primero y actual segundo, recorriéndose en su numeración para ser el cuarto, las fracciones II, inciso c), V, VI, párrafo primero y su inciso a), y IX del artículo 3o., la fracción I del artículo 31 y las fracciones XXV y XXIX-F del artículo 73; se adicionan los párrafos segundo, quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo, a la fracción II los incisos e), f), g), h), e i) y la fracción X del artículo 3o.; y se derogan el párrafo tercero, el inciso d) de la fracción II y la fracción III del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8264,8 +8092,6 @@ Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 Artículo Único.- Se adiciona un apartado C al artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8348,8 +8174,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2020
 
 Artículo Único.- Se reforma la fracción XXIX-P del artículo 73 y se adiciona un último párrafo al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -8366,8 +8190,6 @@ Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Único. Se reforman el segundo párrafo del artículo 108 y el cuarto párrafo del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -8383,8 +8205,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de marzo de 2021
 
 Artículo Único. Se reforman los párrafos primero, quinto, sexto, séptimo, noveno y décimo primero del artículo 94; los párrafos primero y actual tercero del artículo 97; los párrafos séptimo y décimo quinto del artículo 99; los párrafos séptimo y actual noveno del artículo 100; la fracción I y los incisos h), i), j), k), l), el párrafo tercero y el primer párrafo de la fracción III, del artículo 105; los párrafos segundo y tercero de la fracción II, fracciones VIII, IX, XI, XII, XIII y XVI, del artículo 107 y; se adicionan un párrafo décimo segundo al artículo 94, recorriéndose los subsecuentes; un segundo párrafo al artículo 97, recorriéndose los subsecuentes; tres párrafos, para quedar en orden de octavo, décimo primero y décimo segundo, recorriéndose en su orden los anteriores y subsecuentes, del artículo 100; un párrafo quinto al artículo 105, de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8428,8 +8248,6 @@ Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021
 
 Artículo Único. Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Michoacán de Ocampo", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada en vigor.
@@ -8444,8 +8262,6 @@ Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021
 
 Artículo Único. Se reforma el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. Surtirá efectos exclusivamente para modificar la porción normativa que establece la denominación de la parte integrante de la Federación "Veracruz de Ignacio de la Llave", por lo que quedan subsistentes las denominaciones de las demás partes de la Federación vigentes al momento de la entrada  en vigor.
@@ -8459,8 +8275,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 2021
 
 Artículo Único. Se reforma el párrafo cuarto de la fracción IV del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -8492,8 +8306,6 @@ Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022
 
 Artículo Único.- Se reforma el Artículo Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional", publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, para quedar  como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -8520,8 +8332,6 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Único.- Se adiciona una fracción X al artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8535,8 +8345,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2023
 
 Artículo Único.- Se reforma el párrafo segundo del Apartado A del artículo 102 y se adiciona una fracción VII al artículo 38 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8728,8 +8536,6 @@ Publicado en el Diario Oficial de la Federación el 30 de septiembre de 2024
 
 Artículo Único.- Se reforman el artículo 13; el párrafo décimo octavo del artículo 16; los párrafos primero y actuales décimo, décimo primero y décimo segundo del artículo 21; el párrafo tercero del artículo 32; la fracción IV del artículo 55; la fracción II del artículo 76; la fracción VII del artículo 78; la fracción V del artículo 82; las fracciones IV, V, VI y VII del artículo 89; los párrafos primero y cuarto de la fracción XIII del Apartado B del artículo 123, y el artículo 129; y se adicionan un párrafo décimo, recorriéndose en su orden los siguientes, al artículo 21 y una fracción XXXI, recorriéndose en su orden la siguiente, al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8765,8 +8571,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de septiembre de 2024
 
 Artículo Único.- Se reforman los párrafos primero, segundo, cuarto y quinto; las fracciones I, II, III, IV y actuales V, VII y VIII del Apartado A; los párrafos primero, segundo, las actuales fracciones I, II, III, IV, V, VI, VII y VIII, y tercero del Apartado B; y el párrafo primero del Apartado C; se adicionan un párrafo sexto; un párrafo segundo a la fracción II, las fracciones V, VI, VII, recorriéndose en su orden las subsecuentes, un párrafo segundo a la actual fracción VIII y las fracciones XII y XIII al Apartado A; un párrafo segundo a la fracción I y las fracciones II, III, VI, X, XI y XV, recorriéndose en su orden las subsecuentes, al Apartado B; los párrafos segundo y tercero al Apartado C; y un Apartado D; se derogan el segundo párrafo de la actual fracción VII y el último párrafo del Apartado A, todo del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8856,8 +8660,6 @@ Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024
 
 Artículo Único.- Se reforman el párrafo séptimo y los actuales párrafos décimo cuarto y décimo quinto del artículo 4o.; se adicionan los párrafos décimo quinto y décimo séptimo, recorriéndose los subsecuentes en su orden y, un último párrafo al artículo 4o., y los párrafos tercero y cuarto a la fracción XX al artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8876,8 +8678,6 @@ Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024
 
 Artículo Único.- Se reforman los párrafos primero y actual segundo y, se adicionan los párrafos segundo, cuarto y quinto, recorriéndose los subsecuentes en su orden, a la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8893,8 +8693,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2024
 
 Artículo Único.- Se reforman los artículos 3o., párrafo décimo segundo y, 73, fracción XXIX-G; y se adiciona un párrafo sexto, recorriéndose los subsecuentes en su orden, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8964,8 +8762,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2024
 
 Artículo Único.- Se reforma el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8983,8 +8779,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2024
 
 Artículo Único.- Se reforman el párrafo primero, el inciso e) del párrafo décimo primero, y el párrafo décimo tercero, y se adiciona un inciso f) al párrafo décimo primero, del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -9026,8 +8820,6 @@ Publicado en el Diario Oficial de la Federación el 17 de marzo de 2025
 
 Artículo Único.- Se reforman el párrafo tercero del artículo 4o. y el párrafo primero de la fracción XX del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
@@ -9044,8 +8836,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2025
 
 Artículo Único.- Se reforma el segundo párrafo del artículo 19 y se adicionan los párrafos segundo y tercero al artículo 40 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -9059,8 +8849,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2025
 
 Artículo Único.- Se reforman los artículos 55, fracciones VI y VII; 59, en su párrafo; 82, fracciones VI y VII; 115, fracción I, párrafos primero y segundo; 116, párrafo segundo, fracción II, párrafo segundo, y 122, Apartado A, fracciones II, párrafos primero y tercero, III, párrafo primero, y VI, párrafo tercero, incisos b) y f), y se adicionan a los artículos 55, la fracción VIII; 59, el párrafo segundo; 82, la fracción VIII, y 116, párrafo segundo, fracción I, párrafo cuarto, el inciso c), de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9082,8 +8870,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2025
 
 Artículo Único.- Se adiciona un segundo párrafo, recorriéndose el subsecuente en su orden, al artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -9097,8 +8883,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de abril de 2025
 
 Artículo Único.- Se reforman el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9136,8 +8920,6 @@ Publicado en el Diario Oficial de la Federación el 15 de octubre de 2025
 
 Artículo Único.- Se reforman los artículos 76, fracciones I, II, V, VII, X, XI y XIII; y 78, párrafo primero, y las fracciones II, III, IV, VI, VII y VIII, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -9151,8 +8933,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de marzo de 2026
 
 Artículo Único.- Se reforman las fracciones IV y XI del Apartado A, del Artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -9172,8 +8952,6 @@ Publicado en el Diario Oficial de la Federación el 10 de abril de 2026
 
 Artículo Único.- Se reforman del párrafo segundo, las fracciones II y III, y se adicionan a la fracción IV del mismo párrafo segundo, los párrafos segundo, tercero y cuarto del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -9192,23 +8970,11 @@ Ciudad de México, a 8 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-hE
-
-hE
-
 ùcúcûcd´dµd½d¾dÆdÑdeee
-
-TÃUÃYÃ¦ÆÈÆÉÆÎÆÀÇÁÇäÈÉÉ
-
-¢
 
 FFFìFïFðFñFàGäGåGæG
 
 JJJJgJlJ¸J¹JÛJÜJàJ×KúKûKLkLtL}LLLLLLõêÞêõêÞêõêÞêõêÞêõêÞêõêÞêõêÒÇ¿«ÇÇÇ«r«êÞêõ!hk|_6B*CJPJ]aJphÿh-CJaJ'h-h-6B*CJPJ]aJphÿh-hk|_5CJaJ'hk|_hk|_6B*CJPJ]aJphÿhk|_CJaJhk|_hk|_CJaJhk|_hk|_5CJaJhY>Ìh875CJaJhY>Ìh87CJaJhY>ÌhìsCJaJ,ßGàGJ
-
->
-
->
 
 ww¦w§w¬wéwíw
 
@@ -9216,61 +8982,11 @@ CJaJhY>Ìhès
 
 CJaJhY>Ìhès
 
-.h
-
-é
-
-ê
-
-Ï
-
-Ò
-
-Ü
-
-Þ
-
-è
-
-é
-
-ê
-
-ö
-
-§§¨¨a©©©-ªOªªª·«ñ«ò«à¬
-
-¡Ó£ô£õ£¥=¥>¥a¦¦Ë¦Ì¦÷îááÕÍÕÕÅáÕÍÕÕÍÕÕÍ½á$a$gdèR9$a$gd\Q$a$gd^$Ð^Ða$gd^$ÐQþ^Ð`Qþa$$Ð^Ða$$a$gd
-
 XÁ\bÑÓbcß ÿ ¡¡¡
-
--
-
-@
-
-[
-
-s
-
-t
-
-u
-
-v
-
-v
 
 1¾h@,CJaJh
 
 1¾h@,5CJaJh
-
-L
-
-]
-
-$a$gd
-
-CJ\aJ(hY>Ìh
 
 CJaJhY>Ìh
 
@@ -9280,1816 +8996,6 @@ CJaJhY>Ìh
 
 B*CJaJph hY>Ìh
 
-·
-
-Ð
-
-Ü
-
-¡d¡6¢>¢à£ë£ö¤ü¤§§æ©ï©¨¬¹¬M­^­W®g®¬¯»¯Ö°å°ù±²µ
-
-2
-
-G
-
-[
-
-q
-
-Ê
-
-Ü
-
-,
-
-Ü
-
-Ý
-
-,
-
-Ü
-
-Ý
-
-#
-
-$
-
-3
-
-4
-
-#
-
-$
-
-4
-
-:
-
-G
-
-H
-
-Q
-
-þ
-
-1
-
-5
-
-ö
-
-ù
-
-Ã
-
-Æ
-
-C
-
-F
-
-Ø
-
-à
-
-d
-
-l
-
-É
-
-Ñ
-
-§
-
-C
-
-K
-
-å
-
-õ
-
-(
-
-=
-
-Q
-
-n
-
-Ñ
-
-ã
-
-!
-
-'!
-
-3!
-
-î!
-
-9
-
-:
-
-G
-
-H
-
-ý
-
-þ
-
-1
-
-2
-
-õ
-
-ö
-
-Â
-
-Ã
-
-B
-
-C
-
-×
-
-Ø
-
-c
-
-d
-
-È
-
-É
-
-H
-
-I
-
-s
-
-t
-
-B
-
-C
-
-ä
-
-å
-
-ý
-
-þ
-
-3!
-
-î!
-
-ï!
-
-5"
-
-6"
-
-#
-
-ï!
-
-5"
-
-6"
-
-;"
-
-#
-
-&#
-
-'#
-
-/#
-
-#
-
-¨#
-
-Ä'
-
-Ì'
-
-&)
-
--)
-
-*
-
-µ*
-
-Ê*
-
-Þ*
-
-ô*
-
-+
-
-+
-
-W,
-
-i,
-
-,
-
-­,
-
-¹,
-
->-
-
-?-
-
--
-
--
-
--
-
-/.
-
-#
-
-#
-
-#
-
-&#
-
-'#
-
-#
-
-#
-
-ó%
-
-ô%
-
-Ã'
-
-Ä'
-
-%)
-
-&)
-
-*
-
-*
-
-+
-
-+
-
-¹,
-
->-
-
-?-
-
--
-
--
-
-(.
-
-).
-
-..
-
-/.
-
-<.
-
-=.
-
-µ.
-
-¶.
-
-¢/
-
-£/
-
-0
-
-0
-
-ó2
-
-ô2
-
-x3
-
-y3
-
-5
-
-Ù5
-
-Ú5
-
-!6
-
-"6
-
-R7
-
-S7
-
-W7
-
-<.
-
-=.
-
-E.
-
-¶.
-
-¾.
-
-0
-
-0
-
-ô2
-
-3
-
-43
-
-H3
-
-^3
-
-v3
-
-x3
-
-»4
-
-Í4
-
-ø4
-
-5
-
-5
-
-Ù5
-
-Ú5
-
-!6
-
-"6
-
-26
-
-X7
-
-e7
-
-f7
-
-o7
-
-ã7
-
-ì7
-
-:
-
-:
-
-<<
-
-D<
-
-X7
-
-e7
-
-f7
-
-â7
-
-ã7
-
-]9
-
-^9
-
-:
-
-:
-
-;<
-
-<<
-
-Ò>
-
-Ó>
-
-Ô?
-
-Õ?
-
-V@
-
-W@
-
-vA
-
-wA
-
-íA
-
-îA
-
-bB
-
-cB
-
-nC
-
-oC
-
-7D
-
-8D
-
-Ó>
-
-Û>
-
-W@
-
-Y@
-
-vA
-
-zA
-
-îA
-
-òA
-
-8D
-
-?D
-
-`J
-
-iJ
-
-EL
-
-ML
-
-sO
-
-{O
-
-»P
-
-ÚP
-
-îP
-
-Q
-
-(Q
-
-*Q
-
-vR
-
-R
-
-³R
-
-ÌR
-
-ØR
-
-S
-
-S
-
-åS
-
-æS
-
-öS
-
-úS
-
-T
-
-v\
-
-}\
-
-]
-
-]
-
-]
-
-®]
-
-^
-
-^
-
-_
-
-_
-
-8c
-
-Ic
-
-,i
-
-=i
-
-·k
-
-Çk
-
-t
-
--t
-
-»t
-
-½t
-
-fu
-
-hu
-
-ov
-
-2F
-
-3F
-
-G
-
-G
-
-ÆI
-
-ÇI
-
-_J
-
-`J
-
-DL
-
-EL
-
-rO
-
-sO
-
-?P
-
-@P
-
-*Q
-
-+Q
-
-ØR
-
-S
-
-S
-
-åS
-
-æS
-
-]
-
-]
-
-]
-
-]
-
-]
-
-]
-
-^
-
-^
-
-_
-
-_
-
-Qb
-
-Rb
-
-7c
-
-8c
-
-Øc
-
-Ùc
-
-Ðe
-
-Ñe
-
-Jg
-
-Kg
-
-+i
-
-,i
-
-¶k
-
-·k
-
-Ôl
-
-Õl
-
-¦o
-
-§o
-
-q
-
-q
-
-Cr
-
-Dr
-
-t
-
-t
-
-ºt
-
-»t
-
-eu
-
-fu
-
-nv
-
-ov
-
-½v
-
-¾v
-
-x
-
-x
-
-3y
-
-4y
-
-¬z
-
-­z
-
-à{
-
-á{
-
-|
-
-|
-
-Ø|
-
-Ù|
-
-Ü}
-
-Ý}
-
-Æ~
-
-Ç~
-
-rv
-
-¾v
-
-Àv
-
-x
-
-x
-
-4y
-
-6y
-
-­z
-
-¯z
-
-á{
-
-å{
-
-|
-
-|
-
-Ù|
-
-Û|
-
-_
-
-a
-
-W
-
-Z
-
-W
-
-Y
-
-n
-
-p
-
-²
-
-´
-
-¡
-
-£
-
-`
-
-b
-
-±
-
-³
-
-Ê
-
-Ì
-
-¹
-
-»
-
-°
-
-²
-
-à
-
-â
-
-k
-
-o
-
-)
-
-.
-
-s
-
-u
-
-±
-
-³
-
-è
-
-ê
-
-*
-
-,
-
-¥
-
-;¤
-
-L¤
-
-@¥
-
-B¥
-
-¥
-
-¥
-
-¨
-
-¨
-
-¯¨
-
-±¨
-
-ü¨
-
-þ¨
-
-©
-
-©
-
-î©
-
-ð©
-
-Pª
-
-Sª
-
-«
-
-«
-
-Ñ¬
-
-Ô¬
-
-d®
-
-^
-
-_
-
-V
-
-W
-
-ÿ
-
-V
-
-W
-
-m
-
-n
-
-±
-
-²
-
-¡
-
-_
-
-`
-
-°
-
-±
-
-É
-
-Ê
-
-¸
-
-¹
-
-¯
-
-°
-
-ß
-
-à
-
-j
-
-k
-
-(
-
-)
-
-¶
-
-·
-
-±
-
-²
-
-r
-
-s
-
-À
-
-Á
-
-°
-
-±
-
-ç
-
-è
-
-)
-
-*
-
-¨
-
-©
-
-G
-
-H
-
-S
-
-T
-
-ß
-
-à
-
-±
-
-²
-
-¬
-
-­
-
-a¢
-
-b¢
-
-£
-
-£
-
-:¤
-
-;¤
-
-?¥
-
-@¥
-
-¥
-
-¥
-
-u¦
-
-v¦
-
-¨
-
-¨
-
-®¨
-
-¯¨
-
-û¨
-
-ü¨
-
-©
-
-©
-
-í©
-
-î©
-
-Oª
-
-Pª
-
-«
-
-«
-
-Ð¬
-
-Ñ¬
-
-c®
-
-d®
-
-¨°
-
-©°
-
-c²
-
-d²
-
-³
-
-³
-
-´
-
-´
-
-f®
-
-©°
-
-¬°
-
-d²
-
-u²
-
-³
-
-¶³
-
-´
-
-¸´
-
-¼µ
-
-Õµ
-
-¹
-
-,¹
-
-º
-
-º
-
-o»
-
-»
-
-¼
-
-"¼
-
-¿
-
-­¿
-
-Á¿
-
-â¿
-
-ú¿
-
-ü¿
-
-IÁ
-
-[Á
-
-Á
-
-Á
-
-«Á
-
-*Â
-
-+Â
-
-rÂ
-
-sÂ
-
-Â
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-ÀÃ
-
-ÒÃ
-
-æÃ
-
-þÃ
-
-Ä
-
-Ä
-
-QÅ
-
-cÅ
-
-Å
-
-§Å
-
-³Å
-
-2Æ
-
-»µ
-
-¼µ
-
-·
-
-·
-
-¹
-
-¹
-
-º
-
-º
-
-n»
-
-o»
-
-¼
-
-¼
-
-ö½
-
-÷½
-
-¿
-
-¿
-
-ü¿
-
-ý¿
-
-«Á
-
-*Â
-
-+Â
-
-rÂ
-
-sÂ
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-Ã
-
-Ä
-
-Ä
-
-³Å
-
-2Æ
-
-3Æ
-
-{Æ
-
-|Æ
-
-Ç
-
-Ç
-
-Ç
-
-Ç
-
-#Ç
-
-$Ç
-
-Ç
-
-Ç
-
-3Æ
-
-{Æ
-
-|Æ
-
-Æ
-
-Ç
-
-#Ç
-
-$Ç
-
-*Ç
-
-ÊÇ
-
-ÜÇ
-
-ðÇ
-
-È
-
-È
-
-"È
-
-WÉ
-
-iÉ
-
-É
-
-­É
-
-¹É
-
-ÐÊ
-
-ÑÊ
-
-Ë
-
-Ë
-
-+Ë
-
-1Ì
-
->Ì
-
-?Ì
-
-IÌ
-
-"È
-
-#È
-
-¹É
-
-ÐÊ
-
-ÑÊ
-
-Ë
-
-Ë
-
-+Ì
-
-,Ì
-
-0Ì
-
-1Ì
-
->Ì
-
-?Ì
-
-¸Ì
-
-¹Ì
-
-¸Í
-
-¹Í
-
-cÐ
-
-dÐ
-
-ûÑ
-
-üÑ
-
-rÓ
-
-sÓ
-
-¹Ì
-
-ÃÌ
-
-¹Í
-
-ÃÍ
-
-üÑ
-
-Ò
-
-sÓ
-
-|Ó
-
-Ô
-
-Ô
-
-:Õ
-
-=Õ
-
-ÛÕ
-
-ßÕ
-
-¯Ö
-
-²Ö
-
-'×
-
-1×
-
-Ü×
-
-ß×
-
-hØ
-
-kØ
-
-ÒØ
-
-ÕØ
-
-hÙ
-
-þÙ
-
-ÿÙ
-
-/Ú
-
-EÚ
-
-YÚ
-
-wÚ
-
-Ú
-
-§Ú
-
-»Ú
-
-ÍÚ
-
-åÚ
-
-çÚ
-
-ôÛ
-
-Ü
-
-1Ü
-
-JÜ
-
-VÜ
-
-Ý
-
-Ý
-
-hÝ
-
-iÝ
-
-yÝ
-
-"ß
-
-/ß
-
-Ô
-
-Ô
-
-9Õ
-
-:Õ
-
-ÛÕ
-
-ÜÕ
-
-®Ö
-
-¯Ö
-
-&×
-
-'×
-
-Û×
-
-Ü×
-
-gØ
-
-hØ
-
-ÑØ
-
-ÒØ
-
-gÙ
-
-hÙ
-
-þÙ
-
-ÿÙ
-
-çÚ
-
-èÚ
-
-VÜ
-
-Ý
-
-Ý
-
-hÝ
-
-iÝ
-
-ß
-
-ß
-
-!ß
-
-"ß
-
-/ß
-
-0ß
-
-¨ß
-
-©ß
-
-°à
-
-±à
-
-Ôâ
-
-Õâ
-
-àã
-
-áã
-
-ÿä
-
-å
-
-^æ
-
-_æ
-
-2ç
-
-3ç
-
-0ß
-
-8ß
-
-©ß
-
-±ß
-
-±à
-
-¹à
-
-å
-
-å
-
-_æ
-
-fæ
-
-3ç
-
-9ç
-
-_ê
-
-}ê
-
-ê
-
-§ê
-
-»ê
-
-Úê
-
-îê
-
-ë
-
-ë
-
-"ë
-
-^ì
-
-pì
-
-ì
-
-´ì
-
-Àì
-
-Ëí
-
-Ìí
-
-î
-
-î
-
-)î
-
-*î
-
-¨ï
-
-µï
-
-¶ï
-
-¾ï
-
-jð
-
-rð
-
-ò
-
-ò
-
-ó
-
-ó
-
-Âô
-
-Éô
-
-²è
-
-³è
-
-.ê
-
-/ê
-
-!ë
-
-"ë
-
-Àì
-
-Ëí
-
-Ìí
-
-î
-
-î
-
-¡ï
-
-¢ï
-
-§ï
-
-¨ï
-
-µï
-
-¶ï
-
-ið
-
-jð
-
-ò
-
-ò
-
-ó
-
-ó
-
-Áô
-
-Âô
-
-÷
-
-÷
-
-÷
-
-÷
-
->ù
-
-yú
-
-zú
-
-Âú
-
-Ãú
-
-xü
-
-yü
-
-}ü
-
-~ü
-
-ü
-
-ü
-
-ý
-
-ý
-
-ý
-
-ý
-
-:ÿ
-
-=÷
-
-S÷
-
-g÷
-
-÷
-
-÷
-
-÷
-
-Üø
-
-îø
-
-ù
-
-2ù
-
->ù
-
-yú
-
-zú
-
-Âú
-
-Ãú
-
-Óú
-
-~ü
-
-ü
-
-ü
-
-ü
-
-2ý
-
-Hý
-
-\ý
-
-yý
-
-ý
-
-ý
-
-Ðþ
-
-âþ
-
-ÿ
-
-.ÿ
-
-:ÿ
-
-íÿ
-
-îÿ
-
-íÿ
-
-îÿ
-
 W?XGXYY<ZEZùZ[§[¯[°]´]ä]è]^^K^ÿ_`3`7`k`o``c
-
-ê
 
 U¾U¿UV	VúVûVÿVWW

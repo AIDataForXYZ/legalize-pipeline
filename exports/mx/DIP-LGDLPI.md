@@ -276,8 +276,6 @@ Publicado en el Diario Oficial de la Federación el 6 de abril de 2010
 
 Artículo Único.- Se adiciona una fracción XV al artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -291,8 +289,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
 Artículo Único. Se reforma el inciso d) del artículo 14 de la Ley General de Derechos Lingüísticos de los pueblos indígenas para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -308,8 +304,6 @@ Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
 Artículo Único.- Se reforma el artículo 23 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -323,8 +317,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO SÉPTIMO. Se reforma el artículo 19 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -370,8 +362,6 @@ Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO CUARTO.- Se REFORMAN los artículos 14, párrafo primero y 16, párrafo segundo, numerales 1 y 5 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -410,8 +400,6 @@ Publicado en el Diario Oficial de la Federación el 20 de junio de 2018
 
 Artículo Único.- Se reforma la fracción VII del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -426,8 +414,6 @@ Publicado en el Diario Oficial de la Federación el 17 de enero de 2022
 
 Artículo Único.- Se reforma el artículo 16, numeral 6) de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -441,8 +427,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO OCTAVO. Se reforman los artículos 16, 18 y 19 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -471,21 +455,3 @@ Artículo Único.- Se reforma la fracción XV del artículo 13 de la Ley General
 Ciudad de México, a 12 de septiembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Olga Luz Espinosa Morales, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-C
-
-M
-
-N
-
-O
-
-[
-
-N
-
-O
-
-h0§5CJ
-
-³4³R³®¨$

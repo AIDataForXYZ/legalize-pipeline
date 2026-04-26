@@ -1656,8 +1656,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2002
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 1o., segundo párrafo, 11, 12 y 127, fracciones I y II, y se adiciona el artículo 60 Bis de la Ley General de Vida Silvestre, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1671,8 +1669,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 55 bis y un párrafo tercero al artículo 60 bis ambos de la Ley General de Vida Silvestre, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1688,11 +1684,7 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2006
 
 ARTÍCULO PRIMERO.- Se reforma el primer párrafo del artículo 38, el inciso a) del artículo 118, y el primer párrafo del artículo 120 de la Ley General de Vida Silvestre, para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO.- Se adiciona el artículo 60 Bis 1 a la Ley General de Vida Silvestre, para quedar como sigue:
-
-..........
 
 TRANSITORIOS.
 
@@ -1710,11 +1702,7 @@ Publicado en el Diario Oficial de la Federación el 1º de febrero de 2007
 
 Artículo Primero.- Se adiciona un artículo 60 TER a la Ley General de Vida Silvestre, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se adiciona un segundo párrafo al artículo 99 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1758,8 +1746,6 @@ Publicado en el Diario Oficial de la Federación el 6 de abril de 2010
 
 ARTÍCULO SEGUNDO.- Se reforman las actuales fracciones XXIII y XL del artículo 3o. y se adicionan una fracción XVII, recorriéndose en su orden las demás fracciones al artículo 3o.; un artículo 27 Bis y un artículo 27 Bis 1 todos de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1774,8 +1760,6 @@ Publicado en el Diario Oficial de la Federación el 2 de julio de 2010
 
 ARTÍCULO ÚNICO.- Se reforman la fracción IV y el último párrafo del artículo 67 de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1789,8 +1773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de septiembre de 2010
 
 ARTÍCULO ÚNICO.- Se reforman los párrafos primero y segundo, y se adicionan un párrafo tercero y un inciso d) al artículo 63, y se reforma el párrafo primero del artículo 64 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1808,8 +1790,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 
 Artículo Único.- Se reforma el artículo 55 bis de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1823,8 +1803,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2011
 
 Artículo Único.- Se adiciona un inciso y se reforma el último párrafo del artículo 40 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1841,8 +1819,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de noviembre de 2011
 
 Artículo Único.- Se adiciona un párrafo tercero y se recorre el subsecuente al artículo 60 Bis de la Ley General de Vida Silvestre, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1862,8 +1838,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2012
 
 Artículo Único. Se reforma el artículo 85 de la Ley General de Vida Silvestre, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1879,8 +1853,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2012
 
 Artículo Único. Se adiciona una Sección I, De las Unidades de Manejo para la Conservación de Vida Silvestre, que comprende los artículos 39 al 47, reformando el párrafo cuarto del artículo 41; se adiciona una Sección II De las Unidades de Manejo para la Conservación de Fauna Silvestre, que comprende los artículos 47 Bis, 47 Bis 1, 47 Bis 2, 47 Bis 3 y 47 Bis 4, ambas secciones del Capítulo VIII del Título V, a la Ley General de Vida Silvestre, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1984,8 +1956,6 @@ Publicado en el Diario Oficial de la Federación el 9 de enero de 2015
 
 Artículo Segundo.- Se reforma el segundo párrafo y se adiciona un último párrafo al artículo 78; se adiciona una fracción XXIV al artículo 122 y se reforma la fracción II del artículo 127 de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
@@ -2008,8 +1978,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2015
 
 Artículo Único.- Se adiciona un párrafo cuarto y se recorre el subsecuente al artículo 60 Bis de la Ley General de Vida Silvestre para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2023,8 +1991,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016
 
 Artículo Único.- Se adiciona un segundo párrafo al artículo 60 Bis 1 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2040,8 +2006,6 @@ Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016
 
 Artículo Único.- Se reforma el artículo 55 y la fracción II del artículo 127 y se adicionan un último párrafo al artículo 53; un último párrafo al artículo 54 y una fracción XXII Bis al artículo 122 de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2055,8 +2019,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 Artículo Único. Se reforman las fracciones I y II, el segundo párrafo y se adiciona una fracción III al artículo 127 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2072,8 +2034,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Décimo Cuarto.- Se reforman los artículos 6o.; 7o., primer párrafo y fracción III; 8o.; 9o., párrafo cuarto; 10, primer párrafo y fracciones VI, VIII, IX y X; 11, primer párrafo, fracción VIII y el párrafo tercero; 13; 16, párrafo tercero; 29 y 89, párrafo quinto de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2087,8 +2047,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Vigésimo Séptimo.- Se reforma la fracción I del artículo 38 de la Ley General de Vida Silvestre, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2166,8 +2124,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Único.- Se reforman el párrafo primero y la fracción III del artículo 47 Bis 4; el artículo 60 Bis; la fracción XVII del artículo 122; la fracción III del artículo 127, y se adicionan la fracción VIII al párrafo primero del artículo 47 Bis 4 y, la fracción XXV al artículo 122, de la Ley General de Vida Silvestre, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2212,12 +2168,6 @@ Ciudad de México, a 25 de junio de 2025.- Sen. Gerardo Fernández Noroña, Pres
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-­
-
-5hÎ
-
-5hÎ
-
 55B*CJaJph h²x[hÎ
 
 55B*CJaJphhÎ
@@ -2230,23 +2180,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 55B*CJaJphhÎ
 
-5hÎ
-
 5B*CJaJph hÎ
 
-5hÎ
-
 55B*CJaJphhOFJ@ûÿCJ^JhOFJ5CJ\^JhOFJ5CJ^JhOFJCJ^J%hÎ
-
-5æ$a$gdÎ
 
 55B*CJaJph h²x[hÎ
 
 55B*CJaJph%hÎ
 
 5B*CJaJphhÎ
-
-Æ>a$gdèMÈ$ ` a$gdèMÈæ$a$gdÎ
 
 53VWjdÉÊÎÏ:;<ApìÝÉ¶Ý{Ým{ÝaÝPAhèMÈhèMÈB*CJaJph hèMÈhèMÈ5B*CJaJphhÎ
 
@@ -2259,12 +2201,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 5B*CJaJphhèMÈ5B*CJaJph h²x[hÎ
 
 55B*CJaJphh²x[hÎ
-
-×
-
-ä
-
-5CJ^J%hÎ
 
 sss¨uúuûuvxxzzÖ{
 

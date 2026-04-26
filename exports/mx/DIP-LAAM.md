@@ -558,8 +558,6 @@ Publicado en el Diario Oficial de la Federación el 16 de abril de 2009
 
 Artículo Único.- Se reforma la fracción V del artículo 51 de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -573,8 +571,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 Artículo Quinto.- Se reforma el artículo 51 en su fracción I, de la Ley de Ascensos de la Armada de México, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -592,8 +588,6 @@ Publicado en el Diario Oficial de la Federación el 27 de agosto de 2010
 
 Artículo Único. Se reforman los artículos 2o.; 3o.; 4o., párrafo primero; 5o.; 9o.; 11; 12; 13; 14; 15, párrafo primero; 16; 17, párrafo primero; 18; 19; 20, párrafo primero y fracciones III y IV; 21; 26; 30, fracción III; 32, fracción II y párrafo segundo; 33 fracción II y párrafo segundo; 34, párrafo primero, fracciones I y II; 35, fracciones IV, V y VI; 45; 46, fracción III; 47; 48; 49; 50, fracción III; 51, fracciones III y VIII; y 54, así como la denominación del Capítulo VI del Título Segundo y se derogan las fracciones I y II, del artículo 4o.; artículo 7o.; párrafos segundo y tercero, del artículo 15; Apartados a), b), c), d) y e) de la fracción II del artículo 34, a de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -610,8 +604,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2011
 
 Artículo Segundo.- Se reforma el artículo 1o. de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -625,8 +617,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 
 ARTÍCULO SEGUNDO.- Se adiciona un artículo 44 Bis a la Ley de Ascensos de la Armada de México, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -644,8 +634,6 @@ Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2025
 
 Artículo Único.- Se reforman los artículos 1o; 2o; 6o; 9o; 13; 14, párrafo segundo; 15; 19; 20, párrafo primero y fracción IV; 21; 32, fracción III; 33, fracción III; 34, párrafo primero y fracción II; 37, párrafo primero; 43; 44 Bis, párrafos primero y cuarto; 47; 48; 52; 54; 55 y 56 y se adiciona al artículo 54, un párrafo segundo, de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -660,52 +648,10 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-e
-
-f
-
-X
-
-hR¹5CJ
-
 hR¹5CJX
-
-Z
-
-d
-
-e
-
-f
-
-o
-
-s
-
-hR¹5CJ
-
-h±85CJ
-
-hR¹5CJ
 
 nCJaJh
 
-nh
-
-hÝGS5CJ
-
-hR¹5CJ5Ú.i/j/ÿ/0
-
 nCJhqKh
-
-hR¹5CJ
-
-Æ>a$gd´.Å$ ` a$gd´.Å
-
-h.2a5CJ
-
-hR¹5CJ
-
-h3)5CJ
 
 ffff_gvgggggg£gíghchvh¼hÏh´iÓikk-kEkYkkkkk´k¶kãÊãÊ®®|ãÊ®®vlb[v[v[v[v[v[v[v[v[v[

@@ -3330,8 +3330,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2010
 
 ARTICULO UNICO.- Se modifica el artículo 219 del Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3358,8 +3356,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2011
 
 ARTÍCULO ÚNICO.- Se adiciona  un numeral 5 al artículo 300 y se modifica el numeral 3 del artículo 301, ambos del Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3373,8 +3369,6 @@ México, D.F., a 14 de diciembre de 2011.- El Vicepresidente, Sen. José Gonzál
 Publicado en el Diario Oficial de la Federación el 5 de marzo de 2013
 
 ARTICULO SEGUNDO.- SE REFORMA EL ARTÍCULO 56, NUMERAL 1, PARA ADICIONAR UNA FRACCIÓN V, Y SE ADICIONA EL ARTÍCULO 56 BIS, PARA QUEDAR COMO SIGUE:
-
-.
 
 ARTÍCULO TRANSITORIO
 
@@ -3400,8 +3394,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
 
 ÚNICO. Se adiciona una fracción X, recorriéndose en su orden la vigente, para pasar a ser la fracción XI, del artículo 10 del Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3426,8 +3418,6 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2014
 
 ARTÍCULO PRIMERO.- Se reforma el numeral 2 y se adiciona un segundo párrafo con las fracciones I, II, III y IV, al numeral 1 del artículo 276, del Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO.- Se adiciona un numeral 4 al artículo 277 del Reglamento del Senado de La República, para quedar como sigue:
 
 ##### TRANSITORIO
@@ -3441,8 +3431,6 @@ México, D.F., a 15 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, President
 Publicado en el Diario Oficial de la Federación el 14 de marzo de 2017
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 15, numeral 1, fracción V; 46, numeral 1; 54, numeral 1, fracción III; 72, numeral 1, fracción VIII; 173, numeral 1; 219, numeral 2; fracción I; y 306, numeral 3, fracción VII; y se derogan la fracción IX del numeral 1 del artículo 230 y los artículos 260, 261, 262, 263 y 264, del Reglamento del Senado de la República, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -3466,8 +3454,6 @@ Publicado en el Diario Oficial de la Federación el 9 de octubre de 2017
 
 Artículo Único.- Se reforma el numeral 2, del artículo 231, y se derogan la fracción IV del artículo 163 y el artículo 167 del Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3481,8 +3467,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 2
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2017
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 2 y se adiciona el numeral 4 al artículo 180 del Reglamento del Senado de la República, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -3508,8 +3492,6 @@ Publicado en el Diario Oficial de la Federación el 6 de abril de 2018
 
 ARTÍCULO ÚNICO.- Se reforma la fracción I del numeral 1 del artículo 73 del Reglamento del Senado de la República, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3521,8 +3503,6 @@ Ciudad de México, a 21 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presiden
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2018
 
 Artículo Único. Se reforman los artículos 212, 214 y 217 del Reglamento del Senado de la República, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -3537,8 +3517,6 @@ Ciudad de México, a 3 de abril de 2018.- Sen. Ernesto Cordero Arroyo, President
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
 
 Artículo Único.- Se reforman los artículos 230, fracción X; 265, párrafo 1, y el nombre de la Sección Novena del Capítulo Segundo del Título Octavo, con la denominación: DE LA AUTORIZACIÓN DE CONVENIOS AMISTOSOS SOBRE LÍMITES ENTRE ENTIDADES FEDERATIVAS; y se deroga el párrafo 3 del artículo 265, todos del Reglamento del Senado de la República, para quedar como sigue
-
-..
 
 ##### TRANSITORIOS
 
@@ -3566,8 +3544,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
 
 ARTÍCULO ÚNICO.- Se REFORMA el artículo 139 del Reglamento del Senado de la República, para quedar como sigue:
 
-..
-
 ARTICULO TRANSITORIO
 
 ÚNICO: El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
@@ -3580,8 +3556,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
 
 Artículo Único.- Se reforma el artículo 128 del Reglamento del Senado de la República, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
@@ -3593,8 +3567,6 @@ Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presiden
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
 
 Artículo Único.- Se reforma el párrafo 1 del artículo 309 y se adiciona una nueva fracción IV al mismo párrafo, recorriéndose en su orden las subsecuentes, todos del Reglamento del Senado de la República, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3634,8 +3606,6 @@ Publicado en el Diario Oficial de la Federación el 30 de marzo de 2021
 
 Artículo Segundo.- Se adiciona una fracción VII, al numeral 1, del artículo 56, y el artículo 56 Quater al Reglamento del Senado de la República, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -3647,8 +3617,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 2
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2022
 
 Artículo Único.- Se reforman los artículos 169, numeral 1, fracción III y 190, numeral 1, fracción VII del Reglamento del Senado de la República, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -3674,8 +3642,6 @@ Publicado en el Diario Oficial de la Federación el 25 de octubre de 2022
 
 Artículo Único. Se adiciona un numeral 5 al artículo 277 del Reglamento del Senado de la República, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -3687,8 +3653,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México,  a 
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2022
 
 Artículo Único.- Se reforman las fracciones IV y V del numeral 1 del artículo 41; numeral 2 del artículo 65; numeral 1 y fracción I y numeral 2 del artículo 73; numerales 4 y 5 del artículo 169; el numeral 1 del artículo 303; numerales 1, 2 y 3 del artículo 307; numeral 2 del artículo 309; y se adicionan los numerales 3 y 4 al artículo 1; un numeral 2 al artículo 37; un párrafo segundo al numeral 2 del artículo 73; un numeral 2 al artículo 174 del Reglamento del Senado de la República, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -3716,8 +3680,6 @@ Publicado en el Diario Oficial de la Federación el 22 de septiembre de 2023
 
 Artículo Único.- Se adiciona una fracción VIII al numeral 1 del artículo 56 y un artículo 56 Quinquies al Reglamento del Senado de la República, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -3729,8 +3691,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 1
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2023
 
 Artículo Único.- Se reforman los artículos 2, numeral 1; 147, numeral 2; 150, numerales 2 y 3; 183, numeral 2; y 190, numeral 1, fracción X, del Reglamento del Senado de la República, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -3752,16 +3712,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 5
 
 (Primera Sección)	DIARIO OFICIAL	Viernes 4 de junio de 2010
 
-Ï
-
-Ð
-
-Ï
-
-Ð
-
-Ó
-
 ``4`5`;`Å`Æ`Ê`aa0a1a4abacaaa²a³aæaça÷abb£bÃcÄcÇceee=g>g@ggg ghhhÊhËhÛháiâiæi¨jõéÞÓÞõéÞõéÞõéÞõéÞÓÞõéÞÉ½±½±½É§É§õéÞõéÞõÞõÞÉ§É§É§hº@CJaJh8¤hDCJh8¤hD5CJhº@hq5CJaJhº@hD5CJaJh8¤hq5CJh8¤hì_ºCJaJh8¤hDCJaJhphD5CJaJh8¤hqCJaJ7?_§_¨_`
 
 {5CJh8¤hDCJaJh"hD5CJaJh8¤h
@@ -3782,33 +3732,11 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 5
 
 {5CJh8¤hDCJaJB³¿ûü+,
 
-]
-
-ï
-
-ð
-
-ý
-
-]
-
-`
-
-ï
-
-ð
-
-ý
-
-ÿ
-
 ÇÈË·¸É¯°´ÆÇÊÔÕÙæçì -.1àáñhil458¨]^aÍÎÑõêÞõêÞõêÞõêÞõÔÊ¾õÔÊµÔ©ÔÊµÔÊµêÞõêÞõêÞõêÞõêÞõÔÊµÔÊµÔÊµÔÊµÔÊµÔÊµÔÊµÔÊhmR{hD5CJaJh8¤hDCJh8¤hD5CJaJh8¤hD5CJh8¤h
 
 {5CJh"hD5CJaJh8¤h
 
 {CJaJh8¤hDCJaJBý
-
-»¼¿:;>ª«»¡¢¥&'7³´·% & ) r s v ô õ ø R!S!c!+","/"¯"°"´"# #%# #¡#¥#$$/$Û$Ü$÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷íã÷×ËÀµËÀµËÀµËÀíã÷íh8¤h
 
 {CJaJh8¤hDCJaJh"hD5CJaJh"h
 
@@ -3817,8 +3745,6 @@ SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 5
 {5CJh8¤hDCJGàOP¢£°
 
 {5CJhmR{h
-
-h
 
 {CJaJh8¤hDCJh8¤hD5CJh8¤h
 
@@ -3830,8 +3756,6 @@ h
 
 {5CJr
 
-Já&$a$gdÇ}9
-
 Jáh
 
 Jáh
@@ -3842,69 +3766,21 @@ Jáh
 
 Já5CJaJh
 
-6
-
-6
-
-:
-
-6CJ
-
-hÙ
-
 65CJhÙ
-
-6hÙ
 
 6CJhÙ
 
-6hÙ
-
-65CJ#h¸hÙ
-
-6CJ
-
-hÙ
-
 65CJhÙ
 
-6hÙ
-
 6CJhÙ
-
-6hÙ
-
-65CJ#h¸hÙ
 
 ÜÜ"Ý#Ý3ÝåÝæÝÿÞßß=â>âJâKâOâÔãõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõëâõÖõëâõëâõëâõëâõëâÏÂ¹­¢¢¹­¢htCJaJh^htCJaJh^ht5CJaJht5CJaJh^htCJ^JaJ
 
-l
-
-|
-
-Í
-
-Î
-
-Ñ
-
 7õéÞõéÞÔÊÁõéÞõéÞõéÞõéÞµ©ÊÁõéÞõéÞõéÞõéÞ éÔÊÁÔÊÁÔÊÁÔÊÁÔÊÁõéÞha:ÃhDCJaJh8¤h8¤CJh8¤hD5CJaJh8¤h8¤5CJaJh8¤hDCJh8¤hD5CJh8¤h8¤5CJh8¤hDCJaJha:ÃhD5CJaJh8¤h8¤CJaJ:
-
-l
-
-y
-
-Í
-
-Î
-
-Já
 
 JáCJh
 
 Jáh
-
-Já5CJ\aJ#h
 
 Jáh
 
@@ -3927,5 +3803,3 @@ Jáh
 Jáh
 
 Jáh
-
-Já$ ` a$gd

@@ -126,17 +126,7 @@ Adicionalmente, las entidades participarán en los accesorios de las contribucio
 
 Asimismo, las citadas entidades adheridas al Sistema Nacional de Coordinación Fiscal podrán celebrar con la Federación convenio de colaboración administrativa en materia del impuesto sobre automóviles nuevos, supuesto en el cual la entidad de que se trate recibirá el 100% de la recaudación que se obtenga por este impuesto, del que corresponderá cuando menos el 20% a los municipios de la entidad, que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
-> <small>Párrafo adicionado DOF 30-12-1996 Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo noveno (antes reformado DOF 26-12-1990, 20-12-1991, 15-12-1995,</small>
-
-30-12-1996)
-
-> <small>Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo tercero (antes reformado DOF 03-12-1993, 29-12-1993) Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo cuarto (antes adicionado DOF 26-12-1990, reformado DOF 15-12-1995,</small>
-
-30-12-1996, 29-12-1997, 21-12-2007)
-
-> <small>Artículo reformado DOF 30-12-1980, 31-12-1981, 31-12-1982, 30-12-1983. Fe de erratas DOF 28-03-1984. Reformado DOF 31-12-1986,</small>
-
-31-12-1987, 28-12-1989
+> <small>Párrafo adicionado DOF 30-12-1996 Reforma DOF 21-12-2007: Derogó del artículo el entonces párrafo noveno (antes reformado DOF 26-12-1990, 20-12-1991, 15-12-1995, Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo tercero (antes reformado DOF 03-12-1993, 29-12-1993) Reforma DOF 09-12-2013: Derogó del artículo el entonces párrafo cuarto (antes adicionado DOF 26-12-1990, reformado DOF 15-12-1995, Artículo reformado DOF 30-12-1980, 31-12-1981, 31-12-1982, 30-12-1983. Fe de erratas DOF 28-03-1984. Reformado DOF 31-12-1986,</small>
 
 ###### Artículo 2 -
 
@@ -217,8 +207,6 @@ cita   es la última información oficial de población que hubiere dado a conoc
 cita   es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía de los municipios que hayan convenido la coordinación del cobro de predial para la entidad i.
 
 > <small>Párrafo adicionado DOF 30-12-1983. Reformado DOF 28-12-1989. Párrafo con fórmula reformado DOF 26-12-1990, 21-12-2007,</small>
-
-09-12-2013
 
 Los Estados entregarán íntegramente a sus municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir por la coordinación en materia de derechos.
 
@@ -305,8 +293,6 @@ Los municipios y demarcaciones territoriales del Distrito Federal recibirán com
 La Secretaría de Hacienda y Crédito Público podrá verificar el cumplimiento de las labores de fiscalización efectuadas por las entidades federativas en los términos de este artículo.
 
 > <small>Artículo reformado DOF 30-12-1983. Derogado DOF 28-12-1989. Adicionado DOF 26-12-1990. Reformado DOF 03-12-1993, 29-12-1993,</small>
-
-15-12-1995, 21-12-2007, 09-12-2013
 
 ###### Artículo 4o -
 
@@ -430,8 +416,6 @@ Durante los primeros cinco meses de cada ejercicio, las participaciones en el Fo
 
 > <small>Párrafo adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993, 15-12-1995, 21-12-2007 Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 30-12-1983. Fe de erratas DOF 28-03-1984. Reformado DOF 31-12-1986,</small>
 
-31-12-1987
-
 ###### Artículo 8o.-
 
 Para los efectos de las participaciones a que esta Ley se refiere y de los incentivos que se establezcan en los convenios de colaboración administrativa, las Entidades, los Municipios y la Federación estarán al resultado de la determinación y pago, que hubieren efectuado de créditos fiscales derivados de la aplicación de leyes sobre ingresos federales.
@@ -449,8 +433,6 @@ Las participaciones que correspondan a las Entidades y los Municipios son inemba
 No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a las Entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o esta Ley así lo autorice.
 
 > <small>Fe de erratas al artículo DOF 12-02-1979. Reformado DOF 31-12-1981. Fe de erratas DOF 15-04-1982. Reformado DOF 30-12-1983,</small>
-
-28-12-1989, 26-12-1990, 15-12-1995, 21-12-2007, 09-12-2013, 27-04-2016
 
 ###### Artículo 9 -
 
@@ -946,8 +928,6 @@ GOi = GOi,2013 + ((GOt   GO2013) MPi)
 
 Donde:
 
-5Ø@Ü5ØCÜ5ØVÜ=5Ø;Ü5Ø[Ü5ØVÜ/5Ø;Ü5ØAÜ
-
 GOt es el monto total del recurso destinado a gasto operativo del FONE.
 
 GOi es el monto del recurso destinado a gasto operativo del FONE para la entidad federativa i. 5Ø@Ü5ØCÜ5ØVÜ=5Ø;Ü5Ø[Ü5ØVÜ/5Ø;Ü5ØAÜ
@@ -1020,9 +1000,7 @@ El monto que corresponda a Servicios de Salud del Instituto Mexicano del Seguro 
 
 ###### Artículo 31.-
 
-Para la distribución de los recursos a que se refiere la fracción IV del artículo anterior, se aplicará la siguiente fórmula de asignación de recursos, donde ( representa la sumatoria correspondiente a las entidades federativas y el subíndice i se refiere a la i-ésima entidad federativa. (Fi = ((M*Ti)
-
-En donde:
+Para la distribución de los recursos a que se refiere la fracción IV del artículo anterior, se aplicará la siguiente fórmula de asignación de recursos, donde ( representa la sumatoria correspondiente a las entidades federativas y el subíndice i se refiere a la i-ésima entidad federativa. En donde:
 
 M = 	Monto aprobado  en  el Presupuesto de Egresos de la Federación a  que se refiere la fracción IV del artículo 30.
 
@@ -1031,8 +1009,6 @@ Fi = 	Monto correspondiente a la i-ésima entidad federativa del monto total M.
 Ti = 	Distribución porcentual correspondiente a la i-ésima entidad federativa del monto total M.
 
 Para el cálculo de Ti de la i-ésima entidad federativa se aplicará el siguiente procedimiento:
-
-Ti = Di / DM
 
 En donde:
 
@@ -1114,9 +1090,7 @@ III.	De la Secretaría de Hacienda y Crédito Público, generar un sistema geo r
 
 ###### Artículo 34.-
 
-El Ejecutivo Federal, a través de la Secretaría de Desarrollo Social, distribuirá el Fondo de Aportaciones para la Infraestructura Social entre las entidades, conforme a la siguiente fórmula: Fi,t=Fi,2013+F2013,t (0.8zi,t+0.2ei,t)
-
-Donde:
+El Ejecutivo Federal, a través de la Secretaría de Desarrollo Social, distribuirá el Fondo de Aportaciones para la Infraestructura Social entre las entidades, conforme a la siguiente fórmula: Donde:
 
 Y las variables de cálculo se definen de la siguiente manera:
 
@@ -1484,8 +1458,6 @@ LEY DE COORDINACION FISCAL
 
 ARTICULO SEGUNDO.- Se REFORMAN los artículos 2º,  segundo y tercer párrafos y el párrafo siguiente a la fracción III; 2º- A, fracciones II y III, primer párrafo y el actual inciso 2, mismo que pasa a ser el subinciso 2 del inciso a) de la citada fracción III; 4º, quinto párrafo; 10-A, fracción I, primer párrafo y cuarto párrafo del artículo; 10-B, tercer párrafo; se ADICIONAN los artículos 2º-A, fracción III, los incisos a) y b); 10-A, con un sexto párrafo, pasando el actual sexto a ser séptimo párrafo, de y a la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 DISPOSICION TRANSITORIA DE LA LEY DE COORDINACION FISCAL
 
 ARTICULO TERCERO.- Las entidades federativas contarán con un plazo de cuatro meses a partir de la entrada en vigor de lo dispuesto en el ARTICULO SEGUNDO de esta Ley, para proponer a la Reunión Nacional de Funcionarios Fiscales, previo dictamen de la Comisión Permanente de Funcionarios Fiscales y conforme a las facultades establecidas en los artículos 19 y 21 de la Ley de Coordinación Fiscal, un programa de reordenamiento del comercio urbano en el ámbito de su competencia y jurisdicción, en los términos y plazos que determinen de mutuo acuerdo las citadas entidades federativas y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
@@ -1493,8 +1465,6 @@ ARTICULO TERCERO.- Las entidades federativas contarán con un plazo de cuatro me
 Durante el período comprendido del 1o. de enero al 30 de junio de 1994, el porcentaje a que se refiere el artículo 2o.A fracción III, inciso b) de la Ley de Coordinación Fiscal, será distribuido a las entidades federativas coordinadas en derechos, conforme  a lo dispuesto en el citado artículo 2º-A fracción III, inciso a) de la citada Ley.
 
 La propia Secretaría y las entidades federativas, por conducto de la Comisión Permanente de Funcionarios Fiscales, revisarán periódicamente los resultados de dichos programas y determinarán a partir de julio de 1994, la procedencia del otorgamiento de la participación adicional a que se refiere la fracción III, inciso b) del artículo 2º-A de la Ley de Coordinación Fiscal.
-
-T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
@@ -1515,8 +1485,6 @@ Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1993
 LEY DE COORDINACION FISCAL
 
 ARTICULO NOVENO.- Se REFORMAN los artículos 2o., tercer párrafo; 2o-A, fracciones I y II, primer párrafo; 4o., primer párrafo; 7o., primer y último párrafos, de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..........
 
 DISPOSICION DE VIGENCIA ANUAL DE LA LEY DE COORDINACION FISCAL
 
@@ -1610,8 +1578,6 @@ Para los estados en que se aplique lo dispuesto en la fracción II del artículo
 
 III.	La reforma al tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal, no será aplicable a la deuda contraída por las entidades federativas y municipios al 31 de diciembre de 1995.
 
-T r a n s i t o r i o s
-
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
@@ -1627,8 +1593,6 @@ Publicada en el Diario Oficial de la Federación el 30 de diciembre de 1996
 LEY DE COORDINACION FISCAL
 
 Artículo Décimo.- Se REFORMAN los artículos 2o., cuarto párrafo y el actual último párrafo; 3o., último párrafo; 6o., tercer párrafo y 15, tercer párrafo, y se ADICIONA el artículo 2o., con un último párrafo, de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..........
 
 Disposición Transitoria de la Ley de Coordinación Fiscal
 
@@ -1660,11 +1624,7 @@ Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1997
 
 Artículo Primero.- Se adiciona un Capítulo V a la Ley de Coordinación Fiscal, denominado De los Fondos de Aportaciones Federales, que comprende de los artículos 25 al 42, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se REFORMA el artículo 2o., cuarto párrafo; y se ADICIONA el artículo 3o.- B, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1704,8 +1664,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 25, primer párrafo y fracción IV, 32, 33, 35, último párrafo, 36, 37, 38 y 42; y se ADICIONAN los artículos 25, con las fracciones VI y VII, 43, 44, 45 y 46 de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1999.
@@ -1726,8 +1684,6 @@ Ley de Coordinación Fiscal
 
 Artículo Décimo Primero. Se REFORMAN los artículos 2o., fracción I, segundo párrafo; 3o.-A, fracción I, 3o.-B, 7o., cuarto párrafo, 34, último párrafo, 35, penúltimo y último párrafos, 36, primer párrafo, 37, 44 y 45, se ADICIONA el artículo 3o. con un penúltimo y último párrafos de la Ley de Coordinación Fiscal para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
@@ -1741,8 +1697,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 
 Artículo UNICO.- Se reforman los artículos 1o. en su último párrafo; 6o., en su último párrafo; 10; en sus párrafos primero, segundo y último; 10-B, en sus párrafos primero y segundo; 12, párrafo primero; 13, párrafos primero, segundo, tercero y quinto, 19, fracción IV; 21, fracción IV; 25, fracción IV; 36, en su párrafo primero, para establecer los incisos a) y b); 37 y 38; se derogan el párrafo cuarto del artículo 10, el último párrafo del artículo 10-A y el párrafo cuarto del artículo 13 de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -1804,8 +1758,6 @@ Publicado en el Diario Oficial de la Federación el 13 de marzo de 2002
 
 ARTICULO TERCERO.- Se reforma el artículo 46, último párrafo de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1824,8 +1776,6 @@ Publicado en el Diario Oficial de la Federación el 14 de julio de 2003
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 3, 6, y 36 de la Ley de Coordinación Fiscal para quedar de la siguiente forma:
 
-...........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1842,8 +1792,6 @@ Publicado en el Diario Oficial de la Federación el 14 de julio de 2003
 
 Artículo Único.- Se reforma el artículo 9-A de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1859,8 +1807,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2003
 
 Artículo Único. Se reforma el artículo 9-A de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1880,8 +1826,6 @@ Publicado en el Diario Oficial de la Federación el 26 de agosto de 2004
 
 Artículo Único.- Se reforma el tercer párrafo del artículo 44 de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1896,8 +1840,6 @@ Publicado en el Diario Oficial de la Federación el 10 de febrero de 2005
 
 ARTÍCULO ÚNICO.- Se reforman los párrafos primero y tercero del artículo 44 de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1911,8 +1853,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006
 
 ARTÍCULO PRIMERO.- Se Reforman los artículos 25, en sus fracciones VI y VII, 44, en sus párrafos tercero y cuarto, 45, en sus párrafos primero y segundo, y 46, y se Adicionan el artículo 25, con una fracción VIII, y los artículos 44, con un párrafo sexto, 47, 48, 49 y 50, de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1934,8 +1874,6 @@ LEY DE COORDINACIÓN FISCAL
 
 ARTÍCULO CUARTO.- Se REFORMA el artículo 49, párrafo tercero y las fracciones III y IV, y se ADICIONA el mismo precepto con una fracción V, de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1951,8 +1889,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 2o., cuarto, quinto y sexto párrafos; 2o.-A, segundo párrafo; 4o.; 5o.; 6o., tercer y cuarto párrafos; 7o., último párrafo; 9o., quinto párrafo; 11, último párrafo; 11-A, primero y cuarto párrafos; 15, tercer párrafo; 37; 44, tercer párrafo; 46, segundo párrafo, y 49, primer párrafo; se ADICIONAN los artículos 2o.-A, último párrafo; 4o.-A; 4o.-B; 10-C; 10-D; 10-E; 27, segundo, tercero, cuarto y quinto párrafos; 46, último párrafo; 50, cuarto párrafo, pasando los actuales cuarto y quinto párrafos a ser quinto y sexto párrafos respectivamente, y 51, y se DEROGAN los artículos 2o, noveno párrafo; 3o., primer y segundo párrafos, y 11-A, quinto párrafo, de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DE LA LEY DE COORDINACIÓN FISCAL
 
@@ -2026,8 +1962,6 @@ Bajo ese enfoque, la declaratoria de invalidez de los artículos 4o.-A, último 
 
 1) Al artículo 10-D, fracción II, de la Ley de Coordinación Fiscal, exclusivamente en la porción normativa de su primer párrafo que señala Salvo que se trate de gasolina y diesel, así como por lo que se refiere a la totalidad del párrafo segundo de la citada fracción.
 
-II
-
 Tratándose de gasolina y diesel se considerará que la venta final se lleva a cabo en el territorio de una entidad cuando en el mismo se realice la entrega al consumidor final, con independencia del domicilio fiscal del contribuyente o del consumidor.
 
 2) Al artículo 27, fracción I, de la Ley del Impuesto Especial sobre Producción y Servicios, en la porción normativa que señala: Se exceptúan de lo anterior los impuestos locales a la venta o consumo final de los bienes objeto del impuesto previsto en esta Ley, que en términos de lo establecido en el artículo 10-C de la Ley de Coordinación Fiscal establezcan las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal; lo anterior, si se toma en consideración que la validez de dicha porción normativa depende de la fracción VIII del artículo 10-C de la Ley de Coordinación Fiscal, cuya invalidez ha sido declarada.
@@ -2058,8 +1992,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2008
 
 Artículo Tercero. Se reforma el primer y segundo párrafos del artículo 4o-B de la Ley de Coordinación Fiscal, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
@@ -2073,8 +2005,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de junio de 2009
 
 Artículo Único. Se reforma el artículo 40 de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2090,8 +2020,6 @@ Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 Artículo Único. Se reforman los artículos Segundo, fracción III, tercer párrafo y Sexto, fracción III, del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios., publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
@@ -2105,8 +2033,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 1o.; 2o., segundo, quinto y sexto párrafos; 2-A, primer párrafo, fracción I en su encabezado, segundo y quinto párrafos; 3-B; 4o.; 4o-A, fracciones I, II, y tercer párrafo del artículo; 4o-B, segundo y cuarto párrafos; 5o.; 6o. primer y cuarto párrafos; 9o., primer, segundo y actual tercer párrafos; 10-D, fracción II; 15, segundo párrafo; 19, fracción I; 25, fracción I; 26; 27; 31, segundo párrafo; 32; 33; 34; 35; 37; 39; 40; 43, fracción III; 44; 45; 49, primero, segundo, y los actuales cuarto, quinto y sexto párrafos; 50, primer párrafo; 51 primer y segundo párrafos; se ADICIONAN los artículos 4o-B, quinto, sexto y séptimo párrafos; 6o., quinto párrafo; 9o., tercer y cuarto párrafos, pasando los actuales tercer a sexto párrafos a ser quinto a octavo párrafos y un noveno párrafo; 20, fracciones III, con un segundo párrafo, y VI; 25, con un último párrafo; 26-A; 27-A; 41, segundo párrafo; 43, segundo párrafo; 48, quinto párrafo; 49, con los párrafos tercero y quinto, recorriéndose el actual párrafo tercero, el cual pasa a ser cuarto, así como recorriéndose los actuales párrafos cuarto a sexto, los cuales pasan a ser los párrafos sexto a octavo; 52, y se DEROGAN los artículos 2o., tercer y cuarto párrafos; 10-C, fracción VIII; 10-D, segundo párrafo; 36, tercer párrafo, de la Ley de Coordinación Fiscal para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2152,8 +2078,6 @@ Décimo.- Lo dispuesto en el cuarto párrafo del artículo 9o. de la Ley de Coor
 
 Décimo Primero.- En tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social emita una medición adicional del número de carencias promedio de la población en pobreza extrema por municipio y demarcación territorial, las entidades transferirán a los municipios y demarcaciones territoriales los recursos por concepto de Fondo de Aportaciones para la Infraestructura Social, de acuerdo con lo dispuesto en el primer párrafo del artículo 35 de esta Ley, utilizando la siguiente fórmula para la distribución de los mismos:
 
-Fi,t=Fi,2013+"F2013,t zi,t
-
 En donde las variables se definen conforme a lo establecido en el artículo 34 de esta Ley.
 
 Décimo Segundo.- Los municipios que, en los términos del artículo 51 de la Ley de Coordinación Fiscal vigente hasta antes de la entrada en vigor de este Decreto, hayan afectado como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, los recursos que les corresponden del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, continuarán sujetándose a las respectivas disposiciones emitidas con anterioridad a la entrada en vigor de este Decreto.
@@ -2187,8 +2111,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
 
 ARTÍCULO QUINTO. Se reforman los artículos 2o., párrafo segundo y fracciones I, VIII y IX; 2-A, fracción II; 4o-A, fracciones I, primer párrafo y II, tercer párrafo y 4o-B, párrafos primero y tercero y, se adicionan una fracción X y un tercer párrafo al artículo 2o. de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-.
 
 ARTÍCULO SEXTO. Se establecen las siguientes disposiciones transitorias de la Ley de Coordinación Fiscal:
 
@@ -2225,8 +2147,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de abril de 2016
 
 ARTÍCULO SEGUNDO.- Se reforma el artículo 9o., y se adiciona la fracción V al artículo 10-A de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -2299,8 +2219,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
 
 ARTÍCULO SEGUNDO.- Se Reforma el artículo 49, párrafos primero, segundo y último, así como las fracciones III, IV y V, de la Ley de Coordinación Fiscal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2376,68 +2294,14 @@ Séptimo. Los derechos laborales individuales de los trabajadores que con motivo
 
 Octavo. Se faculta a las Dependencias y Entidades de la Administración Pública Federal para que en los ejercicios fiscales subsecuentes realice las adecuaciones presupuestarias necesarias en términos de las disposiciones aplicables, para que los recursos que correspondan del Ramo General 33 se traspasen a Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en aquellos casos en que una entidad federativa suscriba el convenio de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud con fecha posterior a la entrada en vigor del presente Decreto.
 
-$!!^!`!a$gd®i
-
 /=;=G=S=_=i=j=k=q=r=µ=¸=¹=ø=û=ü=ç>èÑº£rbP>bP,bP,b"h
-
-?h®i
-
-?h
-
-4
-
-@
-
-K
-
-L
-
-J
-
-K
-
-L
-
-Q
-
-R
-
-ü
-
-$&dPÆÿa$$
 
 $&dPÆÿa$àèYa1FZp³ÐèêHi²¾¿®	¯	ú	û
 
 HQW^òú6
 
-7
-
-I
-
-Ì
-
-Í
-
-Î
-
-Ð
-
 hñp5CJ/û	óôùú6
-
-7
-
-Í
-
-Î
-
-c
-
-c
-
-j
 
 Ciudad de México, a 12 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Brenda Espinoza Lopez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-é+?[oÇâï

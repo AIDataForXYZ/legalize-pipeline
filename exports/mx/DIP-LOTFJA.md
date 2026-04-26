@@ -1178,8 +1178,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2024
 
 Artículo Tercero. Se adiciona un segundo párrafo y se recorren los subsecuentes para quedar como párrafos tercero y cuarto al artículo 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1198,8 +1196,6 @@ Publicado en el Diario Oficial de la Federación el 16 de octubre de 2025
 
 Artículo Tercero.- Se reforma la fracción II del artículo 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1217,17 +1213,5 @@ Todas las autoridades de la Federación, entidades federativas, municipios y alc
 Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-D
-
-Î
-
-Ï
-
-D
-
-Î
-
-Ï
 
 IpIqItIuII I¤I¥IJJµJ¶J»J¼J,K-K0K1KKKKKKÕKÖKØKÙK*L+L.L/LöL÷LûLüLxMyM÷íãÚ÷Ë¼ËÚ÷íãÚ²íãÚ÷íãÚ÷íãÚ÷íãÚ÷íãÚ÷íãÚ¥Ú÷íãÚ÷íãÚ÷Ë¼ËÚ÷íãÚ²íãÚ÷íãÚ÷hA*hç]

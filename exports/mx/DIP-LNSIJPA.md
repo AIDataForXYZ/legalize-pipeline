@@ -2822,8 +2822,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 Artículo Único.- Se reforman las fracciones VI y XI, inciso b), primer párrafo del artículo 46 y la fracción VII del artículo 263 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2834,12 +2832,6 @@ Ciudad de México, a 9 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-Ø
-
-×
-
-Ø
-
 ½¾¿Ü÷øùûüXYïÚïÉ¸¬ ¬¬ ¬ ulclculcuYlchG;h½>µ5CJhG;hK4CJhG;ho½CJhG;ho½5CJhG;hÊ1CJhc
 
 ©ha5CJaJhc
@@ -2849,8 +2841,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 ©hK45CJaJhc
 
 ©ho½5CJaJ hc
-
-&4&5&6&t&F'G'H'q(r(s((k*l*m**Z+[++++,,,,,,¡,·-¸-¹-Ô-k.t.v.w......+/,/-/ü/ý/þ/F0222444G4H4I4R4÷îåÛ÷îå÷îåÛ÷îåÛ÷Î÷îå÷îå÷îåÛ÷îåÛ÷Å÷¼÷Å÷ÅÎ÷îå÷îåÛ÷îå÷îå°¤°hc
 
 ©hÊ15CJaJhc
 
@@ -2874,8 +2864,6 @@ XSXTXXYYYZYÖZ×ZØZøZ¡[¢[£[â[ÿ\]]×]Ø]Ù],^-^;^<^W_X_Y_q_«`¬`þ`ÿ`aÐ
 
 ©ho½5CJaJhG;ho½5CJhG;hK4CJhG;ho½CJhG;hÊ1CJ9]WX|
 
-()9ìyz
-
 ÄÄ&ÅõìãÚìãÚìãÚìãÚìãÚìãÚìãÚìãÚÐìãÚÄ¸Ä¬¢ÐìãÚìãÚÐìãÚìãÚÐõìã¢ÐõìãÚÐõìãÚìhG;hÊ15CJhc
 
 ©hK45CJaJhc
@@ -2890,58 +2878,6 @@ XSXTXXYYYZYÖZ×ZØZøZ¡[¢[£[â[ÿ\]]×]Ø]Ù],^-^;^<^W_X_Y_q_«`¬`þ`ÿ`aÐ
 
 ©hÖ|5CJaJhc
 
-;
-
-ú
-
-û
-
-;
-
-=
-
->
-
-ù
-
-ú
-
-û
-
-ý
-
-þ
-
 01256|}~ýþÿefgij²³´¶·
-
-^
-
-_
-
-_
-
-j
-
-}
-
-~
-
-¡
-
-¢
-
-Ö
-
-|
-
-}
-
-~
-
-¡
-
-¢
-
-Ö
 
 >?@îïðýþGÑÒÓøe¢£¤z{|¥|}~¹º»ÝÞßøùú=>?}~FGHz   Ý

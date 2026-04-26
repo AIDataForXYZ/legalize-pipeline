@@ -500,15 +500,11 @@ Publicado en el Diario Oficial de la Federación el 18 de marzo de 2025
 
 ARTÍCULO NOVENO.- Se reforman la fracción I del artículo 4; los incisos d) y f) de la fracción II del artículo 8; la fracción VII del artículo 9; la fracción I del artículo 16; el tercer párrafo del artículo 22, y el artículo 24 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En los instrumentos de coordinación y colaboración administrativa para el intercambio de información y asistencia técnica, cuando se haga referencia a la Comisión Nacional de Hidrocarburos se debe entender por la Secretaría de Energía, en tanto no se dejen sin efectos o se celebren los nuevos convenios de colaboración administrativa correspondientes.
-
-..
 
 ##### Transitorios
 

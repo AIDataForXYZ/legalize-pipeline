@@ -1542,8 +1542,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974
 
 ARTICULO NOVENO.- Se reforman los artículos 23, fracción I y 58 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en los siguientes términos:
 
-.........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
@@ -1558,8 +1556,6 @@ Publicado en el Diario Oficial de la Federación el 13 de noviembre de 1981
 
 ARTICULO UNICO.-Se adiciona el Artículo 42 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y un Artículo 68 a la misma, como sigue:
 
-.........
-
 ##### TRANSITORIO
 
 UNICO.- Este decreto entrará en vigor a partir del día siguiente al de su publicación en el "Diario Oficial" de la Federación.
@@ -1573,8 +1569,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de enero de 1982
 
 ARTICULO UNICO.- Se reforman los artículos 29 fracción III, 34, 36, 59, 61 64 y 67; y se adicionan dos párrafos al articulo 40, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -1596,8 +1590,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1983
 
 ARTICULO SEGUNDO.- Se reforman y adicionan los artículos 30, 36, 40, 41, 49 y 55 de la Ley del Instituto del Fondo Nacional de la vivienda para los Trabajadores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- Las solicitudes de entrega de depósitos presentadas con anterioridad a estas reformas y pendientes de ser resueltas, se atenderán en los términos de las disposiciones legales anteriores a las propias reformas. Las solicitudes de entrega de depósitos presentadas con posterioridad a la iniciación de vigencia de la Reforma al Artículo 141 de la Ley Federal del Trabajo, se resolverán atendiendo a la norma vigente en el momento en que el derecho en que se funden se volvió exigible.
@@ -1616,8 +1608,6 @@ Publicado en el Diario Oficial de la Federación el 8 de febrero de 1985
 
 ARTICULO UNICO.- Se reforma el artículo 51 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores para quedar como sigue:
 
-..........
-
 ARTICULO TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
@@ -1631,8 +1621,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de enero de 1986
 
 ARTICULO SEGUNDO.- Se reforman y adicionan los artículos 23 fracción I, 40 primer párrafo, 44 y 51 de la Ley del Instituto del fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..........
 
 ARTICULOS TRANSITORIOS
 
@@ -1674,8 +1662,6 @@ LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
 ARTICULO TRIGESIMO SEGUNDO.- Se REFORMA el artículo 35 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1990.
@@ -1709,8 +1695,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de febrero de 1992
 
 ARTICULO UNICO.- Se REFORMAN los artículos 15, 16 fracciones VII, IX, X y XI, 23 fracciones I tercer párrafo y VII, 29 fracción II, 30 segundo párrafo, 35, 36, 37, 38, 39, 40, 41, 42 fracciones III y V y antepenúltimo párrafo, 43, 44, 45, 47, 48, 59, y 67, se ADICIONAN los artículos 16 con las fracciones XII Y XIII, 29 con un último párrafo, 30 con las fracciones I a V y un último párrafo, 42 con un último párrafo a la fracción I y con un tercer párrafo a la fracción II pasando el actual tercer párrafo de dicha fracción a ser el cuarto párrafo de la misma; 43 BIS, y 51 BIS a 51 BIS 6, y se DEROGAN las fracciones V, VI y VII del artículo 10; los párrafos tercero y cuarto del 30, el último párrafo de la fracción II del 42, 60, 61, y 65, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1786,8 +1770,6 @@ En la Segunda Sección, página 11, artículo 16, se omitió línea de puntos co
 
 Debe decir:
 
-.............................................................
-
 IX. Establecer las reglas para el otorgamiento de créditos;
 
 En la Segunda Sección, página 15, ARTICULO 48, cuarto renglón, dice:
@@ -1846,8 +1828,6 @@ Publicado en el Diario Oficial de la Federación el 22 de julio de 1994
 
 ARTICULO TERCERO.- Se REFORMAN los artículos 16 fracción XI; 23 fracción I, tercer párrafo; 29 fracción II; 30 fracción I primer párrafo y fracción V segundo párrafo; 35 párrafo segundo; 38; 40 párrafos, primero, segundo, cuarto y sexto; 43 primer párrafo y 55 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Se ADICIONAN los artículos 29 fracción III con un segundo párrafo pasando el actual a ser tercer párrafo; 30 fracción V con un tercer párrafo; 35 con un tercer y cuarto párrafo y 43 con un tercer párrafo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1877,8 +1857,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de enero de 1997
 
 ARTICULO UNICO.- Se REFORMAN los artículos 5; 16 fracciones VII y X; 17 párrafo tercero; 25 párrafo primero; 29 fracciones II y III; 30 fracciones II y IV; 31; 32; 33; 34; 35; 37; 38; 39; 40; 41 párrafos segundo y tercero; 42 fracciones I, II y IV; 43; 43 Bis; 44 párrafo primero; 45; 47 párrafo primero; 49 párrafo primero; 51 párrafo tercero; 51 Bis párrafo segundo; 56, 59 y 64; se ADICIONAN los artículos 16 con una nueva fracción X pasando la actual fracción X que se reforma y las actuales fracciones XI, XII y XIII, a ser las XI, XII, XIII y XIV respectivamente; 29 fracción I con un segundo y tercer párrafos, con las fracciones IV, V, VI, VII, VIII y IX así como con dos últimos párrafos; 30 con las fracciones VI, VII, VIII, IX, X y XI; 41 con un cuarto párrafo; 51 con un nuevo cuarto párrafo pasando los actuales párrafos cuarto, quinto y sexto a ser el quinto, sexto y séptimo párrafos respectivamente; 69 y 70 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..........
 
 ARTICULOS TRANSITORIOS
 
@@ -1972,8 +1950,6 @@ Publicado en el Diario Oficial de la Federación el 25 de mayo de 2001
 
 ARTICULO UNICO.- Se adiciona un tercer párrafo al Artículo 47, recorriéndose el orden del actual tercero para quedar como cuarto de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1988,11 +1964,7 @@ Publicado en el Diario Oficial de la Federación el 1º de junio de 2005
 
 ARTÍCULO PRIMERO.- Se reforman los Artículos 6o, 10, 16, 17, 18, 19, 21, 23, 25, 28, 39, 58 y 66 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO.- Se adicionan los Artículos 18 Bis, 18 Bis 1, 19 Bis, 19 Bis 1, 25 Bis y 25 Bis 1 a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..........
 
 ARTÍCULO TERCERO.- Se deroga el Artículo 20 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
@@ -2016,11 +1988,7 @@ Publicado en el Diario Oficial de la Federación el 12 de enero de 2012
 
 ARTÍCULO PRIMERO. Se reforman los artículos 43, párrafos segundo y actual tercero, y 47, párrafo cuarto; y se adicionan los artículos 43 con un párrafo tercero, pasando los actuales párrafos tercero y cuarto a ser cuarto y quinto, respectivamente; 44, con un párrafo tercero, pasando el actual párrafo tercero a ser el cuarto, y 47 con un párrafo quinto, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO. Se reforma el Artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación el 6 de enero de 1997, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2035,8 +2003,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO SÉPTIMO. Se reforma el artículo 51 Bis 1, último párrafo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2083,8 +2049,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2015
 
 Artículo Único. Se adiciona un artículo 29 Bis a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2314,8 +2278,6 @@ Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 
 Artículo Único. Se reforma el artículo 37 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2329,8 +2291,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 Artículo Tercero. Se reforman los artículos 29, tercer párrafo, y 29 Bis, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2398,8 +2358,6 @@ Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 Artículo Único.- Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2429,8 +2387,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Tercero.- Se adiciona un artículo 59 Bis a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2498,8 +2454,6 @@ Publicado en el Diario Oficial de la Federación el 21 de febrero de 2025
 
 Artículo Primero.- Se reforman los artículos 3o., fracciones II, inciso b), III, y actual IV, que pasa a ser VI; 4o.; 5o., fracciones II y V y último párrafo; 6o., primer y segundo párrafos; 7o.; 8o.; 10, fracciones I, IV y VIII; 11; 12; 14; 15; 16, fracciones I, IV, V, VII, IX y XIX; 17; 18 Bis; 22; 23, fracciones I, segundo párrafo, II, V, VI, VII y IX; 25 Bis, párrafos primero, segundo y tercero; 29, segundo párrafo; 41; 42, primero, segundo, tercer y cuarto párrafos; 43 Bis, párrafo tercero; 44; 47; 51; 63; 64; 66 y 70; se adicionan los artículos 2o., con un párrafo segundo; 3o., con las fracciones IV, V y VII y un segundo y tercer párrafos; 16, con las fracciones IX Bis y XXI Bis; 23, con las fracciones II Bis y V Bis; 41 Bis; 42, con las fracciones VI y VII, recorriéndose la subsecuente en su orden, y los párrafos quinto, sexto, séptimo, octavo y noveno; 47, con un tercer párrafo, recorriéndose en su orden los subsecuentes; 51 Ter; 51 Quáter; 51 Quinquies y 66 Bis, y se derogan la fracción I del artículo 5o., y el artículo 24 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2552,63 +2506,9 @@ Ciudad de México, a 13 de febrero de 2025.- Dip. Sergio Carlos Gutiérrez Luna,
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de febrero de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-1
-
-±
-
-²
-
-ú
-
-û
-
 Kkl®¯
 
-6
-
-7
-
-²
-
-·
-
-¸
-
-û
-
 Ù.ÙRÛsÛïÛÜÜÜÔß
-
-Ù.Ù/ÙRÛsÛtÛïÛÜÜ¡Ü¢ÜæÝçÝÔß
-
-÷
-
-ø
-
-÷
-
-ø
-
-l$XÉý^X`Éýa$gdç	$XÉý^X`Éýa$gdç	Ä9É9R:S:V:Ê:Ë:Î:;
-
-lh1
-
-lh1
-
-j
-
-r
-
-¥
-
-­
-
-½
-
-#
-
-Ð
-
-Ñ
 
 f$a$gdÉ
 
@@ -2633,18 +2533,6 @@ f5CJ^JaJ!hÉ
 f5B*CJ\^JaJph$h»$0hÉ
 
 fB*CJ\^JaJph'h»$0hÉ
-
-$a$gd
-
-h
-
-CJ^Jh
-
-h
-
-h
-
-h
 
 CJ^JaJhâh
 

@@ -1822,8 +1822,6 @@ Publicado en el Diario Oficial de la Federación el 30 de octubre de 2014
 
 Artículo Segundo.- Se reforman los artículos 3, fracción III; y 55, segundo párrafo de la Ley de Migración, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1843,8 +1841,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de abril de 2016
 
 Artículo Único.- Se adiciona una fracción VI al artículo 48 de la Ley de Migración, para quedar como sigue:
-
-..
 
 ##### TRANSITORIO
 
@@ -1874,8 +1870,6 @@ Publicado en el Diario Oficial de la Federación el 9 de noviembre de 2017
 
 Artículo Único: Se reforman los artículos 29, primer párrafo, y 112, fracciones I y VI, tercer párrafo de la Ley de Migración, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1903,8 +1897,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Único.- Se reforma la fracción XXVIII del artículo 3 y el primer párrafo del artículo 111 de la Ley de Migración, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1934,8 +1926,6 @@ Publicado en el Diario Oficial de la Federación el 13 de abril de 2020
 
 Artículo Único.- Se reforma el artículo 93 de la Ley de Migración, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1949,8 +1939,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2020
 
 Artículo Primero.- Se adicionan las fracciones V, XX, XXI, XXII y XXV, recorriendo en su numeración a las subsecuentes del artículo 3; un segundo párrafo al artículo 6; las fracciones X y XI, recorriendo en su numeración a las subsecuentes del artículo 20; un párrafo tercero al artículo 71; un párrafo segundo al artículo 79; los párrafos tercero, cuarto y quinto al artículo 95; los párrafos segundo, tercero y cuarto al artículo 98; se reforman la fracción XIX recorrida del artículo 3; el primer párrafo del artículo 6; el segundo párrafo del artículo 11; las fracciones IV, VII y IX del artículo 20; el artículo 29; el inciso b) de la fracción V del artículo 52; el párrafo segundo del artículo 68; el primer párrafo del artículo 71; los artículos 73 y 74; el artículo 99; las fracciones II y III del artículo 107; la fracción XIII del artículo 109; el artículo 112; el párrafo segundo y sus fracciones I y II y el párrafo tercero del artículo 120; se suprime la fracción XIV, recorriendo en su numeración las subsecuentes del artículo 109; de la Ley de Migración, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1984,8 +1972,6 @@ Publicado en el Diario Oficial de la Federación el 4 de mayo de 2021
 
 Artículo Único.- Se reforman los artículos 2, primer párrafo; 28, fracción IV y se adicionan los párrafos quince y dieciséis, pasando el actual párrafo quince a ser diecisiete al artículo 2 de la Ley de Migración, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1999,8 +1985,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Trigésimo Cuarto.- Se reforma el párrafo primero y las fracciones II y III del artículo 28 de la Ley de Migración, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2078,8 +2062,6 @@ Publicado en el Diario Oficial de la Federación el 29 de abril de 2022
 
 Artículo Único.- Se reforma el segundo párrafo del artículo 35 de la Ley de Migración, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, para que el personal del Instituto Nacional de Migración pueda auxiliarse de herramientas tecnológicas automatizadas en la vigilancia de entrada y salida de nacionales y extranjeros.
@@ -2094,8 +2076,6 @@ Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024
 
 Artículo Único.- Se reforma el párrafo quinto, y se adicionan los párrafos sexto y séptimo, recorriéndose el subsecuente, del artículo 36 de la Ley de Migración, para quedar como sigue:
 
-.......
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2109,8 +2089,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de mayo de 2024
 
 Artículo Único.- Se reforman las actuales fracciones XII, XVII y XVIII, pasando a ser XXI, XXII y XXIII, recorriéndose las subsecuentes en su orden, del artículo 3 de la Ley de Migración, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2146,69 +2124,33 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-±ÏÐÑâã
-
 h¹4l5CJh|ÿh|ÿCJ1ì./
 
-///////C/D/M/V/[/e/g/////////¥/¦/¯/¸/½/Ç/É/ç/è/é/ì/í/î/æÌÃ¹²¨Ì|Ì|eæÌÃ^²¨Ì|Ì|eæÌÃ¨
-
-hÇ5CJ
-
-«««´«µ«¶«Â«`¬a¬b¬n¬»­¼­½­}®~®®®3¯4¯5¯t°u°v°°5±6±Y²ëâÖÊÖÀ¶­§â­§â¶­§â¶­§â­§â¶­§â­§â|j|"h
-
 UIh
 
 UIh
-
-UI$ ` a$gd
 
 UIh
 
 |}~LMN
 
-y
-
-z
-
-}
-
 EFGJ¦§¨µ567RSTa_`acµ¶·»ÚÛÜ­®¯ÏÐ
-
-z
 
 ,CJh÷
 
-,h÷
-
-,5CJ\aJ#h÷
-
-,h÷
-
 ,5B*CJ\aJphh÷
-
-,h÷
 
 ,5CJ^JaJh÷
 
-,
-
 ,5CJ^JheÙh÷
 
-,h÷
-
 ,CJ^JheÙh÷
 
 ,CJ^JheÙh÷
-
-UI$ ` a$gd
-
-UI
 
 UICJh
 
 UIh
-
-UI5CJ\aJ#h
 
 UIh
 

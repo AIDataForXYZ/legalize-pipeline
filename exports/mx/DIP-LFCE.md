@@ -2710,8 +2710,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Primero.- Se reforman los artículos 3, fracciones III, V, VI, VIII y XIII; 6, párrafo primero; 9, párrafo primero; la denominación del Título II del Libro Primero; 10; 11; 12, fracciones III, VII, IX, XIII y XVII; la denominación de la Sección I del Capítulo II del Título II del Libro Primero; 13, párrafo primero; 18, párrafos cuarto, quinto y séptimo; 19; 20, párrafo primero y sus fracciones II, VII y VIII; 23, párrafos primero y actual; 24, párrafos primero, segundo y sus fracciones II y III y cuarto; 25, párrafos cuarto, quinto, sexto y séptimo; 28, fracciones I, II, X y XI; 29; 30; 31, párrafo primero, fracciones I, II, III, V y VI; 32, párrafo primero; 33; la denominación del Capítulo IV del Título III del Libro Primero; 34; 35, párrafo primero; 36; la denominación del Título V del Libro Primero; 47, párrafo primero; 51, párrafo primero; 53, párrafo primero; 54, fracción III; la denominación de la Sección II del Capítulo V del Título Único del Libro Segundo; 59, párrafo primero; 60, fracción I; 63, fracción V; 64, fracciones II y III; 65, párrafo segundo; 71, párrafo cuarto; 73, párrafo primero; 78, párrafos primero, segundo y tercero; 83, fracciones II, III, párrafo segundo, V y VI, párrafos primero y cuarto; 86, fracciones I, II y III; 90, fracciones V, párrafo primero, VI y párrafo cuarto; 94, fracciones III, párrafo primero, y VII, párrafo cuarto; 100, párrafo primero y fracción II; 102, fracción I, y los párrafos actuales segundo y quinto; 103, fracciones I, II y III y los párrafos segundo y tercero; 114, párrafo primero; 115, párrafo tercero; 117, párrafos primero y tercero; 119, párrafo primero; 121; 125, párrafo segundo; 126, párrafo primero y sus fracciones II y IV; 127, fracciones I, III, IV, V, VII, VIII, IX, X, XI, XII, XIII, XIV y XV, y párrafo quinto, incisos a), b) y c); 128; 129; 130; 131, fracciones I y II; 132; 134; 135, párrafo primero, y 137, se adicionan los artículos 3, las fracciones I Bis, XI Bis y XIV Bis; 12, las fracciones XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y se recorre en su orden las subsecuentes; 13 Bis; 13 Ter; 13 Quáter; 28, las fracciones II Bis, II Bis 1, XII, XIII y XIV; 59, las fracciones VII, VIII y IX; 59 Bis; 63, fracción V, un segundo párrafo; 64, la fracción IV; 69, los párrafos cuarto y quinto; 73, el párrafo tercero; 77, los párrafos tercero y cuarto; la Sección II Bis al Capítulo Único del Título I del Libro Tercero, el cual comprende los artículos 77 Bis y 77 Bis 1; 90, fracción V, el párrafo cuarto, fracción VI, el párrafo segundo y el párrafo quinto; 93 Bis; 94, los párrafos séptimo, octavo, noveno y décimo; 100, los párrafos segundo, tercero, cuarto y quinto; 102, el párrafo segundo, y se recorren en su orden los subsecuentes; 103, los párrafos cuarto, quinto, sexto, séptimo y octavo; un Capítulo VI del Título IV del Libro Tercero con el artículo 110 Bis; 117, el párrafo cuarto; 119, el párrafo tercero; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las fracciones VIII, los párrafos segundo y tercero y XII Bis, XVI y XVII; 130, el párrafo segundo; 132, el párrafo segundo; y el Libro Cuarto, con el Título Único, el cual comprende los Capítulos I con sus artículos 140, 141 y II con sus artículos 142, 143, 144 y 145 y, se derogan la fracción VII al artículo 3; 5; párrafo segundo al artículo 6; las fracciones XII, XIV, XV y XXII al artículo 12; un párrafo segundo al artículo 13; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero, incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo 59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos segundo, tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, conforme a los siguientes párrafos.
@@ -2828,50 +2826,12 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-hÌBÓ5CJ
-
-h+[
-
-CJ
-
-3
-
-4
-
-Ù
-
-Ú
-
-3
-
-4
-
-A
-
-Ø
-
-Ù
-
-Ú
-
-Ü
-
-Ý
-
 hV*Ç5CJh°BhµO5CJ
 
 ddÐfÑfÒfÔfÕfëgìgígûgiii#iiii¡i¢iÝiÞißiâiãijjjFkGkHkVkÒkÓkÔkâkmm
 
-ôhÁ
-
-hÁ
-
 ô5CJh°BhÁ
 
 ôCJh°BhÁ
-
-¾
-
-¾
 
 høFE5CJh°BhøFECJ6t¨u¨a©b©¬	¬ó®ô®á°â°ñ±ò±¶³·³µµ

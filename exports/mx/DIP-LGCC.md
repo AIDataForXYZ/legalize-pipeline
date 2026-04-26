@@ -1926,8 +1926,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 2014
 
 ARTÍCULO ÚNICO. Se reforma la fracción XI del artículo 7o. de la Ley General de Cambio Climático, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1969,8 +1967,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
 
 Artículo Único.- Se adiciona un último párrafo al artículo 9o. de la Ley General de Cambio Climático, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2032,8 +2028,6 @@ Artículo Décimo Sexto.- Se reforman los artículos 5o.; 8o., fracción I; 10; 
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-..
-
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
@@ -2071,8 +2065,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO DÉCIMO SÉPTIMO. Se reforman los artículos 8o., fracción VI; 16, fracciones VI, inciso b) y VII; 32, párrafo segundo; 50, fracción III; 81, primer párrafo y fracción V; 82, primer párrafo; 83, 86, 92, tercer párrafo; 107, y 108, así como la denominación del Capítulo VII del Título Quinto; se adiciona un segundo párrafo al artículo 82 y, se derogan los artículos 3o., fracción XXI; 7o., fracción VIII; 8o., fracción XVII; 80; 84, y 85 de la Ley General de Cambio Climático, para quedar como sigue:
-
-..
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -2178,8 +2170,6 @@ Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023
 
 Artículo Único.- Se reforman los artículos 7o., fracción IV; 8o., fracción XIII; 29, fracción XI; 30, fracciones I y II; se adiciona una fracción III Bis al artículo 3o.; una fracción XXIX, recorriéndose en su orden la subsecuente, al artículo 22 y una fracción X Bis al artículo 29 de la Ley General de Cambio Climático, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2194,8 +2184,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Sexto.- Se reforma el último párrafo del artículo 26 de la Ley General de Cambio Climático, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2203,17 +2191,5 @@ Artículo Sexto.- Se reforma el último párrafo del artículo 26 de la Ley Gene
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-!
-
-"
-
-!
-
-"
-
-$
-
-,¼,Þ,ß,-³-´-ê-.
 
 UQURU_U£U¤U¥U¨U3VJVTVUVVVYV

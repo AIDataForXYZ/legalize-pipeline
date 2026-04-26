@@ -498,8 +498,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Segundo. Se adiciona una fracción XVII, recorriéndose la actual en su orden, al artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -513,8 +511,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de junio de 2011
 
 Artículo Tercero.- Se reforma la fracción VII del artículo 5 de la Ley Federal de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -544,8 +540,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2012
 
 ARTÍCULO ÚNICO.- Se reforma la fracción VIII y se adiciona una fracción XVIII, pasando la actual a ser XIX al artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -559,8 +553,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
 
 Artículo Único.- Se reforman los artículos 5, fracción I; 14, segundo párrafo; 24, segundo párrafo; 31, fracción II, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -596,8 +588,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Segundo.- Se reforma el artículo 5, fracción V, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -606,45 +596,17 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-\]¯°¾ÄÛåæçèéV	W	j	þ	êÛÊ»©}j}_QC=5.=
-
-¥
-
-¨
-
-¤
-
-¥
-
-h¯ü5CJ
-
 ÐB*CJaJphh?6h
 
 ÐB*CJaJph h
-
-Ðh
 
 Ð5B*CJaJph·abbHcjckc«c¬cd#d$df'f(fg#g$gÁgãgägh¶h·hõõõéâââÒÊÒÒÊÒÒÊÒÒÊÒÒÂâ0$a$gd
 
 Ð#g$g(g)gÁgãgägçgègh©h«hµh¶h·hÃhjjejgj5k9kékîkSlVlîlðl!m$mðÞðÉ±ðÞðÉnhahahahahahahahP h
 
-Ðh
-
 Ð5B*CJaJph
 
-h¯ü5CJ
-
 ÐCJaJh
-
-Ðh
-
-{|4ÄÅ
-
-Ð
-
-Ð$&dPÆÿa$gd
-
-Ð¯ö÷ú
 
 wx³Íáþ0Daz{Ãä(34ÄÅ
 
@@ -653,8 +615,6 @@ wx³Íáþ0Daz{Ãä(34ÄÅ
 Ð5CJaJh?6h
 
 ÐCJh
-
-Ðh
 
 ÐCJaJh
 

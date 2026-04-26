@@ -396,8 +396,6 @@ Publicado en el Diario Oficial de la Federación el 22 de julio de 1991
 
 ARTICULO UNICO.- Se REFORMAN el Título; los artículos 1o., 3o., 4o., 9o., 11 y 13, y se ADICIONAN los artículos 7o., con la fracción IV; 20, con un segundo párrafo; 22, con un tercer párrafo, y 37, con la fracción IX de la Ley Federal para el Fomento de la Microindustria, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -411,8 +409,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO SEXTO.- Se reforman los artículos 2o, 10 y 11, primer párrafo; se adicionan una fracción V al artículo 7°, y un cuarto párrafo al artículo 15 de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -430,8 +426,6 @@ Publicado en el Diario Oficial de la Federación el 18 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se reforma la fracción IV del artículo 7o y se adicionan las fracciones V al artículo 7o. y X al artículo 37 de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -445,8 +439,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO. Se reforman los artículos 2o.; 16, segundo párrafo; 20, primer párrafo; 36, primer y segundo párrafos; y 37, fracción I, de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -464,8 +456,6 @@ Publicado en el Diario Oficial de la Federación el 27 de marzo de 2023
 
 Artículo Único.- Se adiciona una fracción VI al artículo 7o. de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -481,8 +471,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de marzo de 2023
 
 Artículo Único.- Se reforman las fracciones I y II del artículo 7o.; y se adiciona un inciso E) a la fracción IX del artículo 37 de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

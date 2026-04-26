@@ -116,8 +116,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Sexto. Se reforma el artículo 3o. de la Ley Orgánica del Seminario de Cultura Mexicana, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

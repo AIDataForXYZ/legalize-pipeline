@@ -1222,19 +1222,11 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 1980
 
 ARTICULO PRIMERO.- Se adiciona con una fracción XI el artículo 6o. de la Ley de Premios, Estímulos y Recompensas Civiles, como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se adiciona la Ley de Premios, Estímulos y Recompensas Civiles, con un capitulo XIV Bis, denominado Premio Nacional de Administración Pública, como sigue:
-
-..........
 
 ARTICULO TERCERO.- Se reforman los artículos 92 a 100 de la Ley de Premios, Estímulos y Recompensas Civiles, como sigue:
 
-..........
-
 Se adiciona un artículo al capítulo XVI, denominado Disposiciones Generales, para quedar como sigue:
-
-..........
 
 TRANSITORIO:
 
@@ -1250,8 +1242,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983
 
 ARTICULO PRIMERO.- Se adicionan los artículos 44 con una fracción VI, y el 46 con un segundo párrafo, y se reforma el 48 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1266,8 +1256,6 @@ Publicado en el Diario Oficial de la Federación el 18 de noviembre de 1986
 
 ARTICULO UNICO.- Se adicionan una fracción III-Bis al artículo 6o. y un Capítulo VII-Bis que se denominará Premio Nacional de Demografía y Contendrá los artículos 51-A a 51-D a la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1281,8 +1269,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2002
 
 ARTÍCULO ÚNICO.- Se deroga la fracción V del Artículo 6, así como los artículos 60, 61, 62, 63, 64, 65, 66, 67 y 68, que integran el capítulo IX, de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1306,8 +1292,6 @@ TERCERO A DECIMO PRIMERO.- ..........
 
 ARTICULO CUARTO. Se adiciona una fracción XI Bis al artículo 6 y un Capítulo XV Bis, para incluir los artículos 91-A al 91-D de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-..........
-
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
 ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
@@ -1321,8 +1305,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de marzo de 2003
 
 Artículo Único.- Se reforma y adiciona el artículo 6o., se adicionan cinco artículos, se reforma y recorre el número de los Capítulos a partir del VIII, y, se reforma y recorre en su orden los artículos a partir del 52 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1340,8 +1322,6 @@ Publicado en el Diario Oficial de la Federación el 15 de junio de 2004
 
 ARTÍCULO ÚNICO.- Se reforman el párrafo segundo del artículo 2, el primer párrafo del artículo 72, el primer párrafo del artículo 73, los artículos 74 y 75; se adicionan las fracciones XIII, XIV, XV y XVI al artículo 6, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII, XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue:
 
-........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1355,8 +1335,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de octubre de 2004
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 6, último párrafo, 56, 57, 58, 60, 61 y 63 de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1372,8 +1350,6 @@ Publicado en el Diario Oficial de la Federación el 12 de enero de 2006
 
 ARTÍCULO ÚNICO.- Se derogan las fracciones V y VI del artículo 114 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1387,8 +1363,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de junio de 2006
 
 ÚNICO.- SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 6, LOS ARTÍCULOS 120, 121, 122 Y 123 Y LA DENOMINACIÓN DEL CAPÍTULO XXII, PARA SER "PREMIO NACIONAL DE LA CERÁMICA", Y SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 6 Y LOS ARTÍCULOS 124, 125, 126 Y 127 EN UN CAPÍTULO XXIII, DENOMINADO "DISPOSICIONES GENERALES", TODOS DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1404,8 +1378,6 @@ Publicado en el Diario Oficial de la Federación el 9 de junio de 2009
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 72 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1420,8 +1392,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 
 Artículo Único.- Se reforman los artículos 40, 41, 42 y 43; se adiciona el artículo 40 con un tercer párrafo y se deroga el artículo 41, fracción II, de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1435,8 +1405,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 
 Artículo Único.- Se reforman los artículos 6, último párrafo; 56, 57, 58, 59, 60, 61, 62 y 63, y se adicionan los artículos 6, con una fracción V Bis; un artículo 63 Bis, un Capítulo IX Bis, Premio Nacional de Mérito Deportivo, que comprende los artículos 57 y 58, y un Capítulo IX Ter, Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo, que comprende los artículos 59 a 63 Bis; de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1460,8 +1428,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2012
 
 ARTÍCULO ÚNICO. Se reforman los artículos 44, fracción V, y 45 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1475,8 +1441,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO. Se reforman los artículos 53 y 78 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1512,8 +1476,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2015
 
 Artículo Único.- Se adicionan el artículo 6, con una fracción XVIII; un Capítulo XXIII denominado Premio Nacional de Cultura Contributiva, que comprende los artículos 124, 125, 126 y 127, recorriéndose los actuales para ser los artículos 128, 129, 130 y 131 en un Capítulo XXIV denominado Disposiciones Generales de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1528,8 +1490,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
 
 Artículo Segundo.- Se reforma el artículo 73, primer párrafo, de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1543,8 +1503,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO OCTAVO.- Se REFORMAN los artículos 6, fracción III; 35; 44; 45; 48; 108 y 123, así como la denominación del Capítulo VII; se ADICIONAN la fracción II Bis al artículo 6, y un Capítulo VII Bis denominado Premio Nacional de Artes y Literatura que comprende los artículos 51-A a 51-H, y se DEROGA el segundo párrafo del artículo 46 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1597,8 +1555,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Trigésimo Tercero.- Se reforma el artículo 119 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1690,8 +1646,6 @@ Publicado en el Diario Oficial de la Federación el 10 de mayo de 2022
 
 Artículo Único.- Se reforman las fracciones II Bis y XV del artículo 6, así como la denominación de los Capítulos VII y XX y los artículos 44, 46, 113, 114 y 115; y se adiciona un segundo párrafo al artículo 51 y un artículo 114 Bis, a la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1710,8 +1664,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Vigésimo.- Se reforma el artículo 106 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1720,30 +1672,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-$&dPÆÿa$$a$Ye
-
-°
-
-±
-
-¾
-
-°
-
-±
-
 hCÚ5CJ
-
-p
-
-z
-
-{
-
-|
-
-{
-
-|
 
 hCÚCJ\

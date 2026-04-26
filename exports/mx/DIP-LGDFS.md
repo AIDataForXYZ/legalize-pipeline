@@ -2728,8 +2728,6 @@ Publicado en el Diario Oficial de la Federación el 13 de abril de 2020
 
 Artículo Único.- Se reforman las fracciones VI, XVIII, XIX, LXX, LXXI, LXXIII y LXXXI, y se adicionan las fracciones V Bis, XIX Bis, XXII Bis, XXXVIII Bis, LX Bis y LXXI Bis del artículo 7 de la Ley General de Desarrollo Forestal  Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2743,8 +2741,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de abril de 2021
 
 Artículo Único. Se reforman los artículos 18, primer párrafo; 20, fracción XXXVIII; 24, párrafos primero, segundo y tercero; 93, primer párrafo, 97 y 99; y se adicionan un párrafo cuarto al artículo 24 y un párrafo cuarto al artículo 93 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2800,8 +2796,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 Artículo Único.- Se reforman el primer párrafo del artículo 139 y el penúltimo párrafo del artículo 140 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2816,8 +2810,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Segundo.- Se reforman el artículo 1; la fracción XII del artículo 2; las fracciones XXVIII, XXIX, XXXIV, XXXV y XXXVI del artículo 3; el artículo 5; la fracción XXXV del artículo 7; las fracciones I, VII y VIII, del tercer párrafo del artículo 8; las fracciones XXIII y XXIV del artículo 11; las fracciones XVII y XX del artículo 20; la fracción X del artículo 29; la fracción I del artículo 31; los artículos 60; 87; y 89; la fracción V del artículo 144; el artículo 147 y el segundo párrafo del artículo 153 de la Ley General de Desarrollo Forestal Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2826,35 +2818,11 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-þ
-
-ÿ
-
-L
-
-Ý
-
-ó
-
-ý
-
-þ
-
-ÿ
-
 hGÅ5CJhÄC
 
 hGÅ5CJhÄC
 
 hùpm5CJh¨hnCJh¨hùpmCJhÄC
-
-¾
-
-¿
-
-¾
-
-¿
 
 hdH>CJPJh
 

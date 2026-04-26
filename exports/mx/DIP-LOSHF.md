@@ -630,8 +630,6 @@ Publicado en el Diario Oficial de la Federación el 1º de agosto de 2005
 
 Artículo Sexto.- Se Adiciona con un tercer párrafo al artículo 2o. de la Ley Orgánica de la Sociedad Hipotecaria Federal, pasando el actual párrafo tercero a ser cuarto párrafo, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -647,8 +645,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 1o.; 2o., primer párrafo; 4o, fracciones IV, V, VI y X; 14; 15, primer párrafo; 16; 17, primer y segundo párrafo y fracciones I a IV; 18, primer y último párrafo y fracciones II, IV y V; 20, fracciones I, III y V; 22, fracción X; 23, primer y segundo párrafo; 24; 29 y 31, primer, tercer y último párrafo, y se ADICIONAN las fracciones X Bis y X Ter al artículo 4o; las fracciones V y VI y tercer y cuarto párrafos al artículo 17; las fracciones I Bis, I Ter, III Bis y VI y un tercer párrafo al artículo 18; las fracciones I Bis, I Ter y IV Bis al artículo 20; la fracción II Bis al artículo 22; cuatro párrafos al final del artículo 23; el artículo 23 Bis; y un Capítulo Cuarto Bis, denominado "De la participación de la Sociedad en Instituciones de Seguros", que comprende los artículos 24 Bis; 24 Ter y 24 Quáter a la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -672,11 +668,7 @@ Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 2o. primer párrafo; 4o. fracción X Ter; 5o.; 14 fracción I, inciso e); 17 fracción I; 20, fracción VI; 22 fracciones I y II Bis; 23 quinto y sexto párrafos; 23 Bis fracción I, incisos d) y e); 24 Quáter primer párrafo, y 29; se ADICIONAN la fracciones V Bis y V Ter al artículo 4o.; un cuarto párrafo al artículo 16 que recorre el actual al quinto párrafo; las fracciones VII, VIII con los incisos a), b) y c), IX y X al artículo 20; un segundo párrafo a la fracción I y las fracciones II Bis 1 y III Bis al artículo 22; el inciso f) a la fracción I y la fracción II Bis al artículo 23 Bis, y el artículo 33 de la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO.- Se deroga el artículo Noveno Transitorio del Decreto por el cual se expidió la Ley Orgánica de Sociedad Hipotecaria Federal, publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -692,8 +684,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO DÉCIMO OCTAVO.- Se REFORMAN los artículos 4, fracciones V Bis, VI y X Ter; 5; 14, párrafo primero y la fracción I, párrafo primero incisos b), c) y d); 15, primer párrafo; 20, fracciones VI, VIII inciso c), y IX; 22, fracciones III y VII; 23; 24 Quáter, primer párrafo; 31, y 33; se ADICIONAN los artículos 4, con unas fracciones X Quáter y XI pasando la actual fracción XI a ser la fracción XII; 8 Bis; 14, con un inciso e) recorriéndose el orden de los incisos y con un tercer párrafo, pasando el actual párrafo tercero a ser el párrafo cuarto; 22, con una fracción I Bis, y 33, con un último párrafo; y se DEROGAN los artículos 20, fracción X; y 23 Bis, de la Ley Orgánica de Sociedad Hipotecaria Federal, así como el cuarto párrafo del artículo Segundo Transitorio, del Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal, publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, para quedar como sigue:
 
-.
-
 Disposiciones Transitorias
 
 ARTÍCULO VIGÉSIMO PRIMERO.- En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
@@ -707,8 +697,6 @@ IV.	Las funciones de banca social previstas en la reforma al artículo 3 de la L
 V.	En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
 
 VI.	Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero.
-
-.
 
 ##### TRANSITORIO
 
@@ -731,17 +719,3 @@ Artículo Vigésimo Séptimo.- Se reforma el artículo 2o., tercer párrafo, de 
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-ü
-
-ý
-
-ý
-
-%(@FSý
-
-ÆhÎ
-
-ÆCJ\^JhÎ
-
-ÆhÎ

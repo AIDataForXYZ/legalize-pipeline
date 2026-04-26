@@ -1480,8 +1480,6 @@ Publicado en el Diario Oficial de la Federación el 9 de julio de 1993
 
 ARTICULO SEGUNDO.- Se reforman los artículos 166; 170, primer y segundo párrafos; 178; 185, fracción VI y 198, fracción I; y se adicionan los artículos 166, con un párrafo segundo; 173, con los párrafos segundo a séptimo; 180, con un párrafo segundo; 185, con un párrafo último, y 191, con los párrafos segundo a cuarto a la Ley Agraria, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1498,8 +1496,6 @@ Publicado en el Diario Oficial de la Federación el 17 de abril de 2008
 
 Artículo Único.- Se reforma el artículo 80 de la Ley Agraria, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1514,8 +1510,6 @@ Publicado en el Diario Oficial de la Federación el 3 de junio de 2011
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 72 de la Ley Agraria, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1529,8 +1523,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2011
 
 Artículo Único.- Se reforma el artículo 164 de la Ley Agraria, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1562,8 +1554,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SÉPTIMO. Se reforman los artículos 66, 120 y 121, último párrafo, de la Ley Agraria, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1579,8 +1569,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 Artículo Único.- Se adiciona un segundo párrafo al artículo 37 de la Ley Agraria, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1638,8 +1626,6 @@ Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017
 
 Artículo Único. Se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1686,8 +1672,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
 
 Artículo Único.- Se reforma el artículo 95 de la Ley Agraria, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1716,8 +1700,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Único.- Se reforman los artículos 4o., primer párrafo y 32 de la Ley Agraria, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1731,8 +1713,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Único.- Se reforma el artículo 37 de la Ley Agraria, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1760,8 +1740,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexto.- Se reforma el artículo 167 de la Ley Agraria, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1780,24 +1758,4 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Â
-
-Ã
-
-Â
-
-Ã
-
-Ð
-
 P{QQQªQïQòQORSRRRSSUSXSµS¹S\TaT-U<UUªUpVVºV½VòVöV-W2WâWæWTXWXüXÿX8Y=Y´YºYþY
-
-rò$ ` a$gd
-
-ròh
-
-ròh
-
-***"****Å*ã*÷*
-
-444444666

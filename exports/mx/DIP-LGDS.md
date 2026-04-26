@@ -898,8 +898,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2012
 
 ARTÍCULO ÚNICO. Se adiciona una fracción X al artículo 3 de la Ley General de Desarrollo Social, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -913,8 +911,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 30 de la Ley General de Desarrollo Social, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -930,8 +926,6 @@ Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2013
 
 Artículo Único.- Se adiciona la fracción IX al artículo 36 de la Ley General de Desarrollo Social, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -943,8 +937,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único.- Se reforman los artículos 6; 14, fracción I; 19, fracción V, y 36, fracción VII de la Ley General de Desarrollo Social, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -960,8 +952,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 
 Artículo Único.- Se reforma la fracción VII del artículo 3 de la Ley General de Desarrollo Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -975,8 +965,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2018
 
 Artículo Único.- Se adiciona una fracción V al artículo 11 de la Ley General de Desarrollo Social, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -993,8 +981,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2018
 
 Artículo Único.- Se reforma el artículo 40 de la Ley General de Desarrollo Social, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1084,8 +1070,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Cuadragésimo Quinto.- Se reforman los artículos 3, fracción VIII; 9; 34 y 51, de la Ley General de Desarrollo Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1099,8 +1083,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Primero.- Se reforman los artículos 5, fracciones I, VII y X; 10, en su párrafo; 18; 19, en su párrafo; 29; 30; 36, en su párrafo; 37; 43, fracciones VII y IX; 49; 51; 57; 58; 61; 64; 65; 68, párrafo primero, fracciones I y IV; 69; 72; 73; 74; 80; 81; 82; 83 y 84, así como la denominación del Capítulo II del Título Quinto; se adicionan los artículos 4, con un segundo párrafo; 5, con las fracciones VI Bis y XI; 37 Bis y 72 Bis, y se derogan los artículos 5, la fracción III; 75; 76; 77 y 85, de la Ley General de Desarrollo Social, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1156,8 +1138,6 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Quinto.- Se reforman los artículos 1, fracción I; 3, fracción VII; 6; 9; 10, fracción I; 11, fracciones I y II; 49, fracción I, y 50 fracción I; y se adiciona la fracción VI al artículo 11 y un segundo párrafo al artículo 19, de la Ley General de Desarrollo Social, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1178,23 +1158,7 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-7
-
-8
-
-È
-
-Ì
-
-Í
-
 hzm>5CJh6ihhì uCJh6ihhì u5CJ
-
-2
-
-Ç
-
-È
 
 hzm>5CJ
 
@@ -1202,18 +1166,4 @@ hsbL5CJ
 
 hsbL5CJ
 
-hµ{º5CJ
-
-hµ{º5CJ
-
-h%Å5CJ
-
-h%Å5CJ
-
-h13û5CJ
-
 hÚVá5CJ
-
-hj[5CJ
-
-h¼-á5CJ

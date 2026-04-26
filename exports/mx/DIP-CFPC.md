@@ -26,8 +26,6 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-D E C R E T O :
-
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
@@ -4234,11 +4232,7 @@ Publicado en el Diario Oficial de la Federación el 12 de enero de 1988
 
 ARTICULO PRIMERO.- Se reforma el artículo 86 del Código Federal de Procedimientos Civiles, para quedar en los siguientes términos:
 
-..........
-
 ARTICULO SEGUNDO.- Se adiciona un segundo párrafo al artículo 72, el artículo 86 Bis, y el Libro Cuarto con un Título Unico integrado por seis capítulos que contienen los artículos 543 al 577, al Código Federal de Procedimientos Civiles, en los siguientes términos:
-
-..........
 
 ARTICULO TERCERO.- Se derogan los artículos 131, 302 y 428 del Código Federal de Procedimientos Civiles.
 
@@ -4258,8 +4252,6 @@ Publicado en el Diario Oficial de la Federación el 22 de julio de 1993
 
 ARTICULO SEGUNDO.- Se reforman los artículos 569, primer y último párrafos; 570; y 571, primer párrafo, del Código Federal de Procedimientos Civiles, para quedar en los siguientes términos:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4275,8 +4267,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000
 
 ARTICULO SEGUNDO.- Se adiciona el artículo 210-A al Código Federal de Procedimientos Civiles, en los términos siguientes:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4312,8 +4302,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2002
 
 ARTÍCULO ÚNICO: Se reforman la fracción VII y el segundo párrafo de la fracción VIII del artículo 24; se adicionan, una fracción IX al artículo 24; un segundo párrafo al artículo 107; un segundo párrafo al artículo 180; el artículo 222 bis; los párrafos segundo y tercero del artículo 271, recorriéndose el actual segundo para pasar a ser el cuarto y último párrafo; y el artículo 274 bis, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
@@ -4330,8 +4318,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTICULO UNICO: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue:
 
-.........
-
 ##### TRANSITORIO
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4346,8 +4332,6 @@ Publicado en el Diario Oficial de la Federación el 20 de junio de 2008
 
 Artículo Único. Se reforman los artículos 55, fracción II; 59, fracción I; 153; y 343, tercer párrafo, todos del Código Federal de Procedimientos Civiles, para quedar como sigue:
 
-.........
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de  la Federación.
@@ -4361,8 +4345,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008
 
 SEGUNDO.- Se reforma la fracción III del artículo 571 del Código Federal de Procedimientos Civiles, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4380,8 +4362,6 @@ Publicado en el Diario Oficial de la Federación el 24 de mayo de 2011
 
 Artículo Único.- Se adicionan los artículos 107, con un tercer párrafo; 180, con un tercer párrafo; 271, con un quinto párrafo; 274 bis, con un segundo párrafo y 342, con un segundo, tercero y cuarto párrafos, todos del Código Federal de Procedimientos Civiles, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4395,8 +4375,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011
 
 ARTÍCULO PRIMERO.- Se reforma el artículo 24 y se adiciona un tercer párrafo al artículo 1o., así como un nuevo Libro Quinto, denominado De las acciones colectivas integrado por los nuevos artículos 578 a 625 del Código Federal de Procedimientos Civiles, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -4446,8 +4424,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO CUARTO. Se reforma el artículo 509 del Código Federal de Procedimientos Civiles, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4463,8 +4439,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Décimo Octavo.- Se reforma el párrafo tercero del artículo 4º; y la fracción IV del artículo 585, del Código Federal de Procedimientos Civiles, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4542,8 +4516,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
 
 Artículo Séptimo. Se reforman los artículos 15; 18, párrafo primero; 20; 237, párrafo primero; 242; 243; 245; 263; 265, párrafo segundo; 275, párrafo segundo, y 357, párrafo primero, del Código Federal de Procedimientos Civiles, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
@@ -4608,8 +4580,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -4643,8 +4613,6 @@ TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, as
 Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
@@ -4742,11 +4710,7 @@ Derivada de la jurisprudencia fijada por la Primera Sala de la Suprema Corte de 
 
 Antecedentes y trámite
 
-..
-
 I. COMPETENCIA a IV. ESTUDIO
-
-..
 
 V. EFECTOS
 
@@ -4822,26 +4786,4 @@ LICENCIADO RAFAEL COELLO CETINA
 
 SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- Rúbrica.
 
-H
-
-¢
-
-¦
-
-9
-
-¡
-
-¢
-
-hh4E5CJ*q
-
-d
-
-_
-
 FOFPFÙFÚFHHH-H.H-I.IBJCJêKL
-
-oo4p5p§p¨p
-
-¡0¡1¡@¡¢/¢0¢?¢ £Ã£Ä£Ó£ú¥¦¦-¦ë¦§§G§j§k§z§{¨¨¨®¨©½©¾©é©ª

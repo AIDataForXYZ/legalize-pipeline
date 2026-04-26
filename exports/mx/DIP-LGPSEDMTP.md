@@ -1740,8 +1740,6 @@ Publicado en el Diario Oficial de la Federación el 19 de marzo de 2014
 
 Artículo Único.- Se adiciona un segundo párrafo a la fracción II del artículo 62 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1756,13 +1754,9 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Cuarto.- Se reforma la denominación del Título Tercero y el nombre del Capítulo II de ese mismo Título y se reforman los artículos 2o., fracción I; 5o., párrafos tercero y cuarto, 6o; 7o., fracción I; 9o; 23, fracción II; 44, primer párrafo; 45, segundo párrafo; 52, primer párrafo; 62, primer párrafo; 81, primer párrafo, segundo párrafo en su fracción I y los párrafos cuarto y quinto; 88, fracción VI, inciso a); 97, primer párrafo; 104, primer y tercer párrafos; 108; 109, primer párrafo; 110, primer párrafo; 113, fracciones II, III, V, VII y XI; 114, primer párrafo; 115, primer párrafo; 116, primer párrafo y fracción VII; 123, primer y tercer párrafos; 124 y 125 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-.
 
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
@@ -1850,8 +1844,6 @@ Publicado en el Diario Oficial de la Federación el 5 de abril de 2023
 
 Artículo Único.- Se adiciona un párrafo segundo al artículo 105 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1865,8 +1857,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Único.- Se reforman los artículos 4o., fracción XVII, incisos a), b) y d); 10, fracción VII; 18; 24, tercer párrafo; 25; 42, fracciones VII y VIII; 51, primer párrafo y fracción I; 62, fracciones IV, V, primer párrafo y VI; 67, fracción I; 70; 90, fracción VI; 92, fracción I; 114, fracciones III y VI; se adicionan las fracciones XII, XIII y XIV al artículo 3o.; un segundo y tercer párrafos al artículo 14; una fracción IV y un último párrafo al artículo 21; un segundo párrafo al artículo 35; un tercer párrafo a la fracción V del artículo 62, de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y Para la Protección y Asistencia a las Víctimas de Estos Delitos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1883,8 +1873,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexagésimo Séptimo.- Se reforma el segundo párrafo del artículo 50 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1904,16 +1892,6 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-¶
-
-·
-
-à
-
-á
-
 yz{ö÷ü_`lijw&$%2ÌÍÚ!"/ST`ãäÝòåÖòåòåòåÖòåÅ¶«Å¶Å¶ÖòåÖòåÖòåÖòåÖòåÖòåÖòv!h)yFhD|
 
 B*CJph/hD|
-
-hD|

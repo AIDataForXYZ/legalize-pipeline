@@ -965,3 +965,107 @@ def test_decreto_tail_cpeum_fixture_no_spurious_headings():
     assert "###### Artículo Segundo" not in tail_md
     assert "###### Artículo PRIMERO" not in tail_md
     assert "###### ARTICULO PRIMERO" not in tail_md
+
+
+# ── Signal-6 garbage filter: short paragraph with no real Spanish word ───────
+
+
+def test_binary_garbage_filters_ole2_fraccion_lookalike():
+    """Signal 6: 'I J m!!!¦"È"É"k#l#w#¦#ïÝÝÕ…' is OLE2 garbage, not a fracción."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert _is_binary_garbage('I J m!!!¦“È“É“k#l#w#¦#ïÝÝÕË¿·°¿·¿¿·°°°¢¢')
+
+
+def test_binary_garbage_filters_roman_numeral_field_code():
+    """Signal 6: 'I A VIII.' is a Word field-code artifact, not a fracción body."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert _is_binary_garbage("I A VIII.")
+
+
+def test_binary_garbage_passes_legitimate_fraccion_pudieren():
+    """Signal 6 must NOT filter 'I Pudieren verse perjudicadas…' — real fracción text."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert not _is_binary_garbage(
+        "I Pudieren verse perjudicadas en sus actividades por los actos u omisiones"
+    )
+
+
+def test_binary_garbage_passes_legitimate_fraccion_cualquier():
+    """Signal 6 must NOT filter 'I Cualquier persona…' — real fracción text."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert not _is_binary_garbage(
+        "I Cualquier persona que tenga conocimiento de los hechos denunciados"
+    )
+
+
+def test_binary_garbage_passes_section_heading():
+    """Signal 6 must NOT filter section headings like 'ARTÍCULO 123' or 'CAPÍTULO I'."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert not _is_binary_garbage("ARTÍCULO 123")
+    assert not _is_binary_garbage("CAPÍTULO I")
+    assert not _is_binary_garbage("TÍTULO PRIMERO")
+    assert not _is_binary_garbage("SECCIÓN PRIMERA")
+
+
+# ── Word style-property revision strings (mH sH, CJPJaJ) ─────────────────────
+
+
+def test_word_style_property_mH_sH_glued_to_CJ_is_garbage():
+    """mH<TAB>sH glued to CJ style codes must be caught as field-code garbage.
+
+    The old pattern used \\bmH\\s*sH\\b which requires a word boundary before 'mH'.
+    In strings like 'CJmH\\tsH' the preceding 'J' is \\w so no \\b exists and the
+    pattern silently failed.  These 5 strings are the exact values that leaked
+    into exports/mx/ before the fix.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    # Exact strings from exports/mx/DIP-LDFEFM.md (lines 1041, 1043)
+    assert _is_binary_garbage("Ä5CJmH\tsH\th1_h+"), "DIP-LDFEFM line 1041"
+    assert _is_binary_garbage("ÄCJmH\tsH\th1_h+"), "DIP-LDFEFM line 1043"
+    # Exact strings from exports/mx/DIP-LGS.md (lines 11963, 11965)
+    assert _is_binary_garbage("G5CJPJaJmH\tsH\th)g×h"), "DIP-LGS line 11963"
+    assert _is_binary_garbage("GCJPJaJmH\tsH\th"), "DIP-LGS line 11965"
+    # Exact string from exports/mx/DIP-LVGC.md (line 5403)
+    assert _is_binary_garbage("5CJmH\tsH\th/hÊ"), "DIP-LVGC line 5403"
+
+
+def test_word_style_property_CJPJaJ_alone_is_garbage():
+    """CJPJaJ is a Word character-style code that never appears in Spanish prose."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert _is_binary_garbage("CJPJaJ")
+    assert _is_binary_garbage("6B*CJPJaJphÿ")
+
+
+def test_mH_sH_with_space_separator_still_caught():
+    """mH<SPACE>sH (space, not tab) must also be caught — the original test case."""
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    assert _is_binary_garbage("mH sH")
+    assert _is_binary_garbage("SomeCJmH sH extra")
+
+
+def test_legitimate_spanish_with_mH_letters_not_dropped():
+    """Lowercase 'mh'/'sh' in ordinary Spanish must NOT be falsely flagged.
+
+    The pattern mH\\s+sH is case-sensitive so words containing lowercase 'mh'
+    or 'sh' sequences in authentic legislative text are safe.
+    """
+    from legalize.fetcher.mx.parser import _is_binary_garbage
+
+    # 'flashback' contains 'sh' (lowercase) — should not match mH sH (CamelCase)
+    assert not _is_binary_garbage(
+        "Se realizó un flashback histórico del texto legislativo."
+    )
+    # Normal Spanish legislative prose
+    assert not _is_binary_garbage(
+        "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos."
+    )
+    # Reform stamp with no garbage tokens
+    assert not _is_binary_garbage("Párrafo reformado DOF 04-12-2006, 10-06-2011")

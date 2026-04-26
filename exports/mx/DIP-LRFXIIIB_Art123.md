@@ -310,8 +310,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEPTUAGÉSIMO CUARTO. Se reforma el artículo 18, segundo párrafo, de la Ley Reglamentaria de la fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -327,8 +325,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO DÉCIMO SEGUNDO.- Se ADICIONA un cuarto párrafo al artículo 3º de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -357,8 +353,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 Artículo Octavo. Se adiciona un artículo 2o. Bis, a la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -426,8 +420,6 @@ Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 Artículo Único.- Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -443,8 +435,6 @@ La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dáv
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Octavo.- Se reforma el segundo párrafo del artículo 5o. de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -463,9 +453,5 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-&
-
-bb«b¹bòböb*c/c­c³c*d/dªd®dÊde
 
 bªb«bñbòb)c*c¬c­c)d*d©dªdÉdÊdÚde

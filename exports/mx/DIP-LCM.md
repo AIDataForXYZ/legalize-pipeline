@@ -3168,8 +3168,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 10, fracción II y los incisos b), c) y d) del segundo párrafo; 15, cuarto párrafo; 18; 20, primer párrafo y las fracciones III y IV del segundo párrafo; 23, fracción II; 24, actual primer párrafo; 26, tercer y cuarto párrafos; 30, primer párrafo y la fracción II; 31, primer párrafo, la fracción III y el último párrafo; 34, segundo párrafo; 40, segundo párrafo; 41; 43, fracciones III y VI; 44; 45, primer párrafo; 48, primer y tercer párrafos; 49, segundo párrafo; 59; 60, primer párrafo; 75, primer párrafo; 121; 122, fracción I; 128, segundo párrafo; 130, primer párrafo; 136, primer párrafo; 145, tercer párrafo; 172; 177, primer párrafo; 224, fracciones III y IV; y 333, fracciones I y II; se adicionan los artículos 15 con un penúltimo párrafo, recorriéndose en su orden el subsecuente; 20, con las fracciones V y VI y un último párrafo; 24 con un primer párrafo, recorriéndose el actual para ser segundo párrafo; 47, con un segundo párrafo; 177, con un segundo párrafo; 262, con una fracción V, pasando la actual V a ser fracción VI; 311, con una fracción IX, recorriéndose en su orden las subsecuentes y se adiciona un Título Décimo Cuarto que se denominará "Del concurso mercantil con plan de reestructura previo" y que comprende los artículos 339, 340, 341 y 342 y se derogan los artículos 224, fracción V y 326, último párrafo, todos de la Ley de Concursos Mercantiles, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3226,8 +3224,6 @@ Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respe
 
 X.	La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999.
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
@@ -3241,8 +3237,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 Artículo Cuarto. Se reforman el párrafo primero, del artículo 21; el párrafo primero, del artículo 26; se adicionan los párrafos segundo y tercero, a la fracción II, del artículo 4o., el tercer párrafo, al artículo 5o.; la fracción III, al párrafo segundo, del artículo 9o.; el párrafo segundo, del artículo 54, de la Ley de Concursos Mercantiles para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3299,8 +3293,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Décimo Séptimo. Se reforma el artículo 314 de la Ley de Concursos Mercantiles, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3388,8 +3380,6 @@ Correspondiente a la declaratoria general de inconstitucionalidad 7/2024, deriva
 
 I. ANTECEDENTES a VI. ESTUDIO
 
-..
-
 VII. DECISIÓN Y EFECTOS
 
 30.	El artículo 107, fracción II, párrafo tercero, de la Constitución Federal, en correlación con el artículo 234, fracción II, de la Ley de Amparo, confieren amplias atribuciones a esta Suprema Corte de Justicia de la Nación para apreciar e imponer, caso por caso, los alcances y condiciones para garantizar que la declaratoria general de inconstitucionalidad cumpla cabalmente su cometido.
@@ -3422,59 +3412,7 @@ Presidente, Ministro Hugo Aguilar Ortiz.- Firmado electrónicamente.- Ponente, M
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de once fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la declaratoria general de inconstitucionalidad 7/2024, solicitada por la presidencia de la extinta Primera Sala de la Suprema Corte de Justicia de la Nación, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión de veintiocho de octubre de dos mil veinticinco. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a doce de diciembre de dos mil veinticinco.- Rúbrica.
 
->
-
-·
-
-¸
-
-»
-
-Õ
-
-ö
-
-·
-
-¸
-
-Õ
-
-ö
-
-÷
-
-P
-
-r
-
-s
-
-r
-
-s
-
-ª««ª«««]¬~¬¬¬ÿ°
-
-±®²¼²:´H´µµµ'¶(¶)¶,¶¬¶­¶°¶±·²·³·¶·â¸ã¸ä¸è¸p¹q¹t¹ºººÆ»Ç»°¼±¼J½K½]¿^¿j¿k¿À½À¾Àöîá×Ä¶áÄîöîöîöî¨á×¶Äî
-
-A
-
-P
-
-A
-
-ÂÐêë
-
-Î
-
-Îh°
-
 Î5CJhn|h°
-
-ÎCJ
-
-h°
 
 ÎCJh­h°
 

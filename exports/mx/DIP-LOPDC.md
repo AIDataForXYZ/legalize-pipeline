@@ -394,17 +394,11 @@ El artículo 5o., fracción VII, de la Ley impugnada, en la parte que interesa, 
 
 "Artículo 5. Corresponderá a la Procuraduría de la Defensa del Contribuyente:
 
-()
-
-.
-
 SEXTO. .
 
 El precepto legal impugnado de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente establece, en su parte conducente, lo que sigue:
 
 "Artículo. 12. El Organo de Gobierno de la Procuraduría es un cuerpo colegiado que se integra de la siguiente manera:
-
-I. ()
 
 El Senado de la República preservará un adecuado equilibrio al designar a dichos consejeros, tomando en cuenta a los representantes de las principales universidades del país, a los representantes de asociaciones profesionales, así como a las principales cámaras empresariales. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la materia fiscal y contable y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan contribuir a mejorar las funciones de la Procuraduría.
 
@@ -419,8 +413,6 @@ El Organo de Gobierno sesionará de manera ordinaria, cuando menos, una vez cada
 Todos los miembros del Organo de Gobierno tienen derecho de voz y voto.
 
 Las sesiones del Organo de Gobierno serán convocadas por el Procurador, o mediante solicitud que formulen a éste cuando menos tres de sus miembros. Las demás reglas para el debido funcionamiento del Organo de Gobierno se establecerán en el Estatuto Orgánico."
-
-.
 
 Por lo expuesto y fundado, se resuelve:
 
@@ -454,8 +446,6 @@ Publicado en el Diario Oficial de la Federación el 7 de septiembre de 2009
 
 Artículo Único. Se reforman la fracción VII del artículo 5 y la fracción II y el segundo párrafo del artículo 12 de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -470,8 +460,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Quinto. Se reforman los artículos 8, primer párrafo y fracción III; 9; 10 y 12 de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -484,14 +472,4 @@ Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-3
-
-?
-
-hÆ[5CJ
-
-hÆ[5CJ
-
 CJhÒ
-
-CJ

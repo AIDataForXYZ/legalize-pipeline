@@ -3166,8 +3166,6 @@ Publicado en el Diario Oficial de la Federación el 3 de enero de 2017
 
 ARTÍCULO ÚNICO.- Se REFORMAN el primero y tercer párrafos del artículo 1; las fracciones I, III, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI del artículo 6; las fracciones XXI, XXX y XXXIV del artículo 7; el primero, segundo y cuarto párrafos del artículo 8; la fracción IV del artículo 12; el segundo párrafo del artículo 28; el artículo 29; el último párrafo del artículo 30; el artículo 31; el primer párrafo del artículo 33; las fracciones I y II del artículo 34; el artículo 36; el artículo 38; la denominación del CAPÍTULO III del TÍTULO TERCERO para quedar como "MEDIDAS EN MATERIA DE TRASLADO"; el primero y el último párrafos del artículo 40; el artículo 42; el artículo 45; el artículo 46; el artículo 47; el artículo 52; el artículo 54; el artículo 57; las fracciones I y VI del artículo 61; el primero y último párrafos del artículo 67; el artículo 68; el artículo 70; el artículo 71; el segundo, cuarto y quinto párrafos del artículo 79; el artículo 80; las fracciones I, III, XVI y XVII del artículo 81; el inciso b) de la fracción IV del artículo 82; el sexto párrafo del artículo 83; el primero y quinto párrafos del artículo 84; el artículo 85; el primer párrafo, las fracciones III y IV y los dos últimos párrafos del artículo 86; el artículo 87; las fracciones XIV, XXII, XXV, XXXV y XXXVI del artículo 88; el artículo 89; el segundo párrafo del artículo 90; el artículo 93; el primer párrafo y las fracciones II, IV, IX, XII y XIII del artículo 95; el tercero, cuarto, quinto y sexto párrafos del artículo 96; la fracción III del primer párrafo del artículo 97; el primer párrafo del artículo 98; la fracción IV del artículo 100; las fracciones IV y V del artículo 110; la fracción VI del artículo 114; la fracción X del artículo 116; el primer párrafo del artículo 117; las fracciones I, III, IV, V y VI del artículo 125; el primer párrafo del artículo 130; la fracción I del artículo 132; el artículo 134; el artículo 135; el artículo 136; el primer párrafo y las fracciones I y III del artículo 138; el artículo 145; el cuarto párrafo del artículo 164; el segundo párrafo del artículo 166; el primer párrafo del artículo 168. Se ADICIONAN el principio de "Interés superior de la niñez" al artículo 5, entre los principios de "Integralidad, indivisibilidad e interdependencia" y de "Máxima protección" recorriéndose los subsecuentes; las fracciones XXXV, XXXVI y XXXVII al artículo 7; cinco últimos párrafos al artículo 8; un último párrafo al artículo 9; dos párrafos finales al artículo 12; dos párrafos al artículo 15; el párrafo quinto, recorriéndose los anteriores quinto a séptimo para ser sexto, séptimo y octavo del artículo 21; un último párrafo al artículo 27; un último párrafo al artículo 28; un último párrafo al artículo 34; el artículo 39 Bis; dos últimos párrafos al artículo 64; dos últimos párrafos al artículo 79; la fracción XVIII al artículo 81; un segundo, tercer y cuarto párrafos al artículo 84, recorriéndose los actuales segundo, tercero, cuarto y quinto para ser quinto, sexto, séptimo y octavo respectivamente; el artículo 84 Bis; el artículo 84 Ter; el artículo 84 Quáter; el artículo 84 Quinquies; el artículo 84 Sexies; el artículo 84 Septies; el artículo 84 Octies; la fracción V al artículo 86; la fracción XXXVII al artículo 88; el artículo 88 Bis; la fracción XIV al artículo 95; las fracciones VI, VII y VIII al artículo 110; las fracciones XI y XII al artículo 116; el artículo 125 Bis; un CAPÍTULO V "DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA" al TÍTULO OCTAVO, con los artículos 157 Bis, 157 Ter, 157 Quáter y 157 Quinquies. Se DEROGAN los artículos 16; la fracción XXX del artículo 88; 92; 94; la fracción VII del artículo 125; los artículos 175; 176; 177 y 178; de la Ley de Víctimas, para quedar  como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3219,8 +3217,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO DÉCIMO OCTAVO. Se reforman los artículos 6, fracción XV; 7, fracción XXXVI; 8, párrafos séptimo, octavo y noveno; 12, párrafo segundo; 15, párrafo segundo; 21, párrafo quinto; 27, párrafo tercero; 39 bis, párrafo segundo; 67, párrafo primero; 68, párrafo segundo; 70, 71, 81, fracción XVII; 84, párrafos sexto y séptimo; 87; 88, fracciones XIV, XVIII y XXXV; 88 Bis, tercer párrafo; 93, fracción I; 95, fracción VI; 110, segundo párrafo; 111, segundo párrafo; 130; 131; 132; 136, párrafos primero y segundo; 139; 140; 141, párrafo primero; 143; 144, párrafo primero; 149, párrafo primero; 150, fracción V; 157; 157 Ter, párrafo primero, y 157 Quáter, así como la denominación del Título Octavo; y se derogan los artículos 6, fracción VIII; 93, fracción III; 133; 134; 135; 137 y 138 de la Ley General de Víctimas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3310,8 +3306,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Vigésimo.- Se reforma la fracción II del artículo 117 de la Ley General de Víctimas, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -3388,8 +3382,6 @@ Publicado en el Diario Oficial de la Federación el 18 de febrero de 2022
 
 Artículo Único.- Se reforman el primer párrafo del artículo 166; el primer y segundo párrafos del artículo 168 y el artículo 170 de la Ley General de Víctimas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3407,8 +3399,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO TERCERO. Se reforman los incisos a), b) y c) de la fracción I, los incisos a), b) y c) de la fracción II, el inciso a) de la fracción III, los incisos a) y b) de la fracción IV y la fracción V del artículo 82; los artículos 83 y 84 Ter; las fracciones I, II y III, el segundo y tercer párrafo del artículo 84 Quáter; el artículo 84 Sexíes; las fracciones I, II y III del artículo 84 Septies; el quinto y sexto párrafo del artículo 84 Octies; el artículo 85; el primer párrafo y sus fracciones I y II, el segundo y tercer párrafos del artículo 86 de la Ley General de Víctimas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3430,8 +3420,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Tercero.- Se reforman la fracción XXXV del artículo 7, y el primer párrafo del artículo 91, y se adicionan las fracciones XXXVI, XXXVII y XXXVIII, recorriendo las actuales XXXVI y XXXVII, que pasan a ser XXXIX y XL, al artículo 7; y las fracciones VII, VIII, y un segundo y tercer párrafos, recorriéndose en su orden los subsecuentes, al artículo 27 de la Ley General de Víctimas, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -3448,8 +3436,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo Noveno.- Se reforman los artículos 5, undécimo párrafo; 7, fracción XXI; 28, segundo párrafo; 45; 47; 91, primer párrafo y 116, fracción V, de la Ley General de Víctimas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3457,18 +3443,6 @@ Artículo Trigésimo Noveno.- Se reforman los artículos 5, undécimo párrafo; 
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-T
-
-S
-
-T
-
-V
-
-þ
-
-ÿ
 
 ÝôþÿÕìö÷øüý÷éÜÒ½Ü³ª³ªylÜÒ½ÜéÜÒl³ª³ªye³ªyléÜ
 

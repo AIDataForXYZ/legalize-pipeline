@@ -1072,8 +1072,6 @@ Publicado en el Diario Oficial de la Federación el 12 de abril de 2022
 
 Artículo Único.- Se adiciona una fracción VI Bis al artículo 8 de la Ley General de Comunicación Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1089,8 +1087,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022
 
 [Artículo Primero.- Se reforman los artículos 1; 2; 3; el párrafo primero y sus fracciones I, II, IV, VI, VII, VIII, X y XII del artículo 4; el párrafo primero y sus incisos a), b), d), e), f), g), h), i) y j), y actual párrafo tercero del artículo 5; los artículos 6 y 7; el párrafo primero y sus fracciones III y VIII del artículo 8; el párrafo primero y las fracciones I y II del artículo 9; el artículo 10; el párrafo primero del artículo 14; el párrafo segundo, fracción IV del artículo 17; los artículos 19 y 20; los párrafos primero y segundo del artículo 21; el artículo 22; el párrafo primero y párrafo segundo, fracciones I, II, III, IV, V y VI del artículo 23; los párrafos primero y segundo del artículo 24; el artículo 25; el párrafo primero y el párrafo segundo y sus fracciones I, II, III, IV, V, VI y VII  del artículo 26; los artículos 27 y 28; el párrafo primero del artículo 29; el párrafo primero del artículo 30; el artículo 31; el párrafo primero del artículo 32; el párrafo primero del artículo 38; los artículos 39 y 40; el párrafo primero, el párrafo segundo y su fracción I del artículo 42; el párrafo primero del artículo 43; el párrafo primero y sus fracciones I y II del artículo 44, y el artículo 45, así como las denominaciones de los Capítulos I y V del Título II; se adicionan los párrafos segundo, tercero y cuarto al artículo 2; el artículo 3 Bis; la fracción VIII Bis al artículo 4; el inciso k) al artículo 5; el artículo 5 Bis; los incisos a), b), c), d), e) y f) a la fracción I, y los incisos a), b) y c) a la fracción II del artículo 9; el artículo 14 Bis; el artículo 18 Bis; el artículo 18 Ter; el artículo 18 Quater; el párrafo tercero al artículo 23; los párrafos tercero y cuarto al artículo 26; los párrafos segundo y tercero al artículo 27; el artículo 27 Bis y los párrafos segundo y tercero al artículo 28, y se derogan el inciso c) del párrafo primero y el párrafo segundo del artículo 5; las fracciones III y IV del artículo 9; los párrafos segundo, tercero y cuarto del artículo 14; las fracciones I, II y III del párrafo segundo del artículo 24; los párrafos segundo y tercero del artículo 29; el párrafo segundo del artículo 30; el párrafo segundo del artículo 32, y la fracción III del artículo 44, de la Ley General de Comunicación Social, para quedar como sigue:]
-
-..
 
 [Transitorios]
 
@@ -1128,8 +1124,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -1160,8 +1154,6 @@ valeria palma limón y
 
 aurea hernández meza
 
-.
-
 VI. EFECTOS
 
 252. 	De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
@@ -1183,8 +1175,6 @@ TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, as
 Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
@@ -1235,8 +1225,6 @@ AUREA HERNÁNDEZ MEZA
 Ciudad de México. El Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al ocho de mayo de dos mil veintitrés, emite la siguiente:
 
 SENTENCIA
-
-..
 
 VI. EFECTOS
 
@@ -1296,8 +1284,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Quinto.- Se reforma el tercer párrafo del artículo 12 de la Ley General de Comunicación Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1305,35 +1291,5 @@ Artículo Quinto.- Se reforma el tercer párrafo del artículo 12 de la Ley Gene
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-z
-
-x
-
-y
-
-z
-
-¶
-
-·
-
-Æ
-
-Ç
-
-Õ
-
-Ö
-
-¶
-
-·
-
-Æ
-
-Ç
-
-hØ4
 
 ooUoVoooßo¸pqqqqmqVrrrrrër¹st

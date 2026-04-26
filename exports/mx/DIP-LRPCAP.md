@@ -768,8 +768,6 @@ Publicado en el Diario Oficial de la Federación el 18 de febrero de 2022
 
 Artículo Único.- Se reforman el artículo 3; la fracción VI del artículo 15 y 54; y se adicionan las fracciones XIII, XIV, XV y XVI al artículo 2, de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

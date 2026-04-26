@@ -2758,8 +2758,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
@@ -2773,8 +2771,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2001
 
 ARTÍCULO ÚNICO. SE REFORMAN: los artículos 5, fracción I, inciso b); 6, párrafo primero y las fracciones VI y XII; 7; 23, párrafo cuarto; 29, párrafo primero; 30, párrafos primero y segundo; 32, párrafo primero; 35, párrafos primero y segundo; 70, segundo párrafo; 80, segundo párrafo; 84 primer párrafo; 86, primer párrafo, primer párrafo del inciso f) e incisos h) e i) de la fracción I; 88, fracciones VII y XII. Y SE ADICIONAN: las fracciones XIII, XIV, XV y un último párrafo al artículo 6; el artículo 7 Bis; la fracción IV al artículo 9; el párrafo tercero al artículo 23; el párrafo cuarto al artículo 28; el segundo párrafo y sus fracciones I y II, y el tercero y cuarto párrafos al artículo 29; el párrafo segundo al artículo 38; el párrafo cuarto al artículo 42; los párrafos cuarto y quinto al artículo 45; los párrafos segundo, tercero, cuarto y quinto al artículo 84; y, el segundo párrafo al inciso f) de la fracción I del artículo 86 y el artículo 86 Bis, todos de la Ley de Aviación Civil, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2794,8 +2790,6 @@ Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Artículo Único.- Se reforma y adiciona el antepenúltimo y el penúltimo párrafo del Artículo 15 de la Ley de Aviación Civil, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2809,8 +2803,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de julio de 2006
 
 Artículo Primero.- Se adiciona la fracción XV, al Artículo 6 pasando la actual XV a ser XVI de la Ley de Aviación Civil, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2902,8 +2894,6 @@ Publicado en el Diario Oficial de la Federación el 18 de junio de 2018
 
 Artículo Primero.- Se reforman los artículos 2, fracción III; 3, párrafos tercero y cuarto; 4, párrafo primero y fracción IV; 11, párrafos cuarto, quinto y sexto; 15, fracción X; 23, párrafo tercero; 26; 62; 63; 64; 68; 72, párrafo primero; 86, fracciones I, II, III, IV, V, VI, VII y VIII, en su primer párrafo; 86 Bis; 87, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII; 88, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII; 89, párrafos primero y tercero; se adicionan los artículos 2, fracciones I Bis, I Ter, I Quáter, I Quinquies y I Sexies; 6, fracciones XVI, XVII y  XVIII, recorriéndose la subsecuente en su orden; 47, con una fracción VI y 88 Bis 1 a la Ley de Aviación Civil, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2937,8 +2927,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Cuarto.- Se reforman los artículos 29, párrafos primero y último; 32, párrafos primero, segundo, tercero, cuarto y quinto; 86, párrafo primero y sus fracciones I, incisos i) y j), VII y VIII; 87, párrafo primero y sus fracciones V, XI, XII, XIV, XVI y XVII; 88, párrafo primero y sus fracciones II, XI, XIV, XVIII, XIX y XX, y 90, párrafo primero y sus fracciones II y III; se adicionan los artículos 8 Bis; 29, segundo párrafo, recorriéndose los subsecuentes; 34, segundo párrafo; 86, fracciones I, inciso k, IX, IX Bis, X, XI y XII; 87, fracciones XVIII y XIX; 88, fracciones XXI, XXII, XXIII, XXIV, XXV y XXVI, y 90, fracción IV, y se deroga el artículo 29, los actuales párrafos segundo y tercero, de la Ley de Aviación Civil, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3004,8 +2992,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexagésimo Cuarto.- Se reforma la fracción IV del artículo 4 de la Ley de Aviación Civil, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3024,55 +3010,7 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Ú
-
-Û
-
-ß
-
-à
-
-á
-
-Ú
-
-Û
-
 vvw
-
-r$a$gd
-
-+h*
-
-+h*
-
-h¿
-
-h¿
-
-5
-
-A
-
-B
-
-C
-
-B
-
-C
-
-G
-
-ø«ý«¿¬á¬â¬æ¬ê­®
-
-ëÔìÔÛÕþÕÿÕbÖÖÖm×××1ØÇØÈØ ÙÂÙÃÙííåÞÒÊÃ®¦®¦®®¦®
-
-ó
-
-ó
-
-ù
 
 l&l2l3llllÚlÛlìl
 

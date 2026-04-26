@@ -1730,8 +1730,6 @@ VALOR AGREGADO
 
 ARTICULO DECIMO SEGUNDO.- Se REFORMAN los artículos 2o., 4o., primer párrafo, 29 fracción IV 30, segundo y tercer párrafo, 31, segundo párrafo, 32, fracción IV, primer párrafo y 41, fracciones I y II de la Ley del Impuesto al Valor Agregado y se ADICIONAN los artículos IV, con un párrafo final, 9o. con una fracción XVIII, 29, con las fracciones V y VI, 33, segundo párrafo, y 42, con los párrafos tercero y cuarto de la propia Ley, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos o ochenta.
@@ -1776,8 +1774,6 @@ VALOR AGREGADO
 
 ARTICULO OCTAVO.- Se REFORMAN los artículos 1o. primer párrafo, 4o. primer párrafo y fracción I; 5o. segundo y tercer párrafos, 6o., 7o. 9o., 11, fracción II; 12 segundo párrafo, 15, fracciones III, V, VI, X y XII, inciso e); 18, segundo y tercer párrafo, 24, fracción I; 25, fracción III; 28, 29; fracción IV, inciso a); 32 primer párrafo y las fracciones I y IV, 33 primer párrafo, 35 primer párrafo y fracciones II y IV; 39 y 41, fracciones II, III y IV, de la Ley del Impuesto al Valor Agregado; se ADICIONAN los artículos 2o.-A, 3o. con un último párrafo, 8o. con una fracción VI, 12 con los párrafos tercero y cuarto, 25 con una fracción IV; 29, fracción IV, con los incisos c), d), e) y f); 32, fracción III, con los párrafos segundo y tercero, y con tres párrafos finales al propio artículo, y 41 con una fracción V, de la citada Ley; y se DEROGAN los artículos 13, 15, fracciones VII y VIII; 18 último párrafo 20 fracciones y IV, y 30 en su segundo párrafo, de y a la propia Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- Esta ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
@@ -1811,8 +1807,6 @@ Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1981
 VALOR AGREGADO
 
 ARTICULO DECIMO CUARTO.- Se REFORMAN los artículos 2o. último párrafo, 4o. fracción I segundo párrafo, 5o. primero y segundo párrafos 8., 12 tercer párrafo, 32 fracción I, 35, 36 y 39 de la Ley del Impuesto al Valor Agregado; se ADICIONAN los artículos 4o. fracción I con dos párrafos finales, 24 con un párrafo final, y 27 con un párrafo final y 37 con tres párrafos finales de la citada ley, y se DEROGAN los artículos 20 fracción I, 31, 32 en su párrafo inmediato posterior a su fracción IV, 38 y 40, de y a la propia Ley, que para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1866,8 +1860,6 @@ VALOR AGREGADO
 
 ARTICULO SEPTIMO.- Se REFORMAN los Artículos 1o. en su segundo párrafo, 2o. en su último párrafo, 2o. A Fracción I inciso b), y último párrafo de la propia Fracción I, 3o. segundo párrafo, 4o. primer párrafo, 9o. Fracción VIII, 12 segundo y tercer párrafos, 15 Fracción XII, inciso e), y XIV y 35 Fracción II, de la Ley del Impuesto al Valor Agregado; se DEROGAN las Fracciones I, II y XV del Artículo 15 de la citada Ley, y se ADICIONAN los Artículos 2o. B, 2o. C 32 con un último párrafo y 35 A, de y a la propia Ley, para quedar como sigue:
 
-.......
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.-La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
@@ -1890,8 +1882,6 @@ VALOR AGREGADO
 
 ARTICULO DECIMO SEGUNDO.- Se REFORMAN los artículos 2o. fracción I inciso a), 4o. fracción II, 11 fracción III, 12 cuarto párrafo, 25 fracción II, 29 fracción IV inciso b), 32 fracción III primer párrafo y último párrafo de dicho artículo, 33 último párrafo, 35 fracciones I, III y V, 35-A fracciones II y III y 36 de la Ley del Impuesto al Valor Agregado; y se ADICIONAN los artículos 12 con un último párrafo, 14 con un último párrafo y 17 con dos párrafos finales y 35 con una fracción VI, de y a la propia Ley, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1984.
@@ -1911,8 +1901,6 @@ CAPITULO IX
 Impuesto al Valor Agregado
 
 ARTICULO VIGESIMO TERCERO.- Se REFORMA el artículo 32 fracción III, según párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -1936,8 +1924,6 @@ Impuesto al Valor Agregado
 
 ARTICULO DECIMO.- Se REFORMAN los artículos 5o., penúltimo párrafo; 35, fracción IV; 35-A y 36, y se ADICIONA el artículo 32, fracción IV, con un segundo párrafo, de y a la propia Ley, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1986.
@@ -1960,8 +1946,6 @@ Impuesto al Valor Agregado
 
 ARTICULO SEXTO.- Se REFORMA el artículo 5o., segundo párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de mayo de 1986.
@@ -1981,8 +1965,6 @@ CAPITULO IV
 Impuesto al Valor Agregado
 
 ARTICULO SEPTIMO.- Se REFORMA el artículo 6o., primer párrafo de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 Disposición con vigencia durante el año de 1987
 
@@ -2021,8 +2003,6 @@ CAPITULO V
 Impuesto al Valor Agregado
 
 ARTICULO DECIMOCUARTO.- Se REFORMAN los artículos 25, fracción III; 28, primero párrafo; 32, fracción IV y los dos párrafos siguientes a la misma; y 37, último párrafo de la Ley de Impuesto al Valor Agregado y se ADICIONAN los artículos 11, con un último párrafo; 15, fracción X, con un inciso g); 25, con una fracción V; 32, párrafos tercero y cuarto siguientes a la fracción IV, y 35-B de y a la propia Ley, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias
 
@@ -2066,8 +2046,6 @@ IMPUESTO AL VALOR AGREGADO
 
 ARTICULO DECIMOPRIMERO.- Se REFORMAN los artículos 2o., fracción II y 6o. primer párrafo, de la Ley del Impuesto al Valor Agregado; y se ADICIONAN los artículos 6o., con un último párrafo y 15, fracción X con un inciso h), de y a la propia Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 DISPOSICION TRANSITORIA
 
 ARTICULO DECIMOSEGUNDO.- Lo dispuesto en el Artículo DECIMO SEXTO de la ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación, el día 31 de diciembre de 1987, se seguirá aplicando en materia del impuesto al valor agregado, durante el año de 1989.
@@ -2093,8 +2071,6 @@ CAPITULO VII
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO DECIMO SEXTO.- Se REFORMAN los artículos 3o., segundo párrafo 5o., segundo párrafo 6o., primer párrafo 15, fracciones X, inciso h) y XVI; 25, fracción I, 26, fracción I; 32, fracción IV; 35, fracción II, segundo párrafo; 42, último párrafo de la Ley del Impuesto al Valor Agregado; se ADICIONAN los artículos 15, fracción X, con un inciso i); 25, con una fracción VI; 28-A y 31 a dicha Ley y se DEROGAN los artículos 6o., último párrafo; 32, párrafos segundo, tercero y quinto siguientes a la fracción IV; 35, fracciones II, incisos a) y b) y VI; 37, último párrafo de y a la propia Ley, para quedar como sigue:
-
-..........
 
 DISPOSICION TRANSITORIA
 
@@ -2142,8 +2118,6 @@ IMPUESTO AL VALOR AGREGADO
 
 ARTICULO DECIMO CUARTO.- Se REFORMAN los Artículos 2o-A, fracción I, último párrafo; - 2o-B, fracción I, inciso b) y último párrafo; 5o., segundo párrafo y el actual tercer párrafo que pasa a ser el cuarto párrafo por la adición que más adelante se establece;- 6o primero y segundo párrafos, 7o., 80., segundo párrafo; 10, primer párrafo; 12 tercer párrafo; 15, fracciones V, X, incisos b) e i), X, inciso c) y XVI; 25, fracción I, 32, fracción IV, párrafos primero, segundo y quinto; y 33, primer párrafo de la Ley del Impuesto al Valor se ADICIONAN los artículos 2o-D; 4o., con una fracción III; 4o.- A, 5o., con un tercer párrafo, pasando los actuales tercero y cuarto a ser cuarto y quinto párrafos; y 16, con un último párrafo a de dicha Ley y se DEROGAN los artículo 15, fracción XI y 28-A de la propia Ley del impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 DISPOSICIONES DE VIGENCIA ANUAL
 
 ARTICULO DECIMO QUINTO.- Durante el año de 1991 estarán vigentes las siguientes disposiciones:
@@ -2176,8 +2150,6 @@ Publicado en el Diario Oficial de la Federación el 21 de noviembre de 1991
 
 ARTICULO UNICO.- Se REFORMAN los Artículos 1o., segundo párrafo; 2o-A, Fracción I, incisos a) y c) y último párrafo; 2o-B, Fracción I, inciso c) y el último párrafo del artículo 2o-C; 3o., segundo párrafo; 4o., primer párrafo de la Fracción I; 5o., segundo párrafo; 8o., segundo párrafo; 9o., Fracción VIII; 15, fracciones X, incisos c) y d) y XIII; 17, último párrafo; 20, Fracción IV; 25, Fracción III; 27, segundo párrafo y 41, Fracción II de la Ley del Impuesto al Valor Agregado; se ADICIONAN los Artículos 15, Fracción X, inciso b), con dos párrafos y 41, con una Fracción VI; y se DEROGAN los Artículos 2o.; 2o.- D y 4o., último párrafo, de la propia Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 DISPOSICIONES DE VIGENCIA ANUAL
 
 ARTICULO UNICO.- Durante el año de 1992, se aplicará la tasa del 0 % para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación, con excepción de los mencionados en los Artículos 2-A Fracción I, último párrafo y 2-B, Fracción I incisos a), b) y último párrafo y la enajenación e importación de medicinas de patente.
@@ -2206,8 +2178,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO DECIMO SEGUNDO.- Se REFORMA el artículo 5o., segundo párrafo, de la Ley del Impuesto al Valor Agregado; y se ADICIONA el artículo 2o-B, fracción I, con un inciso d), de y a la propia Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO DECIMO TERCERO.- Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto al Valor Agregado, publicado en el Diario Oficial de la Federación el 21 de noviembre de 1991, no será aplicable a lo dispuesto en el artículo 2o-B, fracción I, inciso d) del presente Decreto, por lo que la enajenación e importación de los alimentos citados en el artículo 2o-B, fracción I, inciso d), estarán gravados a la tasa del 10% a partir de la entrada en vigor del presente Decreto.
@@ -2227,10 +2197,6 @@ Publicada en el Diario Oficial de la Federación el 3 de diciembre de 1993
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO OCTAVO BIS.- Se reforma la fracción XVI del artículo 15 de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
-
-T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
@@ -2252,8 +2218,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO CUARTO.- Se REFORMAN los artículos 15, fracciones X, inciso i) y XI; 25, fracción III, 29, fracción V, y 41, fracción IV; y se ADICIONA el artículo 29, con un último párrafo, a la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
@@ -2269,8 +2233,6 @@ Publicada en el Diario Oficial de la Federación el 28 de diciembre de 1994
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO SEPTIMO.- Se REFORMAN los artículos 2o-A, fracciones I, inciso e), primer párrafo, II, inciso a) y III; 3o, segundo párrafo; 4o, último párrafo; 5o, segundo y cuarto párrafos; 9o, fracción VIII; 14, fracción III; 15, fracciones IV, VI, IX y X, incisos b), primer y segundo párrafos y d); 17, último párrafo; y se ADICIONAN los artículos 2o-A, fracción I, con los incisos g) y h) y fracción II, con los incisos d) a g); 4o-A, con un segundo párrafo; 15, con una fracción I y 25, fracción VII; de y a la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
@@ -2293,8 +2255,6 @@ Publicada en el Diario Oficial de la Federación el 27 de marzo de 1995
 REFORMAS A LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTICULO CUARTO.- SE REFORMAN los artículos 1o., segundo párrafo; 2o.-A, fracción I, inciso b), subinciso 2; 2o.-B; 3o., segundo párrafo; 25, fracción III; 32, primer párrafo y fracción III, último párrafo; y 41, fracción II; SE ADICIONAN los artículos 2o.; y 4o., con un último párrafo; y SE DEROGAN los subincisos 3 a 7 inclusive, del inciso b) de la fracción I del artículo 2o.-A de y a la Ley del Impuesto al Valor Agregado, para quedar como siguen:
-
-..........
 
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
@@ -2390,8 +2350,6 @@ III.	Los intereses moratorios devengados con anterioridad al 1o. de enero de 199
 
 IV.	Durante el ejercicio de 1996 el impuesto al valor agregado sobre el servicio o suministro de agua para uso doméstico, se causará a la tasa del cero porciento.
 
-T r a n s i t o r i o s
-
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
@@ -2408,8 +2366,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 Artículo Sexto.- Se REFORMAN los artículos 4o., fracción I, primer párrafo; 5o., tercer párrafo; 16, tercer párrafo; 31; 33, último párrafo, y se ADICIONAN los artículos 13; 41, con la fracción VII; de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
 Artículo Séptimo.- En relación con las modificaciones a que se refiere el Artículo Sexto que antecede, se estará a lo siguiente:
@@ -2423,8 +2379,6 @@ l.- Los actos o actividades por los que deba pagarse el impuesto al valor agrega
 Para los efectos de esta fracción, en los servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
 Los impuestos locales o municipales que establezcan las entidades federativas en la enajenación de bienes o prestación de servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
-
-II a VII.-
 
 II.- Durante el ejercicio de 1997 el impuesto al valor agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
 
@@ -2442,8 +2396,6 @@ Publicado en el Diario Oficial de la Federación el 15 de mayo de 1997
 
 ARTICULO UNICO.- Se adiciona la fracción II al artículo 15 de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2460,8 +2412,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 Artículo Quinto.- Se REFORMAN los artículos 2o-C; 4o., fracción III; 12, tercer párrafo; 15, fracción X, incisos b), primer párrafo y d) y 18-A, primer párrafo, la fracción I, inciso b), primer párrafo y el actual último párrafo del artículo; se ADICIONAN los artículos 4o-B; 12, con un cuarto, quinto, sexto y séptimo párrafos, pasando los actuales cuarto y quinto a ser octavo y noveno párrafos, respectivamente; 18-A, con dos párrafos finales; 19, con un último párrafo; 25, con una fracción VIII, y 32, con un último párrafo y se DEROGAN los artículos 35; 35-A; 35-B; 36 y 37, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
@@ -2477,8 +2427,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998
 Ley del Impuesto al Valor Agregado
 
 Artículo Séptimo. Se REFORMAN los artículos 1o., tercer y cuarto párrafos; 4o., fracción I, primer y cuarto párrafos; 5o., segundo y cuarto párrafos; 8o., tercer párrafo; 9o., fracción VII; 15, fracción XIII, primer párrafo; 17, primer párrafo; 22; 29, fracciones I y VI; 32, tercer párrafo; 33, segundo párrafo y 41, fracción VI, primer párrafo; se ADICIONAN los artículos 1o.-A; 3o., con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; 4o., fracción I con un quinto y sexto párrafos y con una fracción IV; 7o., con un tercer párrafo; 29, con una fracción VIII y 32, fracción III, con un cuarto párrafo y con las fracciones V y VI; y se DEROGAN los artículos 13 y 31, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
@@ -2511,8 +2459,6 @@ Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1999
 Ley del Impuesto al Valor Agregado
 
 Artículo Sexto. Se REFORMAN los artículos 3o., tercer párrafo; 4o.; 5o., cuarto párrafo y actual quinto párrafo; 6o., primer párrafo y 7o., segundo párrafo; y se ADICIONAN los artículos 1o.-A, fracción II, con los incisos c) y d); 2o.-A, fracción I, inciso b), con el numeral 4; 4o.-A, con un tercer párrafo; 5o., con un quinto y sexto párrafos, pasando los actuales quinto y sexto a ser séptimo y octavo párrafos, respectivamente, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
@@ -2547,8 +2493,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 Ley del Impuesto al Valor Agregado
 
 Artículo Quinto. Se REFORMAN los artículos 4o., séptimo párrafo en sus incisos a) y b), y octavo párrafo; 4o.-B; 5o., segundo, tercero y actual séptimo párrafos; 29, fracciones I y VIII, primer párrafo; se ADICIONA el artículo 5o., con un sexto párrafo, pasando los actuales sexto a octavo párrafos a ser séptimo a noveno párrafos, respectivamente; y se DEROGA el artículo 32, último párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
@@ -2626,8 +2570,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 Artículo Único. Se REFORMAN los artículos 1o.-A, fracción III y penúltimo párrafo; 2o.-A, fracción I, último párrafo; 3o., segundo y tercer párrafos; 4o., fracciones I, párrafos primero y segundo, II, III, párrafos primero, segundo y tercero en su encabezado e inciso b) y IV, así como los párrafos cuarto, sexto y séptimo, incisos b) y c) del artículo; 5o., primero, segundo y cuarto párrafos; 6o., primer párrafo; 7o., primero y segundo párrafos; 11; 12; 15, fracciones X, inciso h) y XVI; 17; 18-A, primer párrafo; 22; 26, fracción III; 29, fracciones I, IV, inciso b), y VII, así como el último párrafo del artículo; 30, segundo párrafo; 32, fracciones III, actuales segundo y cuarto párrafos, IV y V, primer párrafo, así como el penúltimo párrafo del artículo; 33, primer párrafo y 34, primer párrafo; se ADICIONAN los artículos 1o.-A, con una fracción IV; 1o.-B; 1o.-C; 2o.-A, fracción I, con un segundo párrafo al inciso a) y con un inciso i), y fracción II, con un inciso h); 4o., fracción III, con los párrafos tercero y cuarto, pasando los actuales tercero y cuarto párrafos a ser quinto y sexto párrafos de la fracción, respectivamente; 6o., con un último párrafo; 9o., con una fracción IX y con un último párrafo; 25, fracción I, con un segundo párrafo; 29, con un inciso g) a la fracción IV y con una fracción VII; 32, con las fracciones III, párrafos segundo, tercero, cuarto, sexto, noveno y décimo, pasando los actuales segundo, tercero y cuarto párrafos a ser quinto, séptimo y octavo párrafos de la fracción, respectivamente, y VII; y 43; y se DEROGAN los artículos 4o.-A; 4o.-B; 5o., tercero, quinto, sexto, séptimo y octavo párrafos; 6o., segundo párrafo; 18-A, quinto párrafo y 29, fracción VIII; de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2003.
@@ -2666,8 +2608,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 ARTÍCULO ÚNICO. Se reforma el último párrafo del artículo 2o., de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Único. La presente Ley entrará en vigor a partir del 1 de enero de 2003.
@@ -2700,8 +2640,6 @@ Ley del Impuesto al Valor Agregado
 
 ARTÍCULO PRIMERO. Se reforma el artículo 2o.-A, fracción I, inciso i) y el artículo 2o.-C de la Ley del Impuesto al Valor Agregado para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
@@ -2717,8 +2655,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de diciembre de 2004
 
 ARTÍCULO ÚNICO. Se reforman los artículos 1o.-A, fracción IV, segundo párrafo; 2o.-C, párrafo tercero; 3o., segundo párrafo; 4o.; 6o., párrafos primero y segundo; 7o., segundo párrafo, y 43; y se adicionan los artículos 4o.-A; 4o.-B, y 4o.-C, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2738,8 +2674,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2005
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 1o.-A, fracción IV, segundo y tercer párrafos; 3o., segundo párrafo; 4o.; 5o. y 28, tercer párrafo; se ADICIONAN los artículos 5o.-A; 5o.-B; 5o.-C y 5o.-D, y se DEROGAN los artículos 4o.-A; 4o.-B y 4o.-C, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2758,8 +2692,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2005
 
 Único.- Se adiciona el inciso h), a la fracción IV, del artículo 29 de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2773,8 +2705,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2005
 
 ARTÍCULO ÚNICO. Se adiciona el artículo 31, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2791,8 +2721,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 2005
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTÍCULO CUARTO. Se REFORMA el artículo 2o.-C, y se ADICIONAN la fracción X del artículo 5o.- C; la fracción VII, con un segundo párrafo del artículo 9o.; el tercer párrafo del artículo 42 y el antepenúltimo y el penúltimo párrafos del artículo 43, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
@@ -2820,8 +2748,6 @@ Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 
 ARTÍCULO SEGUNDO.- Se reforma el artículo 15, fracción IX, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2846,8 +2772,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTÍCULO QUINTO. Se REFORMA la fracción V, primer párrafo del artículo 32; y se ADICIONA la fracción VIII al artículo 32 de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-.........
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTÍCULO SEXTO. Los contribuyentes proporcionarán la información mensual a que se refiere el artículo 32, fracciones V y VIII de la Ley del Impuesto al Valor Agregado a partir del día 17 de octubre de 2006.
@@ -2865,8 +2789,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2006
 
 ARTÍCULO DÉCIMO.- Se REFORMA el inciso b) de la fracción X del artículo 15 de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2978,8 +2900,6 @@ Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
 
 ARTÍCULO NOVENO. Se REFORMA el artículo 2-A fracción I último párrafo, de la Ley del Impuesto al Valor Agregado, para quedar en los términos siguientes:
 
-..........
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
@@ -2995,8 +2915,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2009
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ARTÍCULO SÉPTIMO. Se REFORMAN los artículos 1o., segundo párrafo; 1o.-C, fracciones IV, V, primer párrafo y VI, primer párrafo; 2o., primero, segundo y tercer párrafos; 2o.-A, fracción I, último párrafo; 5o., último párrafo; 15, fracción X, inciso b) segundo párrafo, y 32, fracción III, tercer párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
@@ -3056,8 +2974,6 @@ Para los efectos del párrafo anterior, se considerará que, en las mercancías 
 
 III.	Lo dispuesto en los artículos 24, fracción I, segundo y tercer párrafos; 25, fracciones I, segundo párrafo y IX; 27, segundo párrafo; 28, segundo párrafo; 28-A, y 30, segundo párrafo, de la Ley del Impuesto al Valor Agregado, entrará en vigor un año después de que se hayan publicado en el Diario Oficial de la Federación las reglas sobre certificación a que se refiere el citado artículo 28-A.
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
@@ -3074,8 +2990,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 Artículo Tercero.- Se reforman los artículos 5o., fracción II; 5o.-B, segundo párrafo; 24, fracción IV; 26, fracción IV; 27, tercer párrafo, y 32, fracción VIII; se adicionan los artículos 5o., con una fracción VI; 5o.-B, con un tercer y un cuarto párrafos, pasando los actuales tercer y cuarto párrafos a ser quinto y sexto párrafos, respectivamente, y 29, fracción IV, con un inciso i), y se derogan los artículos 5o., fracción I, segundo párrafo y 20, fracción IV de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 Artículo Cuarto.- En relación con las modificaciones a las que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
@@ -3083,8 +2997,6 @@ Artículo Cuarto.- En relación con las modificaciones a las que se refiere el A
 I.	Para los efectos de lo dispuesto en el artículo 5o., fracción VI de la Ley del Impuesto al Valor Agregado, el acreditamiento del impuesto en el periodo preoperativo correspondiente a los gastos e inversiones realizados hasta el 31 de diciembre de 2016, deberá efectuarse conforme a las disposiciones vigentes hasta dicha fecha, siempre que a la fecha mencionada cumplan con los requisitos que para la procedencia del acreditamiento establece la Ley del Impuesto al Valor Agregado.
 
 II.	Para los efectos de lo dispuesto en el artículo 5o.-B, párrafos segundo, tercero y cuarto de la Ley del Impuesto al Valor Agregado, el ajuste del acreditamiento será aplicable a las inversiones que se realicen a partir del 1 de enero de 2017.
-
-.
 
 ##### Transitorio
 
@@ -3132,8 +3044,6 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 Artículo Tercero. Se reforma el artículo 15, fracción XIV; se adicionan los artículos 18-D, con un tercer párrafo; 18-H BIS; 18-H TER; 18-H QUÁTER; 18-H QUINTUS, y 18-J, fracciones I, con un segundo párrafo, II, inciso a), con un segundo párrafo, y III, con un cuarto párrafo, y se deroga el artículo 18-B, fracción II, segundo párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2021.
@@ -3147,8 +3057,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 Artículo Sexto. Se adicionan a los artículos 4o., con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; y 5o., fracción II, con un segundo párrafo, y se deroga la fracción IV del artículo 1o.-A, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3216,8 +3124,6 @@ Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 Artículo Único.- Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3246,55 +3152,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 h5CJaJhÍ
 
-!
-
 hCJaJhÍ
-
-h9%
-
-h9%
-
-!
-
-$ÐQþ^Ð`Qþa$G¬G
-
-h9%
-
-h9%
-
-h9%
 
 $Qþ^`Qþa$$.Qþ^.`Qþa$pLvL÷LMMM;MAMP>PàPæPlQrQ-RNRORUR*SKSLSRSCV~VVVÃVäVåVXlXxXXXXXñåÒåñåñåÒåñåñåÒåñåÒåñåÒåÀ°ÒmZÒåñ%h9%
 
-h9%
-
-!
-
-hÄ?CJ\
-
 hCJaJhÍ
 
-7
-
-8
-
-C
-
-H
-
-I
-
-3
-
-B
-
-C
-
 hlc
 
 hlc
-
-!
 
 hy¨CJaJhÍ
 
@@ -3310,63 +3176,15 @@ hy¨CJaJhÍ
 
 hy¨CJaJhÍ
 
-!
-
-ý
-
-þ
-
-!
-
-ý
-
-þ
-
-!
-
-!
-
-h¡J»5CJ
-
-!
-
 hý$oCJaJhÍ
 
 hý$o5CJaJhÍ
-
-+op»¼âãûþ¸Á¢
-
-½
-
-¾
-
-Ö
-
-¡
-
-¢
-
-½
-
-¾
 
 Q!Q6QJQ_QäRýR(SBSOSóSôS:T<T_T`TzT}TTÖTÞTiUªU«UÅUïWûWüW
 
 hWhYh|h}hhhh¿iÈiÅjk
 
 hÄ?5CJBµð¶ðNòOòMôNôñ÷ò÷ù
-
-é
-
-ô
-
-õ
-
-õ
-
-((2(B(F(M(f(o(z)¾)Ð)C*F*M+R+Ï.Ô.1¨1©1¯12262J2a2p2u22222¶2Î2Ð2+4>4i4444555|5}55555666666¡8«8
-
-hÄ?5CJ
 
 hÄ?CJ\hÄ?5CJ\hÄ?5CJaJ
 

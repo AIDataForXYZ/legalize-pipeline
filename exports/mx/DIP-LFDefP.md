@@ -624,8 +624,6 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2012
 
 ARTÍCULO QUINTO. Se reforman los artículos 4, fracción I, y 10; y se adiciona un artículo 12 Bis a la Ley Federal de Defensoría Pública, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
@@ -709,8 +707,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de mayo de 2019
 
 ARTÍCULO TERCERO. Se REFORMA el artículo 1; y se ADICIONA una fracción VII al artículo 15 de la Ley Federal de Defensoría Pública, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -922,8 +918,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -958,8 +952,6 @@ Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archív
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
 Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -971,8 +963,6 @@ Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Primero. Se reforman los artículos 23; 27; 28; 30; 31, primer y último párrafo y las fracciones I, III y IV; 32, primer párrafo y las fracciones II, III, IV, V, VI y XI; 33, primer párrafo y las fracciones I y IV y la denominación del Capítulo III de la Ley Federal de Defensoría Pública, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1006,8 +996,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Tercero.- Se reforman los artículos 15, fracción V y 20 Bis, primer párrafo, de la Ley Federal de Defensoría Pública, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1015,17 +1003,5 @@ Artículo Décimo Tercero.- Se reforman los artículos 15, fracción V y 20 Bis,
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-¡
-
-¢
-
-¡
-
-¢
-
-­
-
-$
 
 VWnopqrÉÛ÷ó÷óëçëÞëçÐÆ»­ÐÆÆtÆjWKhh6<CJ

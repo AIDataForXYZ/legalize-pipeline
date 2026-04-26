@@ -1180,8 +1180,6 @@ Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 
 Artículo Único.- Se reforman los párrafos primero y cuarto del artículo 63 de la Ley General de Protección Civil, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
@@ -1222,8 +1220,6 @@ Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
 
 Artículo Único.- Se reforma el artículo 2, fracción XXXII y se adicionan los artículos 39, con un segundo párrafo, recorriéndose los subsecuentes en su orden; 49, con un tercer párrafo y 83, con un segundo párrafo a la Ley General de Protección Civil, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1237,8 +1233,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017
 
 Artículo Único.- Se adiciona una fracción XXX, recorriéndose la actual XXX para quedar como XXXI, al artículo 19 de la Ley General de Protección Civil, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1262,8 +1256,6 @@ Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de Mé
 
 Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez que entre en vigor la Constitución Política de la Ciudad de México.
 
-..
-
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
@@ -1273,8 +1265,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO SEXTO. Se reforman los artículos 2, fracción LIX, y 29, fracciones XI y XII de la Ley General de Protección Civil, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1440,8 +1430,6 @@ Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2023
 
 Artículo Único. Se reforman los artículos 2, fracciones XIII y LI; 27, primer párrafo; 28; 31 y 33, segundo párrafo, de la Ley General de Protección Civil, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1450,46 +1438,14 @@ Ciudad de México, a 8 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Pres
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-´
-
-´
-
-·
-
-¸
-
-¹
-
 kºCJhð|´h
 
 kº0J4CJhð|´h
 
 kºCJhð|´h
 
-kºh
-
-kºh
-
-kºh
-
-kº2$a$gd
-
-kº$a$gd
-
 kºCJh-]àh
 
 kº5CJh-]àh
-
-kºCJ
-
-h
-
-kºCJ\h-]àh
-
-kº5CJ\h-]àh
-
-kºCJ\#h-]àh
-
-kºh
 
 !:RSTa ËäïðúîÜÈ¾²¦|mf[hh)ÃCJPJ

@@ -820,8 +820,6 @@ Publicado en el Diario Oficial de la Federación el 16 de junio de 2011
 
 Artículo Primero.- Se reforma el párrafo primero del artículo 3 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -835,8 +833,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de marzo de 2012
 
 Artículo Único. Se adiciona la fracción I Bis al artículo 15 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -882,8 +878,6 @@ Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2014
 
 ARTÍCULO ÚNICO.- Se reforman las fracciones X y XI, y se adiciona una fracción XII al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -912,8 +906,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2016
 
 Artículo Único.- Se reforma la fracción XI del artículo 40 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -928,8 +920,6 @@ Publicado en el Diario Oficial de la Federación el 23 de abril de 2018
 
 Artículo Único.- Se reforma la fracción V del artículo 9 y se adiciona una fracción XIII al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -943,8 +933,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2018
 
 Artículo Único. Se adicionan una fracción V al artículo 33 y una fracción XIII al artículo 34 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -988,8 +976,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO SEGUNDO. Se reforma el artículo 1; las fracciones II y III del artículo 17; la fracción V del artículo 36, y se adiciona una fracción V al artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1010,8 +996,6 @@ Publicado en el Diario Oficial de la Federación el 29 de abril de 2022
 
 Artículo Único.- Se adiciona una fracción XIV al artículo 17 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -1025,8 +1009,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de mayo de 2022
 
 Artículo Único.- Se reforman los artículos 17, fracción III; la denominación del Capítulo Tercero "De la participación y representación política paritaria de las mujeres y los hombres" del Título IV; 35; 36, fracciones III, IV, V y VII de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar  como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1043,8 +1025,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de octubre de 2022
 
 Artículo Único.- Se adiciona una fracción X Bis al artículo 34 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1076,8 +1056,6 @@ Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024
 
 Artículo Primero.- Se reforman los artículos 5, fracción II; 9, fracción V; 17, párrafo primero y fracción I; 26, fracción I; 33, fracción IV; 34, párrafo primero, fracciones I, III y VIII, y se adicionan las fracciones I Bis y IV Bis al artículo 5; la fracción VIII Bis al artículo 17 y, la fracción XI Bis al artículo 34 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1095,8 +1073,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Primero.- Se reforman la denominación de la Ley General para la Igualdad entre Mujeres y Hombres, los artículos 1; 2; 4; 5, fracciones VIII y actual IX; 7; 8; 9, primer párrafo y fracciones I, III, IV y V;  12, fracciones I, II, III, IV y VII; la denominación del Capítulo Tercero del Título II; 14; 15, primer párrafo y fracciones I, I Bis y II; la denominación del Capítulo Cuarto del Título II; 16, primer párrafo; la denominación del Capítulo Primero del Título III; 17, primer párrafo y, segundo párrafo, fracciones VII, XI, XIII y XIV; la denominación del Capítulo Segundo del Título III; 18; 21; la denominación del Capítulo Tercero del Título III; 23; 24; 25, en su párrafo y fracciones I y III; 26, fracciones I y IV; 27; la denominación del Capítulo Cuarto del Título III; 29; 30; la denominación del Capítulo Primero del Título IV; 32; 38, fracción VII y último párrafo; 41; 42, fracción VI; 44; la denominación del Capítulo Primero del Título V; 46 y 48, párrafo primero y fracciones I, II, III y IV; y se adicionan una fracción X al artículo 5; las fracciones XV, XVI y XVII al artículo 17 y los artículos 24 Bis; 24 Ter y 24 Quáter, de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1118,80 +1094,16 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-r
-
-s
-
-Y
-
-[
-
-e
-
-q
-
-r
-
-s
-
-h£Oä5CJ
-
-h£Oä5CJ
-
-h9
-
-h9
-
-h£Oä5CJ
-
 Æ>a$gdÒ-B;d;f;t;~;;;;t<<<<<<<Z=^=_=Ö=æ=4>\>f>g>h>ìÙ½¤½s½¤½md[md[mTJ½¤½C
 
 h£Oä5CJhÒ-hÒ-5CJ
 
-h£Oä5CJ
-
 h£Oä5CJh£Oä5CJ\
-
-h£Oä5CJ(¦¦·¦¸¦¨'¨(¨·¨¸¨g©h©Ê©Ë©0ª1ª~ªª««
 
 ¬¬Ë¬â¬ì¬î¬ø¬ù¬ú¬B­P­Î­Ñ­®®t®y®¶®Ã®F¯I¯½¯Á¯'°,°Â°Æ°E±H±íáÚÐÚÐ¶o¶ib[iRiRiRi[iRiRiRiRiRh£Oä5CJ\
 
-h£Oä5CJ
-
-h£Oä5CJ
-
-h£Oä5CJ
-
-3h
-
 3CJh
-
-3h
 
 35CJ\aJh
 
-3h
-
-3$ ` a$gd
-
-3
-
 3&Øßëìófg³Èäø)RlméÕ½¦éxaIaIaIaIaxa4(h
-
-3h
-
-3h
-
-3h
-
-3h
-
-3h
-
-3h
-
-3h
-
-3h
-
-3h

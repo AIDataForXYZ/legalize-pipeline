@@ -436,8 +436,6 @@ Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018
 
 Artículo Único.- Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -504,18 +502,4 @@ Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-6
-
-7
-
-+
-
-5
-
-6
-
-7
-
 $FGL±ÓÔ×45WXd
-
-!CDÇÈÔòó^Ï÷çç÷çç÷àààÔÌààà¾¾¾ÔÌàà

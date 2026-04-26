@@ -199,7 +199,7 @@ _DOC_FIELD_RE = re.compile(r"^(?:PAGE|NUMPAGES\S*|EMBED\s+\S+)", re.IGNORECASE)
 # Matches Word 97 style-sheet / field-code tokens that bleed verbatim into
 # the WordDocument text stream.  These originate from:
 #   • OLE2 document summary / FIB header  ("bjbj" is a fixed signature word)
-#   • Word style-sheet XML references     (OJQJ, CJOJQJ, mH sH, ^JaJ …)
+#   • Word style-sheet XML references     (OJQJ, CJOJQJ, mH sH, CJPJaJ, ^JaJ …)
 #   • Conditional-format IF field codes   ($If, IfF4, IfF42, Faöf4 …)
 #   • Field code delimiters / cell refs   (Qkd<hex>, gd<name>, $$Ifa$ …)
 #   • Word picture-layout cell refs       (dð¤ = d + eth U+00F0 + U+00A4 …)
@@ -219,7 +219,11 @@ _WORD_FIELD_CODE_RE = re.compile(
     r"|Faöf4"                  # Filter field code suffix (öf4 is diagnostic)
     r"|Qkd[A-Za-z0-9$ì]"       # Field-code delimiter token (Qkd + next char)
     r"|gd[A-Za-z0-9\[{<_#àÁ¿·Ë;ï¢þ³ô¶ú]"  # Named range ref in Word style sheet dump
-    r"|\bmH\s*sH\b"            # Word paragraph-spacing attribute (mH sH)
+    r"|mH\s+sH"                # Word paragraph-spacing attribute (mH<ws>sH).
+                               # NOTE: no \b anchors — this token always appears
+                               # glued to other style codes (e.g. CJmH\tsH) so
+                               # \b before 'm' would never match inside that cluster.
+    r"|CJPJaJ"                 # Word character-style code: CJK + Para + AllJustify
     r"|d\xf0\xa4"              # Word picture-cell reference token (d + eth + ¤)
 )
 
@@ -241,11 +245,21 @@ _REPEAT_NONASCII_RE = re.compile(r"([^\x00-\x7f])\1{3,}")
 # _REPEAT_NONASCII_RE, but alternating-pair dumps require this check).
 _REPEAT_PAIR_NONASCII_RE = re.compile(r"([^\x00-\x7f][^\x00-\x7f])\1{3,}")
 
+# Matches a sequence of 3+ alphabetic characters (used to detect "real words" in a
+# paragraph).  Combined with _ROMAN_NUMERAL_WORD_RE below this lets us distinguish
+# legitimate prose from short OLE2 / field-code garbage that escaped the other checks.
+_REAL_WORD_ALPHA_RE = re.compile(r"[A-Za-záéíóúÁÉÍÓÚñÑüÜ]{3,}")
+
+# Pure Roman numeral word (all I/V/X/L/C/D/M, any case).  Used to exclude Roman
+# numeral tokens like "VIII" from the "real word" count — "I A VIII." is garbage
+# even though "VIII" is 4 alphabetic characters.
+_ROMAN_NUMERAL_WORD_RE = re.compile(r"^[IVXLCDMivxlcdm]+$")
+
 
 def _is_binary_garbage(text: str) -> bool:
     """Return True when a paragraph is OLE2 binary data or Word field-code garbage.
 
-    Three independent signals trigger a True verdict:
+    Six independent signals trigger a True verdict:
 
     1. **Field-code tokens** — the paragraph contains at least one of the
        diagnostic Word/OLE2 tokens captured by ``_WORD_FIELD_CODE_RE``
@@ -278,6 +292,17 @@ def _is_binary_garbage(text: str) -> bool:
        of the same 2-char non-ASCII pair (e.g. ``ïáïáïáïá``, ``òáòáòáòá``).
        Produced by Word style-sheet comparison tables; never in Spanish prose.
 
+    6. **Short paragraph with no recognisable Spanish word** — the paragraph
+       is ≤ 200 characters AND does not contain a single token of 3 or more
+       alphabetic characters that is not a pure Roman numeral (I/V/X/L/C/D/M).
+       This catches residual OLE2 field-code artifacts that begin with an
+       ASCII prefix that looks like a fracción marker (e.g. ``I J m!!!¦"È"É"…``
+       or ``I A VIII.``) but have no real Spanish prose words.  Legitimate
+       fracciones like ``I Pudieren verse perjudicadas…`` survive because
+       "Pudieren" is 8 alphabetic characters.  Section headings survive because
+       "ARTÍCULO", "TÍTULO", "CAPÍTULO", etc. are all ≥ 6 non-Roman-numeral
+       alphabetic characters.
+
     Short paragraphs (≤4 chars) bypass the high-byte check but are still
     tested for field-code tokens and embedded newlines.
     """
@@ -308,6 +333,19 @@ def _is_binary_garbage(text: str) -> bool:
     # Word style-sheet comparison table dumps and never appears in Spanish legislative text.
     if _REPEAT_PAIR_NONASCII_RE.search(text):
         return True
+    # Signal 6: short paragraph with no recognisable Spanish word.
+    # A "real word" is 3+ consecutive alphabetic characters that are NOT a pure Roman
+    # numeral (sequences of I/V/X/L/C/D/M only).  Real fracciones always contain at
+    # least one such word; OLE2 field-code artifacts that start with "I <letter>" do not.
+    if len(text) <= 200:
+        has_real_word = False
+        for m in _REAL_WORD_ALPHA_RE.finditer(text):
+            word = m.group().rstrip(".")
+            if not _ROMAN_NUMERAL_WORD_RE.match(word):
+                has_real_word = True
+                break
+        if not has_real_word:
+            return True
     return False
 
 

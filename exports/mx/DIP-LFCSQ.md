@@ -1040,8 +1040,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Tercero.- Se reforman los párrafos primero y segundo del artículo 12 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -1134,8 +1132,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Cuadragésimo Tercero.- Se reforman los artículos 4, primer párrafo; 63 y 71, cuarto párrafo, de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1149,14 +1145,6 @@ Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor 
 ÉÊÌñòõTUnorâãå89<
 
 £¤©îïñ|}·¸¼õöû©ª®·¸¼	ïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÀïàÏïàÏïàÀàÀàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏïàÏhb_hGXB*CJaJph hb_hGX5B*CJaJphhb_hO0B*CJaJph hb_hO05B*CJaJphLQ|R|¨}©}¡¢ÉÊñònoâã89
-
-m
-
-y
-
-m
-
-fÖ±Ö²ÖÒÖ¦×­×º×»×Ä×6Ø@ØÜ
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 

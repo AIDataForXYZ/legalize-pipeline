@@ -672,8 +672,6 @@ Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Único.- Se adiciona una fracción XI al artículo 46 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -687,8 +685,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo Noveno.- Se reforma el artículo 11 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

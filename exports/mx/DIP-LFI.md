@@ -3240,8 +3240,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2004
 
 ARTÍCULO CUARTO.- Se REFORMA el artículo 91 de la Ley de Sociedades de Inversión, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3255,8 +3253,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO SEPTIMO. Se reforma el artículo 91, fracción I de la Ley de Sociedades de Inversión, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3275,8 +3271,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 FONDOS DE INVERSIÓN
 
 ARTÍCULO TRIGÉSIMO SEXTO.- Se REFORMAN la denominación de la Ley de Sociedades de Inversión para quedar como Ley de Fondos de Inversión y los Artículos 1, primer párrafo; 2; 3, segundo párrafo; 5; 6; 7, primero y último párrafos; 8; 9, primer párrafo, fracciones I, V, VII y VIII, y párrafos segundo y tercero; 10 a 14; 15, primer párrafo, fracciones I a IV, y párrafos segundo a quinto; 16, primer párrafo; 17; 18, primer párrafo, fracciones II y IV; 21 a 31; 32, primer párrafo, fracciones I a IV y VI a VIII, y segundo párrafo; 33, primer párrafo; 34 a 37; 38; 39, fracciones I y II, así como segundo y actual tercer párrafos; 40 a 55; 56, segundo y último párrafos; 58; 59; 60, primer párrafo; 61, primer párrafo y cuarto párrafo fracción I; 62 fracción I; 63, primer párrafo; 65, último párrafo; 66; 68 a 70; 72 a 74; 75, primer párrafo; 76, primer párrafo; 77; 78; 79; 80, primer párrafo, segundo párrafo fracciones I a VIII y X a XIV, y penúltimo párrafo; 81; 82, primer párrafo, fracciones I, primer párrafo, III, V, VI y VII; 83, primer párrafo, fracciones III y V a VII; 84, primer y segundo párrafos; 85, 86, fracciones I y III a XIII; 87 a 89; 90, primer párrafo y fracción I; 91, párrafos primero, segundo, tercero, cuarto, quinto y séptimo a décimo; 92; 93; 94, segundo párrafo y 95, se ADICIONAN un Título I a denominarse Disposiciones Preliminares con un Capítulo Único que comprenderá los Artículos 1 a 7; un Título II a denominarse De los fondos de inversión con el Capítulo Primero a denominarse De la constitución que comprenderá los Artículos 8 a 9; con el Capítulo Segundo a denominarse De la organización que comprenderá de los Artículos 10 a 14; con el Capítulo Tercero a denominarse Del capital social y derechos de los accionistas que comprenderá de los Artículos 14 Bis a 14 Bis 3; con el Capítulo Cuarto a denominarse De la fusión y escisión que comprenderá de los Artículos 14 Bis 4 a 14 Bis 8; con el Capítulo Quinto a denominarse De la disolución, liquidación y concurso mercantil que comprenderá de los Artículos 14 Bis 9 a 14 Bis 17; con el Capítulo Sexto a denominarse De la operación de los fondos de inversión que comprenderá de los Artículos 15 a 21; con el Capítulo Séptimo a denominarse De los fondos de inversión de renta variable que comprenderá los Artículos 22 y 23; con el Capítulo Octavo a denominarse De los fondos de inversión en instrumentos de deuda que comprenderá los artículos 24 y 25; con el Capítulo Noveno a denominarse De los fondos de inversión de capitales que comprenderá de los Artículos 26 a 29; con el Capítulo Décimo a denominarse De los fondos de inversión de objeto limitado que comprenderá los Artículos 30 y 31; un Título III a denominarse De la prestación de servicios a los fondos de inversión con el Capítulo Primero a denominarse Generalidades que comprenderá los Artículos 32 a 38; con el Capítulo Segundo a denominarse De la administración de activos que comprenderá los Artículos 39 a 39 Bis 5; con el Capítulo Tercero a denominarse De la distribución que comprenderá de los Artículos 40 a 43; con el Capítulo Cuarto a denominarse De la valuación que comprenderá de los Artículos 44 a 47; con el Capítulo Quinto a denominarse De la calificación que comprenderá el Artículo 48; con el Capítulo Sexto a denominarse De la proveeduría de precios que comprenderá los Artículos 49 y 50; con el Capítulo Séptimo a denominarse Del depósito y custodia que comprenderá el Artículo 51; con el Capítulo Octavo a denominarse De los servicios administrativos que comprenderá el Artículo 51 Bis; con el Capítulo Noveno a denominarse De los servicios Fiduciarios que comprenderá del Artículo 51 Bis 1 al 51 Bis 8; un Título IV a denominarse Disposiciones Finales con el Capítulo Primero a denominarse Disposiciones Generales que comprenderá de los Artículos 52 a 61 Bis; con el Capítulo Segundo a denominarse De las Filiales de Instituciones Financieras del Exterior que comprenderá de los Artículos 62 a 75; con el Capítulo Tercero a denominarse De la Contabilidad, Inspección y Vigilancia que comprenderá de los Artículos 76 a 81 Bis; con el Capítulo Cuarto a denominarse De la fusión y escisión que comprenderá de los Artículos 81 Bis 1 a 81 Bis 3; con el Capítulo Quinto a denominarse De la revocación y de los procedimientos administrativos con una Sección I a denominarse De la revocación que comprenderá de los Artículos 81 Bis 4 a 83 Bis 5, así como con una Sección II a denominarse De los procedimientos administrativos que incluye el Apartado A, a denominarse Disposiciones preliminares que comprenderá de los Artículos 84 a 84 Bis 1, el Apartado B a denominarse De la imposición de sanciones administrativas que comprenderá de los Artículos 85 a 86 Bis 2, el Apartado C a denominarse De los programas de autocorrección que comprenderá de los Artículos 86 Bis 3 a 86 Bis 6, el Apartado D a denominarse Del recurso de revisión que comprenderá de los Artículos 87 a 87 Bis 1, el Apartado E a denominarse De las notificaciones que comprenderá de los Artículos 87 Bis 2 a 87 Bis 14, y el Apartado F a denominarse De los delitos que comprenderá de los Artículos 88 a 93; con el Capítulo Sexto a denominarse Disposiciones comunes que comprenderá de los Artículos 94 a 97; los Artículos 3, con un último párrafo; 5 Bis; 8 Bis; 8 Bis 1; 9, con las fracciones IX a XV y con los párrafos cuarto a séptimo; 14 Bis a 14 Bis 17; 32, con los párrafos penúltimo y último; 33, con un párrafo cuarto, recorriéndose el actual párrafo cuarto en su orden para quedar como quinto párrafo, así como los párrafos sexto y séptimo; 34 Bis a 34 Bis 5; 37 Bis; 39, con las fracciones III y IV, los párrafos tercero y cuarto, recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 39 Bis a 39 Bis 5; 40 Bis a 40 Bis 4; 47 Bis a 47 Bis 3; 51 Bis; 55 Bis a 55 Bis 2; 56 Bis y 56 Bis 1; 61 con un último párrafo; 61 Bis; 77 Bis; 77 Bis 1; 79 Bis; 80 Bis; 80 Bis 1; 81 Bis a 81 Bis 4; 82, con las fracciones VIII y IX; 82 Bis; 83, con las fracciones VIII a XI; 83 Bis a 83 Bis 5; 84, con los párrafos sexto que incluye las fracciones I a IV, y octavo, recorriéndose los párrafos de dicho artículo en su orden y según corresponda; 84 Bis y 84 Bis 1; 86, con la fracción XIII recorriéndose la actual fracción XIII para ser XIV, y un último párrafo; 86 Bis a 86 Bis 6; 87 Bis a 87 Bis 14; 90 Bis; 91, tercer párrafo con los literales e y f y cuarto a sexto, recorriéndose los subsecuentes en su orden; y se DEROGAN los actuales Capítulo Primero denominado Disposiciones Generales; Capítulo Segundo denominado De las Sociedades de Inversión de Renta Variable; Capítulo Tercero denominado De las Sociedades de Inversión en Instrumentos de Deuda; Capítulo Cuarto denominado De las Sociedades de Inversión de Capitales; Capítulo Quinto denominado De las Sociedades de Inversión de Objeto Limitado; Capítulo Sexto denominado De la Prestación de Servicios a las Sociedades de Inversión con las Secciones I a VII; Capítulo Séptimo denominado Disposiciones Comunes; Capítulo Octavo denominado De las Filiales de Instituciones Financieras del Exterior; Capítulo Noveno denominado De la Contabilidad, Inspección y Vigilancia; Capítulo Décimo denominado De la Revocación de las Autorizaciones y de las Sanciones; Capítulo Undécimo denominado Disposiciones Finales; los Artículos 19; 20; 39, último párrafo; 75, segundo párrafo; 80, último párrafo; 82, fracción II segundo párrafo y fracción IV; 84, cuarto y quinto párrafos; 86, fracción II de la Ley de Sociedades de Inversión, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -3318,8 +3312,6 @@ En los procedimientos administrativos que se encuentren en trámite, el interesa
 
 X.	Las referencias que en otras Leyes, reglamentos o disposiciones se hagan respecto de la Ley de Sociedades de Inversión; las sociedades de inversión; las sociedades operadoras de sociedades de inversión; las sociedades distribuidoras de acciones de sociedades de inversión y las sociedades valuadoras de acciones de sociedades de inversión, se entenderán efectuadas a la Ley de Fondos de Inversión, los fondos de inversión; las sociedades operadoras de fondos de inversión; las sociedades distribuidoras de acciones de fondos de inversión, y las sociedades valuadoras de acciones de fondos de inversión, respectivamente.
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
@@ -3333,8 +3325,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 Artículo Tercero. Se reforma el artículo 79 de la Ley de Fondos de Inversión, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -3353,8 +3343,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Cuadragésimo Tercero.- Se reforma la fracción I del artículo 55 de la Ley de Fondos de Inversión, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3472,8 +3460,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Cuarto.- Se reforma el quinto párrafo del artículo 84 Bis de la Ley de Fondos de Inversión, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3494,46 +3480,10 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 Lunes 4 de junio de 2001	DIARIO OFICIAL	(Primera Sección)     PAGE52
 
-î
-
-ó
-
-í
-
-î
-
-G
-
-F
-
-G
-
-Î0Î1Î:Î=ÎÏsÐtÐÐÒ¶Ò·ÒÉÒ5Ô6Ô)×*×+×-×ô×õ×ø×ÁØÂØÃØÇØgÙhÙ÷ñÞ÷Ô÷ñË÷ñËÔ÷ÄÔ÷ñË÷Þ¼³ª¼¡¡¼~¡¡¡~¡w~¡¡~¡
-
 äåAB@Acdr¿ÀÁÃòó#$-067YZìäÖÉÀÉ­ä¤äÖÉ­ÉÖÉÉÉ­ÉÀÀÀzÀÀÀ­¤äÀ­À
 
 <?:?;???oAAA±BÓBÔBÕGÖGõéßß×ÐÆ¾ÐÐÐ©¾©©¾©©©
 
 <<q<~=?:???oAAAA°B±BÓBÔBÙBÔGÕGÐIÑIJJ	JJ»J¼J¿JXLYLZL]LÝLÞLMMMÏOÐOVPWPQQ
 
-JÅh
-
 JÅCJh
-
-JÅh
-
-JÅh
-
-JÅ$ ` a$gd
-
-JÅh
-
-JÅh
-
-JÅh
-
-JÅ$ ` a$gd
-
-JÅh
-
-JÅh

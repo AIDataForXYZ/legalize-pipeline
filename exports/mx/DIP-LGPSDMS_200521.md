@@ -698,8 +698,6 @@ Publicado en el Diario Oficial de la Federación el 27 de febrero de 2011
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 12, párrafos primero y cuarto; y se adiciona el párrafo tercero del artículo 2, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -713,8 +711,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 
 Artículo Primero.- Se reforman la fracción I del artículo 9; las fracciones I y II del artículo 10; el artículo 11; el primero, cuarto y quinto párrafos del artículo 12; el artículo 13; el primer párrafo del artículo 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16 y el artículo 17, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -771,8 +767,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Décimo Tercero.- Se reforma el párrafo primero del artículo 29; la fracción I, del artículo 38; el párrafo primero del artículo 39; el párrafo primero del artículo 40; el artículo 41; y la fracción X del artículo 43; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

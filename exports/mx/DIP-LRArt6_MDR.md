@@ -362,8 +362,6 @@ SENTENCIA
 
 Mediante la que se resuelven los autos relativos a la Acción de Inconstitucionalidad 122/2015 y sus acumuladas 124/2015 y 125/2015, promovidas por el Partido de la Revolución Democrática (PRD), Morena y la Comisión Nacional de Derechos Humanos (CNDH).
 
-.
-
 SE RESUELVE
 
 PRIMERO. Son procedentes y parcialmente fundadas las presentes acciones de inconstitucionalidad acumuladas.
@@ -380,8 +378,6 @@ SÉPTIMO. Publíquese esta sentencia en el Diario Oficial de la Federación y en
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-.
-
 El señor Ministro Presidente Aguilar Morales declaró que el asunto se resolvió en los términos precisados, dejando a salvo el derecho de los señores Ministros de formular los votos que consideren pertinentes. Doy fe.
 
 Firman los señores Ministros Presidente y el Ponente con el Secretario General de Acuerdos que da fe.
@@ -395,8 +391,6 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Publicado en el Diario Oficial de la Federación el 30 de mayo de 2018
 
 Artículo Único.- Se reforma el segundo párrafo del artículo 10 de la Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -412,8 +406,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Vigésimo Cuarto.- Se reforma el artículo 3, párrafo cuarto de la Ley Reglamentaria del Artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en Materia del Derecho de Réplica, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -427,8 +419,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexagésimo.- Se reforman los artículos 8 y 35 de la Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos en Materia del Derecho de Réplica, para quedar como sigue:
-
-.
 
 ##### Transitorios
 

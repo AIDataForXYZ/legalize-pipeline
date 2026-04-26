@@ -258,8 +258,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1949
 
 ARTICULO UNICO.- Se adiciona la fracción III del artículo 1º de la Ley de Expropiación publicada en el "Diario Oficial" de 25 de noviembre de 1936, quedando en los siguientes términos:
 
-.........
-
 TRANSITORIO:
 
 UNICO.- La presente Ley entrará en vigor a los 3 días después de su publicación en el "Diario Oficial" de la Federación.
@@ -273,8 +271,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993
 
 ARTICULO SEXTO.- Se reforman los Artículos 3o.; 4o.; 5o.; 9o.; 10; 20 y 21 de la Ley de Expropiación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -295,8 +291,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
 
 ARTÍCULO TERCERO.- Se adiciona un artículo 20 Bis a la Ley de Expropiación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -320,8 +314,6 @@ Publicado en el Diario Oficial de la Federación el 5 de junio de 2009
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se ADICIONAN un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o todos de la Ley de Expropiación, para quedar en los siguientes términos:
 
-.
-
 ARTÍCULOS TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -341,8 +333,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de enero de 2012
 
 Artículo Cuarto. Se reforman los artículos 2, párrafo primero, 8 y 17; y se adicionan los artículos 2 Bis; 8 Bis, 9 Bis, y los párrafos segundo y tercero al artículo 10 todos de la Ley de Expropiación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -370,8 +360,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 ARTÍCULO ÚNICO. Se reforman el artículo 6o y el segundo párrafo del artículo 20 BIS de la Ley de Expropiación, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -379,15 +367,5 @@ ARTÍCULO ÚNICO. Se reforman el artículo 6o y el segundo párrafo del artícul
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 18 de enero de 2012.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-
-[
-
-\
-
-e
-
-[
-
-\
 
 hl[5CJPRSoýý÷î÷

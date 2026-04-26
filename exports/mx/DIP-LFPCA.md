@@ -1840,8 +1840,6 @@ LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
 ARTÍCULO DÉCIMO SEGUNDO. Se REFORMA el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar de la siguiente manera:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
@@ -1857,8 +1855,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de enero de 2009
 
 ARTÍCULO OCTAVO.- Se ADICIONA el párrafo sexto al artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1877,8 +1873,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 Artículo Primero.- Se reforman los artículos 4o., primer párrafo, 13, primero y actual segundo párrafos; 14, fracción I, segundo, tercero y quinto párrafos; 24, fracción I y el inciso a); 65, primer párrafo; 66; 67, último párrafo y 68, primer párrafo y se adicionan los artículos 1-A; 13, con los párrafos segundo y tercero, recorriéndose los demás párrafos en su orden; 14, con un tercer párrafo, recorriéndose los demás párrafos en su orden; 31, con un párrafo segundo y el Capítulo X denominado "Del Juicio en Línea" al Título II, que comprende de los artículos 58-A al 58-S a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1916,8 +1910,6 @@ Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 ARTÍCULO SEGUNDO.- Se adiciona un artículo 50-A y un inciso d) a la fracción V del artículo 52 de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1934,8 +1926,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2010
 
 Artículo Único.- Se reforma el artículo 5o., último párrafo de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1949,8 +1939,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2010
 
 ARTÍCULO PRIMERO. Se REFORMAN los artículos 1-A, fracciones III, XII, XIII y actual XV; 13, fracción I, inciso a); 14, sexto párrafo; 24; 25; 27; 28; 29, fracción I; 30; 48, primer párrafo, así como la fracción I, inciso a), segundo párrafo, fracción II, incisos a, b) y d); 52, fracción V, inciso c); 58, fracción III; 62; 65, primer párrafo; 66; 67; 68; 69; 70; 75, tercer párrafo, y 77, primer párrafo; y se ADICIONAN una fracción XIV al artículo 1-A, recorriéndose las demás en su orden; un párrafo segundo a la fracción I y un séptimo párrafo al artículo 14; el artículo 24 Bis; el párrafo cuarto al artículo 51, recorriéndose el actual cuarto párrafo en su orden, y el Capítulo XI denominado Del Juicio en la Vía Sumaria al Título II, que comprende de los artículos 58-1 a 58-15, a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1980,8 +1968,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Segundo.- Se reforma la fracción I del artículo 8o. de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1995,8 +1981,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
 
 ARTÍCULO ÚNICO. Se reforma el artículo 13, fracción I, inciso a) de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2066,8 +2050,6 @@ Publicado en el Diario Oficial de la Federación el 21 de mayo de 2024
 
 Artículo Único.- Se deroga el último párrafo del inciso a) de la fracción II del artículo 58 de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2081,8 +2063,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo Quinto.- Se reforman los artículos 1o., primer párrafo; 14, penúltimo párrafo; 46, penúltimo párrafo, y 58, fracción II, inciso f), de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2112,24 +2092,6 @@ gCJaJh0­CJaJhjh0­CJaJhjh0­5CJaJhjh
 
 g5CJaJ-h
 
-8
-
-Ú
-
-Û
-
-7
-
-8
-
-=
-
-Ú
-
-Û
-
-Þ
-
 ÔÕÖÙijk¢£¤´./03úûüRSTÖ×Ø´¾¿ÀÐ;õíâÖõíâÖõÍÖõíâÖõíâÖõíâÖõíâõíâõí³³âÖõíâÖõÍÖõíâÖõíâõíâõí³³âÖõ-h
 
 g5CJaJhjh0­5CJaJhjh
@@ -2142,8 +2104,6 @@ gCJaJ-h
 
 5CJaJ hü
 
-hü
-
 CJaJhjhü
 
 CJaJhjhü
@@ -2151,8 +2111,6 @@ CJaJhjhü
 5CJaJhé{Dhü
 
 CJaJhü
-
-hü
 
 CJaJhjhü
 

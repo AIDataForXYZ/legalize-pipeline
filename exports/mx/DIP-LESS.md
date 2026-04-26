@@ -868,8 +868,6 @@ ARTÍCULO PRIMERO.- Se reforma el primer párrafo del Segundo Transitorio, así 
 
 ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del Cuarto Transitorio para precisar la aplicación de las normas que regulan al Registro y al Programa, y se adiciona un segundo párrafo al mismo, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -901,8 +899,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015
 
 Artículo Primero. Se reforman la denominación de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, así como los artículos 1o., primer párrafo; 3o.; 5o., fracciones III y XVII; 12, último párrafo; 13; 14, fracciones I, XIII y XXII; 16, fracción II; 18, fracción III; 19, primer párrafo; 22 y 55 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -950,8 +946,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Décimo Quinto. Se reforma el artículo 25, fracciones I, II y III, así como los párrafos segundo y tercero de Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -970,8 +964,6 @@ Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023
 
 Artículo Único.- Se reforma la denominación y los artículos 5o., fracción III; y 11, fracción X; y se adiciona una fracción X al artículo 8o. de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
@@ -987,8 +979,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
 
 Artículo Tercero.- Se reforman los artículos 14, fracciones XVII y XXI; 44, fracción I, y 45, fracciones I y XVII, y se adiciona una fracción XXI Bis, recorriéndose la subsecuente en su orden, al artículo 14, de la Ley de la Economía Social y Solidaria, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1052,19 +1042,7 @@ hK.5CJhÊhbÐ5CJho÷hû
 
 5CJho÷ho÷CJho÷hû
 
-D
-
-E
-
 B*CJphho÷hû
-
-9
-
-C
-
-D
-
-E
 
 ¯°æÌ·¦jSjF9F*9Fho÷hû
 

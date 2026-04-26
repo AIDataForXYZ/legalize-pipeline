@@ -672,8 +672,6 @@ Publicado en el Diario Oficial de la Federación el 24 de julio de 1992
 
 ARTICULO UNICO.- Se reforman los artículos 3º., segundo párrafo; 9º, primer párrafo; 10º, segundo párrafo; 12; 16; 24, primer párrafo; 25, fracción V; 32, primer párrafo; 39, segundo párrafo; 41; 51; 58, fracciones IX, XIII, y XVII, y 68, primer párrafo de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -687,8 +685,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO SEGUNDO.- Se reforman el primer párrafo y la fracción I del artículo 62 de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -716,8 +712,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
@@ -731,8 +725,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de enero de 2001
 
 ARTICULO UNICO.- Se reforma el artículo 5o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -748,8 +740,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2002
 
 Único. Se adiciona un segundo párrafo y se recorre el actual párrafo segundo del artículo 3o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -763,8 +753,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de mayo de 2003
 
 Artículo tercero.- Se reforma el primer párrafo del artículo 5o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-.........
 
 ##### Transitorio
 
@@ -780,13 +768,9 @@ Publicado en el Diario Oficial de la Federación el 2 de junio de 2006
 
 Artículo Segundo. Se reforma el párrafo tercero del artículo 3o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
 
-.........
-
 ##### Transitorio
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-.........
 
 México, D.F., a 25 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
@@ -797,8 +781,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de agosto de 2006
 
 ARTICULO SEGUNDO. Se reforma el párrafo segundo del Artículo 3o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-..........
 
 ARTÍCULOS TRANSITORIOS
 
@@ -816,15 +798,11 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
 
 ARTÍCULO SEGUNDO. Se adicionan un cuarto párrafo al artículo 3o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
-
-.
 
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas."
 
@@ -1116,8 +1094,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1168,8 +1144,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
 
 Artículo Único.- Se adiciona un segundo párrafo al artículo 12 de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1183,8 +1157,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Tercero.- Se adiciona un artículo 59 BIS a la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1263,8 +1235,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Segundo.- Se reforma el párrafo primero y se adiciona un párrafo tercero al artículo 5o. de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1357,29 +1327,5 @@ Para fines de lo anterior, la Comisión Nacional Antimonopolio deberá considera
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-m
-
-ö
-
-_
-
-õ
-
-ö
-
-ÆJ$
-
-ÆJa$$
-
-ÆJ!`!a$$
-
-|
-
-É
-
-Þ
-
-ò
 
 hìE5CJh¿ÂhìE5CJIvbxcx¤z¥z{{ÌÍ_`34HI

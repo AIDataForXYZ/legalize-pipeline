@@ -514,8 +514,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión celebrada el veintiséis de octubre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 64/2019, promovida por la Comisión Nacional de los Derechos humanos, en los términos siguientes:
 
 PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
@@ -593,23 +591,5 @@ Segundo.- Las instituciones de seguridad revisarán y, en su caso, actualizarán
 Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-#
-
-ï
-
-ð
-
-"
-
-#
-
-&
-
-ï
-
-ð
-
-ô
 
 ¥+,0²³¶cdh¾¿ËBCH

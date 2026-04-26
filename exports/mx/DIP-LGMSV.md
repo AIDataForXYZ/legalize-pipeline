@@ -1402,8 +1402,6 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Único.- Se adicionan los incisos a) y b), recorriéndose los subsecuentes en su orden, a la fracción III del párrafo tercero del artículo 49 de la Ley General de Movilidad y Seguridad Vial, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

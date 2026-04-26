@@ -470,8 +470,6 @@ Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
 
 Artículo Único.- Se adicionan una fracción IX, y se recorren en su orden las subsecuentes, al artículo 9o.; el Capítulo XIII al Título Segundo y los artículos 62 Bis y 62 Ter a la Ley de Recompensas de la Armada de México, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.

@@ -2450,8 +2450,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Quinto.- Se reforman los artículos 141, tercer párrafo y 161, segundo párrafo, de la Ley para Regular las Agrupaciones Financieras, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2470,15 +2468,7 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Æ
-
 Or5CJh	-Æh
-
-<
-
-<
-
-I
 
 OrCJh	-Æhò>µCJh	-Æhò>µ5CJh	-Æh
 
@@ -2504,25 +2494,7 @@ Or5CJh	-Æhò>µ5CJh	-Æhò>µCJh	-Æh
 
 Or5CJh	-Æhò>µ5CJh	-Æh
 
-/
-
-2
-
-ø
-
-ù
-
-ý
-
-¡¢§/03ÆÇ²³÷íã÷Úã÷íã÷íã÷Úã÷Úã÷ãÚã÷í÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷íã÷Ú÷Ú÷Úã÷Úã÷íã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷Ú÷Úh	-Æh
-
 OrCJh	-Æhò>µ5CJh	-Æh
-
-/
-
-ø
-
-ù
 
 Or5CJh	-Æh
 
@@ -2531,5 +2503,3 @@ OrCJh	-Æh
 _!`"`&`bbucvc1f2fgghhihhhh«i¬i¼j½jl
 
 OrG0P&P1h/R :p
-
-Or°Ð/ °à=!°"°#$%°°Å°ÅÄDp

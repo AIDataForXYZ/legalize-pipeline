@@ -304,8 +304,6 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 2018
 
 Artículo Único. Se reforman los artículos 8, primer párrafo; 9, segundo párrafo, incisos a), b), c) y d) y cuarto párrafo; 11; 12, fracciones I, II y III; 13, primer párrafo; 14, primer párrafo; 15; 16, primer párrafo; 17, primer párrafo; 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -344,8 +342,6 @@ Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Cuarto.- Se adiciona un párrafo tercero al artículo 4 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -382,11 +378,7 @@ VISTOS, para resolver los expedientes relativos a las acciones de inconstitucion
 
 RESULTANDO:
 
-..
-
 CONSIDERANDO:
-
-..
 
 Por lo expuesto y fundado, se resuelve:
 
@@ -422,16 +414,6 @@ Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna,
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-2
-
-3
-
-2
-
-3
-
-?
-
 Ý5CJaJh?`hµ[E5CJaJh?`hé
 
 ]]]]¸]¹]¼]½]o^p^|^}^^^___[a\a]a`açaèaìa:b;bÞböbccccBeCeKeLeTe^e_e`edeeefe÷íãÚ÷íãÚÑÚ÷íãÚÊÀ·±·À·ÊÀ·±·ÊíÚ÷ívívíÚÑÚ÷h?`hé
@@ -440,28 +422,12 @@ hþ95CJh?`hé
 
 !:Nf~µÇö ¶¸¹¸ÀÍÎÖFGO«¬´qrHIPø÷í÷í÷íæ÷í÷í÷àÕÈÕ·±««|pi_i_«i_h¤=	h¨5CJ
 
-Ýhé
-
-Ýhé
-
 Ýgdé
-
-Ýhé
 
 ÝCJaJjhé
 
-Ýhé
-
 ÝCJUaJhd.8hþShé
-
-Ýhé
 
 ÝCJUaJhé
 
-Ýhé
-
 ÝCJaJ jhé
-
-Ýhé
-
-Ý°Ð/ °à=!°"°#$%°°Å°ÅÄDp

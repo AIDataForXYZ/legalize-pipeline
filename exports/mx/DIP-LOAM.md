@@ -976,46 +976,8 @@ Quinto. Las referencias que se hagan de las personas servidoras públicas o unid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-&
-
-'
-
-2
-
-k
-
-l
-
-n
-
-o
-
-'
-
-l
-
 $¤P`a$gd Àýdÿ^`Àýgd dÿgd tuyz­®±²¼½¿Àßàãäÿ¨©µVWxyùúüý!"%&FGKLÎÏÑÒ£¤°
 
 æ%ç&ç*ç+çÅçÆçÉçÊçÓçÔçÖç×çéé é!é¬é­é±é²éãêäêéêêêWëXë[ë\ë7ì8ì:ì;ìÅìÆìÉìÊì;í<í@íAíÚíÛíçíÝîÞî-ñ.ñÌñÍñÙñ,ò-ò/ò0ò»ò¼ò¿òÀò\ó]ó_ó`óDôEôGôHôõ	õ
-
-5
-
-B
-
-H
-
-f
-
-h
-
-¯
-
-°
-
-ü
-
-ý
-
-=>?@ýøýéÒ~él$
 
 ÆC"$IfgdÑskgdêcO°

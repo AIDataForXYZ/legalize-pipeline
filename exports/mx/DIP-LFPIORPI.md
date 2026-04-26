@@ -1172,8 +1172,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Décimo Sexto.- Se reforman las fracciones XI y XIV, del artículo 3; el artículo 7; las fracciones III, IV, IX y X del artículo 8; el párrafo primero del artículo 9; el artículo 11; el artículo 45; el artículo 47; el párrafo primero del artículo 50; y la fracción I del artículo 63 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -1250,8 +1248,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Primero.- Se reforman el artículo 2; la fracción III, su inciso a), los párrafos primero, segundo y subinciso ii) del inciso b), la fracción VI, la fracción XII, la fracción XIII y la fracción XIV, del artículo 3; la fracción IV del artículo 4; el artículo 5; la fracción VII del artículo 6; la fracción IV del artículo 8; el primer párrafo del artículo 9; el artículo 11; la fracción I del artículo 15; el párrafo primero del artículo 16; la fracción I; la fracción II; el párrafo segundo de la fracción III; el párrafo segundo de la fracción IV; la fracción V; la fracción VI; la fracción VII; la fracción VIII, la fracción IX; el párrafo segundo de la fracción X; el párrafo primero, el segundo párrafo del inciso a), el párrafo segundo del inciso c), el inciso d), del apartado A, el párrafo primero y los incisos a) y c) del apartado B, de la fracción XII; la fracción XIII, párrafo primero e incisos d) y e) de la fracción XIV; la fracción XV; párrafos primero y segundo de la fracción XVI, del artículo 17; Las fracciones I, II, III, IV, V y VI del artículo 18; el artículo 20; el segundo párrafo del artículo 21; el artículo 22; el artículo 23; el primer párrafo, la fracción II y el tercer párrafo del artículo 24; el artículo 25; el artículo 26; el tercer párrafo del artículo 27; el primer párrafo del artículo 31; el primer párrafo y las fracciones I a VII del artículo 32; el primer y segundo párrafos del artículo 33; el artículo 34; el artículo 35; el artículo 38; el artículo 40; el artículo 45; el artículo 47; los párrafos primero y segundo del artículo 50; los párrafos primero y tercero del artículo 51; el segundo párrafo de la fracción III y la fracción V del artículo 53; las fracciones I a III del artículo 54; el artículo 55; el artículo 56; el artículo 58; el párrafo primero del artículo 59; el artículo 61, y el artículo 62; Se adicionan los párrafos tercero y cuarto a la fracción III, la fracción III Bis, la fracción IV Bis, la fracción IX Bis, la fracción XII Bis, la fracción XII Ter y la fracción XIII Bis al artículo 3; la fracción II Bis al artículo 4; las fracciones I Bis, VIII, IX, X y XI, recorriendo en su numeración el texto de la actual fracción VIII para quedar como fracción XII, al artículo 6; la fracción V Bis, un apartado D a la fracción XII, tercer párrafo de la fracción XVI recorriendo en su orden el texto del actual tercer párrafo para quedar como cuarto párrafo y un segundo párrafo recorriendo en su orden el texto de los actuales segundo y tercer párrafos para quedar como tercero y cuarto párrafos del artículo 17; las fracciones IV Bis, VII a la XI y un segundo párrafo al artículo 18; un tercer párrafo al artículo 19; el artículo 22 Bis; la fracción VIII y el segundo párrafo al artículo 32; el Capítulo IV Bis, compuesto por los artículos 33 Bis, 33 Ter y 33 Quáter; el artículo 41 Bis; el artículo 51 Bis; el artículo 51 Ter; el artículo 54 Bis, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
@@ -1280,14 +1276,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 Æ>a$gdÚABïð9:=ã±²´µ¶¢£¦¤ÄÅÇÈÉ%&úñèñèÞÕÁ»±ÕÁè§ñ¡ñèzè§ñ¡ñqñ¡ñj`Vhõc¹h@S5CJhõc¹hbã5CJ
 
-××1ØTØUØØØ¡ØâÙãÙ¼ÚÞÚßÚëÚëÛõìæìæìæìÒÉ¿¶­¶ÉìÒÉõìÒ¦õìÒÉ}w}c\}
-
 ÜÜÜÊÜËÜªÝÌÝÍÝÞÞÎßïßðßõõíõõá×××Å×Å½×Å×³§×$
 
 hWÀ5CJh	NhWÀCJh	NhWÀ5CJh\Ëh\Ë5CJh\Ëhbã5CJaJh\Ëh\ËCJh\ËhbãCJ.Ìö=ø>øtùuù¼ú½úþûÿûÚüÛüÖýøýùýÿ ÿ¡ÿÄåæ
 
-&
-
 ¯°¼úîÚÓÉÀºÀÚÓÉÀÚÓÉÀÚ±¥ngn^Th\Ëhbã5CJh\Ëh\ËCJ
-
-¯°ÄÅÚÛç

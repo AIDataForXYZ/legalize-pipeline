@@ -3604,8 +3604,6 @@ Publicado en el Diario Oficial de la Federación el 13 de diciembre de 1996
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 1o., 2o. fracciones II y III, 3o., la denominación del Capítulo II del Título Primero, del 4o. al 14, la denominación del capítulo Tercero del Título Primero, 15, 16, la denominación del Capítulo Cuarto y su Sección I del Título Primero, 17, la denominación de la Sección II del Capítulo Cuarto del Título Primero, 19 primer párrafo y fracciones I y V, 20, la denominación de la Sección III del Capítulo Cuarto del Título Primero, 21, 22, la denominación de la Sección IV del Capítulo IV del Título Primero, 23, 28 al 35, la denominación de la Sección VI del Capítulo Cuarto del Título Primero, 36, 37, la denominación de la Sección VII del Capítulo Tercero del Título Primero, 38, la denominación del Título Segundo, así como de su Capítulo I y Sección I, 44, 45 primer párrafo y fracciones II, III, V y VII, la denominación de la Sección II del Capítulo I del Título Segundo, el 46, 47, 48 primero y tercer párrafos, 49 al 59, 60, 62, 63, 64 primer y tercer párrafos, 65, 66, 67, 74, 76, 77, la denominación del Capítulo II del Título Segundo, 78, la denominación del Capítulo III del Título Segundo, 79, 80 primer párrafo y fracciones I, II y V, 81, 82, 84, 86, 87, la denominación del Capítulo I del Título Tercero, 88 primer párrafo y fracciones II y III, 89 primer párrafo y fracciones IV a X, 90, 92 al 97, la denominación del Capítulo II del Título Tercero, 98 primer párrafo y fracciones IV y V, 99 primer párrafo y fracciones III, V, VII y XII, 100, 101 fracciones I a V, 102 al 105, la denominación del Capítulo Tercero del Título Tercero, 108 primer párrafo y fracción I, 109, la denominación de los Capítulos I y II del Título Cuarto, el 111, 112 primer párrafo y fracciones I a IV, VI, X y XI, 113, la denominación del Capítulo III del Título Cuarto, 118 fracciones I, II y IV, 119, 120 fracción VII, 122 primer párrafo, 123, 124, 126, 127, 128 primer párrafo, 130 al 133, la denominación del Capítulo IV del Título Cuarto, 134 fracciones III y IV, 135 fracción III, 136 fracción III, 137, 139, 140, 141, 143, 144, la denominación del Capítulo V del Título Cuarto, 145 fracción I, 146 al 149, la denominación del Capítulo VI del Título Cuarto, 150, 151, 152, 153 primer párrafo y fracciones II a V, y VIII inciso d), la denominación del Capítulo VII del Título Cuarto, 154, la denominación del Capítulo VIII del Título Cuarto, 155, 156 primer párrafo, la denominación del Título Quinto y su Capítulo Primero, 157, 158 fracciones I a III y V, 159, la denominación del Capítulo I del Título Sexto, el 160 segundo párrafo, 161, 162 segundo párrafo, 163 primer párrafo, 164 primer y segundo párrafos, 167, 168, 169 tercer y cuarto párrafos, 170, 171 primer párrafo y fracción II, 173 fracciones I y III, 174 primer párrafo, 175, la denominación del Capítulo V del Título Sexto, 176 primer párrafo, 177 al 194; se adicionan los artículos 14 BIS, 19 BIS, 20 BIS al 20 BIS 7, 22 BIS, 35 BIS, 35 BIS 1, 35 BIS 2, 35 BIS 3, 37 BIS, 38 BIS, 38 BIS 1, 38 BIS 2, 56 BIS, la Sección III del Capítulo I del Título Segundo, 64 BIS, 64 BIS 1, 75 BIS, la Sección IV del Capítulo I del Título Segundo, 78 BIS, 78 BIS 1, 83 último párrafo, 87 BIS, 87 BIS 1, 87 BIS 2, 88 fracción IV, 98 fracción VI, 101 fracción VI y VII, 101 BIS, 109 BIS, 109 BIS 1, 111 BIS, 112 fracción XII, 118 fracción VII, 119 BIS, 134 fracción V, 151 BIS, 152 BIS, 153 un segundo párrafo a la fracción VII, 158 fracción VI, el Capítulo II del Título Quinto, 159 un párrafo, 159 BIS al 159 BIS 6, 160 tercer párrafo, 169 con un quinto párrafo, 170 BIS, 171 último párrafo y fracciones IV y V, 173 dos últimos párrafos y fracciones IV y V, 174 BIS, 174 BIS 1, 175 BIS, 195 al 204; y se derogan los artículos 24, 25, 26, 27, Capítulo V del Título Primero, el 42, 43, tercer párrafo del 48, 68 al 73, 89, fracciones XI y XII, 106, 107, 125, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3642,8 +3640,6 @@ Publicado en el Diario Oficial de la Federación el 7 de enero de 2000
 
 ÚNICO. Se adiciona una fracción XXXVI al artículo 3o., una fracción XX al artículo 15 y se reforma el artículo 39 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3657,8 +3653,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2001
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 11, 12, 109 BIS, 130, 150 segundo párrafo, 162 segundo párrafo, 163 primer párrafo, 167 primer párrafo, 171 fracción I, 173 fracción I y último párrafo, y 174 BIS fracción I. Se adicionan un artículo 45 BIS, un segundo párrafo al artículo 119, un artículo 147 BIS, un cuarto párrafo al 159 BIS, un segundo párrafo al 161, un tercer párrafo al 163, un segundo párrafo al 168, y un cuarto párrafo al 182, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3688,8 +3682,6 @@ TERCERO A DECIMO PRIMERO.- ..........
 
 ARTICULO SEGUNDO.- Se reforman los artículos 5 fracción XI, 100 y 104; se deroga la fracción VI del artículo 28; y se adiciona un segundo párrafo al artículo 4 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
 ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
@@ -3704,8 +3696,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTICULO PRIMERO.- Se adiciona un artículo 17 BIS a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3719,8 +3709,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de febrero de 2005
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 28 y 48, y se adiciona por un lado una fracción XXXVII al artículo 3o. y por otro los artículos 47 BIS y 47 BIS 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3740,8 +3728,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2005
 
 ARTÍCULO ÚNICO. Se adicionan los artículos 167 BIS, 167 BIS 1, 167 BIS 2, 167 BIS 3 y 167 BIS 4 a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3755,8 +3741,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2006
 
 ARTÍCULO ÚNICO.- Se reforma el Artículo 6 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -3772,15 +3756,9 @@ Publicado en el Diario Oficial de la Federación el 12 de febrero de 2007
 
 Artículo Primero.- Se adiciona una fracción VI al artículo 19 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 Artículo Segundo.- Se adiciona un párrafo tercero al artículo 20 BIS 2, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..........
-
 Artículo Tercero.- Se reforma el texto del artículo 51 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -3795,8 +3773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de junio de 2007
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XI al artículo 89; y se reforma el segundo párrafo del artículo 119, ambos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3816,8 +3792,6 @@ ARTÍCULO PRIMERO.- Se reforma la fracción III y se adiciona una nueva fracció
 
 ARTÍCULO SEGUNDO. Se reforman la fracción VI del artículo 22 Bis recorriéndose las subsiguientes; las fracciones I y III del articulo 38; la fracción IX del primer párrafo y el tercer párrafo del artículo 46; y el primer párrafo del articulo 54; y el artículo 202, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3833,8 +3807,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de mayo de 2008
 
 ARTÍCULO ÚNICO.- Se reforman las fracciones IX y X, los párrafos segundo, tercero y cuarto del artículo 46; el primer párrafo del artículo 74; se adiciona una fracción XI al artículo 46; un artículo 55 BIS; una Sección V denominada "Establecimiento, Administración y Manejo de Áreas Destinadas Voluntariamente a la Conservación", al Capítulo I "Áreas Naturales Protegidas", del Título Segundo "Biodiversidad", con el artículo 77 BIS, y se deroga el segundo párrafo del artículo 59, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3860,8 +3832,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2010
 
 ARTÍCULO ÚNICO.- Se reforma la fracción XXVIII del Artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3875,8 +3845,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de abril de 2010
 
 ARTÍCULO PRIMERO.- Se reforma la fracción I del artículo 79; se reforma la fracción IV del artículo 80, y se reforma el artículo 85, todos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -3892,8 +3860,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Primero.- Se reforma el primer párrafo y se adicionan un segundo y tercer párrafos al artículo 180 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3908,8 +3874,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Único.- Se adiciona una fracción XVII, recorriéndose en su orden las subsecuentes al Artículo 3o de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3923,8 +3887,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Único.- Se reforma el Artículo 41; y se adicionan, una fracción V al Artículo 2o; una fracción V Bis al Artículo 3o; una fracción XXI al Artículo 5o, recorriéndose las subsecuentes en su orden; una fracción XXI al Artículo 7o., recorriéndose las subsecuentes en su orden; una fracción XVI al Artículo 8o., recorriéndose las subsecuentes en su orden de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3941,8 +3903,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011
 
 ARTÍCULO SEXTO.- Se adicionan los párrafos segundo y tercero del artículo 202 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3966,8 +3926,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXAGÉSIMO SEGUNDO. Se reforman los artículos 3o., fracción XXXV; 64, tercer párrafo; 85; 111, fracción IX; 140; 141, primer párrafo; 143; 144, primer párrafo; y 146 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3984,8 +3942,6 @@ Publicado en el Diario Oficial de la Federación el 24 de abril de 2012
 
 Artículo Único.- Se reforma la fracción IV del artículo 15 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3999,8 +3955,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2012
 
 Artículo Único. Se adiciona una fracción X al artículo 23 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4018,8 +3972,6 @@ Publicado en el Diario Oficial de la Federación el 29 de mayo de 2012
 
 Artículo Único: Se reforman los artículos 22, tercer párrafo; 22 BIS, fracción I; 41, y 116, fracción III de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4033,8 +3985,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2012
 
 Artículo Único.- Se reforma la fracción I y el tercer párrafo del Artículo 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4052,8 +4002,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2012
 
 Artículo Primero.- Se adiciona la fracción XXXVI al artículo 3, recorriéndose las subsecuentes, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4069,8 +4017,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de mayo de 2013
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 17 TER a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4118,8 +4064,6 @@ Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013
 
 Artículo Único.- Se reforma el segundo párrafo del inciso h), fracción II del artículo 47 Bis, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
@@ -4150,8 +4094,6 @@ Publicado en el Diario Oficial de la Federación el 24 de mayo de 2013
 
 Artículo Único.- Se reforman el primer párrafo del artículo 44; las fracciones I y III del artículo 45; el primer párrafo, los párrafos primero y segundo del inciso a) y, el segundo párrafo del inciso b) de la fracción I; el segundo párrafo del inciso a), el segundo párrafo del inciso b), el primer párrafo del inciso c), el primero, segundo y tercer párrafos del inciso d), el segundo párrafo del inciso e), y el primer párrafo del inciso h) de la fracción II del artículo 47 BIS; el segundo párrafo del artículo 48; los párrafos segundo y cuarto del artículo 51; y se adicionan un último párrafo al artículo 46; los párrafos tercero y cuarto, recorriéndose en el orden el subsecuente del artículo 48; y el párrafo tercero al artículo 55, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4165,8 +4107,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 Artículo Segundo. Se reforman el párrafo segundo del artículo 168 y el artículo 169; y se adicionan tres párrafos al artículo 168 y un párrafo último al artículo 176 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4185,8 +4125,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2013
 
 Artículo Primero.- Se reforma la fracción I del artículo 1o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -4300,8 +4238,6 @@ Publicado en el Diario Oficial de la Federación el 23 de abril de 2018
 
 Artículo Único.- Se reforma el inciso h) de la fracción III del artículo 11 y la fracción X del artículo 28; y se adiciona una fracción XIII Bis al artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4315,8 +4251,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2018
 
 Artículo Segundo. Se reforma el primer párrafo y se adiciona un segundo párrafo al artículo 105 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..
 
 Transitorios de la Ley General del Equilibrio Ecológico y la Protección al Ambiente
 
@@ -4350,8 +4284,6 @@ Publicado en el Diario Oficial de la Federación el 18 de enero de 2021
 
 Artículo Único. Se reforman los artículos 5o., fracción XV; 7o., fracción VII; 8o., fracción VI; 11,  fracción VII; 155 y 156, primer párrafo, así como la denominación del Capítulo VIII del Título Cuarto; y se adicionan las fracciones VI Bis y XX Bis al artículo 3o.; un artículo 110 Bis, y las fracciones XV y XVI al artículo 111, todos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -4372,8 +4304,6 @@ Publicado en el Diario Oficial de la Federación el 21 de octubre de 2021
 
 Artículo Único.- Se reforma la fracción IV del artículo 21 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4387,8 +4317,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de marzo de 2022
 
 Artículo Único.- Se adicionan una fracción VI Ter al artículo 3o., y un artículo 156 BIS a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4419,8 +4347,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Tercero. Se adicionan un párrafo séptimo al artículo 46; un párrafo segundo al artículo 47 BIS, y el artículo 107 BIS a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4482,8 +4408,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo Octavo.- Se reforman los artículos 15, fracción XIII; 45, fracción VII; 47, primer párrafo; 58, fracción III; 59; 64 BIS 1; 67, primer párrafo; 77 BIS, primer párrafo; 78, párrafo segundo; 78 BIS, fracción IV; 79, fracción X y 158, fracciones I, II y VI, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4497,8 +4421,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Segundo.- Se reforma el segundo párrafo del artículo 202 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4524,8 +4446,6 @@ Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2025
 
 Artículo Único.- Se reforman los artículos 6o., primer párrafo; 161, primer párrafo y 166; y se adiciona un párrafo tercero al artículo 47 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4541,8 +4461,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
 
 Artículo Segundo.- Se reforman los artículos 3o., fracción XXXII; 15, fracción VII y 39, primer párrafo, y se adicionan la fracción III Bis al artículo 22 Bis, el Capítulo II Bis Aprovechamiento Sustentable en las Actividades Económicas al Título Tercero, y los artículos 107 Bis 1 y 107 Bis 2, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4566,47 +4484,7 @@ Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada e
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-0
-
-1
-
-6
-
-7
-
-Ø
-
-Ý
-
-Þ
-
-0
-
-1
-
-×
-
-Ø
-
-h÷o	CJ\hÛcåh÷o	CJ\hÛcåh÷o	5CJ\
-
 hhCJ\
-
-íÔîÕîÖî¢ðÃðåðçðõðÿðññ
-
-Ô
-
-Õ
-
-á
-
-ù
-
-Ô
-
-Õ
-
-ù
 
 6ëhsA5B*CJphh
 
@@ -4616,39 +4494,15 @@ hhCJ\
 
 7CJhiîh
 
-75CJ)§§·§¸§-¨.¨ù¨©©bªcªz«¨«©«
-
-7iªz«««§«¨«©«º«
-
 7CJhiîh
 
 70J$5CJh
 
 h³'nCJ\
 
-(
-
 hhCJ\
 
-¦
-
-°
-
-±
-
-²
-
-¶
-
-±
-
-²
-
 6ëhsAB*CJphh
-
-¾
-
-î
 
 6ëhsAB*CJphh
 

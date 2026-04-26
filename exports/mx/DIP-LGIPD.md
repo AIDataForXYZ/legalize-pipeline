@@ -982,8 +982,6 @@ Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Segundo.- Se adiciona la fracción XXV y se recorren las subsecuentes al artículo 2, y se reforman los artículos 22 y 23 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1006,8 +1004,6 @@ Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Único.- Se reforma el párrafo primero del artículo 4 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1021,8 +1017,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2022
 
 Artículo Único.- Se reforma el párrafo cuarto del artículo 4 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1051,8 +1045,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de enero de 2023
 
 Artículo Único.- Se reforman los artículos 29 y 32, fracción I y se adiciona una fracción XIX Bis al artículo 2 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1084,8 +1076,6 @@ Publicado en el Diario Oficial de la Federación el 4 de abril de 2024
 
 Artículo Único.- Se reforma la fracción II del artículo 7 y la fracción II del artículo 21 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1100,8 +1090,6 @@ Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
 
 Artículo Tercero. Se reforma el artículo 18; y se adiciona una fracción X al artículo 44 de la Ley General para la Inclusión de las Personas con Discapacidad, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1112,44 +1100,4 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 OOOOOOOYPZP_P`P2Q3Q9Q:QjQkQ¤Q¥QÊQíÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË¸íÜË££(h¡Sh1
 
-+h^
-
-©
-
-ª
-
-²
-
-ª
-
-1$a$gd
-
-1
-
 1CJh
-
-1h
-
-15CJPJaJh
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h
-
-1h

@@ -702,8 +702,6 @@ Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2005
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 58 y se adiciona un segundo párrafo al artículo 56 de la Ley de Seguridad Nacional, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -720,8 +718,6 @@ Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
 
 Artículo Segundo. Se adiciona una fracción XIII al artículo 5 de la Ley de Seguridad Nacional, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
@@ -737,8 +733,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2020
 
 Artículo Único.- Se adicionan una fracción VI al artículo 6, y un Título Séptimo denominado  "De la Cooperación con los Gobiernos Extranjeros en materia de seguridad que contribuyan a preservar la Seguridad Nacional", conformado por dos Capítulos y los artículos 68; 69; 70; 71; 72; 73; 74; 75 y 76 a la Ley de Seguridad Nacional, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -840,8 +834,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
 
 SEGUNDO. Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
@@ -878,8 +870,6 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 
 SENTENCIA
 
-..
-
 VIII. DECISIÓN.
 
 594.	Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
@@ -895,8 +885,6 @@ SEXTO. Publíquese esta resolución en el Diario Oficial de la Federación y en 
 Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General de la República, a las Fiscalías Generales de las entidades federativas y a los Tribunales Superiores de Justicia de las entidades federativas del País y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-.
 
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
 
@@ -932,16 +920,6 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-t
-
-g
-
-h¶V5CJ
-
-h¶V5CJ4¬"F#G###$$,$b$c$n$$$,%-%c&d&O'P'À'Á'á'â'(
-
-h¶V5CJ
-
 h¶VCJ\h¶VB*CJ\phh¶V5CJ\mHsHh¶V5CJ\mHsHh¶V5CJ\h¶V5CJ\
 
 h¶V5CJh¶V5CJ\
@@ -949,5 +927,3 @@ h¶V5CJh¶V5CJ\
 h¶V5CJh¶VB*CJ\ph
 
 h¶VCJ\h¶V5CJ\
-
-h¶V5CJ

@@ -1126,8 +1126,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2001
 
 ARTÍCULO TERCERO.- Se reforman los artículos 26, 33 y 59; se deroga el artículo 87; y se adicionan un segundo párrafo al artículo 10 y una fracción III al artículo 21 de la Ley General de Sociedades Cooperativas, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El artículo Primero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo señalado en los artículos Transitorios siguientes.
@@ -1194,8 +1192,6 @@ Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 12, 32, 89, 90, 92 y 93 de la Ley General de Sociedades Cooperativas, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1209,8 +1205,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ARTÍCULO TERCERO. Se REFORMAN el Artículo 1o; fracción V del Artículo 11, primer párrafo del Artículo 33; fracción IV del Artículo 34; segundo y tercer párrafos del Artículo 74; y se ADICIONAN un segundo párrafo al Artículo 33; Artículos 33 Bis; 33 Bis 1; 33 Bis 2; 33 Bis 3; fracción IV al Artículo 34; un tercer párrafo al Artículo 36; el Artículo 40 Bis; segundo y tercer párrafos al Artículo 42; un cuarto párrafo al Artículo 43; el Artículo 43 Bis; 43 Bis 1; 45 Bis; 46 Bis; 46 Bis 1; 46 Bis 2; 46 Bis 3; 55 Bis; 65 Bis; Artículos 78 Bis a 78 Bis 13; así como las Secciones I y II al Capítulo I del Título III, que comprenderán los Artículos 74 a 78 y 78 Bis a 78 Bis 13, respectivamente; todos ellos de la Ley General de Sociedades Cooperativas, para quedar como sigue:
-
-.
 
 TRANSITORIO DEL ARTÍCULO TERCERO
 
@@ -1240,8 +1234,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Vigésimo.- Se reforman los artículos 12, párrafos primero y segundo; 32; 43 Bis, fracción VIII; 89; 90; 92 y 93 de la Ley General de Sociedades Cooperativas, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1255,8 +1247,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
 
 Artículo Cuarto.- Se reforman los artículos 12; 13 y 17 y se adicionan una fracción III al artículo 3; las fracciones VI y VII al artículo 11, y el artículo 17 Bis de la Ley General de Sociedades Cooperativas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1315,41 +1305,3 @@ Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses con
 Ciudad de México, a 10 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de abril de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-s
-
-¯
-
-°
-
-¯
-
-°
-
-³
-
-hZ:
-
-hZ:
-
-hZ:
-
-hZ:
-
-K
-
-L
-
-Ó
-
-Ô
-
-Õ
-
-L
-
-Ô
-
-Õ
-
-]$]8]M]a]{]]]í^_+_A_N_Á_Â_

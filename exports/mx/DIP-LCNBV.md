@@ -580,8 +580,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
@@ -611,8 +609,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de junio de 2001
 
 ARTICULO TERCERO.- Se REFORMAN los artículos 3, fracción IV, 4, fracciones I, XII, XIII, XVIII y XIX y 12, fracción II; se ADICIONA el artículo 3, con una fracción V, y se DEROGA el artículo 12, fracción I, de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -678,8 +674,6 @@ Publicado en el Diario Oficial de la Federación el 20 de junio de 2005
 
 Único.- Se adiciona un artículo 21 a la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -693,8 +687,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 ARTÍCULO CUARTO. Se REFORMAN las fracciones XXXVI y XXXVII y ADICIONA la fracción XXXVIII al artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -760,8 +752,6 @@ Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ARTÍCULO CUARTO.- Se REFORMAN el Artículo 2, primer párrafo, las fracciones IV y V del Artículo 3, la fracción I del Artículo 4 y el primer párrafo del Artículo 18, y ADICIONA la fracción VI al Artículo 3 de la Ley de la Comisión Nacional Bancaria y de Valores para quedar como sigue:
 
-.
-
 TRANSITORIOS DEL DECRETO
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
@@ -785,8 +775,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO PRIMERO. Se reforma el artículo 4, fracción XXVII de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -859,23 +847,5 @@ Tercero. Todas las obligaciones que se generen con la entrada en vigor del prese
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-
-$
-
-%
-
-Ý
-
-Þ
-
-$
-
-Þ
-
-ë
-
-"&^d¦­ÙÚÞ-.2èéø
-
-i
 
 hUng5CJºq»qrr~rrrrrr

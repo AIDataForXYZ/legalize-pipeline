@@ -458,34 +458,6 @@ Los militares que por resolución definitiva pasen a situación de retiro, ascen
 
 Años en el Grado
 
-20
-
-10
-
-22
-
-9
-
-24
-
-8
-
-26
-
-7
-
-28
-
-6
-
-30
-
-5
-
-35
-
-4
-
 40 o más3Artículo reformado DOF 04-02-2011
 
 ###### Artículo 28.
@@ -597,36 +569,6 @@ V. El personal de la milicia auxiliar que haya sido separado del activo por órd
 ###### Artículo 37.
 
 La compensación a que se refiere el artículo anterior será calculada conforme a la tabla siguiente: Años de Servicios	Meses de Haber
-
-5	6
-
-6	7
-
-7	8
-
-8	10
-
-9	12
-
-10	14
-
-11	16
-
-12	18
-
-13	20
-
-14	22
-
-15	24
-
-16	26
-
-17	28
-
-18	30
-
-19	32
 
 ###### Artículo 38.
 
@@ -1067,66 +1009,6 @@ La suma asegurada se calculará conforme a las reglas siguientes: Su cuantía se
 > <small>Párrafo reformado DOF 14-01-2013, 16-07-2025</small>
 
 Años de Servicios	Factor (meses)
-
-20	16
-
-21	17
-
-22	18
-
-23	19
-
-24	20
-
-25	21
-
-26	22
-
-27	23
-
-28	24
-
-29	25
-
-30	27
-
-31	28
-
-32	29
-
-33	30
-
-34	31
-
-35	32
-
-36	34
-
-37	35
-
-38	36
-
-39	37
-
-40	40
-
-41	41
-
-42	42
-
-43	43
-
-44	44
-
-45	45
-
-46	46
-
-47	47
-
-48	48
-
-49	49
 
 50 o más	50
 
@@ -2814,8 +2696,6 @@ Artículo 21
 
 Artículo 21
 
-.
-
 Pensión es la presentación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley.
 
 Pensión es la prestación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley.
@@ -2825,8 +2705,6 @@ Pensión es la prestación económica vitalicia a que tienen derecho los familia
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2006
 
 ARTÍCULO ÚNICO: Se reforman los artículos 8; 9; 12, fracción XV; 142, párrafos primero y cuarto en su fracción IV; 147; 150 y se adiciona el artículo 180 con una fracción IX a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -2841,8 +2719,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de noviembre de 2008
 
 ÚNICO.- Se reforman los artículos 3o., fracción IV; 4o., fracciones IX, XIII y XIV; 12, fracciones VII y XIV; 18, fracciones XXII y XXIII; 21, último párrafo; 22, fracciones III y V; 24, fracciones II, III, IV y VI; 30; 31; 33; 34; 35; 36, fracciones II y V; 38, fracciones I y VI; 39; 40; 54; 55; 56; 57, párrafos segundo y tercero; 60; 63, fracciones I, inciso b), y III; 64; 65; 66; 80, fracción IV; 81; 82; 87, fracciones III y V; 89, párrafos tercero y cuarto; 90; 91, fracción I, incisos e) y g); 95; 103, fracciones I y II; 111, párrafo segundo; 121; 142, párrafo primero y fracciones III, IV y V; 148; 149; 160; 167, fracción II; 168; 171, párrafo primero; 172, párrafo primero; 173, párrafos primero y segundo; 174; 181; 183; 186, párrafo primero; 189; 190; 192, párrafos primero y segundo; 193, párrafo primero; 194; 195; 196, párrafos primero y tercero; 197; 198, párrafo primero; 209, fracción III; 221, párrafo primero; y 226, párrafo primero, numeral 83 de la Primera Categoría, y numeral 14 de la Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico; se adicionan las fracciones XV, XVI y XVII al artículo 4o.; la fracción XXIV al artículo 18; el párrafo segundo al artículo 19; la fracción V al artículo 52, recorriéndose las actuales fracciones V y VI para quedar como VI y VII, respectivamente; el párrafo segundo al artículo 56; los párrafos cuarto, quinto y sexto al artículo 111; la fracción VI al artículo 142; el artículo 149 Bis; y, el numeral 19 a la Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico del artículo 226, recorriéndose el actual numeral 19 para quedar como 20; y se derogan el párrafo cuarto del artículo 21; el último párrafo de la Primera, Segunda y Tercera Categorías, el numeral 45 de la Segunda Categoría, y el último párrafo de la Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico, del artículo 226; de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2880,8 +2756,6 @@ Publicado en el Diario Oficial de la Federación el 4 de febrero de 2011
 
 Artículo Único. Se reforma el artículo 27 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2916,8 +2790,6 @@ Publicado en el Diario Oficial de la Federación el 5 de junio de 2012
 
 Artículo Único. Se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un artículo 138 Bis a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2931,8 +2803,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de enero de 2013
 
 ÚNICO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 89 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS, PARA QUEDAR COMO SIGUE:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2948,8 +2818,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2015
 
 Artículo Único.- Se reforman la fracción IV del artículo 24, y el numeral 83 de la Primera Categoría del artículo 226; se adiciona el artículo 226 Bis; y se derogan el numeral 82 de la Primera Categoría y la Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico, del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2963,8 +2831,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de mayo de 2017
 
 Artículo Único. Se adiciona un párrafo segundo a la fracción IV del artículo 108 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2982,8 +2848,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 2019
 
 Artículo Único.- Se adicionan dos párrafos al artículo 152 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2997,8 +2861,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Sexto.- Se reforman los artículos 2o., fracciones IV, en su párrafo y V; 4o., fracciones IV, V, XI y XIV; 9o.; 12, fracciones VI, XIII, XIV y XV; 25, párrafo segundo; 26; 29; 50; 51, en su párrafo y fracciones I y IV; 63, fracciones I, II, III, inciso b) y IV; 86; 89, párrafos segundo, tercero y cuarto; 90, fracciones III, párrafo segundo y V; 91, fracciones I, incisos a) y b), III y IV; 100, fracciones III, VI y VII; 101, en su párrafo y fracción I; 102, fracciones I, II, párrafo primero y tercero; 104; 108, fracciones IV, párrafo segundo y VI; 114; 116; 132; 135; 164; 175, fracciones II y III, y 226 Bis, párrafo primero, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3027,8 +2889,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Vigésimo Octavo.- Se reforman los artículos 159; 160; 161, tercer párrafo; 162, fracción II; 166, fracción IV; 167, fracción V, y 171, fracción IV, de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3170,39 +3030,9 @@ LICENCIADO RAFAEL COELLO CETINA
 
 SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.- Rúbrica.
 
-0
-
-1
-
 ìÖìÃÖ¶©££yp£p£pg£pg£pg£[Qhui§hui§CJ\hui§hui§5CJ\hUC5CJ\hïU×5CJ\
 
-+
-
-hïU×CJ\
-
 hui§CJ\hLhLCJ\hLhL5CJ\
-
-hÇz5CJ
-
-hÇz5CJ
-
-hïU×CJ\hïU×5CJ\
-
-h@Q5CJ
-
-+
-
-5
-
-6
-
-7
-
-C
-
-6
-
-7
 
 h]GCJ\h]Gh]GCJ\$DEèé<=VW
 

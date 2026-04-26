@@ -1738,8 +1738,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1757,8 +1755,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de abril de 2016
 
 Artículo Único.- Se reforman los artículos 2, párrafo primero; 3, párrafo tercero; 11, párrafo primero; 12, fracción VIII; 14, párrafos primero, tercero y su inciso i), cuarto y sexto; 21; 23; 24; 26, párrafo segundo; 27; 29, párrafo tercero; 31, párrafo primero y su fracción III; 59, fracción II; 64, párrafo tercero; 91, párrafo segundo; 92, fracciones IX y XIII; 99, párrafo primero; 112, párrafos primero y tercero; 113, párrafo primero y 142, y se derogan el quinto párrafo del artículo 14, y el segundo párrafo del artículo 17 de la Ley de Asociaciones Público Privadas, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -1796,8 +1792,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Octavo. Se reforma la fracción IV del artículo 9 de la Ley de Asociaciones Público Privadas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1816,12 +1810,8 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-h
-
 ØCJhZ5hÓoYCJh^ÕhÓoY5CJ-h
 
 Ø5B*CJphhkQh
 
 ØCJhkQh
-
-øøøtøuøøø

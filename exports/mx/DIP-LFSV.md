@@ -1300,8 +1300,6 @@ Publicado en el Diario Oficial de la Federación el 26 de julio de 2007
 
 Artículo Único.- Se Reforman los artículos 1o.; 2o.; 3o.; 4o.; 5o.; 7o., fracciones II, III, VIII, XII, XIV, XVIII, XXI, XXII, XXIII, XXVI, XXVII, XXVIII y XXXI; 8o.; 9o.; 13; 14; 15; 19, primero y segundo párrafos, fracciones I, incisos c), d), e), f), i) y l), V, VI y VII; 20, primer párrafo, fracciones I y IV; 21; la denominación del Capítulo II De la Movilización, Importación y Exportación en materia de Sanidad Vegetal; 22, fracción II y actual segundo párrafo; 23; 24; 25; 26; 27; 28; 29; 30; 32; 33, fracción V; 34, primer párrafo y fracción III; 35, primer párrafo; 36; 38; 39; 40; 41; 42; 46; 48, primero y último párrafos; 49; 50; 51; 53; 54; 55; 57, primero y segundo párrafos; 58, primero y último párrafos y la fracción III; 59; 60; la denominación del Título Cuarto De los Incentivos, Denuncia Ciudadana, Sanciones, Recurso de Revisión y Delitos; 63; 64, tercer párrafo; 66, fracciones I, IV, VI y VIII; 67; 68, primer párrafo; 71, segundo párrafo. Se Adicionan los artículos un segundo párrafo al artículo 2o.; 7o., con las fracciones XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX y XL, pasando la actual XXXII a ser XLI; 7o.-A; 19, fracción I, con los incisos m) y n) y dos últimos párrafos; 22, con un segundo párrafo; 27-A; 29-A; 37 bis; 39 bis; 41 bis; 41 ter; 42 bis; el Título Segundo Bis "De los Sistemas de Reducción de Riesgos y de Contaminación en la Producción Primaria de Vegetales", con los artículos 47-A, 47-B, 47-C, 47-D, 47-E, 47-F, 47-G, 47-H, 47-I y 47-J; 48, con un segundo párrafo; 50 bis; 66, con las fracciones XVII, XVIII, XIX, XX y XXI, pasando la actual XVII a ser XXII y un penúltimo párrafo; 68, con la fracción III; un Capítulo V "De los Delitos al Título Cuarto, que comprende los artículos 73, 74, 75, 76 y 77. Se Derogan las fracciones XVI y XXIV del artículo 7o.; el último párrafo del artículo 20; 43; 44; 45; la fracción I y los actuales segundo y tercer párrafos del artículo 48; las fracciones VII y IX del artículo 66; todos de la Ley Federal de Sanidad Vegetal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1378,8 +1376,6 @@ Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2017
 
 Artículo Único.- Se adiciona un artículo 47-K a la Ley Federal de Sanidad Vegetal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1396,8 +1392,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Vigésimo Quinto. Se reforma el primer párrafo del artículo 17 de la Ley Federal de Sanidad Vegetal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1410,16 +1404,4 @@ Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-Æ
-
-ý
-
-ü
-
-ý
-
 QQ°QS.SÓSáSX'X(X6X£XÄXÅXÈXWY[YéYîYZ¤Z¥Z³Zø[\«\¹\^8^9^G^_§_È_É_×_"b<b_b`bnb
-
-d0d1d?d÷ñÞñ÷ñÞñ÷ñÞñ÷ñÞñ÷ñÞñÞÏ÷ñÞÏ÷ñÞÏ½Ï½Ï÷ñÞÏ½Ï½Ï½Ï©Ï½ÏñÞÏ½Ï¢Þ÷ñÞñ÷
-
-h¤=£5CJ

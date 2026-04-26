@@ -2996,8 +2996,6 @@ TRIGÉSIMO OCTAVO. El Instituto publicará en el Diario Oficial de la Federació
 
 Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la Renta de acuerdo con las siguientes bases específicas:
 
-A.
-
 FechaPorcentaje de Condonación1.	Antes del 30 de junio de 200880%2.	1º de julio al 31 de diciembre de 200860%3.	1º de enero al 30 de junio de 200940%4.	1º de julio al 31 de diciembre de 200930%
 
 B. Las Dependencias y Entidades que reconozcan antes del treinta de junio de dos mil ocho, el total de sus adeudos generados con anterioridad a la entrada en vigor de esta Ley, y opten por saldar sus adeudos mediante la formalización de un convenio de reconocimiento de adeudo y forma de pago a plazos, tendrán el beneficio de la condonación del veinte por ciento del total de los recargos generados. Estos convenios deberán someterse a la opinión de la Secretaría de Hacienda y Crédito Público previamente a su celebración.
@@ -3070,8 +3068,6 @@ Publicado en el Diario Oficial de la Federación el 27 de mayo de 2011
 
 Artículo Primero.- Se reforman los artículos 6, fracción XII, inciso c) y 134 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3085,8 +3081,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2012
 
 Artículo Segundo.- Se adicionan la Sección VII Bis De los créditos otorgados por entidades financieras con cargo a las pensiones al Capítulo VI del Título Segundo, que comprende el artículo 102 Bis, y los párrafos segundo a sexto del artículo Cuadragésimo Primero Transitorio, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -3115,8 +3109,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2015
 
 Artículo Único.- Se reforma el artículo 25 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -3147,8 +3139,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2016
 
 Artículo Único.- Se reforman los artículos 167, tercer párrafo y 179, tercer párrafo de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -3183,8 +3173,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2019
 
 Artículo Segundo.- Se adiciona un artículo 37 Bis a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3221,8 +3209,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Cuadragésimo Noveno.- Se reforma la fracción VII del artículo 6 y se deroga la fracción IV del artículo 1 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3300,8 +3286,6 @@ Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
 
 Artículo Primero. Se adiciona un párrafo tercero al artículo 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3336,8 +3320,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Segundo.- Se derogan las fracciones II y III del artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3353,8 +3335,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Único.- Se adiciona el inciso e) a la fracción III del artículo 4 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3374,8 +3354,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Único.- Se deroga el numeral 2, del inciso d), de la fracción XII, del artículo 6 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3389,8 +3367,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Único.- Se reforman los artículos 6, fracción XXIX; 176, párrafos primero, segundo, tercero, cuarto, quinto y sexto; 178; 179, párrafos primero y tercero; 180, fracciones I y II, y 185, párrafos primero, segundo, tercero y actual cuarto, que pasa a ser séptimo, y se adicionan los artículos 6, con una fracción XXXI; 20, con los párrafos segundo, tercero, cuarto y quinto; 20 Bis; 180, con una fracción III y un último párrafo; 185, con los párrafo tercero, recorriéndose los subsecuentes en su orden y los párrafos quinto, sexto y octavo y, se deroga el párrafo séptimo del artículo 176 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3414,8 +3390,6 @@ Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Único.- Se deroga la fracción V del artículo 131 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -3431,8 +3405,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Segundo.- Se adiciona un tercer párrafo al artículo 29 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3450,8 +3422,6 @@ Publicado en el Diario Oficial de la Federación el 27 de marzo de 2024
 
 Artículo Único.- Se reforma la fracción II del artículo 210 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3465,8 +3435,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de marzo de 2024
 
 Artículo Único.- Se adiciona un último párrafo al artículo 202 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -3483,8 +3451,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Único.- Se reforman los artículos 170, segundo párrafo y 210, segundo párrafo de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -3515,8 +3481,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2024
 
 TERCERO. Se reforman el primer párrafo del artículo 192 y el artículo 251; y se adicionan un último párrafo al artículo 192; un segundo, tercer, cuarto, quinto, sexto, séptimo y octavo párrafos al artículo 251, y el artículo transitorio CUADRAGÉSIMO OCTAVO, a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3570,8 +3534,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Segundo.- Se reforman y adicionan las fracciones II, con un segundo párrafo, III, con un segundo párrafo y IV del artículo 41 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3608,32 +3570,6 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-¹
-
-¾
-
-¿
-
-¸
-
-¹
-
-Ø
-
-Ù
-
-Ù
-
-Ü
-
-Ý
-
 !8Lbvª¬­¹
-
-Ñ
-
-ì
-
-ù
 
 TCJaJmHnHu* jhø}Êhø}ÊCJUaJ*hå

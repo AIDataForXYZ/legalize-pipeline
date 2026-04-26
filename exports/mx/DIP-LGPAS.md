@@ -2154,8 +2154,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 
 Artículo Único. Se reforman los artículos 4o., fracción XXI; 8o., fracción XXIX, y 29, primer párrafo, de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2178,8 +2176,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2014
 
 ARTÍCULO ÚNICO.- Se reforma la fracción IV del artículo 17; y se adiciona una fracción XL, recorriéndose la actual en su orden, al Artículo 8; una fracción XVII, recorriéndose la actual en su orden, al artículo 13; una fracción XI al Artículo 86, a la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2195,8 +2191,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de noviembre de 2014
 
 Artículo Único.- Se reforman las fracciones XIII y XIV; y se adiciona la fracción XV, del artículo 20 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2228,8 +2222,6 @@ Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2014
 
 Artículo Único. Se reforman los artículos 17, fracción VI, 82 y 84, fracción V de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
@@ -2243,8 +2235,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015
 
 Artículo Único. Se adicionan las fracciones IX, X, XI, XII, XIII y XIV, pasando las actuales IX y X a ser XV y XVI al artículo 17 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2261,8 +2251,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de junio de 2015
 
 Artículo Único. Se reforman los artículos 127, párrafos primero y segundo; 128 y 130, actual párrafo segundo, y se adicionan los artículos 127, con un tercer párrafo, recorriéndose el actual en su orden; y 130, con un segundo párrafo, recorriéndose los actuales en su orden, a la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2308,15 +2296,11 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Décimo Séptimo.- Se reforman los artículos 1o.; 6o.; 11, primer párrafo; 12, primer párrafo; 13, primer párrafo y sus fracciones I, V, VI, VII y XVII; 14, primer párrafo y las fracciones I, II, IV y VI; 15; 27, fracción I; 29, párrafo segundo, fracción VIII y 80 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
-
-..
 
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
@@ -2344,8 +2328,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2022
 
 Artículo Único.- Se reforma el párrafo segundo del artículo 32 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2362,8 +2344,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
 
 Artículo Único. Se reforma la fracción X del artículo 20 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2377,8 +2357,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
 
 Artículo Único.- Se reforman las fracciones I, II, III y IV y, el segundo párrafo del artículo 138 de la Ley General de Pesca y Acuacultura Sustentables, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2420,84 +2398,10 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-01ª®¸¹º»¼*	K	ß	êÛÇµ£t`UJ<6/6
-
-ih
-
 hH6CJh:Xxh°`äCJ^Jh:Xxh°`ä5CJ^J
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-[q{|}§¶Ï&'
-
-Ê
-
-à
-
-hH5CJ
-
-÷
-
-ø
-
-ê
-
-ö
-
-÷
-
-ø
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
-
-Õ
-
-Ö
-
-é
-
-Ö
-
-66666666Ó6Ô6÷6ø6
-
-hH5CJ
-
-hH5CJ
-
-hH5CJ
 
 hH5CJhH5CJ\
 
-i `gd
-
 iCJ h
 
-ih
-
 iCJaJh¶-ºh¶-ºCJaJh
-
-ih
-
-i/h8põh
-
-i$a$gd

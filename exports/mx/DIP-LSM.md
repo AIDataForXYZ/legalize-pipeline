@@ -372,8 +372,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 
 Publicado en el Diario Oficial de la Federación el 31 de agosto de 1942
 
-D E C R E T O :
-
 ARTICULO 1º.- Se pone en vigor, en su totalidad, la LEY DEL SERVICIO MILITAR de diecinueve de agosto de mil novecientos cuarenta.
 
 ARTICULO 2º.- Se convoca a los mexicanos en edad militar a inscribirse en la forma fijada en el artículo quinto transitorio de la misma ley.
@@ -392,8 +390,6 @@ Publicado en el Diario Oficial de la Federación el 25 de noviembre de 1942
 
 UNICO.- Se reforma el artículo 1º de la Ley del Servicio Militar, de 19 de agosto de 1940, en los siguientes términos:
 
-..........
-
 TRANSITORIO.- Este Decreto surtirá efectos a partir de su publicación en el Diario Oficial.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, el día veintitrés de noviembre de mil novecientos cuarenta y dos.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de la Defensa Nacional, Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Relaciones Exteriores, Ezequiel Padilla.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
@@ -403,8 +399,6 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de agosto de 1944
 
 ARTICULO UNICO.- Se reforma el artículo 24 en su fracción II de la Ley del Servicio Militar, en los siguientes términos:
-
-..........
 
 ##### TRANSITORIO
 
@@ -417,8 +411,6 @@ Y en cumplimiento a lo dispuesto por la fracción I del artículo 89 de la Const
 Publicado en el Diario Oficial de la Federación el 25 de octubre de 1944
 
 UNICO.- Se reforma el artículo 63 de la Ley del Servicio Militar, en los siguientes términos:
-
-..........
 
 TRANSITORIOS:
 
@@ -433,8 +425,6 @@ En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
-
-...........
 
 ##### TRANSITORIO
 
@@ -463,8 +453,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2021
 
 Artículo Único. Se deroga el artículo 60 de la Ley del Servicio Militar, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -498,8 +486,6 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 2022
 
 Artículo Único.- Se reforma el artículo 4o.; y se derogan el párrafo quinto del artículo 5o., el artículo 6o.; el párrafo segundo de la fracción II y la fracción III del artículo 24 de la Ley del Servicio Militar, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -508,37 +494,9 @@ Ciudad de México, a 26 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-´
-
-¾
-
-¿
-
-À
-
-Î
-
-¿
-
-À
-
-h+
-
-h+
-
-$a$gd+
-
 ×õéõáÛÉµ«£«viZH9ZH9hYAfh+
 
-h+
-
 CJ^JaJh+
-
-CJ^Jh+
-
-h+
-
-h+
 
 ^Jh¢:CJ^JhP¡h¢:5CJ^JhP¡h¢:CJ^J
 

@@ -114,8 +114,6 @@ Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2022
 
 Artículo Único.- Se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.

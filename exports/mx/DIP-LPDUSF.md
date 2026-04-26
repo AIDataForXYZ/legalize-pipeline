@@ -1616,8 +1616,6 @@ Publicado en el Diario Oficial de la Federación el 5 de enero de 2000
 
 ARTÍCULO PRIMERO.- Se reforman y adicionan las siguientes disposiciones de la Ley de Protección y Defensa al Usuario de Servicios Financieros: Se REFORMAN los artículos 2o. fracciones I, II, IV y VII; 4o.; 5o.; 7o.; 11 fracciones II, III, IV, VI, XVIII, XIX, XX y XXIV; 22 fracciones VI, X y XIX; 26 fracción V; 28; 29; 30; 36; 38; 42; 46; 47; 49 fracción III; 54; 56; 61; 63 fracciones IV y V; 65; 68 primer párrafo y fracciones III, VI, VII y X; 69; 70; 71; 72; 73; 74; 75 primer párrafo y fracciones I, II, III y IV; 77; 80; 81; 83; 84; 93 primer párrafo; 94 primer párrafo y fracciones I, II, III, IV, V, VI, VII, VIII y IX; 96 y 97; se ADICIONAN los artículos 7 segundo párrafo; 47 segundo párrafo; 50 Bis; 67 segundo párrafo; 69 segundo párrafo; 72 Bis; 72 Ter; 73 segundo párrafo; 77 segundo párrafo; 81 segundo y tercer párrafos; y 85 segundo párrafo, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1640,8 +1638,6 @@ Publicado en el Diario Oficial de la Federación el 12 de mayo de 2005
 
 ARTÍCULO ÚNICO. Se reforman los artículos 2o., fracción IV, primer párrafo; 11, fracción IV, V y XI; 63, fracción V; 65; 66; 67 primer párrafo; 68 fracciones I, III, VII primer y segundo párrafos, VIII y X primer párrafo; 81, primer párrafo; 85, segundo párrafo; 94, fracción III; 99, primer párrafo y 105. Se adicionan los artículos 11, con una fracción XXVI, pasando la vigente a ser XXVII, 63, con un segundo párrafo, pasando el segundo a ser tercero; 67, con un segundo párrafo, pasando el segundo a ser tercero; 68 fracciones I, con un segundo párrafo, VII con un cuarto, quinto, sexto y séptimo párrafos y X con un tercer párrafo. Se deroga el segundo párrafo de la fracción IV del artículo 2o., de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1658,8 +1654,6 @@ Publicado en el Diario Oficial de la Federación el 7 de julio de 2005
 
 UNICO.- Se adiciona un párrafo al artículo 99 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1674,8 +1668,6 @@ Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Único.- Se reforma el primer párrafo del artículo 99 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-.........
-
 ARTÍCULO TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1689,8 +1681,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 ARTÍCULO TERCERO. Se REFORMAN los artículos 8o., primer párrafo; 11, fracciones XVI y XXVII; 53; 68, fracciones I y V, y 94, fracciones IV y VI; se ADICIONAN un segundo párrafo al artículo 5o.; los párrafos segundo, tercero, cuarto, quinto y sexto al artículo 8o.; una fracción XXVIII al artículo 11; 59 Bis; 59 Bis 1; un segundo párrafo a la fracción III del artículo 68; los incisos a) y b) de la fracción VI y las fracciones X, XI, XII, XIII y el penúltimo párrafo del artículo 94; y se DEROGA el párrafo segundo de la fracción I del artículo 68 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1728,8 +1718,6 @@ Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009
 
 ARTÍCULO SEGUNDO. Se adiciona un segundo y tercer párrafo al artículo 52 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1745,8 +1733,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2009
 
 ARTÍCULO TERCERO. Se reforman los artículos 2o. fracción IV; 5o.; 8o. quinto párrafo; 11 fracciones III, IV, V, VI y XXVI; 24; 26, fracciones I y XVIII; 31; 67, segundo párrafo; 68, fracciones I, IV, V, y VII y X; 94, fracción II, fracción III inciso b), fracciones IV y XII; 99; 100 y 101, se adicionan los artículos 11, fracciones XXVIII a la XLI pasando la actual fracción XXVIII a ser fracción XLII; 22, fracción XXV; 22 Bis; 26, fracción XIX, pasando la actual fracción XIX a ser fracción XX; 68, fracción I Bis, fracción VI segundo párrafo y una fracción XI; 68 Bis; 68 Bis 1; el TÍTULO SÉPTIMO, "DE LA SUPERVISIÓN" con los artículos 92 Bis y 92 Bis 1, pasando el actual TÍTULO SÉPTIMO denominado "DE LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO" a ser TÍTULO OCTAVO; 94, fracción IV Bis, se deroga los artículos 94 fracción X; 102, 103 y 104, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1778,8 +1764,6 @@ Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011
 
 ARTÍCULO SÉPTIMO.- Se adiciona una nueva fracción V Bis al artículo 11; se adiciona un segundo párrafo al artículo 91 y se reforma el artículo 92 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
@@ -1802,8 +1786,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO TERCERO. Se reforman los artículos 39 y 42 de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1819,8 +1801,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 2o., fracción IV; 7o.; 11, fracciones IV, V Bis, IX, XV, XVIII, XIX y XXIX; 12; 25; 47, primer párrafo; 49, primer párrafo; 50; 50 Bis, fracciones II, IV y V; 59 Bis, primer párrafo; 65, primer párrafo; 68, fracciones IV, VII, primer párrafo, X primero, segundo y último párrafos actuales; 68 Bis; 69, primer párrafo; 72 Bis; 73, primer párrafo; 74; 77; 80, primer párrafo, y 94, fracción II y VIII, se ADICIONAN los artículos 5o., con un tercer párrafo; 8o. Bis, 11, con las fracciones IV Bis, XLII y XLIII, recorriéndose la actual fracción XLII para quedar como fracción XLIV; 50 Bis, con un último párrafo; 56 Bis; 68, fracciones VII con un segundo y tercer párrafos recorriéndose los párrafos segundo, tercero, cuarto y quinto para quedar como párrafos cuarto, quinto, sexto y séptimo respectivamente, y X, con un segundo y cuarto párrafos recorriéndose el actual segundo y tercero para quedar como tercero y último párrafos respectivamente; el Capítulo Tercero denominado del Sistema Arbitral en Materia Financiera, del Registro de Ofertas Públicas Arbitral y del Comité Arbitral Especializado que comprende los artículos 84 Bis; 84 Ter; 84 Quáter, y 84 Quinquies; 92 Bis 2 a 92 Bis 5, 94, con las fracciones XIV, XV, XVI y XVII, 96; con un segundo párrafo, 97, con un segundo párrafo, y 97 Bis, y se DEROGAN el segundo párrafo de la fracción III y último párrafo del artículo 24, 72 Ter y segundo párrafo del artículo 77; de la Ley de Protección y Defensa al Usuario de Servicios Financieros, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -1841,8 +1821,6 @@ Además de lo estipulado por el artículo 8o. Bis de la Ley de Protección y Def
 VI.	La Comisión Nacional Bancaria y de Valores, dentro de los cuarenta y cinco días naturales siguientes a partir de la entrada en vigor de este Decreto, establecerá un programa de identificación, revisión e inspección de las Redes de Medios de Disposición actualmente en operación.
 
 VIII.	El Banco de México emitirá las disposiciones de carácter general a que se refiere el artículo 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto.
-
-.
 
 ##### TRANSITORIO
 
@@ -1909,52 +1887,6 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-:
-
-;
-
->
-
-±
-
-Ó
-
-Ô
-
-Ø
-
-:
-
-;
-
-±
-
-Ó
-
-Ô
-
-:Å;ç;<<
-
-K
-
-L
-
-Q
-
-K
-
-L
-
-"
-
-t
-
-Á
-
-â
-
-ö
 
 'AUoãö!7CD·¸¹ÿ µ¶¾1\u ´ÉÝõ
 

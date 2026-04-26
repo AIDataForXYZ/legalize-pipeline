@@ -1880,8 +1880,6 @@ Publicado en el Diario Oficial de la Federación el 2 de febrero de 2007
 
 ARTÍCULO ÚNICO.- Se adiciona un inciso j) al párrafo primero del artículo 21 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1895,8 +1893,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
 ARTÍCULO ÚNICO. Se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con un tercer párrafo, 43, con un segundo párrafo, y 44, con una fracción VIII, recorriéndose las subsecuentes, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1912,8 +1908,6 @@ Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
 ARTÍCULO ÚNICO. Se reforma el primer párrafo y se adiciona un tercer párrafo al artículo 84 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1927,8 +1921,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
 
 Artículo Único. Se reforma la fracción I del artículo 5o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1944,8 +1936,6 @@ Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
 
 Artículo Único. Se adiciona un artículo 24 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1959,8 +1949,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
 
 Artículo Único. Se reforman el primer y segundo párrafos del artículo 33 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1976,8 +1964,6 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2011
 
 Artículo Único.- Se reforma el artículo 20; y se adicionan una fracción XVI al artículo 3o, recorriéndose en su orden las demás fracciones, y una fracción XVIII al artículo 15, recorriéndose en su orden las demás fracciones, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1991,8 +1977,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Único.- Se adiciona un artículo 115 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2012,8 +1996,6 @@ Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011
 
 Artículo Único.- Se reforma el artículo 190 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2027,8 +2009,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable y se recorren los subsecuentes, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2058,8 +2038,6 @@ Publicado en el Diario Oficial de la Federación el 20 de junio de 2018
 
 Artículo Único.- Se reforman el inciso h) del párrafo primero del artículo 21 y la fracción I del artículo 48 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2073,8 +2051,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 Artículo Único. Se reforma el segundo párrafo del artículo 116 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2090,8 +2066,6 @@ Publicado en el Diario Oficial de la Federación el 7 de enero de 2021
 
 Artículo Único.- Se reforma la fracción I del artículo 3o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2106,8 +2080,6 @@ Publicado en el Diario Oficial de la Federación el 3 de junio de 2021
 
 Artículo Único. Se reforma el artículo 182 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2121,8 +2093,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Vigésimo Sexto.- Se reforman los artículos 15, fracción XII; 52, fracción IV; 56, fracción V; 154, primer párrafo; 175, primer párrafo y 176, de la Ley de Desarrollo Rural Sustentable, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2147,65 +2117,3 @@ Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-d
-
-V
-
-x
-
-y
-
-e
-
-f
-
-w
-
-x
-
-y
-
-¨
-
-¹
-
-Í
-
-ã
-
-÷
-
-÷$ ` a$gd²
-
-÷$a$gd²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷h²
-
-÷<00P&Pw°Ð/ °à=!°"°#$%°°Å°ÅÐDp

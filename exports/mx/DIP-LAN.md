@@ -4160,8 +4160,6 @@ CONTIENE EL TEXTO COMPLETO DE LA LEY DE AGUAS NACIONALES, INCLUYE AQUELLAS DISPO
 
 ARTÍCULO ÚNICO: Se reforman los Artículos 2; 3; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42; 43; 44; 45; 46; 47; 48; 49; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 72; 73; 74; 75; 76; 77; 78; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 102; 103; 104; 105; 106; 107; 109; 110; 111; 112; 114; 115; 116; 117; 118; 119; 120; 121; 122; 123 y 124; se adicionan los Artículos 7 BIS; 9 BIS; 9 BIS 1; 11 BIS; 11 BIS 1; 12 BIS; 12 BIS 1; 12 BIS 2; 12 BIS 3; 12 BIS 4; 12 BIS 5; 12 BIS 6; 13 BIS; 13 BIS 1; 13 BIS 2; 13 BIS 3; 13 BIS 4; 14 BIS; 14 BIS 1; 14 BIS 2; 14 BIS 3; 14 BIS 4; 14 BIS 5; 14 BIS 6; 15 BIS; 19 BIS; 21 BIS; 23 BIS; 29 BIS; 29 BIS 1; 29 BIS 2; 29 BIS 3; 29 BIS 4; 29 BIS 5; 29 BIS 6; 30 BIS; 37 BIS; 39 BIS; 47 BIS; 52 BIS; 56 BIS; 69 BIS; 84 BIS; 84 BIS 1; 84 BIS 2; 86 BIS; 86 BIS 1; 86 BIS 2; 88 BIS; 88 BIS 1; 91 BIS; 91 BIS 1; 93 BIS; 94 BIS; 96 BIS; 96 BIS 1; 96 BIS 2; 111 BIS; 112 BIS; 113 BIS; 113 BIS 1; 113 BIS 2; 118 BIS; 123 BIS; 123 BIS 1; y 124 BIS; y se derogan los Artículos 26 y 27, así como los trece Artículos Transitorios de la Ley de Aguas Nacionales publicada en el Diario Oficial de la Federación el 1 de diciembre de 1992; se reforman los nombres de los siguientes Títulos para quedar como sigue: Tercero Política y Programación Hídricas; Cuarto Derechos de Explotación, Uso o Aprovechamiento de Aguas Nacionales; Séptimo Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño Ambiental; se adiciona el Título Octavo BIS Sistema Financiero del Agua con Capítulo Único; se reforman los nombres de los siguientes Capítulos para quedar como sigue: en el Título Segundo los Capítulos V Organización y Participación de los Usuarios y de la Sociedad; en el Título Décimo el Capítulo II Recurso de Revisión y Denuncia Popular; se adicionan: en el Título Segundo Capítulo II BIS Secretaría del Medio Ambiente y Recursos Naturales; Capítulo III BIS Organismos de Cuenca; Capítulo V BIS Consejo Consultivo del Agua; Capítulo V BIS 1 Servicio Meteorológico Nacional; Capítulo V BIS 2 Instituto Mexicano de Tecnología del Agua; Capítulo V BIS 3 Procuraduría Federal de Protección al Ambiente; Título Cuarto Capítulo I BIS Conocimiento sobre las Aguas Nacionales; Capítulo III BIS Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación o Permiso Provisional para el Uso del Agua y de Permiso de Descarga; y se adicionan en el mismo Capítulo III BIS las Secciones: Primera Suspensión; Segunda Extinción; Tercera Revocación; Cuarta Restricciones de Uso de Agua; Quinta Servidumbres; Título Sexto Capítulo V BIS Cultura del Agua; Título Séptimo Capítulo I Prevención y Control de la Contaminación del Agua; Capítulo II Responsabilidad por el Daño Ambiental; en el Capítulo Único del Título Tercero se adicionan las secciones Primera: Política Hídrica Nacional y Sección Segunda: Planificación y Programación Hídrica; en el Título Sexto Capítulo II Uso Agrícola, se renombra la Sección Quinta para quedar como Temporal Tecnificado; asimismo, se elimina el Capítulo IV del Título Octavo; para quedar el texto íntegro de la Ley de Aguas Nacionales en los siguientes términos:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4268,8 +4266,6 @@ Publicado en el Diario Oficial de la Federación el 18 de abril de 2008
 
 Artículo Único.- Se adiciona un párrafo segundo al Artículo Décimo Cuarto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación, el 29 de abril de 2004, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4283,8 +4279,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de junio de 2011
 
 ÚNICO.- Se reforman los párrafos primero y segundo del artículo 18 y se adiciona una fracción XI al artículo 7 BIS y un cuarto párrafo al artículo 18 de la Ley de Aguas Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -4300,8 +4294,6 @@ Publicado en el Diario Oficial de la Federación el 8 de junio de 2012
 
 Artículo Único.- Se reforman el inciso a) de la fracción XL del artículo 3; la fracción XLVIII del artículo 9; la fracción IX del artículo 12; la fracción V del artículo 12 Bis 2; la fracción XIII del artículo 12 Bis 6; la fracción II el artículo 14 Bis 6; el primer párrafo del artículo 29 Bis 2; el primer párrafo del artículo 29 Bis 4; el segundo párrafo del artículo 33; el segundo, tercer y cuarto párrafos del artículo 113 Bis; las fracciones VIII, XIX, XXIII y XXIV del artículo 119; las fracciones I, II y III del artículo 120, primer y cuarto párrafo de la fracción II del artículo 122; se modifican las denominaciones al Título Décimo Medidas de Apremio, Seguridad, Infracciones, Sanciones y Recursos; el Capítulo I, Medidas de Apremio y Seguridad, y consecuentemente, se recorren los demás Capítulos; se adicionan los artículos 118 Bis 1, 118 Bis 2, 118 Bis 3 y, se deroga la fracción III del artículo 121 de la Ley de Aguas Nacionales, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4315,8 +4307,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ARTÍCULO SEXTO.- Se reforman la fracción III y IV del artículo 14 BIS 4; el artículo 96 BIS y el artículo 96 BIS 1, de la Ley de Aguas Nacionales, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4352,8 +4342,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2016
 
 Artículo Único.- Se reforma la fracción LVII del artículo 3 y se adiciona una fracción VII Bis al artículo 3; y se reforman los numerales del Artículo Décimo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación el 29 de abril de 2004, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4384,8 +4372,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Décimo Noveno. Se reforman los párrafos primero y segundo del artículo 10 de la Ley de Aguas Nacionales, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4403,8 +4389,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Segundo. Se reforman los artículos 19; 24, párrafo primero; 29 BIS 4, párrafo primero, fracciones XVII y XVIII; 119, fracción XXII; se adicionan las fracciones III BIS y LVII BIS al párrafo primero del artículo 3; los párrafos segundo y tercero al artículo 4; las fracciones XIX, XX y XXI al párrafo primero del artículo 29 BIS 4; un párrafo segundo al artículo 37; el Capítulo III BIS denominado Uso Industrial en la Minería, con sus artículos 81 BIS, 81 BIS 1, 81 BIS 2, 81 BIS 3 y 81 BIS 4; una fracción V BIS al párrafo primero del artículo 88 BIS, la fracción VI al párrafo primero del artículo 92, y un párrafo cuarto al artículo 118, de la Ley de Aguas Nacionales, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4482,142 +4466,36 @@ Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-hO~ã5CJ
-
-"
-
-î
-
-h>O5CJ
-
-bh
+bCJh
 
 bCJh
 
-bh
-
-b5CJ
-
 bCJh
-
-bh
-
-bCJh
-
-bh
-
-bh
-
-bh
 
 bCJ1h
 
-bh
-
 bCJh
-
-bh
 
 bCJh
 
 bhO~ãCJ7h»Ãh
 
-bh
-
 bCJh
-
-bh
-
-Æ>a$gd¡gâ$ ` a$gd¡gâ
-
-hO~ã5CJ
-
-Æ>a$gdÃev$ ` a$gdÃev
-
-hO~ã5CJ
-
-hO~ã5CJ
-
-Æ>a$gd\[$ ` a$gd\[$a$$
-
-hO~ã5CJ
-
-Æ>a$gdÃµ$ ` a$gdÃµ
-
-hO~ã5CJ
-
-Æ>a$gdùz$ ` a$gdùz$a$gdæ.$a$gdæ.$
-
-Æ>a$gd¼z¯$ ` a$gd¼z¯
-
-hO~ã5CJ
-
-hO~ã5CJ
-
-Æ>a$gd`$ ` a$gd`
 
 ```´`µ`lama
 
 c.cQcRce6e7eGeYeóóîçÛÏÛÛÇçççÛÏîçÛîç¹¹
 
-```©`³`´`ma
-
 c#c-c.cQcRc^ce)e+e5e6e7eYefegÀgÁgÍgHhJhªhëÏ¶Ï¤ëÏ¶ÏëÏ¶Ïuëb¶[TTT
 
-hO~ã5CJ
-
-hO~ã5CJ
-
-h~Z
-
-h~Z
-
-hO~ã5CJ
-
-$ ` a$gd~Z
-
-hO~ã5CJ
-
-CJ7h»Ãh~Z
-
 Æ>a$gdíÊ$ ` a$gdíÊ
-
-ô@ôbôcôpô°ô³ô´ôöö
 
 öfökölö9÷=÷û÷ëÏ¶Ï¤ëÏ¶Ï~wwwmdh }h }CJh }h }5CJ
 
 hCF5CJ
-
-G
-
-H
-
-T
-
-G
-
-H
-
-Æ>a$gdÎ:T$ ` a$gdÎ:T$a$$
 
 hO~ã5CJ{f|fêfëfRgSg|hhhéhi
 
 rrrítDuRuBvDvâwæw³xîÙÆ³ÆÆwÙ[[ÆÆT
 
 hO~ã5CJ%HyIyz	z{ª{«{]|^|ÿ}B~C~Â~Ã~_`
-
-hO~ã5CJ
-
-hO~ãCJ\
-
-²
-
-¼
-
-½
-
-½
-
-¾
-
-l¯øøææÔÌææ¼ææø°¤°°¤$a$$

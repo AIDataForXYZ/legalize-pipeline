@@ -1214,8 +1214,6 @@ Publicado en el Diario Oficial de la Federación el 8 de noviembre de 1996
 
 ARTÍCULO ÚNICO.- Se reforman y adicionan los artículos 25, 37, 39, 42, 48, 49, 63, 68, 70, 115, 116, 126, 135, 138, 139 bis y 140; se adicionan el Capítulo IX, denominado Del Procedimiento Migratorio, con los artículos 145, 146, 147, 148, 149 y 150; y el Capítulo X, denominado Del Procedimiento de Verificación y Vigilancia, con los artículos 151, 152, 153, 154, 155, 156 y 157; y se deroga el artículo 142 de la Ley General de Población, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1229,8 +1227,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
 
 ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 16, 17 Y 151 PÁRRAFO PRIMERO DE LA LEY GENERAL DE POBLACIÓN, PARA QUEDAR COMO SIGUE:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1264,8 +1260,6 @@ Publicado en el Diario Oficial de la Federación el 21 de julio de 2008
 
 Artículo Único.- Se reforman los artículos 118, 125 y 127; y se derogan los artículos 119, 120, 121, 122, 123 y 124, de la Ley General de Población, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1279,8 +1273,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de abril de 2009
 
 Artículo Único.- Se reforman los párrafos primero y segundo y se adiciona un párrafo tercero; se recorre el actual párrafo tercero, para pasar a ser párrafo cuarto, del artículo 6o. de la Ley General de Población, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1296,8 +1288,6 @@ Publicado en el Diario Oficial de la Federación el 2 de julio de 2010
 
 Artículo Único.- Se reforman los artículos 42, fracción III; 138, párrafos primero y cuarto y 143 de la Ley General de Población, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1311,8 +1301,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2010
 
 Artículo Único.- Se adicionan un segundo y un tercer párrafo al artículo 67 y una fracción VI al artículo 113 de la Ley General de Población, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1329,8 +1317,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2011
 
 Artículo Segundo.- Se reforma el inciso f) del artículo 118; se adiciona un segundo párrafo al artículo 52, y se derogan el artículo 35 y la fracción VI del artículo 42 de la Ley General de Población, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1367,8 +1353,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO NOVENO. Se reforma el artículo 10, primer párrafo de la Ley General de Población, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1416,8 +1400,6 @@ Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Tercero.- Se reforma la fracción II del artículo 93 de la Ley General de Población, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1440,8 +1422,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Segundo.- Se adicionan los artículos 91, párrafo segundo; 91 Bis; 91 Ter; 91 Quater; 91 Quinquies; 91 Sexies; y 114 Bis, de la Ley General de Población, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. La Secretaría de Gobernación, con el apoyo técnico de la Agencia de Transformación Digital y Telecomunicaciones, desarrollará la Plataforma Única de Identidad en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto.
@@ -1461,19 +1441,3 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Q
-
-é
-
-î
-
-M
-
-è
-
-é
-
-]]]]']è]ë]+^.^ë^__
-
-$&dPÆÿa$

@@ -540,8 +540,6 @@ Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Artículo Unico.- Se reforma el último párrafo de la fracción III, del artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Artículo Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -556,8 +554,6 @@ Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 
 Artículo Único. Se adiciona un párrafo tercero al artículo 2 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -571,8 +567,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se adiciona la fracción VI al artículo 13 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -620,8 +614,6 @@ Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017
 
 Artículo Único.- Se reforman los artículos 2, párrafo primero; 3, fracciones V, VII, XII y XVI; 4, fracción I, inciso b); 8; 10, fracciones I, II, IX y último párrafo; 12, fracciones III y IV; 13, párrafo primero y fracción II; 21; 23; 24, párrafos primero, tercero y cuarto; 25, párrafo segundo; y 26, fracción III, de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -638,8 +630,6 @@ Publicado en el Diario Oficial de la Federación el 13 de agosto de 2019
 
 Artículo Único.- Se reforman los artículos 18, primer párrafo, fracciones V y XIV, y párrafo cuarto; 19; 24, tercer párrafo y 25, primer párrafo y se deroga la fracción XVIII del artículo 3, y la fracción X del artículo 18 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -655,8 +645,6 @@ Ciudad de México, a 20 de junio de 2019.- Dip. Porfirio Muñoz Ledo, Presidente
 Publicado en el Diario Oficial de la Federación el 20 de octubre de 2023
 
 Artículo Único.- Se adiciona una fracción X al artículo 10 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, para quedar como sigue:
-
-..
 
 ##### Transitorio
 

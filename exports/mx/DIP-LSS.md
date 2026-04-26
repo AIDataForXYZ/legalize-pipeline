@@ -4114,8 +4114,6 @@ Publicado en el Diario Oficial de la Federación el 21 de noviembre de 1996
 
 ARTÍCULO PRIMERO.- Se reforma el párrafo primero del artículo primero transitorio de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día 21 de diciembre de 1995, para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO.- Las fechas, plazos, periodos y bimestres previstos en los artículos transitorios, tanto de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día 21 de diciembre de 1995, como del Decreto de Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el día 23 de mayo de 1996, relacionados con la entrada en vigor de la citada Ley del Seguro Social, se extenderán por un periodo de seis meses para guardar congruencia con la nueva entrada en vigor de dicha Ley.
 
 La Secretaría de Hacienda y Crédito Público y el Instituto Mexicano del Seguro Social, en sus respectivas competencias, publicarán en el Diario Oficial de la Federación el resultado de los cómputos a que se refiere el párrafo anterior.
@@ -4133,8 +4131,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -4157,8 +4153,6 @@ B.	Se adicionan los artículos 5 A; 15 A; 15 B; 28 A; 39 A; 39 B; 39 C; 39 D; 40
 C.	Se derogan: el párrafo segundo del artículo 241 y las fracciones XVIII y XIX del artículo 264.
 
 Para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4262,8 +4256,6 @@ Publicado en el Diario Oficial de la Federación el 5 de enero de 2004
 
 PRIMERO. Se reforma el artículo Décimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue:
 
-..........
-
 ARTÍCULOS TRANSITORIOS ARTÍCULO DÉCIMO CUARTO TRANSITORIO
 
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4278,8 +4270,6 @@ Cuarto. A los beneficiados por los incrementos a que se refieren los incisos b),
 
 SEGUNDO. Se reforma el artículo Vigésimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue:
 
-..........
-
 ARTÍCULOS TRANSITORIOS ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2004.
@@ -4293,8 +4283,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2004
 
 ARTÍCULO ÚNICO: Se reforman el cuarto párrafo del artículo 277 D, y los párrafos primero y segundo del artículo 286 K, y se adiciona un tercer párrafo al artículo 286 K, todos de la Ley del Seguro Social, en los términos siguientes:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4311,8 +4299,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2005
 
 Artículo Único. Se adicionan una fracción XIX al artículo 5-A, y los artículos 237-A, 237-B, 237-C y 237-D a la Ley del Seguro Social, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4332,8 +4318,6 @@ Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2005
 
 ARTÍCULO ÚNICO.- Se reforma el Artículo 299 de la Ley del Seguro Social, para quedar como sigue:
 
-..........
-
 TRANSITORIO.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4347,8 +4331,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2006
 
 Único. Se reforman las fracciones II y III del artículo 165, de la Ley del Seguro Social, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -4364,8 +4346,6 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 2009
 
 Artículo Único.- Se reforman la fracción XVIII, del artículo 5 A; el primer párrafo del artículo 27; los párrafos primero, segundo y tercero del artículo 272; el cuarto párrafo del artículo 277 A; el primer párrafo del artículo 277 E y el artículo 277 F, todos de la Ley del Seguro Social, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4379,8 +4359,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de mayo de 2009
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 139, segundo párrafo, 165, primer párrafo, 168, fracción IV y último párrafo, 191, fracción II, y 198 de la Ley del Seguro Social, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4406,8 +4384,6 @@ Publicado en el Diario Oficial de la Federación el 18 de junio de 2009
 
 Artículo Único.- Se reforma el primer párrafo del artículo 44 de la Ley del Seguro Social, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4421,8 +4397,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de julio de 2009
 
 Artículo Único. Se REFORMAN la fracción VIII del artículo 5-A, las fracciones XX y XXI, del artículo 304 A y, la fracción IV del artículo 304-B; se ADICIONAN los párrafos tercero, cuarto, quinto, sexto, séptimo y octavo, con lo que el actual tercero pasa a ser noveno, del artículo 15-A; el párrafo segundo del artículo 75, y la fracción XXII del artículo 304-A, de la Ley del Seguro Social, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4446,8 +4420,6 @@ Publicado en el Diario Oficial de la Federación el 27 de mayo de 2011
 
 Artículo Segundo.- Se reforman los artículos 64, fracción VI y 84 fracción VI de la Ley del Seguro Social, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4461,8 +4433,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO TRIGÉSIMO. Se reforman los artículos 22, fracción III; y 265 de la Ley del Seguro Social, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4479,8 +4449,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2012
 
 Artículo Primero.- Se reforma el artículo 118 y se adiciona un artículo Vigésimo Noveno Transitorio a la Ley del Seguro Social, publicada el 12 de diciembre de 1995, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -4509,8 +4477,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
 
 Artículo Tercero.- Se reforma la fracción II y se adiciona una fracción III, recorriéndose la actual en su orden, al artículo 94 de la Ley del Seguro Social, para quedar como sigue.
-
-..
 
 ##### TRANSITORIOS
 
@@ -4722,8 +4688,6 @@ Publicado en el Diario Oficial de la Federación el 2 de julio de 2019
 
 Artículo Segundo.- Se adiciona una fracción IV al artículo 12; se deroga la fracción II, del artículo 13, de la Ley del Seguro Social.
 
-..
-
 ##### Transitorios
 
 Primero.- Publíquese en el Diario Oficial de la Federación.
@@ -4743,8 +4707,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2019
 
 Artículo Único.- Se adiciona un artículo 137 Bis a la Ley del Seguro Social, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -4830,8 +4792,6 @@ Publicado en el Diario Oficial de la Federación el 23 de abril de 2021
 
 Artículo Segundo. Se reforman los artículos 15 A; 304 A, fracción XXII, y 304 B, fracción IV; se adiciona una fracción V al artículo 304 B, y se deroga el segundo párrafo del artículo 75, de la Ley del Seguro Social, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
@@ -4898,8 +4858,6 @@ Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 Artículo Único.- Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4929,8 +4887,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de noviembre de 2022
 
 Artículo Único. Se reforman la fracción IV del artículo 5 A; la fracción II del artículo 227 y la fracción I del artículo 228; se adicionan un Capítulo XI al Título Segundo y los artículos 239-A; 239-B; 239-C; 239-D; 239-E; 239-F; 239-G y 239-H; y se derogan el inciso b) de la fracción II del artículo 222, y la fracción II del artículo 231 de la Ley del Seguro Social, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4970,8 +4926,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Único.- Se adicionan un tercer párrafo al artículo 101 y un artículo 102 Bis a la Ley del Seguro Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4985,8 +4939,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Primero.- Se derogan las fracciones II y III del artículo 132 de la Ley del Seguro Social, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5004,8 +4956,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Único.- Se reforma la fracción II del artículo 210 de la Ley del Seguro Social, para quedar  como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5022,8 +4972,6 @@ Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Primero.- Se adiciona un tercer párrafo a la fracción XIV del artículo 251 de la Ley del Seguro Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el primero de enero del año posterior a su publicación en el Diario Oficial de la Federación.
@@ -5037,8 +4985,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 
 Artículo Primero.- Se reforma el primer párrafo y se adiciona un segundo párrafo al artículo 303 de la Ley del Seguro Social, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5076,8 +5022,6 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 Artículo Segundo.- Se reforman la fracción XIX del artículo 5 A; la fracción IX del artículo 15; el artículo 237; los párrafos primero y segundo del artículo 237-A; el segundo y tercer párrafos del artículo 237-D, y se adiciona el artículo 237-E de la Ley del Seguro Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5091,8 +5035,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de abril de 2024
 
 Artículo Primero.- Se adiciona una fracción XXXVII, recorriéndose la actual para pasar a ser fracción XXXVIII, del artículo 251 de la Ley del Seguro Social, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5109,8 +5051,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2024
 
 PRIMERO. Se reforman los párrafos segundo y actual tercero del artículo 302; y se adicionan un tercer, cuarto, quinto sexto, séptimo, octavo y noveno párrafos, de la Ley del Seguro Social, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -5164,8 +5104,6 @@ Publicado en el Diario Oficial de la Federación el 21 de mayo de 2024
 
 Artículo Único.- Se reforma la actual fracción VI, que pasa a ser fracción VII y, se adiciona una fracción VI, al artículo 253 de la Ley del Seguro Social, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5195,8 +5133,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Único.- Se reforman los artículos 286 L, párrafos primero y tercero; 286 M, primer párrafo; se adicionan las fracciones XXIII y XXIV al artículo 5 A y los párrafos segundo, tercero, cuarto y quinto al artículo 286 M y, se deroga el segundo párrafo del artículo 286 L de la Ley del Seguro Social, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5240,80 +5176,10 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Û
-
-Ü
-
-ë
-
-¸
-
-Á
-
-Ë
-
-Ð
-
-Ú
-
-Û
-
-Ü
-
 hd.ÓCJ\
-
-È
-
-Ë
-
-Ì
-
-Í
 
 01Mpq~x¨Ç	ê	ë	ø	yª
 
-­
-
-²
-
-:ºÝÞë[~INÄÊ
-
 01>Mpqxa	b	Ç	ê	ë	EFy
 
-¬
-
-­
-
-ÆC"	$
-
-{L{M{{{¦{
-
-ÆC"a$
-
-ÆC"a$
-
-hd.Ó5CJ
-
 ÆC"a$gdÚù
-
-ÆC"a$gd?rg
-
-ÆC"a$gd¡i5
-
-^
-
-ÆC"a$gdÔu
-
-ÆC"a$gd]
-
-µ
-
-Ð
-
-Ý
-
-ÿ
-
-&dPÆÿgd	dp$ ` a$gdæ$a$gdæ	$@&a$gdæ
-
-&dPÆÿgdÂ+¦$a$gdµ{ì$ ` a$gdµ{ì$a$gd§ì	$@&a$gd§ì

@@ -408,8 +408,6 @@ Publicado en el Diario Oficial de la Federación el 17 de abril de 2024
 
 Artículo Único.- Se reforman los artículos 11, fracciones III, V y XVI, y 12, fracciones I, II, III, IV, V y VI, y párrafos segundo, tercero y cuarto; y se adicionan las fracciones XVI Bis al artículo 11, y las fracciones V Bis y V Ter al artículo 12, de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -420,65 +418,33 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 ijkº»ÉæðñòóôO	P	êÕÄ° xexUH8/&hm
 
-hm
-
 CJhm
 
 hÑTCJhm
-
-hm
 
 hÑT5CJaJhm
 
 hA!5CJaJ hm
 
-hm
-
-hm
-
 5CJhm
 
 hÑT5CJhm
-
-hm
 
 hA!CJhm
 
 hA!5CJhm
 
-hm
-
-CJhm
-
-Ö
-
-+Æ
-
-Ç
-
-Ô
-
-Õ
-
-Ö
-
-â
-
-hÑTCJhm
-
-hm
-
 CJhm
 
 hÑTCJhm
 
-hm
+CJhm
+
+hÑTCJhm
 
 CJhm
 
 ú 6 7 8 : ; b ¶ · ¸ » ¼ Ä !!%!&!'!+!,!;!2"3"4"7"8"F"#####$# $!$"$%$&$1$%%%%%'%Ñ%Ò%)&*&6&7&8&=&>&G&'' '#'$'7'ô'õ'ö'ø'ù'((((((§(¸)¹)º)¾)¿)õìãÚÐÆõìãÚÐÆõìÚìãÚÐÆõìãÚÐÆõìãÚÐÆõìãÚÐÆõìãÚÐÆõìõìÚìãÚÐÆõìãÚÐÆõìãÚÐÆõìãÚÐÆõìãÚÐÆhéihÑT5CJhéihA!5CJhm
-
-hm
 
 CJhm
 
@@ -490,11 +456,7 @@ hA!5CJN¿)à)S*T*U*Z*[*}*ø*ù*ú*þ*ÿ*4+I,J,K,N,O,Z,,,,Á,Â,Ã,Ï,ó-ô-õ-//
 
 h»z4CJhm
 
-hm
-
 5CJh·ophÑT5CJaJh·ophA!5CJaJhéihÑT5CJhéihA!5CJhm
-
-hm
 
 CJhm
 
@@ -504,13 +466,9 @@ hA!CJhm
 
 ý4þ4ÿ45555555B6C6D6F6G6Ã6Ä6Å6Ç6È6Q7R7S7V7W7¬7­7®7°7±7å8æ8ç8é8ê8³9´9µ9·9¸9Î:Ï:Ð:Ò:Ó:);*;+;-;.;<<<<<m<n<o<s<t<Ç<È<É<Ë<Ì<B=C=D=F=G=>>>>>;?<?=???÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷îäÚÑ÷ÇäÚÑ÷îäÚÑ÷îäÚÑ÷îähm
 
-hm
-
 5CJhm
 
 hA!CJhéihÑT5CJhéihA!5CJhm
-
-hm
 
 CJhm
 
@@ -520,39 +478,25 @@ hA!5;CJhm
 
 hA!5CJhm
 
-hm
-
 5CJh·ophÑT5CJaJh·ophA!5CJaJhéihA!5CJhm
-
-hm
 
 CJhm
 
 hÑTCJhm
 
-hm
-
 hÑTCJhm
-
-hm
 
 CJhm
 
 hA!CJhm
 
-hm
-
 5CJhm
 
 hÑTCJhm
 
-hm
-
 CJhm
 
 hA!5CJhm
-
-hm
 
 CJhm
 
@@ -562,17 +506,11 @@ hA!CJhH+`hÑT5CJhH+`hA!5CJhm
 
 h^CJ#_%_^______Å_è_é_î_U`V`x`y`}`~`­`®`¯`´`µ`ó`ô`õ`ø`ù`FaGaHaíàíÈ¸íàÈ¬àÈxne\Sxne\xne\hm
 
-hm
-
 CJhm
 
 hÑTCJhm
 
 hA!CJhH+`hÑT5CJhH+`hA!5CJhm
-
-hm
-
-hm
 
 5CJh·ophÑT5CJaJh·ophA!5CJaJhm
 
@@ -582,31 +520,19 @@ hA!CJhm
 
 hA!5CJhm
 
-hm
-
 hA!5CJhm
 
 hÑTCJhm
 
-hm
-
 cpgphp¶p·p¸p»p¼pqqqqrrrssGsHsIs«t¬t­tÔtÕtÖtätuuvvvwwwvxwxxx§y¨yÔyÕyÖy{{\{]{^{k{e|f|g|J~K~L~Z~·¸¹ ghiÎõëâÙÐõëâÙÐÆâÙÐâÐâÙÐâÙÐº®¤ÆâÆâÙÐâÙÐâÙÐâÐâÙÐâÐâÙÐÆâÙÐâÙÐÆâÙÐâÐâÙÐâhm
-
-hm
 
 5CJh·ophÑT5CJaJh·ophA!5CJaJhm
 
 hA!5CJhm
 
-hm
-
 CJhm
 
 hÑTCJhm
-
-hm
-
-hm
 
 CJhm
 
@@ -624,12 +550,6 @@ h=¢CJhm
 
 hA!CJhm
 
-hm
-
 CJhm
 
 h¹O7CJhßQ
-
-h¹O75CJ\ hßQ
-
-h¹O7CJ\hßQ

@@ -1218,8 +1218,6 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993
 
 ARTICULO PRIMERO.- Se reforman los artículos 60, 68 primer párrafo, 80 primer párrafo, 97 primer párrafo y fracción I y 98 primer párrafo y fracciones I y II de la Ley de Comercio Exterior, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
@@ -1264,8 +1262,6 @@ Publicado en el Diario Oficial de la Federación el 13 de marzo de 2003
 
 ARTICULO UNICO: Se REFORMAN los artículos; 28; 29; 31, párrafo segundo y fracción I; 32, en su párrafo segundo; 35; 36; 37; la denominación del Capítulo IV del Título V; 39; 40; 41; 42; 43; 44; 45; 46; 47, párrafo primero; 48, párrafo primero, así como las fracciones I a III; nombre del Capítulo I del Título VII; 49, primer párrafo; 50, el párrafo primero y su fracción II, así como el párrafo segundo; 52; 53, párrafo primero; 57, el párrafo primero, la fracción III y el segundo párrafo; 59 párrafos primero y segundo; 64; 66; 67; 68, párrafo primero; 70; 71; 74; 75; 76, párrafo primero; 77; 80, párrafos primero y segundo; 83; 86; 88; 90, primer párrafo y del segundo párrafo la fracción III; 91; 93, fracciones III y V; 94, fracción IX; 95, párrafos segundo, tercero y cuarto; 96 fracción IV; 97, fracción I; 98, fracción III; se ADICIONAN un tercer párrafo al artículo 23; un párrafo segundo al artículo 33; las fracciones I a III al párrafo primero y un tercer párrafo al artículo 39; un penúltimo párrafo al artículo 42; las fracciones I y II al párrafo primero y un párrafo segundo al artículo 44; un párrafo cuarto al artículo 45; un párrafo segundo al artículo 47; un último párrafo al artículo 48; un párrafo segundo al artículo 51; un párrafo tercero al artículo 53; un párrafo segundo, con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al artículo 68; las fracciones I y II al primer párrafo y un último párrafo al artículo 70; el artículo 70 A; el artículo 70 B; las fracciones I a V al primer párrafo, así como un último párrafo al artículo 71; un párrafo segundo al artículo 72; los párrafos segundo, tercero, cuarto y quinto al artículo 83, pasando los actuales párrafos segundo, tercero y cuarto a ser los respectivos párrafos sexto, séptimo y octavo de dicho artículo; un Capítulo V denominado Procedimientos Especiales al Título VII, que comprende del artículo 89A al 89F; y las fracciones X y XI al artículo 94, pasando la actual fracción X a ser la fracción XII; y se DEROGAN la fracción IV del artículo 48; y el artículo 60; todos ellos de la LEY DE COMERCIO EXTERIOR, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
@@ -1284,8 +1280,6 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2006
 
 Artículo Único.- Se Reforman los Artículos 1, 2; 3; el nombre del Título Segundo y de su Capítulo II; las fracciones II, VIII, IX y XI del Artículo 5; Artículos 6; 7; 75; 84; 90; 91; 92 y la fracción VI del Artículo 94; y se Adicionan una fracción VII al Artículo 4; una fracción XII al Artículo 5, para que la actual pase a ser XIII; un segundo párrafo al Artículo 6; un Artículo 17 A; un Artículo 20 A, a la Ley de Comercio Exterior, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1303,8 +1297,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2006
 
 Artículo Único.- Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su encabezado; 68, primer párrafo; 89 D, fracción I; 93, penúltimo párrafo; y 97, fracciones II y III; se adiciona el artículo 65 A; y se derogan los artículos 68, último párrafo y 93, fracción V, de la Ley de Comercio Exterior, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 

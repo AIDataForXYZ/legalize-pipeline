@@ -1190,8 +1190,6 @@ Publicado en el Diario Oficial de la Federación el 11 de enero de 2021
 
 Artículo Único.- Se reforman la fracción III del artículo 4; la fracción XI del artículo 17; el segundo párrafo del artículo 60 y se adicionan los artículos 17 Bis; 17 Ter; un tercer párrafo al artículo 61 y, un segundo párrafo a la fracción VIII del artículo 89 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1209,8 +1207,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Décimo Noveno.- Se reforma la fracción IX del artículo 4 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1281,18 +1277,6 @@ Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este De
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-þ
-
-ÿ
-
-Ù
-
-Ú
-
-þ
-
-ÿ
 
 DÖD×DäD;E<E>EáFâFæFGG¤G>I?ICIñIòIõI
 

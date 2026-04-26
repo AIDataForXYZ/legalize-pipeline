@@ -1784,8 +1784,6 @@ Publicado en el Diario Oficial de la Federación el 1º de julio de 2008
 
 Artículo Segundo. SE REFORMAN los artículos 3, párrafo 2, inciso d); 4, párrafo 1; 9, párrafo 1 e incisos d) y e); 10, inciso d); 11, párrafo 1, inciso b); 12, párrafo 1, inciso b); 17, párrafos 1 y 4, inciso a); 18, párrafos 1 y 2; 19, párrafo 1, incisos c) y e); 20, párrafo 1; 24, párrafo 1; 26, párrafo 3; 29; la denominación del Capítulo XIII, del Título Segundo, del Libro Primero, para quedar "Del cumplimiento y ejecución de las resoluciones de las Salas del Tribunal, de las medidas de apremio y de las correcciones disciplinarias"; 32, párrafo 1, inciso c); 33; 44, párrafo 1; 47, párrafo 2; 50, párrafo 1, inciso a); 52, párrafo 4; 56, párrafo 1, incisos f) y g); 57, párrafo 2; 61; 62, inciso a), fracción III; 71; la denominación del Capítulo III, del Título Sexto, del Libro Segundo, para quedar "De la nulidades de las elecciones federales"; 76, párrafo 1, incisos a) y b); 77, párrafo 1, incisos a) y b); 79; 80, párrafo 1, incisos d), e) y f); 83; 84, párrafo 2, inciso b); 87; 90; 91, párrafo 1; 93, párrafo 2, inciso a); 94; 96, párrafo 1; 102; 104; 105; 106, párrafo 1; 107 y 108; SE ADICIONAN a los artículos 2, un párrafo 2; 4, un párrafo 2; 6, un párrafo 4; 9, un párrafo 4; 10, los incisos f) y g); 21 Bis; 43 Bis; 45, párrafo 1, inciso b), una fracción V, y un inciso c), con las fracciones I y II; 52, un párrafo 5; 54, un párrafo 2; 55, un párrafo 2; 56, un inciso h); 62, inciso a), una fracción IV; 77 Bis; 80, párrafo 1, un inciso g) y un párrafo 3; y SE DEROGAN del artículo 44, el párrafo 2; y del 51, el párrafo 2; todos ellos de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
 
-.
-
 DISPOSICIONES TRANSITORIAS DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
 Artículo Primero.- Las facultades y atribuciones de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral objeto del presente Decreto entrarán en vigor conforme a lo establecido en el Artículo Tercero Transitorio de la Ley Orgánica del Poder Judicial de la Federación contenidos en el presente Decreto.
@@ -1850,8 +1848,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Sexto.- Se reforman los artículos 5, párrafo 1; 70, párrafo 1, inciso a); 83, párrafo 1, inciso a), fracciones I, III y IV e inciso b), fracciones II, IV y V; 84, párrafo 2, inciso a); 87, párrafo 1, incisos a) y b) y 93, párrafo 2, inciso a) de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1865,8 +1861,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2020
 
 Artículo Tercero.- Se reforma el numeral 1, en su párrafo y el inciso g), y se adiciona un inciso h) al numeral 1 del artículo 80 de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1906,8 +1900,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 "PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -1923,8 +1915,6 @@ LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 Artículo Segundo.- Se reforma el inciso c) del numeral 1 del artículo 32 de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2030,8 +2020,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
 
 TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
@@ -2056,8 +2044,6 @@ Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de
 
 SENTENCIA
 
-..
-
 VI. EFECTOS.
 
 229.	El artículo 73, en relación con los diversos 41, 43, 44 y 45 de la Ley Reglamentaria de la materia, señalan que las sentencias deben contener los alcances y efectos de estas, así como fijar con precisión los órganos obligados a cumplirla, las normas generales respecto de las cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Además, se debe fijar la fecha a partir de la cual la sentencia producirá sus efectos.
@@ -2077,8 +2063,6 @@ TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, as
 Notifíquese; mediante oficio a las partes y a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados.
 
@@ -2178,8 +2162,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexagésimo Segundo.- Se reforman los artículos 4, párrafo 2 y 95, párrafo 1, inciso c) de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2198,48 +2180,8 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-t
-
-~
-
-«
-
-ñ
-
-W
-
-ª
-
-«
-
-ñ
-
-+
-
-.
-
-*
-
-+
-
-\
-
-]
-
-/
-
-]
-
-`
-
-a
-
 ÚÚiÚjÚ¾Ú¿ÚÛÛLÛMÛYÛ|Û}Û
 
 h_-n5CJhXh_-n5CJ^J&Ò&Ó&*	*
 
-$
-
 µµµH¶óåÞÓËÄÀ·±·§ §±·±·±§±·±§ § §·±·±ui^hgsyh1ÂnHtHhgsyh1Â5nHtHh0}?h1Â5CJaJnHtHhgsyh1Â5CJaJnHtHhyÀh1ÂCJ^J
-
-ÿõöö1öDököö®{ $

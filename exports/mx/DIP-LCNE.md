@@ -488,8 +488,6 @@ SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
 (fsantiago@scjn.gob.mx)
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión ordinaria celebrada el tres de noviembre de dos mil veinticinco, resolvió la acción de inconstitucionalidad 51/2025, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
 
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad.
@@ -524,11 +522,7 @@ Mediante la cual se resuelve la acción de inconstitucionalidad 51/2025, promovi
 
 ANTECEDENTES Y TRÁMITE DE LA DEMANDA
 
-.
-
 I. COMPETENCIA a VI. ESTUDIO DE FONDO
-
-.
 
 VII. EFECTOS
 

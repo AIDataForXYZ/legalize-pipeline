@@ -760,8 +760,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 
 ARTÍCULO ÚNICO.- Se reforma el Artículo 12, fracciones I, incisos a), b) y e), y XII de la Ley de Asistencia Social, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -775,8 +773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de junio de 2012
 
 ARTÍCULO ÚNICO.- Se reforma la fracción I del Artículo 10 de la Ley de Asistencia Social, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -819,8 +815,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
 
 Artículo Único.- Se reforma el primer párrafo del artículo 4 de la Ley de Asistencia Social, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -914,8 +908,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Vigésimo. Se reforma el artículo 40 de la Ley de Asistencia Social, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -934,8 +926,6 @@ Publicado en el Diario Oficial de la Federación el 6 de enero de 2023
 
 Artículo Único.- Se reforman los artículos 4, fracción I, segundo párrafo y 28, inciso C, de la Ley de Asistencia Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -950,8 +940,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Vigésimo Noveno.- Se reforma el artículo 44 de la Ley de Asistencia Social, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -960,14 +948,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-op~¥¦§¨©	*	¾	Ç	È
-
-'
-
-3
-
 )UVbNdnop¿ÀÂÃÄ:>?MQRÂÅöíæÝæ×Ýæ×Ý×íæÍÄªª××|rh[æT×æT×æ
-
-h³iìCJ\
 
 hf25CJh-fhf2CJh-fhf25CJ-ô¿jÀkÀDÁEÁíÂÉÃÊÃÄÄÅ	Å

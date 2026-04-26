@@ -2200,8 +2200,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión celebrada el veintinueve de junio de dos mil veintiuno, resolvió la acción de inconstitucionalidad 121/2019, promovida por la Comisión Nacional de los Derechos humanos, en los términos siguientes:
 
 PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
@@ -2238,8 +2236,6 @@ VISTOS, para resolver el expediente relativo a la acción de inconstitucionalida
 
 RESULTANDO:
 
-..
-
 OCTAVO. Decisión y declaración de invalidez. En la acción de inconstitucionalidad 212/2020 fallada el uno de marzo de dos mil veintiuno, este Tribunal Pleno destacó una evolución de criterio en cuanto a que la determinación de si el vicio de ausencia de consulta tiene el potencial de invalidar toda la ley o solamente determinados preceptos legales dependerá de si las normas que regulan a las comunidades indígenas y afromexicanas y personas con discapacidad tienen un impacto en el ordenamiento en su integridad porque la ley tiene como objeto específico su regulación o no.
 
 Esta determinación que, se insiste, constituye una evolución en el criterio de esta Suprema Corte de Justicia de la Nación, precisa que en el supuesto de que una norma o un ordenamiento general no esté específicamente relacionado con los grupos vulnerables que deben ser privilegiados con una consulta, esto es, que no se refieran única y exclusivamente a ellos, sino que, en el contexto general, estén inmiscuidos, las normas por invalidar son precisamente las que les afecten, pero sin alcanzar a invalidar toda la norma. Por el contrario, cuando las normas se dirijan específicamente a estos grupos vulnerables, la falta de consulta invalida todo ese ordenamiento.
@@ -2269,8 +2265,6 @@ QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, as�
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
 
@@ -2319,8 +2313,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Único.- Se reforma el Capítulo VIII, denominado "De la educación inclusiva", y los artículos 61; 62; 63; 64; 65; 66; 67 y 68 de la Ley General de Educación, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2382,25 +2374,7 @@ Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-ñ
-
-ñ
-
 >???¬@­@²@`AaAgAÁAÂAÏABB®B¯BåBæBóBæDçDôDRESEVEºE»EFF	F
-
-o
-
-r
-
-o
-
-ª
-
-«
-
-±
-
-«
 
 zz§z¨zÐzÑz{{ïïïãËÆ¾Æ¯¯}
 

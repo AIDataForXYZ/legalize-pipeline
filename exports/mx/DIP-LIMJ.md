@@ -434,8 +434,6 @@ Publicado en el Diario Oficial de la Federación el 20 de marzo de 2006
 
 Artículo Único.- Se reforma la fracción IV del Artículo 3 y la fracción IX del Artículo 4 de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -449,8 +447,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 
 Articulo Único.- Se reforman los artículos 4, actual fracción VIII; 8 fracción I incisos h) y j); 15, segundo párrafo; se adicionan los artículos 3, con una nueva fracción II recorriéndose en su orden las subsecuentes; 4 con una nueva fracción IV y una nueva fracción XI recorriéndose en su orden las subsecuentes, todos de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -467,8 +463,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 
 Artículo Único.- Se reforman los artículos 2; 3, actual fracción V; y 4, actuales fracciones I, II, y X; 5, fracción III; 8, párrafo segundo; 9, fracción II; 13; 14; 15; y se modifica la denominación del Capítulo IV, para quedar como Del Régimen Laboral y Seguridad Social y se adicionan los artículos 3, con una fracción I recorriéndose en su orden las demás fracciones; 3 Bis; 4, con las fracciones I, VI, XII y XV, recorriéndose en su orden las demás fracciones; 4 Bis; 9, con una fracción II, recorriéndose en su orden las demás fracciones y 15 Bis a la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -520,8 +514,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
 
 Artículo Primero.- Se reforman los artículos 3 Bis, primer párrafo y 9, fracción XIV de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -550,8 +542,6 @@ Publicado en el Diario Oficial de la Federación el 23 de marzo de 2022
 
 Artículo Único. Se reforman los artículos 1, párrafo primero; 3 Bis, en su párrafo primero; 8, fracción I, inciso a) y fracción II, párrafo segundo y 9, fracción XIV de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -566,8 +556,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Quinto.- Se reforman los artículos 3, fracción III; 4, fracciones XI y XIV y 15 Bis, primer párrafo, de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -576,18 +564,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-à
-
-á
-
-à
-
-á
-
-í
-
 h"AwCJ\h"Awh"Aw5CJ\
-
-h³ÌCJ\
 
 hsc¨CJ\

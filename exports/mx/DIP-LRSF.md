@@ -1106,8 +1106,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2015
 
 Artículo Único. Se reforman los artículos 1, primer y segundo párrafos; 4, primer párrafo; 6; 9, fracción I; 15 y su fracción II; 21; 24; 31; 35; 36; 46; 47; 53; 59, fracción IV, y se adicionan los artículos 2, con las fracciones I, II, III, VI y VII, recorriéndose en su orden las subsecuentes; 6 Bis; 15, con la fracción V; 31 Bis; 31 Ter; 31 Quáter; 36 Bis; 36 Ter y 59 con una fracción X, recorriéndose en su orden la subsecuente a la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1282,8 +1280,6 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Segundo.- Se adiciona un segundo párrafo al artículo 10 de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1299,8 +1295,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Primero.- Se reforman los artículos 1; 2, fracciones I, II, III, VII y VIII; 6, fracciones I y II; 6 Bis, fracciones I, III, V, VII, IX, XIII, XIV, XVI, XVII y XVIII; la denominación del Capítulo II y de la Sección Primera; 7, párrafo primero, fracción I, párrafo segundo y su párrafo segundo; 8; 8 Bis, primer párrafo; 9, fracciones I, párrafos primero, segundo y tercero, IV, V y VI; 10, actual párrafo segundo; 12, párrafo primero, fracciones I, II, incisos a), b) y c), V y VIII; 13; 14; 15, fracciones II y V; 16, párrafo primero; 18; 21, fracciones IV y XI y párrafos segundo y tercero; 24, párrafos segundo y cuarto; 25, párrafo segundo; 26; 27, párrafos primero y segundo; 29; 30, párrafo segundo; 31; 32; 33; 34, párrafos primero, segundo y tercero; 35; 36, párrafos primero y tercero; 36 Bis; 36 Ter; 38; 40; 41; 42, párrafo primero; 43, párrafos segundo y tercero; 44, párrafo primero; 46; 47, párrafos primero y segundo; 50; 51, párrafo primero; 52, párrafo primero; 53, párrafo primero; 57; 58; 59, párrafos primero, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI, y segundo; 60, párrafos primero y segundo; 61, y 62; se adicionan al artículo 2, las fracciones I Bis, I Ter, I Quáter, VII Bis, VIII Bis y XI Bis; al artículo 6, la fracción III; al artículo 6 Bis, las fracciones II Bis, II Ter, II Quáter, II Quinquies, II Sexies, IV Bis, IV Ter, VIII Bis, VIII Ter, IX Bis, XII Bis, XII Ter, XVIII Bis, XVIII Ter y XVIII Quáter; al artículo 10, un párrafo segundo y se recorre en su orden el actual párrafo segundo para convertirse en párrafo tercero; al artículo 21, un párrafo tercero y se recorre el actual párrafo tercero para convertirse en párrafo cuarto, y un párrafo quinto; al artículo 27, las fracciones I y II y párrafos cuarto, y al artículo 59, las fracciones X Bis y X Ter, y se deroga del artículo 59, el párrafo tercero, de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1348,16 +1342,4 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 ÑÑäÒÓÓ¸Ó¹ÓcÕÕ¦Õ§ÕèÖéÖ6ØsØtØÚóóçàÔÈ¾¾¾ÔÈç¾ÔÔÔ¶¾ª$ ` a$gd]W$a$gd
 
-Æ>a$gd
-
-H$ ` a$gd
-
 ÑÑÑäÒÓ¹ÓcÕÕ¦Õ§Õ·ÕèÖéÖ6ØXØåÎµå¨u]Gu]åGu1uå*h
-
-Hh
-
-Hh
-
-Hh
-
-Hh

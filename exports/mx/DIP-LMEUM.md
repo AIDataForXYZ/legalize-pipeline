@@ -332,8 +332,6 @@ Sufragio Efectivo. No Reelección.
 
 México, D. F., a 25 de julio de 1931.- El Subsecretario de Gobernación, Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
 
-Al C....
-
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 A partir de 1990
@@ -347,8 +345,6 @@ A partir de 1990
 Publicado en el Diario Oficial de la Federación el 23 de julio de 1990
 
 ARTICULO PRIMERO.- Se reforma el inciso b) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
-
-.
 
 ##### TRANSITORIOS
 
@@ -410,11 +406,7 @@ Publicado en el Diario Oficial de la Federación el 22 de junio de 1992
 
 ARTICULO PRIMERO.- Se reforma y adiciona el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
 
-.
-
 ARTICULO SEGUNDO.- Se reforma el artículo 3º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
-
-.
 
 ARTICULO TERCERO.- Las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, a que se refiere el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:
 
@@ -1094,8 +1086,6 @@ Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992
 
 ARTICULO PRIMERO.- Se reforma el primer párrafo del inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
 
-.
-
 ARTÍCULO SEGUNDO.- Las características de la moneda de veinte pesos, a que se refiere el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:
 
 MONEDA DE VEINTE PESOS
@@ -1161,8 +1151,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de septiembre de 1993
 
 ARTICULO PRIMERO.- Se reforma el inciso b) del Artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1258,8 +1246,6 @@ Publicado en el Diario Oficial de la Federación el 20 de enero de 2009
 
 ARTÍCULO ÚNICO. Se REFORMA el ARTÍCULO TERCERO del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992, para quedar en los términos siguientes:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1280,8 +1266,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
 
 Artículo Único.- Se reforma el artículo Tercero del Decreto por el que reforman y adicionan diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado el 22 de junio de 1992, en el Diario Oficial de la Federación, únicamente por lo que hace a la moneda de diez pesos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1295,8 +1279,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
 
 Artículo Único.- Se reforma el Artículo Segundo del Decreto que reforma el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos, publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1315,61 +1297,3 @@ Sexto. Corresponderá al Banco de México la titularidad de todos los derechos p
 Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-x
-
-ÆÐ[
-
-Qþ^[
-
-ÆÐ[
-
-Qþ^[
-
-`Qþa$gd!Ò$
-
-ÆÐ¬Qþ^¬`Qþa$gd!Ò$
-
-ÆÐ[
-
-Qþ^[
-
-¹º¿À~ÌÍåæ
-
-6
-
-7
-
-Æ*k¶ò^k`¶ògdð
-
-5
-
-6
-
-7
-
-H
-
-Þ
-
-ß
-
-â
-
-Þ
-
-ß
-
-Æ*Pþ^`Pþa$gdð$
-
-Æ*ÞÀý^Þ`Àýa$gdð$
-
-Æ*[Àý^[`Àýa$gdð$
-
-Æ*Pþ^`Pþa$gdð$
-
-Æ*k¶ò^k`¶òa$gdð$
-
-Æ*Pþ^`Pþgdð$
-
-Æ*Pþ^`Pþa$gdð$

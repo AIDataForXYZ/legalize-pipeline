@@ -1370,34 +1370,6 @@ Ciudad de México, a 9 de marzo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 
-$
-
-?
-
-@
-
-B
-
-C
-
-É
-
-Ê
-
-Í
-
-Î
-
-$
-
-?
-
-@
-
-É
-
-Ê
-
 íí_í`ímíîî­ð®ð»ð\ñ]ñ_ñ`ñ ò¡ò¤ò¥òô
 
 ôôôJöKöNöOöõëâØõëâØõëâØõëâØõëâØõëâÏâÆâØõâÏâØõâØº®º¢ºØõâÏâØõâØõëâØõëâØõëâØõëh§mXhH	=5CJaJh§mXh=6S5CJaJh§mXhâmÿ5CJaJhH	=hæ&(CJhH	=hH	=CJhH	=hH	=5CJhH	=hâmÿCJhH	=hkr5CJhH	=hâmÿ5CJ@ééóêôêÆìÇìÕì

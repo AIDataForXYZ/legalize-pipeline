@@ -2258,8 +2258,6 @@ Publicado en el Diario Oficial de la Federación el 21 de julio de 1993
 
 ARTICULO TERCERO.- Se reforma el artículo 73 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
@@ -2290,8 +2288,6 @@ Publicado en el Diario Oficial de la Federación el 23 de septiembre de 1993
 
 Artículo Unico.- Se reforman los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
@@ -2305,8 +2301,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 1994
 
 ARTICULO UNICO.- Se reforman los artículos 7o. y 58 y se adiciona un segundo párrafo al artículo 58, de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2329,8 +2323,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 1996
 
 ARTICULO SEXTO.- Se REFORMA el artículo 5o. de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2420,8 +2412,6 @@ Publicado en el Diario Oficial de la Federación el 19 de octubre de 1998
 
 ARTICULO UNICO.- Se reforman los artículos primero y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 julio de 1993 y modificado por diverso del 23 de septiembre de 1993, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
@@ -2437,8 +2427,6 @@ Refrendado por el Secretario de Gobernación, Francisco Labastida Ochoa, en la C
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000
 
 ARTICULO CUARTO.- Se reforma el párrafo primero del artículo 128, y se adiciona la fracción VIII al artículo 1o., la fracción IX bis al artículo 24 y el Capítulo VIII bis a la Ley Federal de Protección al Consumidor, que contendrá el artículo 76 bis, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2474,8 +2462,6 @@ Publicado en el Diario Oficial de la Federación el 5 de junio de 2000
 
 ARTICULO UNICO.- Se adicionan los artículos 86 bis, 86 ter y 86 quater a la Ley Federal de Protección al Consumidor para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2489,8 +2475,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2002
 
 ARTÍCULO PRIMERO.- Se reforma el artículo Noveno Transitorio del Decreto de Ley de los Sistemas de Ahorro para el Retiro y de Reformas y Adiciones a las leyes General de Instituciones y Sociedades Mutualistas de Seguros, para Regular las Agrupaciones Financieras, de Instituciones de Crédito, del Mercado de Valores y Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 23 de mayo de 1996, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2520,8 +2504,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTICULO UNICO: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2535,8 +2517,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de febrero de 2004
 
 ARTÍCULO ÚNICO.- SE REFORMAN el primero y segundo párrafos y las fracciones I, V, VI, y VIII del artículo 1; las fracciones I, III y IV del artículo 2; el primer párrafo del artículo 5; el artículo 6; el artículo 7; el primer párrafo del artículo 8; el artículo 9; el artículo 13; el artículo 16; el artículo 17; el artículo 18; el primer párrafo del artículo 19; el artículo 21; la fracción III del artículo 23; las fracciones V, VIII, XII, XIII, XIV, XVI, XVIII, XIX, XX y XXI del artículo 24; el primer párrafo y las fracciones I y II del artículo 25; la fracción I y el segundo párrafo que pasa a ser tercero del artículo 26; las fracciones I, IV, VII y X del artículo 27; el artículo 31; el artículo 32; las fracciones I, II y el segundo párrafo del artículo 35; el artículo 37; el artículo 41; el primer párrafo del artículo 47; la fracción I del artículo 48; el artículo 49; el artículo 50; el artículo 56; el primer párrafo que pasa a ser segundo del artículo 58; el artículo 60; el artículo 61; el artículo 63; el primer párrafo del artículo 65; las fracciones III y IV del artículo 66; el primer párrafo del artículo 73; el artículo 75; la fracción VII del artículo 76 BIS; el segundo párrafo del artículo 79; el primer párrafo del artículo 82; el artículo 85; el artículo 86 BIS; el artículo 87; el primer párrafo y las fracciones I, II y III del artículo 92; el artículo 93; el artículo 94; el primer párrafo del artículo 95; el primer párrafo del artículo 96; el primer párrafo del artículo 97; el primer párrafo del artículo 98; el primer párrafo y la fracción III del artículo 99; el primer párrafo del artículo 100; el artículo 103; la fracción IV y el segundo párrafo del artículo 104; el primer párrafo y los incisos b) y c) de la fracción I del artículo 105; el último párrafo del artículo 106; el segundo párrafo del artículo 111; el primer párrafo del artículo 113; el artículo 114; el primer párrafo del artículo 116; el primer párrafo del artículo 117; el artículo 120; el segundo párrafo, pasando a ser primero del artículo 122; el primer y último párrafos del artículo 123; el artículo 126; el artículo 127; el artículo 128; el artículo 129; el artículo 132; el primer párrafo del artículo 134 y el artículo 135. SE ADICIONAN la fracción IX al artículo 1; un segundo párrafo a la fracción I del artículo 2; el párrafo segundo del artículo 5; el artículo 7 BIS; el segundo párrafo del artículo 8; el artículo 8 BIS; el segundo párrafo del artículo 10; un primer párrafo, pasando el primero a ser segundo del artículo 13; un segundo párrafo al artículo 16; un segundo párrafo al artículo 17; el artículo 18 BIS; el segundo y el último párrafos del artículo 19; las fracciones XIV bis y XXII del artículo 24; las fracciones III y IV al artículo 25; el artículo 25 BIS; el segundo y cuarto párrafos del artículo 26; un segundo y tercer párrafos al artículo 32; un tercer párrafo del artículo 35; un segundo párrafo, pasando el segundo a ser tercero del artículo 43; el segundo párrafo del artículo 44; el primer párrafo del artículo 58; el segundo, tercero, cuarto con las fracciones de la I a la VI, quinto y sexto párrafos del artículo 63; el artículo 63 BIS; el artículo 63 TER; el artículo 63 QUATER; el artículo 63 QUINTUS; la fracción V al artículo 66; el segundo párrafo del artículo 73; el artículo 73 BIS; el artículo 73 TER; el segundo párrafo del artículo 77; el segundo y tercer párrafos del artículo 82; el tercer párrafo del artículo 86; el segundo párrafo del artículo 87; el artículo 87 BIS; el artículo 87 TER; el artículo 90 BIS; la fracción IV y el último párrafo del artículo 92; el artículo 92 BIS; el artículo 92 TER; el segundo párrafo del artículo 95; el segundo párrafo del artículo 96; las fracciones I, II y III del primer párrafo y el segundo párrafo del artículo 97; el artículo 97 BIS; el artículo 97 TER; el artículo 97 QUATER; el artículo 98 BIS; el artículo 98 TER; la fracción IV y un segundo párrafo pasando el anterior segundo a ser el tercero del artículo 99; el párrafo segundo del artículo 100; los párrafos tercero, cuarto, quinto, sexto y séptimo del artículo 104; el inciso d) de la fracción I del artículo 105; el segundo párrafo del artículo 113; un cuarto y sexto párrafos, pasando el anterior cuarto a ser quinto del artículo 114; el artículo 114 BIS; el artículo 114 TER; el párrafo segundo del artículo 117; el segundo párrafo del artículo 123, recorriéndose la numeración de los párrafos; el artículo 124 BIS; el artículo 128 BIS; el artículo 128 TER; el artículo 128 QUATER; el artículo 129 BIS; el segundo párrafo del artículo 133; y, el segundo párrafo del artículo 134. SE DEROGAN el segundo y tercero párrafos del artículo 31; el último párrafo del artículo 105; el primer párrafo del artículo 122; el segundo párrafo del artículo 128; y los artículos 136 al 143, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2627,8 +2607,6 @@ México, D.F., a 9 de diciembre de 2005.- El Procurador Federal del Consumidor, 
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Artículo Primero. Se adiciona el artículo 65 Bis y se reforma el artículo 128 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -2734,8 +2712,6 @@ Publicado en el Diario Oficial de la Federación el 29 de enero de 2009
 
 Artículo Único. Se reforman los artículos 73 TER, fracción XII; 92, el primer y último párrafos; 92 TER; 98 BIS; 128 y 131; se adicionan los artículos 73 QUÁTER y 73 QUINTUS a la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2749,8 +2725,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2009
 
 Artículo Único.- Se reforma la fracción XXI del artículo 24 y el artículo 25 BIS de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2794,8 +2768,6 @@ Publicado en el Diario Oficial de la Federación el 19 de julio de 2010
 
 Artículo Único.- Se reforma el artículo 7 BIS de la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor a los 120 días siguientes de su publicación en el Diario Oficial de la Federación.
@@ -2809,8 +2781,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010
 
 ARTÍCULO SEXTO.- Se reforman la fracción II del artículo 2; la fracción XVII del artículo 24; la fracción V y penúltimo párrafo al artículo 25 BIS; el primer párrafo del artículo 133 y el primer párrafo del artículo 134. Se adiciona la fracción X al artículo 1; un segundo párrafo al artículo 14; un segundo párrafo a la fracción IV del artículo 24; la fracción XXII del artículo 24, recorriéndose la actual fracción XXII para constituirse en fracción XXIII; un segundo párrafo al inciso b), fracción II del artículo 105; un tercer párrafo al artículo 111; la fracción VII del artículo 128 TER, todos de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2827,8 +2797,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 
 Artículo Único.- Se reforma el artículo 3 y el artículo 85 de la Ley Federal de Protección al Consumidor para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2872,8 +2840,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 Artículo Primero. Se reforman los artículos 8 Bis; 99, en su párrafo primero, y 134, y se adicionan una fracción XX Bis al artículo 24; una fracción XI al artículo 27, pasando la anterior XI a ser la XII, y las fracciones V y VI al artículo 99 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2888,8 +2854,6 @@ Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011
 
 ARTÍCULO ÚNICO.- Se adiciona un artículo 29 BIS a la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor en el mes de enero siguiente al de su publicación en el Diario Oficial de la Federación y durante ese plazo se deberán expedir los lineamientos a que hace referencia el artículo 29 BIS.
@@ -2903,8 +2867,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011
 
 ARTÍCULO CUARTO.- Se reforma el artículo 26 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2927,8 +2889,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 13, 32, 127, 128 y 128 Bis; y se adicionan los artículos 24, con una fracción IX Ter; y 128 Ter, con una fracción VI, recorriéndose las demás en su orden, a la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2972,8 +2932,6 @@ Publicado en el Diario Oficial de la Federación el 18 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se reforma el primer párrafo del artículo 73 QUÁTER de la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2987,8 +2945,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se reforma la fracción II, y se adiciona la fracción VII del artículo 65 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3005,8 +2961,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO CUADRÁGESIMO TERCERO. Se reforma el artículo 3 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3051,8 +3005,6 @@ México, D.F., a 21 de diciembre de 2012.- El Procurador Federal del Consumidor,
 Publicado en el Diario Oficial de la Federación el 16 de enero de 2013
 
 ARTÍCULO ÚNICO. Se reforman los artículos 65 Bis y 128; y se adicionan los artículos 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6 y 65 Bis 7 a la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -3238,8 +3190,6 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
 
 Artículo Único.- Se adicionan los artículos 65 Ter y 65 Ter 1 a la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3363,8 +3313,6 @@ Ciudad de México, a 14 de diciembre de 2018.- El Procurador Federal del Consumi
 Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 Artículo Único. Se adiciona un párrafo segundo, recorriéndose los subsecuentes en su orden, al artículo 92 de la Ley Federal de Protección al Consumidor, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -3584,8 +3532,6 @@ Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2025
 
 Artículo Único.- Se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3623,49 +3569,5 @@ Para efectuar el pago de las cantidades que resulten de la actualización, para 
 Ciudad de México, a 11 de diciembre del 2025.- El Procurador Federal del Consumidor, Licenciado César Iván Escalante Ruiz.- Rúbrica.
 
 ()ª¬­¯´µ¶öøü		ïàÎ¸¢ttZP@3@3@h
-
-îh
-
-½
-
-ß
-
-à
-
-ã
-
-ß
-
-à
-
-hÁ;CJ\
-
-"
-
-"
-
-%
-
-ö
-
-ú
-
-hÁ;5CJ="
-
-õ
-
-ö
-
-hÁ;5CJ
-
-hÁ;CJ\
-
-JKë
-
-ð
-
-ò
-
-¿áâDEû¶·CD¥õíåÙåÙåõíåÙåÉ½É½É½¯
 
 hÁ;CJ\hAI¸hÁ;CJ

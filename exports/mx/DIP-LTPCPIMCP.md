@@ -162,8 +162,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión celebrada el ocho de junio de dos mil veintitrés, resolvió la controversia constitucional 94/2021, promovida por la Comisión Federal de Competencia Económica, en los términos siguientes:
 
 PRIMERO. Es procedente y fundada la presente controversia constitucional.
@@ -239,13 +237,3 @@ Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secret
 Ministra Presidenta, Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ministro Ponente, Jorge Mario Pardo Rebolledo.- Firmado electrónicamente.- Secretario General de Acuerdos, Rafael Coello Cetina.- Firmado electrónicamente.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de ciento un fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la controversia constitucional 94/2021, promovida por la Comisión Federal de Competencia Económica, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del ocho de junio de dos mil veintitrés. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a veintiocho de noviembre de dos mil veintitrés.- Rúbrica.
-
-'
-
-ÑÒ
-
-'
-
-¤
-
-¨ÑÒÞ

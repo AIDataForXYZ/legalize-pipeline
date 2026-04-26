@@ -1002,8 +1002,6 @@ Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011
 
 ARTÍCULO NOVENO. Se reforma el artículo 43, fracción IV de la Ley General de Turismo, para quedar como sigue:
 
-.
-
 TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1025,8 +1023,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
 
 Artículo Único.- Se adiciona un segundo párrafo, pasando el actual segundo a ser tercero al artículo 41 de la Ley General de Turismo, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1077,8 +1073,6 @@ En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán e
 Por otra parte, el artículo 42 de la Ley Reglamentaria de las Fracciones I y II del propio Artículo 105, en la parte que interesa, prevé:
 
 "ARTÍCULO 42.- Siempre que las controversias versen sobre disposiciones generales de los Estados o de los Municipios impugnadas por la Federación, de los Municipios impugnadas por los Estados, o en los casos a que se refieren los incisos c), h) y k) de la fracción I del artículo 105 constitucional, y la resolución de la Suprema Corte de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo "menos ocho votos.
-
-[...]
 
 En todos los demás casos las resoluciones "tendrán efectos únicamente respecto de las partes "en la controversia.
 
@@ -1224,8 +1218,6 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017
 
 Artículo Único.- Se reforman los artículos 1, párrafo primero; 2, fracciones I, II y VIII; 4, fracciones III, VIII y XII segundo párrafo; 5, párrafos primero, segundo y cuarto; 7, fracción VIII; la denominación del Capítulo III del Título Segundo; 9, párrafo primero y fracción XII; 10, fracciones III y XV; 13; 15 párrafo primero; 17, párrafo segundo; 19, párrafo tercero; 20; 25, párrafo segundo; 26; 28, párrafo primero; 29, párrafo primero y fracción III; 31, párrafos segundo y tercero; 36; 37; 44, fracción III; 46, párrafo primero; 47; 51; 65, párrafo primero; 66, párrafo tercero; 69, párrafos primero y cuarto; 70; Cuarto transitorio, párrafo segundo y Sexto transitorio, párrafo segundo de la Ley General de Turismo, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1239,8 +1231,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2018
 
 Artículo Único.- Se reforma la fracción II del artículo 63 de la Ley General de Turismo, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1290,8 +1280,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2022
 
 Artículo Único.- Se adiciona una fracción X Bis al artículo 7 de la Ley General de Turismo, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -1307,8 +1295,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2022
 
 Artículo Único.- Se reforman los artículos 11, segundo párrafo; 12, segundo párrafo y 13, segundo párrafo, de la Ley General de Turismo, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1346,8 +1332,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Cuadragésimo Cuarto.- Se reforman las fracciones XV del artículo 2, la fracción VIII del artículo 4o. y el segundo párrafo del artículo 25 de la Ley General de Turismo, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1379,39 +1363,5 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-K
-
-a
-
-k
-
-l
-
-m
-
-,-K
-
-l
-
-m
-
-8hÙ
-
-8CJ^JhØC5hÙ
-
-j
-
-k
-
-_
-
-i
-
-j
-
-k
-
-r
 
 ab£¹ÃÄÅÎÏNOWABI

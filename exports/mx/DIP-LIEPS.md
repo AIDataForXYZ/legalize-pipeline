@@ -366,8 +366,6 @@ Los valores de b y c, se determinarán conforme a lo previsto en el Módulo 1. E
 
 II.	Con los elementos señalados, se aplicará la siguiente fórmula:
 
-e=44xa x b x c x d1210000
-
 Donde,
 
 44/12:	Es el factor para convertir las unidades de carbono a unidades de bióxido de carbono (CO2), de acuerdo con las Directrices del Panel Intergubernamental de Cambio Climático para los inventarios nacionales de gases de efecto invernadero, versión revisada en 1996 o las que, en su caso, las sustituyan.
@@ -675,8 +673,6 @@ XXXVIII. Videojuego con contenido violento, extremo o para adulto, no apto para 
 XXXIX.	Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una contraprestación, que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos.
 
 > <small>Fracción adicionada DOF 07-11-2025 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 31-12-1985, 28-12-1989, 26-12-1990, 20-12-1991,</small>
-
-20-07-1992, 03-12-1993, 28-12-1994, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 01-01-2002
 
 ###### Artículo 4o.-
 
@@ -1260,8 +1256,6 @@ XXIV.	Los establecimientos de consumo final tendrán la obligación de realizar,
 
 > <small>Fracción adicionada DOF 12-11-2021 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 30-12-1983, 31-12-1987, 28-12-1989, 26-12-1990,</small>
 
-20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 10-05-1996, 30-12-1996, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 31-12-2000, 01-01-2002
-
 ###### Artículo 19 -
 
 A.- Cuando el Servicio de Administración Tributaria detecte cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados que no cumplan con la impresión del código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, las mismas serán aseguradas y pasarán a propiedad del fisco federal, a efecto de que se proceda a su destrucción. Para los efectos de este artículo, el Servicio de Administración Tributaria podrá realizar en todo momento verificaciones en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que utilicen para el desempeño de sus actividades quienes vendan, enajenen o distribuyan en México las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que deban contener impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, observando para ello el procedimiento que se establece en el artículo 49 del Código Fiscal de la Federación.
@@ -1800,8 +1794,6 @@ Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1981
 
 > <small>ARTICULO OCTAVO.- Se REFORMAN los artículos 2o. fracción I, en sus incisos E), F), G) y H) subinciso 2, 3o. fracción III pasando el texto de la actual fracción III a ser la IV, y las fracciones IV a XI a ser las fracción V a XII reformándose asimismo las fracciones V, VI, y XI así recorridas, 5o. en sus párrafos primero y segundo, 7o., 8o. fracciones I y II, 13 fracción IV, 19 fracciones I, II, III y VII, 22 y 24 fracción III de la Ley del Impuesto Especial sobre Producción y Servicios; se ADICIONAN los artículos 3o. con las fracciones XIII y XIV, 5o. con dos párrafos finales y 8o. con un párrafo a dicha Ley y de (sic DOF 31-12-1981) DEROGA el penúltimo párrafo actual del artículo 5o. y el penúltimo párrafo del artículo 24, de y a la propia Ley, para quedar como sigue:</small>
 
-.
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1982.
@@ -1852,8 +1844,6 @@ ARTICULO OCTAVO.- Se REFORMAN los artículos 4o. fracción III y el párrafo sig
 
 > <small>Fe de erratas al párrafo DOF 28-03-1984</small>
 
-..
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1984.
@@ -1870,8 +1860,6 @@ Fe de erratas de la Ley que reforma, adiciona y deroga diversas disposiciones fi
 
 Publicada en el Diario Oficial de la Federación el 28 de marzo de 1984
 
-..
-
 En la página 64, segunda columna, ARTICULO OCTAVO, tercer renglón, dice:
 
 ella, 8º fracción IV, 19 fracciones II y 21 y 26 de
@@ -1879,8 +1867,6 @@ ella, 8º fracción IV, 19 fracciones II y 21 y 26 de
 Debe decir:
 
 ella, 8º fracción IV, 19 fracción II, y 21 y 26 de
-
-..
 
 LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.
 
@@ -1914,8 +1900,6 @@ Fe de erratas de la Ley que Establece, Reforma, Adiciona y Deroga diversas dispo
 
 Publicada en el Diario Oficial de la Federación el 4 de marzo de 1985
 
-.
-
 En la página 22, segunda columna, artículo décimo tercero, fracción I, quinto renglón dice:
 
 esencias, o estractos de sabores a que se refiere
@@ -1931,8 +1915,6 @@ párrafo anterior, deberán presentar declaracion
 Debe decir:
 
 párrafo anterior, deberán presentar declaración
-
-..
 
 LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.
 
@@ -2032,8 +2014,6 @@ Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1987
 
 ARTICULO DECIMOSEPTIMO.- Se ADICIONAN a la Ley del Impuesto Especial sobre Producción y Servicios los artículos 2o., fracción II; inciso B), subinciso b) con un numeral 3; 8o., con una fracción VIII; 11, con un segundo párrafo, pasando el actual segundo a ser tercero, y 19, con una fracción IV, para quedar como sigue:
 
-..
-
 Disposición Transitoria
 
 ARTICULO DECIMOCTAVO.- Para la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, se estará a las siguientes disposiciones transitorias:
@@ -2132,8 +2112,6 @@ Publicada en el Diario Oficial de la Federación el 28 de diciembre de 1989
 
 ARTICULO DECIMO NOVENO.- Se REFORMAN los artículos 2o., fracción I, inciso I); 4o., fracción II, segundo párrafo; 7o., primer párrafo; 8o., fracciones I, IV y VII; 12, fracción I; 13, fracción IV; 19, fracciones II, tercer párrafo y IV; 21; 25, último párrafo y 26 de la Ley del Impuesto Especial sobre Producción y Servicios; Se ADICIONAN los artículos 3o., con una fracción XVI; 19, fracción VI, con un segundo párrafo a dicha Ley; y se DEROGAN los artículos 2o., fracción II, apartado B) con sus incisos a) y b); 3o., fracciones III, VI y XII; 8o., fracciones III, V y VIII; 17, fracción II y 25, fracción IV de y a la propia Ley, para quedar como sigue:
 
-.
-
 Disposición Transitoria
 
 ARTICULO VIGESIMO.- Se deroga lo dispuesto por el ARTICULO DECIMO CUARTO de la Ley que establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, aplicable a la Ley del Impuesto Especial sobre Producción y Servicios.
@@ -2176,8 +2154,6 @@ Publicada en el Diario Oficial de la Federación el 26 de diciembre de 1990
 
 ARTICULO DECIMO SEXTO.- Se REFORMAN los artículos 2o., fracción III; 3o., fracciones XV y XVI; 4o., fracción II; 5o., segundo párrafo; 13, fracción III; 14, segundo párrafo; 17 y 19, fracción IV; de la Ley del Impuesto Especial sobre Producción y Servicios; se ADICIONAN los artículos 2o., con un párrafo final; 8o.-B; 15, con un último párrafo y 25, con una fracción IV; a dicha Ley y se DEROGAN los artículos 2o., fracción I, apartados A), B) y C), fracción II, apartado A); 3o., fracciones I, II y XIV; 8o., fracciones I y IV; 13, fracción IV; y 25, fracción I de la propia Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..
-
 DISPOSICIONES TRANSITORIAS
 
 ARTICULO DECIMO SEPTIMO.- Para efectos de lo indicado por el artículo anterior, se estará a lo dispuesto por las siguientes disposiciones transitorias:
@@ -2211,8 +2187,6 @@ Publicada en el Diario Oficial de la Federación el 20 de diciembre de 1991
 IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ARTICULO DECIMO.- Se REFORMAN los artículos 2o., fracción I incisos D), E), F) e I) y la fracción III; 3o., fracciones III, XIV y XVI; 5o., segundo párrafo; 7o., último párrafo; 8o., fracción IV; 8o.-B, primer párrafo; 19, fracciones II, tercer párrafo, IV y V; 21, y 26, de la Ley del Impuesto Especial sobre Producción y Servicios; se ADICIONAN los artículos 2o., fracción I, con un inciso j); 3o., con una fracción XVII; 4o., con una fracción IV; 11, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto párrafos, respectivamente; 15, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto párrafos, respectivamente; y 19, con las fracciones VIII y IX, y se DEROGAN los artículos 2o., último párrafo; 3o., fracciones VII, VIII y IX; 8o., fracción VII; 15, último párrafo, de y a la propia Ley, para quedar como sigue:
-
-..
 
 DISPOSICIONES DE VIGENCIA ANUAL
 
@@ -2260,8 +2234,6 @@ Publicada en el Diario Oficial de la Federación el 20 de julio de 1992
 
 ARTICULO DECIMO CUARTO.- Se REFORMAN los artículos 2o., fracción I, incisos D) y F); 5o., segundo párrafo; 6o.; 8o., fracción IV, primer párrafo; 11, tercer párrafo; y 19, fracción II, tercer párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios; y se DEROGA el artículo 3o., fracción XIV, de y a la propia Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTICULO DECIMO QUINTO.- Para los efectos de lo dispuesto en el Artículo anterior, se aplicarán las siguientes disposiciones transitorias:
@@ -2272,8 +2244,6 @@ II.- Se deja sin efectos lo dispuesto por el ARTICULO VIGESIMO SEGUNDO de las DI
 
 III.- Se reforman los incisos a), b) y se adicionan los incisos c) y d) a la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1991, para quedar como sigue:
 
-V.- ..........
-
 a).- Multiplicarán la tasa vigente al momento de efectuar el cálculo por el resultado de multiplicar la tasa del crecimiento experimentado por la producción industrial nacional en el periodo comprendido entre el mes de diciembre del año inmediato anterior y el mes en el cual se efectúa el cálculo, adicionado de la unidad, por el factor de actualización correspondiente a dicho periodo. El resultado así obtenido se multiplicará por el factor de ajuste que permita mantener la carga fiscal.
 
 b).- El producto del inciso anterior se dividirá entre el resultado de multiplicar la tasa de crecimiento de la industria tabacalera entre el mes de diciembre y el del mes en que se efectúa el cálculo adicionada de la unidad, por la tasa de crecimiento del precio al público de los cigarros en el mismo periodo adicionada de la unidad.
@@ -2283,8 +2253,6 @@ c).- El factor de ajuste a que se refiere el inciso a), se obtendrá restando a 
 d).- La tasa a que se refiere este precepto se aplicará a partir del mes siguiente a aquél en que se efectúa el cálculo y en ningún caso será inferior a 75%.
 
 La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo para calcular la tasa aplicable y la publicará en el Diario Oficial de la Federación.
-
-..........
 
 IV.- Lo dispuesto en el artículo 2o., fracción I, inciso D), de la Ley del Impuesto Especial sobre Producción y Servicios se aplicará a la tasa del 23.5% durante el año de 1993; del 22% durante el año de 1994 y del 20.5% durante el año de 1995.
 
@@ -2302,8 +2270,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ARTICULO NOVENO.- Se REFORMAN los artículos 2º, fracción I, incisos I) y J); 3º, fracciones VI, VII y VIII; 4º fracción II, segundo párrafo; 11, tercer párrafo; 14, primer párrafo; 19, fracción II, tercer párrafo; se ADICIONAN los artículos 2º, fracción I, con un inciso K); 2º-A; 2º-B; 4º-A; 11, con un cuarto párrafo, pasando el actual cuarto a ser quinto párrafo, a la misma Ley; y se DEROGAN los artículos 2º, fracción I, inciso G); 3º, fracción XIII y 8º, fracción VI, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ARTICULO DECIMO.- Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0. 1515.
@@ -2317,8 +2283,6 @@ ARTICULO DECIMO PRIMERO.- Durante el año de 1994 y para efectos del artículo 2
 ARTICULO DECIMO SEGUNDO.- Durante el año de 1994, se aplicará al gas natural para combustión automotriz la tasa del 50%, en lugar de la del 60% a que se refiere el inciso K) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 ARTICULO DECIMO TERCERO.- Durante el año de 1994, se prorroga la vigencia de la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992 y las modificaciones a dicha fracción, publicadas en el Diario Oficial de la Federación el 20 de julio de 1992.
-
-T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
@@ -2339,8 +2303,6 @@ Publicada en el Diario Oficial de la Federación el 28 de diciembre de 1994
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ARTICULO NOVENO.- Se REFORMAN los artículos 2o., fracciones I, incisos F) y H) subinciso 1, II inciso C); 2o-A, fracciones I, II, III y VI incisos b), c), d), f) y g) y el último párrafo; 4o., fracciones I y IV; 4o-A; 5o., segundo y cuarto párrafos; 5o-A, primer párrafo; 11, primero, segundo y tercer párrafos; 13, fracción III; 19 fracciones II, tercer párrafo y VI, segundo párrafo; 25, primer párrafo; Se ADICIONAN los artículos 2o., fracción I, incisos C) y G); 3o., fracción IX; 4o-B; 4o-C; 6o-A; y 21, segundo párrafo; Se DEROGAN los artículos 2o-A, fracción VI, inciso e); y 3o., fracciones VII y VIII; de y a la Ley del Impuesto Especial Sobre Producción y Servicios para quedar como sigue:
-
-..........
 
 DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
@@ -2366,13 +2328,9 @@ En la página 38, Segunda Sección, renglones 18, 19 y 20, dice:
 
 la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en delan-
 
-te
-
 Debe decir:
 
 la inversión deducido%%%%%%%%%%%%%%%%%%%%%%%%en adelan-
-
-te
 
 En la página 68, Segunda Sección, renglón 21, dice:
 
@@ -2408,13 +2366,9 @@ símbolo 183 \f "Symbol" \s 9 \h	4 A.-	con una fracción IV.
 
 Las modificaciones anteriores quedan de la siguiente manera:
 
-...........
-
 Disposición Transitoria de la Ley del Impuesto Especial Sobre Producción y Servicios
 
 Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
-
-T r a n s i t o r i o s
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
@@ -2432,8 +2386,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ARTICULO QUINTO.- Se REFORMAN los artículos 2o., fracción I, inciso I); 2o.-A, fracciones II, III y VI, incisos b), c), d), f) y g); 4o.-A, primer párrafo; 11, tercer párrafo y 19, fracción II, tercer párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2449,8 +2401,6 @@ Publicada en el Diario Oficial de la Federación el 30 de diciembre de 1996
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 Artículo Décimo Segundo.- Se REFORMAN los artículos 2o., fracciones I, incisos G) y K) y III; 2o.-A, fracciones II y III; 4o., actual tercer párrafo y las fracciones I y IV; 4o.-C, cuarto párrafo; 5o.-A, primer párrafo; 8o., fracción IV; 11, tercer párrafo; 15, segundo párrafo; 19, fracciones II, primer y segundo párrafos, IV y V, primer párrafo y 25, último párrafo; se ADICIONAN los artículos 2o., fracción I, con un inciso A); 2o.-C; 4o., con un tercer párrafo, pasando los actuales tercero a quinto párrafos a ser cuarto a sexto párrafos; 8o.-B, con un último párrafo y 19, fracciones II, con un tercer párrafo, pasando el actual tercero a ser cuarto párrafo, VIII, con un segundo párrafo, y X; y se DEROGA el artículo 19, fracción VI, segundo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-...........
 
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
@@ -2477,8 +2427,6 @@ Publicada en el Diario Oficial de la Federación el 29 de diciembre de 1997
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Sexto.- Se REFORMAN los artículos 2o., fracciones I, incisos D), E), subinciso 1 y F) y III; 2o-A, fracciones II y III; 4o., fracción I, primer párrafo; 8o.-B, primer y segundo párrafos; 11, tercer y cuarto párrafos; 19, fracciones IV, primer, segundo y cuarto párrafos, VI, VIII y X, y se ADICIONAN los artículos 2o., fracción I, con un último párrafo; 2o-D; 3o., con una fracción XII; 19, fracciones IV, con un último párrafo, XI, XII, XIII y XIV, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
@@ -2515,8 +2463,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998
 Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Noveno. Se REFORMAN los artículos 2o., fracciones I, inciso F) y III; 2o.-C, fracción III; 3o., fracciones III, V, IX, X y XV; 4o., primer, segundo y tercer párrafos y las fracciones I, segundo párrafo, II, primer párrafo y IV; 5o., segundo párrafo; 8o., fracción IV y último párrafo del artículo; 11, actuales tercero y cuarto párrafos; 13, fracción III; 15, segundo y tercer párrafos; 16; 17; 19, fracciones II, primer y tercer párrafos, IV, primero, segundo y sexto párrafos, VIII, actuales primer y segundo párrafos, X, XI, XII, primero y segundo párrafos y XIII y 25, fracción III; se ADICIONAN los artículos 2o., fracción I, con un inciso B); 3o., fracciones II, XIII, XIV y XVIII; 4o., con un quinto párrafo, pasando los actuales quinto y sexto a ser sexto y séptimo párrafos, respectivamente; 5o., con un tercer y cuarto párrafos, pasando los actuales tercero a séptimo párrafos, a ser quinto a noveno párrafos; 6o., con un segundo párrafo; 8o., con las fracciones I, V y VI; 11, con un segundo párrafo, pasando los actuales segundo a quinto párrafos, a ser tercero a sexto párrafos; 14, con un tercer párrafo; 19, fracciones IV, con un último párrafo, VIII con un segundo párrafo, pasando los actuales segundo a cuarto párrafos, a ser tercero a quinto párrafos, X, con un segundo párrafo, XII con un tercer párrafo, pasando el actual tercer párrafo, a ser cuarto párrafo, XIV, XV, XVI, XVII y XVIII; 20 y 24, con una fracción V; y se DEROGAN los artículos 2o., fracción I, incisos A), C) y G); 4o., fracción II, segundo párrafo; 4o.-A; 4o.-B; 4o.-C; 6o.-A; 8o.-B; 19, fracciones II, cuarto párrafo, IV, actuales cuarto y quinto párrafos y V, y 25, fracción IV; de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-...........
 
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
@@ -2566,8 +2512,6 @@ Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Octavo. Se REFORMAN los artículos 1o.; 2o.; 2o.-A, fracción II y último párrafo; 2o.-C, fracción II, primer párrafo y último párrafo; 3o., primer párrafo, fracción X; 4o., primero, segundo y tercer párrafos, fracción I, primer párrafo, y antepenúltimo y penúltimo párrafos; 5o., segundo, sexto y séptimo párrafos; 6o.; 7o., primero y segundo párrafos; 8o., primer párrafo y fracción I; 9o.; 10, primer párrafo; 11, primero y actuales tercero, cuarto y quinto párrafos; 12, primer párrafo; 13, primer párrafo; 14, segundo párrafo; 15, primero y último párrafos; 16; 19, primer párrafo y fracciones II, III, VII, VIII, primero y tercer párrafos, IX, XI, XII, primer párrafo, XIII, XIV y XVIII; 22; 23; 24, primer párrafo; 25, fracción III; la denominación de "Capítulo VII De las Participaciones a Entidades Federativas" para quedar como "Título III De las Participaciones a las Entidades Federativas"; se ADICIONAN un Título I para denominarse "De las Bebidas Alcohólicas Fermentadas, Cervezas y Bebidas Refrescantes, Tabacos Labrados, Gasolinas, Diesel y Gas Natural", comprendiendo los Capítulos I al VI actuales; los artículos 3o., con las fracciones XIX, XX, XXI y XXII; un Título II denominado "De las Bebidas Alcohólicas", comprendiendo los Capítulos I al VII con los artículos del 26-A al 26-P; y se DEROGAN los artículos 3o., fracciones V, XIII, XIV y XVIII; 5o., tercero y cuarto párrafos, pasando los actuales quinto a noveno a ser tercero a séptimo párrafos respectivamente; 8o., fracciones V, VI y último párrafo; 11, segundo párrafo, pasando los actuales tercero a sexto a ser segundo a quinto párrafos respectivamente; 14, último párrafo; 15, segundo párrafo, pasando los actuales tercero y cuarto a ser segundo y tercero párrafos respectivamente; 19, fracciones IV, VIII, segundo párrafo, pasando los actuales tercero a quinto a ser segundo a cuarto párrafos respectivamente, X, segundo párrafo, XV y XVII; 20 y 24, fracción V, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-...........
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Noveno. En relación con las modificaciones a que se refiere el Artículo Octavo de esta Ley, se estará a lo siguiente:
@@ -2585,8 +2529,6 @@ III.	Para los efectos de la determinación del impuesto a que se refiere el Tít
 TABLA
 
 Producto	Cuota por litro
-
-$
 
 Ron		17.95
 
@@ -2624,8 +2566,6 @@ Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Séptimo. Se REFORMAN los artículos 5o.-A, primer párrafo; 8o., fracción I; 19, fracción XII, segundo párrafo; 22; 26-B, último párrafo; 26-D; 26-E, primer párrafo; 26-H, actuales segundo y tercer párrafos; 26-I; 26-M, fracción XII; se ADICIONAN los artículos 8o., con una fracción III; 23-Bis; 26-C, con un segundo párrafo, pasando los actuales segundo a cuarto párrafos a ser tercero a quinto párrafos, respectivamente; 26-E, con un último párrafo; 26-H, con un tercer párrafo, pasando el actual tercero a ser cuarto párrafo y se DEROGA el artículo 19, fracciones VIII, segundo párrafo, pasando los actuales tercero y cuarto párrafos a ser segundo y tercer párrafos, respectivamente y XVI; de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Octavo. Para el ejercicio fiscal de 2001, en lugar de aplicar la actualización mensual de las cuotas por litro a que se refiere el artículo 26-B de la Ley del Impuesto Especial sobre Producción y Servicios, se estará a lo siguiente:
@@ -2637,8 +2577,6 @@ Cuotas por litro vigentes a partir de enero de 2001
 TABLA
 
 PRODUCTO	CUOTA POR LITRO
-
-$
 
 Aguardiente Abocado o Reposado 5.12 Aguardiente Standard (blanco u oro)Charanda Licor de hierbas regionalesAguardiente Añejo 9.90 HabaneroRompopeAguardiente con Sabor 11.76 CoctelesLicores y Cremas de hasta 20% Alc. Vol.ParrasBacanora 16.84 ComitecoLechuguilla o raicillaMezcal SotolAnís 18.10 GinebraVodka Ron 22.40 Tequila joven o blanco Brandy 26.94 Amaretto 27.33 Licor de Café o CacaoLicores y Cremas de más 20% Al. Vol.Tequila reposado o añejoRon Añejo 32.45 Brandy Reserva 35.14 Ron con Sabor 51.16 Ron ReservaTequila joven o blanco 100% agave 52.26 Tequila reposado 100% agaveBrandy Solera 57.92 Cremas base Whisky 76.17 Whisky o Whiskey, Borbon o Bourbon, Tenessee "Standard"Calvados 133.24 Tequila añejo 100% agaveCognac V.S. 161.10 Whisky o Whiskey, Borbon o Bourbon, Tenessee "de Luxe"Cognac V.S.O.P. 271.11 Cognac X.O. 1,022.02 Otros 1,049.59
 
@@ -2667,8 +2605,6 @@ Publicada en el Diario Oficial de la Federación el 1º de enero de 2002
 Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Primero. Se REFORMAN los artículos 1o.; 2o.; 3o.; 4o.; 5o.; 5o.-A; 6o.; 7o.; 8o.; 9o.; 10; 11; 12, primer párrafo; 13, primer párrafo y fracción III; 14, segundo párrafo; 15; 16; 17; 18; 19; 21, segundo párrafo; 22; 23; 24, primero y último párrafos; 25, fracción III; 26; la denominación de Título III De las Participaciones a las Entidades Federativas para quedar como Capítulo VII De las Participaciones a las Entidades Federativas; se ADICIONAN los artículos 12, con una fracción III; 13, con la fracción IV; 23-A; 23-B; y se DEROGAN la denominación de Título I De las Bebidas Alcohólicas Fermentadas, Cervezas y Bebidas Refrescantes, Tabacos Labrados, Gasolinas, Diesel y Gas Natural; los artículos 23-Bis; el Título II denominado De las Bebidas Alcohólicas; 26-A; 26-B; 26-C; 26-D; 26-E; 26-F; 26-G; 26-H; 26-I; 26-J; 26-K; 26-L; 26-LL; 26-M; 26-N; 26-Ñ; 26-O y 26-P; de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-...........
 
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
@@ -2758,8 +2694,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 Artículo Único. Se REFORMAN los artículos 2o., fracción I, incisos G) y H); 3o., fracciones XIII, XIV, XV y XVI; 4o., segundo y tercer párrafos y fracción II; 5o.-A, primer párrafo; 8o., fracción I, incisos a) y e); 11, primero y segundo párrafos; 18, fracciones I, II, III, IV, V, VI, VII, IX y X; 19, fracciones II, primero y tercer párrafos, VIII, primero y tercer párrafos, X, XII, primer párrafo, y XIII; se ADICIONAN los artículos 1o., con un último párrafo; 8o., fracción I, con un inciso g); 13, fracción I, con un segundo párrafo; y se DEROGAN los artículos 2o., fracción I, inciso F); 2o.-C; 3o., fracción XI; 18, fracción XI; de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
 Artículo Primero. En relación con las modificaciones a que se refiere el Artículo Único de esta Ley, se estará a lo siguiente:
@@ -2842,8 +2776,6 @@ Ley del Impuesto Especial sobre Producción y Servicios
 
 ARTÍCULO QUINTO. Se REFORMAN los artículos 2o., fracción I, incisos A), numerales 1, 2 y 3, B), G) y H); 3o., fracciones XII, tercer párrafo, XIII y XV; 7o., último párrafo; 8o., fracción I, inciso c); 13, fracción III; 19, fracciones V, segundo párrafo, VIII, primer párrafo, X, XI, XII, primer párrafo, XIV y XIX, y 23-A, primer párrafo; se ADICIONAN los artículos 4o., con un tercer párrafo, pasando los actuales tercero a octavo párrafos a ser cuarto a noveno párrafos, respectivamente; 19, fracción II, con un último párrafo, y se DEROGAN los artículos 2o., fracción II, inciso B); 3o., fracción XIV; 7o., cuarto párrafo; 8o., fracción I, incisos a), y e), y 18, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-...........
-
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
 ARTÍCULO SEXTO. En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
@@ -2878,8 +2810,6 @@ Publicado en el Diario Oficial de la Federación el 1º de diciembre de 2004
 
 ARTÍCULO ÚNICO. Se Reforman los artículos 3o., fracciones IV y V; 19, fracción V y XV; 23, segundo párrafo y 23-B, y se Adicionan los artículos 13, con una fracción V y 19, fracción XIII, con un segundo párrafo, todos de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 2005.
@@ -2904,8 +2834,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO SEXTO. Se REFORMAN el segundo párrafo del artículo 1o.; la fracción IV del artículo 3o.; cuarto párrafo del artículo 4o.; artículo 10; último párrafo del artículo 14; las fracciones I, V, primero y segundo párrafos y XV del artículo 19, y artículo 23-B, se ADICIONAN el artículo 2o.-C; la fracción XI del artículo 3o.; el tercer párrafo, pasando los actuales párrafos tercero a quinto a ser cuarto a sexto párrafos del artículo 5o.; el último párrafo del artículo 11 y las fracciones XX y XXI del artículo 19, y se DEROGA el último párrafo de la fracción V del artículo 19, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
 
 ARTÍCULO SÉPTIMO. Se deroga el ARTÍCULO TERCERO del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
@@ -2926,8 +2854,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO SÉPTIMO. Se REFORMAN las fracciones XII primer párrafo, XIV y XV del artículo 19 y artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2944,8 +2870,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO OCTAVO. Se REFORMAN los artículos 2o., fracción II, inciso A); 4o., segundo y cuarto párrafos; 5o.-A, primer párrafo; 8o., fracción I, inciso d), y 19, fracciones II, primer y tercer párrafos, VIII, primer párrafo, X, primer párrafo, XI y XIII, primer párrafo; y se DEROGAN los artículos 2o., fracción I, incisos G) y H); 3o., fracciones XV y XVI; 8o., fracción I, inciso f), y 13, fracción V, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar de la siguiente manera:
 
-..........
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
@@ -2961,8 +2885,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006
 
 Artículo Único. Se reforma el artículo 2o., fracción I, inciso C), numerales 1 y 2, y se adiciona el numeral 3, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -2996,8 +2918,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO SEXTO. Se ADICIONAN los artículos 2o., fracción II, inciso B); 5o.-B; 8o., fracción III; 18; 19, fracción XV, segundo párrafo; 26-A; 27, último párrafo, y 29, a la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
 ARTÍCULO SÉPTIMO. En relación con las modificaciones a que se refiere el Artículo Sexto de este Decreto, y tratándose de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de la Ley del Impuesto Especial sobre Producción y Servicios, que se realicen con posterioridad a la fecha de la entrada en vigor del presente Decreto, sólo quedarán afectas al pago del impuesto las cantidades efectivamente percibidas a partir de su entrada en vigor, las cuales sólo se podrán disminuir con el monto de los siguientes conceptos:
@@ -3023,8 +2943,6 @@ Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO QUINTO.- Se REFORMAN los artículos 2o.-A, 2o.-B y 27, fracción I y se ADICIONAN el artículo 7, quinto párrafo, pasando los actuales párrafos quinto y sexto de dicho artículo a ser sexto y séptimo, y el artículo 8, fracción I, inciso a), de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
@@ -3078,8 +2996,6 @@ Bajo ese enfoque, la declaratoria de invalidez de los artículos 4o.-A, último 
 
 1) Al artículo 10-D, fracción II, de la Ley de Coordinación Fiscal, exclusivamente en la porción normativa de su primer párrafo que señala Salvo que se trate de gasolina y diesel, así como por lo que se refiere a la totalidad del párrafo segundo de la citada fracción.
 
-II
-
 Tratándose de gasolina y diesel se considerará que la venta final se lleva a cabo en el territorio de una entidad cuando en el mismo se realice la entrega al consumidor final, con independencia del domicilio fiscal del contribuyente o del consumidor.
 
 2) Al artículo 27, fracción I, de la Ley del Impuesto Especial sobre Producción y Servicios, en la porción normativa que señala: Se exceptúan de lo anterior los impuestos locales a la venta o consumo final de los bienes objeto del impuesto previsto en esta Ley, que en términos de lo establecido en el artículo 10-C de la Ley de Coordinación Fiscal establezcan las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal; lo anterior, si se toma en consideración que la validez de dicha porción normativa depende de la fracción VIII del artículo 10-C de la Ley de Coordinación Fiscal, cuya invalidez ha sido declarada.
@@ -3109,8 +3025,6 @@ Publicado en el Diario Oficial de la Federación el 24 de julio de 2008
 Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2009
 
 Artículo Único. Se REFORMAN los artículos 2o., en su primer párrafo y fracción II, inciso B); 4o., cuarto párrafo; 5o., segundo párrafo; 10; 11, cuarto párrafo; 14, segundo párrafo, y 19, fracciones I y IX, y se ADICIONAN los artículos 2o., fracciones I, inciso C) con los párrafos segundo y tercero, y II, con un inciso C); 3o., con las fracciones XIV, XV y XVI; 5o.-C; 8o., con una fracción IV; 18-A; 19, fracciones II, con un quinto párrafo y XXII, y 20, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3150,8 +3064,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2010
 
 Artículo Único. Se Adicionan los artículos 8, fracción I, con un inciso e) y 13, con una fracción V, y se Deroga el artículo 4, tercer párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en al Diario Oficial de la Federación.
@@ -3169,8 +3081,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de noviembre de 2010
 
 Artículo Único. Se Reforman los artículos 2o., fracción II, inciso A); 4o., segundo y tercer párrafos; 5o.-A, primer párrafo; 8o., fracción I, inciso d), y 19, fracciones II, primer y tercer párrafos, VIII, primer párrafo, X, primer párrafo, XI y XIII, primer párrafo, y se Adicionan los artículos 2o., fracción I, con el inciso F), y 3o., con la fracción XVII, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3192,8 +3102,6 @@ Publicado en el Diario Oficial de la Federación el 19 de noviembre de 2010
 
 ARTÍCULO ÚNICO. Se REFORMA el artículo 2o., fracción I, inciso C), segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2011.
@@ -3214,8 +3122,6 @@ Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 Artículo Único. Se reforman los artículos Segundo, fracción III, tercer párrafo y Sexto, fracción III, del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios., publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
@@ -3231,8 +3137,6 @@ Publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ARTÍCULO TERCERO. Se reforman los artículos 1o., fracción I; 2o., fracciones I, incisos A), numerales 1 y 3, y C), tercer párrafo y II, inciso A); 2o.-A; 2o.-B; 3o., fracciones IX y X; 4o., segundo y tercer párrafos, y cuarto párrafo en su fracción II; 5o., segundo párrafo; 5o.-A, primer párrafo; 8o., fracciones I, inciso c), III, inciso a), y IV, inciso d), segundo párrafo; 10; 11, cuarto párrafo; 13, fracción I, segundo párrafo; 14, actual segundo párrafo; 19, fracciones I, II, primero, segundo, tercero y quinto párrafos, VI, VIII, primer párrafo, X, primer párrafo, XI y XIII, primer párrafo, y XXII, y 20, segundo párrafo; se adicionan los artículos 2o., fracción I, con los incisos G), H), I) y J); 3o., con las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV y XXXVI; 5o., con un último párrafo; 5o.-D; 7o., con un sexto párrafo, pasando los actuales sexto y séptimo a ser séptimo y octavo párrafos; 8o., fracción I, con los incisos f), h) e i); 13, las fracciones VI, VII, VIII y IX; 14, con un segundo párrafo, pasando el actual segundo a ser tercer párrafo; 15, con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos; 15-A; 19, con una fracción XXIII; 19-A, y 20, con un quinto y sexto párrafos, y se derogan los artículos 7o., quinto párrafo; 8o., fracción I, incisos a) y g); 13, fracción IV, y 29, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-.
 
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
@@ -3267,8 +3171,6 @@ VI.	Para los efectos de lo dispuesto en el artículo 2o. fracción I, inciso I) 
 3.	Categoría 4 	3.0%
 
 VII.	Durante 2014, en lugar del factor a que se refiere el inciso b) de la fracción I del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, que se utiliza para calcular el monto por concepto de mermas, se utilizará un factor de 0.005.
-
-.
 
 ##### TRANSITORIOS
 
@@ -3347,8 +3249,6 @@ V.	Se deroga.
 > <small>Fracción derogada DOF 15-11-2016</small>
 
 VI.	Con la finalidad de que se den a conocer a más tardar el 31 de diciembre de 2015 las bandas, precios y montos a que se refiere la fracción III de este artículo quinto, dicha fracción entrará en vigor a partir del día siguiente a la publicación en el Diario Oficial de la Federación del presente Decreto. Para los fines mencionados se tomarán en consideración, cuando así proceda, los montos de las cuotas establecidas en el artículo 2o., fracción I, inciso D), numeral 1 de la Ley del Impuesto Especial sobre Producción y Servicios, mismas que entrarán en vigor el 1 de enero de 2016.
-
-.
 
 ##### Transitorio
 
@@ -3447,8 +3347,6 @@ Para la determinación del justo valor económico al que hace referencia el pár
 En adición al anterior, y de acuerdo al procedimiento establecido en el presente transitorio, la contraprestación que reciba Petróleos Mexicanos durante el ejercicio fiscal 2017 deberá incluir el justo valor económico correspondiente a sus inversiones que hayan resultado afectadas con motivo de las adjudicaciones de contratos para la exploración y extracción de hidrocarburos, efectuadas por la Comisión Nacional de Hidrocarburos derivados de la licitación CNH-R01-L04/2015, realizada durante el ejercicio fiscal 2016.
 
 Vigésimo Segundo. Petróleos Mexicanos difundirá en su portal de Internet una versión pública de su Plan de Negocios, misma que no deberá contener información que pudiera comprometer o poner en riesgo sus estrategias comerciales.
-
-..
 
 ##### Transitorio
 
@@ -3622,8 +3520,6 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Quinto.- Se reforman los artículos 2o., fracción I, incisos D), numeral 1, subincisos a y b, y tercer párrafo, G), cuarto párrafo y H), tercer y cuarto párrafos; 2o.-A, fracciones I y II y tercer párrafo; 3o., fracciones IX, X, XVII, primer párrafo y XXII, incisos d) y g); 5o., actuales cuarto, quinto y sexto párrafos; 5o.-D, quinto, sexto y séptimo párrafos; 10, primer párrafo; 11, cuarto párrafo; 14, tercer párrafo y 19, fracciones I y XIX; se adicionan el artículo 2o., fracción I, incisos C), con un cuarto párrafo y D), con un cuarto párrafo, y se derogan los artículos 2o.-C; 3o., fracción XI; 5o., tercer párrafo, pasando los actuales cuarto a octavo párrafos a ser tercero a séptimo párrafos, respectivamente, y 19, fracciones XX y XXI, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..
-
 DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Sexto.- En relación con las modificaciones a las que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
@@ -3635,8 +3531,6 @@ La presente disposición entrará en vigor al día siguiente de la publicación 
 II.	Para los efectos del artículo 2o., fracción I, inciso G), segundo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, la cuota aplicable a bebidas saborizadas para el ejercicio fiscal de 2020, se actualizará con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2017, hasta el mes de diciembre de 2019, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público, publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de 2019, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
 
 La presente disposición entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
-
-.
 
 ##### Transitorio
 
@@ -3787,8 +3681,6 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Cuarto. Se reforman los artículos 3o., fracción IV; 19, fracciones XIV, XVIII y XXII, y 19-A; se adicionan los artículos 2o., fracción I, inciso D), con un quinto párrafo; 3o., con una fracción XXXVII; 5o., con un octavo párrafo, y 19, con una fracción XXIV, y se deroga el artículo 5o.-D, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -4060,8 +3952,6 @@ Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2025
 
 Artículo Único.- Se reforman los artículos 1o., párrafo tercero; 2o., fracción I, inciso C), párrafos primero, segundo y tercero e inciso G), y fracción II, inciso B), párrafo primero; 3o., fracciones VIII, párrafo primero y XVIII; 5o., párrafo segundo; 7o., párrafo tercero; 8o., fracción I, incisos d) y f); 10, párrafo primero; 11, párrafos segundo y cuarto; 13, fracción VII; 14, párrafo tercero; 19, fracciones II, párrafo quinto, IV, párrafo primero, IX, X, párrafo primero, y XXIII, y 27, párrafo segundo, y se adicionan los artículos 2o., fracción I, un inciso K) y a la II, en su inciso B), los párrafos segundo, tercero y cuarto, y un inciso D); 3o., las fracciones VIII, con un inciso d), XX BIS, XXXVIII y XXXIX; 5o.-A BIS; 8o., fracción I, un inciso j); 18, un párrafo sexto; 18-B, y 20-A, de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2026.
@@ -4146,67 +4036,9 @@ Atentamente.
 
 Ciudad de México, a 16 de diciembre de 2025.- En suplencia por ausencia del Secretario de Hacienda y Crédito Público y de la Subsecretaria de Hacienda y Crédito Público, con fundamento en el artículo 50, primer párrafo del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, el Subsecretario de Ingresos, Carlos Gabriel Lerma Cotera.- Rúbrica.
 
-Æ|"Ja$$
-
-Æ|"J!`!a$$
-
 JKT§¨³ËÌlm5
 
-W
-
-X
-
-Æ|"JAàý^A`àýa$$a$gd!RN$
-
-Æ|"Ja$$
-
 Æ|"J!`!a$KTjv¦§ËÌ×mp5
-
-L
-
-V
-
-W
-
-X
-
-]
-
-Æ|"Jaàý^a`àýa$$
-
-Æ>a$gdåA$ ` a$gdåA$
-
-Æ|"Jàý^`àýa$gdåA$
-
-Æ|"Jaàý^a`àýa$gdåA$
-
-Æ|"Jaàý^a`àýa$$a$gd=c2$
-
-Æ|"JÇþ^Ç`þa$$a$gd!RN
-
-Æ|"Jaàý^a`àýa$gdª$
-
-Æ|"Jaàý^a`àýa$$
-
-Æ>a$gdåA$
-
-hÐa
-
-hÐa
-
-hÐa
-
-hÐa
-
-hÐa
-
-hÐa
-
-hÐa
-
-Æ|"Jaàý^a`àýa$gdøß$
-
-Æ|"Jaàý^a`àýa$$a$gd+Nm$
 
 ·2¸2Ä2Ì2à2á2pZZ
 
@@ -4218,211 +4050,31 @@ E3F3[3c3w3x3pZZ
 
 x3y333©3ª3pZZ
 
-ª3«3Ì3Ô34mW
-
-Ì3Ô344444"4%46474>4B4N4Z4f4óèÙè¿¥¿¥¿¥¿qW=3hÐa
-
-Æ|"Jaàý^a`àýa$gdî($
-
-Æ|"Jaàý^a`àýa$gd'
-
-×9ø9X:Y:Ë:Ì:ä:å:ø:ù:;
-
-Æ|"Jaàý^a`àýa$gd'$a$gd!RN$a$gdî(X:Y:\:³:´:Ë:Ì:Î:ä:å:ç:÷:ø:ù:û:;;
-
-Æ|"Jaàý^a`àýa$$
-
-Æ|"Jaàý^a`àýa$gd^$a$gd$
-
-Æ|"Jaàý^a`àýa$gd$
-
 Æ|"JAàý^A`àýa$$a$gd!RNÎBÏBÒBCCCC÷C
 
-Æ|"J!`!a$$
-
-Æ|"JAàý^A`àýa$gd!z$
-
-hÐa
-
-hÐa
-
-õl
-
-Æ>a$gdÿ>
-
-Æ|"J!`!a$$
-
 Æ|"JAàý^A`àýa$$a$gdÜN$
-
-ê	ë	¢£
-
-Æ|"J!`!a$$
-
-Æ|"JQþ^`Qþa$$a$gd%Ho$
-
-Æ|"JÐQþ^Ð`Qþa$
-
-¢0ö0÷0Î2"3#333m3n3Ö3÷3ø34:4;4ÿ4 5!5É5÷æÒÊ¶¶®¶¶®¶¶®ÒÒÊ$
-
-Æ|"JÐQþ^Ð`Qþa$$a$gd%Ho$
 
 iCJaJh.Gh
 
 SäTUUÐUÑUp[[\\\µ\¶\]A]B]¼]õéÝõõõéÕÉ¼³³¼¼«¼$
 
-Æ|"Ja$$
-
-Æ|"JAàý^A`àýa$gdÀO$
-
 dÊdËdàePfQfki§i¨ikîæîÒÆî²ªÒÒz$
-
-Æ|"JAàý^A`àýa$gdÀO$a$gd´a$
-
-Æ|"JAàý^A`àýa$
 
 ïcðcúcûcücd
 
-Æ|"Ja$$
-
-Æ|"JAàý^A`àýa$$a$gd? $
-
-Æ>a$gdâod$
-
-Æ|"JAàý^A`àýa$$a$gd? $
-
-Æ|"JAàý^A`àýa$gd}6Á$
-
-Æ|"JAàý^A`àýa$$a$gd? $
-
-Æ|"JAàý^A`àýa$gd,uo
-
-Æ|"JAàý^A`àýa$gd}6Á$
-
-Æ|"JAàý^A`àýa$gd°$
-
->
-
->
-
-Æ|"J!`!a$?L²ÈÒÓë
-
-Æ|"J!`!a$$a$gdÆZ$a$gd®o$
-
-Æ|"JÐQþ^Ð`Qþa$$
-
-Æ|"J!`!a$
-
-Æ|"JÉý^`Éýa$gd? $
-
 Æ|"JXÉý^X`Éýa$gd? $
 
-Æ|"J!`!a$$
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$ÿz{
-
-Æ|"Ja$$
-
-Æ|"Ja$
-
-Æ|"J!`!a$gd:0ú$
-
-Æ|"J!`!a$gdª$
-
-Æ|"J!`!a$gdÞH$
-
-Æ|"Ja$gdÞH$
-
-Æ|"Ja$gdÞH$
-
-Æ|"J!`!a$gd:0ú$
-
-Æ|"Ja$gdÊ!Ä$
-
-Æ|"Ja$gd½'$
-
-Æ|"J!`!a$gd½'$
-
-Æ|"Ja$gd"»$
-
-Æ|"Ja$gd"»$
-
-Æ|"J!`!a$gdª$a$gdû4-$
-
-Æ|"J!`!a$gd	B$
-
-Æ|"J!`!a$gdðcr$
-
-Æ|"Ja$gdðcr$
-
-Æ|"J!`!a$gdÊ!Ä$
-
-Æ|"Ja$gdÊ!Ä$
-
-Æ|"J!`!a$gdû$
-
-Æ|"Ja$gdû$
-
-Æ|"Ja$gd¤AN$a$gdÂ($
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$gd$
-
-Æ|"Ja$gd$
-
 Gkh
 
 Gkh
 
 Gkh
 
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$gd
-
-Gk$
-
 Gkh
-
-Æ|"Ja$$
-
-Æ|"Ja$gd'ul$
-
-Æ|"Ja$gd'ul$
-
-Æ|"Ja$gdæ|$
-
-Æ|"Ja$$
 
 Æ|"Ja$gdÉrÄ$
 
 Æ|"Ja$gdÉrÄ$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$$
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$gd",¹$
-
-Æ|"Ja$gd",¹$
-
-Æ|"Ja$gd",¹$
 
 Æ|"J!`!a$gdá}h$
 
@@ -4430,350 +4082,52 @@ Gkh
 
 Æ|"Ja$gdá}h$
 
-Æ|"J!`!a$gd",¹$
-
-Æ|"Ja$gd",¹$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$gd+ú$
-
-Æ|"Ja$gd+ú$
-
-Æ|"Ja$gd+ú$
-
-Æ|"J!`!a$gd",¹$
-
-Æ	C"|"J!`!$
-
-Æ|"Ja$$
-
-Æ|"Ja$gd½C$
-
-Æ|"J!`!a$gd½C$
-
-u
-
-q
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"J!`!a$$a$gdÕ!$
-
-Æ|"JÉý^`Éýa$gdÕ!$
-
-Æ|"J!`!a$$
-
-Æ|"J!`!a$gdÇ_5$
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$gdÇ_5$
-
-Æ|"J!`!a$gdÇ_5$
-
-Æ|"J!`!a$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$#{/{0{É{Ê{Ë{||I|J|]|`|f|ø|}}}Z}y}§}Å}Ù}î}~~(~A~X~Y~Åâ
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-Æ|"Ja$$
-
-! µ¶¸¹ÓÙÚÛÜÝ
-
-!
-
-"
-
-#
-
-$
-
-%
-
-3
-
-9
-
-:
-
-;
-
-<
-
-=
-
-t
-
-¸
-
-¹
-
-»
-
-¼
-
-ì
-
-ÿ
-
-!
-
-"
-
-#
-
-$
-
-%
-
-3
-
-9
-
-:
-
-;
-
-<
-
-=
-
-P
-
-t
-
-±
-
-¸
-
-¹
-
-º
-
-»
-
-¼
-
-È
-
-ì
-
-ÿ
-
-Æ|"Ja$$
-
-Æ|"J¤¤
-
-Æ|"J&dPÆÿa$
-
-Æ|"J&dPÆÿa$
-
-Æ|"J&dPÆÿ
-
 såtætçtót]u^u²}³}~
 
 ~&~C~b~~~µ~Ð~Û~Ü~õ~ !+òçÜòÓÇçòç¿ç¿ç¿çÇç¿çÇç¿çÇç¿çÇç¿çÇç¿ç¿ç¿çÇçÇç° °çÇç¿hU?CJaJhetÏCJaJmHsHhN,hetÏ5CJaJmHsHhN,hetÏCJaJmHsHhetÏCJaJhN,hetÏ5CJaJhetÏ5CJaJhetÏ56CJaJhN,hetÏCJaJhN,hetÏ56CJaJ4ssætçt^u_u³}´}
-
-ùú£_`"ùúûÈÉÑ
-
-úûúûÉÊ
 
 %%%%%%%ÿ())Z*[*\*_*Á+Â+,,,,-,---­.®.¯.².///­0®0¯0´03332434444444*6+6364656C6¤7¥7¦7´7081828?8 ;!;";1;;;ì=í=øíáíøíØáíØáíøÍáíÄáíøÍáí¼í¼í¼íøÍíøÍáíøÍíøÍáíøÍíøÍíøÍáí¼íøÍáíøÍáíøÍáíøÍáí¼íøhßysCJaJhßys5CJaJhÎSþhßysCJaJhÔf5CJaJhÎSþhÔf5CJaJhÎSþhÔfCJaJhÔfCJaJJ333444444656¥7¦71828!;";í=î=@ @
 
 CCDDDDG G¡G³GKLLLMLäMåMæMáOâOîOïOðOPÕPÜPèPéPïP-Q.Q/Q2QnRoRsRÑRÒRS"S0S1S6SLS`SzSS¦S¿SÀSûT
 
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-ÆÚ
-
-Æ¢°Ú8þG$^8`þa$gdÔDG$
-
-Æ°ÚÐPþG$^Ð`Pþa$gdÔDG
-
-$ G$` a$gdÔDG$&dPÆÿa$gdÔDG
-
-ÆS
-
 $G$Ifa$gdÔDG$
 
-ÆVr G$` a$gdÔDG
-
-$ G$` a$gdÔDG$
-
-ÆH°ÚÐPþG$^Ð`Pþa$gdÔDG$
-
-ÆS
+$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
 $$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
-ÆS
+$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
 $$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
-ÆS
+$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
 $$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
 
-ÆS
-
 $$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-ÆS
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-ÆS
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-ÆS
-
-$$G$Ifa$gdÔDG$?$G$If]?a$gdÔDG$
-
-ÆS
 
 $$G$Ifa$gd^$?$G$If]?a$gdÔDG$
 
-ÆS
-
-Æî&ÐG$^Ða$gdÔDG
-
-ÆàdÐPþ^Ð`Pþa$gdä*Í$ ` a$gdä*Í$&dPÆÿa$gdä*Í
-
-$ G$` a$gdÔDG$a$gdÔDGÌÌ
-
-ÆàdÐPþ^Ð`Pþa$gdä*Í$
-
-Æàd8þ^8`þa$gdä*Í$
-
-ÆË
-
 $Ifa$gdä*ÍfkdÖ$$IfTFÖFJ5R"&Ó
-
-ÆË
 
 $Ifa$gdä*ÍfkdU$$IfTFÖFJ5R"Ó
 
-ÆË
-
 $Ifa$gdä*ÍfkdÎ$$IfTFÖFJ5R"Ó
-
-ÆË
 
 $Ifa$gdä*ÍfkdG$$IfTFÖFJ5R"Ó
 
-ÆË
-
 $Ifa$gdä*ÍfkdÀ$$IfTFÖFJ5R"Ó
-
-ÆË
 
 $Ifa$gdä*Ífkd9$$IfTFÖFJ5R"Ó
 
-ÆË
-
 $Ifa$gdä*Ífkd²$$IfTFÖFJ5R"Ó
-
-ÆË
 
 $Ifa$gdä*Ífkd+ $$IfTFÖFJ5R"Ó
 
-ÆË
-
 $Ifa$gdä*Ífkd¤ $$IfTFÖFJ5R"Ó
-
-ÆË
 
 $Ifa$gdä*Ífkd¡$$IfTFÖFJ5R"Ó
 
 ÆÐÒd ` a$gdä*Í$ ` a$gdä*Ífkd¡$$IfTFÖFJ5R"Ó
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-Æ
-
-é
-
-é
-
-"#CJ
 
 "#CJh

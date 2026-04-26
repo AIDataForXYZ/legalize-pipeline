@@ -762,8 +762,6 @@ Publicado en el Diario Oficial de la Federación el 19 de mayo de 2021
 
 Artículo Único.- Se reforman los artículos 3 y 4; el primer y tercer párrafo del artículo 5; los artículos 7 y 8; la fracción II, pasando a ser VI, recorriéndose en su orden las fracciones III, IV, V y VI, para quedar como II, III, IV y V respectivamente, y la actual fracción VI del artículo 9; las fracciones I y actual IV del artículo 11; la fracción III del artículo 12; el artículo 13; los párrafos primero y tercero del artículo 14; las fracciones I, III y el tercer párrafo del artículo 15; los párrafos segundo y tercero del artículo 16; el artículo 20; la fracción II del artículo 21; las fracciones I, el inciso a) de la II, las fracciones III, IV, las actuales V y VI del artículo 26; las fracciones I, y actuales II, V y VI del artículo 27; las fracciones I, II, IV y sus incisos a) y c) y VI del artículo 28; las fracciones II y III del artículo 30; la denominación del Capítulo III para quedar "DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE CONSULTA POPULAR"; el segundo párrafo del artículo 32; la fracción V del artículo 33; la fracción VI del artículo 34; el artículo 35; el primer párrafo y sus fracciones II, III, IV y V, y el segundo párrafo del artículo 43; las fracciones I y actuales III IV, que pasan a ser II y III, y el segundo párrafo del artículo 45; los artículos 47; 48; 52; el primer párrafo del artículo 53; las fracciones I y II del artículo 54; los artículos 56; 57; 58 y 63, se adicionan un apartado A con las fracciones I y II vigentes y un apartado B con las fracciones I y II en el artículo 6; una fracción III, recorriéndose en su orden las actuales fracciones III y IV, para quedar como fracciones IV y V, respectivamente, y una fracción VI, recorriéndose en su orden las actuales fracciones V y VI, para quedar como VII y VIII, respectivamente, en el artículo 11; un cuarto párrafo en el artículo 12; los párrafos cuarto y quinto en el artículo 15; una fracción V, recorriéndose en su orden las actuales fracciones V y VI, para quedar como fracciones VI y VII, respectivamente, en el artículo 26; una fracción II recorriéndose en su orden las actuales fracciones II, III, IV, V y VI, para quedar como fracciones III, IV, V, VI y VII, respectivamente, en el artículo 27; los párrafos segundo, tercero y cuarto en el artículo 48; un inciso c), recorriéndose en su orden el actual inciso c) para quedar como inciso d), de la fracción V y los párrafos segundo y tercero en el artículo 53, y se derogan el cuarto párrafo del artículo 14; el tercer párrafo del artículo 43; la fracción II, recorriéndose en su orden las actuales III y IV, para quedar como II y III, respectivamente, del artículo 45, y el primer párrafo, quedando el segundo párrafo como párrafo único, en el artículo 52 de la Ley Federal de Consulta Popular, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -774,27 +772,13 @@ Ciudad de México, a 27 de abril de 2021.- Dip. Dulce María Sauri Riancho, Pres
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 
-!rs¨©ª«¬	êÕÄ°s^sI<,#h§\h~7
-
-B*
-
-5B*
-
 5CJh§\h~7
 
 B*CJ\phh§\h~7
 
 5B*CJ\phh§\h~7
 
-¡
-
-¡
-
 CJh§\h~7
-
-5CJ'h§\h§\5B*
-
-5B*
 
 CJaJnH	tH	h§\h~7
 
@@ -904,13 +888,7 @@ CJh§\h§\CJnH	tH	h§\h~7
 
 CJnH	tH	h§\h~7
 
-B*CJ\ph!h§\h§\B*
-
 5CJh§\h§\CJh§\h~7
-
-CJ\h§\h~7
-
-CJ h§\h~7
 
 CJh§\h~7
 

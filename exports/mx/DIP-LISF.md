@@ -6716,8 +6716,6 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO CUADRAGÉSIMO SÉPTIMO.- Se REFORMAN los artículos 49, décimo párrafo; 50, fracción I, cuarto y sexto párrafos, 51, 80 último párrafo y 372, fracción XXV, se ADICIONA el artículo 369 con una fracción XXIII Bis. y se DEROGA el quinto párrafo de la fracción I del artículo 50 de la Ley de Instituciones de Seguros y de Fianzas, para quedar como sigue:
 
-.
-
 Disposiciones Transitorias
 
 ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
@@ -6732,8 +6730,6 @@ En los procedimientos administrativos que se encuentren en trámite, el interesa
 
 IV.	La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
@@ -6747,8 +6743,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2018
 
 Artículo Primero.- Se adiciona un segundo párrafo a la fracción IV del artículo 27 de la Ley de Instituciones de Seguros y de Fianzas, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -6770,8 +6764,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Décimo Segundo. Se reforma el primer, segundo y quinto párrafos, así como las fracciones I, II, III, IV y V del artículo 368 de la Ley de Instituciones de Seguros y de Fianzas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6789,8 +6781,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 Artículo Décimo Tercero.- Se reforman los artículos 334, párrafo primero y actual segundo; 335, párrafo segundo; 364, párrafos primero y actual segundo; 478, párrafo tercero; y se adicionan los artículos 334, con los párrafos segundo y tercero, recorriéndose los subsecuentes; 335, con los párrafos tercero y cuarto, recorriéndose el subsecuente; 364, con un párrafo segundo, recorriéndose los subsecuentes; 388, con un párrafo segundo; 478, con un párrafo cuarto, recorriéndose los subsecuentes, de la Ley de Instituciones de Seguros y de Fianzas, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -6812,8 +6802,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Sexto.- Se reforman los artículos 193, fracción III, inciso l; 280, fracción VI; 281, segundo párrafo y, 479, último párrafo, de la Ley de Instituciones de Seguros y de Fianzas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -6832,426 +6820,32 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-p
-
-p
-
-M
-
-e
-
-f
-
-Ï
-
-Ð
-
-f
-
-Ï
-
-Ð
-
 ÜÜiÜjÜmÜÍÜÎÜÑÜÝÝÝtÝuÝxÝ0Þ1Þ4Þ¿ÞÀÞÃÞß ß£ßáá$ááá á>ã?ãåå[ç\ç_çwèxè{è¶è·èºèeéféié¾ê¿êSëTë!ì"ì/ìµì¶ì¹ì#î$î(îòîóîøîgïhïlï»ï¼ï¿ï'ð(ð,ðZñ[ñbòcòhò+ó,ó2óôôõõ÷íã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷Úã÷íã÷Úã÷Úã÷Ú÷Ú÷Úã÷Úã÷íã÷Úã÷Ú÷Ú÷Úã÷Úã÷íã÷Úã÷Úã÷Úã÷Úã÷Ú÷íã÷Úã÷Ú÷Úh°h¶h>BCJh°h¶h"FÂ5CJh°h¶h>B5CJh°h¶h"FÂCJVÀÛÁÛÜ
-
-m
-
-p
-
-m
 
 ^^__,`-`3`ßaàaäacccÃdÄdkelezeègégiiiFkGk"m#mUnVndn¢o£o¦oppp&p'p,ppppÁpÂpÅpAqBqmqnq|qËqÌqÏqrrrs÷î÷äî÷äî÷î÷äî÷î÷î÷äîÛî÷î÷î÷äî÷äî÷äî÷î÷äî÷î÷äî÷î÷î÷äî÷äîÑäî÷äî÷äî÷äî÷ÅÑäî÷äîÑäîh)'h"FÂ5CJaJh°h¶húu5CJh°h¶h©\CJh°h¶h"FÂ5CJh°h¶h"FÂCJh°h¶húuCJN\X/Y0YfZgZn[o[\\
 
 wwwwwxxxexfxkxÕxÖxÚx6y7y<y6z7z=z&{'{||~~s~t~
 
-%&
-
-±hU
-
-±hU
-
 ±CJhU
 
-±hU
-
-X
-
-\
-
-X
-
-6
-
-6
-
-±hU
-
-±hU
-
 ±CJhU
-
-±hU
 
 SSSèTéTïTéUêUîUçWèWöWßXàXãXrZsZs\t\x\Ý^Þ^ã^```bbbµc¶cºceebfcfhfÖg×gÝg+i,iÎiÏiÒiìiíiðiIjJjMjfjgj?l@lmmmInJnMneo÷íä÷ä÷íä÷íä÷íäÚíä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷íä÷íä÷íä÷ä÷íä÷íä÷ä÷íäÚíä÷íä÷ä÷ä÷íä÷íäh°h¶h&*5CJh°h¶h"FÂCJh°h¶h"FÂ5CJh°h¶h&*CJVQQZQ[QsQtQ±Q²Q7R8RRR
-
-I
-
-J
-
-X
-
-I
-
-J
 
 ¥¥¥¦¦¦1©2©@©g«h«Ï«Ð«Þ«­­;­<­f­g­u­½­¾­]®^®a®¯¯¯l±m±õìãõìãõìãõìãõìãõìãõìãõìãìã×ÍõìãìÄìãõìãõìãìãõìãõìãõìãìãõìã×¸×ÍõìÄìãõìÍõìãhw+Rhôv5CJaJh°h¶hºPóCJh°h¶hôv5CJhw+Rh©15CJaJh°h¶hôvCJh°h¶h©1CJh°h¶h©15CJHÖ×ßàCD{|EF,-  ¢¢o¤p¤
 
 BÿCJh
 
-Bÿh
-
-ü
-
-ý
-
-ü
-
-ý
-
-¨
-
-¨
-
-«
-
 ÐÑÕ¬­²¯°¶[\ABFéêø@A¾¿HIWèéì
-
-±hU
 
 hoB5CJhµhoB5CJB÷C÷H÷I÷V÷W÷Ò÷Ó÷fùgùNûOûDüEüÚýVþWþþþÜ
 
-Ý
-
-ã
-
-ð
-
-ñ
-
-ú
-
-m
-
-n
-
-x
-
-o
-
-p
-
-y
-
-c
-
-d
-
-j
-
-®
-
-Â
-
-Ù
-
-í
-
-$
-
-@
-
-X
-
-Y
-
 éÕ¾§qffff_Uh­	îhÕ2â5CJ
 
-â
-
-ã
-
-ð
-
-ñ
-
-m
-
-n
-
-o
-
-p
-
-c
-
-d
-
-Z
-
-[
-
-ê
-
-­
-
-®
-
-ù
-
-ú
-
-Ô
-
-Õ
-
-Ú
-
-Z
-
-[
-
-|
-
-§
-
-Å
-
-Þ
-
-é
-
-ê
-
-ë
-
-«
-
-­
-
-®
-
-á
-
-ø
-
 óéóÚÈ·®¤®zcL8&hU
-
-±hU
-
-ù
-
-ú
-
-Ó
-
-Û
-
-è
-
-é
-
-ò
-
-d
-
-e
-
-n
-
-g
-
-h
-
-1
-
-2
-
-;
-
-­
-
-®
-
-p
-
-q
-
-y
-
-7
-
-8
-
-!
-
-"
-
-J
-
-a
-
-¾
-
-å
-
-æ
-
-è
-
-é
-
-ë
-
-ì
-
-î
 
 éÒÄ·­Ä·Ä·­·­·Ä·­·Ä·­·Ä­·zqzqieieieh½gBjh½gBUh0ÝhU
 
 ±CJh0ÝhU
 
 ±5CJhU
-
-Û
-
-è
-
-é
-
-d
-
-e
-
-g
-
-h
-
-1
-
-2
-
-­
-
-®
-
-p
-
-q
-
-7
-
-8
-
-!
-
-"
-
-å
-
-ç
-
-è
-
-ê
-
-ë
-
-í
-
-î
-
-±î
-
-ï
-
-ñ
-
-ò
-
-K
-
-L
-
-c
-
-d
-
-e
-
-f
-
-g
-
-È
-
-É
-
-Û
-
-Ü
-
-ð
-
-ñ
-
-J
-
-K
-
-g
-
-É
-
-Ü
-
-!
-
-!
-
-"
-
-$
-
-%
-
-&
-
-*
-
-+
-
-,
-
--
-
-1
-
-2
-
-:
-
-;
-
->
-
-?
-
-@
-
-A
-
-B
-
-C
-
-ìÙÊ¾µ±¢¢y¢¢jy_±[Rh0ÝhU

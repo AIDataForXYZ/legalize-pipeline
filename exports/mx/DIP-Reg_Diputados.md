@@ -4416,10 +4416,6 @@ Décimo Tercero. (Se deroga)
 
 Publicado en el Diario Oficial de la Federación el 20 de abril de 2011
 
-.
-
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
@@ -4429,8 +4425,6 @@ Segundo. La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de
 Quinto. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, en apoyo de la Mesa y la Junta, coadyuvará en el cumplimiento de los procesos señalados en el Reglamento.
 
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2012
-
-.
 
 ##### TRANSITORIO
 
@@ -4534,8 +4528,6 @@ Segundo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, emit
 
 Publicado en el Diario Oficial de la Federación el 18 de octubre de 2016
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4564,8 +4556,6 @@ Publicado en el Diario Oficial de la Federación el 22 de marzo de 2017
 
 Publicado en el Diario Oficial de la Federación el 14 de abril de 2017
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4574,15 +4564,11 @@ Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2017
-
-.
 
 ##### Transitorio
 
@@ -4596,15 +4582,11 @@ Publicado en el Diario Oficial de la Federación el 15 de febrero de 2018
 
 Publicado en el Diario Oficial de la Federación el 13 de marzo de 2018
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2018
-
-..
 
 ##### Transitorio
 
@@ -4642,8 +4624,6 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2018
 
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2018
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4656,15 +4636,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 
 Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2020
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 27 de abril de 2021
-
-.
 
 ##### Transitorio
 
@@ -4672,23 +4648,17 @@ Publicado en el Diario Oficial de la Federación el 27 de abril de 2021
 
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2021
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 7 de marzo de 2023
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 18 de octubre de 2023
-
-..
 
 ##### Transitorios
 
@@ -4704,108 +4674,12 @@ Segundo. Para el caso de las minutas cuyo plazo para ser dictaminadas haya venci
 
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2024
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Publicado en el Diario Oficial de la Federación el 7 de mayo de 2025
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
-
-Ô
-
-Õ
-
-Ù
-
-Ú
-
-Û
-
-Ô
-
-Õ
-
-9
-
-:
-
-<
-
-=
-
->
-
-©
-
-²
-
-·
-
-9
-
-:
-
-Â
-
-Ã
-
-Á
-
-Â
-
-Ã
-
-Ä
-
-Å
-
-È
-
-É
-
-Ê
-
-¼
-
-½
-
-Ù
-
-Ú
-
-ë
-
-¼
-
-½
-
-Ë
-
-Ù
-
-Ú
-
-è
-
-y
-
-~
-
-Ç
-
-Û
-
-Ü
-
-ö
-
-y
-
-/?h

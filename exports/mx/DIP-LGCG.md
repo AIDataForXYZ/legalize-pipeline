@@ -1172,8 +1172,6 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2012
 
 Artículo Único.- Se reforman los artículos 9, fracciones V y IX; 13, fracción I; 46, fracción II, inciso a); y actuales 56 y 57, pasando a ser 84 y 85; se adicionan los artículos 5, con un tercer párrafo; 8, con un segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto; 9, con un último párrafo; 23, con un último párrafo; 46, fracción II, inciso b), con un segundo párrafo y, un último párrafo; un Título Quinto, denominado De la Transparencia y Difusión de la Información Financiera, que comprende los artículos 56 al 83, pasando el actual a ser Título Sexto, que comprende los artículos 84, 85 y 86, de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2013.
@@ -1199,8 +1197,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013
 
 ARTÍCULO SEGUNDO.- Se reforma el artículo 73, párrafo primero y fracción II, incisos b), d) en su primer párrafo y numeral 1, f) y g), de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1245,8 +1241,6 @@ Noveno.- Lo previsto en la fracción II del artículo 2o. de la Ley de Coordinac
 Décimo.- Lo dispuesto en el cuarto párrafo del artículo 9o. de la Ley de Coordinación Fiscal, respecto a la obligación de permitir la identificación del porcentaje total de participaciones federales afectadas por cada Entidad y Municipio, así como su destino en el Registro de Obligaciones y Empréstitos de Entidades y Municipios entrará en vigor a los 90 días posteriores a la entrada en vigor del presente Decreto en el Diario Oficial de la Federación.
 
 Décimo Primero.- En tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social emita una medición adicional del número de carencias promedio de la población en pobreza extrema por municipio y demarcación territorial, las entidades transferirán a los municipios y demarcaciones territoriales los recursos por concepto de Fondo de Aportaciones para la Infraestructura Social, de acuerdo con lo dispuesto en el primer párrafo del artículo 35 de esta Ley, utilizando la siguiente fórmula para la distribución de los mismos:
-
-Fi,t=Fi,2013+"F2013,t zi,t
 
 En donde las variables se definen conforme a lo establecido en el artículo 34 de esta Ley.
 
@@ -1311,8 +1305,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de abril de 2016
 
 ARTÍCULO CUARTO.- Se deroga el último párrafo del artículo 15 de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -1385,8 +1377,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
 
 ARTÍCULO TERCERO.- Se Reforman el primer párrafo y la fracción V del artículo 70 de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1468,8 +1458,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Tercero.- Se reforman los artículos 79, párrafos primero y tercero y 80, párrafos segundo y cuarto, de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1534,26 +1522,4 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 ÁhD~È5CJaJh¸
 
-Q
-
-R
-
-P
-
-Q
-
-R
-
 Áh®Yõ5CJaJh¸
-
-¼
-
-»
-
-¼
-
-Ì
-
-Áüÿ&`#$gd¸
-
-Á°Ð/ °à=!°"°#$%°°Å°ÅÄDp

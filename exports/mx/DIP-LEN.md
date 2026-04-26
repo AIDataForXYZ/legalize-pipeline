@@ -264,8 +264,6 @@ Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023
 
 Artículo Único.- Se reforma la fracción III del artículo 10 de la Ley de Educación Naval, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

@@ -6994,8 +6994,6 @@ Publicado en el Diario Oficial de la Federación el 9 de junio de 1992
 
 ARTICULO PRIMERO.- Se REFORMAN los artículos 11; 12 segundo párrafo, recorriéndose para quedar como cuarto; 13 fracción I; 15 primer párrafo y fracción III; 17 primer párrafo y la fracción II; 22; 23 fracciones I y II; 26; 73 primer párrafo; 75 fracciones II y III; 89 segundo párrafo; 103 primer y último párrafos y la fracción III; 104; 111 y 127 primer párrafo; y se ADICIONAN una fracción IV al artículo 6o.; un segundo y tercer párrafos al artículo 12, así como una fracción IV y un penúltimo párrafo al artículo 103, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7027,8 +7025,6 @@ Nacional de Seguros y Fianzas. Por cada propietario se nombrará un suplente.
 Publicado en el Diario Oficial de la Federación el 23 de julio de 1993
 
 ARTICULO PRIMERO. SE REFORMAN los artículos 22 primer párrafo; 28 fracción I; 54 primer párrafo, y fracciones I y III; 89 primero y cuarto párrafos, pasando este último a ser quinto; 92; 103 penúltimo párrafo; 104; 108 primer párrafo; 110 tercero, cuarto y quinto párrafos; 122 fracción VI; y 125 fracción X; SE ADICIONAN los artículos 46 con una fracción XXIV pasando la actual XXIV a ser XXV; 48 con un tercero y cuarto párrafos; 89 con un segundo párrafo, recorriéndose en su orden los actuales segundo, tercero y cuarto; 99 A; 101 con un tercero y cuarto párrafos; 108 con un segundo párrafo, pasando el actual segundo a ser tercero; 110 con un sexto, séptimo, octavo, noveno y décimo párrafos; 125 con una fracción XI, pasando la actual XI a ser XII; y 131 con una fracción XVII, pasando la actual XVII a ser XVIII; y SE DEROGAN el artículo 74; el actual párrafo quinto del artículo 89; y la fracción III del artículo 103 de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7116,8 +7112,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993
 
 ARTICULO SEGUNDO.- Se REFORMAN los artículos 10, último párrafo; 11; 17, primer párrafo y fracción II; 18, primer párrafo; 19, primer párrafo; 95; 103, fracción IV; y 106, fracción XIII, segundo párrafo; se ADICIONAN una fracción VII al artículo 17; el artículo 17 Bis; una fracción XII al artículo 125, pasando la actual XII a convertirse en la fracción XIII del mismo artículo; una fracción XVIII al artículo 131, pasando la actual XVIII a convertirse en la fracción XIX del mismo artículo; y un Capítulo III, denominado "De las Filiales de Instituciones Financieras del Exterior", que comprende los artículos 45-A a 45-N, al Título Segundo, y se DEROGAN todas las fracciones y el penúltimo párrafo del artículo 102, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
@@ -7194,8 +7188,6 @@ Publicado en el Diario Oficial de la Federación el 15 de febrero de 1995
 
 ARTICULO SEGUNDO.- Se REFORMAN los artículos 11; 12, último párrafo; 13, fracciones I a III; 14; 15; 17, primer párrafo y sus fracciones II y VII; 18, primer párrafo; 22, segundo párrafo; 23, fracción VII y último párrafo; 26; 45-G; 45-H, primer párrafo; 45-I, fracciones I y V; 45-K; 45-M; 73, primero y cuarto párrafos; 75, fracción II; 106, segundo párrafo, y 122, segundo párrafo de su fracción II, y se ADICIONAN al artículo 13, las fracciones IV y V; al artículo 73, un quinto párrafo, pasando el actual quinto a ser el sexto párrafo; al artículo 75, un quinto párrafo, y al artículo 106, un tercer párrafo, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto para el penúltimo párrafo del artículo 73 de la Ley de Instituciones de Crédito, que entrará en vigor el 1o. de julio de 1995.
@@ -7266,8 +7258,6 @@ Publicado en el Diario Oficial de la Federación el 17 de noviembre de 1995
 
 ARTICULO PRIMERO.- Se REFORMAN los artículos 45-G, primer, segundo y tercer párrafos; 45-H, primer párrafo; 45-I, fracción I; 45-K, penúltimo párrafo; 45-M y 120, fracciones II a IX, se ADICIONAN los artículos 45-K con un quinto párrafo, recorriéndose del quinto al último, en su orden; un cuarto párrafo al artículo 115; 118-A; 118-B; un cuarto párrafo al artículo 119 y las fracciones X y XI al artículo 120, y se DEROGA el último párrafo del artículo 45-G, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7298,8 +7288,6 @@ Publicado en el Diario Oficial de la Federación el 30 de abril de 1996
 
 ARTICULO SEGUNDO.- Se REFORMAN los artículos 27, primer párrafo y fracción I; 100; 103, cuarto párrafo; 106, fracción IV, y 122, fracción VI, primer párrafo; se ADICIONAN los artículos 81, con un segundo párrafo; 93, con un segundo párrafo, dos fracciones y un último párrafo, y 106 con un inciso c) a la fracción XVII, y se DEROGAN el último párrafo del artículo 2o. y el segundo párrafo de la fracción VI del artículo 122, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7315,8 +7303,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 1996
 
 ARTICULO CUARTO.- Se REFORMAN los artículos 15, y 89, tercer párrafo de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7406,8 +7392,6 @@ Publicado en el Diario Oficial de la Federación el 7 de mayo de 1997
 
 ARTICULO 1o.- Se reforma el párrafo cuarto y se adiciona con los párrafos quinto, sexto y séptimo, al artículo 115 de la Ley de Instituciones de Crédito para quedar como sigue:
 
-.........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7462,8 +7446,6 @@ ARTÍCULO PRIMERO.- Se expide la
 
 LEY DE PROTECCIÓN AL AHORRO BANCARIO
 
-.........
-
 ##### TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con las excepciones que a continuación se establecen.
@@ -7476,11 +7458,7 @@ DÉCIMO NOVENO A VIGÉSIMO PRIMERO.- .........
 
 ARTÍCULO SEGUNDO.- Se reforman, adicionan y derogan diversas disposiciones de las leyes siguientes:
 
-..........
-
 II.- De la Ley de Instituciones de Crédito, se REFORMAN los artículos 11 segundo párrafo; 13; 14; 17 primer párrafo, y las fracciones VI y VII; 22 primer, tercer y último párrafos; 23 último párrafo; 26; 28 fracciones VII y VIII, y último párrafo y 29; 45-G tercer párrafo; 45-K, primer y segundo párrafos; y 73 primer párrafo; se ADICIONAN los artículos 17 con una fracción VIII; 28 con una fracción IX; 45-I con un último párrafo, y 65 con un segundo párrafo, pasando el actual segundo párrafo a ser el tercer párrafo; y se DEROGAN el penúltimo párrafo del artículo 17; los párrafos segundo y penúltimo del artículo 22, y el cuarto párrafo del artículo 45-K, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7520,8 +7498,6 @@ Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999
 
 ARTICULO PRIMERO.- Se reforman los artículos 111; 112, párrafo primero y fracciones I a la V; 113 párrafo primero y fracciones I y II; 114, y 115, párrafo primero; se adicionan los párrafos segundo, tercero, cuarto y quinto al artículo 112; el artículo 112 Bis; las fracciones III y IV al artículo 113; los artículos 113 Bis; 113 Bis 1; 113 Bis 2; 113 Bis 3; los párrafos segundo y tercero al artículo 116, y el artículo 116 Bis; y se deroga el segundo párrafo del artículo 115, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7560,8 +7536,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2000
 
 ARTICULO TERCERO.- Se ADICIONAN los artículos 85 bis y 85 bis 1; se REFORMA el primer párrafo del artículo 83, y se DEROGA el segundo párrafo del artículo 83 del Título Tercero, Capítulo IV, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente.
@@ -7579,8 +7553,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2001
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 5; 15; 16, fracción III; 17, párrafos primero, segundo y tercero y fracciones I a V; 19, párrafo segundo; 22, párrafo primero, actual tercer párrafo se convierte en sexto y se reforma; 23, párrafo primero; 24, párrafo primero y fracciones I, III y IV segundo párrafo; 25, párrafos primero, segundo y último; 27, fracción I; 28, fracción II; 29, párrafo primero y fracciones I a IV; 45-I primer párrafo; 45-K, párrafo primero, actual segundo párrafo se convierte en tercero y se reforma, actual tercero se convierte en cuarto y se reforma, actual quinto se convierte en octavo y se reforma y actual sexto se convierte en noveno y se reforma; 45-N, párrafo primero; 46, fracción XXV; 50, párrafos primero, segundo y tercero; 51, párrafo primero; 52, párrafo primero; 63, párrafos segundo y actual tercero se convierte en cuarto y se reforma; 64, párrafos primero, segundo, actual tercero se convierte en quinto y se reforma y actual quinto se convierte en séptimo y se reforma; 73, párrafo primero, actual segundo se convierte en tercero y se reforma y actual tercero se convierte en cuarto y se reforma, las fracciones I, II, III, V y VII; 81, párrafo segundo; 85 Bis, párrafo primero; 87, párrafos primero, segundo y cuarto; 89, párrafo tercero; 93, párrafos primero y tercero y fracción II; 96, párrafo tercero; 101, párrafos primero, segundo, tercero y actual cuarto párrafo se convierte en quinto y se reforma; 102, párrafo primero; 106, párrafos segundo y tercero, y fracciones IV, XIII en su párrafo primero, XV, XVI, XVII en sus incisos a) y c), y XVIII; 138; 143 párrafo primero; se ADICIONAN el artículo 5 Bis; 5 Bis 1; 5 Bis 2; 5 Bis 3; 5 Bis 4; 16 Bis; el párrafo cuarto al artículo 17; los párrafos segundo, tercero y cuarto al artículo 21; los párrafos segundo, tercero, cuarto y fracciones I a VIII, el actual segundo párrafo se convierte en quinto del artículo 22; el párrafo segundo, el actual segundo párrafo se convierte en tercero, el actual tercer párrafo se convierte en cuarto y se adicionan fracción VIII al artículo 23; 24 Bis; un tercer párrafo al artículo 25; 27 Bis; un último párrafo al artículo 29; los párrafos segundo, quinto fracciones I a VIII y sexto, el actual cuarto párrafo se convierte en séptimo, el actual séptimo párrafo se convierte en décimo del artículo 45-K; un último párrafo al artículo 45-N; las fracciones XXVI y XXVII y un último párrafo al artículo 46; los párrafos tercero y cuarto al artículo 52; los párrafos segundo con dos fracciones, tercero, cuarto, quinto y sexto, al artículo 57; el párrafo tercero al artículo 63; los párrafos tercero y cuarto y el actual cuarto párrafo se convierte en sexto del artículo 64; 64 Bis; el párrafo segundo y un segundo párrafo a la fracción quinta del artículo 73; 73 Bis; 73 Bis 1; los párrafos cuarto y sexto al artículo 101; las fracciones XV Bis, XV Bis 1, XV Bis 2, un segundo párrafo al inciso c) de la fracción XVII y fracción XX al artículo 106; 117 Bis; el párrafo tercero del artículo 133; 134 Bis; 134 Bis 1; 140 Bis y los párrafos segundo y tercero al artículo 143; y se DEROGAN las fracciones VI a VIII del artículo 17; el artículo 17 Bis; el último párrafo del artículo 24; las fracciones I a V del artículo 25; las fracciones III y V, y el último párrafo del artículo 45-I; el artículo 45-J; el segundo párrafo de la fracción XXIV del artículo 46; el artículo 49; el cuarto párrafo del artículo 50; el cuarto, quinto y sexto párrafos, y la fracción VI del artículo 73; el quinto párrafo del artículo 87; y el segundo párrafo del artículo 102, de la Ley de Instituciones de Crédito para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -7607,8 +7579,6 @@ Publicado en el Diario Oficial de la Federación el 24 de junio de 2002
 ARTICULO PRIMERO.- Se reforman los artículos 31 primero y segundo párrafo; 35 fracción primera; 41 párrafo segundo; 42 fracciones III, IV, VII, IX, XVII, XVIII, XIX y su penúltimo párrafo; 43 párrafo tercero y cuarto; 44; 47 primer párrafo; 51 primer párrafo y 106 fracción II; se adicionan los artículos 30 con un tercer párrafo; 31 con un párrafo tercero y cuarto; 41 con un párrafo quinto; 42 con un segundo párrafo de la fracción III; las fracciones VII bis, VIII bis, IX bis, XXI, XXII y XXIII; 43 bis; 55 bis y 55 bis 1; se derogan la fracción II del artículo 35 y el artículo 45 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
 > <small>Fe de erratas al artículo DOF 08-07-2002</small>
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7652,21 +7622,13 @@ Artículo 41.- ..........
 
 Las designaciones de consejeros en las instituciones de banca de desarrollo, se realizarán de conformidad con sus respectivas leyes orgánicas.
 
-..........
-
 Al tomar posesión del cargo, cada consejero deberá suscribir un documento elaborado por la institución de banca de desarrollo de que se trate, en donde declare bajo protesta de decir verdad que no tiene impedimento alguno para desempeñarse como consejero en dicha institución, y en donde acepte los derechos y obligaciones derivados de tal cargo.
-
-..........
 
 Debe decir:
 
 Artículo 41.- ..........
 
 Las designaciones de consejeros en las instituciones de banca de desarrollo, se realizarán de conformidad con sus respectivas leyes orgánicas.
-
-..........
-
-..........
 
 Al tomar posesión del cargo, cada consejero deberá suscribir un documento elaborado por la institución de banca de desarrollo de que se trate, en donde declare bajo protesta de decir verdad que no tiene impedimento alguno para desempeñarse como consejero en dicha institución, y en donde acepte los derechos y obligaciones derivados del cargo."
 
@@ -7675,8 +7637,6 @@ Al tomar posesión del cargo, cada consejero deberá suscribir un documento elab
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2002
 
 ARTÍCULO PRIMERO.- Se reforma el artículo Noveno Transitorio del Decreto de Ley de los Sistemas de Ahorro para el Retiro y de Reformas y Adiciones a las leyes General de Instituciones y Sociedades Mutualistas de Seguros, para Regular las Agrupaciones Financieras, de Instituciones de Crédito, del Mercado de Valores y Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 23 de mayo de 1996, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7706,8 +7666,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO TERCERO.- Se reforman los artículos 47 primer y segundo párrafos, 66 fracción II, 67 primer párrafo, 68 segundo párrafo, 85 y 106 fracciones II y XIX incisos b), c), se adicionan el artículo 46 Bis, un tercer párrafo del artículo 68, y los incisos d), e), f) y g) de la fracción XIX del artículo 106, se derogan las fracciones I y II del artículo 68 y el artículo 72, todos de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7724,8 +7682,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2004
 
 ÚNICO.- Se reforma el artículo 49 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -7740,8 +7696,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2004
 
 ARTÍCULO PRIMERO.- Se REFORMA el artículo 115, párrafos tercero al sexto, y se ADICIONA dicho artículo 115 con los párrafos séptimo al duodécimo de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7755,8 +7709,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de junio de 2004
 
 ARTÍCULO ÚNICO.- Se REFORMAN las fracciones III, VIII y IX del artículo 28; el artículo 134 Bis y el artículo 134 Bis 1, y se ADICIONAN una fracción X al artículo 28; un último párrafo al artículo 108, y un artículo 134 Bis 2, todos de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7780,8 +7732,6 @@ Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2004
 
 Artículo Unico: Se reforma el primer párrafo del artículo 87 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Unico.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7795,8 +7745,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2005
 
 Artículo Único.- Se adicionan un párrafo cuarto y un párrafo quinto al artículo 2o., y un párrafo tercero al artículo 103, pasando el actual tercero a ser cuarto y el cuarto a ser quinto; y se reforman el párrafo primero y la fracción segunda del artículo 103, ambos de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -7812,8 +7760,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2005
 
 Artículo Único.- Se reforma el artículo 117; y se deroga el artículo 118, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7827,8 +7773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de julio de 2006
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 12, segundo párrafo; 28; 134 Bis 1, fracción I, inciso b), primer y tercer párrafos; 134 Bis 2; 138 a 140 Bis, y 141 a 143; se ADICIONAN una Sección Primera, denominada "Disposiciones Generales", al Capítulo I del Título Segundo, que comprende de los artículos 8 a 11; la Sección Segunda, denominada "De las Instituciones de Banca Múltiple Organizadas y Operadas por el Instituto para la Protección al Ahorro Bancario", al Capítulo I del Título Segundo, con los artículos 27 Bis 1 al 27 Bis 6; la Sección Tercera, denominada "De la Revocación", con los artículos 28 al 29 Bis 1; la Sección Cuarta, denominada "Del Régimen de Operación Condicionada", al Capítulo I del Título Segundo, con los artículos 29 Bis 2 al 29 Bis 5; la Sección Quinta, denominada "Del Comité de Estabilidad Financiera", al Capítulo I del Título Segundo, con los artículos 29 Bis 6 al 29 Bis 12; los párrafos cuarto, quinto, sexto y séptimo al artículo 50; el artículo 113 Bis 4; el "Capítulo I" en el Título Sexto, denominado "Disposiciones Generales", que comprende de los artículos 117 al 122; el Capítulo II, denominado "Del Sistema de Protección al Ahorro" al Título Sexto, que comprende una Sección Primera, denominada "De la Resolución de las Instituciones de Banca Múltiple", integrada por un Apartado A, denominado "Disposiciones Comunes", con los artículos 122 Bis y 122 Bis 1, el Apartado B, denominado "Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Apoyos", con los artículos 122 Bis 2 al 122 Bis 6, y un Apartado C, denominado "Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos", con los artículos 122 Bis 7 al 122 Bis 15; y una Sección Segunda, denominada "De la Liquidación y Concurso Mercantil de las Instituciones de Banca Múltiple", integrada por un Apartado A, denominado "Disposiciones Generales", con los artículos 122 Bis 16 al 122 Bis 24, un Apartado B denominado "De las Operaciones para la Liquidación", con los artículos 122 Bis 25 al 122 Bis 29, un Apartado C, denominado "De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple", con los artículos 122 Bis 30 al 122 Bis 33 y un Apartado D, denominado "De la Asistencia y Defensa Legal", con los artículos 122 Bis 34 y 122 Bis 35; así como los artículos 134 Bis 3, y 144 al 149; y se DEROGAN los artículos 29 y 137, todos de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7851,8 +7795,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2006
 
 ARTÍCULO TERCERO.- Se REFORMA la fracción I del artículo 45-A; el primer párrafo del artículo 45-B; el segundo párrafo del artículo 45-D; el primer párrafo y las fracciones II y IV del artículo 45-I; el primer párrafo del artículo 45-N; el último párrafo del artículo 46; el primer párrafo del artículo 49; el primero y tercer párrafos del artículo 85-Bis; el tercer párrafo del artículo 89; el primer párrafo del artículo 108; el tercer párrafo, quinto párrafo y sus incisos b. a d., sexto, séptimo, noveno, décimo primero y décimo segundo párrafos del artículo 115; se ADICIONA un inciso c) al artículo 73 Bis, y se DEROGA el párrafo séptimo del artículo 45-K; el segundo párrafo del artículo 85 Bis; la fracción IV y el penúltimo y último párrafos del artículo 103 y el último párrafo del artículo 116 todos de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -7964,8 +7906,6 @@ Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 ARTÍCULO SEGUNDO. Se REFORMA el artículo 97; se ADICIONAN los artículos 48 Bis 1, 48 Bis 2, 48 Bis 3 y 48 Bis 4; y se DEROGAN los artículos 49 y 94 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8002,8 +7942,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO CUARTO. Se reforma el artículo 115, fracción I, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8020,13 +7958,9 @@ Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008
 
 PRIMERO.- Se REFORMAN los artículos 1o.; 3o.; 5 Bis 1, primer párrafo; 5 Bis 2; 7o.; 8o.; 9o., último párrafo; 10; 12, primer párrafo; 14; 17; 18; 19; 22; 23, fracciones II, VII y VIII; 24, último párrafo; 25, último párrafo; 27; 27 Bis; 27 Bis 1, primer párrafo; 27 Bis 3, fracción I; 28, primer y último párrafos, las fracciones I, II y el segundo y tercer párrafos de la fracción VI; 29 Bis, primer párrafo; 29 Bis 2, primer y segundo párrafos; 29 Bis 4, fracción V, inciso c); 29 Bis 5, segundo y último párrafos; 29 Bis 12, último párrafo; 41; 42, fracciones I, III, VI, X, XI, XVI, XVIII, XXII, XXIII y penúltimo párrafo; 43; 44; 45-C, primer párrafo; 45-G, cuarto párrafo; 45-H; 45-I, primer párrafo y la fracción II; 46, segundo párrafo y las fracciones XXV y XXVI; 46 Bis; 47, primer párrafo; 50, primero, segundo, tercero y cuarto párrafos; 51, segundo párrafo; 52; 55; 57; 58, primer párrafo; 59, último párrafo; 61; 65; 66, fracción V; 71; 73, segundo párrafo, y las fracciones V, segundo párrafo, VI y VII; 73 Bis, sexto y séptimo párrafos, así como los incisos a) y b); 75; 76; 81; 84, penúltimo y último párrafos; 85 Bis 1; 87, primero, segundo y cuarto párrafos; 88; 89; 90, tercero y último párrafos; 91; 93, primer párrafo; 94; 96; 99; 101; 102; 106, fracciones XII, XIX, inciso f) y XX; 108, último párrafo; 112, fracción III, inciso d); 117 Bis; 119; 122 Bis, primer párrafo, la fracción I, el inciso a) y el segundo párrafo del inciso b) de la fracción II; 133; 134 Bis, primer párrafo; 134 Bis 1, fracción I, incisos e) y f), y 136; se ADICIONAN los artículos 5 Bis 5; 7 Bis; 7 Bis 1; 7 Bis 2; 7 Bis 3; 8 Bis; 10 Bis; 22 Bis; 23, con un quinto párrafo; 30, con un cuarto, quinto y sexto párrafos; 40, con un segundo y tercer párrafos; 42, con las fracciones XI bis y XXIV; un Capítulo IV al Título Segundo, denominado "De las instituciones de banca múltiple que tengan vínculos de negocio o patrimoniales con personas morales que realicen actividades empresariales", que contiene los artículos 45-O, 45-P, 45-Q, 45-R y 45-S; 46, fracción XV con segundo párrafo, con las fracciones XXVI bis y XXVII, pasando la actual XXVII a ser la XXVIII, y con un tercer párrafo; 46 Bis 1; 46 Bis 2; 46 Bis 3; 46 Bis 4; 46 Bis 5; 46 Bis 6; 47, con un quinto párrafo; 51, con un tercer párrafo; 60, con un tercer párrafo; 72 Bis; 73, con un tercer párrafo, pasando los actuales párrafos tercero y cuarto a ser los párrafos cuarto y quinto, respectivamente; 73 Bis, con los incisos d) y e); 73 Bis 1, con un inciso d); 90 Bis; 92, con un tercer y un cuarto párrafos; 93, con un segundo y tercer párrafos, pasando los actuales párrafos segundo y tercero a ser los párrafos cuarto y quinto, respectivamente; 94 Bis; 98 Bis; 100, con un tercer párrafo; 101 Bis; 101 Bis 1; 101 Bis 2; 101 Bis 3; 101 Bis 4; 101 Bis 5; 106, con una fracción XXI; 106 Bis; 107 Bis; 112, fracción III, con un tercer párrafo; 115 Bis; 116 Bis 1; 134 Bis 4, y 137 Bis; y se DEROGAN los artículos 42, fracción VIII; 45-I, fracción IV y 106, fracciones I, II, VI, IX, XIII, XV, XV Bis, y el inciso a) de la fracción XIX, y penúltimo y último párrafos, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 TERCERO.- Se DEROGAN las reformas al artículo 45-I de la Ley de Instituciones de Crédito establecidas en artículo tercero del "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado en el Diario Oficial de la Federación el 18 de julio de 2006.
 
 CUARTO.- La facultad que se otorga a la Comisión Nacional Bancaria y de Valores conforme al artículo 98 Bis de la Ley de Instituciones de Crédito que se adiciona por virtud del Artículo Primero del presente Decreto, se entenderá conferida en los mismos términos respecto de aquellas otras disposiciones y reglas de carácter general aplicables a cualesquiera entidades financieras que corresponda expedir al amparo de la Ley de la Comisión Nacional Bancaria y de Valores y demás leyes relativas al sistema financiero mexicano, así como respecto de los demás actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.
-
-.........
 
 ##### TRANSITORIOS
 
@@ -8126,8 +8060,6 @@ Publicado en el Diario Oficial de la Federación el 6 de febrero de 2008
 
 Artículo Único.- Se REFORMAN las fracciones III y IV del artículo 6o, el artículo 25, los incisos f) y g) de la fracción XIX del artículo 106, los artículos 108, 109 y 110, las fracciones I a la IV del artículo 113, el artículo 113 Bis 4, los párrafos primero y décimo del artículo 115, así como el artículo 116 Bis; se ADICIONAN una fracción V al artículo 6o, una fracción VII al artículo 28, el artículo 96 Bis, un inciso h) a la fracción XIX del artículo 106, los artículos 108 Bis y 108 Bis 1, los artículos 109 Bis al 109 Bis 8, los artículos 110 Bis y 110 Bis 1, un Capítulo III, denominado "De las notificaciones", al Título Quinto denominado "De las prohibiciones, Sanciones Administrativas y Delitos", con los artículos 110 Bis 2 al 110 Bis 14, pasando el actual Capítulo III a ser Capítulo IV, denominado "De los Delitos", los artículos 111 Bis, un segundo párrafo a la fracción I del artículo 112, las fracciones V a VII del artículo 113, los artículos 114 Bis y 143 Bis; y se DEROGAN las fracciones I y II, la fracción XIV del artículo 106, las fracciones VI y VII del artículo 112, el párrafo décimo primero del artículo 115 pasando a ser décimo primero el párrafo décimo segundo de dicho artículo, todos de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor a los sesenta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
@@ -8154,8 +8086,6 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
 
 Artículo Primero.- Se reforma el artículo 112 Bis y se adicionan los artículos 112 Ter, 112 Quáter, 112 Quintus de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8174,8 +8104,6 @@ Publicado en el Diario Oficial de la Federación el 1º de julio de 2008
 
 Artículo Segundo. Se reforman la fracción IX y el párrafo quinto del artículo 117 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8189,8 +8117,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de marzo de 2009
 
 ÚNICO.- Se reforma el artículo 56 del Capítulo II De las Operaciones Pasivas de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -8206,8 +8132,6 @@ Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009
 
 Artículo Primero. Se reforman los artículos 31, tercer párrafo, y 55 Bis 1; y se adiciona el artículo 55 Bis 2 a la Ley de Instituciones de Crédito, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8221,8 +8145,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2009
 
 ARTÍCULO PRIMERO.- Se reforman los artículos; 94 Bis; 96 Bis; 98 Bis; 106, fracción XX; 107 Bis, primer párrafo y fracción VI; 109 Bis, último párrafo; 109 Bis 1, primero, cuarto y último párrafos; 109 Bis 2, primer párrafo y fracción I; 109 Bis 3; 109 Bis 5, segundo y último párrafos; 109 Bis 6; 109 Bis 8; 110, primero, segundo y último párrafos; 110 Bis 1, tercero, cuarto y último párrafos; 119, último párrafo; 133; 134; 135 y 136 primer párrafo; se adicionan los artículos 48 Bis 5; 81 Bis; 108 Bis 2; y se deroga el inciso i) de la fracción IV del artículo 108, y 118-A de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -8254,8 +8176,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2009
 
 Artículo Único.- Se reforma la fracción VI del artículo 46 Bis 1, de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8269,8 +8189,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ARTÍCULO QUINTO. Se ADICIONAN las fracciones V y VI al Artículo 103 de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-.
 
 TRANSITORIO DEL ARTÍCULO QUINTO
 
@@ -8299,8 +8217,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2010
 
 ARTÍCULO SEGUNDO. Se reforman los artículos 48 Bis 2 y 49 de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -8353,8 +8269,6 @@ VIII.	El Banco de México emitirá las disposiciones de carácter general a que 
 BANCA DE DESARROLLO
 
 ARTÍCULO DÉCIMO PRIMERO.- Se REFORMAN los artículos 30, tercer párrafo; 31, primer párrafo; 42, primer párrafo y fracciones IX Bis, X, XI Bis, XVIII y XIX; 43, segundo párrafo; 43 Bis; 55 Bis 1, último párrafo; 75, párrafos primero, en sus fracciones II y III, y segundo y cuarto párrafos; 88, primer párrafo; 89, primer párrafo, y 108 Bis, fracción I; se ADICIONAN los artículos 42, fracciones VIII, IX Ter y XIX Bis; 44 Bis 1; 44 Bis 2; 44 Bis 3; 44 Bis 4; 44 Bis 5; 47, con un penúltimo y un último párrafos; 65, con un cuarto párrafo, pasando los actuales párrafos cuarto, quinto y sexto a ser los párrafos quinto, sexto y séptimo, y 75, párrafo primero con una fracción IV; al Capítulo II De las Instituciones de Banca de Desarrollo del Título Segundo De las Instituciones de Crédito, una Sección Primera Disposiciones Generales que comprende los artículos 30 a 44 Bis 1; y una Sección Segunda De la Inclusión, Fomento de la Innovación y Perspectiva de Género que comprende los artículos 44 Bis 2, 44 Bis 3 y 44 Bis 4; y se DEROGA el artículo 55 Bis de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -8478,8 +8392,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2019
 
 Artículo Único.- Se reforma el primer párrafo del artículo 40 y se adiciona un segundo párrafo al artículo 44 Bis 4 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8497,8 +8409,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de marzo de 2020
 
 Artículo Primero. Se reforma el artículo 59, segundo párrafo, y se adicionan los párrafos tercero, cuarto, quinto y sexto al artículo 59 de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -8521,8 +8431,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Cuadragésimo Cuarto.- Se reforma la fracción I del artículo 142 de la Ley de Instituciones de Crédito, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8600,8 +8508,6 @@ Publicado en el Diario Oficial de la Federación el 11 de marzo de 2022
 
 Artículo Único. Se reforma la denominación del Título Quinto y se adiciona un Capítulo V al Título Quinto denominado "De la Garantía de Audiencia de las personas incluidas en la lista de personas bloqueadas", que comprende el artículo 116 Bis 2 de la Ley de Instituciones de Crédito, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -8660,26 +8566,6 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-/056~
-
-µ¡¶¡+¤K¤L¤
-
-j
-
-)
-
-ë
-
-ì
-
-0
-
-1
-
-ì
-
-ñ
-
 Uh(CJh
 
 UhïU@CJh
@@ -8688,1912 +8574,24 @@ UhïU@CJh
 
 .B*CJphhíeÍh
 
-CJ-h$-
-
-$a$gd$-
-
 CJhHãh£@
-
-££Y£Z£j£À£Á£øóêøêÝÝÎÁÝ°Á°¢Á$
-
-V
-
-W
-
-Z
-
-Ù
-
-Ú
-
-Ý
-
-W
-
-Ù
-
-Ú
-
-Ähl
-
-¾
 
 ×ÚmpóöRuþ!"7
 
-»
-
 Ö×lmòóRuvùúþ!"
-
-F
-
-E
-
-F
-
-J
-
-"#:;:;ð,-ÏÐÕÖ¾¿
-
-h
-
-h
 
 ¡Q£R£T£1¦2¦z§{§GªHªaªbªìÙÓÇ´®Ç´¤Ç´ÙxÓrrkrkrrrr
 
-£
-
-¤
-
-§
-
-¤
-
-%%%S%T%÷é÷Ü÷Ü÷Ü÷ÖÍ÷Öº±§÷ÖÍ÷Öº±§÷ÖÍ÷Öº±§÷ÖÍ÷ÖÍ÷Öº±éÜº±§÷Öº±§÷ÖÍ§÷
-
-----£-¤-¥-¨-..À.Á.Ï.j0k0000ð1ñ1ò1Q3R344õìæÝõìæÝõìæÝõìæÝõìæÝõìæÊÁõì»ìæÝõì´õìæÝõìæÝìæÝõìæÝõìæÝõìæÊÁõìæÊÁõìæÝìõìæ
-
-'
-
-öözööö¦ö÷ ÷ÕùÞùú£ú[û\û)þ/þ¯þ¶þÿÿ$
-
--
-
-ï
-
-ù
-
-5
-
-6
-
-¶
-
-Ç
-
-Û
-
-î
-
-%
-
-ï
-
-ð
-
-5
-
-6
-
-]
-
-^
-
-:
-
-ð
-
-ñ
-
-7
-
-)
-
-C
-
-[
-
-^
-
-Í
-
-ê
-
-.
-
-;
-
-ð
-
-ñ
-
-7
-
-8
-
-K
-
-V
-
-c
-
-p
-
-q
-
-{
-
-É
-
-è
-
-ì
-
-õ
-
-£
-
-¿
-
-Ó
-
-ê
-
-þ
-
-&
-
-;
-
-R
-
-S
-
-º
-
-×
-
-(
-
-Ò
-
-Ó
-
-å
-
-+
-
-8
-
-9
-
-B
-
-°
-
-´
-
-½
-
-D
-
-M
-
-¡
-
-¬
-
-µ
-
-9
-
-¨
-
-Â
-
-Ö
-
-ë
-
-'
-
-;
-
-S
-
-j
-
-k
-
-Ý
-
-ú
-
-%
-
-@
-
-M
-
-8
-
-V
-
-W
-
-b
-
-c
-
-p
-
-q
-
-ë
-
-ì
-
-w
-
-x
-
-U
-
-V
-
-'
-
-Ò
-
-Ó
-
-*
-
-+
-
-8
-
-9
-
-³
-
-´
-
-C
-
-D
-
-«
-
-¬
-
-x
-
-y
-
-m
-
-n
-
-L
-
-V
-
-W
-
-U
-
-V
-
-a
-
-b
-
-o
-
-p
-
-"
-
-#
-
-ý
-
-þ
-
-Ï!
-
-V
-
-W
-
-i
-
-m
-
-v
-
-¢
-
-Ë
-
-Ñ
-
-b
-
-o
-
-p
-
-y
-
-È
-
-ç
-
-#
-
-,
-
-û!
-
-"
-
-)"
-
->"
-
-c"
-
-~"
-
-"
-
-¦"
-
-½"
-
-¾"
-
-$
-
-.$
-
-Y$
-
-t$
-
-$
-
-)%
-
-*%
-
-p%
-
-q%
-
-%
-
-%
-
-%
-
-Ô+
-
-Ý+
-
-1
-
-§1
-
-Å3
-
-Ò3
-
-Ó3
-
-Ý3
-
-.4
-
-M4
-
-P4
-
-Z4
-
-j5
-
-t5
-
-_6
-
-h6
-
-¶:
-
-¿:
-
-Ä;
-
-Ì;
-
-»<
-
-Ú<
-
-_>
-
-w>
-
->
-
-¢>
-
-¶>
-
-Ë>
-
-ß>
-
-ù>
-
-?
-
-?
-
-k@
-
-~@
-
-©@
-
-¿@
-
-Ì@
-
-´B
-
-µB
-
-üB
-
-ýB
-
-C
-
-E
-
-Ð!
-
-À"
-
-Á"
-
-$
-
-)%
-
-*%
-
-p%
-
-q%
-
-¹3
-
-º3
-
-Ä3
-
-Å3
-
-Ò3
-
-Ó3
-
-O4
-
-P4
-
-i5
-
-j5
-
-^6
-
-_6
-
-µ:
-
-¶:
-
-Ã;
-
-Ä;
-
-3>
-
-4>
-
-?
-
-?
-
-Ë@
-
-´B
-
-µB
-
-üB
-
-ýB
-
-E
-
-¯E
-
-°E
-
-»E
-
-¼E
-
-ÉE
-
-ÊE
-
-LF
-
-MF
-
-ñG
-
-òG
-
-­H
-
-®H
-
-;I
-
-<I
-
-PJ
-
-¯E
-
-¼E
-
-ÉE
-
-ÊE
-
-ÜE
-
-+F
-
-JF
-
-MF
-
-_F
-
-òG
-
-H
-
-®H
-
-¿H
-
-<I
-
-MI
-
-QJ
-
-aJ
-
-KK
-
-]K
-
-L
-
-(L
-
-}O
-
-O
-
-àP
-
-üP
-
-Q
-
-1Q
-
-EQ
-
-XQ
-
-lQ
-
-Q
-
-¡Q
-
-¢Q
-
-ëR
-
-ùR
-
-S
-
-7S
-
-MS
-
-ZS
-
-tU
-
-uU
-
-vU
-
-¼U
-
-ÄU
-
-ÖU
-
-cX
-
-uX
-
-óZ
-
-[
-
-[
-
-[
-
-[
-
-©[
-
-]
-
-]
-
-]
-
-,]
-
--]
-
-8]
-
-É]
-
-QJ
-
-JK
-
-KK
-
-L
-
-L
-
-|O
-
-}O
-
-´P
-
-µP
-
-¤Q
-
-¥Q
-
-YS
-
-uU
-
-vU
-
-¼U
-
-½U
-
-ÃU
-
-ÄU
-
-UX
-
-VX
-
-bX
-
-cX
-
-ìZ
-
-íZ
-
-óZ
-
-ôZ
-
-[
-
-[
-
-[
-
-[
-
-©[
-
-ª[
-
-]
-
-]
-
-]
-
-]
-
-]
-
-]
-
-8]
-
-9]
-
-È]
-
-É]
-
-Ô]
-
-Õ]
-
-à]
-
-á]
-
-:_
-
-ya
-
-za
-
-Åa
-
-Æa
-
-c
-
-Ô]
-
-Õ]
-
-à]
-
-8_
-
-;_
-
-ya
-
-za
-
-Åa
-
-Æa
-
-Ùa
-
-9c
-
-Xc
-
-c
-
-¢c
-
-£c
-
-­c
-
-þc
-
-d
-
-d
-
-*d
-
-2g
-
-<g
-
-òh
-
-ûh
-
-j
-
-j
-
-ªn
-
-²n
-
-)o
-
-@o
-
-To
-
-po
-
-o
-
-¢o
-
-¶o
-
-Éo
-
-ào
-
-áo
-
->q
-
-Qq
-
-|q
-
-q
-
-q
-
-Cs
-
-Ds
-
-Es
-
-s
-
-s
-
-s
-
-s
-
-«s
-
-<t
-
-Ht
-
-Ãt
-
-Ít
-
-Xu
-
-mu
-
-c
-
-c
-
-c
-
-¢c
-
-£c
-
-d
-
-d
-
-1g
-
-2g
-
-ñh
-
-òh
-
-ôi
-
-õi
-
-j
-
-j
-
-*m
-
-+m
-
-©n
-
-ªn
-
-ùn
-
-ún
-
-ão
-
-äo
-
-q
-
-Ds
-
-Es
-
-s
-
-s
-
-Ku
-
-Lu
-
-Wu
-
-Xu
-
-mu
-
-nu
-
-îu
-
-ïu
-
-¹v
-
-ºv
-
-£w
-
-¤w
-
-Uy
-
-ªy
-
-«y
-
-òy
-
-óy
-
-Tz
-
-Uz
-
-`z
-
-az
-
-mz
-
-nu
-
-~u
-
-Íu
-
-ìu
-
-¹v
-
-åv
-
-úv
-
-w
-
-%w
-
-9w
-
-[w
-
-jw
-
-w
-
-w
-
-¡w
-
-õx
-
-y
-
-3y
-
-Iy
-
-Vy
-
-ªy
-
-«y
-
-òy
-
-óy
-
-ûy
-
-az
-
-mz
-
-nz
-
-uz
-
-Äz
-
-ãz
-
-{
-
-,{
-
-@{
-
-Z{
-
-n{
-
-{
-
-{
-
-±{
-
-É{
-
-Ë{
-
-$}
-
-7}
-
-b}
-
-x}
-
-}
-
-T
-
-U
-
-¯
-
-³
-
-º
-
-ì
-
-ô
-
-z
-
-à
-
-ÿ
-
-1
-
-H
-
-\
-
-v
-
-¤
-
-·
-
-Ö
-
-í
-
-î
-
-nz
-
-åz
-
-æz
-
-Ë{
-
-Ì{
-
-}
-
-T
-
-U
-
-m
-
-n
-
-y
-
-z
-
-ð
-
-ñ
-
-©
-
-[
-
-\
-
-I
-
-\
-
-ª
-
-[
-
-\
-
-m
-
-p
-
-y
-
-Ú
-
-ä
-
-²
-
-"
-
-%
-
-8
-
-Â
-
-Ó
-
-*
-
-?
-
-Y
-
-m
-
-­
-
-Á
-
-Ô
-
-ì
-
-î
-
-B
-
-U
-
-£
-
-U
-
-V
-
-e
-
-i
-
-p
-
-ß
-
-ë
-
-ì
-
-ô
-
-E
-
-d
-
-¸
-
-Ì
-
-é
-
-ý
-
-$
-
-%
-
-Á
-
-Â
-
-î
-
-ï
-
-¢
-
-U
-
-V
-
-Ò
-
-Ó
-
-Þ
-
-ß
-
-ë
-
-ì
-
-f
-
-g
-
-Z
-
-[
-
-K
-
-L
-
-â
-
-ã
-
-î
-
-ï
-
-û
-
-ü
-
-w
-
-x
-
-\
-
-+
-
-@
-
-X
-
-Z
-
-¶
-
-É
-
-ô
-
-K
-
-L
-
-©
-
-ï
-
-û
-
-ü
-
-x
-
-¥
-
-¼
-
-Ð
-
-è
-
-û
-
-ü
-
-$
-
-%
-
-*
-
-B
-
-Z
-
-\
-
-º
-
-Í
-
-ø
-
-"
-
-à
-
-á
-
-ñ
-
-w
-
-)
-
-.
-
-E
-
-Q
-
-Y
-
-q
-
 h@5CJh@CJmHsHh@5CJmHsH7\
-
-]
-
-!
-
-à
-
-á
-
-j
-
-k
-
-v
-
-w
-
-þ
-
-ÿ
-
-æ
-
-ç
-
-ª
-
-Æ
-
-Ç
-
-m§
-
-n§
-
-y§
-
-z§
-
-£
-
-·
-
-Ì
-
-ä
-
-æ
-
-C
-
-V
-
-«
-
-Æ
-
-Ç
-
-Ú
-
-Ü
-
-Ý
-
-z§
-
-§
-
-§
-
-§
-
-¨
-
-¨
-
-&¬
-
-9¬
-
-­
-
-­
-
-¬­
-
-Ã­
-
-×­
-
-ì­
-
-®
-
-®
-
-¯
-
-¯
-
-Ê¯
-
-ç¯
-
-ô¯
-
-²
-
-²
-
-e²
-
-f²
-
-y²
-
-Ýµ
-
-êµ
-
-ëµ
-
-õµ
-
-b¶
-
-e¶
-
-¶
-
-¶
-
-í·
-
-ò·
-
-¸
-
-¸
-
-½
-
-&½
-
-¯Â
-
-¹Â
-
-xÆ
-
-§
-
-§
-
-¨
-
-¨
-
-Á©
-
-Â©
-
-;«
-
-<«
-
-%¬
-
-&¬
-
-S­
-
-T­
-
-4®
-
-5®
-
-ó¯
-
-²
-
-²
-
-e²
-
-f²
-
-Ðµ
-
-Ñµ
-
-Üµ
-
-Ýµ
-
-êµ
-
-ëµ
-
-a¶
-
-b¶
-
-¶
-
-¶
-
-ì·
-
-í·
-
-¸
-
-¸
-
-ä¸
-
-å¸
-
-éº
-
-êº
-
-½
-
-½
-
-%À
-
-&À
-
-®Â
-
-¯Â
-
-ÆÄ
-
-ÇÄ
-
-wÆ
-
-xÆ
-
-Ç
-
-Ç
-
-¦È
-
-§È
-
-Ç
-
-Ç
-
-§È
-
-«È
-
-ñË
-
-rÎ
-
-@Ñ
-
-IÑ
-
-ìÓ
-
-õÓ
-
-"×
-
-%×
-
-$Ø
-
-(Ø
-
-ß
-
-ß
-
-wá
-
-á
-
-ã
-
-ã
-
-Då
-
-Hå
-
-×ç
-
-Üç
-
-þï
-
-ð
-
-Sò
-
-\ò
-
-éò
-
-óò
-
-ü
-
-*ü
-
-¾ü
-
-Ïü
-
-ÿ
-
-¯ÿ
-
-Ê
-
-Ê
-
-áÊ
-
-âÊ
-
-ðË
-
-ñË
-
-qÎ
-
-rÎ
-
-?Ñ
-
-@Ñ
-
-ëÓ
-
-ìÓ
-
-:Õ
-
-;Õ
-
-!×
-
-"×
-
-#Ø
-
-$Ø
-
-Ù
-
-Ù
-
-_Ú
-
-`Ú
-
-nÛ
-
-oÛ
-
-Ý
-
-Ý
-
-ß
-
-ß
-
-vá
-
-wá
-
-ã
-
-ã
-
-Cå
-
-Då
-
-Öç
-
-×ç
-
-é
-
-é
-
-¶ë
-
-·ë
-
--í
-
-.í
-
-ýï
-
-þï
-
-Rò
-
-Sò
-
-éò
-
-êò
-
-só
-
-tó
-
-¢ö
-
-£ö
-
-ü
-
-ü
-
-½ü
-
-¾ü
-
-Gþ
-
-Hþ
-
-ÿ
-
-ÿ
-
-T
-
-_
-
-m
-
-n
-
-ô
-
-`
-
-m
-
-n
-
-ó
-
-ô
 
 UhÜhCJh
 
-Z
-
-y
-
-z
-
-h$-
-
 5CJh$-
-
-h$-
 
 CJh£_Kh$-
 
 CJh£_Kh$-
 
 5CJhd$h$-
-
-CJ^Jh$-
-
-h$-
-
-h$-
-
-5CJ
-
-h$-
 
 5CJh£_Kh$-

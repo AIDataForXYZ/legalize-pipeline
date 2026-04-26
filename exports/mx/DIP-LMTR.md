@@ -3756,59 +3756,9 @@ Ciudad de México, a 1 de julio de 2025.- Sen. Gerardo Fernández Noroña, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-J
-
-K
-
-M
-
-N
-
-¢
-
-£
-
-¦
-
-§
-
-K
-
-£
-
-$¤^`a$gdê>S¤^gdê>S»Ç*+-.C¥´µðñýêë34NO[:;=>P¯°³´ÈÑÒÞþÿÑ Ò Þ q!r!t!u!3"4"7"8"
-
 $¤I`a$gdê>S¤Igdê>Sdÿgdê>S»3Û3Ü3é3Y4Z4g44444°4U5V5Y5Z5k5þ67ù7û7Ô8Õ8Ù8Ú8ì8N9O9R9S9c9Û:Ü:Ö;×;_>`>Ü@Ý@AAªA¡B¢B®B¿CÀCÊCÌCÜDÝDéD^E_EùEúEÚHÛH
 
-­
-
-#
-
-v
-
-w
-
-y
-
-z
-
-È
-
-É
-
-Í
-
-Î
-
-w
-
-É
-
-XY01	01ª«¸z{QRª«ÍÎÛ=>
-
 $¤J`a$gdê>S¤Jgdê>S	1@«{R«Î>
-
-1111Q1R1T1U1o1p1s1t1±1²1¶1·1Ý1Þ1ã1ä122§3¨3µ3$5%5256
 
 66U7V7X7Y7´7µ7¸7¹75868:8;8|8}888·8¸8º8»8,9-90919¦9§9«9¬9::::`:a:d:e:à:á:ã:ä:;;";#;;;;;Ô;Õ;Ú;Û;<ùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõùõíùõíùõíùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèùõíèù	h*3O5hwCh*3O5h*3OhwCh*3O\¨3%5
 

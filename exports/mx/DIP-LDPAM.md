@@ -892,8 +892,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2005
 
 ARTÍCULO ÚNICO.- Se reforman, los artículos 4, fracción II; 5, fracción IV, inciso b; 6, fracciones I y III; 10, primer párrafo y fracción XX; 15; 16, fracciones I y II; 17, primer párrafo y fracción VII; 18, primer párrafo y fracción IX; 19, primer párrafo; 20, fracción II; 28, fracciones I, III, VI, IX, XI, XII, XIII, XV, XVI, XVII, XX, XXIII, XXV, XXVI, XXVII y XXVIII; 31, primer párrafo; 38, primero y segundo párrafos; 48; y la denominación del Capítulo III, del Título Quinto; todos ellos de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -908,8 +906,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 
 Artículo Único.- Se adiciona una fracción IX, al Artículo 5o. del Capítulo II denominado "De los Derechos", a la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Diario Oficial de la Federación.
@@ -923,8 +919,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de junio de 2009
 
 Artículo Único.- Se adiciona una fracción XXX al artículo 28 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -942,8 +936,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO CUARTO. Se reforma el artículo 40, segundo y tercer párrafo, de la Ley de los Derechos de Personas Adultas Mayores, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -960,8 +952,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2012
 
 Artículo Único.- Se adiciona un inciso j al artículo 30 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
@@ -975,8 +965,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO DÉCIMO QUINTO.- Se REFORMAN los artículos 23, fracción III y 30, incisos i. y j., se ADICIONAN el artículo 17 Bis, y el inciso k del artículo 30, y se DEROGAN las fracciones IV, V, VI y VII del artículo 17 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1016,8 +1004,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2016
 
 Artículo Único.- Se adiciona una fracción XXI al artículo 10 y una fracción III al artículo 14 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1047,8 +1033,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2016
 
 Artículo Único. Se reforma el artículo 8o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1089,8 +1073,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 Artículo Único.- Se reforma la fracción III del artículo 5o., y se adiciona el inciso d a la fracción III del artículo 5o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1196,8 +1178,6 @@ Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022
 
 Artículo Tercero.- Se reforma la fracción II del artículo 18 y se adiciona una fracción VI al artículo 4o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1211,8 +1191,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 2022
 
 Artículo Único.- Se adiciona una fracción X al artículo 5o. de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1228,8 +1206,6 @@ Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
 
 Artículo Segundo.- Se reforma la fracción I del artículo 21; y el inciso j del artículo 30 y se adiciona un inciso l al artículo 30 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1238,38 +1214,12 @@ Ciudad de México, a 29 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-_
-
-á
-
-â
-
-c
-
-¨
-
-â
-
-ä
-
 ýÍÐ	FGIJKäçèéFJKL±´µ¶ýÿ
-
-hX
 
 CJ\^Jh¸LãCJ\^JhX
 
-hX
-
 CJ\^JhX
 
-hX
-
-hX
-
 CJ\^JhX
-
-hX
 
 5CJ\^JhX
-
-hX

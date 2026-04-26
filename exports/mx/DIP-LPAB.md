@@ -934,8 +934,6 @@ Publicado en el Diario Oficial de la Federación el 1º de junio de 2001
 
 Artículo Unico.- Se reforma el primer párrafo del artículo 65 y se adiciona el Artículo 64 Bis de la Ley de Protección al Ahorro Bancario para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Unico.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -949,8 +947,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de julio de 2006
 
 ARTÍCULO TERCERO.- Se DEROGAN los artículos 7, 15, 16, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 49, 50, 51, 52, 53, 54, 55, 56, 57 y Segundo Transitorio de la Ley de Protección al Ahorro Bancario, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -973,8 +969,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO PRIMERO. Se reforman los artículos 65, primer párrafo y 89 de la Ley de Protección al Ahorro Bancario, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1035,8 +1029,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Vigésimo Noveno. Se reforma el primer y segundo párrafos del artículo 75 de la Ley de Protección al Ahorro Bancario, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

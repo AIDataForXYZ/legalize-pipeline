@@ -1546,8 +1546,6 @@ Publicado en el Diario Oficial de la Federación el 22 de julio de 1994
 
 ARTICULO TERCERO.- Se reforman los artículos 77 fracciones I y III, 81 y 83 primer párrafo, y se adiciona el propio artículo 77 con un párrafo final, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..........
-
 ARTICULOS TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1578,8 +1576,6 @@ Publicado en el Diario Oficial de la Federación el 21 de diciembre de 1995
 
 ARTICULO UNICO.- SE REFORMAN los artículos 26, 29, 40, primer párrafo, 51, 52, 78 y 79; se ADICIONAN un segundo y un tercer párrafo al artículo 24 y un segundo párrafo al artículo 32; y SE DEROGA el segundo párrafo del artículo 40 de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1593,8 +1589,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1998
 
 ARTICULO UNICO.- Se reforman los artículos 77, 81, 82, 83, 84 y 85, y se adicionan los artículos 10 Bis, 83 Ter, 83 Quat, 84 Bis, 84 Ter y 85 Bis de la Ley Federal de Armas de Fuego y Explosivos para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1630,8 +1624,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2004
 
 ARTICULO UNICO: Se reforma la fracción II, del artículo 83 ter de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..........
-
 ARTICULO TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1645,8 +1637,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de mayo de 2015
 
 Artículo Único.- Se reforman los artículos 11, último párrafo; 27 y 28, y se adiciona un artículo 28 Bis a la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1664,8 +1654,6 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2015
 
 Artículo Único.- Se adiciona un artículo 83 Quintus a la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1679,8 +1667,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Quinto.- Se reforman los artículos 81, primer párrafo; 83 Ter, fracción II; 83 Quat, fracción II y 83 Quintus, fracción II, y se adiciona un artículo 92, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1706,8 +1692,6 @@ Publicado en el Diario Oficial de la Federación el 6 de diciembre de 2022
 
 Artículo Único.- Se reforman los artículos 3o.; 5o., párrafo primero; 11, párrafo último; 18; 24, párrafo tercero; 52, párrafo primero y 78, párrafo primero de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1722,8 +1706,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 Artículo Segundo.- Se adiciona un inciso k Bis) al artículo 11 de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1737,8 +1719,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2025
 
 Artículo Único.- Se reforman los artículos 1; 2; 3; 4; 5; 7; 8; 9, actual primer párrafo, la fracción I, actual segundo párrafo de la fracción II, que pasa a ser tercer párrafo; 10, primer párrafo, fracciones II, V y VI; 11, primer párrafo, los incisos b), c), d), f), h), i), y los actuales penúltimo y último párrafos; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24, actuales segundo y tercer párrafos; 25; 26, primer párrafo, último párrafo de la fracción I, fracción II, inciso b y último párrafo; 27, segundo párrafo; 28, primero, segundo, quinto, sexto y séptimo párrafos; 28 Bis, primero, segundo y tercer párrafos; 29, primer párrafo, fracción I, apartado B en su párrafo y los incisos b) y c), los apartados C, D y E, y la fracción III; 30, primer párrafo; 31, primer y último párrafo, y las fracciones VI, VIII y IX; 37; 40; 41, primer párrafo y, inciso b) de la fracción I; 43; 44, segundo párrafo; 45; 50, primer párrafo e incisos a) y b); 51; 52, primer y actual segundo párrafos; 53; 54; 56; 57; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 71; 72; 73; 74; 76; 77, primer párrafo, fracciones I y IV; 78, primer y segundo párrafos; 79; 80; 81, primer párrafo; 82; 83, primer párrafo y fracciones I, II, III, segundo y tercer párrafos; 83 Bis, primer párrafo y fracciones I y II; 83 Ter, primer párrafo y fracciones I, II y III; 83 Quáter; 83 Quiquies; 84, primer párrafo, fracciones I, II y III; 84 Bis, primer párrafo; 84 Ter; 85; 85 Bis, primer párrafo, fracciones I, II y III; 86, primero, segundo y tercer párrafos; 87, primer párrafo, fracciones I, II y IV; 88, primer párrafo; 89; 90; 92; se adicionan un artículo 1 Bis; segundo párrafo al artículo 5; segundo párrafo al artículo 7; un artículo 8 Bis; párrafos primero, cuarto, quinto, sexto y séptimo al artículo 9; la fracción VIII y el penúltimo párrafo, al artículo 10; los incisos m y n, al artículo 11; un artículo 11 Bis; un artículo 11 Ter; segundo párrafo al artículo 19; un artículo 20 Bis; párrafos cuarto y quinto al artículo 21; último párrafo Al artículo 26; un artículo 30 Bis; un artículo 34 Bis; un artículo 41 Bis; el último párrafo al artículo 44; un artículo 45 Bis; un segundo párrafo y los incisos a), b) y c) del artículo 50; el segundo párrafo al artículo 52; segundo párrafo al artículo 53; un artículo 55 Bis; un artículo 59 Bis; un segundo párrafo al artículo 72; 75 Bis; las fracciones V, VI, VII y VIII y un último párrafo al artículo 77; un artículo 80 Bis; un artículo 81 Bis; el artículo 82 Bis; fracción IV y el último párrafo al artículo 83; segundo párrafo y las fracciones I y II del artículo 83 Bis; se adiciona la fracción IV y el último párrafo del artículo 83 Ter; párrafos segundo y tercero del artículo 83 Quinquies; un artículo 83 Sexies; un artículo 83 Septies; la fracción IV al artículo 84; la fracción IV al artículo 85 Bis; un artículo 85 Ter; un artículo 86 Bis; los artículos 87 Bis; 87 Ter; 87 Quáter; y 87 Quinquies; segundo, tercer y cuarto párrafos al artículo 88; 89 Bis; se derogan las fracciones I, II, III y IV del artículo 2; el apartado A de la fracción I,  el inciso a) del apartado B y la fracción II del artículo 29; el segundo párrafo del artículo 30; el artículo 32;  el artículo 33; el artículo 49; el inciso c) del primer párrafo y último párrafo del artículo 50; el artículo 58;  el penúltimo párrafo del artículo 83 Bis; el segundo párrafo del artículo 84 Bis; el artículo 91, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1760,29 +1740,7 @@ Ciudad de México, a 30 de abril de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
->
-
-?
-
-³´kl
-
->
-
-?
-
-C
-
 ³´¹klr
-
-$ ` a$gd
-
-h
-
-h
-
-h
-
-$a$gd
 
 Ë/Ì/Ð/Ñ/0000¾0¿0Å0Æ0`1e1f1í1î1ò1Ð2òàÎ½òÎ¬òtctcòM8(hnd
 
@@ -1790,26 +1748,4 @@ hnd
 
 hnd
 
-]hQ
-
-]hQ
-
-]hQ
-
 ]6B*CJPJ]aJphÿ hQ
-
-]hQ
-
-]hQ
-
-]hQ
-
-]hQ
-
-:
-
-"
-
-,
-
-.

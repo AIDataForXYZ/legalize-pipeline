@@ -2616,8 +2616,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo Quinto.- Se reforman los artículos 33, fracción XV; 35, párrafos primero y segundo y 83, tercer párrafo, de la Ley Nacional de Ejecución Penal, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2626,28 +2624,8 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-R
-
-S
-
-R
-
-S
-
 (ÛÜFG\¢£¾lm¤­Â34?no+,<rsÂÃÒyzûüËÌâ¨©²ÙÚíefyóçÝÓÊÁÓÊÝÓÊÁÓÊÁÊÁÓÊÁÊÁÊÁÓÊÁÓÊÝÓÊÁÓ·ÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓÊÁÓhñjÁh¨
 
 tttltmtrttttuuunvovsv_w`wew2x3x9xyyyùyúyýy÷íä÷íä÷íä÷íäÚíä÷íä÷íä÷íä÷íäÚíä÷íä÷íä÷íä÷íä÷ÎÚíä÷ä÷íä÷íäÚíä÷íä÷íä÷íä÷íä÷íä÷íä÷íä÷íhñjÁh¨|É5CJaJhñjÁhqñ5CJhñjÁh¨|ÉCJhñjÁh¨|É5CJhñjÁhqñCJQ0lllñlòl¨m©m'n(nunvnÀnÁnÎnðnñnoqqärårslsms
 
-x
-
-x
-
 C,ÍÎÌÍÜÝæç<ÌYZ )+23S§¨Î|}·¸ÆÇæ»¼¿üý¢£¨$%)§¨«Z[«¬_`Õ ÷íä÷ä÷ä÷íä÷íä÷íä÷ä÷ØÌØÀØ¶íä÷íä÷ä÷ØÀØ¶íä÷íä÷ä÷ä÷íä÷íä¶íä÷íä÷íä÷íä÷íä÷ä÷íähñjÁhqñ5CJhñjÁhÖ|5CJaJhñjÁhqñ5CJaJhñjÁh¨|É5CJaJhñjÁh¨|ÉCJhñjÁh¨|É5CJhñjÁhqñCJH
-
-<
-
-<
-
-,..Õ/Ö/²0³0¨1©1±12244444 5¡56677 7j8k8ã9ä9ê9;
-
-,..Õ/Ö/²0³0¨1©1224444 5¡56677j8k8ã9ä9;

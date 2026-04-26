@@ -862,8 +862,6 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2014
 
 ARTÍCULO SEGUNDO. Se reforman los artículos 25 y 26 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -903,8 +901,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de abril de 2016
 
 Artículo Único.- Se reforma el artículo 42 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -952,8 +948,6 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
 
 Artículo Único. Se adiciona un artículo 49 Bis a la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -968,8 +962,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Cuadragésimo Primero.- Se reforma el artículo 19, fracción II, de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -981,19 +973,3 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 llllllµl¶l¹lºlnmomqmrmn
 
 zzzÞzßzâzãzW{X{Z{[{{{{N|O|[|ß}÷îäÚ÷îäÚ÷îäÚ÷ÐÆ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷ÐºÐÆ÷î÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷ÐÆ÷î°§hq&õh¹'CJhq&õh¹'5CJhÚQ§hBl5CJaJhÚQ§hBl5CJhÚQ§h)nÃ5CJh3ehã5,5CJh3ehBl5CJhÚQ§h)nÃCJhÚQ§hBlCJA>x?xKxxxyyXyYyz
-
-?
-
-b
-
-v
-
-¼
-
-Ð
-
-ç
-
-ÿ
-
-h.d®h.d®CJ

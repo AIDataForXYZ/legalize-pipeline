@@ -578,8 +578,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2018
 
 Artículo Único.- Se reforman la fracción XI del artículo 4 y el cuarto párrafo del artículo 18 de la Ley Federal de Producción, Certificación y Comercio de Semillas, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.

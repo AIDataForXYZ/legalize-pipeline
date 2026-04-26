@@ -2308,8 +2308,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999
 
 ARTÍCULO ÚNICO.- Se reforma el artículo Cuarto Transitorio, fracción VI, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 3 de septiembre de 1999 para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2321,8 +2319,6 @@ México, D.F., a 9 de diciembre de 1999.- Sen. Luis Mejía Guzmán, Vicepresiden
 Publicado en el Diario Oficial de la Federación el 9 de octubre de 2000
 
 ARTICULO UNICO.- Se reforma y adiciona el numeral 2 del artículo 39 y se reforma el numeral 1 del artículo 43, ambos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar en los siguientes términos:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2336,8 +2332,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2001
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 40, numeral 4, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2349,8 +2343,6 @@ México, D.F., a 29 de noviembre de 2001.- La Presidenta, Dip. Beatriz Elena Par
 Publicado en el Diario Oficial de la Federación el 29 de septiembre de 2003
 
 Artículo Único. Se reforma y adiciona el artículo 34; se reforman las fracciones V a XXXVI y se adicionan dos fracciones al artículo 39; se adiciona un numeral 7 al artículo 45, y se reforma y adiciona el artículo 46, todos del Título Segundo de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2364,8 +2356,6 @@ Publicado en el Diario Oficial de la Federación el 29 de abril de 2004
 
 Artículo Único.- Se adiciona un segundo párrafo al artículo 117 y se reforma el primer párrafo y se adiciona un segundo párrafo al artículo 118 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
@@ -2377,8 +2367,6 @@ México, D.F., a 27 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 2004
 
 ARTÍCULO ÚNICO.- Se reforma el artículo 49, numeral 3 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como siguiente:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2393,8 +2381,6 @@ México, D.F., a 29 de abril de 2004.- Dip. Juan de Dios Castro Lozano, Presiden
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2004
 
 Único.- Se reforma el artículo 3, numeral 1 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2412,8 +2398,6 @@ Publicado en el Diario Oficial de la Federación el 8 de marzo de 2005
 
 Artículo Único.- Se reforma el numeral 1 del artículo 4 y el numeral 1 del artículo 6 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos para quedar como sigue:
 
-........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2425,8 +2409,6 @@ México, D.F., a 24 de febrero de 2005.- Dip. Manlio Fabio Beltrones Rivera, Pre
 Publicado en el Diario Oficial de la Federación el 3 de agosto de 2005
 
 ARTICULO UNICO.- Se reforma el numeral 3, del Artículo 49 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2442,8 +2424,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2005
 
 Artículo Único.- Se reforma la fracción XXVIII, recorriéndose las actuales XXVIII y XXIX, para ser las XXIX y XXX respectivamente del artículo 90 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2455,8 +2435,6 @@ México, D.F., a 14 de diciembre de 2005.- Sen. Enrique Jackson Ramírez, Presid
 Publicado en el Diario Oficial de la Federación el 23 de enero de 2006
 
 ARTICULO UNICO.- Se adiciona una nueva fracción XVII, al Numeral 2, del Artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2470,8 +2448,6 @@ Publicado en el Diario Oficial de la Federación el 30 de marzo de 2006
 
 Artículo Unico.- Se reforman los artículos 26 numeral 4; 34 numeral 1 inciso a); 36 numeral 1 inciso c), y 38 numeral 1 inciso a) y se adicionan los numerales 5 y 6 del artículo 26 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2484,8 +2460,6 @@ Publicado en el Diario Oficial de la Federación el 31 de marzo de 2006
 
 Artículo Unico.- Se reforma el numeral 2 y el inciso b) del artículo 40 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..........
-
 Artículo Transitorio
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2497,8 +2471,6 @@ México, D.F., a 23 de marzo de 2006.- Dip. Marcela González Salas P., Presiden
 Publicado en el Diario Oficial de la Federación el 13 de septiembre de 2006
 
 Artículo Único.- Se reforman los Artículos 17, numerales 1 y 7; 21 numeral 2 y 31, actual numeral 3, y se adicionan los Artículos 17, con un numeral 8; 21, con un numeral 3, pasando el actual 3 a ser 4, y 31 con un numeral 2, recorriéndose en su orden los demás numerales, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2517,8 +2489,6 @@ México, D.F., a 12 de septiembre de 2006.- Dip. Jorge Zermeño Infante, Preside
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2006
 
 Artículo Unico.- Se reforma la actual fracción XX, del numeral 2, del Artículo 39; se adicionan los Artículos 39, numeral 2, con una fracción VIII recorriéndose las demás fracciones en su orden y 43, con un numeral 2, recorriéndose los demás numerales en su orden, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2544,8 +2514,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007
 
 Artículo Único. Se reforma el numeral 1 y se adiciona el numeral 2 al artículo 53 de La Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2557,8 +2525,6 @@ México, D.F., a 13 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, President
 Publicado en el Diario Oficial de la Federación el 21 de abril de 2008
 
 Artículo Único.- Se adiciona un párrafo cuarto al artículo 46, recorriéndose el actual para pasar a ser quinto párrafo, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue
-
-.
 
 ##### TRANSITORIO
 
@@ -2572,8 +2538,6 @@ Publicado en el Diario Oficial de la Federación el 21 de abril de 2008
 
 Artículo Único.- Se adiciona un inciso i), al párrafo 2 del artículo 20, recorriendo el actual para ocupar el inciso j); un párrafo 3 al artículo 23; un inciso h), al párrafo 1 del artículo 34, recorriendo el actual para ocupar el inciso i), y un artículo 34 Bis a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2585,8 +2549,6 @@ México, D.F., a 17 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- 
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
 
 Artículo Único. Se reforma el inciso d), del párrafo 1 del artículo 34 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 Artículo Transitorio
 
@@ -2600,8 +2562,6 @@ Publicado en el Diario Oficial de la Federación el 5 de marzo de 2009
 
 Artículo Único.- Se reforma el artículo 92 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2614,8 +2574,6 @@ Publicado en el Diario Oficial de la Federación el 5 de marzo de 2009
 
 Artículo Único.- Se adicionan dos párrafos al artículo 112 y se reforma el artículo 113, ambos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2627,8 +2585,6 @@ México, D.F., a 26 de febrero de 2009.- Sen. Gustavo Enrique Madero Muñoz, Pre
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 Artículo Único.- Se adiciona el artículo tercero transitorio al Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 13 de septiembre de 2006, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2652,8 +2608,6 @@ Publicado en el Diario Oficial de la Federación el 17 de octubre de 2012
 
 Artículo Único.- Se reforma el numeral 2 del artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
@@ -2666,8 +2620,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2012
 
 ÚNICO.- Se reforman las fracciones XIII y XXII; y se recorren en su orden las actuales fracciones XIV a la XXII, para pasar a ser de la fracción XIII a la XXI, respectivamente, al artículo 90 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2679,8 +2631,6 @@ México, D.F., a 18 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presiden
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2013
 
 ARTÍCULO QUINTO. Se adicionan un inciso q) y se reforma el inciso p) al numeral 1 del artículo 23; un inciso n) y se reforma el inciso m) al numeral 1 del artículo 67 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -2708,8 +2658,6 @@ Publicado en el Diario Oficial de la Federación el 15 de octubre de 2013
 
 Artículo Único.- Se adiciona un artículo 100 Bis a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2721,8 +2669,6 @@ México, D.F., a 8 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2014
 
 Artículo Primero.- Se REFORMAN los artículos 43, numeral 1; 66, numerales 2 y 3; 104, numeral 1; se ADICIONAN los artículos 20, numeral 2 con un inciso d), pasando los actuales incisos d) a j) a ser los incisos e) a k); 23, numeral 1, con un inciso q), pasando el actual inciso q) a ser r) y, un numeral 2, pasando los actuales numerales 2 y 3 a ser 3 y 4; 34 numeral 1, con un inciso d), pasando los actuales incisos d) a i) a ser los incisos e) a j); 66, numeral 1, con un inciso c), pasando los actuales incisos c) a l) a ser los incisos d) a m); 67, numeral 1, con un inciso n), pasando el actual inciso n) a ser inciso o) y, un numeral 2; 82, numeral 1, con un inciso d) pasando los actuales incisos d) a f) a ser los incisos e) a g); un Título Quinto para denominarse De la Iniciativa Ciudadana y Preferente con dos Capítulos, que comprenden los artículos 130 a 133 denominado De la Iniciativa Ciudadana, y de los artículos 134 a 138 denominado De la Iniciativa Preferente, recorriéndose el actual Título Quinto De la difusión e información de las actividades del Congreso a ser Título Sexto, pasando los actuales artículos 130 a 135 a ser los artículos 139 a 144, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2766,8 +2712,6 @@ Publicado en el Diario Oficial de la Federación el 4 de octubre de 2016
 
 Artículo Único.- Se adiciona una fracción X, recorriéndose en su orden las actuales fracciones, al numeral 2 del artículo 39; y se deroga el numeral 3 del artículo 40 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2779,8 +2723,6 @@ Ciudad de México, a 20 de septiembre de 2016.- Dip. Edmundo Javier Bolaños Agu
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2016
 
 ARTÍCULO ÚNICO. Se reforman los artículos 140 y 141 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2844,8 +2786,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2017
 
 ÚNICO.- Se adiciona un inciso d) al artículo 106 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2883,8 +2823,6 @@ Ciudad de México, a 7 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín,
 Publicado en el Diario Oficial de la Federación el 24 de mayo de 2018
 
 Artículo Único.- Se adiciona un numeral 4 al artículo 49 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2952,8 +2890,6 @@ Publicado en el Diario Oficial de la Federación el 6 de octubre de 2021
 
 Artículo Único. Se reforma el segundo párrafo del numeral 2 del artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2978,8 +2914,6 @@ Publicado en el Diario Oficial de la Federación el 2 de julio de 2025
 
 Artículo Único.- Se adicionan un inciso n), recorriéndose el subsecuente en su orden, al numeral 1, y un inciso f) al numeral 2 al artículo 113 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -3000,37 +2934,9 @@ Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 Dirección General de BibliotecasÚltima Reforma DOF 10-05-2004
 
-~
-
-~
-
-t
-
-¸
-
-¹
-
-v
-
-¹
-
-¼
-
 fðúûüÿÊáëìíü¼ ¾ ß â ¤!§!*"-"Õ"Ø"L###©#D$G$O%R%)&,&ä&ç&ÿ'(è×Ï¿°wlÏlÏlÏlÏlÏlÏaXlÏlÏlÏlÏlÏlh±i5CJ^Jh±i5CJ\^Jh±i5CJ\^Jhá
 
 fCJ^J-há
-
-&h
-
-&h
-
-&h
-
-&h
-
-õ
-
-ó
 
 CJaJhhh¿'
 
@@ -3038,13 +2944,9 @@ CJaJhhh¿'
 
 uuuu
 
-uu
-
 Nhr
 
 h±i5CJh±iCJ^Jh±iCJ^JefØÙäåòóuv	 	RSæ
-
-f
 
 fhá
 

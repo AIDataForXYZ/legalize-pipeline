@@ -2350,8 +2350,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
@@ -2381,8 +2379,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999
 
 ARTICULO SEXTO.- Se reforman los artículos 103; 104; 105, párrafo primero; 106, párrafo primero y fracción II; 107, párrafos primero y segundo; 108, párrafo primero; y se adicionan los artículos 107 Bis; 107 Bis 1, y 108 Bis, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2421,8 +2417,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2002
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 3o., fracciones V, IX, XII y XIII; 5o., fracciones II, VI, XIII y XIV; 8o., fracciones I, II, III, IV, V y segundo párrafo; 10, fracciones III y IV; 11; 12, fracciones IV, XII y XV; 16, fracciones VIII, IX, XIV, XVI y XVII; 18, primer párrafo y fracciones I, II, III, IV, IX y X; 20, fracción IV; 22, tercer párrafo; 23; 28; 29, fracción III; 30, fracción I; 37; 38, primer párrafo; 39; 41, fracción II en su segundo párrafo, y las fracciones III y IV; 42, segundo párrafo; 43; 47; 48, fracción XI; 49, párrafos primero, segundo y cuarto; 50, fracción III en su segundo párrafo; 53; 56, párrafos primero y tercero, e incisos a) y d); 69, fracción I en sus incisos a) y b), fracción II en sus incisos a) y b) y el párrafo segundo del artículo; 70, primer párrafo; 72; 74; 76, primer párrafo; 78; 79; 84; 85, primer párrafo; 86; 90, fracciones VIII y XI; 91, párrafos primero y segundo; 99; 100; 102, cuarto párrafo; 111 y 115; se ADICIONAN los artículos 3o., con las fracciones III bis, XIII bis y XIV; 5o., con la fracción VI bis; 8o., con un tercer párrafo; 10, con la fracción V y un último párrafo; 12, fracción I con un segundo y tercer párrafos y un último párrafo; 18, con las fracciones I bis, I ter y I quáter y XI, así como con un último párrafo; 18 bis; 30, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto y así sucesivamente; 31; el 41, fracción II con un tercer párrafo y la fracción IV con un segundo párrafo; el 42 con un segundo párrafo, pasando el actual segundo párrafo a ser tercero y así sucesivamente; 42 bis; 44 con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto; 47 bis; 50, fracción III con un tercer párrafo y el mismo artículo con un último párrafo; 69, con un tercer párrafo; 74 bis; 74 ter; 74 quáter; 74 quinquies; 100 bis; 100 ter; 100 quáter; 113, con un tercer párrafo; 115 bis; 119; 120; 121; 122 y 123; y se DEROGAN la fracción IV del artículo 38 y el artículo 114 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2500,11 +2494,7 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2002
 
 ARTÍCULO PRIMERO.- Se reforma el artículo Noveno Transitorio del Decreto de Ley de los Sistemas de Ahorro para el Retiro y de Reformas y Adiciones a las leyes General de Instituciones y Sociedades Mutualistas de Seguros, para Regular las Agrupaciones Financieras, de Instituciones de Crédito, del Mercado de Valores y Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 23 de mayo de 1996, para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO.- Se reforman los artículos Segundo y Tercero Transitorios del Decreto por el que se Reforma y Adiciona la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 10 de diciembre de 2002, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2534,8 +2524,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2004
 
 ARTÍCULO TERCERO.- Se ADICIONAN los artículos 100, con una fracción XXVII, pasando la actual fracción XXVII a ser fracción XXVIII, y el artículo 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2549,8 +2537,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de enero de 2005
 
 Artículo Único.- Se reforman los artículos 37, párrafo cuarto; 53, párrafo segundo; 58, fracción II; 74, párrafo séptimo; 76, párrafo segundo; 78, párrafo tercero; 100, fracciones II y XVII; 100 bis; 100 quáter, párrafo primero; 111 y 119, primer párrafo, y se adicionan los artículos 3o. con una fracción VIII bis; 64 bis; 64 ter; 100 con las fracciones I bis y I ter y 100-A de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2580,8 +2566,6 @@ Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 ARTÍCULO ÚNICO.- Se adicionan los artículos, 3o. con una fracción V bis; 5o. con una fracción XII; 66 bis, y 74 párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo, noveno y décimo a ser décimo primero, décimo segundo y décimo tercero; y se reforman los artículos 7o., párrafos primero y tercero; 9o., párrafo segundo; 37, párrafos segundo y cuarto; 74, párrafo séptimo; 76, párrafo primero y 79, párrafo noveno, todos de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo segundo del artículo 37, párrafos séptimo y octavo del artículo 74 y primer párrafo del artículo 76, que entrarán en vigor nueve meses después a la fecha de publicación del presente Decreto en el Diario Oficial de la Federación.
@@ -2602,8 +2586,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO SEXTO. Se reforma el artículo 108 Bis, fracción I, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2619,8 +2601,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de enero de 2009
 
 Artículo Único.- Se reforman los artículos; 5o. fracción XIII; 18, fracción IV; 36, cuarto párrafo; 37; 74 último párrafo, 76; y se adicionan los artículos 5o. con una fracción XIII Bis; 37 A; 37 B; 37 C; 44 Bis, y 100 B, todos de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2666,8 +2646,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO SEXTO. Se reforma el artículo 92, segundo párrafo, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2697,8 +2675,6 @@ III.	Las infracciones y delitos cometidos con anterioridad a la fecha de entrada
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
 
 IV.	La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014.
-
-.
 
 ##### TRANSITORIO
 
@@ -2840,8 +2816,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Octavo.- Se reforma el último párrafo del artículo 111 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2860,60 +2834,10 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-7
-
-*
-
-T
-
-&
-
-S
-
-T
-
-X
-
-,
-
-+
-
-ê
-
-÷
-
-b+h
-
 hhJhchnhohphi
-
-b+h
-
-b+h
 
 b+CJ^JaJh
 
-b+h
-
 b+5CJ\^JaJh
 
-b+h
-
 b+5CJaJh
-
-b+h
-
-b+$ ` a$gd
-
-b+
-
-b+h
-
-b+h
-
-b+h
-
-b+h
-
-b+h
-
-b+h

@@ -548,8 +548,6 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ARTÍCULO SEGUNDO. Se reforman los artículos 28, fracción X, y 37; así como la denominación del Capítulo I del Título Cuarto, y se derogan los artículos 10, fracción IX; 34; 35; 36; 38; 39 y 42 de la Ley de Cooperación Internacional para el Desarrollo, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

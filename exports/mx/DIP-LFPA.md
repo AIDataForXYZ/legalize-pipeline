@@ -982,8 +982,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO PRIMERO.- Se reforman el párrafo segundo del artículo 1, el párrafo primero de los artículos 6 y 17, el párrafo segundo del artículo 35 y el artículo 86; se adicionan los artículos 4 A, 17 A, 17 B, y un último párrafo al artículo 35, y se derogan las fracciones VI y XI del artículo 3 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
@@ -999,8 +997,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de abril de 2000
 
 Artículo Unico.- Se reforman los artículos 1, segundo párrafo, 2, 4, 17, primer párrafo, 17-A y 83; se adicionan un segundo párrafo al artículo 1, recorriéndose en su orden actual los párrafos segundo y tercero, el artículo 15-A, un título tercero A y los artículos 69-A a 69-Q y 70-A, y se deroga el artículo 4-A de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1030,8 +1026,6 @@ Publicado en el Diario Oficial de la Federación el 30 de mayo de 2000
 
 ARTICULO UNICO.- Se reforman la fracción II y penúltimo párrafo del artículo 35 y el artículo 83, y se adicionan cinco párrafos al artículo 69-C, todos de la Ley Federal de Procedimiento Administrativo, en los términos siguientes:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1047,8 +1041,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO QUINTO.- Se adiciona un artículo 69 C Bis a la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1082,8 +1074,6 @@ Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
 
 Artículo Primero.- Se reforma la fracción II del artículo 35 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1100,8 +1090,6 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 2018
 
 Artículo Segundo.- Se derogan los artículos 69-A; 69-B, tercer párrafo; 69-C, primer párrafo; 69-D; 69-E; 69-F; 69-G; 69-H; 69-I; 69-J; 69-K; 69-L; 69-M; 69-N; 69-O; 69-P; 69-Q y 70-A, fracciones II, III, IV, V, VI, VII, VIII y IX y último párrafo de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1115,8 +1103,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Trigésimo Cuarto.- Se reforma el artículo 2 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
-
-..
 
 ##### Transitorios
 

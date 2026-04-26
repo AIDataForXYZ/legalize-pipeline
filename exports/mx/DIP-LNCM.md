@@ -2934,8 +2934,6 @@ Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011
 
 Artículo Único.- Se reforman los incisos a. y c. de la fracción IV del artículo 328 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2951,8 +2949,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 
 ARTÍCULO OCTAVO.- Se adiciona un artículo 77 BIS de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2972,8 +2968,6 @@ Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
 
 ARTÍCULO TERCERO.- Se reforman el párrafo primero del artículo 1; el artículo 163, el artículo 164 y la fracción III del artículo 167; y se adicionan las fracciones I Bis, VII Bis y VII Ter al artículo 2; el artículo 8 Bis; la fracción VIII Bis al artículo 9; el tercer párrafo al artículo 46 y el artículo 49 Bis, de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2992,8 +2986,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 2014
 
 Artículo Primero.- Se reforman los artículos 8, fracción VI; 55, párrafos primero, segundo, cuarto y quinto; 56; 57, fracciones III y IV, y se adicionan las fracciones XIV y XV al artículo 2; un párrafo sexto al artículo 55 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3009,8 +3001,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 Artículo Segundo.- Se REFORMAN los artículos 7; 8; 8 Bis; 9; 10, segundo párrafo; 11, segundo párrafo; 12, primer párrafo; 14, primer y último párrafos; 21, segundo párrafo; 23, primer párrafo; 24, último párrafo; 30; 31, último párrafo; 32, penúltimo párrafo; 33; 35, fracciones III, IV, V y VI; 36, primer párrafo; 37; 38, último párrafo; 39, incisos A, párrafos segundo y tercero, B, primer párrafo; 42; 43, último párrafo; 44, párrafos segundo, tercero y cuarto; 45, último párrafo; 46; 48, párrafos primero, fracciones I y III y segundo; 49, párrafo primero y su fracción VI; 49 Bis; 50, segundo párrafo; 51, párrafos segundo, tercero, fracción I, quinto y sexto; 53, segundo párrafo; 55, sexto párrafo; 57 penúltimo párrafo; 58, fracciones II y III; 59, fracción II; 60; 61; 63; 65; 66, fracciones I, II, IV, V y VI; 69; 73; 74, fracciones II y IV; 77, incisos A, B y C; 87, párrafos primero, fracción I y segundo; 130, párrafos tercero, cuarto y quinto; 140; 151; 159, fracción II; 161, último párrafo; 163; 167; 170; 180; 181; 183; 185, párrafo primero, fracción II, párrafos segundo y tercero; 264, segundo párrafo; 265, párrafos primero y segundo; 281; 298, primer párrafo; 323; 324; 326, párrafo primero y su fracción V; 327, párrafo primero, fracciones III, incisos a y b, y VIII, y 328; se ADICIONAN los artículos 9 Bis, 9 Ter y 328 Bis; y se DEROGAN las fracciones VI y IX del artículo 327 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -3078,8 +3068,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Décimo Noveno.- Se reforman los artículos 6, fracción VII; 105; 264, primer párrafo y, 275, primer párrafo, de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3098,45 +3086,7 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-0
-
-:
-
-;
-
-<
-
-B
-
-N
-
-p
-
-r
-
-;
-
-<
-
-N
-
-#({ÓÖíñµº3;ª¬ºÄÅÆÎ4WX^°³ÇËEJ
-
-P
-
-Z
-
-[
-
-[
-
-\
-
 >>>#>$>%>3>À>Ä>@?W?a?c?m?n?o?t?å?ü?@@ìÙÂ¬££yp¬ìÙÂ¬££dZ¬ìÙÂ¬SdZ¬ìÙ
-
-Ñ
-
-Â
 
 hÈCCJ\
 

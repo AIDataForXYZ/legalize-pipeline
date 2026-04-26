@@ -4658,8 +4658,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-P R E S E N T E
-
 El Tribunal Pleno, en su sesión celebrada el diecisiete de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
 
 PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
@@ -4694,8 +4692,6 @@ VISTOS; para resolver los autos de la acción de inconstitucionalidad promovida 
 
 RESULTANDO:
 
-..
-
 450.	Ahora bien, en relación con los efectos específicos de invalidez, se precisa que atendiendo a la facultad de esta Suprema Corte de Justicia de la Nación para determinar los efectos de las sentencias estimatorias que emite, conforme a lo dispuesto en los citados artículos 41 y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y que conforme a jurisprudencia P./J. 84/2007, cuyo rubro es: ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS.
 
 451.	En esa jurisprudencia se sostiene que los efectos que este Tribunal Constitucional imprima a sus sentencias estimatorias en la vía de acción de inconstitucionalidad deben, de manera prioritaria, salvaguardar de manera eficaz la norma constitucional violada, aunque al mismo tiempo se debe evitar generar una situación de mayor incertidumbre jurídica que la ocasionada por las normas impugnadas, así como afectar injustificadamente el ámbito decisorio establecido constitucionalmente a favor de otros poderes públicos (federales, estatales y/o municipales).
@@ -4721,8 +4717,6 @@ SEXTO. Publíquese esta resolución en el Diario Oficial de la Federación, así
 Notifíquese; con testimonio de la presente resolución, devuélvanse los autos a su lugar de origen y, en su oportunidad, archívese el presente toca como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-..
 
 La señora Ministra Presidenta Norma Lucía Piña Hernández declaró que el asunto se resolvió en los términos precisados.
 
@@ -4752,8 +4746,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Noveno.- Se reforman los artículos 1, párrafo segundo; 3, fracciones I, IV, V, VII, VIII y XIII; 4, párrafos segundo y tercero; 14; 16; 17; 18; 20, párrafo primero, fracciones I, inciso a), II y párrafo segundo; 21; 22, párrafo primero; 23; 24, párrafo tercero; 25, párrafos primero y tercero; 26, párrafos primero y segundo; 27, epígrafe, párrafos primero y segundo; 31; 32; 33, de su párrafo primero, la fracción II, párrafos tercero y cuarto; 47, párrafos primero y tercero; 51, párrafo cuarto; 52; 55; 57, párrafo segundo; 61, epígrafe, párrafos primero, segundo y tercero; 65; 73; 75; 76, párrafos primero, segundo, tercero y cuarto; 82, párrafos segundo y tercero; 83; 87; 89, epígrafe, párrafo primero; 91, párrafo tercero; 97, párrafos primero y segundo; 103; 105, párrafo tercero; 110, epígrafe, párrafo primero, fracciones II, IV, V, VI, X, XI, XII, XIII, XIV y XV; 111, epígrafe, párrafos primero y segundo; 112; 114, epígrafe, párrafo primero, fracciones I, II, III, V, VII, X, XII y XVI; 116; 126, párrafos tercero y cuarto; 128, de su párrafo primero, fracciones X, XI, XVIII y XIX; 129, epígrafe, párrafos primero y segundo; 130, párrafo primero, fracción I; 137, párrafos primero, segundo y tercero; 139; 140, párrafos primero, fracción II, cuarto y quinto; 144, párrafos primero, tercero y séptimo; 146, párrafo primero; 147; 150, epígrafe, del párrafo primero, fracciones II, V y VI; 151, párrafo primero; 153, párrafo primero, fracciones I, V y XII; 162, párrafo segundo; 163, párrafo primero; 164, párrafos primero, tercero, cuarto y noveno; 165, epígrafe, párrafo primero, fracciones I, II y III; 166, párrafo primero, fracción III; 169; 171, epígrafe, párrafos primero, segundo, tercero y cuarto; 174, del párrafo primero, fracciones I, III, IV, V, VI, VII, VIII y XIII; 189, párrafo primero, fracción I y párrafo segundo; 192, párrafos primero, segundo y tercero; 193; 198, epígrafe, párrafo primero, fracciones I, II y III; 199, párrafos primero, tercero y quinto; 200, párrafos primero y segundo; 202; 215; 219; 224, párrafo segundo; 249; 252, del párrafo segundo, fracciones II, III y V, párrafos cuarto y sexto; 257, párrafo primero; 262; 266, párrafos primero, segundo y tercero; 270; 273, párrafos segundo, tercero y cuarto; 275; 281; 284, párrafo quinto; 286, fracción III; 287, epígrafe y párrafos primero, cuarto y sexto; 289; 290, epígrafe y párrafo tercero; 292; 300, del párrafo primero, la fracción I; 301; 302, párrafo tercero; 303; 304; 305; 306; 307; 308 y 309; se adicionan a los artículos 3 Bis, una fracción II Bis, y 189, un párrafo tercero, y se deroga el artículo 131 del Código Militar de Procedimientos Penales, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4782,8 +4774,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Cuarto.- Se reforma el quinto párrafo del artículo 137 del Código Militar de Procedimientos Penales, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4801,15 +4791,5 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-v
-
-v
-
-Æ>a$gd,\pª>?deÕÖ)*
-
-}}}}¹}º}¾}¿}~	~~
-
-a
 
 ii^i`kakmmÿmn\nénênîoïo´qµqt t¦t§tx

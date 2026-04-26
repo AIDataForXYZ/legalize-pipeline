@@ -8168,8 +8168,6 @@ Publicado en el Diario Oficial de la Federación el 29 de septiembre de 1937
 
 ARTICULO UNICO.-Se reforma el artículo 49 del Código de Justicia Militar publicado en el "Diario Oficial" el 31 de agosto de 1933, en los siguientes términos:
 
-..........
-
 TRANSITORIO.- Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial".
 
 Y en cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su publicación y observancia, expido el presente Decreto en la Ciudad de México, Distrito Federal, a los siete días del mes de agosto de mil novecientos treinta y siete.- Lázaro Cárdenas.-Rúbrica.-El General de Brigada, Subsecretario, Encargado del Despacho de Guerra y Marina, Manuel Avila Camacho.-Rúbrica.-Al C. Lic. Silvestre Guerrero, Secretario de Gobernación.-Presente.
@@ -8180,8 +8178,6 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 1942
 
 ARTICULO UNICO.- Se reforma la fracción V del artículo 39 del Código de Justicia Militar, en los siguientes términos:
 
-..........
-
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir de su publicación en el "Diario Oficial".
 
 En cumplimiento de lo dispuesto por la fracción y del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, el día cuatro de junio de mil novecientos cuarenta y dos.-Manuel Avila Camacho.-Rúbrica.-El Secretario de Estado y del Despacho de la Defensa Nacional, Pablo E. Macías V.-Rúbrica.-Al ciudadano licenciado Miguel Alemán, Secretario de Gobernación.-Presente.
@@ -8191,8 +8187,6 @@ En cumplimiento de lo dispuesto por la fracción y del artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de octubre de 1944
 
 UNICO.- Se reforman los artículos 10, 152, 264, 275 y el capítulo IV del libro II del Código de Justicia Militar, en los siguientes términos:
-
-..........
 
 TRANSITORIOS:
 
@@ -8207,8 +8201,6 @@ En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constit
 Publicado en el Diario Oficial de la Federación el 24 de junio de 1993
 
 ARTICULO UNICO.- Se reforman los artículos 193, 201 segundo párrafo, 202, 873, 874, 875, 878, 879, 880 y 881 y la denominación del Capítulo III, del Título Sexto, del Libro Tercero; se adicionan un tercer y cuarto párrafos al 201 y las fracciones IV y V al 874, del Código de Justicia Militar, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8225,8 +8217,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de julio de 1994
 
 ARTICULO UNICO.- SE REFORMAN los artículos 47 primer párrafo, 52 fracción III, 56, 78, 80, 83 fracción I, 85 fracción I y VI, 241, 243, 422 fracción II, 424, 425, 432, 446, 453, 454, 492 fracciones II a IV, 498, 504, 507, 509, 513, 514, 515 fracciones III, IV, VI, VII, VIII y IX, 517, 523, 525, 530, 586, 590, 603 fracción IV, 616, 626, 636, 643, 656, 660 segundo párrafo, 665 fracción VI, 799, 803 fracción III, 805 fracciones I a III, y 809 fracciones I, III y V, la denominación del Capítulo III, del Título Segundo del Libro Tercero; SE ADICIONAN la fracción XIV al artículo 83, recorriéndose la actual XIV para ser XV, el artículo 152 Bis, una fracción V al artículo 423, un último párrafo al artículo 439, el artículo 439 Bis, la fracción V al artículo 492, un último párrafo al artículo 803, y un último párrafo al artículo 804; y SE DEROGA la fracción I del artículo 47, del Código de Justicia Militar, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8246,8 +8236,6 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
@@ -8261,8 +8249,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999
 
 ARTICULO SEGUNDO.- Se reforman el artículo 78; la fracción I del artículo 83; la denominación del Capítulo III, del Título Segundo, del Libro Tercero; el párrafo segundo del artículo 453; el artículo 454 y las fracciones III, V y VII y los párrafos segundo y cuarto del artículo 515, y se adicionan los artículos 801 bis y 801 ter, todos del Código de Justicia Militar, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8279,8 +8265,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de junio de 2005
 
 Artículo Único. Se Reforman los Artículos 67, fracción VIII; 73, primer párrafo; 74; 122, fracciones I, III y IV; 128; 129; 145, fracción II; 151, primer párrafo; 157, fracción I; 175; 182; 185; 190, fracción III; 197, fracción II; 202; 203, primer párrafo; 204; 206; 208, primer párrafo; 209, último párrafo; 210; 213, último párrafo; 219, primer párrafo; 237; 251; 252; 253, primer párrafo; 272; 274, fracciones I y III; 279, primer párrafo y fracción I; 282, fracción III; 285, fracción IX; 286; 288; 290, último párrafo; 292; 299, fracción VII; 303, fracción III; 305, fracción II; 311, último párrafo; 312, fracciones II y III; 313, último párrafo; 315; 318, fracción VI; 319, fracción I; 321; 323, fracción III; 338, fracción II; 356; 359; 362, primer párrafo; 363; 364, fracción IV; 376, primer párrafo; 385; 386, primer párrafo; 389; 390; 391; 392, fracción I; 397, primer párrafo; 398, primero y último párrafos; 430; 872 y la denominación del Título Tercero y de su Capítulo VIII, ambos del Libro Segundo, así como la denominación del Capítulo III, del Título Sexto del Libro Tercero; y se Derogan los Artículos 122, fracciones II y V; 130; 142; 145, fracción III; 151, fracción I; 174, fracción I; 176; 177; 178; 190, fracción IV; 197, fracción I y último párrafo; 431; 712; 713; 850, fracción II; 851; 852; 869; 870, y el Capítulo V, del Título Segundo del Libro Segundo, todos del Código de Justicia Militar, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -8314,8 +8298,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO TERCERO. Se reforman los artículos 7o; 12, primer párrafo; 13; 14; 22; 27; 28; 34; 39, fracción I; 42; 43; 44; 48; 55; 62, segundo párrafo; 68, fracciones I, III, V y VI; 69, fracciones III y VIII; 76, fracciones III y VI; 81, fracciones I, IV, V, X, XII, XV, XVI, XVIII y XIX; 85, fracciones II, V, VII, X, XIII, XIV y XV; 92; 141, primer párrafo; 179; 239, fracción II; 408, fracción IV; 434, fracción X, numeral 5o., segundo párrafo; 447; 448; 449; 572, primer párrafo; 715; 779; 853; 855; 856; 859; 862; 871, segundo párrafo; 882, segundo párrafo; 887; 904, fracciones I y II y 909 del Código de Justicia Militar, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8331,8 +8313,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 Artículo Primero.- Se reforman los artículos 1o., párrafo primero y fracción IV; 2o., fracción II; 14; 18; 22; 34; 42; 43; 47, párrafo primero y fracción III; 48; 49, párrafo primero y fracciones II y IV; 55; 57, fracciones I y II; 62, párrafos primero y segundo; 76, párrafo primero y fracción II; 80, párrafos primero, tercero y cuarto; 81, fracciones III, IV, V, X, XII, XV, XVI, XVIII y XIX; 83, fracción XV; 85, fracciones VII y XV; 86, fracción VI; 92; 102, primer párrafo; 125; 126; 129; 134; 139; 141; 143; 145, primer párrafo y fracción II; 150; 151, primer párrafo; 153; 154; 158; 164, párrafo segundo; 175; 179; 180; 184; 191, segundo párrafo; 196; 197, fracción III; 198; 204; 236; 239, fracción II; 241, último párrafo; 243, último párrafo; 247, último párrafo; 264, fracción II; 268; 275, último párrafo; 402, segundo párrafo; 408, fracción IV; 429, segundo párrafo; 430; 434, fracción X, numeral 1o. y segundo párrafo; 435, primer párrafo; 444, primer párrafo; 450, primer párrafo; 465, primer párrafo; 482; 484, párrafo primero y fracción III; 510; 516; 521; 572, primer párrafo; 603, fracción II; 637; 638; 680; 688; 690; 693; 694; 698; 709; 715; 732; 737; 808; 809, fracción IV; 810, fracción II; 811; 814; 826, párrafo tercero, fracción III; 833; 847; 849; 853; 854; 855; 856; 857, fracción I; 858, primer párrafo; 859; 862; 864; 868; 871; 875; 876; 877; 882, segundo párrafo; 887; 909; y 922, fracción III; se derogan el inciso c), fracción II del artículo 57; las fracciones VI, VII y VIII del artículo 67; las fracciones I a VII del último párrafo del artículo 102, y el artículo 865; y se adicionan la fracción V, al artículo 1o.; los artículos 30 Bis; 37, con un segundo párrafo; 49 Bis; 57, párrafos segundo y tercero; 62, último párrafo; 76 Bis; 76 Ter; 80, último párrafo; 83, fracciones XVI y XVII; 86, último párrafo de la fracción VI; 122 Bis; 129, párrafos segundo y tercero; 337 Bis; 444, último párrafo; 450, párrafos segundo, tercero, cuarto y quinto; 482, segundo párrafo del Código de Justicia Militar, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -8424,8 +8404,6 @@ Publicado en el Diario Oficial de la Federación el 21 de junio de 2018
 
 Artículo Primero.- Se reforman los artículos 211, 213, primer párrafo y 216, fracción I; y se deroga el artículo 212 del Código de Justicia Militar, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -8449,8 +8427,6 @@ CONTROVERSIAS CONSTITUCIONALES Y DE
 ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACION
-
-P R E S E N T E
 
 El Tribunal Pleno, en su sesión celebrada el diecisiete de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes:
 
@@ -8486,8 +8462,6 @@ VISTOS; para resolver los autos de la acción de inconstitucionalidad promovida 
 
 RESULTANDO:
 
-..
-
 450.	Ahora bien, en relación con los efectos específicos de invalidez, se precisa que atendiendo a la facultad de esta Suprema Corte de Justicia de la Nación para determinar los efectos de las sentencias estimatorias que emite, conforme a lo dispuesto en los citados artículos 41 y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y que conforme a jurisprudencia P./J. 84/2007, cuyo rubro es: ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS.
 
 451.	En esa jurisprudencia se sostiene que los efectos que este Tribunal Constitucional imprima a sus sentencias estimatorias en la vía de acción de inconstitucionalidad deben, de manera prioritaria, salvaguardar de manera eficaz la norma constitucional violada, aunque al mismo tiempo se debe evitar generar una situación de mayor incertidumbre jurídica que la ocasionada por las normas impugnadas, así como afectar injustificadamente el ámbito decisorio establecido constitucionalmente a favor de otros poderes públicos (federales, estatales y/o municipales).
@@ -8514,8 +8488,6 @@ Notifíquese; con testimonio de la presente resolución, devuélvanse los autos 
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-..
-
 La señora Ministra Presidenta Norma Lucía Piña Hernández declaró que el asunto se resolvió en los términos precisados.
 
 Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -8529,8 +8501,6 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Octavo.- Se reforman los artículos 1, fracciones I, III Bis y V; 2, párrafo primero, fracciones I, II y IV; 3; 7; 8; 9 Bis párrafo primero, fracciones I, II, III y IV; 30 Quáter, párrafo primero, fracción I; 30 Septimus, párrafo primero, fracción I; 34; 47, párrafo primero, fracciones II y III; 49; 51; 57, del párrafo primero, de la fracción II, incisos a), b), d), y e), párrafo segundo, tercero y cuarto; 60; 68, párrafo primero, fracciones I, II, IV, V, VI, VII y VIII; 69, párrafo primero, fracciones II, III, IV, V, VI, VII, VIII, IX y X; 71; 76 Bis; 76 Ter, párrafo primero, fracciones IV, V, en los incisos a) y b), VI, VII, VIII, IX y X; 81 Bis, párrafo primero y fracciones III, VI y VIII; 83, párrafo primero, fracciones XI, XII, XIII, XV, XVII, XVIII, XIX, XX, XXI, XXIV, XXVI, XXVII, XXIX, XXXI, XXXIV, XXXV, XXXVI, XXXVIII, XLVIII y LI; 85, párrafo primero y fracciones I, III, VI, IX y XI; 86, párrafo primero, fracciones I, V, VI, VII, IX, X, XI, XVI y XVIII; 100; 103; 104; 109, fracciones II, III, IV, V, VI y VII; 113; 118; 119; 129; 131; 133; 135; 136; 137; 138; 140; 148; 150; 151, párrafo primero, fracción II; 152 Bis; 155; 156; 158; 159, párrafo primero, fracción II y párrafo segundo; 183; 187; 202; 203, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII; 204; 205, párrafo primero; 207; 208, párrafo primero, fracciones II y III; 209, párrafo primero; 214; 215; 216; 217; 218, párrafo primero, fracciones II, III y IV; 219, del párrafo primero, las fracciones I, II, III y IV, párrafo tercero; 220; 221; 223; 224, párrafo primero, fracción II; 225, párrafo primero, fracciones II y III; 227; 228, párrafo primero, fracciones II, III, IV y V; 229; 230; 231; 232; 233; 234; 237; 238; 239; 240; 241, párrafo primero, fracciones I, II y III; 242; 243, del párrafo primero, las fracciones I, II y III; 244; 245, párrafo primero, fracción II; 246; 247; 248; 249, párrafo primero, fracciones I, II, III, IV y V, inciso b); 250, párrafo primero; 253, párrafo primero; 254; 255, párrafo primero, fracciones II, III y IV; 256; 257, párrafo primero, fracciones II y III; 258; 259; 260; 261, párrafo primero, fracciones II, III, IV, V y VI; 263; 264, párrafo primero, de la fracción I, párrafo segundo; 265, párrafo primero, fracciones II, III y IV; 266; 267, párrafo primero, fracciones II, III, y IV; 270, párrafo primero, fracciones II y III; 271; 272; 273; 274, párrafo primero, fracción II; 275, párrafos primero, segundo, tercero y cuarto; 275 Bis; 275 Ter, párrafos primero y tercero; 276, párrafo primero; 278; 279, párrafo primero, fracción II; 280, párrafo primero; 281; 282, párrafo primero, fracción II; 284; 285, párrafo primero, fracciones II, III, IV, V, VI, VII y VIII; 286; 288; 289; 290, párrafo primero; 293; 294; 295; 297; 298; 299, párrafo primero, fracciones II, III, IV, V y VI; 300; 301; 302; 303, párrafo primero, fracciones I y II; 304, párrafo primero, fracciones II, III y IV; 305, párrafo primero; 306; 307; 309; 311, párrafo primero, fracciones II y III; 312, párrafo primero; 313, párrafo primero, fracciones II y III; 314; 316; 318, párrafo primero, fracciones II, III, IV, V y VI; 319, párrafo primero, fracciones II, III y IV; 322; 323, párrafo primero, fracción II; 324, párrafo primero, fracciones II, III, IV y V; 325; 327; 330; 331; 333; 334, párrafo primero; 335; 336, del párrafo primero, fracción II; 337; 338, párrafo primero; 339, párrafo primero, fracciones II y III; 340; 341; 342, párrafo primero, fracciones II y III; 343, párrafo primero, fracciones I, II, III, IV, V y VI; 344; 345; 346; 347; 348; 349; 350; 351; 352, párrafo primero, fracciones II y III; 353, párrafo primero, fracción II; 354; 355, párrafo primero, fracciones II y III; 356; 357; 358, párrafo primero, fracciones II y III; 359; 360; 361; 362, párrafo primero, fracciones I, II, en su párrafo primero, fracción III; 363; 364, párrafo primero, fracciones II y III; 365, párrafo primero, fracciones II y III; 366, párrafo primero, fracción II; 367; 368; 369; 370, párrafo primero, fracción II; 371, párrafo primero, fracción III; 372, párrafo primero, fracciones II y III; 373; 374; 375, párrafo primero; 376; 377; 378, párrafo primero, fracción II; 379, párrafo primero, fracción II; 380; 381; 382; 384; 386; 387; 388; 389; 390; 391; 392; 393; 394; 395; 397, párrafo primero, fracciones I, II, III, párrafo primero y IV, párrafo primero; 398, párrafo primero; 399; 400; 401; 402; 403; 404; 405; 406; 407, párrafo primero, fracciones II, III, IV, V, VI y VII; 408, párrafo primero, fracciones II y III; 409; 421; 422, párrafos primero y segundo, fracciones II, III, IV, V, VI y VII; 423, párrafo primero, fracciones I, II, III, IV y V; 424; 425; 426; 427; 428; 429; 430; 432; 433; 434, de su primer párrafo las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI; así como las denominaciones del Libro Primero, Título Primero Capítulo II; Título Quinto, Capítulo II; del Libro Segundo, Título Octavo y sus Capítulos III y VI; Título Decimoprimero, Capítulo I, y se adicionan a los artículos 47, el párrafo segundo; 208, párrafo segundo; 249, párrafo segundo; 396 Bis; 396 Ter; 396 Quáter; 396 Quinquies; 396 Sexies; 434, fracciones XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII así como en el Libro Segundo del Título Decimoprimero, un Capítulo VI Bis, del Código de Justicia Militar, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -8556,112 +8526,12 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 §¨©ª	²	½¾ËéÜÊ³³~qdVdDd2#höp=h
 
-8
-
-u
-
-v
-
-©
-
-!
-
-"
-
-8
-
-Z
-
-]
-
-j
-
-t
-
-u
-
-v
-
-z
-
-{
-
-©
-
-ª
-
-­
-
 ðßÍ³Í¥¥³eLeßÍðßÍ³;¥ höp=h
-
-ª
-
-à
-
-­
-
-Ä
-
-Å
-
-à
-
-÷
-
-F
-
-G
-
-Ý
-
-Þ
-
-ÁÂxy
-
-#
-
-$
-
-;
-
-E
-
-F
-
-G
-
-L
-
-Ü
-
-Ý
-
-Þ
-
-ã
 
 ¶ÀÁÂÇwxy
 
-î
-
 Æ>a$gdÖf$a$gdÖf$ ` a$gdÖfÆsÇsÈsÕs1tYtctdtetst°w±w­xÄxÎxÏxÐxßx
 
-ý¬­­	­
-
-$
-
 þ !.<=ôµ¶4UV¢ÄÅkóëâÝÝâÑÉÑÑÉÑÑ½­­É­­É$ ü^` üa$gd'[$
-
-WXµ×Ø%GHïçÞÞÞÒÊÒÒ¾Þ®Þ®¦®®¦Þ$a$gd¸<T$ ü^` üa$gd¸<T$
-
-)$ ` a$gd
-
-)h
-
-)h
-
-)h
-
-)h
 
 ½¿É¿Ó¿Ô¿Õ¿	ÀÀÀ+À5À6À7ÀEÀFÀRÀSÀåÎåÁ¯zczÁQ@3@hl&hwCJ^JaJ höp=h

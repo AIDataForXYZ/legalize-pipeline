@@ -292,8 +292,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 SEGUNDO. Es parcialmente procedente y fundada la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 TERCERO. Se sobresee la acción de inconstitucionalidad 10/2018, promovida por el Partido Político Movimiento Ciudadano, en los términos precisados en el considerando cuarto de este fallo.
@@ -301,8 +299,6 @@ TERCERO. Se sobresee la acción de inconstitucionalidad 10/2018, promovida por e
 CUARTO. Se declara la invalidez del Decreto por el que se expide la Ley de Seguridad Interior, publicado en el Diario Oficial de la Federación el veintiuno de diciembre de dos mil diecisiete.
 
 SEXTO. Publíquese esta sentencia en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-A t e n t a m e n t e
 
 Ciudad de México; 15 de noviembre de 2018
 

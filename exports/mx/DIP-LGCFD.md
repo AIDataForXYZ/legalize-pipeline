@@ -1972,8 +1972,6 @@ Publicado en el Diario Oficial de la Federación el 25 de enero de 2017
 
 Artículo Único.- Se reforman las fracciones XXIII del artículo 30; I y II del artículo 140 y se adiciona una fracción XIII al artículo 3 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1988,8 +1986,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 Artículo Décimo Noveno.- Se modifica el nombre de la Sección Segunda, Capítulo I, Título Segundo y se reforman los artículos 1; 2, párrafo primero y fracción II; 6; 7; 11, fracción II; 15; 16, fracción II; 30, fracciones III y VIII; 32, párrafos primero y tercero; 33; 34, párrafo primero y fracciones II y V; 35, primer párrafo y fracciones I, II, III, IV, y V; 36; 37, párrafo primero; 38; 39; 40; 41, párrafo primero y fracción I; 41 Bis, párrafo primero y fracciones II en su primer párrafo, III, IV, V, VIII y XI; 42; 48, párrafo segundo; 51, fracciones III, IV y V; 88, párrafos segundo y tercero; 89, párrafo primero; 93; 95, párrafo primero; 98 Bis, párrafo segundo; 101; 105, párrafo primero; 111, fracción V; 119, párrafo tercero; 123; 137, párrafo primero; 139, párrafos segundo y sexto; 140, fracción IV; y 142, párrafo segundo de la Ley General de Cultura Física y Deporte, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1997,8 +1993,6 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
 
 Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez que entre en vigor la Constitución Política de la Ciudad de México.
-
-.
 
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
 
@@ -2111,8 +2105,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de mayo de 2021
 
 Artículo Único.- Se reforma la fracción IX del artículo 30 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2232,8 +2224,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Tercero. Se reforma el artículo 80, párrafos segundo, tercero y cuarto de la Ley General de Cultura Física y Deporte, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2252,8 +2242,6 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 Artículo Único.- Se reforman la fracción XXVIII del artículo 30; el primer párrafo del artículo 73; y el artículo 101; y se adicionan una fracción VII, recorriéndose en su orden las fracciones subsecuentes al artículo 5, y una fracción VIII, recorriéndose en su orden las fracciones subsecuentes al artículo 79 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -2267,8 +2255,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2022
 
 Artículo Único.- Se adiciona una fracción V, recorriéndose en su orden la fracción subsecuente, al artículo 13 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -2284,8 +2270,6 @@ Publicado en el Diario Oficial de la Federación el 18 de octubre de 2023
 
 Artículo Único. Se adiciona una fracción XIV al artículo 3 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2299,8 +2283,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Cuadragésimo Octavo.- Se reforma la fracción VIII del artículo 83 de la Ley General de Cultura Física y Deporte, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -2320,68 +2302,10 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-#
-
 pphpipnp:q;q?qçqèqíqÀrÁrÇrPsQsXs²s³s¹sFtGtRtEuFuRuuuuÐuÑuÔu{v|vv¥v¦v©vwwwwwwQxRxVxæxçxìxGyHyKy¾z¿zÁzs{t{w{¬{­{±{|
-
-ôh
-
-ôh
-
-±
 
 ®ÐÑPQ¶ØÙÉ
 
-ë
-
-ì
-
-à
-
-ê
-
-ë
-
-ì
-
-ð
-
-õõGöHößöàöä÷å÷ó÷YùZùgù°ù±ùàùùù
-
-ôh
-
-ôh
-
-ôh
-
-3
-
-ô$a$gd
-
-ô/$a$gd
-
-ô5CJ#hÿ+h
-
 ôCJhÿ+h
 
-ôh
-
-2
-
-3
-
-E
-
-É
-
-Ñ
-
-Þ
-
-ß
-
-è
-
 YZ[dîï÷ÕÖ×"6QúôåØÅ²Ø¤|o¤¤d¤]SJd¤¤¤hf¦hz=JCJhf¦hz=J5CJ
-
-ôCJ3

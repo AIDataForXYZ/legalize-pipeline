@@ -626,8 +626,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2004
 
 ARTÍCULO ÚNICO.- Se reforma el Artículo 2o., fracción I, de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
@@ -641,8 +639,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2004
 
 Artículo Único.- Se adiciona un segundo párrafo al artículo 37 de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -658,8 +654,6 @@ Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007
 
 ARTÍCULO TERCERO: Se reforma la fracción V del artículo 2 de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -673,8 +667,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO TERCERO. Se reforma el artículo 2o, fracción I, de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -692,8 +684,6 @@ Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007
 
 ARTÍCULO SEGUNDO.- Se reforma la fracción V del artículo 2 y se adiciona una fracción VI, ambas de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -709,8 +699,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 23 de enero de 2009
 
 ARTÍCULO SEGUNDO.- Se REFORMAN los artículos 2o., párrafo primero y fracción V; 12; 15, párrafos primero y cuarto; y se ADICIONAN los artículos 11 Bis y 45; todos de la Ley Federal Contra la Delincuencia Organizada, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -729,8 +717,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 
 ARTÍCULO CUARTO. Se reforman los artículos 2o., en sus fracciones V y VI; 3o., último párrafo; 13, párrafo primero; y se adiciona la fracción VII al artículo 2o., de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -766,8 +752,6 @@ Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011
 
 ARTÍCULO QUINTO. Se reforma el artículo 2o., fracción III de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
 
-.
-
 TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -789,8 +773,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de octubre de 2011
 
 Artículo Tercero. Se reforma la fracción I del artículo 2o. de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -819,8 +801,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
 
 Artículo Segundo. Se reforma el artículo 2o., fracción VI de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -853,8 +833,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2016
 
 ARTÍCULO CUARTO. Se reforma la fracción I y se adiciona la fracción VIII al artículo 2o. de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -916,8 +894,6 @@ Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
 
 Artículo Primero. Se reforma la fracción VIII del artículo 2o. y se adicionan las fracciones VIII Bis y VIII Ter al artículo 2o. de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
@@ -933,8 +909,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Octavo.- Se reforma el artículo 2o., fracción II, de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1044,8 +1018,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
 
 SEGUNDO. Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
@@ -1082,8 +1054,6 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 
 SENTENCIA
 
-..
-
 VIII. DECISIÓN.
 
 594.	Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
@@ -1100,8 +1070,6 @@ Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General d
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-.
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
 
 En la sesión privada ordinaria celebrada el primero de abril de dos mil veinticinco, se aprobó el texto del engrose por unanimidad de ocho votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá con precisiones, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo, Laynez Potisek, Pérez Dayán con precisiones y Presidenta Piña Hernández con precisiones. La señora Ministra Ana Margarita Ríos Farjat no asistió a la sesión por gozar de vacaciones al haber integrado la Comisión de Receso correspondiente al segundo período de sesiones de dos mil veinticuatro. La señora Ministras Batres Guadarrama estuvo ausente en la votación.
@@ -1117,8 +1085,6 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025
 
 Artículo Cuarto.- Se reforma el párrafo primero del artículo 3o., y se adiciona una fracción XI al artículo 2o. de la Ley Federal contra la Delincuencia Organizada, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1152,17 +1118,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 fff#fOgggqgrgsgg§g±g²g³gÀg!i"i#ij
 
->2h
-
 >25CJ\^JaJh
 
->2h
-
 >25CJaJh
-
->2h
-
->2
 
 >25B*CJ\^Jph#h7Ðh
 
@@ -1170,42 +1128,18 @@ fff#fOgggqgrgsgg§g±g²g³gÀg!i"i#ij
 
 >2B*CJ\^Jphh
 
->2h
-
 >2CJ^JaJh
-
->2CJ^Jh7Ðh
-
->2CJ^Jh7Ðh
 
 >25CJ^Jhlb6h
 
 >2CJh
 
-Âhê
-
-Â
-
-ÂCJ^Jhê
-
-Âhê
-
 ÂCJ^JaJhê
 
 ÂCJhê
 
-ÂCJ\^Jhê
-
-Âhê
-
 Â5CJ\^JaJhê
-
-Âhê
-
-Â5CJ^J$hq#hê
 
 ÂCJ^Jhq#hê
 
 Â5CJ\^Jhq#hê
-
-Â5CJ\^J#hq#hê

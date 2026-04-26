@@ -4986,8 +4986,6 @@ Publicado en el Diario Oficial de la Federación el 12 de enero de 2016
 
 ARTÍCULO SÉPTIMO. Se reforma el encabezado del artículo 235; y se adicionan un segundo párrafo al artículo 235; un segundo, tercer y cuarto párrafos al artículo 243 del Código Nacional de Procedimientos Penales, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5074,8 +5072,6 @@ QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, as�
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-.
-
 Firman los señores Ministros Presidente y el Ponente con el Secretario General de Acuerdos que da fe.
 
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.- Rúbrica.- El Ponente, Ministro Javier Laynez Potisek.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
@@ -5087,8 +5083,6 @@ LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CO
 Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 Artículo Segundo. Se reforman la fracción III, del artículo 230; los párrafos segundo y sexto, del artículo 231; el párrafo tercero, del artículo 246; el artículo 248 y su epígrafe; el actual párrafo segundo, del artículo 250; y se adicionan un párrafo segundo, al artículo 240; un párrafo segundo, al artículo 245; un párrafo segundo, recorriéndose en su orden los siguientes párrafos, del artículo 247; y un párrafo segundo, recorriéndose el actual segundo párrafo para ser tercero, al artículo 250, del Código Nacional de Procedimientos Penales, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5130,8 +5124,6 @@ Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
 
 Artículo Tercero. Se reforman el párrafo segundo del artículo 187; y el párrafo tercero del artículo 256; y se adicionan un párrafo séptimo con las fracciones I, II y III, recorriéndose en su orden el subsecuente, al artículo 167; y un párrafo tercero al artículo 192 del Código Nacional de Procedimientos Penales, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
@@ -5163,8 +5155,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 Artículo Primero.- Se reforman el artículo 167, párrafo tercero, los párrafos cuarto y quinto, que se fusionan para quedar como párrafo cuarto, recorriéndose en su orden los subsecuentes, la fracción XI del párrafo sexto que pasa a ser quinto, así como el párrafo octavo que pasa a ser séptimo, y se adicionan las fracciones XII, XIII, XIV, XV, XVI y XVII al párrafo sexto que pasa a ser quinto, así como los párrafos octavo y noveno, del Código Nacional de Procedimientos Penales, para quedar como sigue:
-
-.........
 
 ##### Transitorios
 
@@ -5198,8 +5188,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
 
 SEGUNDO. Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
@@ -5220,8 +5208,6 @@ Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
 
 Artículo Segundo.- Se reforman la fracción II del artículo 109; las fracciones V y XXIII del artículo 131; y el primer párrafo del artículo 132; y se adicionan una fracción XI, recorriéndose en su orden las subsecuentes al artículo 3o.; una fracción XXIII Bis al artículo 131; un inciso e) a la fracción XII, y una fracción XII Bis al artículo 132; y las fracciones VI Bis y VI Ter al artículo 134 del Código Nacional de Procedimientos Penales, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -5238,8 +5224,6 @@ Publicado en el Diario Oficial de la Federación el 3 de enero de 2024
 
 Artículo Único.- Se reforma la fracción XVI del artículo 113 y se adiciona un segundo párrafo a la fracción XII del artículo 109 del Código Nacional de Procedimientos Penales, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5254,8 +5238,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2024
 
 Artículo Único.- Se reforman el segundo párrafo del artículo 258 y las fracciones IV, VII y XI del artículo 467 y se adicionan las fracciones XII, XIII, XIV, XV, XVI, XVII y XVIII, al artículo 467 del Código Nacional de Procedimientos Penales, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5269,8 +5251,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024
 
 Artículo Primero.- Se reforman el epígrafe y la fracción XIII del artículo 132; el epígrafe y el último párrafo del artículo 137; el epígrafe del artículo 139; y se adiciona un tercer párrafo al artículo 139 del Código Nacional de Procedimientos Penales, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -5306,8 +5286,6 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 
 SENTENCIA
 
-..
-
 VIII. DECISIÓN.
 
 594.	Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
@@ -5324,8 +5302,6 @@ Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General d
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 
-.
-
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
 
 En la sesión privada ordinaria celebrada el primero de abril de dos mil veinticinco, se aprobó el texto del engrose por unanimidad de ocho votos de las señoras Ministras y los señores Ministros Gutiérrez Ortiz Mena, González Alcántara Carrancá con precisiones, Esquivel Mossa, Ortiz Ahlf, Pardo Rebolledo, Laynez Potisek, Pérez Dayán con precisiones y Presidenta Piña Hernández con precisiones. La señora Ministra Ana Margarita Ríos Farjat no asistió a la sesión por gozar de vacaciones al haber integrado la Comisión de Receso correspondiente al segundo período de sesiones de dos mil veinticuatro. La señora Ministras Batres Guadarrama estuvo ausente en la votación.
@@ -5341,8 +5317,6 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quinto.- Se reforma el quinto párrafo del artículo 138 del Código Nacional de Procedimientos Penales, para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -5367,8 +5341,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025
 
 Artículo Tercero.- Se reforman los artículos 167, párrafos tercero y cuarto, y 277, párrafo cuarto, del Código Nacional de Procedimientos Penales, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5402,76 +5374,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 ÓÓÓ.Ó/Ó1Ó2ÓLÓMÓPÓQÓjÓkÓ÷îä÷îäÚ÷Ñ÷ÇäÚ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷î÷îä÷îä÷î÷î÷î»Çä÷î÷îäÚ÷ÇäÚ÷îäÚ÷îäÚ÷îäÚ÷îäÚ÷îh¨´h`B+5CJaJh¶athVl}5CJh¶athÊCCJh¶athºC_5CJh¶ath`B+5CJh¶athVl}CJh¶ath`B+CJJCÍÿÍÎÊÎËÎøÏùÏÐÐÐDÐ³Ñ´ÑÒÒ¶Ò·ÒçÒèÒÓ
 
-F
-
-F
-
 klqrÂÃÇÈ
-
-=
-
-=
-
-£
-
-½
-
-¾
-
-ä
-
-½
-
-¾
-
-ä
-
-)
-
-^
-
-)
-
-^
-
-D
-
-×
-
-Ø
-
-D
-
-×
-
-Ø
-
-!9!#	#k#l##$${$>(?(@(*
-
->
-
->
-
-{
-
-û
-
-ü
-
-{
-
-û
-
-ü
 
 +ÈÉËÌMNQRstxyØÙâãÅÆ¢£KL6ãäÕÖ
 
-72
-
-72¤&dPÆÿgd
-
-72
-
 72CJhOýh
-
-72h

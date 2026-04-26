@@ -2090,8 +2090,6 @@ Sufragio Efectivo. No Reelección.
 
 México, D. F., a 1o. de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
 
-Al C.....
-
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 A partir de 1996
@@ -2101,8 +2099,6 @@ A partir de 1996
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO QUINTO.- Se reforma el párrafo segundo del artículo 251 de la Ley General de Sociedades Mercantiles, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -2120,8 +2116,6 @@ Publicado en el Diario Oficial de la Federación el 28 de julio de 2006
 
 Artículo Segundo. Se reforman los Artículos 89, fracción II y 251, segundo párrafo de la Ley General de Sociedades Mercantiles, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2136,8 +2130,6 @@ Publicado en el Diario Oficial de la Federación el 2 de junio de 2009
 
 Artículo Segundo. Se reforman los artículos 177 y 194, último párrafo, de la Ley General de Sociedades Mercantiles, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2151,8 +2143,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 6o, fracción IV; 62, y 89 fracciones II de la Ley General de Sociedades Mercantiles, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2187,8 +2177,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de marzo de 2016
 
 Artículo Único.- Se reforman el párrafo segundo del artículo 1o.; el párrafo primero del artículo 20; la denominación del Capítulo XIV para quedar como De la sociedad por acciones simplificada, los artículos 260, 261, 262, 263 y 264; se adicionan una fracción VII al artículo 1o.; un párrafo quinto al artículo 2o., y se recorren los subsecuentes; un segundo párrafo al artículo 5o.; los artículos 265, 266, 267, 268, 269, 270, 271, 272 y 273 de la Ley General de Sociedades Mercantiles para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -2246,8 +2234,6 @@ Publicado en el Diario Oficial de la Federación el 20 de octubre de 2023
 
 Artículo Único.- Se reforman los artículos 81, segundo párrafo; 186 y 194, primer párrafo; y se adicionan una fracción XIV al artículo 6o.; un párrafo segundo al artículo 75; los párrafos segundo y tercero al artículo 80; un párrafo tercero al artículo 82; un párrafo quinto al artículo 143; un tercer párrafo al artículo 178; los párrafos segundo, tercero y cuarto al artículo 179, de Ley General de Sociedades Mercantiles, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2303,37 +2289,3 @@ SEGUNDO. Para efectos informativos, se da a conocer que, como resultado de la ap
 ÚNICO. El presente Acuerdo entra en vigor el 1 de enero de 2026.
 
 Ciudad de México, a 17 de diciembre de 2025.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
-
-<
-
-^
-
-_
-
-«
-
-¬
-
-"
-
-;
-
-<
-
-S
-
-]
-
-^
-
-_
-
-d
-
-ª
-
-«
-
-¬
-
-,

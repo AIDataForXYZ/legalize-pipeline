@@ -1476,8 +1476,6 @@ Publicado en el Diario Oficial de la Federación el 23 de febrero de 2005
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 1o. en su fracción V y en su sexto párrafo; 2o., en sus fracciones V, XI y XII; 5o., en su segundo párrafo; 6o.; 22, en su segundo párrafo; 29, eliminando el segundo párrafo, 32, en su fracción IV y VIII; la denominación del "Capítulo II, De la Donación", pasando a ser "Capítulo II, De la Asignación y Donación"; 34; 36; 39; 43; 44, en su segundo párrafo; 45, en sus fracciones XIV y XVI; 49, en su fracción II; 51, en su segundo párrafo; 53; 55; 56; 58; 59; 61; 68, en sus fracciones IV y V; 76; 78; en sus fracciones IV, V, VIII y IX; 80, en su párrafo quinto; 81 en sus fracciones XV y XVI; 82; 87, en su fracción VI; 89; se ADICIONAN los artículos 2o. con una fracción XIII; 6 bis; 6 ter; 6 quáter; 11 con un segundo párrafo; 23 bis; 27, con un segundo párrafo; 38 bis; 38 ter; 41 bis; 68 con fracciones VI, VII y VIII y un último párrafo; 78, con fracciones X, XI y XII; 81 con una fracción XVII; 90; y se DEROGAN; los artículos 30; 37; y 45, en sus fracciones III, VI, XV, XVII y XVIII de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1506,8 +1504,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO PRIMERO. Se reforman el artículo 2o., fracción IV de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1523,8 +1519,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 Artículo Tercero. Se reforman los párrafos primero y sus fracciones V, VIII, IX y actual X, segundo, tercero, quinto, sexto, séptimo y octavo del artículo 1o; las fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI y XIII del artículo 2o; primer párrafo y fracciones I, III y IV del artículo 3o; el artículo 4o; el artículo 5o; el artículo 6o; el párrafo primero del artículo 6o. bis; el artículo 6o. ter; el artículo 6o. quáter; el artículo 7o; el artículo 8o; los párrafos segundo y tercero del artículo 9o; el artículo 10; el primer párrafo, del artículo 11; el artículo 12; los párrafos primero, segundo, tercero y quinto, del artículo 13; el artículo 14; el artículo 15; el artículo 16; el artículo 17; el artículo 18; el artículo 19; el artículo 20; el artículo 21; el artículo 22; el artículo 23; el primer y segundo párrafos, del artículo 23 bis; el artículo 24; el primer párrafo y fracción III, del artículo 25; los párrafos primero y tercero, del artículo 26; el artículo 27; el artículo 28; el artículo 29; los párrafos primero, segundo, fracción I, tercero, cuarto y quinto, del artículo 31; la fracción VIII y segundo párrafo, del artículo 32; el segundo párrafo, del artículo 33; el artículo 34; el artículo 35; el artículo 36; los párrafos primero, segundo, tercero y cuarto, del artículo 38; el artículo 38 bis; las fracciones II y III y tercer párrafo, del artículo 39; el artículo 40; el artículo 41; los párrafos segundo y tercero, del artículo 41 bis; el artículo 42; los párrafos primero, segundo, tercero y séptimo, del artículo 43; los párrafos primero y segundo, del artículo 44; las fracciones I y II, del artículo 45; el primer párrafo, fracciones II, XI y XII, del artículo 47; el artículo 48; las fracciones IV y V, del artículo 49; el artículo 51; el artículo 52; las fracciones I, II, III y IV y el segundo párrafo, del artículo 53; el artículo 56; el segundo párrafo, del artículo 58; el artículo 59; el artículo 61; el artículo 64; el artículo 66; el párrafo primero, del artículo 67; el párrafo primero, fracciones II, III, VI, VII y VIII, del artículo 68; los párrafos primero, tercero y cuarto, del artículo 69; el párrafo primero, fracciones I y II, del artículo 70; el artículo 71; el párrafo primero, fracciones II, III y IV, del artículo 72; el artículo 73; el artículo 74; el artículo 75; la denominación del Título Sexto, para quedar Del Instituto; el artículo 76; el artículo 77; el párrafo primero, fracciones I, II, IV, V, VI, X y XI, del artículo 78; el párrafo primero, fracción II, del artículo 79; las fracciones I, II, III y IV, párrafos segundo, cuarto y quinto, del artículo 80; las fracciones I, II, VII, VIII, IX, X, XIII, XV, XVI y XVII, del artículo 81; el artículo 82; el artículo 83; el artículo 84; el artículo 85; el párrafo primero, fracción III, del artículo 86; el párrafo primero, fracciones I, III, IV, VIII, IX, XI y XII, del artículo 87; el artículo 88; los párrafos primero, segundo y cuarto, del artículo 89; los párrafos primero y actuales tercero y cuarto, del artículo 90; y se adicionan las fracciones X, XI y XII, pasando la actual fracción X a ser XIII, del párrafo primero y un sexto párrafo, recorriéndose en su orden los actuales párrafos sexto, séptimo y octavo, al artículo 1o; un párrafo segundo, recorriéndose en su orden los demás párrafos, al artículo 5o; un tercer párrafo, al artículo 23 bis; el párrafo segundo, del artículo 25; las fracciones XIII y XIV, del artículo 47; un párrafo segundo a la fracción II, del artículo 78; la fracción XVII, recorriéndose la actual, del artículo 81; un párrafo quinto, al artículo 89; un tercer y quinto párrafos, pasando los actuales párrafos tercero y cuarto a ser cuarto y sexto, del artículo 90; el artículo 91; el artículo 92 y el artículo 93, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1568,8 +1562,6 @@ Artículo Segundo. Se reforman los párrafos primero y su fracción XI, segundo,
 
 Artículo Tercero. Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el 9 de agosto de 2019, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1586,8 +1578,6 @@ Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2021
 
 Artículo Segundo.- Se reforma la fracción II del artículo 31 y se adiciona una fracción V al artículo 38, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1601,8 +1591,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Vigésimo Tercero. Se reforman el tercer y quinto párrafos del artículo 80 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1668,33 +1656,11 @@ Ciudad de México, a 25 de abril de 2024.- Dip. Karla Yuritzi Almazán Burgos, V
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-@
-
-E
-
-F
-
-ÛÛÛåßÖå¿å®¢Öå¿åÖsÖ®b¿®ZZÖå¿åS
-
 hsM5CJhsMCJ\^J¡õö÷øøÌùîùïùúúüü
-
-hÆCJ\
 
 hsMCJ\hsM5CJ\
 
-hþ
-
-­5CJ-hþ
-
 ­CJh=}ahþ
-
-­hþ
-
-­5CJ
-
-hþ
-
-­5CJ-hþ
 
 ­CJh=}ahþ
 

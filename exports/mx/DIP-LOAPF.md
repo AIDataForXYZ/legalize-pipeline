@@ -3074,8 +3074,6 @@ Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1994
 
 ARTICULO UNICO.- Se reforman los artículos 1o., segundo párrafo; 26; 31 fracciones XXI y XXIV; 32 fracciones I, III, IV, VIII, X y XIV a XVII; 32 Bis; 33; 34 fracciones IX, XIV, XV y XXVII; 35; 38 fracciones XXI y XXV; se recorren en su orden las actuales fracciones XXVII a XXXII del artículo 27 para ser XXIX a XXXIV; la XXIII para ser XXIV del artículo 39 y se adicionan las fracciones XXVII, XXVIII y XXVIII Bis al propio artículo 27; las fracciones XXVIII a XXX al artículo 34; un artículo 37; 39, fracción XXIII; y se derogan, el artículo 4o.; la fracción XXII del Artículo 31; las fracciones XVIII a XXXIII del artículo 32; las fracciones XXII a XXXVIII del artículo 35; y el artículo 43 de la Ley Orgánica de la Administración Pública Federal; para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3104,8 +3102,6 @@ Publicado en el Diario Oficial de la Federación el 19 de diciembre de 1995
 
 ARTICULO UNICO.- Se adicionan y reforman los artículos 28 y 34 de la Ley Orgánica de la Administración Pública Federal para quedar como siguen:
 
-.........
-
 ##### TRANSITORIOS
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
@@ -3120,11 +3116,7 @@ Publicado en el Diario Oficial de la Federación el 15 de mayo de 1996
 
 ARTÍCULO PRIMERO.- Se reforman los artículos 1o. segundo párrafo, 2o., 14 segundo párrafo; y se adicionan los artículos 4o., 26 con un último renglón, 43 y 43 bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.........
-
 ARTÍCULO SEGUNDO.- Se reforma la denominación del Capítulo II, Título Segundo de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -3152,15 +3144,11 @@ Debe decir:
 
 la Administración Pública Centralizada.
 
-. . .
-
 #### DECRETO por el que se reforma la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO PRIMERO.- Se reforma la fracción XII del artículo 37 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3187,8 +3175,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
 
 ARTÍCULO CUARTO.- Se reforma el artículo 26 y se derogan los artículos 5o. y 44 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -3224,8 +3210,6 @@ Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
 
 ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 27 Y LA FRACCIÓN XII DEL ARTÍCULO 31; SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 27, Y SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 36, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, PARA QUEDAR COMO SIGUE:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
@@ -3258,8 +3242,6 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999
 
 ARTICULO SEPTIMO.- Se reforma el segundo párrafo de la fracción XV del artículo 27 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3275,8 +3257,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2000
 
 ARTÍCULO PRIMERO.- Se reforman los artículos 8o., 26, 27; la fracción XVI del artículo 29; las fracciones X, XIII y XVI del artículo 32; el encabezado y las fracciones II, XIII, XX, XXV, XXIX del artículo 32 bis; el encabezado y las fracciones IX, XI y XV del artículo 34; el encabezado y las fracciones XII, XIX, XX y XXI del artículo 35; la fracción I, en su inciso d), del artículo 38; la fracción III del artículo 40; la fracción X del artículo 41, y las fracciones II y IX del artículo 42; se adiciona el artículo 30 bis; una fracción X bis al artículo 34; una fracción XXII al artículo 35; una fracción XXIV bis al artículo 37, y una fracción XXX bis al artículo 38; y se deroga la fracción VIII del artículo 32, y las fracciones XXXII, XXXIII, XXXIV, XXXVI, XXXVII y XXXVIII del artículo 32 bis, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3310,8 +3290,6 @@ Publicado en el Diario Oficial de la Federación el 13 de marzo de 2002
 
 ARTICULO SEGUNDO.- Se reforma el artículo 37 de la Ley Orgánica de la Administración Pública Federal, adicionándole una fracción XXV, y se recorre la actual fracción XXV para pasar a ser XXVI, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3330,8 +3308,6 @@ Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003
 
 ARTICULO PRIMERO. Se expide la Ley General de Desarrollo Forestal Sustentable:
 
-..........
-
 ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
 PRIMERO.- ...........
@@ -3341,8 +3317,6 @@ SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicaci�
 TERCERO A DECIMO PRIMERO.- ...........
 
 ARTICULO TERCERO. Se reforman las fracciones XIII, XIV, XVIII y XX del artículo 32 bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
@@ -3358,8 +3332,6 @@ Publicado en el Diario Oficial de la Federación el 10 de abril de 2003
 
 ARTÍCULO SEGUNDO.- Se reforma la Ley Orgánica de la Administración Pública Federal en sus artículos 26 y 31 fracciones XIX y XXIV; se adiciona el artículo 37 con una fracción VI bis, XVIII bis y XXVII; y se modifican sus fracciones XVIII y XXVI para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero.- La Secretaría de Hacienda y Crédito Público realizará lo necesario a efecto de asegurar la transferencia de los recursos presupuestarios destinados al pago de los sueldos, prestaciones y demás percepciones que deban cubrirse a favor de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de la Función Pública.
@@ -3367,8 +3339,6 @@ Artículo Primero.- La Secretaría de Hacienda y Crédito Público realizará lo
 Artículo Segundo.- Aquellas disposiciones que hagan mención a la Secretaría de la Contraloría y Desarrollo Administrativo se entenderán referidas a la Secretaría de la Función Pública.
 
 Artículo Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-..........
 
 México, D.F., a 3 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. María de las Nieves García Fernández, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
 
@@ -3379,8 +3349,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de mayo de 2003
 
 Artículo segundo.- Se reforma la fracción VI y se deroga la fracción VII del artículo 32 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -3396,8 +3364,6 @@ Publicado en el Diario Oficial de la Federación el 10 de junio de 2005
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XXX, recorriéndose el orden de la subsecuente al Artículo 34, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3411,8 +3377,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2005
 
 ARTÍCULO ÚNICO.- Se reforman la fracción X del artículo 31 y las fracciones IV y IX del artículo 35 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -3428,8 +3392,6 @@ Publicado en el Diario Oficial de la Federación el 24 de abril de 2006
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción XXVI, recorriéndose la subsecuente, al artículo 30 bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3443,8 +3405,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de mayo de 2006
 
 ARTÍCULO ÚNICO.- Se reforman las fracciones IV, V, VII, XI, XIV, XV Y XVII, y se adicionan las fracciones VII bis y XIX a XXV, pasando la actual XIX a ser XXVI, del artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3462,13 +3422,9 @@ Publicado en el Diario Oficial de la Federación el 2 de junio de 2006
 
 Artículo Primero. Se reforma la fracción XXVII del artículo 27 de la Ley Orgánica de la Administración Publica Federal, para quedar como sigue:
 
-..........
-
 ##### Transitorio
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-..........
 
 México, D.F., a 25 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
@@ -3481,8 +3437,6 @@ Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
 ARTÍCULO TERCERO.- Se REFORMAN los artículos 31, fracciones XV, XVI, XVII y XIX, y 37, fracción I, y se ADICIONA el artículo 17 Bis, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3499,8 +3453,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
 
 ARTÍCULO ÚNICO.- Se reforma y adiciona el artículo 33 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -3520,8 +3472,6 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2009
 
 ARTÍCULO SEGUNDO.- Se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
@@ -3535,8 +3485,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO TERCERO.- Se reforma la fracción V del artículo 28 y se adicionan las fracciones XII bis y XXIV bis al artículo 34 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3554,8 +3502,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEXAGÉSIMO TERCERO. Se reforman los artículos 1o., segundo párrafo; 2o., fracción I; 6o.; 7o.; 10; 11; 12; 13, primer párrafo; 16, primer y segundo párrafos; 17; 18; 19; 20; 21, primer párrafo; 23; 24; 25; 27, fracción VIII; 31, fracciones II, III y V; 37, fracción XII; 38, fracción XXX bis; y 48 y la nomenclatura de los Capítulos I y II del Título Segundo para ser CAPITULO I. De las Secretarías de Estado y CAPITULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal; se deroga el artículo 2o., fracción II y 15, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3572,8 +3518,6 @@ Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
 
 Artículo Tercero. Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual a ser fracción XXVIII, al artículo 30 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3589,8 +3533,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de diciembre 2012
 
 ARTÍCULO TERCERO. Se reforma la fracción XXV del artículo 30 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3619,8 +3561,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de enero de 2013
 
 Artículo Único.- Se reforman los artículos 1o., segundo párrafo; 7o.; 8o.; 10; 13, primer párrafo; 16, primer párrafo; 25; 26; 27; 31, fracciones XII, XIX, XXI, XXIV y XXV; 32, fracciones I, II, IV, V, IX, X, XI, XII, XIII, XIV y XV; 41 y 50; Se adicionan los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; 32, con las fracciones VII y VIII y el 44 y Se derogan los artículos 30 Bis; 32, fracciones XIV, XV y XVII; y 37 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -3670,8 +3610,6 @@ Publicado en el Diario Oficial de la Federación el 2 de abril de 2013
 
 ARTÍCULO CUARTO. Se adiciona una fracción XI, recorriéndose en su orden la subsecuente al artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3685,8 +3623,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2013
 
 Artículo Único. Se adiciona una fracción XLI, recorriendo la actual en su orden, al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -3738,8 +3674,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 Artículo Sexto. Se adiciona el artículo 34, con una fracción XXXI, pasando la actual XXXI a ser la XXXII de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3757,8 +3691,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
 
 ARTÍCULO OCTAVO.- Se reforman las fracciones II y XV del artículo 36; se adiciona una fracción I Bis al artículo 36; y se deroga la fracción III del artículo 36 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -4060,8 +3992,6 @@ México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Jus
 
 SENTENCIA
 
-I a VIII.
-
 IX. EFECTOS DE LA SENTENCIA
 
 118.	Atendiendo a lo dispuesto por el artículo 73, en relación con el 45, ambos de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, que señalan:
@@ -4139,8 +4069,6 @@ SECRETARIO: MIGUEL ANTONIO NÚÑEZ VALADEZ
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al día veintitrés de octubre de dos mil catorce, por el que se emite la siguiente:
 
 SENTENCIA
-
-I A VIII.
 
 IX. EFECTOS DE LA SENTENCIA
 
@@ -4228,8 +4156,6 @@ Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 26; 38, fracciones II, IX, XXVIII, XXIX y XXX Bis; se ADICIONA el artículo 41 Bis, y se DEROGAN las fracciones X, XII, XIV, XVII, XVIII, XIX, XX, XXI y XXII del artículo 38 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4267,8 +4193,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
 
 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4380,8 +4304,6 @@ Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 Artículo Primero.- Se reforman los artículos 30, fracciones V y XX, y 36, fracciones I, XVII y XVIII; y se adicionan las fracciones VII Ter y VII Quáter al artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Artículo Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
@@ -4429,8 +4351,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de marzo 2018
 
 Artículo Primero.- Se reforma la fracción XL del artículo 27 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4481,8 +4401,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2018
 
 Artículo Único.- Se reforman los párrafos primero y segundo y se adicionan los párrafos tercero, cuarto y sexto, pasando el actual segundo a ser quinto, del artículo 21 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4562,8 +4480,6 @@ Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
 
 Artículo Único. Se reforma la fracción X del artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4578,8 +4494,6 @@ Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019
 
 Artículo Primero.- Se reforma la fracción XX del artículo 41 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4593,8 +4507,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 Artículo Quinto. Se adicionan las fracciones XXII, XXIII y XXIV, pasando la actual XII a ser XXV, al artículo 32 y un Capítulo III al Título Segundo, denominado Del Gabinete Social de la Presidencia de la República, con los artículos 44 Bis, 44 Ter y 44 Quáter, a la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4635,8 +4547,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 22 de enero de 2020
 
 Artículo Primero. Se reforma la fracción VII del artículo 44 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 Artículo Tercero. Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el 9 de agosto de 2019, para quedar como sigue:
 
@@ -4720,8 +4630,6 @@ Publicado en el Diario Oficial de la Federación el 5 de abril de 2022
 
 Artículo Primero.- Se deroga la fracción III del artículo 8o. de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -4741,8 +4649,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022
 
 Artículo Primero.- Se reforman los artículos 29, fracciones IV y XVI; 30 Bis, fracciones I, párrafo primero, II y III, y se adicionan al artículo 30 Bis, fracción I, el párrafo segundo, y las fracciones XXV y XXVI, recorriéndose la actual en su orden, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4806,8 +4712,6 @@ ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
 
 SEGUNDO. Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
@@ -4831,8 +4735,6 @@ LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Primero.- Se adicionan las fracciones VIII Bis, VIII Ter, VIII Quáter y VIII Quinquies al artículo 29 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4859,8 +4761,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Único.- Se reforman los artículos 14; 20; 31, fracciones XXVI y XXVII; 37, fracciones III, IV, VIII, XII, XVIII, XXI y XXIV, y 44, párrafos primero, segundo, tercero, quinto y sexto; se adicionan los artículos 14 Bis; 17 Quáter; 37, con las fracciones XI Bis, XII Bis, XXI Bis y XXI Ter; 43 Ter, con un párrafo tercero y 44, segundo párrafo, recorriéndose los subsecuentes en su orden, y se deroga el artículo 31, fracciones XXII, XXV y XXVIII, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -4942,8 +4842,6 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 
 SENTENCIA
 
-..
-
 VIII. EFECTOS
 
 369.	De conformidad con los artículos 73 y 41 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, y para añadir claridad en la fijación de los efectos, se retoman a continuación las declaratorias de invalidez alcanzadas:
@@ -4992,8 +4890,6 @@ Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2023
 
 Artículo Primero. Se reforma la fracción IX y se adiciona una fracción XXVI, recorriendo en su orden la actual fracción XXVI, para quedar como XXVII, al artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -5012,8 +4908,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Trigésimo.- Se reforman los artículos 32, fracción I, inciso c) y fracción XIII; 34, fracción XXVII; y 41 Bis, fracción IX, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5027,8 +4921,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2024
 
 Artículo Único.- Se reforman los artículos 8o., párrafos primero y segundo; 14 Bis, fracciones I, III y IV, y párrafo segundo; 19; 20, párrafos segundo, tercero, cuarto, quinto y sexto; 25; 26; 27, párrafo primero, y fracciones VI, XXI y XXIII; 28, párrafo primero, y fracciones II, II A, II B y III; 30 Bis, párrafo primero, y fracciones I, II, III, V, VI, X, XI, XII, XVI, XVII, XVIII, XXI, XXIII y XXVI, párrafo primero; 31, párrafo primero, y fracción XV; 32 Bis, párrafo primero, y fracciones III, IV, V, VI, VII, IX, XI, XII, XIII, XIV, XV, XVII, XIX, XX, XXII, XXV, XXXI, XXXIV, XXXVI, XXXVIII, XXXIX y XL; 33, párrafo primero, y fracción V, segundo párrafo; 34, párrafo primero, y fracciones XXIV Bis y XXV; 35, párrafo primero, y fracciones I, II, III, IV, V, VII, VIII, IX, XII, XIII, XIV, XV, XVII, XVIII, XX y, XXI, párrafo primero, e incisos a), b), e) y g); 36, párrafo primero, y fracciones VIII y XXVI; 37; 38, párrafo primero, y fracciones XIII, XXV y XXXIII; 39, párrafo primero, y fracciones I, II, III, actuales V y VI, VII, VIII, XIII, XVI, XVIII, XIX, XX, XXI, XXII, XXIII y XXV; 41, párrafo primero, y fracciones II, VIII, XVI, XX y XXV; 41 Bis, párrafo primero, y fracciones IV, párrafo primero, y XV; 42, párrafo primero, y fracción XII; 44, párrafos primero, tercero, cuarto, sexto y séptimo; 44 Bis, párrafos segundo y tercero; 48 y 50; se adicionan las fracciones VII Quinquies y VIII Bis al artículo 27; un segundo párrafo a la fracción IX del artículo 30 Bis; las fracciones XXXII y XXXIII, recorriéndose la subsecuente en su orden, al artículo 31; las fracciones II Bis, V Bis, XLII, XLIII y XLIV, recorriéndose la subsecuente en su orden, al artículo 32 Bis; las fracciones II Bis, XXIV y XXV, recorriéndose la subsecuente en su orden, al artículo 35; las fracciones I Ter, I Quáter, I Quinquies, XXVII, XXVIII, XXIX, XXX y XXXI, recorriéndose la subsecuente en su orden, al artículo 36; la fracción XXXIV, recorriéndose la subsecuente en su orden, al artículo 38; el artículo 38 Bis; las fracciones VI y XXVII, recorriéndose la subsecuente en su orden, al artículo 39; los artículos 42 Bis y 42 Ter, y la fracción XII al artículo 44 Bis; y se derogan la fracción I del párrafo tercero del artículo 8o.; las fracciones X, XI, XVI y XXI, incisos d) y f) del artículo 35; las fracciones I Bis y II del artículo 36, y la fracción XV del artículo 39, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -5096,8 +4988,6 @@ Publicado en el Diario Oficial de la Federación el 18 de marzo de 2025
 
 ARTÍCULO DÉCIMO.- Se reforman el segundo párrafo del artículo 1o.; artículo 2o.; el artículo 17 Quáter; último párrafo del artículo 20; las fracciones III, IV, V, párrafos primero y segundo, VI, VIII, IX, XI, XIV, XVIII, XX, XXI, párrafos primero y segundo, XXII, XXV, XXVII, XXVIII y XXIX del artículo 33; las fracciones XXXIX y XL del artículo 37; y, los párrafos primero y segundo del artículo 44; se adicionan la fracción IV, del artículo 3o.; y, se adicionan las fracciones XXXI, XXXII, XXXIII, XXXIV, XXXV y XXXVI; y, se recorre la actual XXXI, para quedar como XXXVII y, se adiciona un último párrafo, al artículo 33; y, se deroga el artículo 43 Ter, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5137,8 +5027,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 2025
 
 Artículo Cuarto.- Se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -5228,8 +5116,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Segundo.- Se reforma el artículo 29, fracciones I, IV, V, VII, IX, XIII, XIV, XV, XVI, XIX y XX y se adicionan al artículo 29, las fracciones XXI, XXII, XXIII y XXIV, pasando la actual XXI a ser la fracción XXV, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -5258,8 +5144,6 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 Artículo Segundo.- Se reforma el artículo 36, fracciones VII, XXIV y XXVII, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -5280,42 +5164,4 @@ Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-k
-
-x
-
-!¢!¿!ò!ó!3#a#b#ð#$$Ó$õ$ö$L&y&z&.'P'îîæÝÓÇ½½±½½±ÝÓ©ÝÝ¡$a$gdÙM
-
-N§h
-
-N§$ð0ý^ð`0ýa$gd
-
 N§6B*CJPJ]aJphÿ'hì=Ìhì=Ì6B*CJPJ]aJphÿ"h
-
-N§h
-
-ü
-
-ý
-
-ü
-
-ý
-
-ê
-
-ê
-
-ë
-
-ë
-
-ð
-
-#_`ºÝÞËîïê
-
-ü
-
-$a$gdß
-
-ÞÞÓÞÔÞ

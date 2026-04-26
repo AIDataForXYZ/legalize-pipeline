@@ -2490,11 +2490,7 @@ Publicado en el Diario Oficial de la Federación el 4 de enero de 2013
 
 ARTÍCULO PRIMERO.- Se reforma el quinto párrafo del Artículo 10 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO.- Se reforman los Artículos PRIMERO primer párrafo; y TERCERO primer párrafo; fracciones I primer párrafo; II primer párrafo; III, primer y tercer párrafos y IV segundo y quinto párrafos, de los artículos TRANSITORIOS DEL ARTÍCULO PRIMERO del "Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito", publicado en el Diario Oficial de la Federación el 13 de agosto de 2009, para quedar como sigue:
-
-..
 
 ##### TRANSITORIO
 
@@ -2536,11 +2532,7 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2014
 
 ARTÍCULO SEGUNDO. Se reforman el primer párrafo del artículo 8; el artículo 15; el segundo párrafo del artículo 42; el primer párrafo del artículo 114; y se adicionan un artículo 4 Bis; un quinto párrafo al artículo 8; una fracción X al artículo 9, pasando la actual X a ser XI; un tercer párrafo al artículo 11; un segundo y tercer párrafos al artículo 13; el artículo 15 Bis; las fracciones XII y XIII al artículo 52, pasando la actual XII a ser XIV; la fracción IV al artículo 83; un segundo párrafo al artículo 113; los párrafos segundo a quinto, pasando el actual segundo a ser el sexto del artículo 114, de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, para quedar como sigue:
 
-..........
-
 ARTÍCULO TERCERO. Se reforman el primer párrafo del artículo TERCERO y el tercer párrafo del artículo CUARTO de los artículos TRANSITORIOS DEL ARTICULO PRIMERO, del Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito, publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIOS
 
@@ -2694,8 +2686,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Quincuagésimo Cuarto.- Se reforma el sexto párrafo del artículo 97 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2714,66 +2704,4 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-Á
-
-Á
-
-Ã
-
-Ä
-
 ½@AA;BHBIB[B\BfBgBE(E)EÄGÅGaIbIHLiLjL¢MðMòMNNñäñÔÂÔÂÔ´ñwaT>+h'Ôhq
-
-E
-
-H
-
-I
-
-æ
-
-ç
-
-ë
-
-ì
-
-E
-
-æ
-
-ç
-
-O
-
-O
-
-­
-
-¬
-
-­
-
-q
-
-r
-
-q
-
-r
-
-s
-
-Ü
-
-Ý
-
-â
-
-ã
-
-ð
-
-ñ
-
-ÍÏÐ

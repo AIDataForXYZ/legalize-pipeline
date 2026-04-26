@@ -592,8 +592,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Vigésimo Tercero.- Se reforma el tercer párrafo del artículo 11; y la fracción IV del artículo 30, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -670,8 +668,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Séptimo. Se reforman los artículos 27, primer párrafo, y 34 de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -686,12 +682,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 ghuGMCJaJh=5CJaJmHnHu* jh
 
-gh
-
 gCJUaJ*h=5CJaJmHnHuh
 
-gh
-
 gCJaJjh
-
-gh

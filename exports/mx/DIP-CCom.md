@@ -11960,8 +11960,6 @@ Publicado en el Diario Oficial de la Federación el 31 de agosto de 1934
 
 ARTICULO UNICO.- Se adiciona la fracción VIII del artículo 75 del Código de Comercio, en los siguientes términos:
 
-..
-
 LEY sobre el Contrato de Seguro.
 
 Publicada en el Diario Oficial de la Federación el 31 de agosto de 1935
@@ -12010,8 +12008,6 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 1946
 
 ARTICULO UNICO.- Se reforman los siguientes artículos del Código de Comercio (812, 823, 830 y 831), que quedarán en esta forma:
 
-..
-
 #### DECRETO que reforma los artículos 9º y 54 y deroga los artículos 8º, 10 y 11 del Código de Comercio.
 
 Publicado en el Diario Oficial de la Federación el 6 de enero de 1954
@@ -12020,11 +12016,7 @@ ARTICULO PRIMERO.- Se derogan los artículos 8°, 10 y 11.
 
 ARTICULO SEGUNDO.- Se reforma el artículo 9° para quedar en los términos siguientes:
 
-..
-
 ARTICULO TERCERO.- Se reforma la fracción I del artículo 54, para quedar redactada en los términos siguientes:
-
-..
 
 ##### TRANSITORIO
 
@@ -12035,8 +12027,6 @@ ARTICULO UNICO.- El presente decreto entrará en vigor 10 días después de la f
 Publicado en el Diario Oficial de la Federación el 4 de febrero de 1963
 
 ARTICULO UNICO.- Se reforma el Artículo 64 del Código de Comercio en vigor para quedar en la forma siguiente:
-
-..
 
 TRANSITORIOS:
 
@@ -12104,8 +12094,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974
 
 ARTICULO VIGESIMO NOVENO.- Se reforman los artículos 52; 56; 600 fracción I; 1070; 1072 y 1073; del Código de Comercio, en los siguientes términos:
 
-.
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
@@ -12116,8 +12104,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974
 
 ARTICULO SEPTIMO.- Se reforma el artículo 21, fracciones IX y X y el artículo 28 del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
@@ -12127,8 +12113,6 @@ UNICO.- El presente Decreto entrará en vigor sesenta días después de su publi
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975
 
 ARTICULO CUARTO.- Se reforma el artículo 1340 del Código de Comercio, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -12161,8 +12145,6 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de 
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983
 
 Artículo 5.- Se deroga el artículo 1134 del Código de Comercio, y se reforma el artículo 1148 del citado ordenamiento legal, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -12214,8 +12196,6 @@ Publicado en el Diario Oficial de la Federación el 2 de julio de 1992
 
 ARTICULO UNICO.- Se adiciona la Fracción V del Artículo 21 del Código de Comercio actualmente en vigor, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12241,8 +12221,6 @@ QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo ap
 Publicado en el Diario Oficial de la Federación el 22 de julio de 1993
 
 ARTICULO PRIMERO.- Se reforman el artículo 1347-A primer párrafo, fracción I y último párrafo; la denominación del Título Cuarto del Libro Quinto; y los artículos 1415 al 1437; y se adicionan los artículos 1438 al 1463 al propio Título Cuarto del Libro Quinto del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -12292,8 +12270,6 @@ Publicado en el Diario Oficial de la Federación el 24 de mayo de 1996
 
 ARTÍCULO TERCERO.- SE REFORMAN los siguientes artículos 1o.; 2o.; 1054; 1055; 1056; 1057; 1058; 1059; 1060; 1061; 1062; 1063; 1072; 1075; 1076; 1077; 1079, fracciones I a VI; 1080; 1082; 1090; 1094, fracciones II y III; 1096; 1097; 1098; 1099; 1100; 1101; 1102; 1103; 1111; 1114; 1115; 1116; 1117; 1118; 1119; 1120; 1121; 1122; 1123; 1124; 1125; 1126; 1127; 1128; 1129; 1130; 1131; 1132, primer párrafo; 1133; 1134; 1135; 1139; 1140; 1144; 1146; 1147; 1148; 1149; 1150; 1151, fracciones I y V; 1152; 1153; 1154; 1155; 1156; 1157; 1158; 1159; 1160; 1161; 1162; 1163; 1164; 1165; 1166; 1167; 1174; 1183; 1184; 1185; 1186; 1189; 1190; 1193; 1198; 1201; 1202; 1203; 1205; 1207; 1214; 1215; 1216; 1217; 1219; 1220; 1232, fracción I; 1234; 1236; 1241; 1242; 1243; 1247; 1250; 1252; 1253; 1254; 1255; 1256; 1257; 1258; 1261; 1262; 1263; 1264; 1265; 1268; 1269; 1271; 1303, fracción I; 1307; 1310; 1312; 1314; 1318; 1319; 1334; 1335; 1336; 1337, fracción II; 1339, fracción II; 1343; 1344; 1345; 1348; 1349; 1350; 1351; 1352; 1353; 1354; 1355; 1356; 1357; 1360; 1361; 1372; 1377; 1378; 1380, primer párrafo; 1383; 1384; 1385; 1386; 1387; 1388; 1391, fracciones IV, V y VI; 1392; 1393; 1394; 1399; 1400; 1401; 1403, último párrafo; 1404; 1405; 1406 y 1414, así como la denominación de los Capítulos XXIV y XXVI del Título Primero del Libro Quinto; SE ADICIONAN una cuarta y quinta fracciones al artículo 1061; un segundo, tercero y cuarto párrafos al artículo 1067; un segundo párrafo con seis fracciones al artículo 1068; un tercero, cuarto, quinto, sexto y séptimo párrafos al artículo 1069; un segundo párrafo al artículo 1070; un segundo párrafo con cuatro fracciones y un tercer y cuarto párrafos al artículo 1071; una quinta fracción al artículo 1084; una fracción sexta al artículo 1094; una quinta, sexta, séptima y octava fracciones al artículo 1151; un segundo párrafo al artículo 1209; un segundo párrafo al artículo 1249; un segundo, tercero y cuarto párrafos al artículo 1259; un segundo, tercero, cuarto, quinto y sexto párrafos al artículo 1272; una fracción tercera al artículo 1337; una fracción octava al artículo 1391; un primero y segundo párrafos al artículo 1394, así como el nombre al Capítulo VIII del Título Primero del Libro Quinto, y SE DEROGAN las fracciones séptima y octava del artículo 1079, y el artículo 1309, del Código de Comercio, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
@@ -12314,8 +12290,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2000
 
 ARTICULO SEGUNDO.- Se ADICIONAN las siguientes disposiciones al Código de Comercio: una fracción XXIV al artículo 75, con lo cual la actual fracción XXIV se recorrerá para ser XXV; Título Tercero bis, Capítulo I; artículos 1414 bis, 1414 bis 1, 1414 bis 2, 1414 bis 3, 1414 bis 4, 1414 bis 5, 1414 bis 6, y Capítulo II, artículos 1414 bis 7, 1414 bis 8, 1414 bis 9, 1414 bis 10, 1414 bis 11, 1414 bis 12, 1414 bis 13, 1414 bis 14, 1414 bis 15, 1414 bis 16, 1414 bis 17, 1414 bis 18, 1414 bis 19 y 1414 bis 20, del Libro Quinto; se REFORMA la fracción XXV del artículo 75 y los artículos 1091, 1093, 1097, 1104 y 1105; y se DEROGAN los artículos 1097 bis, 1098 y 1109, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente.
@@ -12333,8 +12307,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000
 
 ARTICULO TERCERO.- Se reforman los artículos 18, 20, 21 párrafo primero, 22, 23, 24, 25, 26, 27, 30, 31, 32, 49, 80 y 1205, y se adicionan los artículos 20 bis, 21 bis, 21 bis 1, 30 bis, 30 bis 1 y 32 bis 1298-A; el Título II que se denominará "Del Comercio Electrónico", que comprenderá los artículos 89 a 94, y se modifica la denominación del Libro Segundo del Código de Comercio, disposiciones todas del referido Código de Comercio, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -12370,8 +12342,6 @@ Publicado en el Diario Oficial de la Federación el 5 de junio de 2000
 
 ARTICULO PRIMERO.- Se reforma la denominación del Título Sexto del Libro Segundo del Código de Comercio, se adiciona un Capítulo IV al Título Sexto del Libro Segundo del Código de Comercio y se adicionan las disposiciones que se indican a los artículos 392, 393 y 394 del Código de Comercio para quedar como sigue:
 
-..........
-
 ARTICULO TRANSITORIO
 
 ARTICULO UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12386,8 +12356,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTICULO UNICO: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona diversas Disposiciones del Código Civil para el Distrito Federal en materia Común y para toda la República en materia Federal, el Código Federal de Procedimientos Civiles, del Código de Comercio y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12401,8 +12369,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 1054, 1063, 1070 primer párrafo, 1373, 1391 fracción II, 1393, 1401 tercer párrafo, 1414, 1414 Bis 7 primer párrafo, 1414 Bis 8 primer párrafo, 1414 Bis 17 fracciones I, II, 1414 Bis 18 y 1414 Bis 19; y se adicionan el artículo 1055 Bis, el segundo, tercero, cuarto y quinto párrafos del 1070, 1070 Bis, 1376 Bis, los tres últimos párrafos del 1395, 1412 Bis y 1412 Bis 1, y la fracción III del 1414 Bis 17, todos del Código de Comercio, para quedar como sigue:
-
-..........
 
 ARTÍCULO TRANSITORIO
 
@@ -12419,8 +12385,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 29 de agosto de 2003
 
 ARTÍCULO ÚNICO: Se reforman los artículos 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113 y 114. Se adicionan los artículos 89 bis, 90 bis, 91 bis, 93 bis. Se adicionan los Capítulos Primero, Segundo, Tercero y Cuarto al Título Segundo, denominado del Comercio Electrónico, correspondiente al Libro Segundo, todos del Código de Comercio, para quedar de la siguiente manera:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -12442,8 +12406,6 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2005
 
 ARTICULO UNICO.- Se adiciona el artículo 6 bis al Código de Comercio para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12457,8 +12419,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 
 Artículo Único. Se adiciona el segundo párrafo de la fracción III del artículo 12 del Código de Comercio, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -12474,8 +12434,6 @@ Publicado en el Diario Oficial de la Federación el 26 de abril de 2006
 
 Artículo Único. Se reforma el Artículo 1056 del Código de Comercio, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12490,8 +12448,6 @@ Publicado en el Diario Oficial de la Federación el 26 de abril de 2006
 
 Artículo Único.- Se reforman las fracciones V y VI del artículo 1068 del Código de Comercio, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12505,8 +12461,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 
 Artículo Segundo. Se reforma el artículo 75 fracción X del Código de Comercio, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -12528,8 +12482,6 @@ Publicado en el Diario Oficial de la Federación el 17 de abril de 2008
 
 ARTÍCULO ÚNICO.- Se reforman los Artículos 1054, 1057, 1058, 1063, 1069, 1079, 1154, 1165 último párrafo, 1191, 1193, 1203, 1223, 1224, 1232, fracción I, 1235, 1247, 1250, 1253, fracciones III, IV, VI y VII, 1254, 1255, 1263, 1336, 1337 fracción III, 1338, 1339, 1340, 1342, 1344, 1345, 1348, 1378, 1396, 1414, y se adicionan los artículos 1250 bis, 1250 bis 1, 1337 fracción IV, 1345 bis, 1345 bis 1, 1345 bis 2, 1345 bis 3, 1345 bis 4, 1345 bis 5, 1345 bis 6, 1345 bis 7, 1345 bis 8 y 1407 bis, todo del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la misma.
@@ -12543,8 +12495,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008
 
 PRIMERO.- Se reforma la fracción III de artículo 1347-A del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -12562,8 +12512,6 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008
 
 Artículo Único.- Se reforman los artículos 1054; 1154; 1165, último párrafo; 1253, fracción VI, segundo párrafo y la fracción VII; 1339; 1340; 1344; 1345 bis 1, párrafo segundo; 1345 bis 4, párrafo segundo; 1345 bis 7, párrafo primero; 1399; 1407 bis, primer párrafo; se adicionan las fracciones V, VI, VII, VIII, IX y X al artículo 1345 y se derogan, el segundo párrafo, del artículo 1345 bis 7 y las fracciones I, II, III, IV y V del artículo 1407 bis del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12580,8 +12528,6 @@ Publicado en el Diario Oficial de la Federación el 2 de junio de 2009
 
 Artículo Primero. Se reforman los artículos 19, 21, fracciones V, VII y XII, del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12595,8 +12541,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de junio de 2009
 
 Artículo Único. Se reforma el segundo párrafo del Artículo 1069 del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -12612,8 +12556,6 @@ Publicado en el Diario Oficial de la Federación el 8 de junio de 2009
 
 Artículo Único. Se reforma el Artículo 1350 del Código de Comercio, para quedar como sigue:
 
-..
-
 ##### TRANSITORIO
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12628,8 +12570,6 @@ Publicado en el Diario Oficial de la Federación el 9 de junio de 2009
 
 Artículo Segundo. Se adiciona un párrafo segundo, recorriéndose en su orden los actuales, al artículo 1051 del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12643,8 +12583,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de agosto de 2009
 
 Artículo Único. Se reforman los artículos 21, fracción IV y XIX; 21 bis 1; 30 bis, segundo párrafo; 30 bis 1; 31, primer párrafo y se adiciona, una fracción XX al artículo 21, una fracción III al artículo 21 bis, un segundo párrafo al artículo 22, un cuarto párrafo al artículo 30 y una "Sección Única" denominada "Del Registro Único de Garantías Mobiliarias" con los artículos 32 bis 1, 32 bis 2, 32 bis 3, 32 bis 4, 32 bis 5, 32 bis 6, 32 bis 7, 32 bis 8 y 32 bis 9, al Capítulo II del Título Segundo del Libro Primero, todos del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -12663,8 +12601,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2011
 
 Artículo Único.- Se reforman los artículos 1464 a 1480, que comprenden el Capítulo X, "De la Intervención Judicial en la Transacción Comercial y el Arbitraje"; se adicionan los artículos 1067 Bis; 1339 Bis; y un Título Especial, que se denominará "Del Juicio Oral Mercantil", que comprende los artículos 1390 Bis a 1390 Bis 49, y se derogan los artículos 1460 y 1463, segundo párrafo del Código de Comercio; para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -12686,8 +12622,6 @@ Publicado en el Diario Oficial de la Federación el 6 de junio de 2011
 
 Artículo Único.- Se adiciona un párrafo tercero al artículo 1424 del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -12701,8 +12635,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de junio de 2011
 
 Artículo Único.- Se reforman los artículos 1080, fracción I; 1255, segundo párrafo y se adiciona un tercer párrafo, pasando el actual a ser cuarto al artículo 1255 del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -12732,8 +12664,6 @@ Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 
 ARTÍCULO ÚNICO. Se deroga la fracción V del artículo 1391 del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -12747,8 +12677,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de enero de 2012
 
 ARTÍCULO ÚNICO.- se REFORMAN: el segundo párrafo de la fracción VI del artículo 1253; el primero y cuarto (actualmente segundo) párrafos del artículo 1339; el primer párrafo del artículo 1340; el primero y segundo párrafos del artículo 1390 Bis; el artículo 1390 Bis 1; el artículo 1390 Bis 6; el primero y segundo párrafos del artículo 1390 Bis 7, recorriéndose el actual segundo para quedar como tercero; el artículo 1390 Bis 8; el artículo 1390 Bis 9; el primero y segundo párrafos del artículo 1390 Bis 13; el primer párrafo del artículo 1390 Bis 18; el primer párrafo del artículo 1390 Bis 20; primero y tercer párrafo del artículo 1390 Bis 23; el primer párrafo del artículo 1390 Bis 26; la fracción V del artículo 1390 Bis 32; el artículo 1390 Bis 34; el segundo párrafo del artículo 1390 Bis 37; el primero y segundo párrafos del artículo 1390 Bis 38; el primer párrafo del artículo 1390 Bis 39; el primer párrafo, las fracciones I, II y III del artículo 1390 Bis 41; el primero y segundo párrafos del artículo 1390 Bis 42; el artículo 1390 Bis 43; el segundo párrafo del artículo 1390 Bis 45; el primero, segundo y tercer párrafos del artículo 1390 Bis 46; el primero y tercer del artículo 1390 Bis 47; el artículo 1390 Bis 48; el último párrafo del artículo 1390 Bis 49; primero, segundo y tercer párrafos del artículo 1414 Bis 9 y la fracción II del artículo 1467; se ADICIONAN: un tercer párrafo a la fracción VI del artículo 1253; un nuevo segundo y tercer párrafos al artículo 1339, recorriéndose los actuales segundo a séptimo para quedar cuarto a noveno; un tercer párrafo al artículo 1390 Bis 7; un segundo párrafo del artículo 1390 Bis 9; un segundo párrafo del artículo 1390 Bis 18; un tercer párrafo al artículo 1390 Bis 40, recorriéndose el actual tercero para quedar como cuarto; un segundo párrafo al artículo 1390 Bis 42, recorriéndose el actual segundo para quedar como tercero; un artículo 1390 Bis 50; un segundo y tercero artículos transitorios y se DEROGAN el segundo párrafo del artículo 1340; el tercer párrafo del artículo 1390 Bis; el segundo párrafo del artículo 1390 Bis 20; el tercer párrafo del artículo 1390 Bis 38, recorriéndose el actual cuarto al tercero; las fracciones I y II del segundo párrafo del artículo 1414 Bis 9, todos del Código de Comercio, para quedar como sigue:
-
-..
 
 ##### TRANSITORIOS
 
@@ -12765,8 +12693,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO SEGUNDO. Se reforman los artículos 18, segundo párrafo; 49, segundo párrafo y 640 del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -12848,8 +12774,6 @@ OTORGAMIENTO Y EJECUCIÓN DE GARANTÍAS
 
 ARTÍCULO VIGÉSIMO SEGUNDO.- Se REFORMAN los artículos 1055 bis; 1068, párrafo primero; 1070 párrafo sexto; 1070 bis; 1085 párrafo primero; 1093; 1104, primer párrafo y fracción I; 1107 primer párrafo; 1132, fracción XI; 1168; 1170; 1171; 1172; 1173; 1174; 1175; 1176; 1177; 1178; 1179; 1180; 1181, 1182; 1183; 1184; 1185; 1186, 1187; 1188; 1189; 1375; 1390 bis 13 primer y segundo párrafo; 1390 bis 18; 1390 bis 40, último párrafo; 1391, fracciones II y VIII; 1392 primer párrafo; 1393 primer párrafo; 1394, primer y tercer párrafos; 1395, fracciones II y III; 1396; 1405; 1408; 1410, primer párrafo; 1411; 1412 primer párrafo; 1414 bis 8; 1414 bis 9 párrafo primero y segundo; 1414 bis 10, fracción III; 1414 bis 17; 1414 bis 19; se ADICIONAN un segundo párrafo al artículo 1068, pasando el actual párrafo segundo a ser tercero; un último párrafo al artículo 1070; segundo párrafo al artículo 1085; una fracción III y un último párrafo al artículo 1104; un párrafo segundo al artículo 1107; un tercer, cuarto y quinto párrafo al artículo 1390 bis; un tercer párrafo al artículo 1390 bis 13; un segundo párrafo al artículo 1392; un segundo al artículo 1393; un párrafo cuarto y quinto al artículo 1394 pasando el actual párrafo cuarto a ser sexto; un párrafo segundo y un tercero al artículo 1410; un párrafo segundo, tercero y cuarto al artículo 1412; 1412 bis 2 y se DEROGAN el Título Décimo Cuarto, De las Instituciones de Crédito; los artículos 640; 1105; 1106; 1108; 1190; 1191; 1192 y 1193 del Código de Comercio, para quedar como sigue:
 
-.
-
 Disposiciones Transitorias
 
 ARTÍCULO VIGÉSIMO QUINTO.- En relación con las modificaciones a que se refieren los Artículos Vigésimo Segundo a Vigésimo Cuarto de este Decreto, se estará a lo siguiente:
@@ -12864,8 +12788,6 @@ IV.	Los contratos de prenda celebrados con anterioridad a la fecha de entrada en
 
 V.	Las normas procesales contenidas en el presente Decreto no serán aplicables a los asuntos cuya demanda haya sido admitida con anterioridad a la fecha de su entrada en vigor.
 
-.
-
 ##### TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
@@ -12879,8 +12801,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 Artículo Primero. Se reforman los artículos 20; 21, fracción XX; 22; 27; 29; 32 bis 1; 32 bis 2; 32 bis 4, párrafos segundo y séptimo; 32 bis 6; 390; 600, fracción I; 1061 bis; 1414 bis, párrafo segundo; se adicionan los artículos 32 bis 4, con los párrafos tercero, octavo y noveno, recorriéndose los actuales párrafos tercero, cuarto, quinto, sexto, séptimo y octavo a ser cuarto, quinto, sexto, séptimo, décimo y onceavo párrafos; 50 bis; 1061 bis; 1395, con un párrafo cuarto pasando los actuales cuarto y quinto párrafos a ser quinto y sexto; 1414 bis, con un último párrafo; y se derogan los artículos 16, fracción I; 17; 32 bis 4, fracción IV del Código de Comercio, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -12954,13 +12874,9 @@ Publicado en el Diario Oficial de la Federación el 7 de marzo de 2016
 
 PRIMERO.-
 
-a) y b)
-
 c)	Artículo 1339: $574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
 
 d)	Artículo 1340: $574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.).
-
-e)
 
 ##### TRANSITORIOS
 
@@ -12975,8 +12891,6 @@ Ciudad de México, a 19 de febrero de 2016.- Con fundamento en el artículo 54 p
 Publicado en el Diario Oficial de la Federación el 7 de abril de 2016
 
 Artículo Primero.- SE REFORMAN los artículos 34 y 38; la definición del concepto prestador de servicios de certificación contenido en el párrafo tercero del artículo 89; el artículo 89 bis; el segundo párrafo del artículo 100; el primer párrafo, el apartado A y sus fracciones I, II y III del artículo 102; la fracción III del artículo 108 y, el artículo 110; SE INCORPORAN las definiciones digitalización y sello digital de tiempo al párrafo tercero del artículo 89; SE ADICIONAN un artículo 46 bis; un CAPÍTULO I Bis denominado De la Digitalización, con los artículos 95 bis 1, 95 bis 2, 95 bis 3, 95 bis 4, 95 bis 5, y 95 bis 6, al TÍTULO SEGUNDO; un tercer párrafo al artículo 100 y, las fracciones IV, V, VI al artículo 101, pasando la fracción IV actual a ser la fracción VII, del Código de Comercio para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -13016,8 +12930,6 @@ Publicado en el Diario Oficial de la Federación el 25 de enero de 2017
 
 Artículo Único.- Se reforman los artículos 1061, fracción V; 1076, segundo párrafo, fracciones III y IV; 1079, fracción IV; 1123, tercer párrafo; 1331; 1333; 1350; 1378; 1380; 1390 Bis, primer párrafo; 1390 Bis 6; 1390 Bis 7, segundo párrafo; 1390 Bis 9, primer párrafo; 1390 Bis 10; 1390 Bis 18, segundo párrafo; 1390 Bis 24, primer párrafo; 1390 Bis 25; 1390 Bis 29, segundo párrafo; 1390 Bis 33; 1390 Bis 36; 1390 Bis 37, cuarto párrafo; 1390 Bis 38, tercer párrafo; 1390 Bis 39; 1390 Bis 40; 1390 Bis 41; 1390 Bis 42, primer párrafo; 1390 Bis 45, segundo párrafo; 1390 Bis 46; 1390 Bis 47, primer y tercer párrafos; 1390 Bis 48; 1401, tercer párrafo; 1406; 1407. Se adicionan un artículo 1068 Bis; 1390 Bis 1, con un segundo y tercer párrafos; 1390 Bis 20, con un segundo párrafo; 1390 Bis 37, con un quinto párrafo; 1390 Bis 45, con un tercer, cuarto y quinto párrafos; y al Libro Quinto, el Título Especial Bis denominado Del Juicio Ejecutivo Mercantil Oral, con los artículos 1390 Ter al 1390 Ter 15 del Código de Comercio, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -13055,8 +12967,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
 
 Artículo Segundo.- Se reforma el artículo 90 Bis, último párrafo, y se adicionan un último párrafo al artículo 91 y una fracción V al artículo 92 del Código de Comercio, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -13328,105 +13238,13 @@ V.	Artículo 1390 Bis 33: $3,113.63 (tres mil ciento trece pesos 63/100 M.N.) a 
 
 Ciudad de México, a 30 de enero de 2026.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
 
-(
-
 uuu$u%u&u2u5uBuKuSuXubucudupusuuuuu u¡u¢u®u±u¾uÇuÏuÔuÞußuàuìuïuüuv
 
 ```8`<```ø`þ`ÂaÇambqbrcwc
 
-ddd8d<d
-
 ee5fAfDfafef f¥fgg²g·gMhQh¹h¾h¡i§i~jjIkNkOlSlõlmm!m%mmm
 
 `7`8```÷`ø`ÁaÂalbmbqcrcd
-
-d7d8de
-
-h£K85CJ-hñ
-
-üöîööîööîööîööîööîööîööîööîö$a$gd|
-
-1
-
-2
-
-N
-
-o
-
-p
-
-­
-
-®
-
-Ë
-
-ì
-
-í
-
-&
-
-0
-
-1
-
-2
-
->
-
-A
-
-N
-
-W
-
-_
-
-d
-
-n
-
-o
-
-p
-
-|
-
-¢
-
-¬
-
-­
-
-®
-
-»
-
-¾
-
-Ë
-
-Ô
-
-Ü
-
-á
-
-ë
-
-ì
-
-í
-
-ú
-
-ý
-
-h;
-
-h;
 
 CJaJh;[¾h;
 
@@ -13436,92 +13254,10 @@ CJaJh;[¾h;
 
 5CJaJh;
 
-h;
-
-$a$gd
-
 CJaJhåh9/CJaJh9/h9/5CJaJ-h
 
 5CJaJ3hTØh
 
-$a$gd
-
 CJaJh;[¾h;
 
-)
-
-*
-
-í
-
-î
-
-(
-
-)
-
-*
-
-7
-
-:
-
-î
-
-û
-
-þ
-
-6
-
-5
-
 ()°¹ÂÇÑÒÓàã­º½,9<5BEäñôXehÃÐÓ
-
-b
-
-c
-
-H
-
-"
-
-7
-
-8
-
-<
-
-F
-
-G
-
-H
-
-U
-
-X
-
-Ä
-
-hùBR5CJ*qX	rX	MY	NY	[	M[	N[	[	[	ó[	ô[	ÿ[	\	\
-
-t
-
-º
-
-»
-
-s
-
-t
-
-º
-
-»
-
-Î
-
-$ G$` a$gd÷Në$&dPÆÿa$gd÷Në
-
-ÆÐÐPþ^Ð`Pþa$gdÄh{$ ` a$gdÄh{$&dPÆÿa$gdÄh{

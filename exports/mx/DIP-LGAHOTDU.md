@@ -1650,8 +1650,6 @@ Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019
 
 Artículo Segundo.- Se reforma la fracción IX del artículo 8 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1694,8 +1692,6 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
 
 Artículo Único. Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; las fracciones VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el artículo 31; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del artículo 37; el artículo 42; y se adicionan las fracciones XLI , XLII y XLIII al artículo 3; la fracción XXVI al artículo 11 y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1710,8 +1706,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Séptimo.- Se reforman la fracción X del artículo 26, el artículo 50 y la fracción IV del artículo 93 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1720,16 +1714,6 @@ Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María
 
-&
-
-'
-
-4
-
 !"efgj²³´¸ijkýþÿ÷îåÛ÷îåÑ÷îåÑ÷îåÑ÷îå÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÑ÷îåÛ÷îå÷îåÑ÷îåÑ÷È÷îåÑ÷îå÷îå¼hvh-45CJaJhvhÿICJh(zh-45CJhvh-45CJhvhïnCJhvh']ÎCJhvh-4CJG-4	5	ã	ä	þ	ÿ	()íîOP«¬ñò&
-
-'
-
-000h1i1j1ô2õ2ö23u4v4w44 4¡4®4\5]5
 
 =j=k=l=Í=Î=+>,>->B>C>Z>[>\>j>k>>>÷îäÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛÈÛ÷îÑÛ÷îÑÛ÷îÑÛ÷î¾Û÷îÛÈÛ÷î²¦²¦²²¦hvh-4CJaJhvhv5CJaJhvh']Î5CJaJhvh-45CJaJhç

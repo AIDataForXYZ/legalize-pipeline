@@ -1390,17 +1390,9 @@ Se reforman los artículos 2, párrafo primero, fracción XXIV Bis; 16, párrafo
 
 ...
 
-I. a XXIV.	...
-
 XXIV Bis. 	Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales de la Ciudad de México, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, los programas sociales universales establecidos en la Constitución Política de los Estados Unidos Mexicanos, los servicios personales correspondientes a las funciones de gasto de Educación, Salud y Seguridad Pública, y la inversión física y financiera directa de la Administración Pública Federal;
 
-XXV. a XXXIX. ...
-
 XXXIX Bis.	Proyectos para el desarrollo con bienestar: los proyectos de infraestructura estratégica, prestación de servicios o adquisición de bienes o equipo a que se refiere la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar;
-
-XL. a LVII.	...
-
-...
 
 ###### Artículo 9.
 
@@ -1410,55 +1402,19 @@ Tratándose de los riesgos y contingencias asociados a los contratos descritos e
 
 ###### Artículo 16.-
 
-... ...
-
-En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos. Asimismo, se deberá presentar para el ejercicio fiscal presupuestado y los siguientes cinco años, los compromisos plurianuales de gasto.
+... En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos. Asimismo, se deberá presentar para el ejercicio fiscal presupuestado y los siguientes cinco años, los compromisos plurianuales de gasto.
 
 ###### Artículo 17.-
 
-... ...
-
-...
-
-...
-
-...
-
-...
-
-...
-
-Los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas públicas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
-
-...
-
-...
+... Los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas públicas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
 
 ###### Artículo 21.-
 
-...
-
-I. y II. 	...
-
-III. 	...
-
-a)	...
-
-En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar los programas sociales y los gastos considerados en el presupuesto relacionados con los Proyectos para el desarrollo con bienestar;
-
-b) y c)	...
-
-...
-
-...
+... En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar los programas sociales y los gastos considerados en el presupuesto relacionados con los Proyectos para el desarrollo con bienestar;
 
 ###### Artículo 32.-
 
 En el proyecto de Presupuesto de Egresos se deberán prever, para el ejercicio fiscal presupuestado y los siguientes cinco años, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 50 de esta Ley, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios, así como de los contratos de inversión estratégica a que se refiere la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, para los cuales el registro presupuestario deberá realizarse conforme a los pagos asociados a los mismos, en términos de los plazos o periodos establecidos en los contratos de infraestructura estratégica. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual. En los proyectos de infraestructura productiva de largo plazo incluidos en programas prioritarios a los que se refiere el párrafo tercero del artículo 18 de la Ley Federal de Deuda Pública, en que la Secretaría, en los términos que establezca el Reglamento, haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes se considerará preferente respecto de nuevos financiamientos, para ser incluido en los Presupuestos de Egresos de los años posteriores hasta la total terminación de los pagos relativos, con el objeto de que las entidades adquieran en propiedad bienes de infraestructura productivos.
-
-...
-
-...
 
 Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo, durante la vigencia de su financiamiento, sólo podrán destinarse al pago de las obligaciones fiscales atribuibles al propio proyecto, las de inversión física y costo financiero del mismo, así como de todos sus gastos de operación y mantenimiento y demás gastos asociados, de conformidad con lo dispuesto en el artículo 18 de la Ley Federal de Deuda Pública. Los remanentes serán destinados a programas y proyectos de inversión de las propias entidades, distintos a proyectos de infraestructura productiva de largo plazo o al gasto asociado de éstos.
 
@@ -1472,31 +1428,15 @@ Bis.- La Secretaría, en términos de las disposiciones aplicables, podrá autor
 
 ###### Artículo 50.-
 
-Los ejecutores de gasto podrán celebrar contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal, incluyendo los contratos de inversión estratégica a que hace referencia la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, siempre que:
-
-I. a IV. ...
-
-...
-
-Las dependencias y entidades deberán informar a la Secretaría Anticorrupción y Buen Gobierno sobre la celebración de los contratos a que se refiere este artículo, dentro de los treinta días posteriores a su formalización.
+Los ejecutores de gasto podrán celebrar contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal, incluyendo los contratos de inversión estratégica a que hace referencia la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar, siempre que: Las dependencias y entidades deberán informar a la Secretaría Anticorrupción y Buen Gobierno sobre la celebración de los contratos a que se refiere este artículo, dentro de los treinta días posteriores a su formalización.
 
 En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Secretaría Anticorrupción y Buen Gobierno.
-
-...
 
 Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, el monto total anual de los compromisos a lo largo de la vida del proyecto, en los términos de los artículos 32 y 41, fracción II, inciso g), de esta Ley.
 
 ###### Artículo 54.-
 
-... ...
-
-...
-
-...
-
-Los adeudos de ejercicios fiscales anteriores, previstos en el Proyecto de Presupuesto de Egresos podrán ser hasta por el monto de los diferimientos de pagos previstos en la Ley de Ingresos de la Federación aprobada en el ejercicio fiscal inmediato anterior a aquél en el que se deba realizar su pago.
-
-...
+... Los adeudos de ejercicios fiscales anteriores, previstos en el Proyecto de Presupuesto de Egresos podrán ser hasta por el monto de los diferimientos de pagos previstos en la Ley de Ingresos de la Federación aprobada en el ejercicio fiscal inmediato anterior a aquél en el que se deba realizar su pago.
 
 Transitorios
 
@@ -1522,15 +1462,7 @@ Octavo. Los proyectos de inversión celebrados con anterioridad a la entrada en 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de abril de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-W
-
-X
-
-d
-
 CDDEQstÃÄ+,;<´µÁ]^jéê¸¹øù&µ¶9:kl£»¼È¢£I J v w « ¬ ¸ ""D"E"Q"Ö"×"ã"½$¾$Ê$²%³%Ò%Ó%ß%((!(**9+:++++üôïèüôïèüôèüèôïôèäèüèàèüôïôïôèüôèüèüôïôïôèüèüôïôïôèüôèüèüôïôïôèüôïôèüôèüôèüôïôèüôèüèüôïôhDhhah>	h>5hah>5h>X¦
-
-X
 
 $¤F`a$gd>ÁBCCDDEEoEpE|EÇEÈEÉEËEØFÚF½G¾GÀGÂG<H=H@HBHrIsIuIwIÔIÕIÖIØIRJSJUJWJ1K2K5K7KÖK×KÛKÝKÁLÂLÄLÆLMM
 

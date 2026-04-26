@@ -92,8 +92,6 @@ Sufragio Efectivo, No Reelección.
 
 México, D. F., a 30 de agosto de 1934.- El Subsecretario de Gobernación Encargado del Despacho Juan G. Cabral.- Rúbrica.
 
-Al C
-
 ## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 #### DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
@@ -101,8 +99,6 @@ Al C
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO VIGÉSIMO CUARTO. Se reforman los artículos 1o.; 3o. y 12, primer párrafo, de la Ley de Sociedades de Responsabilidad Limitada de Interés Público, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 

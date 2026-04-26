@@ -1506,8 +1506,6 @@ Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007
 
 ARTÍCULO ÚNICO.- Se reforma la fracción IV del artículo 5 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1521,8 +1519,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO SEGUNDO. Se reforman los artículos 38, párrafos segundo y tercero; y 39, fracción V de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -1563,8 +1559,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
 
 ARTÍCULO ÚNICO. Se reforma la fracción V del artículo 11 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1623,8 +1617,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de junio de 2018
 
 Artículo Único. Se reforman las fracciones XXIX y XXXII del artículo 20 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -1732,8 +1724,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO PRIMERO. Se reforma el párrafo cuarto del artículo 23 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1754,8 +1744,6 @@ Publicado en el Diario Oficial de la Federación el 13 de mayo de 2022
 
 Artículo Único.- Se deroga la fracción I del artículo 26 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1769,8 +1757,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 2022
 
 Artículo Único.- Se reforma la fracción III del artículo 1 y las fracciones XXX, XXXI y XXXII del artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1786,8 +1772,6 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
 
 Artículo Único.- Se reforma el artículo 2 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1801,8 +1785,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2023
 
 Artículo Único.- Se adiciona una fracción III Bis al artículo 1 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1818,8 +1800,6 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2023
 
 Artículo Único.- Se adicionan las fracciones XXII Quáter y XXII Quintus al artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1834,8 +1814,6 @@ Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2023
 
 Artículo Único. Se reforma el segundo párrafo del artículo 15 Octavus de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -1849,8 +1827,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Octavo.- Se reforma el segundo párrafo del artículo 15 Octavus, de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1884,34 +1860,8 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-]h
-
-ú
-
-î
-
-ù
-
-ú
-
-þ
-
 ] ]4]C]]]]`.`/`<`\`^`¡`¥`û`ÿ`aa/b<bÚbçbcc¸c¼côcøc4d7dddìdeee>e_e`ebemeeóàÍàÃ¹­¢ÍÃ¹~Í¢r¢Íh¯Eah mÍ5CJaJhú¯h{V*CJaJhú¯h{V*5CJaJ
 
 hyJ5CJ
-
-`
-
-a
-
-2
-
->
-
-`
-
-a
-
-n
 
 h&º5CJh&º5CJ\h&ºCJ^Jh&º5CJ\^Jh&ºCJ^J/h

@@ -1594,8 +1594,6 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
 
 ARTÍCULO TERCERO.- Se reforman el artículo 1o., la fracción VI y el último párrafo del artículo 9o., el párrafo segundo del artículo 13, el artículo 14, la fracción II del artículo 16, el párrafo primero del artículo 20, la fracción II y los párrafos segundo y tercero del artículo 27, el párrafo segundo del artículo 33, el artículo 34, la fracción V del artículo 55 y las fracciones VI y VII del artículo 57; se adicionan un párrafo tercero al artículo 13, pasando el actual párrafo tercero a ser cuarto, y el artículo 13 A, y se derogan el último párrafo de los artículos 11 y 33, el artículo 35 y la fracción VIII del artículo 46 de la Ley Minera, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
@@ -1611,8 +1609,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2005
 
 ARTÍCULO ÚNICO. SE REFORMAN los artículos 1, 2; las fracciones I, II, IV, V, VI, VII y VIII del artículo 4; la fracción V del artículo 5; las fracciones IV y IX del artículo 7; el artículo 9; el primer y segundo párrafos del artículo 10; el artículo 13; 13 A, y se cambia su denominación a 13 BIS; las fracciones V y VII del artículo 14; el segundo párrafo del artículo 14; el párrafo cuarto pasando a ser segundo y el párrafo sexto pasando a ser tercero del artículo 15; el segundo párrafo y la fracción II del artículo 16; la fracción II del artículo 17; el primer párrafo y las fracciones I, IV, V, VII, X Y XII del artículo 19; el artículo 20; el primer párrafo del artículo 22; el artículo 27; el primer párrafo al artículo 28; el artículo 30; el primer párrafo del artículo 31; el primer párrafo del artículo 34; el artículo 36; la fracción II del artículo 37; el artículo 41; la fracción III del artículo 42; el primer párrafo del artículo 43; las fracciones I, VI y VII del artículo 46; las fracciones II, V, VI y VII y el penúltimo párrafo del artículo 55; la fracción I del artículo 56; el párrafo tercero y la fracción XI del artículo 57; el artículo 59; SE ADICIONA la fracción II BIS, al artículo 4, la fracción IV Bis al artículo 7, un artículo 12 BIS; un artículo 35 BIS; un artículo 57 BIS; SE DEROGA la fracción III del artículo 4; las fracciones I y VI del artículo 14; los párrafos segundo, tercero y quinto del artículo 15; el segundo párrafo, pasando el tercero a ser segundo del artículo 29; la fracción IV del artículo 37; el segundo párrafo, pasando el tercero a ser segundo del artículo 52; la fracción IV del artículo 55; el segundo párrafo, pasando el tercero a ser segundo, el cuarto a ser tercero y el quinto a ser cuarto del artículo 57; todos ellos de la Ley Minera, para quedar de la siguiente manera:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1637,8 +1633,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2006
 
 ARTÍCULO SEGUNDO.- Se reforman los artículos 3, fracciones I y II; 4, fracción VIII; 5, fracción I; 19, fracciones XI y XII; 55, fracciones VII, VIII, IX y X, y se adicionan los artículos 7, con las fracciones XIII, XIV y XV, recorriéndose las actuales XIII y XIV, para ser XVI y XVII, respectivamente; 19, con una fracción XIII; 27, con las fracciones XI, XII, XIII y XIV, y 55, con las fracciones IX, X, XI y XII, recorriéndose la actual IX a ser XIII, de la Ley Minera, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -1682,8 +1676,6 @@ Publicado en el Diario Oficial de la Federación el 20 de abril de 2022
 
 Artículo Único.- Se reforman los artículos 1; 9, párrafo primero; 10, párrafo primero; y se adicionan un artículo 5 Bis, y un párrafo tercero, recorriéndose los actuales párrafos tercero y cuarto, al artículo 10 de la Ley Minera, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
@@ -1703,8 +1695,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Primero.- Se reforman la denominación de la Ley Minera para quedar como Ley de Minería; los artículos 1; 3, fracciones II y III; 6, párrafos primero, tercero y cuarto; 7, párrafo primero, fracciones V, VII, XII, XVI y XVII y párrafo segundo; 9, párrafo primero, y los actuales párrafos tercero, cuarto, sexto, séptimo, octavo, noveno y décimo se convierten en el artículo 9 Ter, en ese mismo orden, y el párrafo décimo primero con sus fracciones I, II, III, IV, V, VI, VII, VIII, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV y XXVI se convierte en el artículo 9 Bis, con sus fracciones I a XXIV en el orden que corresponde a cada una de las fracciones mencionadas sustituidas, y quedan suprimidas las fracciones IX y XXIII de ese párrafo y párrafo quinto; 10 párrafos primero, segundo, cuarto y quinto; 11, fracción I; 12, párrafos primero y tercero; 13, párrafos primero, tercero y los actuales cuarto y quinto; 13 Bis, párrafo primero, fracciones I, II, incisos a, b y d, III y el actual párrafo segundo; 14, párrafo primero, fracción II; 15, párrafos primero y segundo; 16, párrafo segundo; 17, párrafo primero; 18, párrafos primero y segundo; 19, párrafo primero, fracciones I, II, IV, VII, IX, X y XI; 20, párrafo segundo; 21, párrafo primero; 22, párrafo segundo; 23, párrafos primero, segundo, tercero y cuarto; 24; 26, párrafo primero y las fracciones I, II y III; 27, párrafos primero y las fracciones I, II, VII, VIII y IX, y párrafo segundo; 28, párrafos primero y tercero que se recorre para pasar a ser párrafo cuarto; 31, párrafo segundo; 34, párrafo primero; 35 Bis; 36; 37, párrafo primero y las fracciones III y VI; 38, párrafo segundo; 39; 40, párrafo primero, fracción II; 41, párrafo primero; 42, párrafo primero y las fracciones III, IV y V; 43, párrafo primero, fracciones I y II y párrafo segundo, que pasa a ser párrafo tercero; 44, párrafo primero; 45, párrafo primero; 46, párrafo primero y las fracciones III y VI; 48; 52, párrafo primero; la denominación del CAPÍTULO SÉPTIMO para quedar como De las Verificaciones, Sanciones y Recursos; 53, párrafo primero y las fracciones I, II, III, IV, V y VI; 55, párrafo primero, fracciones II, III, VII, XII y XIII; 56, párrafo primero; 57, párrafos primero, fracciones I, IV, V, VI, VII, VIII, XI y XII y los actuales segundo y cuarto, que pasan a ser párrafo cuarto y octavo, respectivamente; 57 Bis párrafo primero y segundo; 58; se adicionan un párrafo segundo al artículo 1; una fracción IV al artículo 3; los párrafos sexto, séptimo y octavo al artículo 6; el artículo 6 Bis; las fracciones XVIII, XIX, XX, XXI y XXII al párrafo primero del artículo 7; el artículo 10 Bis; un párrafo quinto al artículo 12; un párrafo cuarto al artículo 13 y se recorren los párrafos cuarto y quinto actuales para pasar a ser quinto y sexto; los incisos a, b, c, d, e, f, g, h e i a la fracción I, las fracciones IV, V y VI al párrafo primero y los párrafos segundo, tercero, cuarto, quinto, sexto, octavo, noveno y décimo y se recorre el actual párrafo segundo para pasar a ser el párrafo séptimo del artículo 13 Bis; las fracciones VIII, IX, X y XI al párrafo primero del artículo 14; un artículo 14 Bis; los párrafos tercero, cuarto y sexto al artículo 15, pasando el actual párrafo tercero a ser párrafo quinto; un artículo 15 Bis; las fracciones I, II y III al párrafo primero del artículo 18; la fracción XIV al párrafo primero y los párrafos segundo, tercero y cuarto al artículo 19, un artículo 19 Bis; un párrafo tercero al artículo 20; un párrafo quinto al artículo 23; las fracciones XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV al párrafo primero del artículo 27; un párrafo segundo al artículo 28; la fracción IV al párrafo primero del artículo 40; las fracciones VI, VII, VIII, IX, X y XI al párrafo primero y los párrafos segundo y tercero del artículo 42; las fracciones III y IV del párrafo primero y un párrafo segundo al artículo 43; la fracción VII al artículo 53; el artículo 53 Bis; las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI al artículo 55; la fracción XIII del párrafo primero y los párrafos segundo, tercero, quinto y séptimo del artículo 57; 57 Ter; un párrafo segundo al artículo 58; el CAPÍTULO OCTAVO, denominado De las notificaciones, con su artículo 60; el CAPÍTULO NOVENO, denominado Del cierre de minas, con sus artículos 61, 62 y 63 y el CAPÍTULO DÉCIMO, denominado De los delitos, con sus artículos 64 y 65, y se derogan el párrafo segundo del artículo 6; el párrafo cuarto del artículo 12, el artículo 12 Bis; el párrafo segundo del artículo 13, las fracciones IV, V y VII del párrafo primero, y los párrafos segundo, tercero, cuarto y quinto del artículo 14; el actual párrafo tercero del artículo 15; el párrafo primero y las fracciones I, II y III del párrafo segundo y el párrafo tercero del artículo 16; las fracciones I y II del párrafo primero y el párrafo segundo del artículo 17; las fracciones III, V, VI y XII del artículo 19; los párrafos segundo y tercero del artículo 21; la fracción IV y el párrafo segundo del artículo 26; la fracción VI del párrafo primero y el párrafo tercero del artículo 27; el párrafo segundo del artículo 28; el artículo 32; el artículo 33; la fracción III del párrafo primero y el párrafo segundo del artículo 40; el párrafo segundo del artículo 41; la fracción II del artículo 42; el párrafo segundo del artículo 44; el párrafo segundo del artículo 45; el artículo 50; los párrafos segundo y tercero del artículo 55; la fracción IV del artículo 56; las fracciones II y X del párrafo primero y párrafo tercero del artículo 57, de la Ley Minera, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1742,58 +1732,6 @@ Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-ìæÚÐìº¤æÚÐ}ÚÐleæVCæe<
-
-hÊKÒ5CJ
-
-h©X5CJ
-
-h'>[5CJ
-
-h'>[5CJ
-
-h&LÊ5CJ
-
-h&LÊ5CJ
-
-h+]Ð5CJ
-
-h+]ÐCJ\
-
 hZLÒ5CJ
-
-h×P5CJ
-
-h×P5CJ
-
-ht@5CJ
-
-h¹X5CJ
-
-ÆC"a$
-
-ÆC"	$
-
-ÆC"a$
-
-ÆC"a$
-
-ÆC"	$
-
-ÆC"a$gd¬M
-
-ÆC"gd¬M$
-
-ÆC"a$gd(B
-
-ÆC"gd(B$
-
-Ì
-
-JK !
-
-Ì
-
-Û
 
 JKZ !HPfz¤ÂÖò

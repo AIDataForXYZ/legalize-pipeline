@@ -530,8 +530,6 @@ DE ACCIONES DE INCONSTITUCIONALIDAD DE LA
 
 SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-P R E S E N T E
-
 PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
 
 SEGUNDO. Se desestima en la presente acción inconstitucionalidad respecto de los artículos 19, fracción V, en su porción normativa o siga en la Presidencia de la República hasta que termine su periodo, y 36, fracción IV, incisos a) y b), de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno.
@@ -608,8 +606,6 @@ Corresponde al Instituto vigilar y, en su caso, sancionar las infracciones a la 
 
 274.	Plazo para legislar: En el caso de las omisiones legislativas que han sido estimadas fundadas, el Congreso deberá legislar lo conducente a más tardar el quince de diciembre de dos mil veintidós, fecha máxima de conclusión del primer periodo ordinario de sesiones correspondiente al presente año.
 
-..
-
 XV. DECISIÓN
 
 277.	Por lo antes expuesto, el Pleno de la Suprema Corte de Justicia de la Nación resuelve:
@@ -625,20 +621,6 @@ QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, as�
 Notifíquese mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-«ÜÝ
-
-$úG$^úa$gd+,
-
-$G$^a$gd+,
-
-$ÂG$^Âa$gd+,
-
-$úG$^úa$gd+,
-
-$ÂG$^Âa$gd+,$Â>þG$^Â`>þa$gd+,
-
-$ G$` a$gd+,	$G$a$gd+,$Â>þG$^Â`>þa$gd+,
 
 jhá^
 

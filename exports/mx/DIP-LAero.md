@@ -1338,8 +1338,6 @@ Publicado en el Diario Oficial de la Federación el 5 de julio de 2006
 
 Artículo Segundo.- Se reforma el segundo párrafo y se adiciona un tercer párrafo al Artículo 18 de la Ley de Aeropuertos, para quedar como sigue:
 
-...........
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1354,11 +1352,7 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 2009
 
 Artículo Primero. Se reforma y adiciona el segundo párrafo del artículo 19 de la Ley de Aeropuertos, para quedar como sigue:
 
-.
-
 Artículo Segundo. Se reforma y adiciona el artículo 39 de la Ley de Aeropuertos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1373,8 +1367,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de enero de 2009
 
 Artículo Único.- Se reforma el artículo 46 de la Ley de Aeropuertos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIO
 
@@ -1407,8 +1399,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 8 de junio de 2016
 
 Artículo Tercero.- Se adiciona un artículo 10 BIS a la Ley de Aeropuertos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -1520,8 +1510,6 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Tercero.- Se reforman los artículos 18, párrafo cuarto; 32, y 49, y se adiciona un artículo 27 Bis de la Ley de Aeropuertos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1586,8 +1574,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Sexagésimo Tercero.- Se reforma la fracción VI del primer párrafo del artículo 4 de la Ley de Aeropuertos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1605,9 +1591,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-k
-
-ª
-
-"¤¥® *í÷,5Û

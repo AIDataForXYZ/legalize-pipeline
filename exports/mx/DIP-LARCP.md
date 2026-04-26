@@ -422,8 +422,6 @@ Publicado en el Diario Oficial de la Federación el 24 de abril de 2006
 
 ARTÍCULO ÚNICO.- Se adiciona una fracción III al Artículo 8o. de la Ley de Asociaciones Religiosas y Culto Público, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -438,8 +436,6 @@ Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010
 
 ARTÍCULO QUINTO.- Se reforma el artículo 3o. y se adiciona una fracción IV al artículo 8o.; un artículo 12 Bis; las fracciones XII y XIII al artículo 29, recorriéndose la actual fracción XII para pasar a ser XIV y una fracción V al artículo 31, todos de la Ley de Asociaciones Religiosas y Culto Público, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -453,8 +449,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011
 
 ARTÍCULO SÉPTIMO. Se reforma el artículo 13 de la Ley de Asociaciones Religiosas y Culto Público, para quedar como sigue:
-
-.
 
 TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 
@@ -477,8 +471,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
 ARTÍCULO DÉCIMO PRIMERO.- Se REFORMA el artículo 20, párrafo primero de la Ley de Asociaciones Religiosas y Culto Público, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -517,8 +509,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Noveno.- Se reforma el artículo 36 de la Ley de Asociaciones Religiosas y Culto Público, para quedar como sigue:
-
-.
 
 ##### Transitorios
 

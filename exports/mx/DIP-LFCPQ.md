@@ -838,8 +838,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO CUADRAGÉSIMO NOVENO. Se reforman los artículos 3, fracción IV; 17, primer y último párrafos; y 18, fracción III; de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas Para Elaborar Cápsulas, Tabletas y/o comprimidos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -987,8 +985,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 
 Artículo Único.- Se reforman los artículos 1, párrafo primero; 2, fracciones I, III, IV, V, VI y VII; 3, fracciones III, V y VI; 5, actuales párrafos primero y segundo, fracciones I, II y III; 6, párrafos primero y segundo, y fracción I; 7, párrafo primero, fracción I; 8, párrafo primero, fracciones I y III; 9; 11; 12, primer párrafo y fracciones I, II, III y IV; 13, párrafos primero, fracciones II, III y IV, y actual segundo; 14, párrafo primero, fracción II; 15; 16; 17, párrafo primero, fracción I; 18, fracciones I, II y III; 19; 20; 22 y 23, párrafo primero, fracciones I y II; se adicionan un párrafo cuarto al artículo 1, las fracciones IV Bis, V Bis y VII Bis al artículo 2; la fracción II Bis, y los párrafos segundo y tercero al artículo 3, y se recorre en su orden el actual segundo para quedar como cuarto; el párrafo segundo al artículo 7; las fracciones V, VI, y VII al artículo 12; los párrafos segundo, cuarto y quinto al artículo 13, y se recorre el actual segundo para quedar como tercero; el párrafo segundo al artículo 16; el párrafo segundo de la fracción I del párrafo primero al artículo 17; los párrafos segundo, con sus incisos a), b) y c), tercero y cuarto, a la fracción I del artículo 18, y el artículo 24; así como el Capítulo Séptimo De los Delitos en Materia de Precursores Químicos o de Productos Químicos Esenciales, con sus artículos 25, 26, 27, 28, 29, 30 y 31, y se derogan las fracciones II, y VIII del artículo 2; la fracción I del artículo 3, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 

@@ -538,8 +538,6 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2002
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 2, párrafo primero y fracción III; 3; 8, párrafo segundo; 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo segundo; 27; 40, párrafo primero y 41 de la Ley de Planeación para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -560,8 +558,6 @@ Publicado en el Diario Oficial de la Federación el 10 de abril de 2003
 
 ARTÍCULO TERCERO.- Se adiciona un tercer párrafo al artículo 9o. de la Ley de Planeación para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -575,8 +571,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 1, 6, 14, 15, 16, 20, 29 y el último párrafo del 34, se adiciona un tercer párrafo al artículo 20, pasando el actual párrafo tercero a ser cuarto; un artículo 20 Bis; y un segundo párrafo al artículo 37, de la Ley de Planeación, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -592,8 +586,6 @@ Publicado en el Diario Oficial de la Federación el 20 de junio de 2011
 
 Artículo Único.- Se reforman las fracciones III, V y VI del artículo 2o.; el segundo párrafo del artículo 8o.; el primer párrafo del artículo 9o.; las fracciones II, VI y VII del artículo 14, y se adicionan una fracción VII al artículo 2o. y una fracción VIII al artículo 14 de la Ley de Planeación, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -607,8 +599,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 ARTÍCULO ÚNICO.- Se reforman los artículos 2, fracciones IV, VI y VII; 3, segundo párrafo; 8, segundo párrafo; 21, segundo párrafo; 27, y 40, primer párrafo; y se adiciona una fracción VIII al artículo 2, todos de la Ley de Planeación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -625,8 +615,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO NOVENO. Se reforman los artículos 6o, tercer párrafo; 8o, primer párrafo; 9o, segundo párrafo; 11; 18; 19, primer párrafo; 29, segundo párrafo; y 40, primer párrafo, de la Ley de Planeación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -671,8 +659,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2016
 
 ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del artículo 3o. de la Ley de Planeación, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -744,8 +730,6 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 Artículo Tercero. Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al artículo 17, fracción I, el párrafo segundo, de la Ley de Planeación, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -808,8 +792,6 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 Artículo Décimo Segundo.- Se reforman los artículos 2o., fracción VII; 8o., primer y segundo párrafos; 9o., primer párrafo; 26 Bis, fracción V y 37, primer párrafo, de la Ley de Planeación, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -829,23 +811,5 @@ Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas s
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-&
-
-0
-
-1
-
-2
-
-7
-
-k
-
-1
-
-2
-
-k
 
 h]/5CJ!dBeB,C-CÊCËCµD¶D

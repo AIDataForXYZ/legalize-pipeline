@@ -892,8 +892,6 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 
 ARTÍCULO SEXTO. Se reforman el inciso j), de la fracción I y las fracciones III y IV; y se adiciona la fracción V, todas del artículo 51 de la Ley de la Policía Federal, para quedar como sigue:
 
-.
-
 ARTÍCULOS TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
@@ -1034,8 +1032,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Vigésimo Primero.- Se reforma el artículo 42 de la Ley de la Policía Federal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1054,34 +1050,12 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-)
-
-,
-
--
-
-»
-
-¼
-
-¿
-
-À
-
 ST_ÏÐÛ÷î÷äî÷î÷ÕÆäî÷ä¼äî÷«÷äî÷äî÷{î÷{î÷{î÷{î÷äî÷äh|he¬CJhâhîOÚ5CJh|hîOÚ5CJaJ h|hx
 
 5CJh|hx
 
-)
-
-»
-
-¼
-
 ]^bc¤¥¨©CDFG¨©¬­"÷îäÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÇ÷î»îÇ÷îÇ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÑÛ÷îÇhÿhîOÚ5CJaJh|hîOÚ5CJhÿhîOÚ5CJh|he¬CJhâhîOÚ5CJh|hx
 
 CJh|hîOÚCJJú
-
-]^¤¥CD¨©ijÎÏ_`þÿ
 
 78:;¼½¿À[\^_úûýþ= > A B | }   ô õ ø ù """"Y#Z#_#`#Ï#Ð#Ó#Ô#«$¬$®$¯$G%H%K%L%z&{&&&''''ß'÷îäÛ÷îäÛ÷îäÛ÷îÑÛ÷î÷îÑÛ÷îÑÛ÷îÑÇ÷îÑÛ÷îäÛ÷îäÛ÷îäÛ÷îäÛ÷îäÛ÷îäÛ÷¾äÛ÷¾äÛ÷¾äÛ÷¾äÛ÷h|hb?CJh|he¬5CJh|hîOÚ5CJh|he¬CJhÿhîOÚ5CJh|hx

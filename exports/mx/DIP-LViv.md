@@ -1284,8 +1284,6 @@ Publicado en el Diario Oficial de la Federación el 16 de junio de 2011
 
 Artículo Segundo.- Se reforma el párrafo primero del artículo 3 de la Ley de Vivienda, para quedar como sigue:
 
-.
-
 ##### TRANSITORIO
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1313,8 +1311,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2014
 
 Artículo Único.- Se reforman el tercer párrafo del Artículo 1; la fracción III del Apartado A y la fracción VII del Apartado B del Artículo 17; la fracción VII del Artículo 22; la fracción XI del Artículo 33 y el Artículo 46; y se adicionan las fracciones X, XI y XII al Artículo 6; dos nuevas fracciones XII y XIII al Artículo 38, recorriéndose la actual XII para ser XIV, todos de la Ley de Vivienda, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -1344,8 +1340,6 @@ Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
 
 Artículo Único.- Se reforma el primer párrafo del artículo 33 de la Ley de Vivienda, para quedar como sigue:
 
-..
-
 ##### Transitorio
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1374,8 +1368,6 @@ Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019
 
 Artículo Único.- Se reforman la fracción V y el segundo párrafo del artículo 7; el primer párrafo del artículo 9; las fracciones III, IV y V del artículo 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16; el primer párrafo, las fracciones III y IV del apartado A, el primer párrafo y las fracciones I, V y VII del apartado B del artículo 17; el primer párrafo del artículo 18; las fracciones I, II y XX del artículo 19; las fracciones I, II, III, IV, V, VI, VII y el segundo párrafo del artículo 22; las fracciones II, III, IV, VI y VII del artículo 30; la fracción I y el tercer párrafo del artículo 33; el primer párrafo, las fracciones I, IX y el segundo párrafo del artículo 38; los párrafos segundo y tercero del artículo 43; artículo 45; artículo 47; el segundo párrafo del artículo 55; artículo 57; artículo 64; artículo 66; artículo 69; el primero y tercer párrafos del artículo 71; artículo 72; artículo 73; el segundo y tercer párrafos del artículo 75; artículo 76; el primer párrafo del artículo 77; artículo 79; artículo 80; artículo 83; artículo 95; se adicionan la fracción XV al artículo 4; el segundo párrafo al artículo 15; las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX al artículo 16; las fracciones XXIV y XXV al artículo 19; una fracción IX y un tercer párrafo al artículo 30; y se derogan el tercer párrafo del artículo 18; las fracciones III, IV, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 19; la fracción V del artículo 25 de la Ley de Vivienda, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1394,8 +1386,6 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 Artículo Décimo Noveno.- Se reforman los artículos 6, fracción XI; 8, fracción XIII; 19, fracción VIII; 38, fracción IV; 52 y 87, primer y último párrafo, de la Ley de Vivienda, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1409,8 +1399,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
 
 Artículo Primero.- Se reforman los artículos 19, fracción XXI; 71, primer párrafo; y 78, primer párrafo, de la Ley de Vivienda, para quedar como sigue:
-
-..
 
 ##### Transitorio
 
@@ -1454,29 +1442,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 [Lh²ÀCJh
 
-h	}5CJ
-
-(Wh
-
-(Wh
-
-h	}5CJ
-
-(W5CJ\h	}5CJ\
-
-(Wh
-
 (WCJ\
 
-h
-
 (WCJ\h
-
-(Wh
-
-h	}5CJ
-
-h	}5CJ
 
 hûpÜCJ\
 
@@ -1486,31 +1454,13 @@ h	}5CJhÖ
 
 CJPJh÷"hÖ
 
-h	}5CJ
-
 ÁÁÁ¦ÁÝÁëÁÃ!Ã-ÄèÎÅ¹®¦®ÎèÎÅ¹®¦®ÎèÎÅ¹®¦®ÎèÎ®ÎèÎ~sh÷"hÁ}SCJPJh÷"hÁ}S5CJPJ
 
-h	}5CJ
-
-h	}5CJ
-
-h	}5CJ
-
-h	}5CJ
-
-h	}5CJ
-
 h	}5CJh÷"hßk5CJPJ
-
-+++P,],z--î.ï.ð.Ý/ô/þ/ÿ/0
-
-h	}5CJÛ&K'L'ç'è'l(m(ë*
 
 h	}5CJ06R6S67®7¸7¹7º7Ç7Ü9Ý9;#;-;.;/;<;í=>>>>>2@?@;A<ABBCB&CìæÛÁªÁ¤ÛÛÁªÁvÁªÁ¤o¤cXPXPXhCJPJh÷"hCJPJh÷"h5CJPJ
 
 h	}5CJh÷"hbCJh÷"hb5CJ
-
-h	}5CJ
 
 h	}5CJh	}5CJ\
 
@@ -1519,7 +1469,5 @@ h	}5CJh	}5CJ\
 [LhTØCJh
 
 [LhTØ5CJhTØ5CJ\
-
-hTØCJ\h
 
 [LhTØ5CJ\h

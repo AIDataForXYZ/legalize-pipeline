@@ -1918,8 +1918,6 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 
 Artículo Primero. Se reforman los artículos 1; 2, primer párrafo; 3; 4, en sus párrafos 8, 16, 38 y 99; 6, fracciones LVI, LVIII, LIX y LXIV; 17, primer párrafo y 105, fracción III; se adicionan un tercer y cuarto párrafos al artículo 2, un artículo 106 Bis y un segundo párrafo al artículo 154 de la Ley Federal de Sanidad Animal, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación.
@@ -1958,8 +1956,6 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 
 Artículo Vigésimo Sexto. Se adiciona un segundo párrafo al artículo 141 de la Ley Federal de Sanidad Animal, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1986,17 +1982,11 @@ Ciudad de México, a 3 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de mayo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
-.
-
 hpWÏ5CJ
 
 hü75CJhpWÏ@ÿÿCJaJ
 
-hü75CJ
-
 hpWÏ5CJ
-
-º
 
 ]]f]s]·_Ä_FcSce)effNfRfff§fªfñfóf^gagg±g¿giiâiäijj@jDjÂjÆj.k0k6l9lmmUpbpjqqqwttGwTwx
 
@@ -2004,10 +1994,6 @@ hpWÏ5CJ
 
 @DwzÃÅûþ59Ôâ		2@·Åð
 
-þ
-
 hpWÏ5CJW?@vwÂÃúû45bcÓÔ		12¶·ï
-
-ð
 
 hpWÏ5CJ

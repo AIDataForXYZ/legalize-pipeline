@@ -2366,8 +2366,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTICULO TERCERO.- Se reforma el artículo 28 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2381,8 +2379,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de julio de 2005
 
 ARTÍCULO SEGUNDO.- Se reforman los Artículos 12, 18, 22, 24, 27, 28, 31 Fracciones IV, IX y XII; 33 Fracciones VI, VIII, X, XVIII, XXI, XXII y XXIII y el segundo párrafo; 35 Fracción II, antepenúltimo y último párrafos; 36, 37, 38 párrafos tercero y cuarto; 40, 41 párrafos segundo y cuarto; 42 Fracciones I, II, IV, VI, VII y XI; 43, 44, 46 Fracciones IV, VIII y XII y antepenúltimo párrafo; 47, 49 Fracción III; 50 Fracciones V y VI; 51 Fracciones I, II, V, VII y IX; 53 segundo párrafo; 54 párrafo cuarto; 55 primer y tercer párrafos; 57 Fracción III; 60 segundo párrafo; 62 penúltimo párrafo; 74 primer y tercer párrafos; 78 primer párrafo y Fracción IV; 79 Fracción II; 80, 83, 84 primer y tercer párrafos; 86 primer y segundo párrafos; 87 Fracción III; 90 y 91, asimismo, la denominación del Título Segundo para quedar de la Planeación, Programación y Presupuesto. Se adicionan los Artículos 18 último párrafo, 22 párrafo final; 25 en su último párrafo; 31 Fracción XIII; 33 con los incisos A, B y C a la Fracción XXIII y XXIV; 38 con un octavo párrafo; 42 Fracción XII; 46 con dos párrafos finales; Fracciones X y XI al Artículo 51; penúltimo párrafo al Artículo 54; un segundo párrafo a la Fracción II del Artículo 62; una Fracción V y un penúltimo párrafo al Artículo 78 y una Fracción IV al Artículo 87, todos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -2400,8 +2396,6 @@ LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
 ARTÍCULO SEXTO.- Se REFORMAN los artículos 33, párrafo segundo, y 45, párrafo tercero, y se ADICIONA el artículo 36, con un párrafo tercero, pasando los actuales párrafos tercero a quinto a ser párrafos cuarto a sexto, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2418,15 +2412,11 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
 
 ARTÍCULO TERCERO. Se adiciona un párrafo tercero al artículo 1 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y se recorren los restantes párrafos en su orden para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se abrogan o derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
-
-.
 
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas."
 
@@ -2437,8 +2427,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009
 
 Artículo Segundo.- Se reforman los artículos 1 en sus párrafos primero, segundo, sexto y séptimo y en las fracciones II y VI; 2 en sus fracciones II, VI, VII y VIII; 3 en sus fracciones III, VII y VIII; 8, 9, 12, 13, 15, 16 en su párrafo segundo, 17 en su párrafo primero y en su fracción III; 18, 19 en su párrafo segundo; 22, 23 en su último párrafo; 24, 25, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 en sus párrafos segundo y cuarto; 42 en sus fracciones IV, VI, VII, XI y XII; 43, 44 en sus fracciones I, II, III, V y VII; 45, 46, 47 en sus párrafos primero, segundo, cuarto y sexto; 48, 49 en su fracción III; 50 en sus fracciones I y III; 51 en su párrafo primero y fracciones III, IV, VI y VII; 53 en su párrafo primero; 54 en sus párrafos segundo y cuarto; 56, 57, 58, 59, 60, 61 en las fracciones I y II; 64 en su párrafo segundo; 65, 66 en su párrafo sexto; 74, 75, 76 en su párrafo primero; 77, 78 en sus párrafos primero, segundo y cuarto, y las fracciones II, IV y V; 79 en sus párrafos primero y segundo, y la fracción I; 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90 y 91, asimismo, el Título Tercero denominado "De los Procedimientos de Contratación" que pasa a ser el Título Segundo; el Título Cuarto denominado "De los Contratos" que pasa a ser el Título Tercero; el Título Quinto denominado "De la Administración Directa" que pasa a ser el Título Cuarto; el Título Sexto denominado "De la Información y Verificación" que pasa a ser el Título Quinto; el Título Séptimo denominado "De las Infracciones y Sanciones" que pasa a ser el Título Sexto; el Título Octavo denominado "De las Inconformidades y del Procedimiento de Conciliación" que pasa a ser el Título Séptimo con la denominación "De la Solución de las Controversias" y la denominación de su Capítulo Primero denominado "De las Inconformidades" para quedar "De la Instancia de Inconformidad". Se adicionan los artículos 2 con las fracciones IX, X, XI y XII; 3 con una fracción IX; 16 con los párrafos tercero y cuarto; 27 bis, 39 Bis, 41 con un último párrafo; 42 con las fracciones XIII y XIV y con un último párrafo; 44 con un último párrafo; 45 Bis, 45 Ter, 46 Bis, 47 con un último párrafo, 52 con un párrafo segundo; 53 con un párrafo tercero; 61 con un párrafo tercero; 74 Bis, 78 con una fracción VI; 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104; asimismo, al Título Séptimo un Capítulo Segundo denominado "Del Procedimiento de Conciliación" y un Capítulo Tercero denominado "Del Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial". Se derogan los artículos 3 en su fracción II; 7, 44 en su fracción VI y, 61 en su fracción III; asimismo, las divisiones correspondientes al Título Segundo denominado "De la Planeación, Programación y Presupuesto" y al Capítulo Único, todos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
-
-.
 
 ARTÍCULOS TRANSITORIOS
 
@@ -2492,8 +2480,6 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 2012
 
 Artículo Segundo. Se reforman los artículos 42, último párrafo; 44, último párrafo, y 102, y se adicionan los artículos 19 bis; 40 bis; 52 bis, así como un párrafo segundo a la fracción III del artículo 44, todos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
@@ -2519,8 +2505,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO DÉCIMO SÉPTIMO. Se reforma el artículo 20 de la Ley de Obras Públicas y Servicios relacionados con las Mismas, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -2556,8 +2540,6 @@ Publicado en el Diario Oficial de la Federación el 13 de enero de 2016
 
 Artículo Único.- Se adiciona la fracción XXI al artículo 31, recorriéndose las demás de manera subsecuente, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2571,8 +2553,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Cuadragésimo Séptimo.- Se deroga la fracción III del artículo 1 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -2650,8 +2630,6 @@ Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
 
 Artículo Único.- Se reforman los artículos 1, fracciones II y VI, y el párrafo tercero; 2; 3, fracciones I, III, VII y IX; 4, fracciones III, IV y V; 8; 10; 12; 16, párrafo cuarto; 17; 19, párrafo primero; 21, párrafo primero, fracción V; 22; 23, párrafo cuarto; 24; 25, párrafos primero, fracciones II, III y V, inciso a), y segundo; 27; 27 Bis; 28; 30; 31, fracciones III, IV, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, párrafo primero, XVII, XXII, XXIV, XXVI, XXIX, XXX, XXXI y XXXII, y párrafos segundo y tercero; 32; 33; 34; 35; 36; 37; 38; 39, fracciones III, IV y V, y párrafos cuarto, quinto, sexto y séptimo; 39 Bis; 41; 42, fracciones III, V, VI, XI, párrafo segundo, XIII, XIV, párrafos segundo y tercero, y párrafo segundo; 43, párrafos tercero y cuarto; 44, fracciones I, II, III, párrafo segundo, y V; 45, párrafo segundo, fracciones I, II, párrafo segundo, y III; 46, fracciones V, XV, y párrafos segundo, tercero y cuarto; 47; 48, párrafo segundo; 50, fracciones II, párrafo primero, IV, V y VI, y párrafo segundo; 51, párrafos primero, fracciones I, II, III, IV, VI, párrafo segundo, VII, párrafo segundo, y X, y actual segundo; 52, párrafo primero; 53; 54; 55; 56; 57; 58; 59; 60; 61, fracción II; 65; 73; 74; 74 Bis; 75; 76, párrafo primero; 77; 78, párrafos primero, fracciones I, II, III y V, y segundo y actual cuarto; 79, párrafo segundo; 80; 82; 83; 84; 86, fracción I; 87, párrafo segundo; 89, párrafos tercero, cuarto y quinto; 90; 91, párrafo segundo; 92; 93; 94; 95; 96; 97, párrafo primero, y 99, así como las denominaciones de TÍTULO QUINTO, y del CAPÍTULO TERCERO del TÍTULO SÉPTIMO; se adicionan los artículos 1 Bis; 1 Ter; 1 Quáter; 1 Quinquies; 24 Bis; 25, fracción IV, párrafo segundo; 26 Bis; 31, fracciones XII Bis, XXII Bis, XXIII Bis, XXXII Bis y XXXII Ter; 39, fracción II Bis; 42, fracciones VII Bis y XV; 44 Bis; 45, fracción II, párrafo tercero; 46, fracciones VI, párrafo segundo, XV Bis y XV Ter; 50, fracciones I, párrafo segundo, y VI, recorriéndose la actual fracción VI para ser fracción VII; 51, fracciones II Bis, X Bis, X Ter, párrafos segundo y tercero, recorriéndose el actual párrafo segundo para ser párrafo cuarto; 52 Bis; 52 Ter; 59 Bis; 59 Ter; 61 Bis; 74 Ter; 74 Quáter; 74 Quinquies; 74 Sexies; 74 Septies; 78, fracción IV Bis, y los párrafos tercero y cuarto, recorriéndose los actuales párrafos tercero y cuarto para ser párrafo quinto y sexto; 86, fracción I, segundo párrafo; 87, párrafo tercero; 93 Bis; 93 Ter; 95 Bis, y 97 Bis, así como el CAPÍTULO CUARTO del TÍTULO SÉPTIMO, y se derogan los párrafos cuarto, sexto y séptimo del artículo 1; la fracción VIII del artículo 3; el párrafo segundo del artículo 9; el párrafo tercero del artículo 23; el párrafo tercero del artículo 25; el párrafo octavo del artículo 39; el párrafo segundo del artículo 44, y la fracción IV del artículo 45, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que, para su aplicación, requieran de la operación de la Plataforma Digital de Contrataciones Públicas, que entrarán en vigor de conformidad con el Transitorio Tercero del presente Decreto.
@@ -2690,8 +2668,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Vigésimo.- Se reforman los artículos 13, primer párrafo y 79, último párrafo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -2712,36 +2688,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 página 58     (Primera Sección)	DIARIO OFICIAL	Martes 4 de enero de 2000
 
-.0:;< òæÊ±Ê©©©q^Eq©8hÔo[hÜ
-
-²
-
-²
-
-h.
-
-h.
-
-$ü^`üa$gd.
-
-"h÷
-
 "5B*CJaJphh÷
 
 "hdeÀCJ^JaJh÷
-
-"h÷
-
-2
-
-È
-
-É
-
-2
-
-È
-
-É
-
-ÍÎ

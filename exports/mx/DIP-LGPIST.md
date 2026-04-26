@@ -1012,8 +1012,6 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 Artículo Décimo Segundo.- Se reforman la actual fracción XVIII pasando a ser la fracción VIII y la actual fracción VIII pasando a ser la fracción IX recorriéndose las subsecuentes en su orden hasta la fracción XVIII del artículo 5; la fracción IV y el párrafo tercero del artículo 22; el artículo 23; el párrafo tercero del artículo 33; el párrafo primero del artículo 35; el artículo 42; el párrafo primero del artículo 43; el párrafo primero del artículo 53; la denominación del Título Cuarto; el artículo 55; el artículo 56; el artículo 57; los párrafos primero y segundo del artículo 58; el párrafo único y la fracción IX del artículo 59; las fracciones II y VIII del artículo 60; el párrafo primero del artículo 68; el párrafo primero del artículo 70; la fracción XI del artículo 78; el párrafo primero del artículo 85; el artículo 89; la fracción V, del artículo 92 y el párrafo tercero del artículo 95 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -1090,8 +1088,6 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ARTÍCULO SEXTO. Se reforma la fracción II del artículo 73; y el segundo párrafo del artículo 75 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1106,32 +1102,6 @@ Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-+
-
-,
-
-8
-
-£
-
-¤
-
-+
-
-,
-
-£
-
-¤
-
 88888è8õëâØõëâØõëâØõëâØõëâØõëâØõëâØõëâØõâØõëâØõëâØõëâØõëâØõëâØõëâØõëâÏÃ¸ÃØõâØõâh69×h¨cýCJaJh69×hÞ4u5CJaJh¨cýh¨cýCJh¨cýh¨cý5CJh¨cýhÞ4uCJh¨cýh¶n5CJh¨cýhÞ4u5CJHÅ3Æ35577Ã7Ä7Ó7â7ã7ô78
-
-#
-
-$
-
-(
-
-ïðñòó
 
 õæÙÈõæõæ¹Èõµ±¨hb9häÐCJhO¦h%\h¨DCJaJmHnHu* jh¨cýh¨cýCJUaJ*h¨DCJaJmHnHujh¨cýh¨cýCJUaJh¨cýh¨cýCJaJG0P&P1h/R :p¨cý°Ð/ °à=!°"°#$%°°Å°ÅÄDp

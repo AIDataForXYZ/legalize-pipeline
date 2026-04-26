@@ -500,8 +500,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974
 
 ARTICULO DECIMOSEGUNDO.- Se reforman los artículos 4; 11; 19, fracción II y 54, de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los siguientes términos:
 
-.........
-
 ##### TRANSITORIO
 
 ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
@@ -534,11 +532,7 @@ Publicado en el Diario Oficial de la Federación el 26 de noviembre de 1984
 
 ARTICULO PRIMERO.- Se reforman los artículos 33 y 34 de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para quedar como sigue:
 
-..........
-
 ARTICULO SEGUNDO.- Se adiciona la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos con el artículo 34 Bis, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -568,8 +562,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ARTÍCULO QUINCUAGÉSIMO CUARTO. Se reforman los artículos 14; 18, segundo párrafo; 20 y 34, inciso b) de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -585,8 +577,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 Artículo Único.- Se adiciona un artículo 28 TER a la Ley Federal Sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para quedar como sigue:
-
-.
 
 ##### Transitorio
 
@@ -660,8 +650,6 @@ Publicado en el Diario Oficial de la Federación el 16 de febrero de 2018
 
 Artículo Único.- Se reforman los artículos 2o., segundo párrafo; 3o. fracción II; 5o., segundo párrafo; 5o. TER fracciones I, primer párrafo, IV, V y VII; 14, 20, 34 Bis, primer y segundo párrafos y 46, primer párrafo de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
@@ -684,8 +672,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 
 Artículo Cuadragésimo Quinto.- Se reforma la fracción VII del primer párrafo del artículo 5o. TER de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -703,23 +689,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-k
-
-l
-
-`
-
-j
-
-k
-
-ÆJ$
-
-ÆJa$$
-
-ÆJ!`!a$$
-
-ÆJa$`
-
-Æ$	!`!a$

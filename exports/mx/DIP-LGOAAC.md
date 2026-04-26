@@ -2102,8 +2102,6 @@ Tratándose de sociedades de capital variable, el capital mínimo estará integr
 
 > <small>Artículo reformado DOF 26-12-1986. Fe de erratas DOF 19-03-1987. Reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 17-11-1995,</small>
 
-03-08-2011, 10-01-2014
-
 ###### Artículo 83.-
 
 Las solicitudes de autorización para operar casas de cambio deberán acompañarse de lo siguiente:
@@ -3540,8 +3538,6 @@ Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993
 
 ARTICULO TERCERO.- Se REFORMA el artículo 8, fracción III, numeral 1, segundo párrafo; se ADICIONA un Capítulo III Bis-1, denominado "De las Filiales de Instituciones Financieras del Exterior", que comprende los artículos 45 Bis 1 a 45 Bis 14, al Título Segundo, y se DEROGA el cuarto párrafo, del numeral 1, de la fracción III, del artículo 8, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
@@ -3590,8 +3586,6 @@ Publicado en el Diario Oficial de la Federación el 17 de noviembre de 1995
 
 ARTICULO TERCERO.- Se REFORMAN los artículos 8o., fracción I, cuarto párrafo, y fracción III, numeral 1; 45-Bis-7; 45-Bis-8, primer párrafo; 45-Bis-9, fracción I; 45-Bis-11 y 45-Bis-13, se ADICIONAN un numeral 6 a la fracción IV del artículo 8o.; un último párrafo al artículo 45-Bis-9 y un último párrafo al artículo 95, y se DEROGA la fracción III del artículo 82, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3622,8 +3616,6 @@ Publicado en el Diario Oficial de la Federación el 30 de abril de 1996
 
 ARTICULO CUARTO.- Se REFORMAN los artículos 11, primer y cuarto párrafos, fracciones I, IV, V y VII; 12; 15, segundo párrafo de la fracción I, y fracción II; 20 y 22, fracción V último párrafo, y se ADICIONAN el artículo 11, con un segundo y séptimo párrafos, recorriéndose en su orden los actuales segundo a quinto, y pasando los actuales sexto y séptimo a ser octavo y noveno, respectivamente, así como las fracciones IX, X y XI, y un artículo 37-C, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3639,8 +3631,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 7 de mayo de 1997
 
 ARTICULO 3o.- Se reforma el párrafo tercero y se adiciona con los párrafos cuarto, quinto y sexto, al artículo 95 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3694,8 +3684,6 @@ Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999
 
 ARTICULO SEGUNDO.- Se reforman los artículos 95, párrafos primero y segundo; 97, párrafo primero y fracciones I, II y III; 98, párrafo primero y fracciones I a la V; 99, y 101; se adicionan un párrafo tercero, recorriéndose los demás en su orden, al artículo 95; la fracción IV al artículo 97; los párrafos segundo, tercero, cuarto y quinto al artículo 98; y los artículos 99 Bis; 101 Bis; 101 Bis 1, y 101 Bis 2, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3711,8 +3699,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2000
 
 ARTÍCULO ÚNICO.- Se reforma la fracción IV y se adiciona una fracción V al Artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -3752,8 +3738,6 @@ Publicada en el Diario Oficial de la Federación el 29 de diciembre de 2000
 
 ARTICULO SEGUNDO.- Se adiciona el primer párrafo del artículo 51-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 UNICO.- La adición al artículo 51-B de la Ley mencionada en el artículo anterior entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3767,8 +3751,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de junio de 2001
 
 ARTICULO ÚNICO.- Se REFORMAN los artículos 81, primer párrafo, 81-A fracciones I a IV y segundo párrafo, y 95, cuarto, quinto, sexto y séptimo párrafo, el cual pasa a ser octavo; se ADICIONAN los artículos 5 Bis 1, 5 Bis 2, 5 Bis 3 y 5 Bis 4, así como el artículo 95 con un séptimo párrafo; y, se DEROGA la fracción V del artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3785,8 +3767,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2001
 
 ARTÍCULO SEGUNDO.- Se REFORMAN los artículos 5o., párrafos primero, tercero y quinto; 7o., párrafo primero; 8o., párrafo primero; 40, último párrafo; 45 Bis-3, párrafo primero; 51; 53 párrafo sexto, y se DEROGAN la fracción III del artículo 3o.; el párrafo segundo del artículo 6o.; los artículos 38-A a 38-Q; la fracción VII del artículo 40; el párrafo segundo del artículo 78, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -3854,8 +3834,6 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2003
 
 ARTÍCULO SÉPTIMO.- Se reforman los artículos 33 y 48 primer párrafo, y se adicionan un segundo y tercer párrafos del artículo 48, todos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ARTÍCULO TRANSITORIO
 
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -3872,8 +3850,6 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2004
 
 ARTÍCULO OCTAVO.- Se REFORMA el artículo 95, párrafos cuarto al séptimo, se ADICIONA dicho artículo 95 con los párrafos octavo al décimo tercero, y el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -3887,8 +3863,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2006
 
 ARTÍCULO SEGUNDO.- Se REFORMAN el artículo 4o., los párrafos primero, tercero y quinto del artículo 5o.; el primer párrafo del artículo 7o.; la fracción I y el párrafo segundo de la fracción III del artículo 8o.; la fracción XVI del artículo 40; el primer párrafo del artículo 45 Bis 3; el artículo 47; el primer y tercer párrafos del artículo 48; el primero, segundo, tercero y cuarto párrafos y la fracción III del artículo 48-A; el artículo 48-B; el primer párrafo del artículo 78; el primer párrafo, cuarto párrafo y sus incisos b. a d., quinto, sexto, octavo, décimo y décimo segundo párrafos del artículo 95 Bis; el artículo 96; las fracciones II a IV del artículo 97; las fracciones I, II en sus incisos a), c) y e), III y IV del artículo 98, y el artículo 99, así como la identificación del Capítulo Único del Título Quinto; se ADICIONA el Capítulo II al Título Quinto con los artículos 87-B a 87-Ñ, y las fracciones XIII bis, XIII bis 1 y XIII bis 2 al artículo 89 y se DEROGAN las fracciones II y V del artículo 3o.; el Capítulo II del Título Segundo con sus artículos del 24 al 38; el Capítulo III Bis del Título Segundo con sus artículos 45-A al 45-T, el segundo párrafo del artículo 48, todos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -4034,8 +4008,6 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
 
 ARTICULO DECIMO PRIMERO.- Se reforman los Artículos 95, fracción I, y 95 Bis, fracción I, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4106,8 +4078,6 @@ Publicado en el Diario Oficial de la Federación el 3 de agosto de 2011
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 4o.; 7o.; 56; 57; 64; 81; 81-A; 82, primer párrafo; 86; 87-B, párrafo cuarto; 88, último párrafo; 95 Bis y 101; se ADICIONAN los artículos 81-A Bis; 81-B; 81-C; 81-D; 87-B con un quinto párrafo, y se DEROGA el último párrafo de la fracción I del artículo 82, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4157,8 +4127,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ARTÍCULO VIGÉSIMO OCTAVO.- Se REFORMAN los artículos 5o párrafo segundo; 6o párrafo primero; 7o párrafos primero y segundo; 8o; 9o; 10; 11; 12; 13; 14 párrafo primero; 15 fracciones I en sus párrafos primero y último, II y III; 16; 16-A; 17; 18 párrafo primero; 20; 21; 22; 22-A pasando a ser el artículo 22 Bis; 45 Bis 2 párrafo primero; 45 Bis 7 párrafo segundo; 45 Bis 11 párrafo primero; 45 Bis 12; 45 Bis 13; 45 Bis 14; 48-B; 51; 51-A; 51-B; 52 párrafos primero y segundo; 53; 54 párrafo primero, las fracciones IV y V del párrafo segundo y los párrafos tercero y último; 55; 56 párrafo primero; 57 párrafos segundo y sexto; 57-A; 58 párrafo primero; 60 párrafos primero y último; 62; 63; 65; 65-A; 65-B; 67; 68; 69; 70 párrafo primero; 71; 72 párrafo segundo; 74; 76; 77; 78; 79; 81-A Bis párrafos primero y segundo; 81-B; 81-D; 82; 87; 87-B; 87-C; 87-D; 87-I; 87-J; 87-K; 87-N; 88; 89; 90; 91 párrafo primero; 95; 95 Bis; 97; 100 párrafo primero y la fracción II; 101 Bis1; se ADICIONAN los artículos 8o Bis; 8o Bis 1; 8o Bis 2; 8o Bis 3; 11 Bis; 11 Bis 1; 11 Bis 2; 12 Bis; 12 Bis 1; 22 Bis 1 al 22 Bis 11; 45 Bis 15 al 45 Bis 17; 86 Bis actualmente derogado; 87-A Bis; 87-B Bis; 87-C Bis; 87-C Bis 1; 87-O; 87-P; 88 Bis al 88 Bis 4; 89 Bis al 89 Bis 3; 91 Bis; 92 actualmente derogado; 92 Bis; 92 Bis 1; 94 Bis; el Capítulo I Bis intitulado De los programas de autocorrección al Título Sexto con sus artículos 94 Bis 1 al 94 Bis 4; 95 Bis 1; 97 Bis; 97 Bis 1; 100 con la fracción III; el Capítulo III intitulado De las Notificaciones al Título Sexto con sus artículos 101 Bis 3 al 101 Bis 15; y se DEROGAN los artículos 45 Bis-9 en sus fracciones III y IV y el párrafo último; 69-A y 75; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-.
 
 Disposiciones Transitorias
 
@@ -4220,8 +4188,6 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 Artículo Sexto.- Se reforman los artículos 78, actual párrafo segundo; y 87, actual párrafo segundo; y se adiciona el artículo 78, con los párrafos segundo, tercero, cuarto y quinto, recorriéndose los subsecuentes; y 87, con los párrafos segundo, tercero, cuarto y quinto, recorriéndose los subsecuentes; 87-D, con un párrafo décimo, recorriéndose el subsecuente; y 88 Bis, con los párrafos segundo y tercero, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -4241,8 +4207,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024
 
 Artículo Segundo.- Se reforman los artículos 11 Bis, párrafos primero, actuales segundo, quinto, séptimo y octavo; 15, fracción II; 17, párrafos primero, cuarto, noveno y décimo primero; 20; 21; 22, párrafos primero, actuales segundo, fracciones I y IV, tercero y cuarto; 22 Bis 1; 22 Bis 6, párrafos primero, fracciones I y II, segundo y tercero; 22 Bis 7; 22 Bis 8, párrafo primero, fracciones III, V, VI y VIII; y 22 Bis 9, párrafo primero, fracción II; y se adicionan los artículos 11 Bis, con los párrafos segundo, tercero y cuarto, recorriéndose los subsecuentes; 22, con los párrafos segundo, recorriendo los subsecuentes, quinto y séptimo; 22 Bis 6, párrafo primero, con las fracciones IV y V; y 22 Bis 12; y se deroga el artículo 11 Bis, actuales párrafos tercero y sexto, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -4286,43 +4250,11 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
-e
-
 SSS4T5T6T9T6V7V8V;V`VaVdV­V®V¯V²VTWUWVWYWXXXX¡Z¢Z£Z÷ñèÞ÷ñèÞ÷ñèÞ÷Ø÷ñè÷Ò÷ñè÷Ø÷ñè÷Ø÷Ø÷ñèÞ÷ñè÷ñèÞ÷ñèÞ÷ñèÞ÷ñèÞ÷ñèÞ÷ñèÞ÷ËÞ÷ñèÞ÷ñèÞ÷ñèÞ÷ñè
-
-h
-
-h
-
-@5CJ
-
-h
-
-ê
 
 eeee,eDePeYe]egeheieyeeeªe³e·eÁeÂeÃeÓeàeøef
 
-hÐ
-
-hÐ
-
 ì%ì/ì0ì1ì?ìUíVíWíZí¡î¢î¦îYïZï[ï`ïKðLðMðQðåÎå´´~påÎåf]W]f]Pf]W]f]W]f
-
-ïÞÐ¶¶Ð
-
-Ì
-
-Í
-
-Ù
-
-Á
-
-Ë
-
-Ì
-
-Í
 
 &!&(( (R*j*t*u*v**H+I+ô+õ+ö+ù+ª.«.¯.³/´/åÎ»¤åztkååaWkQkQkWkJWkQ
 
@@ -4332,24 +4264,8 @@ MrMsMÛMÜMûMüM
 
 TTT$T%T&T)TITJTKTNThTiTjTmT¸W÷íäÞ÷íäÞ÷íä×íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íä×íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íäÞ÷íä
 
-ë
-
-ì
-
-ð
-
-ì
-
-ë
-
-ê
-
 ¢n¢o¢v¤~¤Ö¤¥1¥9¥S¥T¥j¥òã×Ì×ÌÄ¶ªzpgpgagpgagpgWgapPp
 
 {CJhð
 
-{hð
-
 {CJaJ
-
-hð

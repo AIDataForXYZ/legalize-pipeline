@@ -7380,21 +7380,9 @@ I.	Por la recepción, evaluación y, en su caso, el otorgamiento de la resoluci�
 
 II.	Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación de impacto ambiental, en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-a).		 $48,338.98
-
-b).		 $96,680.23
-
-c).		 $145,021.50
-
 > <small>Fracción con incisos reformada DOF 27-12-2006</small>
 
 III.	Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación del impacto ambiental, en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
-
-a).		 $63,258.58
-
-b).		 $126,514.87
-
-c).		 $189,771.14
 
 > <small>Fracción con incisos reformada DOF 27-12-2006</small>
 
@@ -10794,8 +10782,6 @@ III.	Calculando la cantidad de agua que el contribuyente pudo obtener durante el
 
 VAEE= 368.073413 X EF X e
 
-Ha
-
 Donde:
 
 VAEE: Volumen de Agua Estimado Extraído (en metros cúbicos)
@@ -13624,8 +13610,6 @@ DERECHOS
 
 ARTICULO SEPTIMO.- Se REFORMAN, los artículos 1o., en sus párrafos segundo y tercero; 5o., en sus fracciones II y IV; 6o., en sus párrafos primero, segundo y tercero; 7o., en su párrafo primero, en sus fracciones I, VI y XVII; 8o.; 9o.; 12; 13; 14; 22, en el inciso e) de la fracción III y en el inciso d) de la fracción IV; 38; 40; 41, en sus fracciones I y II; 42, en su fracción III; 44, en su primer párrafo; 45, en su fracción V; 49; 51; 53, en la fracción VIII inciso a) y en el segundo párrafo de dicho inciso; el CAPITULO VI en su SECCION UNICA cambia su denominación para decir "Padrón de Contratistas y de Proveedores del Gobierno Federal", que comprende el artículo 54 que se reforma; la SECCION SEGUNDA del CAPITULO V, pasa a ser SECCION PRIMERA del CAPITULO VI, denominada "Padrón Nacional de Actividades Salineras", que comprende el artículo 62; la SECCION PRIMERA del CAPITULO VI, pasa a ser SECCION SEGUNDA del mismo Capítulo denominada "Invenciones y Marcas", comprendiendo los artículos 63 al 70- A; 63, párrafo primero, fracciones II y IV; 64, párrafo primero, fracciones II y IV, 65, párrafo primero y fracción II; 66, párrafo primero, incisos b) y c) de la fracción III y último párrafo; 67, párrafo primero; 68, párrafo primero; 69, párrafo primero; 70 párrafo primero y fracción IV; 70-A, párrafo primero; CAPITULO VI, en su SECCION SEGUNDA pasa a ser SECCION TERCERA de dicho Capítulo, denominado "Inversiones Extranjeras y Transferencia de Tecnología", que comprende los artículos 71 al 73; 71, párrafo primero; 72, 73; la SECCION TERCERA del CAPITULO VI pasa a ser SECCION CUARTA, denominada "Normas Oficiales y Control de Calidad", que comprende los artículos 73-A, 73-B y 73-C; mismos que se reforman; la SECCION CUARTA pasa a ser SECCION QUINTA denominada "Permisos de Importación", conteniendo los artículos 74, 75 y 76, mismos que se reforman; la SECCION QUINTA del CAPITULO VI pasa a ser SECCION VI, titulada "Servicios Relativos a la Regulación de Precios", que comprende el artículo 77, mismo que se reforma en su primer párrafo; la SECCION SEXTA del CAPITULO VI pasa a ser SECCION SEPTIMA, denominada "Sistemas de Comercialización y Promociones Comerciales", reformándose su artículo 78; la SECCION SEPTIMA del CAPITULO VI pasa a ser SECCION OCTAVA denominada "Verificación de Instrumentos de Medir", que comprende los artículos 79 al 81, reformándose su artículo 79; 88, incisos a) en su párrafo primero y b) de la fracción I del apartado A; 89; la SECCION PRIMERA del CAPITULO VIII del TITULO I denominada "Servicios de Telecomunicaciones", en todos sus artículos del 91 al 115; 116 fracción I; 118, incisos a) y b) de la fracción II; 119, fracciones I y II; 120, párrafo primero, fracción I y los incisos a), c) y d), de la fracción III; 121, fracción I, inciso c), e), f) y subinciso 6 del propio inciso f) de la fracción III; 122, fracción I e inciso c) de la fracción III; 123, fracción I y los incisos a), b) y c) de la fracción III; 124, subincisos I de los incisos a), b) y c) de la fracción I y subincisos I de los incisos a), b) y c) de la fracción II; 125, subincisos I de los incisos a), b) y c) de la fracción I, fracciones II y III en su primer párrafo; 126, fracción I, incisos a) y b) y fracción II incisos a) y b); 127, incisos b) de las fracciones I, II, III y IV, fracciones III y IV en sus primeros párrafos; 128, fracción VI; 129, fracción I y sus incisos a) y b) e incisos a) y b) de la fracción II; 130, 131, incisos b) de las fracciones I y II; 132, inciso b) de la fracción I, subinciso 6 del inciso c) de la fracción I, subinciso 4 del inciso b) de la fracción II y párrafo primero de la fracción III; 134, párrafo primero y fracción I; 137, fracción II; 140; 142; 143; 144, fracciones I, II, III, V, VII, X, XIV, XV, Y XVII e incisos a) y b) de la fracción IX y c) de la fracción XVI; 145, fracciones I y III del apartado A, fracciones I y II del apartado B y fracciones I, II, III, IV, V, VI, VII, VIII, IX y X del apartado C; 147, segundo, tercero y último párrafos; 148, incisos e) y f) de la fracción III del apartado A; 151, penúltimo párrafo de la fracción V del apartado A y apartado C; 153, párrafo primero de la fracción II; 159, fracción I, inciso a) de la fracción VII en su primer párrafo y fracción XII; 161; 162, fracción III del apartado A y fracciones VIII y IX del apartado C; 165, inciso e) de la fracción I, inciso e) de la fracción II e incisos d), e), f) y g) de la fracción IV y VI: 170 fracción II; 174-A en sus fracciones I y II; 184, párrafo primero, fracciones I, II, III, IV, X, XIV, XV y último párrafo; 186, fracciones XVI, XVII, XVIII, XIX y XX; 187, párrafo primero; 188, inciso d) de la fracción I y fracción III; el CAPITULO XII del TITULO I, cambia su denominación para decir "De la Secretaría de la Contraloría General de la Federación", con una SECCION UNICA titulada "Inspección y Vigilancia", comprendiendo el artículo 191 que se reforma; 192; 193; 194; 197; 198; 199, párrafo primero; cambia la denominación del CAPITULO III del TITULO II para decir "Puerto y Atraque", que comprende los artículos 200 al 204; 202; 203, párrafos primero y último; 204; el CAPITULO IV del TITULO II cambia su denominación para decir "Muelle y Desembarque", que comprende los artículos del 205 al 209; 205; 208, párrafo primero; 209, párrafo primero; 210; 215, inciso 7; 219, párrafo primero y en su fracción II; 227, inciso a) de la fracción II; 234; 238, en todas sus fracciones; 239, segundo párrafo; 240, párrafos primero y segundo; 241, párrafos primero y segundo; 242; 243; 244; 245; 246; 248, en su primer párrafo y en la columna izquierda de la tabla para decir "Número de Equipos" y último párrafo de la tabla; 253, en su fracción II y último párrafo; 254; 255, fracción I; 258, fracción I; 259; 263, párrafos primero y penúltimo y 266, párrafos primero. Se ADICIONAN, los artículos 3o., con tres párrafos finales; 5o., con una fracción VI; 7o., con un párrafo final; el CAPITULO I del TITULO I con una SECCION TERCERA denominada "Publicaciones", que comprende los artículos 19-A y 19-B mismos que se adicionan; 22 con un inciso t) en la fracción III; 50-A; 50-B; 53, con un segundo párrafo en el inciso a) de la fracción II; el CAPITULO III DEL TITULO I, con una SECCION QUINTA denominada "Acuñación de Moneda", que comprende el artículo 53-A; 67, fracción VI; 71 último párrafo; 79-A; 79-B; a la SECCION PRIMERA del CAPITULO VIII del TITULO I, denominada "Servicios de Telecomunicaciones", 103-A; 115-A; 115-B; 115-C; 115-D; 115-E; 115-F; 115-G, 115-H; 115-J; 121, subinciso 7 del inciso f) e inciso g) de la fracción III; 122 con un inciso d) a la fracción III; 124-A; 126, inciso h) de la fracción I, e incisos h) e i) de la fracción II; 127, fracción VI y último párrafo; 128-A; 129, inciso e) de la fracción II; 131, inciso c) de la fracción I; 132, subinciso 7 del inciso c), inciso e) de la fracción I e inciso d) de la fracción II; 134, fracciones III y IV; 144, fracción XVIII; 145; fracción XI del apartado C; 148, inciso d) de la fracción I del apartado D, incisos a) y b) de la fracción IV y fracción IX del apartado E; 151, último párrafo de la fracción I del apartado D; 153, último párrafo; 154, último párrafo; 159, incisos t) y u) de la fracción II; 162, incisos del a) al g) de la fracción I y último párrafo de la fracción V del apartado A, fracción X del apartado C y último párrafo de apartado D; 165, incisos f) y g) de la fracción I, f) y g) de la fracción II, inciso d) de la fracción III e incisos h), i), j) y k) de la fracción IV, incisos a), b), c), d) y e) de la fracción VI y la fracción VII; SECCION NOVENA del CAPITULO VIII del TITULO I, denominada "Otros Servicios", que comprende los artículos 172-A y 172-B; 176-A; 186, fracciones XXI, XXII, XXIII, XXIV, XXV y XXVI SECCION TERCERA del CAPITULO XI del TITULO I, denominada "Otros Servicios", que comprende los artículos 190 y 190-A: el CAPITULO XIII del TITULO I, denominado "De la Secretaría de Pesca", que contiene la SECCION PRIMERA llamada "Permisos de Excepción para Pesca", SECCION SEGUNDA titulada "Permisos para Pesca Deportiva" y SECCION TERCERA denominada "Otros Servicios", comprendiendo dicho Capítulo del artículo 192 al 195; 199 último párrafo; 206, último párrafo; 212, segundo párrafo; 215, último párrafo; 232 fracciones III y IV; 238-A; 239, último párrafo: 242-A; 242-B; 242-C; 243-A; 243-B; 243-C; 243-D; 245-A y se DEROGAN los artículos 7o., fracción XIX; 22 en el inciso b) de la fracción IV; 23 fracción I; 63, último párrafo; 73-E; 116 fracción II; 117; 118 inciso c) y último párrafo de la fracción II; 119, fracciones III, IV, V y VI; 127, último párrafo de la fracción V; 128, fracciones II, V y VII; 135, fracción III; 145, fracción II del apartado A y último párrafo del propio artículo ; 153, inciso b) de la fracción II; 156; 196, incisos c) y d) de la fracción I; 207; 216, fracción I; 260 y 261, de y a la propia Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 DISPOSICIONES DE VIGENCIA ANUAL
 
 "ARTICULO DECIMO NOVENO.- Los servicios a que se refiere el artículo 3o., quinto párrafo, de la Ley Federal de Derechos son:
@@ -13744,8 +13728,6 @@ Ley Federal de Derechos
 
 ARTICULO VIGESIMO.- Se REFORMAN, los artículos 1o. tercer párrafo; 4o. tercer párrafo; 26; 40; 49 tercer párrafo; 50; el Capítulo III en su Sección Quinta cambia su denominación para decir "Acuñación de Moneda Metálica y Desmonetización de Billetes" que comprende los artículos 53-A y 53-B; 71 fracciones IV y V, 2; 89; 91 inciso b) de la fracción I, fracciones II, III, IV y último párrafo; 92 incisos a) y b) de la fracción I, inciso b) de la fracción II y la fracción II, 93; 94 primer párrafo, apartado A, las fracciones I y II del apartado B, y los párrafos segundo y tercero del apartado C; 95 el párrafo segundo de las fracciones I y II; 96 inciso c) de la fracción I, primer párrafo e inciso c) de la fracción II y último párrafo del artículo; 97 inciso b) de la fracción I; 100 fracción I; 101; 102 primer párrafo y la fracción II del apartado A; 103 primer párrafo, inciso c) de la fracción I y la fracción II del apartado A; 103-A en su primer párrafo; 104 fracciones I y II; 105; 107; 108 fracciones I, II y el párrafo siguiente a la fracción II; 109 primer párrafo y fracciones I y II; 110 inciso a) de la fracción IV; 111; 112 primer párrafo, incisos b) y c) de la fracción I, primer párrafo de la fracción II y el inciso a) de la fracción III; 113; 115-A incisos a) y b) de las fracciones I, II y III, primer párrafo de la fracción IV, inciso a), párrafos primero y segundo del inciso b) de dicha fracción y el encabezado de la última tabla de dicho artículo; 115-B; 115-D; 116 segundo párrafo de la fracción VI; 128-A fracción I; 138 fracciones de la I a la XIII; 142 fracciones III del apartado A; 144 incisos a) y b) de la fracción III, fracciones VII, VIII, XI, y los incisos a) y b) de la fracción XVI; 145 fracción I del apartado C; 147 cuarto párrafo; 148 fracción I del apartado B; 153 último párrafo; 154 fracciones I de los apartados A, B y C; 157; 159 primer párrafo de la fracción II, Fracción V en su Primer Párrafo y en sus incisos a), e), f), g) y h); 162 fracción I del apartado A; 165 subincisos 1, 2 y 3 del inciso d) de la fracción III y primer párrafo de la fracción V; 167; 169 primer párrafo, párrafo inicial e inciso j) de la fracción I; 174-A primer párrafo y el inciso j) de la fracción II; 176-A primer párrafo y párrafo inicial de la fracción III; 180 primer párrafo; 190-A primer párrafo, 194 fracción V; 199 primer párrafo; 202 primer párrafo; 205 primer párrafo; 206 primer párrafo; 213 fracción XVII; 214 fracción XXXII en su denominación; 219 primer párrafo; 238 en su primer párrafo, fracción XIII y penúltimo párrafo y 274 de la Ley Federal de Derechos, se ADICIONAN los artículos 4o. con los párrafos noveno y décimo, pasando el actual párrafo noveno a ser decimoprimero; 5o. con un párrafo final; 6o. con una fracción IV; 21; 25 con una fracción IX, pasando la actual fracción IX a ser fracción X, 32 con un inciso ñ) en la fracción I; 38 con un segundo párrafo; 53-B; 71 con una fracción VII, 74 con un último párrafo; 87 con un párrafo final; 99 con un último párrafo; 108 con un párrafo final; 112 con los incisos d) y e) a la fracción I; 115-J; 119 con una fracción III; 138 con un último párrafo; 145 fracción I apartado C, con un segundo párrafo; 148 con un subinciso 4 el inciso b) de la fracción I del apartado B y con una fracción X del apartado E; 159 con un apartado A después del párrafo inicial de la fracción II que comprenderá los incisos de la letra a) a la u) vigentes, con un apartado B a la misma fracción, con un inciso e) a la fracción VII, con una fracción XV y un párrafo final; 162 con una fracción VI a los apartados A y D; 169 con una fracción VI; 171-A; 174-A con los incisos k) y l) en su fracción II; 175 con dos párrafos finales; 176 A con un párrafo final; 190-A con un último párrafo; 193 con un último párrafo con en la fracción I y un inciso c) a la fracción II; 200 con un segundo párrafo; 213 con una fracción XLIII; 214 con las clases 9 y 10 a la fracción XXIV y con la clase 10 a la fracción XXXII y con una fracción XXXIV; 215 con el numeral 10; 217 con un último párrafo; 220 con un segundo párrafo; 230 con un párrafo segundo y 262 con un último párrafo y se DEROGAN los artículos 50-A; 50-B; 55; 87 último párrafo de la fracción I; 88 incisos b) de la fracción I; 88 inciso b) de las fracciones I y II del apartado A; 94 primer párrafo del apartado C; 99 inciso c) de la fracción I; 100 fracción II; 102 inciso c) de la fracción I y fracción III del apartado A; 103 inciso d) de la fracción I del apartado A; 106; 109 fracciones III y IV; 115-F; 115-G; 144 fracción XIII; 169 fracción II; 187 fracciones IX y XI; 193 fracción III; 205 último párrafos; 216 de y a la propia Ley, para quedar como sigue:
 
-..........
-
 Disposiciones Transitorias
 
 ARTICULO VIGESIMO PRIMERO.- Para los efectos de los artículos de la Ley Federal de Derechos que se reforman y adicionan conforme a lo dispuesto por el artículo anterior, se estará a las disposiciones transitorias siguientes:
@@ -13859,8 +13841,6 @@ CAPITULO IX
 Derechos
 
 ARTICULO VIGESIMO PRIMERO.- SE REFORMAN los artículos 4o., penúltimo párrafo; 6o., primer párrafo de la fracción III y fracción IV; 25, fracciones IV, V, VI, y VIII; 29; 32 primer párrafo y los incisos a), c), d), f), j), l), n) y ñ) de la fracción I; 88, primer párrafo del apartado B; 96, segundo párrafo de la fracción I; 98, primer párrafo y fracciones I y II; 99, incisos b) y c) de la fracción III y el inciso b) de la fracción IV; 100; 104, segundo párrafo de la fracción I y tracción II; 105; 107; 108; 110, fracción IV; lil, último párrafo; 120; 126, incisos b), c), d), e), f), g) y h) de la fracción I y los incisos b), c), d), e), f), g), h) e i) de la fracción II y su último párrafo: 128-A; 129; 131; 134; 142 en la tabla del apartado C; 143, fracción III del apartado A; 144, fracciones IV, VII y XVIII; 145, fracciones l, II y III del Apartado B y las fracciones II y III del Apartado C; 151, I párrafo del apartado D y la fracción IV de dicho apartado; 161; 174-A, I párrafo de la fracción II; 184, fracción IV; 193, incisos a) y b) de la fracción I; 197; 208, primer párrafo; 212, segundo párrafo; 213 fracciones X y XXXVI; 214 en la denominación de la fracción XXIII; 220; 222; 223; 224;  225; 226; 227; 228; 229; 230; 231; 236, segundo párrafo; 238, fracciones IX y XIII; 238-A, primer párrafo; 239, tercer párrafo; 241, último párrafo; 245, segundo párrafo, y 262, último párrafo, de la Ley Federal de Derechos; se ADICIONAN los artículos 1o. con un penúltimo párrafo; 4o. con dos párrafos finales; 5o. con un párrafo final; 6o. con un párrafo final; el Capítulo I del Título I con una Sección Cuarta denominada Servicios de Cinematografía que comprende los artículos l9-C y l9-D: 24 con un párrafo final; 29-A; 42 con un último párrafo; 43 con tres párrafos finales; 49 con un párrafo final; 50-A; 53-A con dos párrafos finales; el Capítulo III, con una Sección Sexta denominada "Máquinas Registradoras de Comprobación Fiscal" que comprende el artículo 53-C; el Capítulo VII del Título I con una Sección Primera denominada "Servicios de Agua" que comprende los artículos 82, 83, 83-A, 83-B y 83-C, la Sección Primera pasa a ser Sección Segunda que se denomina "Sanidad Fitopecuaria" que comprende del artículo 84 al 86; la Sección Segunda pasa a ser Sección Tercera y se denomina "Servicios Técnicos Forestales" que comprende del artículo 87 al 90; 88 con un párrafo final; 91 con los incisos c) y d) a la fracción I: 94 con un primer párrafo en su apartado C y con un párrafo final a dicho artículo; 99 con los incisos d), e) y f) a la fracción III y con una fracción V; 100-A; 104 con una fracción III; 106; 109 con una tracción III; 110 con una fracción V; 111, con un párrafo final; 115-K; 115-L; 115-M; 117; 120-A; 129-A; 133-A; 133-B; 133-C; 141-A; 144 con una fracción XIX; 147-A; 151 con un párrafo final a la fracción IV del Apartado A y con un párrafo final a la fracción I del Apartado D; 152 con un segundo párrafo pasando el actual segundo párrafo a ser tercero; 153 con una fracción IV; 170 con un párrafo final a la fracción I del Apartado A; 173 con un párrafo final; 173-A; 174-A con un inciso m) a la fracción II y con un párrafo final; 188 con un párrafo final; 193 con un inciso c) a la fracción I; 197-A; 199 con un segundo párrafo, pasando el segundo y tercero a ser tercero y cuarto; 204-A; 207; 209-A, 212 con un tercer párrafo; 221-A; 237-A; 238 con las fracciones XIV a XIX; 240 con un segundo párrafo, pasando el segundo a ser el último párrafo y 242 con un último párrafo, de la Ley de Referencia; y se DEROGAN los artículos 91, fracción II; 99, inciso d) de la fracción I y los subincisos 4 y 5 del inciso c) de la fracción III y los dos primeros párrafos del inciso c) de la fracción IV, pasando a ser el tercer párrafo el primero de dicho inciso, 101, fracción II; 102, subinciso 6 del inciso b) de la fracción I del Apartado A y el Apartado B; 103, inciso c) de la fracción I del Apartado A y el Apartado B; 113, fracción II; 126, fracción III, 145, Apartado B, fracción III, penúltimo párrafo; 175 en las cuotas mínimas del derecho por el acceso a museos y zonas arqueológicas dependientes del Instituto Nacional de Antropología e Historia, así como el cobro de derechos los domingos y días festivos; 208 último párrafo; las Secciones Primera y Segunda denominadas  "Distritos de Riego" y "Aguas Distintas de las de Distritos de Riego", respectivamente del Capítulo VIII del Título II; 232 penúltimo párrafo; y 240 último párrafo, de y a la propia Ley, para quedar como sigue:
-
-..........
 
 Disposición transitoria
 
@@ -14012,8 +13992,6 @@ Derechos
 
 ARTICULO DECIMO SEXTO.- Se REFORMAN los artículos 4o., penúltimo párrafo; 22, fracción IV, inciso d); 23, fracciones VI y VII; 25, fracciones IX y XX; 26, fracción I; 30, penúltimo párrafo; 32; 33; 34, primer y segundo párrafos; 35; 37; 49, primer párrafo; 61; 66, fracción III, incisos b) y c); 72, fracciones I, V; IX, y X; 83-C; 92, fracción III, primer párrafo; 94; 95; 96; 99, primer párrafo y fracciones I, primer párrafo, II, III; 100; 101; 102, primer párrafo, y apartado C, fracción I; 103, primer párrafo; 103-A; 104; 105; 106; 107; 108; 109; 110; 111; 112; 113, primer párrafo, fracción V, VI y VII; 114; 115-A, fracciones II, incisos a) y b) y IV; 115-B, fracciones II, incisos a) y b) y IV; 115-E, fracciones IV y V; 115-H; 115-K; 115-L; 120, fracción II, incisos b), d), e), f) y g) y los dos párrafos finales; 120-A, fracción II, incisos b), d), e), f) y g) y último párrafo; 121, fracción III, incisos d), e), primer párrafo, f), párrafos primero y segundo; 126, fracciones I, incisos b), c), g) y II, incisos c), g) e i); 127, fracciones II, inciso c), subinciso I, III, incisos a), b), c) y d), subinciso I, IV, primer párrafo e inciso c), IV; 129, primer párrafo, fracciones I, incisos c) y d), II, incisos c) y f); 132 fracciones I, incisos b) y d), II, incisos d), primer párrafo y III, INCISO C); 134, Primer párrafo, fracción II, incisos c) y d); 138, primer, penúltimo y último párrafos; 141; 144, primer párrafo, fracciones IV, VII, X y XII; 145 primer párrafo, apartado C, fracciones IV, VII, incisos a) y b) y XI; la denominación de la Sección Tercera, del Capítulo IX, del Título I; 174-A, fracción I y II, incisos c), d) y j); 174-B, primer párrafo; 2102, primer párrafo; 203, segundo y tercer párrafos; 204-A, primer párrafo; 212, párrafos segundo y tercero; 213; 214; 215; 218; 223, apartado A, segundo párrafo; 232, fracciones I; II; III y IV; 236, primer párrafo; 238, fracción XIII; 238-A, fracciones I, II y III; 245-A, segundo párrafo; 252; 254; y 274 de la Ley Federal de Derechos; Se ADICIONAN los artículos 5o., con una fracción VII; 23, con las fracciones I y VIII; 23-A; 25 con una fracción XI; 31-A; 31-B; 33-A; 50-B; 72 con una fracción XIV; 83, con dos párrafos finales; 102, apartado A; fracción I, inciso c); 112-A; 112-B; 115-B, fracción II, con un inciso c); 115F; 115-N; 116, fracción I, con un inciso c) y II; 120, fracción II, con un inciso h) y una fracción V; 127, con las fracciones VII, VIII y IX, 128-A con una fracción IV; 128-B; 132, fracción I, con los incisos e) y f) y las fracciones IV y V; 133-D; 143-A; 145, con dos párrafos finales; 147, con un último párrafo; 151-A; 170, con un  párrafo final; 173-B; 174-C; 178-A; 178-B; 184 con un último párrafo al Titulo I, con un Capítulo XIV, denominado "De la Secretaría de Salud" que esta integrado con cuatro Secciones, la Primera denominada "Registro Sanitario" que comprende el artículo 195-A, la Segunda denominada "Servicios de Laboratorio" que comprende el artículo 195-B, la Tercera denominada "Fomento y Análisis Sanitario", que comprende los artículos 195-C y 195-D, la Cuarta denominada "Otros Servicios" que comprende los artículos 195-E, 195-F, 195-G, 195-H-1 y 195-J; 202, con una fracción IV, 238, con las fracciones XX y XXI; 245-B; 253-A; y 253-B; de la citada Ley Federal de Derechos; y Se DEROGAN los artículos 22, fracción  V; 29, en sus dos últimos párrafos; 29-A, en sus dos últimos párrafos; 30, último párrafo; 53, fracción III, inciso 1) y m); 92, en sus dos últimos párrafos; 99, fracción IV; 100-A; 102, apartado A, fracción I, en su inciso d) y apartado C, en su fracción IV; 113, fracción IV; 115,  apartado B, fracciones I, inciso a), en el subinciso 3y II, inciso a) en el subinciso 3; 134, fracciones III y IV; 139; 140; 151, apartado D, fracción I; de y a la propia Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 Disposiciones Transitoria
 
 ARTICULO DECIMO SEPTIMO.- Para los efectos de los artículos de la Ley Federal de Derechos que se reforman y adicionan, conforme a lo dispuesto en el artículo anterior, se estará a las disposiciones transitorias siguientes:
@@ -14152,8 +14130,6 @@ Derechos
 
 ARTICULO VIGESIMO QUINTO.- Se REFORMAN los artículos 20, fracción I; 22 24, fracción III; 25, fracción 25, fracción VII; 31-A; 33, fracción II, inciso a), y fracción IV; 33-A, fracción V; 34, penúltimo párrafo; 50, fracción I, inciso a) y b); 54; 72, fracción XIV; 79, primer párrafo; 82, fracción I; 83-C, primero y segundo párrafos; 91, fracción I, inciso a); 92, fracción III; 94, Apartado A, fracción III, primer párrafo, Apartado C, incisos a), b), c) y d), y Apartado D, fracción I; 95, fracciones I y II; 97, fracción II, en sus incisos a), b) y c); 99, fracción I, inciso b), subincisos 4 y 5; 101, fracción I, inciso b), subincisos 4 y 5; 102, Apartado A, fracción I, inciso b), subinciso 4; 103, Apartado C; 103-A, primer párrafo; 104, fracciones I, II, IV y V; 105, fracciones I, II y III, en sus incisos a), en los encabezados de las columnas; 106, fracción III, inciso c); 107, fracción I, primer párrafo, fracción II, inciso a), en los subincisos del 1 al 12, la tabla contenida en la fracción III y el último párrafo; 109, Apartado A, fracción I, incisos a), b), c), d) y e), y Apartado B, fracción I, incisos a), b), c), d), e) y f); 111, fracciones I y IV; 112, fracción I, inciso a); 112-A, fracción IV, inciso b); 114, primer párrafo; 115, Apartado A, fracción II, inciso a), subincisos 1 y 2 y Apartado B, fracción II, inciso a), subincisos 1 y 2; 115.F; 115-M; 115-N; 116, fracción II; 127, fracción IV, primer párrafo; 138, penúltimo párrafo; 144, fracciones III, IV y X; 145, Apartado C, fracción VII, en sus incisos a) y b); 147, segundo párrafo; 161; 162, Apartado A, fracción I. inciso g); 165, fracción III, primer párrafo; 174-A, fracción II, incisos f) y m) y último párrafo de dicho artículo; 175, penúltimo párrafo; 195-A fracciones IX y XII; 195-F, primer párrafo; 205, primero párrafo; 215, inciso 2; 223 Apartado A, segundo párrafo; 224, fracción II; 230; 233, primero párrafo; 238-A, fracción I; 240, penúltimo párrafo; 241, último párrafo; y 244 de la Ley Federal de Derechos; se ADICIONAN loa artículos 3o., con un último párrafo; 4o., con un antepenúltimo y penúltimo párrafos; 34-A; 41, con un último párrafo; 53-C, con un párrafo final; el Capítulo III, del Título I, con una Sección Séptima, denominada "Otros Servicios" que comprende el artículo 53-D; 79, con una fracción IV; 82, con una fracción IV; 82-A; 83, con un párrafo final; 94, Apartado E, con un último párrafo; 99, con una fracción IV; 100, fracción II, inciso b), con un subinciso 3 y la fracción III, con los incisos c) y d); 101, con las fracciones III y IV; 106, fracción III, con un inciso d) y un último párrafo; 107, con un último párrafo a la fracción III y con una fracción IV; 108 con un penúltimo párrafo; 112, fracción I, inciso b), con un último párrafo; 112-A, fracción I, con un inciso d); 112-B fracción II, con un último párrafo; 116, con las fracciones XI y XII; 138, con un último párrafo; 143-A con una fracción IV; 144-A; 145, Apartado A, con una fracción V, 145-A; 148, Apartado A, fracción III, con un inciso i), Apartado B, con un último párrafo, Apartado E, fracción VI, con un último párrafo u un párrafo final a dicho artículo; 173-A, con una fracción III; 195-A, con las fracciones XIII, XIV, XV, XVI, XVII, XVIII y XIX y con un último párrafo a dicho artículo; 195-E, fracción IX, pasando la actual fracción IX a ser fracción X; 195-F, con una fracción VIII; 195-K; 195-L; 201, con un último párrafo; 202, con un último párrafo; 203, con un último párrafo; 205, con una fracción III y un último párrafo; 206, con un último párrafo; 223, Apartado A, con una fracción I, pasando las actuales fracciones I y II a ser II y III; 232, con una fracción V; 244-A; de la citada Ley Federal de Derechos; y se DEROGAN los artículos 46, último párrafo; 61; 95, fracción III; 99, fracción I, inciso b), en el subinciso 6; 101, fracción I, inciso b), en el subinciso 6; 102, Apartado A, fracción I, inciso b), en el subinciso 5 y Apartado C, fracción III; 106, fracción III, inciso b); 108, fracción III; 112-A, fracción IV, inciso c); 112-B, fracción III; 145, Apartado C, fracción VII, incisos c) y d), así como los dos últimos párrafos; 151-A; 170, en sus dos últimos párrafos; 174-A, fracción I, incisos c) y d); 174-C; 178-A, en su último párrafo; 238, fracciones II y VI; 253-B de y a la propia Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 Disposición Transitoria.
 
 ARTICULO VIGESIMO SEXTO.- La reforma al artículo 147 de la Ley Federal de Derechos, entrará en vigor a partir del 16 de enero de 1988.
@@ -14256,8 +14232,6 @@ DERECHOS
 
 ARTICULO VIGESIMO SEGUNDO.- Se REFORMAN los artículos 1o., primer párrafo; 21; 41, fracción II; 42, fracción II, inciso a); 64, fracción IV, inciso b); 65, fracción IV; 66, fracción II; 67, fracción VI; 68, fracción II; 69, fracción II; 73-C; 82-A; 83- C, primer párrafo; el nombre de la Sección Sexta de Capítulo VIII del Título I, para quedar como sigue "Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos"; 115-N; 155, fracciones I, II, IV, VII y X; 157, Apartado A, fracción I inciso e), Apartado B, fracción IV y Apartado C fracción IV; 159, fracción II, primer párrafo y su Apartado A inciso r), fracción III y fracción V en su inciso c); 200, segundo párrafo; 202, último párrafo; 204-A; el nombre del Capítulo IV del Título II para quedar como sigue "Muelle, Embarque y Desembarque"; 205, último párrafo; 206, primera y último párrafos, 208 primer párrafo; 209-A; 212; 219; 223, Apartado A primero y segundo párrafos, las fracciones I y II del propio Apartado A y Apartado B fracciones II y III; 226; 228, primer párrafo; 229, primero y último párrafos; 230, 232, fracciones III, IV y sus dos últimos párrafos 233, primer párrafo; 234, primer párrafo; 236 y 257, de la Ley Federal de Derechos; se ADICIONAN los artículos 2o., con los párrafos segundo, tercero y cuarto, pasando el actual segundo a ser el último párrafo; 42, con un último párrafo; 64, fracción IV con un inciso c) y una fracción VI; 72-A; 73 con las fracciones IV, V, VI, VII y VIII; 73-E; 73-F; 81-A, 128-C; 133-E; 151, Apartado C, con un segundo párrafo 152-A; 155, con las fracciones XVI, XVII, XVIII, XIX y XX; 158, con una fracción IV; 159, fracción VII con un inciso f) y con las fracciones XVI y XVII; con un Capítulo XV al Título I de la Ley, denominado Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado", comprendiendo los artículos 195-M, 195-N, 195-Ñ, y 195-O; 200-A; 201, con dos últimos párrafos; 208, con un último párrafo; 209-B, 223, Apartado A con un tercer párrafo y con un Apartado C; 232, fracciones V y VI, pasando la actual V a ser VII; 232-A; 236-A y 257-A, a dicha Ley y se DEROGAN los artículos 104; 113; 116; 117; 118; 119; 142; 143; 143-A; 144; 144-A; 145; 145-A; 146; 147; 147-A 186, fracción XXVI; 206, penúltimo párrafo, 213; 214; 215; 216; 217; 218; 220; 221; 221-A; 224, fracciones III y V y 225 último párrafo de y a la propia Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 Disposición de vigencia anual
 
 ARTICULO VIGESIMO TERCERO.- Durante el año de 1989 se aplicarán en materia de derechos las siguientes disposiciones:
@@ -14343,8 +14317,6 @@ CAPITULO XVI
 LEY FEDERAL DE DERECHOS
 
 ARTICULO TRIGESIMO TERCERO.- Se REFORMAN los artículos 1o., segundo párrafo; 2o., tercer párrafo; 4o., décimo segundo párrafo; 5o., fracciones II, V y VI; 6o., fracciones III y IV último párrafo; 19-C, primer párrafo y Apartado B, fracción III; 22, fracción IV, incisos b) y d); 29, primer párrafo y fracción I; 29-A, primer párrafo y fracciones III y IV; 30, primer párrafo, fracción II y penúltimo párrafo; 31, primer párrafo y fracción II; 31-A; 31-B, fracciones II y IV; 32, fracción I, incisos a), b), c), d), e), f), g), h), i), k) y I), fracción II; 33, primer párrafo, fracción I, inciso a), subincisos 1, 2, 3, 4 y 5, inciso b), subincisos 1, 2, 3, 4, 5 y 6, fracciones II, III y IV; 33-A, fracción I, inciso a), subinciso I, fracción II, incisos c) y d), fracciones III y V; 35, último párrafo; 37; 41, fracciones I, II, III y IV; 42, fracción II, inciso a); 43, fracción III y antepenúltimo párrafo; 48, primer párrafo; 49, primer y último párrafos; 53-C, primero y segundo párrafos; 56; 71; 72; 72-A; 82; 82-A; 83, tercer y último párrafos; 83-B, último párrafo; 83-C; 20; 121; 122; 123; 126; 127; 128; 128-A; 128-B; 129; 131; 138; 141; 141-A, primer párrafo; 148, Apartado A, fracción I, incisos a) y b), fracción II, inciso c), fracción III, inciso i), fracción IV, inciso a), Apartado B, fracción I, primer párrafo e inciso a), subinciso 2, fracción II primer párrafo, fracción III, primer párrafo, Apartado C, fracción I, Apartado E, fracción V, incisos c) e i); 162, Apartado A, fracción I, incisos a) y b), fracción V, primer párrafo, Apartado C, fracción IX; 171; 185, fracción XI; 186, fracciones XIX, incisos a) y b), XX, incisos a) y b) y XXI; 187, fracciones X y XII; 195, penúltimo párrafo; 195-A, penúltimo párrafo; 195-B, último párrafo; 195-H, último párrafo; 195-M;  200-A, primer párrafo; 204, fracción V; 204-A; 207, fracción II; 208, fracción V; 209-A; 212; 219; 223, Apartados A y B; 224, fracciones II y IV; 225; 229, fracción II; 230; 231; 232-A; 236, primer párrafo; 236-A; 239, primer párrafo; 240; 242-B; 244-A; 245; 245-B; 253; 253-A; 254; 263; 274, primer y segundo párrafos, de la Ley Federal de Derechos; Se ADICIONAN los artículos 3o., con un quinto párrafo, pasando los actuales quinto, sexto, séptimo y octavo, a ser sexto, séptimo, octavo y noveno, respectivamente; 19, con una fracción V; 19-E; 24-A; 29-B; 33-A, fracción VI; 35, con un segundo párrafo, pasando el actual segundo a ser tercero; 43, con un último párrafo; 49, con un segundo párrafo, pasando los actuales segundo, tercero, cuarto y quinto, a ser tercero, cuarto quinto y sexto, respectivamente; 83, con un tercer párrafo, pasando los actuales tercero, cuarto y quinto, a ser cuarto, quinto y sexto, respectivamente; 86-A; 122-A; 128-D; 128-E; 141-A, con una fracción V; 141-B; 148, Apartado A, fracción III con los incisos j), k), I) y m), Apartado B, fracción I inciso a) subinciso 3, fracción II, inciso a) subinciso 3, fracción III, inciso a) subinciso 3, Apartado D, fracción I, inciso e), Apartado E, fracción IV incisos c), d) y e) y con las fracciones XI, XII y XIII; 165, con una fracción VIII; 165-A; 172-A, 172-B, 172-C, pasando los actuales artículos 172-A; 172-B y 172-C, a ser 172-D, 172-E y 172-F, respectivamente; 174-A, fracción I, con un inciso c), fracción II con un inciso n); el Capítulo IX del Título I de la Ley, con una Sección Cuarta denominada "Impacto Ambiental" comprendiendo los artículos 174-C, 174-D y 174-E, así como una Sección quinta denominada "Prevención y Control de la Contaminación" comprendiendo los artículos 174-F, 174-G, 174-H, 174-I, 174-J, 174-K, 174-L, y 174-M; el Capítulo XIII del Título I, con una Sección Primera denominada "Concesiones, Permisos y Autorizaciones para Pesca", comprendiendo los artículos 191-A y 191-B, pasando las actuales Secciones Primera, Segunda y Tercera, a ser Segunda, Tercera y Cuarta, respectivamente; 195-B, con un último párrafo; 224 con las fracciones III y V y con un último párrafo; 224-A; 228 con una fracción V; 236 con un segundo párrafo, pasando el actual segundo a ser tercero; 245-C; 257 con un segundo párrafo, pasando el actual segundo a ser tercero y con un último párrafo; a dicha Ley y se DEROGAN los artículos 41, último párrafo; 43 penúltimo y último párrafos; 50; 53; 73-F; 81-A; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 100-A; 101; 102; 103; 103-A; 105; 106; 107; 108; 109; 110; 111; 112; 112-A; 114; 115; 115-A; 115-B; 115-C; 115-D; 115-E; 115-F; 115-H; 115-I; 115-J; 115-K; 115-L; 115-M; 115-N; 120-A; 129-A; 132; 133; 133-A; 133-B; 133-C; 133-D; 133-E; 134; 136; 137; 148, Apartado A, fracción II, inciso b), fracción IV inciso c), Apartado B, Fracción I, inciso a) subinciso 1 e inciso b) subinciso 4, fracción II, inciso a) subinciso 1, fracción III, inciso a) subinciso 1, Apartado E, fracción V inciso d); 149, fracción V; 152-A; 162, Apartado A, fracción I, incisos c), d), e), f) y g); 175; 176; 195, último párrafo; 198; 223, Apartado C; 241; 242; 242-A; 242-C; 244; 245A; 246; 247; 248; 249; 252, de y a la propia Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 DISPOSICIONES DE VIGENCIA ANUAL
 
@@ -14441,8 +14413,6 @@ CAPITULO XIII
 DERECHOS
 
 ARTICULO VIGESIMO SEPTIMO.- Se REFORMAN los artículos 1o., segundo párrafo; 3o., sexto párrafo; 6o., último párrafo; 12; 13; la denominación de la Sección Cuarta del Capítulo I del Título I, para quedar como "SERVICIOS DE CINEMATOGRAFIA Y RADIO"; 19-C, primer párrafo, Apartado A, primer párrafo, Apartado B, primer párrafo, Apartado C, primer párrafo y Apartado D; 19-E, fracciones I y V; 20; 22; 23; 25; 26; 29, primer párrafo y fracción III; 29-A, primer párrafo y fracción IV; 29-B; 30, primer párrafo y las fracciones I y II; 31-A; 41, fracciones I, II y III; 42, fracción I, incisos a) y b); 49; 53-D; 63; 64; 65; 66; 67; 68; 69; 70; 72, fracción IX; 73, fracción II; 73-A, primer párrafo, fracción II, incisos a), b) y c) y las fracciones IV, V y VII; 73-C, primer párrafo; 77, fracciones I, II y III; 79, fracciones I y II; 79-A; 83, segundo párrafo; 86-A; 120; 121; 122; 123, primer párrafo; 126; 127; 128; 128-B; 128- C; 138; 141; 148, Apartado A. fracción III, incisos e) y f), Apartado B, fracción I, inciso a), subinciso 3, fracción II, inciso a), subinciso 3, fracción III, inciso a), subinciso 3, Apartado E, fracción V, incisos c) y e) y la fracción X; 149, fracción VI; 153, fracción II, inciso a) y e); 162, Apartado A, fracción V primer párrafo; 165, fracción VII; 172, fracción I; 173-B, fracciones I y III; 174, párrafo primero y segundo; 191-A; 192; 195; 195-A, primer párrafo, fracción XV y el último párrafo; 195-E, fracción IX; 195-H, primer párrafo; 195-K, primer párrafo; 199, primer y tercer párrafos; 201, último párrafo; 202, fracción III; 205, último párrafo; 206, segundo párrafo; 212; 219; 223, Apartado B, fracción I, primer párrafo; 229, fracción III; 231; 232; fracciones I, II y III, inciso b); 237, primer párrafo; 240, primer párrafo y las fracciones III y IV; 244-A; 245; 245-B, primer párrafo; 245-C, primer párrafo; 253, fracción I; 254; 262; 263; 264; 265 y 266, de la Ley Federal de Derechos; Se ADICIONAN los artículos 1o., con un tercer párrafo, pasando los actuales tercero, cuarto y quinto a ser cuarto, quinto y sexto, párrafos 14; con la fracción IV; 14-A; 14-B; 19, con una fracción VI; 19-C, Apartado A, con una fracción IV; 19-E, con las fracciones VI, VII y VIII y con un último párrafo; 29-C; 29-D; 3O-A; 31-A-1; 50; 53-E; 63-A; 65-A; 65-B; 67, con una fracción VII; 70, con una fracción V; 7O-B; 70-C; 7O-D; 72, con una fracción X; 73-A, fracción II con un inciso d); 73-F; 81-A; 82-B; la Sección Cuarta al Capítulo VII del Título I denominada "SERVICIOS QUE PRESTA LA COMISION INTERSECRETARIAL PARA EL CONTROL DEL PROCESO y USO DE PLAGUICIDAS, FERTILIZANTES y SUSTANCIAS TOXICAS", comprendiendo los artículos 90-A, 90-B, 90-C, 90-D y 90-E; 128-D, con las fracciones III y IV; 148, Apartado A, fracción III, los incisos n), ñ) y o), Apartado B, fracción I, inciso a), subinciso 1, fracción II, inciso a), subinciso 1, fracción III, inciso a), subinciso 1; 149, con una fracción VII; 151, Apartado D, con una fracción V; 152-A; 153, con un último párrafo; 154, Apartado C, con una fracción V; 159, fracción VI, con un inciso d) con una fracción XVIII; 172-F; 174, con un tercer párrafo, pasando, el actual tercero a ser cuarto párrafo; 174E, con una fracción IV; la Sección VI al Capítulo IX del Título I denominada "DEL REGISTRO PUBLICO DE LA PROPIEDAD FEDERAL", comprendiendo el artículo 175; 191, con un último párrafo; 194-A; el Capítulo XVI al Título I, de la Secretaría de Turismo, con una Sección Unica denominada "REGISTRO y CEDULAS TURISTICAS". comprendiendo los artículos 195-P y 195-Q; 199-A; 204, con una fracción VIII; 204-B; 206, con un último párrafo; 208-A; 209-C; 213; 214; 215; 216; 220; 221; 221-A; 221-B; 224,con una fracción VI; 232 fracción VI. con un último párrafo; 235, con una, fracción III; 237-B; 237-C; 240, con fracción VI, 253-B, el Capítulo XIV al Título II, denominado "DERECHO POR USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DE LA NACION COMO CUERPOS RECEPTORES DE LAS DESCARGAS DE AGUAS RESIDUALES", comprendiendo los artículos 276, 277, 278, 279, 280, 281, 282, 283, 284, 285 y 286 a dicha Ley y Se DEROGAN los artículos 6o., fracción IV, 49, cuarto párrafo, 56, 62, 73-A, fracción VIII, 73-D, 79, fracción III, 112-B, 122-A, 129, 148, apartado A, fracción II, inciso c), Apartado C, fracciones III y V, Apartado E, fracción IV inciso d) fracción VI último párrafo y último párrafo del artículo; 151, Apartado D, fracciones II y III; 173-B, fracción II; 174-M; 191-B, fracción V, 195-A, fracciones VIII, XVI, XVII, XVIII y XIX, 195-K, fracción III, 209-B, 210, 211, 223, Apartado B, fracción III; 267, 268, 269, 270, 271, 272, 273 y 274 de y a la propia Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 DISPOSICIONES TRANSITORIAS
 
@@ -14562,8 +14532,6 @@ DERECHOS
 
 ARTICULO DECIMO SEXTO.- Se REFORMAN los artículos 1o., primer párrafo; 3o., quinto párrafo; 5o., fracción IV; 6o., fracción III; 7o., fracciones II, III, IV, VII y IX; 8o., fracciones II, incisos a) y b), IV y V; 9o., fracciones I y III; 10; II, fracción II; 14-A, fracciones I y II; 19-C, primer párrafo, Apartado A, primer párrafo, fracción III, Apartado B, primer párrafo, Apartado C, primer párrafo y Apartado D; 19-E; 20; 21; 22; 23; 24, fracciones III, primer párrafo y IV; 25; 26; 29, primer párrafo; 29-C; 29-D; 30, último párrafo; 30-A, fracción VI; 31-A-1; 31-B, fracción III; 32, fracción I, incisos a), b), c), e) y g), fracción II, inciso a) y fracción III; 33, fracciones I y III; 33-A, fracciones I, inciso a), II, inciso a) y VI; 35, último párrafo; 37; 49, fracciones II y IV; 53-A, penúltimo párrafo; 53-C; 53-E; se modifica la denominación de la Sección Segunda del Capítulo VI del Título I, para quedar como "Propiedad Industrial"; 63; 64; 65; 65-A; 65-B; 66; 67; 68; 69; 70; 70-A; 70-B; 70-C; se modifica la denominación de la Sección Tercera del Capítulo VI del Título I para quedar como "Inversiones Extranjeras"; 71, fracciones III, VI y VII; 72, primer párrafo, fracciones I, VI, VII y VIII; 77, fracciones I, II y III, se modifica la denominación de la Sección Séptima del Capítulo VI del Título I para quedar como "Sistemas de Comercialización"; 82, fracción IV; 82-A; 82-B; 86-A; 122, primer párrafo y fracción I, inciso a); 123; 124; 124-A; 125; 126; 128; 128-B, primer párrafo; 130; 131; 135; 148, Apartado A, fracción III, incisos c) y 1), IV, incisos a) y b), Apartado B, fracción I, primer párrafo, inciso a), inciso b), subinciso 3, fracción II, primer párrafo, incisos a) y b), subinciso 3, fracción III, primer párrafo, incisos a) y b), subinciso 3, Apartado E, fracción IV, primer párrafo y fracción V, inciso g); 149, fracción V; 153, fracción II, inciso c), primer párrafo, subincisos 2 y 3; 155; 158; 159, primer párrafo, fracciones I, II, primer párrafo, Apartado A, primer párrafo, incisos a), b), q), r) y s), fracciones V y XVIII; 162, Apartado A, fracciones I, incisos a) y b), II, III, IV, V y VI, Apartados B, C, D y E; 165, fracción I; 165-A, fracciones III y IV; 167; 169, fracción I, primer párrafo; 170, primer párrafo; 172, primer párrafo; 173; 173-A; se modifica la denominación de la Sección Tercera del Capítulo IX del Título I para quedar como "Servicios de Flora y Fauna"; 174-A; se modifica la denominación de la Sección Primera del Capítulo X del Título I para quedar como "Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia"; 177, fracciones I y II; 178; 178-A, primer párrafo, Apartado A, primer párrafo, fracción II, Apartado B, fracciones II y III; 178-B; 179; 180; 181; 187, fracción III; 188, fracción 1, inciso b); 189; 195-A; 195-M; 195-N; 213, primer párrafo; 214, segundo y tercer párrafos; 216; 220, primer párrafo; 221, segundo y tercer párrafos; 221-B; 223, primer párrafo, Apartado A, fracciones I, II, III y IV, Apartado B, fracción I; 227; 228, fracción II; 231; 232, primer párrafo, fracción III; 234, último párrafo; 239, segundo párrafo; 240, fracciones I, III y V; 242-B; 244-A, primer párrafo y fracción III; 245; 254; 255, último párrafo; 276, primer párrafo; 277, fracciones I, II y III; 279, primer párrafo; 280, primer párrafo; 281, primer párrafo, fracciones I, II y IV, incisos e) y d); 282; 283, último párrafo y 285, fracción I y antepenúltimo párrafo, de la Ley Federal de Derechos; se ADICIONAN los artículos 1o., con un segundo y tercer párrafos, pasando los actuales segundo, tercero, cuarto, quinto y sexto a ser cuarto, quinto, sexto, séptimo y octavo párrafos; 4o., con un decimosegundo párrafo, pasando los actuales decimosegundo, decimotercero, decimocuarto, decimoquinto a ser decimotercero, decimocuarto, decimoquinto y decimosexto párrafos; II, con las fracciones V, VI y VII; 19-F; 29-A, con las fracciones V y VI; 30, con las fracciones IV y V; 33-A, con las fracciones VII y VIII; 49, con una fracción VII y con un último párrafo al artículo; 53-F; 72, con las fracciones XI, XII y XIII; 82, con una fracción V; 83-D; 125-A; 128-F; 148, Apartado A, fracción III, inciso m), con los subincisos 1 y 2, con un inciso p) y con un último párrafo; 149, con las fracción VIII; 153, fracción II, inciso a), con un último párrafo; 154, Apartado B, con un último párrafo; 159, fracción XV, con los Apartados E, F, G, H, I, J, K, L, M; 162, Apartado A, fracción I, con un inciso c) y con una fracción VII; 165, con una fracción IX; 172, con las fracciones IV y V; 174-F, 174-G, 174-H, 174-I y 174-J, pasando los actuales 174-F, 174-G, 174-H, 174-1, 174-J, 174-K y 174-L, a ser 174-K, 174-L, 174-M, 174-N, 174-O, 174-P y 174-Q; 188, con un penúltimo párrafo; 223, Apartado A, con un penúltimo y último párrafos; 226, con un último párrafo; 229, con una fracción VI; 230-A; 232, fracción VII, con un inciso e); 234, con un último párrafo, pasando el actual penúltimo a ser último párrafo; 236-B; 240, con las fracciones VII y VIII; 244-B; 278, con un último párrafo; 279, con un penúltimo y último párrafos; 280, con un último párrafo; 281, fracciones I, con dos párrafos y IV, con un inciso g); 281-A; 282-A; 282-B; 283, con un tercer y último párrafos; 286-A; el Título II, con un Capítulo XV denominado "Derecho para racionalizar el uso o aprovechamiento del espacio aéreo", que comprende el artículo 287, a dicha Ley; y se DEROGAN los artículos 3o., penúltimo párrafo; 6o., último párrafo; 7o., fracciones VIII y XIV; 8o., fracción III; 9o., fracción II; 12; 13, fracción I; 14, fracción IV; 19-C, Apartado A, fracción IV; 24-A; 43, penúltimo y último párrafos; 53-A, último párrafo; 54; 70-D; 71, fracciones VIII y IX; 72-A; 73; 81-A; 83; 83-A; 83-B; 83-C; 122, fracción III; 148, Apartado B, último párrafo; 150; 151; 152; 152-A; 161; 172-D; 172-E; 172-F; 182; 183; 194-A; 195-B, penúltimo y último párrafos; 195-H; 195-I; 195-J; los Capítulos III y IV, del Título II, que comprende los artículos 200, 200-A, 201, 202, 203, 204, 204-A, 204-B, 205, 206, 207, 208, 208-A, 209, 209-A y 209-C; 229, último párrafo; 230; 236-A; 237-B; 253-B y 286 de y a la propia Ley Federal de Derechos, para quedar como sigue:
 
-..........
-
 DISPOSICIONES TRANSITORIAS
 
 ARTICULO DECIMO SEPTIMO.- Para la aplicación de lo dispuesto en el artículo anterior, se estará a las siguientes disposiciones transitorias:
@@ -14636,8 +14604,6 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 1992
 
 ARTICULO PRIMERO.- Se REFORMAN los artículos 3o., quinto párrafo; 4o., décimo segundo párrafo; 6o., primer párrafo; 8o., primer párrafo, fracciones II, incisos a) y b) y IV; 13; 14-A; 16; 19-A; 19-B; 19-E, fracción II; 19-F, fracción II; 22, fracción III, incisos b), e) y f); 23, fracciones II, primer párrafo, IV y VI; 25, fracciones III y XI; 30; 32, fracciones I, incisos a), b), c), d), e), f), g) y k) y III, inciso a); 33, primer párrafo, fracciones I, inciso a), subinciso 5, II, inciso a) y IV; 33-A, fracción V; 35, primer párrafo; 49, primer y segundo párrafos posteriores a la fracción VII; 50; 56; 57; 58; 59; 60; 65-B, fracción III; 66, fracción V; 71, fracciones III y VII, inciso b); 73-A; 73-F, primer párrafo; 82; 82-A; 82-B; 83; 87, primer párrafo; 128-B; 128-D, fracción III; 128-F, fracción II, inciso b); 148, Apartado E, fracción V, primer párrafo; 159, fracción XVI, primer párrafo; 162, Apartado B, primer párrafo; se modifica la denominación del Capítulo IX del Título para quedar como "De la Secretaría de Desarrollo Social"; 173, último párrafo; 174-J, primer párrafo; 185, fracciones V y VIII; 191-A, fracciones I y III; 194, primer párrafo; 199, primer párrafo; 222; 223, primer párrafo, el Apartado A, y primer párrafo del Apartado B, las zonas de disponibilidad de la fracción I y el primer párrafo y las zonas de disponibilidad de la fracción IV; 225; 232, fracciones I, II y III; 240, fracciones II y III; 254; 257, párrafos segundo, tercero y cuarto; 257-A; 258, primer párrafo; 259; 262; 263; 264 y 266, de la Ley Federal de Derechos; se ADICIONAN los artículos 3o., con un sexto párrafo, pasando los actuales sexto, séptimo y octavo a ser séptimo, octavo y noveno párrafos; 11, con una fracción VIII; 18-A; 22, con un último párrafo; 24, con una fracción V; 26, con una fracción V; 31-B, con las fracciones V y VI; 32, fracción con un inciso m); 33, fracción I, inciso a), con un subinciso 6; 70-A, con un último párrafo; 82-C; 86-A, con un último párrafo; 153, fracción II, inciso a), subinciso 3, con un último párrafo; 159, fracción XVI, con un último párrafo y 192, con un segundo párrafo, a dicha Ley; y se DEROGAN los artículos 6o., en la tabla de ajuste y párrafo segundo; 8o., fracción I; 15; 19-E, último párrafo; 19-F, último párrafo; 22, fracción III, inciso d); 23-A; 34-A; 43; 53-A; 53-B; 63-A; 73-C; 73-F, fracciones II, VII y VIII; 79; 87, fracción III y último párrafo; 88, Apartado B; 128-C, fracción IV; 128-D, fracción IV; 128-F, fracción II, inciso d); 148, Apartado A, fracción III, inciso h), Apartado B, fracción II, inciso a), subinciso 2, Apartado E, fracciones V, incisos f), h) y j) y XI; 155, fracción XVI; 193, fracción I, último párrafo; 232, fracción VI y 233, de y a la propia Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 DISPOSICIONES DE VIGENCIA ANUAL
 
 ARTICULO SEGUNDO.- Durante el año de 1993, se aplicarán en materia de derechos las siguientes disposiciones:
@@ -14704,8 +14670,6 @@ Publicado en el Diario Oficial de la Federación el 26 de julio de 1993
 
 ARTICULO TERCERO.- Se REFORMAN los artículos 49, fracciones II y VI y 50; y se ADICIONA el artículo 49, con un párrafo siguiente a la fracción VII, de la Ley Federal de Derechos, para quedar como sigue:
 
-.........
-
 ##### TRANSITORIOS
 
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, a excepción de lo siguiente:
@@ -14735,8 +14699,6 @@ Publicado en el Diario Oficial de la Federación el 3 de diciembre de 1993
 LEY FEDERAL DE DERECHOS
 
 ARTICULO DECIMO SEPTIMO.- Se REFORMAN los artículos 1o., penúltimo párrafo; 2o., tercer y cuarto párrafos; 10; 14-A, primer párrafo, fracción I, incisos a) y b),  y último párrafo del artículo;  19-B, segundo párrafo; 19-C, primer párrafo y Apartado A, primer párrafo; 19-E, fracción II; 22, fracción III, incisos a) y c); 24, fracciones I y III; 26, primer párrafo, fracciones III, primer párrafo e inciso a) y V, primer párrafo e inciso a); 30, fracción I, segundo párrafo; 31, fracción I, primer párrafo; 31-B, fracciones II y IV; 32, fracciones I, incisos a) a h) y j) a m), II, incisos a) y b), y III, incisos a) a c); 33, fracciones I, inciso a), subincisos 1 a 5, inciso b), subincisos 1, 2, 3, 5 y 6, II, incisos a) y b), III, inciso a), subinciso 1, inciso b), subincisos 1 y 2, IV y V; 33-A, fracciones II, incisos a) y b), IV, V, VI y VIII; 35, último párrafo; 50-B; 70, fracciones IV y VII; 71, fracción I; 72, fracciones I, VI, VII, VIII y IX; 74, fracciones II y IV; 86-A, fracciones I,  III y  V; 128-D, fracción III; 148, Apartados A, fracciones III, inciso ñ), IV, incisos a) y b) y último párrafo, B, fracciones I, primer párrafo e incisos a), subincisos 1 y 2, y b), subincisos 1, 2 y 3, II y III, primer párrafo e incisos a), subincisos 1 y 2, y b), subincisos 1, 2 y 3, E, fracciones V, primer párrafo e inciso c) y X, incisos a) y b); 153; 162, Apartados A, fracciones I, primer párrafo, II, III, IV y V, y C, fracciones II, VII, VIII y IX; 170, Apartado A, fracción II,  primer  párrafo; 174-A; 174-D; 174-F, primer párrafo; 174-G, primer párrafo; 174-I, primer párrafo; 184, primer párrafo, fracciones I, II, IV y XXVI; 185, fracción XI; 199-A, primer párrafo; 213, primer párrafo; 214, segundo y tercer párrafos; 215; 216; 220, primer párrafo; 221, segundo y tercer párrafos; 221-A; 221-B; 223, Apartados A, fracciones I, tercer párrafo, II, III y IV y B, fracción II; 224, fracción V; 231, zonas de disponibilidad 1, 2 y 4; 232, fracción IV, pasando la actual fracción IV a ser fracción V y la actual fracción V, a ser fracción VI; 263, último párrafo; 287, primer párrafo de la Ley Federal de Derechos; se ADICIONAN los artículos 6o., con un párrafo segundo, pasando los actuales párrafos segundo, tercero y cuarto, a ser tercero cuarto y quinto, respectivamente; 19-A, con un segundo párrafo; 19-E, con un último párrafo; 25, con una fracción XII, pasando la actual fracción XII a ser XIII; 33, fracción I, inciso b), con un subinciso 7; 53-C, con un último párrafo; 81, con un segundo párrafo; el Título I, Capítulo VII, con las Secciones Quinta, que comprende los artículos 90-F y 90-G y Sexta, que comprende el artículo 90-H; 184, con las fracciones XXVIII y XXIX; 185, con una fracción XII; 186, fracciones VIII con un inciso c), X, con un inciso c), y XXIV, con un inciso c); 195-R; 223, Apartado A, con un último párrafo; 224, con un último párrafo; 231-A; 282-A, con los párrafos cuarto y quinto; 287, con los párrafos cuarto y quinto, a dicha Ley; y se DEROGAN los artículos 19-C, Apartado B; 19-D; 22, fracción III, inciso b); 26, fracción IV; 71, fracciones II, IV y V; 77; 86-A, fracción VII; 87; 88; 89; 90; 120,  fracción  IV; 121, fracción IV; 128-A; 148, Apartados C, fracción IV, D, fracciones I, inciso c), II, y E, fracción V, incisos g) e i); 162, Apartado A, fracción I, incisos a), b) y c); la Sección Primera del Capítulo IX  del Título I, que incluye los artículos 173 y 173-A; 174-H; 184, fracción III; 195; 195-N; 254; 255; 256; 257; 257-A; 258 y 259 de la propia Ley Federal de Derechos para quedar como sigue:
-
-.........
 
 DISPOSICIONES TRANSITORIAS
 
@@ -14800,8 +14762,6 @@ XII.- No se pagará el permiso a que se refiere la fracción III del artículo 8
 
 XIII.- El pago del derecho de caza deportiva a que se refiere el artículo 238 de esta  Ley,  por  la  temporada 1994-1995, se realizará conforme a las cuotas vigentes al inicio de dicha temporada.
 
-T R A N S I T O R I O S
-
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
 SEGUNDO.- Se establece como impuesto al comercio exterior, por los años de 1994 a 1996, inclusive, un impuesto a la exportación de energía eléctrica que se genere con vapor geotérmico. Este impuesto será del 13% del valor de exportación de la energía.
@@ -14821,8 +14781,6 @@ Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1993
 LEY FEDERAL DE DERECHOS
 
 ARTICULO OCTAVO.- Se REFORMA el artículo 195-G de la Ley Federal de Derechos, para quedar como sigue:
-
-.........
 
 ##### TRANSITORIO
 
@@ -14867,8 +14825,6 @@ Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1994
 LEY FEDERAL DE DERECHOS
 
 ARTICULO DECIMO QUINTO.- Se REFORMAN los artículos 1o., cuarto párrafo; 19-C, primer párrafo, apartado A, primer párrafo, fracción III y apartado C, primer párrafo; 19-E, fracciones II, III, V y VII; 19-F, fracciones II, III, V y VI; 25, fracción V, inciso a); 29; 29-A; 29-B; 29-C; 29-D; 71, fracción VII, primer párrafo; 72, fracciones I, II, III, IV, V, VI, VII, VIII y IX; 73-E; 73-F; 90-H, fracciones I, II, III y IV; 126; 128-C, primer párrafo; 153, fracción I, inciso b); 154, apartado B, fracción I, apartado C, fracciones I y IV, incisos a) y b); 155, fracciones IV, incisos d) y e), IX, X, XI, XII, XIII, XIV y XV; 157, apartado A, primer párrafo, fracción I, incisos a), b) y c), fracción II, apartado B, fracciones I, II y III, apartado C y apartado D, fracciones I y II; 159, fracciones I, primer párrafo e inciso a), II, inciso A, subincisos k), l), m), n), ñ), o), p), q), r), s) y t), VI, primer párrafo, VII, primer párrafo e incisos a), d), e) y f), X, XI, XIII, XIV, XV, incisos E, primer párrafo, K, primer párrafo y M; 162, apartado A, fracciones I, II, III, IV, V y VI, y apartados B, C y D; 165-A, primer párrafo; 174-A, apartado A, fracciones I, II, III y IV y apartado B, fracciones II, primer párrafo, incisos a), b), subincisos 1 y 2, c), subincisos 1 y 2, d), e) y f), III y IV; 174-F, primer párrafo; 174-G, primer párrafo; 174-I; 184, fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII; 187; 195-E, fracciones I y II; 195-G; la denominación de la Sección Unica del Capítulo XVI del Título I; 195-Q, primer párrafo; 232, penúltimo párrafo; 234, primero, penúltimo y último párrafos; 237, primer párrafo, fracción III y último párrafo; 237-C; 240, primer párrafo; 245-B, fracciones I, incisos a) y b) y II, inciso a), de la Ley Federal de Derechos; se ADICIONAN los artículos 8o., con un último párrafo; 19-E, con las fracciones VIII y IX; 29-E; 29-F; 29-G; 29-H; 49, con una fracción VIII; 73-A, fracción II, inciso d) con un segundo párrafo y V; 90-H, con una fracción V; 120, con una fracción IV; 122, fracción I, con un inciso d); 128-B, con una fracción III; 155, fracciones II, con los incisos c) y d) y XVI; 159, fracción XV, con un inciso N y un último párrafo; 172-D; 195-D-1; 195-H; 195-I; 195-J; 195-N; 195-P, fracciones I, con los incisos h) e i), y II, con los incisos h) e i); 195-Q, fracciones VIII y IX; 232, con una fracción II, pasando las actuales fracciones II, III, IV, V, VI y VII a ser III, IV, V, VI, VII y VIII, respectivamente y con un último párrafo; 233; 244-A, con una fracción IV, a dicha Ley, y se DEROGAN los artículos 19-E, fracciones I, IV y último párrafo; 19-F, fracciones I, IV y VII; 50-A; 71, fracción III; 72, fracciones X, XI, XII y XIII; 78; 122, fracción IV; 123, fracción III, inciso g); 157, apartado A, fracción I, incisos d), e), f), g) y h), y apartado B, fracciones IV, V, VI y VII; 159, fracciones II, inciso A, subinciso u), V, VI, inciso d), XV, inciso L y XVI; 162, apartado A, fracción VII y apartado E; 171-A; 174-A, apartado B, fracción II, incisos b), subinciso 3 y c), subinciso 3; 195-B, penúltimo párrafo; 243; 243-A; 243-B; 243-C; 243-D, y 244-B de la propia Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY FEDERAL DE DERECHOS
 
@@ -15364,8 +15320,6 @@ símbolo 183 \f "Symbol" \s 9 \h	285, 	fracción VI, segundo párrafo.
 
 Las modificaciones a que hace referencia el Artículo Décimo Noveno, quedan de la siguiente manera:
 
-..........
-
 Disposiciones transitorias de la Ley Federal de Derechos
 
 Artículo Vigésimo. Durante el año de 1996, se aplicarán en materia de derechos las siguientes disposiciones:
@@ -15388,8 +15342,6 @@ VII.	Por el uso o aprovechamiento de las aguas nacionales superficiales que se u
 
 VIII.	El pago del derecho de caza deportiva a que se refiere el artículo 238 de esta Ley, por la temporada 1996-1997, se realizará conforme a las cuotas vigentes al inicio de dicha temporada.
 
-T r a n s i t o r i o s
-
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
@@ -15405,8 +15357,6 @@ Publicada en el Diario Oficial de la Federación el 10 de mayo de 1996
 LEY FEDERAL DE DERECHOS
 
 ARTICULO SEXTO.- Se REFORMAN los artículos; 86-A, fracciones IV y VII; 86-B, fracción I; 120, primer párrafo; 123-F, primer párrafo; 138, primer párrafo; 158, fracción I, primer párrafo; 159, primer párrafo y fracción VII, inciso d); 160, fracción IV; 194-C, primer párrafo; 195-U, fracción V; se ADICIONAN los artículos; 86-A, con una fracción VIII; 123-A, fracción IV, con un inciso f); 123-C, fracción IV, con un inciso e); 123-D, fracción IV, con un inciso e); 123-E, fracción IV, con un inciso e); 123-F, fracción IV, con un inciso e); 138 con un penúltimo y último párrafos; al TITULO I, CAPITULO XIII, con una Sección Quinta, De la Zona Marítimo Terrestre, 194-D; 194-E; Sección Sexta, servicios de Flora y Fauna, 194-F; 194-G; Sección Séptima, Impacto Ambiental, 194-H; 194-I; 194-J; 194-K; 194-L; 194-M; 194-N; Sección Octava, Prevención y Control de la Contaminación, 194-O; 194-P; 194-Q; 194-R; 194-S; 194-T; 194-U; se DEROGAN los artículos; 90-B, fracciones I y II; 120, fracciones I, II, III y V; 122, fracción I, inciso d); 123-A, fracción I; 123-B, fracción I; 123-C, fracción I; 123-D, fracción I; 123-E, fracción II; 123-F, fracción II; 128-C; 128-D, fracción III; 153, fracción I; 159, fracciones III, VI, inciso d), VII, inciso g), VIII, IX, XIII, XXVI y XXVII; del TITULO I, CAPITULO IX, Sección Segunda, De la Zona Marítimo Terrestre, 173-B; 174; Sección Tercera, Servicios de Flora y Fauna, 174-A; 174-B; Sección Cuarta, Impacto Ambiental, 174-C; 174-D; 174-E; 174-F; 174-G; 174-I; 174-J; Sección Quinta, Prevención y Control de la Contaminación, 174-K; 174-L; 174-M; 174-N; 174-O; 174-P; 174-Q; de la Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 DISPOSICION TRANSITORIA DE LA LEY FEDERAL DE DERECHOS
 
@@ -15427,8 +15377,6 @@ Publicada en el Diario Oficial de la Federación el 30 de diciembre de 1996
 LEY FEDERAL DE DERECHOS
 
 Artículo Décimo Octavo.- Se REFORMAN los artículos 3o., séptimo párrafo; 6o., primer párrafo; 9o., fracción I; 10, fracción I; 13, fracción II; 14, fracción I; 14-A, fracción I, incisos a) y b); la denominación de la Sección Cuarta del Capítulo I del Título I; 19-C; 19-E; 19-F; 19-G; 20, fracciones II, III y IV; 22, fracciones I, II, III y IV; 23, fracciones I, II, incisos a) y b), III, IV, V y VI; 29; 29-A; 29-B; 29-C; 29-D; 29-E; 29-F; 29-G; 29-H; 29-I; 29-J; 29-K; 29-L; 31-A, fracción III; 31-A-1; 41, fracciones I y II, primer párrafo; 49, primer párrafo, III, IV, primer párrafo, y VII; 51, primer párrafo, fracciones I, III y IV; la Sección Séptima del Capítulo III del Título I, que comprende los artículos 53-D, 53-E y 53-F; 82, fracciones II y III; 83-A; 83-D, último párrafo; 86-A; 86-B; 86-C, primer párrafo y fracciones I y III; 87, fracciones I, II, III, IV y V; 88, fracción IV; 89-A; 90, fracción III, inciso a); 124, fracciones I, incisos a), c) y d), II, inciso a), III y IV; 124-A; 125, fracciones I, incisos a) y c), II, inciso a), III y IV; 125-A; 130; 135, primer párrafo; 138; 141-A, primer párrafo y fracción V, inciso c); 148, apartados A, primer párrafo y fracciones II, incisos a) y d), III, inciso I), IV, inciso a) y último párrafo, B, D, primer párrafo, y E, fracciones V, VI, inciso a), VII, VIII, inciso a) y XIII; 153; 154; 155; 157; 158; 159; 160; 165, fracción I, primer párrafo; 170; la denominación de la Sección Octava del Capítulo VIII del Título I; 172, primer párrafo; 178-B, primer párrafo; 184, fracción XXX; 186, fracciones X, primer párrafo e incisos a) y b), XII y XIV; 190-B, último párrafo; 191, primer párrafo; 192, segundo párrafo; 194, fracción V; 194-F, apartado B, fracción I, primer párrafo; 195-C; 195-H, fracción II, inciso a); la denominación de la Sección Segunda del Capítulo XVII del Título I que comprenderá los artículos 195-T, 195-U y 195-V; 195-W, que pasará a la Sección Tercera del Capítulo XVII del Título I; 199-A; 223, apartados A, fracciones I, II, III, IV, V, VI, VII, VIII y IX, y B, fracciones I, zonas de disponibilidad 1 a 6, 7, 8 y 9, II y IV; 224, fracción VII; 231, zonas de disponibilidad 1, 2, 3, 4, 5, 6, 7, 8 y 9; 238, fracciones III y IV; 244-A, fracciones III y IV; 245-B, primer párrafo, fracciones I, primer párrafo, y II, inciso b); 277, primer párrafo y fracciones I, primer párrafo, II, III y IV; 278; 278-A; 282, fracciones I, V y VI; 282-A; 285, fracciones I y II y último párrafo; se ADICIONAN los artículos 8o., con la fracción VII; 11, con la fracción IX; 12; 14-A, fracción II, con un segundo párrafo; el Título I, Capítulo I con la Sección Séptima que comprende el artículo 19-I; 23, con las fracciones VII y VIII; 24, con una fracción VI; 29-M; 29-N; 29-Ñ; 29-O; 29-P; 29-Q; 29-R; 29-S; 29-T; 29-U; 29-V; 29-W; 29-X; 29-Y; 30-B; 31-A, con una fracción VI; 41, con un último párrafo; 49, fracción II, con un segundo párrafo; el Título I, Capítulo III con las Secciones Octava que comprende los artículos 53-G y 53-H, y Novena que comprende los artículos 53-I, 53-J, 53-K y 53-L; Título I, Capítulo VI con las Secciones Primera que comprende el artículo 62, Segunda que comprende los artículos 63, 64, 65, 66 y 67, y Sexta que comprende el artículo 77; 86-D; 86-E; 90, fracción III, con un inciso b); Título I, Capítulo VIII con la Sección Primera que comprende los artículos 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104 y 105; 124, con la fracción V; 125, fracciones I, con un inciso d), V y VI; 148, apartados A, con las fracciones II, con un inciso b), III, con los incisos q), r), s), t), u), v), w) y x) y V, D, fracción I, con un inciso f) y E con la fracción XIV; 149, con una fracción IX; 156; 172, con las fracciones VI, VII, VIII, IX, X, XI, XII y XIII; 172-E; 172-F; 172-G; 172-H; 172-I; 190-B, con una fracción XV, pasando los actuales XV y XVI a ser XVI y XVII, respectivamente; 191-A, fracciones II, con un inciso c) y III, con un inciso d); 194-N-1; Título I, Capítulo XIII con la Sección Novena que comprende el artículo 194-V; Título I, Capítulo XVII con la Sección Tercera que incluye el artículo 195-W; 199-B; 223, apartado B, con una fracción III; 231, con un último párrafo; 232, con un sexto párrafo pasando los actuales sexto, séptimo y octavo párrafos a ser séptimo, octavo y noveno párrafos, respectivamente; 232-B; 236, con un último párrafo; 240, con un último párrafo; 245-B, fracción I, con un último párrafo; 277, con las fracciones V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII; 278-B; 278-C; 282-C y 282-D; y se DEROGAN los artículos 7o.; 22, fracción V; 25, fracciones VI y XII; la Sección Segunda del Capítulo III del Título I que incluye los artículos 31-B, 32, 33, 33-A, 34, 35 y 36; el Capítulo V del Título I que incluye los artículos 56, 57, 58, 59 y 60; 90, fracción III, inciso c); la Sección Sexta del Capítulo VII del Título I que incluye el artículo 90-H; 121; 122; 123-A; 123-B; 123-C; 123-D; 123-E; 123-F; 123-G; 124, fracciones I, inciso b) y II, incisos f) y j); 125, fracciones I, inciso b), II, incisos f) e i); 128; 128-D; 128-F; 131; 135, fracciones II y III; 148, apartados A, fracciones I, III, incisos k), m), subincisos 1 y 2, y n), y IV, inciso b), C y E, fracciones I, II, III, IV y X; 149, fracción III; 186, fracción III; 187, fracción III; la Sección Segunda del Capítulo XI del Título I que incluye los artículos 188 y 189; 190; 194-O, fracción III; 195-D-1; 195-l; 195-X; 250; 251; 253, último párrafo; 253-A; 279; 280; 281 y 285, fracción III; de y a la Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 Disposiciones de Vigencia Anual de la Ley Federal de Derechos
 
@@ -15566,8 +15514,6 @@ LEY FEDERAL DE DERECHOS
 
 Artículo Décimo Primero.- Se REFORMAN los artículos 13, primer párrafo, fracciones I, III y V; 14-A, fracción I, inciso b); 16; 19-E, fracción I; 19-F, fracción I; 19-G; 24, fracción III; 25, fracciones II, III y V, inciso a); 26, fracciones I y III, primer párrafo; 29-G, segundo párrafo; 29-I, primer párrafo; 29-J, segundo párrafo; 29-O, primer párrafo; 29-P, fracción I, inciso b), subinciso 3; 29-Q, primer párrafo, fracción I, primer párrafo y último párrafo; 29-T, fracciones I, incisos c), subinciso 2, f), subinciso 2 y j), III, incisos a) y b); 29-U, primer y segundo párrafos; 29-W, fracciones I, II, III y último párrafo; 49, fracciones II, segundo párrafo, III, segundo párrafo y VII; 74-A, penúltimo párrafo; 85, último párrafo; 86, primer párrafo; 91; 92; 93, primer párrafo, fracciones III y IV; 94, primer párrafo, fracciones III y IV; 95, primer párrafo, fracciones III y IV; 96, primer párrafo, fracciones III y IV; 97, primer párrafo, fracciones I, IV, primer párrafo, VI, primer párrafo y VII; 98, primer párrafo, fracciones III y IV; 99, primer párrafo, fracciones I y III, primer párrafo y V; 100, primer párrafo; 101, primer párrafo; 102, primer párrafo, fracciones I y V; 103, fracciones IV y X; 105; 120, primer párrafo y fracción IV; 123; 130; 138; 141-A, primer párrafo y fracción III, primer párrafo; 141-B, primer párrafo; la denominación de la Sección Quinta del Capítulo VIII del Título I para quedar como Autotransporte Federal y Servicios Auxiliares; 148, primer párrafo, Apartados A, fracciones III, incisos c), f), i), j), l), ñ), r), y w), IV, inciso a), V, primer párrafo, incisos a), b), c), d) y e), B, fracciones I y II, E, fracciones VII y VIII e inciso b); 149, fracciones I y II; 165, fracción X; 169, fracción I; 172, fracciones I y II; 172-G, primer párrafo; 177, primer párrafo y fracción I; 178-A, primer párrafo, Apartado A, primer párrafo, fracciones I y II, Apartado B, fracciones I y II; 178-B, primer párrafo, fracciones I y II; 184; 186, fracciones I y II; 187; 190-C, fracciones I y III; la denominación de la Sección Segunda del Capítulo XIII del Título I para quedar como Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes; 192; 194-A, fracciones I y III y penúltimo párrafo; 194-C, fracciones III, último párrafo, IV, primer párrafo, incisos b) y c); la denominación de la Sección Quinta del Capítulo XIII del Título I para quedar como De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas; 194-D, primer párrafo, fracciones I y II y penúltimo y último párrafos; 194-E, primero y segundo párrafos; 194-F, Apartado B, fracción I, último párrafo; 194-V, fracción I, inciso b); 195-A, fracciones I, II, III y IV; 195-C, fracción II; 195-E, fracciones I y X; 195-F, fracciones VI y VII; 195-G, primer párrafo y fracción II; 195-H, fracción II; 195-L, fracción I; 195-P, fracción I; 195-T, Apartado C, fracción IV; 199, primer párrafo; 199-B; 221, último párrafo; 222; 223, primer párrafo, Apartados A, B, primer párrafo, fracciones I, II y IV; 224, fracciones III, lV y V; 224-A; 229, fracción III, inciso b); 230-A; 231; 231-A; 232; 233; 234; 236, segundo párrafo; 236-B; 238; 239; 240, primer párrafo, fracción V y último párrafo; 242-B, primer párrafo; 244-A, primer párrafo y fracciones III, primer párrafo; 245, primer párrafo; 245-B, primer párrafo y fracción II, inciso b); 245-C, primer párrafo; 253, fracción I; 263, fracciones I y II; 277, fracciones II, VII, X y XIV; 278; 278-A; 278-B, fracciones II, primero, segundo y quinto párrafos y la TABLA I; 278-C, fracciones I y III, inciso c); 281-A; 282, fracciones I, y VI; 282-A, primero y antepenúltimo párrafos; 282-C, primer párrafo; 282-D y 283 penúltimo párrafo; se ADICIONAN los artículos 8, con un penúltimo párrafo; 10, con una fracción III; 12, con un último párrafo; 13, con las fracciones VI y VII; 22, fracción IV, con los incisos f) y g) y un último párrafo; 29-O, con las fracciones V, VI, VII, VIII y IX; 29-P, con un último párrafo; 49, fracción V, con un segundo párrafo; 92-A; 148, Apartado A, con una fracción I; 156, con un segundo párrafo; 162, Apartado C, con un segundo párrafo; 169, con una fracción II; 172-G, con una fracción III; 172-H, con las fracciones IX y X; 172-J; 178, con dos párrafos finales; 178-A, Apartado A, con una fracción III y con un último párrafo; 178-B, con un último párrafo; 186, con las fracciones III, VI, con un inciso e); 190-C, con las fracciones IV y V; 191-C; 191-D; 191-E; 192-A; 192-B; 192-C; 192-D; 192-E; 194-D, fracción II con un último párrafo; 194-V, fracción I, con un inciso g) y fracción II, con un inciso h); con la Sección Décima al capítulo XIII del Título I, para denominarse De los Servicios de Sanidad Forestal, comprendiendo el artículo 195; 195-G, con las fracciones III y IV; 195-I; 195-U, Apartado A, con una fracción V; 224, con una fracción VIII; 232-C; 232-D; 234-A; 240, con una fracción X; 244-A, con una fracción V; 245-B, fracción II, con un inciso d); 278-B, fracción II, con un quinto párrafo pasando el actual quinto a ser sexto; y se DEROGAN los artículos 11, fracción VI; 22, fracción III, incisos b) y c); 25, fracciones IV, inciso a), VIII y XIII; 29-A, fracciones II, segundo párrafo y III; 29-F, fracción IV; 29-G, primer párrafo; 29-H, fracciones VI y VII; 29-Q, fracción II, inciso c); 73-A, fracciones I, II, III y IV; 82; 82-A; 82-B; 82-C; 83; 83-A; 83-D; 101, fracción III; 103, fracción III; 127; 128-E; 141-A, fracción II; 148, Apartados A, fracción III, incisos b), e), g) y o), y E, fracción V; 178-A, Apartado B, fracción III; 178-B, fracción III; 186, fracciones XVII y XVIII; 190-A; Sección Tercera, Permisos para Pesca Deportiva, comprendiendo los artículos 193 y 194; 194-A, fracción II; 194-C, fracción IV, inciso d); 194-E, penúltimo párrafo; 194-I; 194-V, fracción II, inciso a); 195-E, fracción II; 195-P, fracciones I, inciso g), II, inciso g); 195-Q, fracción VII; 224, fracciones V, VII, segundo párrafo y 253, fracción II; de y a la Ley Federal de Derechos, para quedar como sigue:
 
-..........
-
 Disposiciones de Vigencia Anual de la Ley Federal de Derechos
 
 Artículo Décimo Segundo.- Durante el año de 1998, se aplicarán en materia de derechos las siguientes disposiciones:
@@ -15663,8 +15609,6 @@ LEY que modifica la Ley Federal de Derechos.
 Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1998
 
 Artículo Primero.- Se REFORMAN los artículos 1o., cuarto párrafo; 16; 19-C, fracción I, primer párrafo; 19-E, primer párrafo, fracciones I, primer párrafo, II, III, IV, V y VI; 19-F; 22, fracción IV, inciso c); 25, fracciones IV, inciso b), IX y XI; 29-A, fracciones II y IV; 29-I, primer párrafo; 29-P, fracción II; 29-Q, fracción II; 29-T, fracción I, incisos e), f) y k); 30-A, fracciones II, III, V y VI; 30-B, fracciones I, II y III; 31-A, fracciones I, II, IV y V; 40; 62, primer párrafo; 67; 76; 86-A, fracción VIII; 86-B; 91; 104, fracciones I y II; 135, primer párrafo; 165, fracciones II y III; 172, fracciones I, II y V; 178, primer párrafo; 187, Apartados A, fracciones I, V, VII y X, B, fracción I, D, fracción II y E, fracción I, primer párrafo; 192-A, fracciones I y III; 192-D; 194-D, fracciones I y II en su TABLA; 194-E, primer párrafo; La denominación de la Sección Sexta del Capítulo XIII, del Título I, para quedar como Servicios de Flora y Fauna Silvestres; 194-F, los Apartados A, primer párrafo y fracción I y B, fracciones I, segundo párrafo y II; 194-H; 194-J, fracciones I y II; 194-V, fracciones I, inciso c) y II, inciso c); 195-A, fracciones I, II, III y IV; 195-E, primer párrafo; 195-G, fracción I, inciso c); 195-I, primer párrafo y fracción III, incisos a), b) y c); 222, primer párrafo; 224; 224-A, último párrafo; 231; 231-A; 232, primer párrafo, fracciones I, IV, V, VI y VII; 232-C en su TABLA y tercer párrafo; 232-D; 234, primer párrafo; 234-A, primer párrafo; 236, primer párrafo; 236-B; 239, quinto párrafo; 240, primer párrafo, fracciones I y II; 264, primer párrafo; 277, fracciones VI, X y XVI; 278, primer y segundo párrafos; 278-A; 278-B, fracción II, segundo, cuarto y sexto párrafos, en su TABLA y el párrafo siguiente a ésta; 278-C, fracción III, primero y segundo párrafos; 281-A, último párrafo; 282, fracción I; 282-A, primero y segundo párrafos; 282-B, primer párrafo; 282-C, primer párrafo y en su TABLA; 282-D; 283, tercer y cuarto párrafos; 286-A; se ADICIONAN los artículos 7; 8, con las fracciones I, III y VIII; 15; 19-C, fracciones I, con un último párrafo, III y IV; 19-G, con un último párrafo; 19-I, fracción I, con un inciso d); 19-J; 24, con una fracción VII; 25, con una fracción VI; 29-A, con una fracción III; 29-T, fracción I, con un inciso k); 31-B; Con una Sección única al Capítulo V, del Título I, para denominarse Permisos en Materia de Energía Eléctrica y Gas Natural, comprendiendo los artículos 56 y 57; 62, con una fracción VI; 74-B; 74-C; 184, con las fracciones XXIV y XXV; 187, Apartados D, con una fracción III y F, con una fracción IV; 194-A, con un penúltimo párrafo; 194-F, Apartado B, con las fracciones V y VI; 194-W; 195-C, con una fracción III; 195-I, fracciones III con un último párrafo y VII; 223, Apartado B, fracción I, con las zonas de disponibilidad; 232, fracción I, con un segundo párrafo; 232-C, con los párrafos segundo, tercero y cuarto, pasando el actual tercero a ser quinto; 232-E; 233, con las fracciones V, VI y VII; 234, con un último párrafo; 236, con una Tabla; 237-C, con un segundo párrafo; 244; 277, con las fracciones XIX, XX, XXI, XXII, XXIII y XXIV; 278-B, con las fracciones III, IV y V; 282, con las fracciones VII y VIII; 285, con una fracción III; y se DEROGAN los artículos 11, fracciones I, V, inciso b) y VIII; 25, fracción X; 30-B, fracciones IV, V y VI; 92; 92-A; 178, fracción III; 181; 194-F, Apartado A, fracciones II, III, IV y último párrafo de dicho apartado; 194-V, fracciones I, incisos d) y e), II, incisos d), e) y f), III, IV y V; 195-A, fracción VII; 222, los dos últimos párrafos; 232-C, segundo párrafo; 233, fracción I; 236, segundo párrafo; 239, tercer párrafo; 240, fracción III; 278, último párrafo; 278-B, fracción II, último párrafo; de y a la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -15836,11 +15780,7 @@ NO2 como N
 
 En la página 15, Segunda Sección, en el renglón correspondiente a Selenio (como Selenato), en la columna número tres de los usos, dice:
 
-0.003
-
 Debe decir:
-
-0.008
 
 En la página 44, Segunda Sección, en el artículo 278-B, en la Tabla, dice:
 
@@ -15855,8 +15795,6 @@ TABLA I
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999
 
 Artículo Primero.- Se REFORMAN los artículos 15; 19-A, primer párrafo; 19-B, último párrafo; La denominación de la Sección Séptima del Capítulo I, del Título I, para quedar como Servicios Privados de Seguridad y Armas de Fuego; 19-I, primer párrafo, fracciones I, inciso d), II, III, IV y V; 19-J; La denominación de la Sección Segunda del Capítulo III, del Título I, para quedar como De la Comisión Nacional del Sistema de Ahorro para el Retiro; 31-B, primer párrafo, fracción I, primer y segundo párrafos, fracción II, primer y último párrafos; 56, primer párrafo; 57, primer párrafo; 91, primer párrafo y fracciones I y II; 93, fracciones I, II, III y IV; 94, fracciones I, II y III; 95; 96, fracciones I y II; 97; 98; 99, fracciones I, IV, incisos a) y b); 100; 101; 102, fracciones I, III, inciso a) y IV, incisos a) y b); 103; 105; 120; 123, primer párrafo, fracciones I, incisos a) y b), II, incisos a) y b), V, primer párrafo e inciso a), VI, incisos a) y b) y VII, incisos a) y b); 125, fracción IV; 138, Apartado A, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX y XL; 141-A, fracciones I, incisos a), b) y c), III, incisos a), b) y c), IV, inciso a), subincisos 1, 2 y 3, inciso b), subincisos 1, 2 y 3 e inciso c), V, primer párrafo, incisos a), b) y c); 141-B, fracción I, inciso a); 148, apartado A, fracciones III, incisos l) y r), V, incisos a) y b), apartado D, fracción I, incisos b) y d), apartado E, fracciones VI, inciso a), VIII, inciso b); 149, fracciones I y II; 155, fracción I; 162, apartado A, fracciones II, III, IV y VI, apartado B, apartado C, primer párrafo, pasando el actual párrafo segundo a ser la fracción I; 165, fracción II, inciso e), subincisos 1, 2 y 3, y fracción V, primer párrafo; 165-A, fracciones I y II; 170, segundo párrafo; 170-A, primer párrafo; 170-B, primer párrafo; 170-E; 171, fracción V, primer párrafo; 184, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV; 186, fracciones I, V, inciso b), VI, primer párrafo e incisos b), c) y d), VII, inciso a), VIII, inciso b), XI, primer párrafo e inciso a), XIII, inciso a), XV, incisos a), b) y c) y el último párrafo de esta fracción; 187, apartado A, fracciones III y IX; 194-C, primer párrafo; 194-D, fracción I; 194-F, apartado B, fracción III; 194-K; 194-M, primer párrafo; 194-N; la Sección Octava del Capítulo XIII, del Título I, denominada Prevención y Control de la Contaminación, para denominarse Servicios Forestales, comprendiendo los artículos 194-K, 194-L, 194-M, 194-N, 194-N-1 y 194-N-2; 194-O, primer párrafo y fracción II; 194-S; 194-T, primer párrafo y las fracciones I, II y III; La Sección Novena del Capítulo XIII, del Título I denominada Otros Servicios para denominarse Prevención y Control de la Contaminación comprendiendo los artículos 194-O, 194-P, 194-Q, 194-R, 194-S, 194-T, 194-T-1 y 194-T-2; La denominación de la Sección Décima del Capítulo XIII, del Título I, para quedar como De la Inspección y Vigilancia, comprendiendo el artículo 194-U; 195-A, fracciones I, incisos a) y b), II, III y IV; 195-E, fracción I; 195-G, fracciones I, incisos b) y c), II, incisos a) y b), III, incisos a) y b), IV, incisos a) y b); 195-I, fracción III, inciso a); La denominación del Capítulo I, del Título II, para quedar como Bosques y Parques Nacionales; 224, fracción VI, último párrafo; 224-A, fracción I, último párrafo; 231; 232-D, Zona II; 233, fracción II; 234, último párrafo; 240, fracción VIII y último párrafo; 244 en su TABLA; 278-A, cuerpos receptores Tipo B de los Estados de Baja California Sur, Coahuila, Chiapas, San Luis Potosí, Tamaulipas y Zacatecas, cuerpos receptores Tipo C del Estado de Sinaloa; 281-A, segundo párrafo; 282-A, cuarto párrafo y 282-C, último párrafo; se ADICIONAN los artículos 8o., con un último párrafo; 16, con un último párrafo; 19-1; 19-E, con una fracción IX; 19-I, con una fracción VIII; 19-K; 24, con una fracción VIII; 53-D, con una fracción IX; 53-E, fracción I con un inciso f); 53-F, con una fracción IX; 56, con las fracciones III y IV; 57, con las fracciones V, VI, VII, VIII y IX; 126; 148, apartado A, fracciones II, con los incisos c), e), f), g), h), e i), III, con un inciso y), IV, con un inciso b), apartado E, fracción XIV, con los incisos d), e) y f); 149,con las fracciones III y X; 155, con una fracción IV; 162, apartado C, con las fracciones II y III; 165, fracción II, con un último párrafo; 170, con un antepenúltimo y penúltimo párrafos; 170-A, con una fracción VII; 171-B; 171-C; 171-D; 171-E; 172-E, con las fracciones V y VI; 187, apartado B, con una fracción III; 194-C-1; 194-F-1; 194-N-2; 194-T, con las fracciones IV, V, VI y VII; 194-T-1; 194-T-2; Con una Sección Quinta al Capítulo XIV, del Título I, para denominarse Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, comprendiendo los artículos 195-L-1, 195-L-2 y 195-L-3; 198; 233, fracción II, con un segundo párrafo; se DEROGAN los artículos 10, fracción II; 18; la Sección Cuarta del Capítulo VII del Título I; 90-A; 90-B; 90-C; 90-D; 90-E; 148, apartado A, fracción III, incisos c) y d), apartado E, fracción XII, inciso b); 149, fracciones V y VI; 162, apartado A, fracción V; 186, fracción IV, IX y X; 187, apartado A, fracción XI; 194-A; 194-E; 194-F, apartado B, fracción IV; 194-V; 194-W; 195; 195-E, fracción IX; 195-F, fracciones VI y VII; de y a la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 ##### Transitorios
 
@@ -16274,8 +16212,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 
 Artículo Único.- Se REFORMAN los artículos 1o., cuarto párrafo; 19-I, fracciones I, incisos b) y d), y V; 19-K, primer párrafo; 29-A; 29-B; 29-C; 29-F; 29-G, primer párrafo; 29-J, segundo párrafo; 29-K, fracción IV; 29-O, primer párrafo y fracción IX; 29-T, fracción III, inciso a); 29-U, primer y segundo párrafos; 29-X, segundo párrafo; 31-B, fracción I, párrafos segundo y tercero; 40; 62, primer párrafo; 86-A, fracción VII; 148, apartado A, fracción III, inciso t); 170, primer párrafo; 171-A, fracción I, incisos a) y b); 172-E, fracción III; 186, fracción XV, inciso c); 191-A, primer párrafo; 192, primer párrafo y fracción IV; 192-A, primer párrafo y fracción V; 192-C, fracción III; la denominación de la Sección Sexta del Capítulo XIII del Título I, para quedar como Servicios de Vida Silvestre; 194-F, primer párrafo, apartado B, fracción I, segundo párrafo; 194-F-1, fracción I, inciso b); 194-H, fracciones II y IV; 194-J, fracciones II, incisos a) y c) y IV, incisos a) y c); 195-F, fracciones I y V; 219; 220; 221; 223, apartado B, fracción I, inciso c); 224, fracción VI, segundo párrafo; 224-A, fracciones I, segundo párrafo y II, segundo párrafo; 226, primer párrafo; 227; 229, fracción VI; 231, zona 2, zona 4, Estado de Hidalgo, zona 7, Estado de Oaxaca, zona 8, Estado de Veracruz; 231-A, primer párrafo; 232, fracción I, segundo párrafo; 232-E, primer y segundo párrafos; 278-A, Cuerpos Receptores tipo B, Zacatecas, Cuerpos Receptores Tipo C, Veracruz; 278-B, fracciones II, tercero y cuarto párrafos, IV, inciso a) y último párrafo; 281-A, segundo párrafo; 283, primer párrafo; Se ADICIONAN los artículos 19-I, fracción I, con los incisos e) y f); 19-K, con un segundo párrafo; 24, con una fracción IX; 29-J, con un tercer párrafo, pasando el actual tercero a ser cuarto párrafo; 29-O, con una fracción X; 29-U, con un último párrafo; 29-W, con las fracciones IV y V; 30-A, con las fracciones VII y VIII; 31-A, con las fracciones VII y VIII; 49, fracción V, con un tercer párrafo; 58; 62, con las fracciones VII y VIII; 86-F; 148, apartado A, fracción II, inciso j), apartado E, con las fracciones I y II; 149, fracción V; 185, fracción VII, con los incisos e) y f) y con una fracción XIII; 186, con las fracciones IV, X, la fracción XV, con un inciso d) y con una fracción XXVI; 191-A, con las fracciones IV, V, VI, VII, VIII, IX y X; 192-C, fracción III, con un segundo párrafo; 194-D, fracción I, con un segundo párrafo; 194-F, con una fracción IV; 194-F-1, fracción I con los incisos e) y f); 194-T-3; 195-K-1; 282-A, con un cuarto párrafo, pasando los actuales cuarto, quinto y sexto párrafos a ser quinto, sexto y séptimo párrafos, respectivamente; 284, con una fracción VI; 285, con una fracción VII; y Se DEROGAN los artículos 15, 19-C, fracción IV; 25, fracción V, inciso c); 64, fracción I; 65, fracción V; 148, apartado A, fracción II, inciso g), fracción III incisos u) y v); 163, fracción II; 192-E, fracción XI; 194-F, apartado A y apartado B, fracciones V y VI; 194-H, fracción III; 194-J, fracciones II, inciso b) y IV, inciso b); 221-A; 221-B; de y a la Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 ##### Transitorios
 
 Artículo Primero.- La presente Ley entrará en vigor a partir del 1o. de enero de 2001.
@@ -16353,8 +16289,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de enero de 2002
 
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 4o., décimo tercer párrafo; 12, segundo párrafo; 18-A; 19-E, fracción VI; 19-H, primer párrafo, fracciones I y III; 23, fracción VIII; 29-E; 29-F, segundo párrafo y fracción II; 29-G; 29-H, primer párrafo, fracciones III, IV, V y último párrafo; 29-L, fracciones I y II; 29-O, primer párrafo, fracción VIII; 29-P; 29-Q; 29-R; 29-S; 29-T; 29-W, fracciones I, II, III, IV y V; 40; 52; 72, primer párrafo y fracción V; 86-E, fracción II; 103, fracción V; 105, primer párrafo; 153, fracciones II y VI; 165, fracción VI, incisos a), b), c), d) y e); 165-A, fracciones III y IV; 166, primer párrafo; 170, primer párrafo y fracción I; 186, fracción I, inciso b); 191-A, fracciones VIII, IX y X; 192-C, fracción III; 192-D; 194-D, fracción I, segundo párrafo; 194-F, apartado B, primer párrafo y fracción IV; 194-F-1, primer párrafo, fracción I, incisos a), c) y e) y fracción II, primer párrafo; 195-F, primero y último párrafos; 195-G, fracción II, inciso c) y fracción III, inciso c); 195-T, apartado C, fracción III; la denominación del Capítulo I del Título II para quedar como "Bosques y Áreas Naturales Protegidas"; 198; 225; 226, último párrafo; 228, primer párrafo y fracción V; 229, fracción II; 230-A; 231-A; 232, fracción VIII, inciso c); 232-C, segundo párrafo; 232-E, penúltimo párrafo; 236, tercer párrafo; la denominación del Capítulo X del Título II para quedar como "Aprovechamiento de la Vida Silvestre"; 238; 240, fracción VIII; 245, primer párrafo y fracciones II y III; 278-B, fracción IV, inciso b), tablas B y C y último párrafo; 282-A, tercer párrafo; 284, fracción III; 285, fracción III y 286-A. Se ADICIONAN los artículos 5o., fracción I con un segundo párrafo; 18; 19-H, fracción V; 25, fracciones X y XI con un inciso d); 29-H, fracción VI, con sus incisos a) y b); 29-K, fracciones V, VI, con incisos a), b), c) y d), VII y VIII; 29-O, fracción XI; 30, fracciones V y VI; 32; 86-D-1; 86-G; 91, último párrafo; 97, fracciones VIII, con incisos a) y b) y IX, con incisos a) y b); 150; 150-A; 150-B; 150-C; 151; 152; 153, fracciones VII, VIII y IX; 153-A; 158, fracción IV; 165, fracción II, con un inciso f) y con las fracciones XI, XII y XIII; 168-A; 170, con un último párrafo; 172-K; 172-L; 172-M; 172-N; 185-A; 186, fracción I, con un inciso c) y con una fracción IX; 194-F-1, fracción III; 194-U, último párrafo; 195-L-4; un Capítulo XVIII al Título I denominado "De la Secretaría de Seguridad Pública", comprendiendo una Sección Única denominada "Servicios Privados de Seguridad y Armas de Fuego", con los artículos 195-X, 195-X-1 y 195-X-2; un Capítulo XIX al Título I denominado "Del Poder Judicial de la Federación", comprendiendo una Sección Única denominada "Del Instituto Federal de Especialistas de Concursos Mercantiles", con un Artículo 195-Y; un Capítulo XX al Título I denominado "De la Secretaría de la Marina" comprendiendo una Sección Única denominada "Cartas Náuticas" con un artículo 195-Z; 198-A; 223, apartado B, fracción I, tercero y cuarto párrafos; 228, fracción VI; 231; 232-C, con un último párrafo; 233, fracciones VIII, IX y X; 236, cuarto y últimos párrafos; 236-A; 236-A-1; una Sección Primera al Capítulo X del Título II, denominada "Aprovechamiento Extractivo" y con una Sección Segunda denominada "Aprovechamiento No Extractivo", con un artículo 238-B; 239, último párrafo; 241; 242; 278-C, último párrafo; 282-A, último párrafo; un Capítulo XVI al Título II, denominado "De los Bienes Culturales Propiedad de la Nación", con un artículo 288. Se DEROGAN los artículos 14-B; 16, segundo párrafo; la Sección Séptima del Capítulo I del Título I denominada "Servicios Privados de Seguridad y Armas de Fuego" con los artículos 19-I, 19-J y 19-K; 26, fracción V; 29-L, fracción III; 51, fracción III; 53-C; 104; 165-A, fracciones I y II; 172-H, fracción III; 192-E, último párrafo; 194-B; 194-F-1, fracción I, inciso b); 195-M; 195-N; 195-Ñ; 195-O; 195-W, fracciones II y IV; 240, último párrafo; 278-B, fracción II, tercer párrafo de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias
 
@@ -16456,8 +16390,6 @@ Publicado en el Diario Oficial de la Federación el 4 de junio de 2002
 
 Artículo Unico.- Se adiciona último párrafo al artículo 20; último párrafo al artículo 22 y último párrafo al artículo 23 de la Ley Federal de Derechos, para quedar de la siguiente forma:
 
-..........
-
 ##### TRANSITORIO
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, debiéndose fijar las reglas de operación por parte de las Dependencias competentes del Ejecutivo Federal.
@@ -16471,8 +16403,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 ARTÍCULO PRIMERO.- Se REFORMAN los artículos 3o., segundo, tercero y quinto párrafos; 4o., párrafo decimosegundo; 5o., fracción VII; 6o., fracción III; 8o., fracción VII, incisos a) y b); 19-1; 19-B; 19-C, fracción I, primer párrafo; 20, último párrafo; 40, penúltimo párrafo; 56; 57, fracciones II, III, V, VI, VII, VIII y IX; 85, último párrafo; 86-A, fracciones V y VI; 103, fracción VIII; 124, primer párrafo; 135, primer párrafo y fracciones I y IV; 141-A, fracción V, primer párrafo; 150, segundo párrafo; 150-A, fracciones I, inciso a), II, tabla de clasificación de aeropuertos, III, penúltimo y último párrafos, IV, tabla de clasificación por peso de aeronave y último párrafo, y VI; 150-B, fracción II; 150-C, fracción II y último párrafo; 151; 167; 170, tercer párrafo; 170-A, primer párrafo y fracción VII; 170-D; 172-H, fracción I; 172-M; 186, primer párrafo, fracciones XVI, XIX, incisos a) y b) y XX, incisos a) y b); 191-A, fracciones IV, V, VI y IX; 191-B fracción III; 191-C; 192, primer párrafo y fracciones I, II y III; 192-C, fracción I; 194-F, apartado B, fracción II; 194-U; 195-A, fracciones I, incisos a) y b), II, III y IV; 195-C, fracción III, incisos a) y b); 195-E, fracciones V y X; 195-F, fracciones I, II, III, IV y VIII; 195-G, fracciones I, incisos a), c) y d), II, incisos a) y b), III, incisos a) y b) y IV, incisos a) y b); 195-I, fracciones I, II, III, incisos a), b) y c), IV, incisos a) y b), V y VII; 195-J, fracción I; 195-L-1, fracciones I, incisos a) y b) y III, inciso b); 195-L-2; 195-L-4; 198; 198-A; 213; 214, segundo párrafo; 215; 223, apartado B; 224, fracción IV; 226, último párrafo; 231, Zona 5, Estado de Oaxaca, Zona 6, Estado de Chiapas, Zona 7, Estados de Oaxaca y Tamaulipas, y Zona 8, Estado de Tamaulipas; 231-A, primero y segundo párrafos; 232, último párrafo; 232-C, último párrafo; 236-B; 238, fracciones VI y XII y tercer párrafo; 238-A, primero y actual último párrafos; 238-B; 240, fracción IV; 244-A, fracciones I, III, primer párrafo, IV, primer párrafo y V; 288. Se ADICIONAN los artículos 3o., con un último párrafo; 5o., fracción VII, con un segundo párrafo; 18-B; 19-C, fracción I con un último párrafo y con una fracción IV; 19-H, con un último párrafo; 40, con los incisos l) y m); 59; 60; 86-H; 150, tercero, cuarto, quinto, sexto, séptimo y octavo párrafos; 158, con una fracción V; 168-B; 168-C; 186, con una fracción XXVII; 187, Apartado A, con un último párrafo; 191, con un último párrafo; 194-F-1, con una fracción IV; 194-V; 195-K-2; 195-K-3; 195-K-4; 195-K-5; 195-K-6; 195-K-7; 195-K-8; 195-K-9; 195-K-10; 195-K-11; 195-K-12; 195-T, Apartados B, con las fracciones III y IV y último párrafo, C, fracciones V y VI y último párrafo, F, fracciones IV y V y último párrafo; 195-X, con las fracciones VIII y IX; 196, con un último párrafo; 197-A, con un último párrafo; 223, Apartado A, con un último párrafo, Apartado B, fracción I, con un antepenúltimo, penúltimo y último párrafos y Apartado C; 231, Zona 8, Estado de Chiapas; 231-A, último párrafo, 232-A, con un último párrafo; 232-D-1; 232-D-2; 238, con un último párrafo; 238-A, con un último párrafo; 238-C; 244, con un segundo, tercero, cuarto, quinto, sexto y último párrafos; 244-B; 244-C; 253-A. Se DEROGAN los artículos 4o., séptimo párrafo; 150-A, fracción VII, segundo párrafo; 150-B, fracción III, segundo párrafo; 194-C, fracción V y antepenúltimo y penúltimo párrafos; 194-F-1, fracción I, inciso d); 194-N-2, fracción I; 194-S; 214, último párrafo; 216; 238, fracción XIII; 238-B, cuarto párrafo; 239, cuarto párrafo; 231, Zonas 5 y 6, Estado de Chiapas; 240, fracción VII de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -16562,8 +16492,6 @@ Lo dispuesto en este artículo, no dará lugar a devolución alguna.
 
 Los derechos que se causen a partir del 1o. de enero de 2003 por la aplicación del artículo 238-B de la Ley Federal de Derechos se pagarán conforme a lo dispuesto en el último párrafo del artículo antes mencionado.
 
-.
-
 Transitorio del Decreto
 
 Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
@@ -16579,8 +16507,6 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003
 Ley Federal de Derechos
 
 ARTÍCULO NOVENO. Se REFORMAN los artículos 1°, párrafos cuarto, quinto y séptimo actuales; 22, fracción IV, inciso b); 29; 29-A; 29-B; 29-C; 29-D; 29-E; 29-F; 29-G; 29-H; 29-I; 29-J; 29-K; 29-L; 30-A, fracción VIII; 31-A, fracción VIII; 31-A-1; 40, penúltimo párrafo; 51, primer párrafo; 91; 93, fracciones I y II; 97, fracciones IV, primer párrafo y IX, primer párrafo; 148, apartado A, fracciones II, inciso c) y III, inciso y); 150, tercer, cuarto, quinto, sexto y séptimo párrafos; 150-A, fracciones V, primer párrafo y VI, incisos a) y d); 150-B, primer párrafo; 150-C, fracciones I y II; 151, apartado E, fracción I; 186, fracción XXVII, incisos a), b) y c); 192, primer párrafo; 194-F-1, fracción I, incisos a) y f); 194-K, primer párrafo y fracciones II, III y IV; 194-L, primer párrafo y fracciones II, III y IV; 194-M; 194-N; 194-N-1; 194-N-2; 194-O, fracciones I y II; 194-T, fracciones III y IV; 194-U, último párrafo; la denominación de la Sección Primera del CAPÍTULO XIV del Título I para quedar "Autorizaciones en Materia Sanitaria"; 195-A; 195-C, fracción I; 195-I, primer párrafo; 195-K-2, fracción I; 195-L-2, primer párrafo; 195-L-4; 198, fracción I, primer párrafo; 223, apartado A, último párrafo; 231, último párrafo; 232-D-1, primer párrafo; 236; 238, primer, segundo y tercer párrafos; 238-A, fracción I y penúltimo párrafo; 238-B; 238-C, primer, tercer y último párrafos; 244-A, fracción II, y 244-B, Tabla A; y 288, último párrafo; se ADICIONAN los artículos 1°, con un quinto, sexto y séptimo párrafos, pasando los actuales quinto, sexto, séptimo y octavo a ser octavo, noveno, décimo y décimo primer párrafos; 30-C; 31-A-2; 40, con un inciso n); 51, con una fracción III, comprendiendo los incisos a) y b); 56, con una fracción V; Título I, CAPÍTULO VI, con una Sección Séptima denominada "Servicios de Certificación de Firma Electrónica en Actos de Comercio" comprendiendo el artículo 78; 94-A; 138, con un último párrafo; 150-A, con una fracción VIII; 150-B, con un último párrafo; 190-C, fracción VI; 191-F; 194-N-3; 194-N-4; 194-N-5; 194-U, con una fracción VIII; 194-W; 195 a la Sección Primera, CAPÍTULO XIV del Título I; 198, fracción I, cuarto párrafo con Reserva de la Biosfera Arrecifes de Sian Ka'an y Reserva de la Biosfera Archipiélago de Revillagigedo, y un último párrafo; 198-A, cuarto párrafo con Parque Nacional Izta-Popo, Zoquiapan y Anexas, Parque Nacional Palenque, Parque Nacional El Tepozteco, Reserva de la Biosfera Los Tuxtlas, Reserva de la Biosfera Mariposa Monarca, Reserva de la Biosfera El Pinacate y Gran Desierto del Altar, Reserva de la Biosfera Tehuacán-Cuicatlán, Área de Protección de Flora y Fauna Cuatrociénegas, Reserva Forestal Nacional y Refugio de Fauna Silvestre Sierras de los Ajos-Bavispe; 198-B; 199-B, con un último párrafo; 224, fracción V, con un cuarto párrafo, pasando los actuales cuarto, quinto y sexto a ser quinto, sexto y séptimo; 232, último párrafo, con los incisos d) y e), y 244-D; y se DEROGAN los artículos 29-M; 29-N; 29-Ñ; 29-O; 29-P; 29-Q; 29-R; 29-S; 29-T; 29-U; 29-V; 29-W; 29-X; 29-Y; 150-B, fracción III; 151, apartado A, tercer párrafo, pasando el actual cuarto a ser tercer párrafo, y el actual cuarto párrafo, fracción III; 186, fracción VI, inciso e); 194-D, fracción IV; 194-J, fracción III; 195-F; 195-I, fracciones III y V; 195-L-1, fracción I; 195-L-2, fracción I; 198, fracción II; 198-A, fracción II; 232-C, último párrafo, y 287 de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias de la Ley Federal de Derechos
 
@@ -16712,8 +16638,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2004
 
-..........
-
 Atentamente
 
 Sufragio Efectivo. No Reelección.
@@ -16725,8 +16649,6 @@ México, D.F., a 20 de abril de 2004.- El Jefe del Servicio de Administración T
 Publicado en el Diario Oficial de la Federación el 19 de noviembre de 2004
 
 Artículo Único. Se reforma la fracción III del artículo 194-M de la Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 ##### Transitorio
 
@@ -16741,8 +16663,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 1º de diciembre de 2004
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 19-B, primer párrafo; 22, fracciones III, inciso d) y último párrafo y IV, inciso e); 23, penúltimo párrafo; 24, fracción IV; 29, último párrafo; 29-A; 29-B, fracción I, incisos a), segundo párrafo, b), numerales 2 y 3, primer párrafo, e), f), segundo párrafo, i), primer párrafo y numerales 1, segundo párrafo y 2, primer párrafo y j), primer párrafo y numeral 1; 29-C, primer párrafo; 29-D, primer párrafo y las fracciones I, incisos a) y b) y último párrafo, II, incisos a), b) y c) y último párrafo, III, incisos a) y b), IV, incisos a) y b), V, incisos a), b) y c), VI, incisos a) y b) y último párrafo, VII, incisos a), b) y c) y último párrafo, VIII, inciso a) y último párrafo, X, incisos a), b) y c) y último párrafo, XI, penúltimo párrafo, XII, incisos a), b) y c) y último párrafo, XIII, incisos a), b) y c) y tercer párrafo, y último párrafo; 29-E, primer párrafo y las fracciones I, segundo párrafo, II, segundo párrafo, IV, segundo párrafo, V, segundo párrafo, VI, segundo párrafo, XI, segundo párrafo, XIII, segundo párrafo, XIV, segundo párrafo, XV, XIX, segundo párrafo, XX, segundo párrafo, XXI, incisos a) y b), XXII, incisos a) y b), XXIII, segundo y tercer párrafos, XXIV, segundo párrafo; 29-F, último párrafo; 29-H; 29-I, primer y último párrafos; 29-K, fracciones I, II y V; 31-B; 32; 40, primer párrafo, incisos b) e i); 41, primer párrafo y fracciones I, II, primer párrafo y III; 42, primer párrafo; 46; 49, fracciones I, II, III, IV y V, segundo párrafo; 50-B; 52; 56, fracción V, primer párrafo; 56-Bis; 73-A; 88, fracción V; 103, fracción II; 124, fracción III; 125, fracciones II, incisos c) y h), III, IV y V; 138, apartado A, fracciones II, IV, VI, VIII, X, XXVII y XL y antepenúltimo, penúltimo y último párrafos; 148; 149; 150-C, primer y último párrafos; 152, primer párrafo; 170-B, primer párrafo; 170-D; 172-M; 176-A; la denominación Secretaría de Contraloría y Desarrollo Administrativo del Capítulo XII del Título Primero; 191, primer, tercero y cuarto párrafos; 194-F-1; 194-H; 194-L, fracciones II, III y IV; 194-T, fracciones II y IV; 194-T-1, primer párrafo; 194-T-3, fracción III; 194-U, fracciones I y II; 195, fracción III, tercer párrafo; 195-A, fracciones IV, incisos a), b) y d), VII, incisos a), b) y d) y VIII; 195-T, apartado C, fracción IV, incisos a) y b); 198, quinto párrafo; 198-A, segundo párrafo; 198-B, tercer párrafo; la tabla contenida en el artículo 232-C, 232-D-2, primer párrafo; 236, fracción I; 238, primer párrafo, fracciones II y VI, y segundo, tercero, cuarto y quinto párrafos, y 288, segundo párrafo; se ADICIONAN los artículos 20, con un último párrafo, 25, fracción V, con un inciso c); 26-A; 29, con las fracciones X y XI; 29-B, fracción I, con un inciso k) y un último párrafo; 29-D, con las fracciones XIV y XV; 29-K, con una fracción VI; 33; 34; 35; 49, fracción VII, con un inciso b), pasando los actuales incisos b) y c) a ser c) y d) respectivamente, y con un tercer párrafo, pasando los actuales tercer, cuarto, quinto, sexto y séptimo párrafos a ser cuarto, quinto, sexto, séptimo y octavo; 56, con una fracción III; 61; 85-A; 170-G; 170-H; 170-I; 170-J; 194-K, con un último párrafo; 194-L, con un último párrafo; 194-T, con una fracción VIII y un último párrafo; 194-T-1, con un último párrafo; 194-T-3, con un último párrafo; 195, fracción III, con un último párrafo; 195-A, fracción VII, con un último párrafo; 195-K-2, con un último párrafo; 288-A; 288-B; 288-C; 288-D; 288-E; 288-F; 288-G; un Capítulo XVII al Título Segundo, denominado Derecho por el uso, goce o aprovechamiento del Espacio Aéreo Mexicano, comprendiendo los artículos 289, 290, 291 y 292; y se DEROGAN los artículos 3, séptimo párrafo; 19-C, fracción IV; 20, fracción I; 22, fracción III, inciso e); 24, fracción VI; 29, fracción VIII; 29-E, fracciones VIII, IX y X; 29-K, fracción III; 38; 39; 50; 50-C; 74-C; 86-B; 86-C, fracción II; 86-D-1; 86-E, fracción II; 86-F; 150; 150-A; 150-B, 152, fracción IV; 178; 178-A; 178-B; 194-J; 234-A; 238, fracción XII; 238-B; 240, fracción V, último párrafo; la denominación Sección Primera Espectro Radioeléctrico del Capítulo XI del Título Segundo; y 288, penúltimo párrafo, de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias
 
@@ -16790,8 +16710,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2005
 
-..........
-
 Atentamente
 
 Sufragio Efectivo. No Reelección.
@@ -16803,8 +16721,6 @@ México, D.F., a 10 de febrero de 2005.- El Jefe del Servicio de Administración
 Publicado en el Diario Oficial de la Federación el 13 de mayo de 2005
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 289, fracción II; 290, primer párrafo, de la Ley Federal de Derechos, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIO
 
@@ -16819,8 +16735,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2005
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 7o., último párrafo; 19-E, fracción VI; 29, fracciones IV y VI; 29-B, fracción I, incisos a), segundo párrafo, b), numerales 1, segundo párrafo y 2, segundo párrafo, e), segundo párrafo, f), i), numeral 2, segundo párrafo y k); 29-C, párrafo primero, fracciones I, segundo párrafo y II, segundo párrafo; 29-D, fracciones I, incisos a) y b), II, incisos a), b) y c), III, incisos a) y b), IV, incisos a) y b), V, incisos a), b) y c), VI, incisos a) y b), VII, incisos a), b) y c), X, incisos a), b) y c), XI, inciso a) y penúltimo párrafo, XII, incisos a), b), c) y último párrafo, XIII, incisos a), b), c) y último párrafo, XIV, inciso b), XV, inciso b); 29-E, fracciones I, segundo párrafo, II, segundo párrafo, III, segundo párrafo, IV, segundo párrafo, V, segundo párrafo, VI, segundo párrafo, XI, segundo párrafo, XII, segundo párrafo, XIII, segundo párrafo, XV, segundo párrafo, XVI, segundo párrafo, XVIII, segundo y último párrafos, XIX, segundo párrafo, XX, segundo párrafo, XXII, incisos a) y b), XXIII, segundo y último párrafos, XXIV, segundo párrafo; 29-H; 63, primero y último párrafos; 89; 100, párrafo primero; 124, fracción IV; 138, antepenúltimo párrafo; 167; 186, fracciones II y III; 192, párrafo primero y fracción IV; 192-A, párrafo primero, fracciones II, III y V; 194-F, apartado B, fracción I, párrafo primero; 194-F-1, fracción II; 194-H, fracción IV, tabla A; 194-K, primero y segundo párrafos; 194-L, primero y segundo párrafos; 194-M, último párrafo; 194-N; 194-N-2, fracción III; 194-N-4, fracciones I y II; 194-N-5; 195-A, fracción VI, párrafo tercero; 195-X, fracción IV; 198; 198-A; 198-B, párrafo primero; 199-A, fracciones VI y XXI; la denominación del Capítulo V del Título Segundo para quedar como "SALINAS", comprendiendo los artículos 211-A y 211-B; 232-C, párrafo primero, tabla de usos; el artículo 232-D, zonas VII, VIII, IX y X; 233, fracción VIII; 238-C, primero, segundo, tercero y quinto párrafos; 245, fracción I; 245-B, párrafo primero y fracción II; 263; 264; 288, primero, segundo, Áreas tipo AA, B y C y, último párrafos; 288-A, párrafo primero; se ADICIONAN los artículos 29, fracción VIII; 29-F, con un último párrafo; 29-G, con un último párrafo; 29-I, con un tercero y cuarto párrafos, pasando los actuales tercero, cuarto y quinto a ser quinto, sexto y séptimo párrafos respectivamente; 29-M; 90, con una fracción IV; 103, fracción II, con un inciso e); 124, fracción II, con un inciso f); 172-G, con una fracción IV; 192, con una fracción V; 194-K, con un último párrafo; 194-L, con un último párrafo; 194-T-4; 204-A; 211-A; 211-B; 288, párrafo primero, Áreas tipo AAA, segundo párrafo, Áreas tipo AAA, y se DEROGAN los artículos 19-E, fracciones IV, V y VIII; 19-F, fracción IV; la Sección Quinta del Capítulo VI del Título Primero denominada "Permisos de Importación" comprendiendo los artículos 74, 74-A, 74-B, 75 y 76; 89-A; 148, apartado D, fracción II; 153-A; 194-H, fracción V; 194-N-4, fracción III; 195-A, fracción IV, último párrafo; 289, fracción I, cuarto párrafo, de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias
 
@@ -16902,8 +16816,6 @@ Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2005
 
 Artículo Único.- Se reforma el Capítulo XII, Hidrocarburos, del Título Segundo, de la Ley Federal de Derechos, para quedar como sigue:
 
-..........
-
 ##### TRANSITORIOS
 
 Artículo Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil seis.
@@ -16954,8 +16866,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2006
 
-..........
-
 Atentamente
 
 México, D.F., a 23 de enero de 2006.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
@@ -16965,8 +16875,6 @@ México, D.F., a 23 de enero de 2006.- El Jefe del Servicio de Administración T
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 18-A; 23, fracción VIII; 24, fracción VIII; 26, fracciones II, inciso a) y III, primer párrafo e inciso a); 29, fracciones V y VIII; 29-A, primer párrafo y fracciones I y II; 29-B, fracción I, incisos a), b), primer párrafo, d), primer párrafo, e), segundo párrafo, g), primer párrafo, j), numeral 1, segundo párrafo, k) y fracción IV; 29-D, fracciones I, incisos a), b) y último párrafo, II, incisos a), b), c) y último párrafo, III, incisos a), b) y último párrafo, IV, incisos a), b) y último párrafo, V, incisos a), b), c) y último párrafo, VI, incisos a), b) y último párrafo, VII, incisos a), b), c) y último párrafo, VIII, párrafos primero y segundo, IX, último párrafo, X, incisos, a), b), c) y último párrafo, XI, segundo párrafo, inciso a) y penúltimo párrafo, XII, incisos a), b), c) y último párrafo, XIII, incisos a), b), c) y último párrafo, XIV, inciso b), XV, inciso b) y último párrafo, así como el segundo párrafo del artículo; 29-E, fracciones II, segundo párrafo, III, segundo párrafo, IV, segundo párrafo, V, segundo párrafo, VI, segundo párrafo, XI, segundo párrafo, XIII, XIV, segundo párrafo, XV, segundo párrafo, XVI, segundo párrafo, XVIII, segundo párrafo, XX, segundo párrafo, XXI, incisos a) y b), XXII, incisos a) y b) y XXIII, segundo párrafo; 29-F, fracciones I, primer párrafo e incisos a), b), primer párrafo, c) y e), primer párrafo y III; 29-I, primer párrafo; 29-K, fracción I; 29-M; 56; 57; 58; 102, fracciones IV, primer párrafo y V; 169, fracciones III, primer párrafo, IV, primer párrafo, y VI, primer párrafo; 170, tercer párrafo; 170-C, primer párrafo; 170-E, primer párrafo; 170-F; 172-M; 190-B, primer párrafo y fracciones I y IV; 194-C, primer párrafo; 194-F-1, fracción I, primer párrafo; 194-H, fracciones II, III, Tabla B y quinto párrafo; 194-K, inciso c); 194-L, inciso c); 194-N-5; 198, tercero y cuarto párrafos; 198-A, fracciones I, II, y segundo, cuarto, quinto y sexto párrafos; 238-C, párrafos primero, segundo y tercero, y 288, primer párrafo y Áreas tipo AAA, segundo párrafo, Áreas tipo AAA y AA, y último párrafo; se ADICIONAN los artículos 20, con un último párrafo; 24, fracción VIII, con un inciso e); 29, con las fracciones IX, pasando las actuales IX, X y XI a ser X, XI y XII respectivamente, XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX; 29-D, con las fracciones XVI, XVII, XVIII y XIX; 29-I, con un penúltimo y último párrafos; 30-D; 169, con un último párrafo; 194-K, con los incisos d) y e); 194-L, con los incisos d) y e); 195, con una fracción IV, 195-A, con las fracciones X, XI y XII; 198-A, con una fracción III; 232, con una fracción XI; 285, con una fracción VII, pasando la actual VII a ser VIII; 288, con un último párrafo y 288-A-1, y se DEROGAN los artículos 26, fracción II, inciso b); 29, último párrafo; 29-B, fracción II; 29-D, fracción VIII, inciso a); 29-E, fracciones I, VII, XVIII, último párrafo y XIX; 29-F, fracción II; 103, fracciones I, IV y V; 169, fracción V; 194-F-1, fracción V y 194-H, fracción IV de la Ley Federal de Derechos para quedar como sigue:
-
-..........
 
 Disposiciones Transitorias
 
@@ -17044,8 +16952,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2007
 
-..........
-
 Atentamente
 
 México, D.F., a 20 de diciembre de 2006.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
@@ -17056,11 +16962,7 @@ Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
 
 Artículo Primero. Se REFORMAN los artículos 254, párrafo primero y fracciones IV y VI; 254 Bis, párrafos primero, tercero y quinto; 255, párrafo primero; 261, párrafos primero y segundo, y se ADICIONAN los párrafos sexto y séptimo del artículo 254, pasando los actuales sexto y séptimo a ser octavo y noveno, y los párrafos sexto, séptimo, octavo y noveno del artículo 254 Bis, todos de la Ley Federal de Derechos, para quedar como sigue:
 
-..........
-
 Artículo Segundo. Se REFORMA la fracción IV del Artículo Quinto Transitorio del Decreto por el que se Reforman Diversas Disposiciones del Capítulo XII, Título Segundo, de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2005, para quedar como sigue:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -17180,11 +17082,7 @@ Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007
 
 ARTÍCULO PRIMERO. Se REFORMAN los artículos 8o., último párrafo; 12; 16; 18-A; 20, fracciones II y III, segundo y el actual último párrafos; 24, fracción III; 29, fracción VII; 29-B, fracciones I, incisos a), numeral 1, segundo párrafo, b), numerales 1, segundo párrafo, 2, segundo párrafo y 3, segundo párrafo, c), segundo párrafo, d), segundo párrafo, e), segundo párrafo, f), segundo párrafo, g), segundo párrafo, h), segundo párrafo, i), numerales 1, segundo párrafo y 2, segundo párrafo, j), numeral 1, segundo párrafo y k), primer párrafo, y IV, primer párrafo; 29-D, fracciones I, incisos a) y b), II, incisos a), b) y c), III, incisos a) y b) y último párrafo, IV, incisos a) y b) y último párrafo, V, incisos a), b) y c) y último párrafo, VI, incisos a) y b) y último párrafo, VII, incisos a), b) y c), VIII, segundo párrafo, X, incisos, a), b) y c), XI, inciso a), y tercer párrafo, XII, incisos, a), b) y c) y último párrafo, XIII, incisos, a), b) y c) y último párrafo, XIV, inciso b), XV, inciso b) y último párrafo, XVI, inciso b), XVII, inciso b), XVIII, incisos, a), b) y c) y tercer párrafo, y XIX, segundo párrafo; 29-E, fracciones II, segundo párrafo, III, segundo párrafo, IV, segundo párrafo, V, segundo párrafo, VI, segundo párrafo, XI, segundo párrafo, XII, segundo párrafo, XIV, segundo párrafo, XVIII, segundo párrafo, XX, segundo párrafo, XXI, incisos a) y b), XXII, incisos a) y b) y XXIII, segundo párrafo; 29-F, fracciones I, incisos a), numeral 1, segundo párrafo, c), segundo párrafo y e), segundo párrafo y III; 31, fracción I, primer párrafo; 31-B; 32; 33; 40, inciso l) y segundo párrafo; 49, fracción III, primer párrafo; 78; 162, apartados A y B; 167, primer párrafo; 171-A, primer párrafo y fracción II; 187, apartados A, fracciones I y VII, B, fracción I, E, fracción I, primer párrafo y F, fracción IV; 194-K, segundo párrafo; 194-L, segundo párrafo; 194-T, fracciones II, III, IV, VII y VIII; 194-T-1, primer párrafo, fracción I y último párrafo; 195-A, fracciones I, incisos a) y b), II y III, incisos a), b) y c); 198, fracción I, en el apartado correspondiente al Área de Protección de Flora y Fauna Islas del Golfo de California; 198-A, fracción I y la denominación del Parque Nacional Yaxchilán; 263, penúltimo párrafo; 276; 277; 278, segundo párrafo; 278-B, fracciones I, incisos a) y b), II, III, primer párrafo, incisos b), primer párrafo, d) y e), IV, incisos b), Tabla C Efluentes no Municipales y segundo párrafo y c), cuarto y sexto párrafos, y V; 278-C; 281-A, segundo y tercer párrafos; 282, fracciones V y VII; 282-C, Tabla IV y último párrafo; 283; 284, primer párrafo, fracciones I, II y VI, y último párrafo; 285; 288-E, primer párrafo, y 288-G; se ADICIONAN los artículos 8o. fracción IX y último párrafo; 20, fracción I y último párrafo, pasando el actual último párrafo a ser penúltimo párrafo; 29, fracciones XXI y XXII; 29-B, fracción I, inciso a), numeral 3 e inciso l); 29-E, fracciones XVI, incisos a) y b) y XXI, último párrafo; 29-F, fracción I, incisos a), numeral 3 y g); 29-K, fracción V, penúltimo párrafo; 40, penúltimo párrafo; 61-A; 61-B; 61-C; 105, último párrafo; 192-C, fracción V; 194-T, último párrafo; 194-T-5; 194-T-6; 194-X; 195-A, fracción I, inciso c); 278-A, rubro denominado CUERPOS RECEPTORES TIPO A comprendiendo primero y segundo párrafos y un último párrafo al rubro denominado CUERPOS RECEPTORES TIPO B; 278-B, fracciones IV, inciso d), VI, VII y VIII; 279; 288-A-2; 288-A-3, y 288-D-1, y se DEROGAN los artículos 4o., décimo primero, décimo segundo, décimo tercero y décimo cuarto párrafos; 29-E, fracción XVI, segundo párrafo; 29-M; 31, último párrafo; 56, fracción III, inciso b); 57, fracción IV, inciso b); 58, fracción III, inciso b); 85-A; 186, fracción IX; 191-D; 278-A, último párrafo; 278-B, fracción IV, inciso b), último párrafo; 282-A, y 282-D, de la Ley Federal de Derechos para quedar como sigue:
 
-..........
-
 ARTÍCULO SEGUNDO. Se REFORMA el artículo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Derechos, en materia de hidrocarburos y se derogan y reforman diversas disposiciones del Decreto que reforma diversas disposiciones del Título Segundo, Capítulo XII, de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2005, el cual a su vez fue publicado en ese órgano de difusión el 1 de octubre de 2007, en la siguiente forma:
-
-..........
 
 ##### TRANSITORIOS
 
@@ -17314,8 +17212,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2008
 
-..........
-
 Atentamente
 
 México, D.F., a 18 de diciembre de 2007.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
@@ -17326,15 +17222,11 @@ Publicado en el Diario Oficial de la Federación el 13 de noviembre de 2008
 
 ARTÍCULO PRIMERO. Se REFORMAN los artículos 18-A, primer párrafo; 18-B; 19-E, fracción II; 19-F, fracción II; 29, fracción XX; 29-B, fracciones I, incisos a), numerales 1, segundo párrafo, 2, segundo párrafo y 3, segundo párrafo, b), numerales 1, segundo párrafo, 2, segundo párrafo y 3, segundo párrafo, c), segundo párrafo, d), segundo párrafo, e), segundo párrafo, f), segundo párrafo, g), segundo párrafo, h), segundo párrafo, i), primer párrafo, numerales 1, segundo párrafo y 2, segundo párrafo, j), k) y l) y IV, primer párrafo, y el último párrafo del artículo; 29-D, fracciones VIII, segundo párrafo, XI, inciso a) y XV, primero y segundo párrafos, y el último párrafo del artículo; 29-E, fracciones XIV, segundo párrafo y XVI; 29-F, fracciones I, incisos a), numerales 1, segundo párrafo, 2, incisos i), segundo párrafo y ii), segundo párrafo, y 3, segundo párrafo, b), segundo párrafo, c), segundo párrafo, d), segundo párrafo, e), segundo párrafo, f), g), segundo párrafo y III; 29-I, primero, segundo, cuarto y actual octavo párrafos; 40, segundo y tercer párrafos; 59, en su encabezado y fracciones II y III; 60; 61; 90, fracción III en su encabezado; 162, apartado C, primer párrafo; 163; 184, fracciones I, II, III, IV, XII, XVIII y XXI; 194-F-1, fracción IV; 194-T, tercer párrafo; 194-T-4; 194-T-5; 194-T-6, en su encabezado y fracción I; 194-U, en su encabezado y fracciones I, II y VIII; 195, fracciones I, incisos a), b) y e), y III en su encabezado e incisos a) y b); 195-A, fracciones I y IX, primer párrafo; 195-C, fracción II; 195-G, fracciones I, inciso a) y II en su encabezado e incisos a) y b); 195-I, fracciones II y VI; 227, segundo párrafo; 232-D, en la clasificación de las zonas IX y X, y 288-A-3, fracción IV; se ADICIONAN los artículos 14-B; 29, fracciones XXIII, XXIV y XXV; 29-B, fracción I, incisos m), n) y ñ); 29-D, fracciones XX y XXI; 29-H, segundo párrafo; 40, incisos ñ) o), p) y q); 59, fracción V; 161; 184, fracción XXVI; 187, apartados A, fracción I, con un segundo párrafo, C, fracción I, con un segundo párrafo y D, fracción II, con un segundo párrafo; 195-G, con una fracción V; 195-I con un último párrafo; 198 fracción I con las áreas naturales protegidas, Parque Nacional Zona Marina del Archipiélago de Espíritu Santo y Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes; 232-C, con una zona XI en la tabla de zonas y usos y con un último párrafo; 232-D con una zona XI y 243, y se DEROGAN los artículos 8o., fracción IX, y último párrafo; 14-A, fracción I, inciso b); 29-B, fracción I, último párrafo; 29-C; 29-D, fracciones XV, último párrafo y XVIII, último párrafo; 29-I, sexto párrafo, pasando los actuales séptimo a noveno párrafos a ser sexto a octavo párrafos; 195, fracción II; 195-A, fracción VII, tercer párrafo; 195-G, fracciones II, inciso c), IV, inciso b), y el último párrafo del artículo; 195-Y, y 244, de la Ley Federal de Derechos para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO. Se deroga el transitorio cuarto del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley Federal de Cinematografía", publicado en el mismo órgano de difusión el 30 de diciembre de 2002.
 
 ARTÍCULO TERCERO. Se deroga la fracción XVII del artículo décimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, de la Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Derechos", publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003.
 
 ARTÍCULO CUARTO. Se reforma el artículo Quinto Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Derechos, en materia de hidrocarburos y se derogan y reforman diversas disposiciones del Decreto que reforma diversas disposiciones del Título Segundo, Capítulo XII, de la Ley Federal de Derechos, publicado el 21 de diciembre de 2005 en el Diario Oficial de la Federación", publicado en el citado órgano de difusión el 1 de octubre de 2007, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -17416,11 +17308,7 @@ Publicado en el Diario Oficial de la Federación el 13 de noviembre de 2008
 
 ARTÍCULO PRIMERO.- Se REFORMA el artículo 261, primer y segundo párrafos, y se ADICIONAN los artículos 257 Bis; 257 Ter; 257 Quáter; 257 Quintus; 257 Sextus; 258 Bis, 259 Bis y 259 Ter, de la Ley Federal de Derechos, para quedar como sigue:
 
-.
-
 ARTÍCULO SEGUNDO. Se REFORMA el Artículo Séptimo transitorio, décimo primer y décimo sexto párrafos, y se DEROGA el Artículo Séptimo transitorio, décimo quinto párrafo, del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Derechos, en materia de hidrocarburos y se derogan y reforman diversas disposiciones del Decreto que reforma diversas disposiciones del Título Segundo, Capítulo XII, de la Ley Federal de Derechos, publicado el 21 de diciembre de 2005", publicado en el Diario Oficial de la Federación el 1 de octubre de 2007, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -17454,8 +17342,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2009
 
-.
-
 Atentamente
 
 México, D.F., a 16 de diciembre de 2008.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
@@ -17465,8 +17351,6 @@ México, D.F., a 16 de diciembre de 2008.- El Jefe del Servicio de Administraci�
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2009
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 264, primer párrafo, 265 y 275; y se ADICIONAN los artículos 61-D y 267 de la Ley Federal de Derechos para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -17485,8 +17369,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2009
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 1o., cuarto y sexto párrafos; 3o., segundo párrafo; 6o., primer párrafo; 7o., primer párrafo; 25, fracciones I, II y V; 29-E, fracciones II, III, IV, V y XII; 29-H, primer párrafo; 56, fracción II; 57, fracciones I, incisos a), b), c) y d), II, incisos a), b), c), d) y e) y III; 58, fracciones I y II; 86-G; 88, fracción III; 184, fracción XII; 194-U, fracción VIII; 195-X, fracción I, incisos a), b), c), d) y e); 200; 200-A; 201, y 233, fracciones VII y IX, y 267, primer párrafo; así como la denominación de la Sección Única del Capítulo V del Título I; se ADICIONAN los artículos 14-A, fracción I, con un inciso b); 49, fracción VII, con un inciso e); 57, fracción II con un inciso f); 58-A; 58-B; 61-E; 86-D-1; 90, con las fracciones V y VI; 90-A; 90-B; 90-F; 151, con un último párrafo; 192, con un último párrafo; 192-A, con un último párrafo; 194-I; 195, fracción III, con un segundo párrafo, pasando los actuales segundo, tercero y cuarto párrafos a ser tercero, cuarto y quinto párrafos, respectivamente; 233, con una fracción XI, y 244-E; así como las Secciones Cuarta, denominada Sanidad Acuícola al Capítulo VII del Título I, comprendiendo los artículos 90-A y 90-B, y Quinta, denominada De los Organismos Genéticamente Modificados al Capítulo VII del Título I, comprendiendo el artículo 90-F, y se DEROGAN los artículos 8o., fracción V; 14, fracción I; 14-B; 25, fracción IX; 191-A, fracciones VIII, IX y X; 195-X, fracción I, inciso f), y 223, Apartado C, penúltimo párrafo, de la Ley Federal de Derechos para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -17570,8 +17452,6 @@ Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2009
 
 Artículo Único.- Se REFORMAN los artículos 257 Bis; 257 Ter; 257 Quáter; 257 Quintus, párrafos primero, segundo, cuarto y quinto; 257 Sextus párrafo primero y fracción XVI; 258, párrafo primero, fracción I; 258 Bis, párrafo primero, y 261 párrafos primero y segundo, y se ADICIONAN los artículos 257 Séptimus; 257 Octavus; 258 con un párrafo segundo, recorriéndose en su orden los párrafos subsecuentes, y 258 Ter, de la Ley Federal de Derechos, relativo al régimen fiscal de Petróleos Mexicanos para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2010.
@@ -17632,8 +17512,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2010
 
-.
-
 Atentamente.
 
 México, D. F., a 21 de diciembre de 2009.- En ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en el artículo 8 del Reglamento Interior del Servicio de Administración Tributaria, firma Jesús Rojas Ibañez, Administrador General Jurídico.- Rúbrica.
@@ -17648,8 +17526,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2010
 
-.
-
 México, D.F., a 30 de abril de 2010.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
 
 #### DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.
@@ -17657,8 +17533,6 @@ México, D.F., a 30 de abril de 2010.- El Jefe del Servicio de Administración T
 Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2010
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 3o., cuarto párrafo; 4o., penúltimo párrafo; 8o., fracción III; 17; 19-H, en su encabezado; 29, fracciones XI y XII; 29-D, fracciones IX, X y XI, y último párrafo del artículo; 29-E, en su encabezado y fracción XVII; 29-I, primer párrafo y actual sexto párrafo; 41, último párrafo; 60; 61; 130; 159, fracción II, segundo párrafo; 191-A, fracciones I, III, en su encabezado e inciso b) y VI; 194-T, fracción VIII; 194-T-4; 195-A, fracciones IV, VII y X, inciso a); 195-C, fracción III, inciso a); 195-G, fracción III, inciso c); 195-K-9; 195-K-10, en su encabezado; 226, primer párrafo; 227; 228, fracciones II, III y VI, y 229, en su encabezado y fracción III; así como la denominación de la Sección Segunda del Capítulo VII del Título I; se ADICIONAN los artículos 3o., con un último párrafo; 18-A, con un último párrafo; 29-G, con un último párrafo; 29-I, con un segundo párrafo, pasando los actuales segundo a octavo párrafos a ser tercero a noveno párrafos, respectivamente; 30-A, con una fracción IX; 31-A, con una fracción IX; 131; 153, con un último párrafo; 154, fracción V, con un último párrafo; 155, fracción IV, con un último párrafo; 157, con un último párrafo; 161, con un último párrafo; 195-A, con una fracción XIII; 228, con las fracciones VII y VIII; 229, con un penúltimo y último párrafos, y 238-C, con un último párrafo, y se DEROGAN los artículos 14-A, último párrafo; 19, fracción VI; 19-1; 19-E, fracción VII; 19-H, fracciones I, III y V, y último párrafo; 26, fracciones I, inciso b), II, inciso c) y III, inciso b); 29-D, fracción XXI; 32; 33; 53-D; 53-E; 53-F; 53-I; 53-J; 61-A; 61-B; 61-C; 62; 64, fracción V; 65; 71; 77; 86-C, fracción III; 103; 135; 141-A, fracciones I y IV, incisos a), numeral 1 y b), numeral 1; 171-A, fracción I, incisos c) y d); 171-B; 171-C; 171-D; 171-E; 172-H; 179, fracción I; 185-A; 190-B, fracciones I, II, III, IV, V, VI, VII, VIII y XII; 191-E; 192-C, fracciones I y II; 194-H, fracción VII; 195-B; 195-L-1; 195-L-2; 195-L-3; 195-S; 195-Z; 198-B; 226, segundo párrafo; 240, fracción X, y 282, fracción IV, de la Ley Federal de Derechos para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -17733,8 +17607,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2010
 
 Artículo Único.- Se reforma el primer párrafo del artículo 258 Ter; y se adicionan los artículos 254 Quáter; 257 Bis, con una fracción IV; 258 Bis, con una fracción III; 258 Ter, con las fracciones VI y VII; 258 Quáter, y 258 Quintus, relativos al Capítulo XII Hidrocarburos, de la Ley Federal de Derechos, para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -17838,8 +17710,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2011
 
-.
-
 Atentamente.
 
 México, D. F., a 21 de diciembre de 2010.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en los artículos 2, apartado B, fracción V y 8, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 22 de octubre de 2007, en vigor a partir del 23 de diciembre del mismo año, reformado mediante Decreto publicado en el mismo órgano informativo el 29 de abril de 2010, firma el Administrador General Jurídico, Jesús Rojas Ibáñez.- Rúbrica.
@@ -17849,8 +17719,6 @@ México, D. F., a 21 de diciembre de 2010.- En suplencia por ausencia del Jefe d
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 3o., cuarto párrafo; 8o.; 9o.; 10; 11; 13; 16; 18-A, primero y segundo párrafos; 19-C, fracción I, en su encabezado e incisos a) y b); 29-E, primer párrafo; 29-G, segundo párrafo; 29-I, segundo párrafo; 30, fracciones III y IV; 64, fracciones II, III y IV; 66, fracciones I, II y III; 86-A, segundo y tercer párrafos; 86-D, primer párrafo y fracción I; 148, apartado D, fracción I; 157, segundo párrafo; 161, segundo párrafo; 162; 184, fracción XXI; 187, primer párrafo y apartados C y F, fracción III; 194-F-1, fracción I, segundo párrafo; 194-N-2, fracción II; 224, fracción IV; 224-A, primer párrafo; 225; 226; 233, fracción IV; 236-B; 262; 281-A, tercer párrafo, y 283, primer párrafo; se ADICIONAN los artículos 3o., con los párrafos quinto, sexto y séptimo, pasando los actuales quinto, séptimo, octavo y décimo a ser octavo, noveno, décimo y décimo primer párrafos, respectivamente; 29-E, con una fracción VII; 29-G, con un cuarto párrafo; 31, con las fracciones III y IV; 32; 64, con una fracción V; 65; 148, apartado A, fracción I, inciso a), con un segundo párrafo; 149, fracción V, con un segundo párrafo; 184, con una fracción XXVII; 187, apartado D, con una fracción IV y un segundo párrafo al artículo; 192-E con una fracción XI; 194-Y; 195-C, fracción II, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo; 224-A, con un segundo párrafo; 260 con una fracción III; 261, con un segundo párrafo, pasando los actuales segundo, tercero y cuarto a ser tercero, cuarto y quinto párrafos; 283, con un quinto párrafo, y se DEROGAN los artículos 3o., los actuales sexto y noveno párrafos; 14; 17; 19-C, fracciones II y III; 73-E; 78, fracción IV; 86-D, fracción V y segundo párrafo del artículo; 148, apartados C, inciso b) y D, fracciones VI y VII; 151; 153; 158, fracciones I, inciso c) y IV, y segundo párrafo del artículo; 163; 164; 165, fracciones II, inciso f), VIII, IX y XI; 165-A; 168-A; 168-B, fracción IV; 169, fracción II; 170-F; 180; 184, fracciones XIII, XXII y XXIII; 186, fracciones XVI, XIX, XX y XXVII; 187, apartados A, D, fracción II, segundo párrafo, E y F, fracciones I, II y IV, segundo párrafo; 194-F-1, fracción II, segundo párrafo; 194-N-5; 194-P; 194-Q; 194-R; 232-D-2; 237-A; 238-A; 224-A, fracción II, segundo párrafo, y 283, segundo párrafo, pasando los actuales tercer a quinto párrafos a ser segundo a cuarto párrafos, respectivamente, de la Ley Federal de Derechos, para quedar como sigue:
-
-.
 
 ##### TRANSITORIOS
 
@@ -17960,8 +17828,6 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 
 ARTÍCULO CUARTO.- Se derogan las fracciones I, II y VII y se reforma la fracción VI del artículo 25 de la Ley Federal de Derechos, para quedar como sigue:
 
-.
-
 ##### TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
@@ -17981,8 +17847,6 @@ Anexo 19 de la Resolución Miscelánea Fiscal para 2012
 Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2012
-
-.
 
 Atentamente
 
@@ -18029,8 +17893,6 @@ ANEXO 19 de la Resolución Miscelánea Fiscal para 2013
 Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2013
-
-.
 
 Atentamente.
 
@@ -18152,8 +18014,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2014
 
-.
-
 Atentamente.
 
 México, D. F., a 18 de diciembre de 2013.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
@@ -18218,8 +18078,6 @@ Anexo 19 de la Resolución Miscelánea Fiscal para 2015
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2015
 
-.
-
 Atentamente.
 
 México, D. F., a 17 de diciembre de 2014.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
@@ -18229,8 +18087,6 @@ México, D. F., a 17 de diciembre de 2014.- El Jefe del Servicio de Administraci
 Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015
 
 ARTÍCULO ÚNICO. Se REFORMAN los artículos 8o., primer párrafo y fracción I; 13, fracción IV; 18-B; 20, fracción V; 24, fracción IV; 30-C; 31, primer párrafo y fracción I; 31-A-1; 31-A-2; 61-F; 86-C; 86-D, fracción I; 90, fracción II; 165, primer párrafo y fracciones I, primer párrafo, II, incisos a), primer párrafo, b), primer párrafo, y e) primer párrafo, y VII; 166, primer párrafo; 169, primer párrafo, fracciones I, segundo párrafo, III, incisos a), b), c), d), e) y f), IV, incisos a), b), c), d), e) y f), y VI, primer párrafo; 194-H, Tablas A y B; 194-U, fracciones I y II; 195-A, fracciones VI, segundo párrafo, VIII, primer y segundo párrafos y X, primer párrafo; 231-A; 233, fracción III; 288, primer párrafo; Áreas tipo AAA, AA, A, B y C; 288-A-1; se ADICIONAN los artículos 5o., con un segundo párrafo, pasando los actuales segundo, tercer, cuarto y quinto párrafos a ser tercer, cuarto, quinto y sexto párrafos; 13, con un segundo párrafo; 29, fracciones XXVII, XXVIII, XXIX, XXX y XXXI; 30-E; 61-A; 72, con una fracción X; 73-G; 77; 77-A; 86-D-2; 148, Apartados A, fracciones I, inciso a) con un numeral 4, II, con un inciso d), C, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo, y D, con las fracciones II, VI, VII y IX; 171, con una fracción VII; 171-B; el Capítulo IX del Título I denominado Del Instituto Federal de Telecomunicaciones que comprende los artículos 173; 173-A; 173-B; 174; 174-A; 174-B; 174-C; 174-D; 174-E; 174-F; 174-G; 174-H; 174-I; 174-J; 174-K; 174-L y 174-M; 244; 244-A; 244-E-1; 288, con un segundo y quinto párrafos, pasando los actuales segundo, tercer, cuarto y quinto párrafos a ser tercer, cuarto, sexto y séptimo párrafos; y se DEROGAN los artículos 20, fracciones VI y VII; 23, fracciones V y VI; 31, fracción II; la Sección Primera del Capítulo VIII del Título I denominada Servicios de Telecomunicaciones con los artículos 91; 93; 94; 94-A; 95; 96; 97; 98; 99; 100; 101; 102 y 105; la Sección Tercera del Capítulo VIII del Título I denominada Concesiones, Permisos, Autorizaciones e Inspecciones con los artículos 120; 123; 124; 124-A; 125; 125-A; 126; 130; 131; 138; 141-A y 141-B; 169, segundo párrafo; 195-P; 195-Q; 195-R, y 243 de la Ley Federal de Derechos para quedar como sigue:
-
-.
 
 ##### Transitorios
 
@@ -18306,8 +18162,6 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2016
 
 Artículo Único. Se reforman los artículos 8, fracción I; 16, primer párrafo; 19-E, fracción VI; 22, fracción III, inciso d); 29-E, fracción XXI, primer y segundo párrafos; 53-G; 53-H; 86-A, primer párrafo y fracción VII; 157, segundo párrafo; 173, segundo párrafo; 173-A; 174-C, primer párrafo y fracciones VI, VIII y IX; 174-L, primer párrafo y fracción III; 195-E, fracción V; 232, fracción III, segundo párrafo, y tercer párrafo del artículo, inciso e); 232-D, ZONA XI; 271; 275, primero y segundo párrafos; se adicionan los artículos 19-F, con una fracción IV; 24, fracción VIII, con un inciso f); 86-A, con una fracción IX; 186, con una fracción XXVII; se derogan los artículos 14; 27; 28; 29-E, fracción XXI, tercer párrafo; 50-B; 58-A; 58-B; 90-A, fracción I; 174-C, fracción XI; 186, fracción XXIV, inciso c), y 232, fracción VIII de la Ley Federal de Derechos para quedar como sigue:
 
-.
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2017, salvo la derogación del artículo 232, fracción VIII de esta Ley, la cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -18364,8 +18218,6 @@ Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2018
 
-.
-
 Atentamente,
 
 Ciudad de México, 15 de diciembre de 2017.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma el Administrador General Jurídico, Jaime Eusebio Flores Carrasco.- Rúbrica.
@@ -18379,8 +18231,6 @@ Modificación al Anexo 19 de la Resolución Miscelánea Fiscal para 2018
 Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos
-
-.
 
 Atentamente.
 
@@ -18471,8 +18321,6 @@ Anexo 19 de la Resolución Miscelánea Fiscal para 2020
 Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2020
-
-.
 
 Atentamente,
 
@@ -18708,8 +18556,6 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021
 
 Artículo Único. Se reforman los artículos 8o., fracción IV; 15, primer párrafo; 19-G, primer párrafo; 20, fracciones I, II, III, IV y V y último párrafo; 22, fracciones III, inciso a) y IV, inciso a); 24, fracción VIII y su inciso c); 26, fracciones I, inciso a) y II; 29-I, séptimo párrafo; 40, segundo párrafo; 53-K; 73-A; 148, apartado C; 172-F; 184, fracción XXI, segundo párrafo; 190-B, fracciones XIII y XVII, y tercer párrafo; 192, fracciones I y II; 194-N; 194-N-2, fracción I; 194-N-4; 195, fracción IV, primer párrafo; 195-C, fracción III, primer párrafo; 195-K-3; 195-T; 195-U; 195-V, fracciones I y III; 195-Z-25, primer párrafo; 198, fracciones I Quáter, II, y segundo, tercero, cuarto y séptimo párrafos; 229, fracción II; 240, fracción VIII, primer párrafo; 244-B, Tabla A; 271, primer párrafo; 275, segundo párrafo; 278-B, primer párrafo, y 288; se adicionan los artículos 3o. Bis; 22, fracción III, con un inciso f); 26, fracciones I, con los incisos c) y d), IV y V; 30, con un segundo párrafo; 40, con un inciso u); 53-I; 77, con un segundo párrafo; 195, fracción IV, primer párrafo, con los incisos a) y b); 195-C, fracción III, con los incisos c) y d); 195-Z-11 Bis; 195-Z-11 Ter; 195-Z-11 Quáter; 195-Z-28; 240, con una fracción X, y se derogan los artículos 26, fracción III; 170; 170-G; 190-B, fracción XVI; 195-V, fracción II, inciso b), de la Ley Federal de Derechos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2022.
@@ -18758,8 +18604,6 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2022
 
 Artículo Único.- Se reforman los artículos 13, primer párrafo; 22, fracción III, incisos d) y f); 23, fracción VII; 40, cuarto párrafo; la denominación de la Sección Octava del Capítulo III del Título I para quedar como Resoluciones Relativas a Contraprestaciones u Operaciones Celebradas entre Partes Relacionadas; 53-G; 61; 73-G; 84, primer párrafo; 172-J, primer párrafo; 174-J; 184, fracción XXI, segundo párrafo; 195-J, primer párrafo y fracción II; 195-Z, fracción V; 195-Z-4, fracción IV, inciso i); 195-Z-9; 232-D, ZONAS III, V y VI; 245; 275, segundo párrafo; 288, sexto párrafo; 288-A-1, quinto párrafo, y 288-A-2, tercer párrafo; se adicionan los artículos 13, con una fracción V; 14 Bis; 22, fracción III, con un inciso g), y con un tercer párrafo; 23, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto párrafo; 25, con una fracción XV; 172-J, con las fracciones II y III; 184, fracción XII, con un tercer párrafo; 185, con una fracción XIV; 192-G; 195-X, con una fracción X; 195-Z, con una fracción XI, y 195-Z-29, y se derogan los artículos 51, fracción IV; 86-E; 88, fracción I; 154, fracción III; 177, fracción III, inciso a), y 179, fracción II, inciso b), de la Ley Federal de Derechos, para quedar como sigue:
 
-..
-
 ##### Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2023.
@@ -18799,8 +18643,6 @@ Anexo 19 de la Resolución Miscelánea Fiscal para 2023
 Contenido
 
 Cantidades actualizadas establecidas en la Ley Federal de Derechos del año 2023
-
-.
 
 Atentamente,
 
@@ -18944,8 +18786,6 @@ Publicado en el Diario Oficial de la Federación el 23 de abril de 2024
 
 Artículo Único.- Se reforma el artículo 232-A, segundo párrafo, de la Ley Federal de Derechos, para quedar como sigue:
 
-.
-
 ##### Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial  de la Federación.
@@ -18959,8 +18799,6 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2024
 
 Artículo Único. Se reforman los artículos 8o., fracción I; 11, fracción II, inciso b; 12, párrafo primero; 18-A, párrafos primero y segundo; 63, párrafo primero; 174-L, fracción III; 198, fracciones I, I Bis, I Ter, I Quáter, II, III, y párrafo cuarto; 220-A, párrafo segundo; 224-A, fracción I; 225, fracciones I y II; 232-D, ZONAS II, III, IV y V; 238-C, párrafo segundo; 268, párrafo primero; 270, párrafo primero; 275, párrafo segundo; 278, fracción I, párrafo primero; 281-A, párrafos primero y segundo; 282, fracción I, Tabla LÍMITES PERMISIBLES PARA METALES Y CIANUROS, y 291, fracción I, párrafo tercero; se adicionan los artículos 18-A, con un párrafo tercero; 173, apartado B, fracción III, con un párrafo segundo; 198, con un párrafo octavo, y 238-C, con un párrafo séptimo, y se derogan los artículos 29-D, fracción XIV, y 292, fracción III, de la Ley Federal de Derechos, para quedar como sigue:
-
-..
 
 ##### Transitorios
 
@@ -19010,8 +18848,6 @@ Cantidades actualizadas establecidas en la LFD para 2025
 
 Para los efectos de los artículos 1o., cuarto y sexto párrafos, 6o., primer párrafo, 26-A, 198, octavo párrafo, 238-C, séptimo párrafo, 288, quinto párrafo y 288-A-1, cuarto párrafo de la LFD y 17-A del CFF, en relación con las reglas 1.9., fracción XVII y 7.1., se dan a conocer las cantidades actualizadas establecidas en la citada Ley, conforme a lo siguiente:
 
-..
-
 Atentamente.
 
 Ciudad de México, a 20 de diciembre de 2024.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
@@ -19052,99 +18888,21 @@ Cantidades actualizadas establecidas en la LFD para 2026
 
 Para los efectos de los artículos 1o., cuarto y sexto párrafos, 6o., primer párrafo, 26-A, 198, octavo párrafo, 238-C, séptimo párrafo, 288, quinto párrafo y 288-A-1, cuarto párrafo de la LFD y 17-A del CFF, en relación con las reglas 1.4., fracción IV y 7.1., se dan a conocer las cantidades actualizadas establecidas en la citada Ley, conforme a lo siguiente:
 
-..
-
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
 
-¬l­ÎÑçê
-
 é6B*CJPJ]aJphÿ'hÈ
-
-éhÈ
-
-¶¶ ·!··Ñ·Ò·ö·¸¸O¸P¸í¸
-
-¹¹¹ïïïÝÕÇÇÕÇÇ±±Õ$
-
-L
-
-M
-
-]
-
-|
-
-}
-
-¬
-
-­
-
-½
-
-Ü
-
-Ý
-
-¸òëëãëëãëëãëëëÏãÏÏãÏÏãÏÏãã$
-
-,
-
-K
-
-M
-
-Q
-
-]
-
-|
-
-¬
-
-±
-
-½
-
-Ü
-
-Ý
-
-ã
-
-)
-
-Æ>a$gd§5»
-
-$
-
-Æ>a$gd¦8æ$
-
-%CJ\hÄïh
 
 dyåû67<çÏ·çoWJ>5)hEhE5CJ\hÄïhòUCJhÄïhòU5CJ\hÄïh
 
 hECJ\'hEhE6B*CJPJ]aJphÿhEhE5CJ\hEhECJ\ýF G á â ¡/¡0¡¡­¡Ð¡Ñ¡
 
-u±±Ü±Ý±ú±û±ì²>³?³Z³[³H´´´Ç´È´¶Z¶[¶óëÝÝËËëÝÝËËë···¡ë·
-
 JbCJaJhÄïh
-
-Æ>a$gdÌ#[.
-
-0{0|00ï0ð0
-
-1I1J1¬2­2²3ïïçïïçï×çïïçïïçïïçïïïÃ$
-
-)
 
 ¢6B*CJPJ]aJphÿÕpìpøpqqq)qKqLqMqfqkqwqq¦q¶qëÚÉµ¡ëyÚyeQe=)'hÄïhÀ6B*CJPJ]aJphÿ'hÄïh,Iö6B*CJPJ]aJphÿ'hÄïhå;+6B*CJPJ]aJphÿ'hÄïhÏ-6B*CJPJ]aJphÿ'hÄïhßH|6B*CJPJ]aJphÿ'hÄïhÿ
 
 ¢6B*CJPJ]aJphÿ'hÄïhÝ6B*CJPJ]aJphÿ'hÄïhþ_6B*CJPJ]aJphÿ!h-6B*CJPJ]aJphÿ!h¢$6B*CJPJ]aJphÿ'hÄïhL%`6B*CJPJ]aJphÿ¶q·qÑqrr©rsstÝtÞtûtuuæumvnvvõõéÙÙÑÙÂÑÙÙºÙ¬¤$
-
-)
 
 ¢6B*CJPJ]aJphÿ'hÄïhL%`6B*CJPJ]aJphÿ!v-v:v\v]v^vmvnvwvyvvªv«v´v¶vÆvÝvë×Ã¯¯|iQ|i='h-h-6B*CJPJ]aJphÿ/hÄïhÿ
 
@@ -19152,2242 +18910,44 @@ JbCJaJhÄïh
 
 www2w3wMwnwowwªw«w¬xÍxÎxyy÷ççßçÓÓÅÅ½ÅÅ½ÅÅ½©©©$
 
-)
-
 ¢Ývévóvöv
 
 :÷áá÷áá÷ÑáÉ½½µ««µ$
 
 EPS
 
-DE
-
-¢,
-
-)
-
-)
-
 ¿¿xÀ½À¾À*ÁXÁYÁÁÁóÁôÁ0Â1ÂiÂåÂæÂïåÝÓ¿·¿¿¿¥·¿
-
-hÎ2CJ\
-
-ãã`ãaãrãããä
-
-äGägä÷ááÙáÃ÷­­­Ã÷­áÙ
 
 ùtúuú~ûÕûÖûòû.ü/üKüüü£üßüàüãýäýòþÿõõõíããÛããÛËÁ¹Ë«««£$a$gd
 
-{×
-
 ShXXXX$
-
-1
-
-T
-
-e
-
-f
-
-n
-
-§
-
-·
-
-Ù
-
-·
-
-+	¶·78´"#]ÙÚõíÝõíÝÝÝÏÇÏÏÇÏÏ¿·ÝÝ·Ý$a$gd:$a$gdÀ$a$gdÎ2
-
-Ü
-
-ó
-
-ö
-
-44*4f4g4w4¼4ü4ý4Â5óóëÛÏÇ¹­¥ÛóóÛ
-
-{×
-
-{×
-
-{×.
 
 {×6B*CJPJ]aJphÿ'hÄïhdhT6B*CJPJ]aJphÿ!Y|µ|¼|¾|Å|}}}}{}}}}¥}®}¯}Ñ}Ô}î}~ ~/~ ¡¬³´ÖÙñÜñÌñÜñÌñÜñÌñÜñ¸§k_TITÜT¸§hÄïhlÊCJaJhÄïhUßCJaJhÄïhUß5CJaJ'hÄïh
 
 ¤,-Klm§¨÷íí÷íí÷íí÷Ýí÷ÝÝÕÝíÕííÕÝ$a$gd±aF$
 
-*
-
--
-
-)
-
-*
-
-3
-
--
-
-*
-
--
-
-3
-
-+
-
-.
-
--
-
-)
-
-*
-
-*
-
-*
-
-+
-
-*
-
-+
-
-)
-
-Æ>a$gd?U $a$gd?U $a$gd?U $
-
-$
-
 CJaJhÄïh
 
 5CJaJhÄïh
 
-/
-
-P
-
-P
-
-Q
-
 Æ>a$gdÜ"$
-
-2hÜ
 
 CJaJ!h1mê6B*CJPJ]aJphÿ'h'
 
-Æ>a$gdÔS$
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
 *ÀeÁÁÁ¥ÁáÁâÁñÁÂ	ÂÂ°Â±ÂêÂëÂóëÛÑÉÛ½½ÛÛµÛ¡$
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
-Æ|"
-
-Xý^
-
--
-
-.
-
--
-
-.
-
-{×$
 
 $$IfTFÖFÿ¨sÈ
 
-s$a$gd+_Õ$a$gd-n§$
-
-.
-
-)
-
-s$a$gd¾[$a$gd-xì$
-
-)
-
-)
-
-®
-
-®$a$gd?R$a$gd»",
-
-*
-
-®
-
-)
-
-)
-
-)
-
-{×$
-
-?
-
 ÷ççßçËÃË¯§¯¯§¯¯§¯¯§$a$gdá9§$
-
-?
-
-@
-
-D
-
-@
-
-·
-
-Ø
-
-Ù
-
-3klËNO°Þß û'(´µëëãÏÏãÏÏãÏÏãÏÏãëëëÏãÏÏãÏ$
-
-·
-
-Ø
-
-Ù
-
-Ý
-
-M#é#$$$p%%%µ%×%Ø%&7&8&v&õíåÕÉÁÕ­¥­­­$a$gd®>d$
-
-Æ>a$gdÄ$
-
-a
-
-(
-
-1
-
-2
-
-U
-
-V
-
-á
-
-U
-
-V
-
-e
-
-°
-
-±
-
-¼
-
-á
-
-h
-
-$a$gd÷s$
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-`Xýa$gd'P
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-`Xýa$gd'P
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Æ|"
-
-Xý^
-
-`Xýa$gdÊM$
 
 6B*CJPJ]aJphÿ'h
 
-h
-
-_
-
-0
-
-:
-
-<
-
-H
-
-T
-
-_
-
-`
-
-Ý
-
-þ
-
-ÿ
-
-`
-
-l
-
-o
-
-Ý
-
-þ
-
-ÿ
-
-$
-
-)
-
-)
-
-Æ>a$gdû-$ ` a$gdû-$
-
-]	¤	Ç	È					®	õõõíåÕÇÇ²²$
-
-)
-
 ACJaJhÄïh
-
--
-
-)
 
 ¸CJaJhÄïh
 
-.
-
-)
-
--
-
-*
-
-)
-
--
-
-.
-
-)
-
-*
-
-)
-
-)
-
-4
-
-)
-
-)
-
-)
-
-)
-
-*
-
-)
-
-Z
-
-a
-
-õ
-
-ø
-
-Ë
-
-Ð
-
-]
-
-c
-
-º
-
-å
-
-ò
-
-%
-
--
-
-@
-
-H
-
-Y
-
-a
-
-W
-
-p
-
-¯
-
-»
-
-Å
-
-Ê
-
-Y
-
-Z
-
-ô
-
-õ
-
-Ê
-
-Ë
-
-\
-
-]
-
-¹
-
-º
-
-ñ
-
-ò
-
-»
-
-¼
-
-½
-
-¾
-
-¿
-
-À
-
-Á
-
-Â
-
-Ã
-
-Ä
-
-Å
-
-Ê
-
-f
-
-g
-
-u
-
-å
-
-æ
-
-ñ
-
-ò
-
-Ë
-
-f
-
-g
-
-¢
-
-ò
-
-'
-
-*
-
-ð
-
-ô
-
-æ
-
-ë
-
-ó!
-
-ù!
-
-¢#
-
-Ò#
-
-Ó#
-
-ì#
-
-ï#
-
-I$
-
-M$
-
-.%
-
-2%
-
-Ä%
-
-È%
-
-Ý%
-
-â%
-
-z&
-
-&
-
-a'
-
-f'
-
-(
-
-(
-
-*)
-
-/)
-
-·)
-
-»)
-
-R,
-
-W,
-
--
-
--
-
-a1
-
-f1
-
-2
-
-2
-
-4
-
-4
-
-®4
-
-³4
-
-5
-
-¢5
-
-¸5
-
-½5
-
-A6
-
-F6
-
-Õ6
-
-Ú6
-
-]7
-
-b7
-
-²8
-
-ï
-
-ð
-
-å
-
-æ
-
-ò!
-
-ó!
-
-¡#
-
-¢#
-
-Ò#
-
-Ó#
-
-H$
-
-I$
-
--%
-
-.%
-
-K%
-
-L%
-
-Ã%
-
-Ä%
-
-Ü%
-
-Ý%
-
-y&
-
-z&
-
-`'
-
-a'
-
-(
-
-(
-
-))
-
-*)
-
-¶)
-
-·)
-
-Q,
-
-R,
-
--
-
--
-
-`1
-
-a1
-
-2
-
-2
-
-4
-
-4
-
-­4
-
-®4
-
-5
-
-5
-
-·5
-
-¸5
-
-@6
-
-A6
-
-Ô6
-
-Õ6
-
-\7
-
-]7
-
-±8
-
-²8
-
-9
-
-9
-
-:
-
-:
-
-ä:
-
-å:
-
-`;
-
-a;
-
-;
-
-;
-
-¯;
-
-°;
-
-¸<
-
-¹<
-
-ð<
-
-ñ<
-
-F=
-
-G=
-
-=
-
-=
-
-°=
-
-±=
-
->
-
->
-
-ý>
-
-þ>
-
-·8
-
-9
-
-9
-
-:
-
-:
-
-å:
-
-ê:
-
-a;
-
-e;
-
-;
-
-;
-
-°;
-
-´;
-
-¹<
-
-½<
-
-ñ<
-
-õ<
-
-G=
-
-K=
-
-=
-
-=
-
-±=
-
-µ=
-
->
-
->
-
-þ>
-
-?
-
-ÔA
-
-ØA
-
-9E
-
->E
-
-èF
-
-ôF
-
-õF
-
-G
-
-#I
-
-9I
-
-BI
-
-`I
-
-iI
-
-I
-
-I
-
-¦I
-
-*K
-
-EK
-
-K
-
-K
-
-ÃK
-
-ÕK
-
-àK
-
-êK
-
-pL
-
-qL
-
-·L
-
-¸L
-
-M
-
-M
-
-TM
-
-UM
-
-jM
-
-kM
-
-M
-
-M
-
-@
-
-@
-
-nA
-
-oA
-
-ÓA
-
-ÔA
-
-8E
-
-9E
-
-çF
-
-èF
-
-ôF
-
-õF
-
-÷H
-
-øH
-
-ºI
-
-»I
-
-àK
-
-áK
-
-âK
-
-ãK
-
-äK
-
-åK
-
-æK
-
-çK
-
-èK
-
-éK
-
-êK
-
-pL
-
-qL
-
-·L
-
-M
-
-M
-
-TM
-
-UM
-
-aM
-
-jM
-
-kM
-
-_
-
-_
-
-+_
-
-,_
-
-D_
-
-E_
-
-'`
-
-(`
-
-M
-
-S
-
-S
-
-L[
-
-S[
-
-,_
-
-D_
-
-E_
-
-a_
-
-(`
-
-,`
-
-û`
-
-a
-
-½a
-
-Ãa
-
-nd
-
-sd
-
-/f
-
-3f
-
-¤f
-
-Äf
-
-Åf
-
-áf
-
-;g
-
-?g
-
-!h
-
-%h
-
-¶h
-
-ºh
-
-Õh
-
-Úh
-
-j
-
-j
-
-%l
-
-*l
-
-Zm
-
-_m
-
-äm
-
-ém
-
-rn
-
-wn
-
-°p
-
-µp
-
-Òq
-
-Öq
-
-è|
-
-í|
-
-Y
-
-^
-
-&
-
-+
-
-É
-
-Î
-
-®
-
-²
-
-È
-
-Í
-
-¼
-
-Á
-
-F
-
-K
-
-D
-
-I
-
-¢
-
-¦
-
-+
-
-0
-
-ú`
-
-û`
-
-¼a
-
-½a
-
-md
-
-nd
-
-.f
-
-/f
-
-£f
-
-¤f
-
-Äf
-
-Åf
-
-:g
-
-;g
-
-h
-
-!h
-
->h
-
-?h
-
-µh
-
-¶h
-
-Ôh
-
-Õh
-
-j
-
-j
-
-$l
-
-%l
-
-Ym
-
-Zm
-
-ãm
-
-äm
-
-qn
-
-rn
-
-¯p
-
-°p
-
-Ñq
-
-Òq
-
-ç|
-
-è|
-
-X
-
-Y
-
-%
-
-&
-
-È
-
-É
-
-­
-
-®
-
-Ç
-
-È
-
-»
-
-¼
-
-E
-
-F
-
-C
-
-D
-
-¡
-
-¢
-
-*
-
-+
-
-Ü
-
-Ý
-
-j
-
-k
-
-»
-
-¼
-
-ä
-
-å
-
-í
-
-î
-
-%
-
-&
-
-{
-
-|
-
-»
-
-Ý
-
-à
-
-k
-
-p
-
-¼
-
-À
-
-å
-
-é
-
-î
-
-ò
-
-&
-
-*
-
-|
-
-¼
-
-À
-
-æ
-
-ê
-
-H
-
-L
-
-¼
-
-À
-
-|
-
-ú
-
-½
-
-Â
-
-ã£
-
-ç£
-
-¤
-
-¤
-
-7¦
-
-=¦
-
-n§
-
-z§
-
-{§
-
-§
-
-õ§
-
-¨
-
-¨
-
-2¨
-
-F¨
-
-Y¨
-
-m¨
-
-¨
-
-ª
-
-)ª
-
-Sª
-
-eª
-
-zª
-
-«
-
-«
-
-¼
-
-å
-
-æ
-
-G
-
-H
-
-»
-
-¼
-
-z
-
-{
-
-{
-
-|
-
-A
-
-B
-
-ù
-
-ú
-
-¼
-
-½
-
-É¡
-
-Ê¡
-
-o¢
-
-p¢
-
-â£
-
-ã£
-
-¤
-
-¤
-
-6¦
-
-7¦
-
-m§
-
-n§
-
-z§
-
-{§
-
-Ê§
-
-Ë§
-
-¥¨
-
-¦¨
-
-pª
-
-qª
-
-rª
-
-sª
-
-tª
-
-uª
-
-vª
-
-wª
-
-xª
-
-yª
-
-zª
-
-«
-
-«
-
-a«
-
-²«
-
-³«
-
-þ«
-
-ÿ«
-
-¬
-
-¬
-
-¬
-
-"»
-
-#»
-
-a«
-
-b«
-
-²«
-
-³«
-
-þ«
-
-ÿ«
-
-¬
-
-¬
-
-,¬
-
-/¬
-
-7¬
-
-ú³
-
-´
-
-¹
-
-¹
-
-/»
-
-I»
-
-J»
-
-d»
-
-*¼
-
-.¼
-
-¡¼
-
-¦¼
-
-4½
-
-:½
-
-¹½
-
-ì½
-
-í½
-
-¾
-
-`¾
-
-d¾
-
-E¿
-
-H¿
-
-À
-
-À
-
-$À
-
-)À
-
-ÊÀ
-
-ÏÀ
-
-\Â
-
-aÂ
-
-ßÃ
-
-äÃ
-
-Ä
-
-Ä
-
-*Å
-
-/Å
-
-ïÆ
-
-ôÆ
-
-ôÇ
-
-ùÇ
-
-Ó
-
-Ó
-
-Õ
-
-Õ
-
-"×
-
-'×
-
-È×
-
-Í×
-
-qØ
-
-.»
-
-/»
-
-I»
-
-J»
-
-)¼
-
-*¼
-
-¼
-
-¡¼
-
-3½
-
-4½
-
-¸½
-
-¹½
-
-ì½
-
-í½
-
-_¾
-
-`¾
-
-D¿
-
-E¿
-
-b¿
-
-c¿
-
-À
-
-À
-
-#À
-
-$À
-
-ÉÀ
-
-ÊÀ
-
-[Â
-
-\Â
-
-ÞÃ
-
-ßÃ
-
-Ä
-
-Ä
-
-)Å
-
-*Å
-
-îÆ
-
-ïÆ
-
-óÇ
-
-ôÇ
-
-Ó
-
-Ó
-
-Õ
-
-Õ
-
-!×
-
-"×
-
-Ç×
-
-È×
-
-pØ
-
-qØ
-
-ãØ
-
-äØ
-
-Ù
-
-vØ
-
-äØ
-
-èØ
-
-Ù
-
-Ù
-
-¨Ù
-
-¬Ù
-
-MÚ
-
-RÚ
-
-ýÚ
-
-Û
-
-£Û
-
-¨Û
-
-KÜ
-
-PÜ
-
-ôÜ
-
-ùÜ
-
-Ý
-
-Ý
-
-Þ
-
-Þ
-
-ß
-
-ß
-
-à
-
-à
-
-à
-
-à
-
-¯à
-
-³à
-
-Ïà
-
-Òà
-
-Ìá
-
-Ðá
-
-øá
-
-üá
-
-Bâ
-
-Eâ
-
-vâ
-
-zâ
-
-Ìâ
-
-Ðâ
-
-ã
-
-ã
-
-ã
-
-ã
-
-jæ
-
-oæ
-
-ð
-
-$ð
-
-¨ô
-
-­ô
-
-õ
-
-õ
-
-8ö
-
-?ö
-
-é÷
-
-î÷
-
-%ù
-
-1ù
-
-2ù
-
-Cù
-
-°ù
-
-Çù
-
-Ûù
-
-ôù
-
-ú
-
-ú
-
-3ú
-
-Kú
-
-Ù
-
-§Ù
-
-¨Ù
-
-LÚ
-
-MÚ
-
-üÚ
-
-ýÚ
-
-¢Û
-
-£Û
-
-JÜ
-
-KÜ
-
-óÜ
-
-ôÜ
-
-Ý
-
-Ý
-
-Þ
-
-Þ
-
-ß
-
-ß
-
-à
-
-à
-
-à
-
-à
-
-®à
-
-¯à
-
-Îà
-
-Ïà
-
-Ëá
-
-Ìá
-
-÷á
-
-øá
-
-Aâ
-
-Bâ
-
-uâ
-
-vâ
-
-Ëâ
-
-Ìâ
-
-ã
-
-ã
-
-ã
-
-ã
-
-Må
-
-Nå
-
-iæ
-
-jæ
-
-æè
-
-çè
-
-nê
-
-oê
-
-dë
-
-eë
-
-Qì
-
-Rì
-
-ð
-
-ð
-
-Dñ
-
-Eñ
-
-¤ò
-
-¥ò
-
-¬ó
-
-­ó
-
-§ô
-
-¨ô
-
-õ
-
-õ
-
-7ö
-
-8ö
-
-è÷
-
-é÷
-
-$ù
-
-%ù
-
-1ù
-
-2ù
-
-ù
-
-ù
-
-eú
-
-fú
-
-0ü
-
-Óû
-
-éû
-
-ü
-
-%ü
-
-0ü
-
-1ü
-
-vü
-
-wü
-
-Âü
-
-Ãü
-
-×ü
-
-Øü
-
-óü
-
-öü
-
-þü
-
 ¸Álsõ
 
-vü
-
-wü
-
-Âü
-
-Ãü
-
-Îü
-
-×ü
-
-Øü
-
-è
-
-é
-
-ô
-
-õ
-
-j
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-Æ$	¨
-
-ûdð^¨`
-
-4
-
-z
-
-l
-
-y
-
-z
-
-÷
-
-ø
-
-4H]q ú
-
-8NZ[ÅÆ
-
-Â
-
-¢£ZÅÆ
-
-&
-
-'
-
-¦
-
-§
-
-®
-
-ý
-
-¦
-
-§
-
-)
-
--
-
-)
-
-)
-
-4
-
-4
-
-.
-
--
-
--
-
-.
-
 jCjDj|j}j¥j¦j®j¯jÛjÜjssesfst
-
-.
-
--
-
--
-
-C
-
-H
-
-I
-
-V
-
-W
-
-I
-
-W
-
-_
-
-%
-
-h
-
-i
-
-¤$a$gdçW$ ` a$gdçW$
 
 ¤6B*CJPJ]aJphÿ hÄïh
