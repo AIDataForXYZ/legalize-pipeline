@@ -278,8 +278,11 @@ class FastImporter:
         return self._mark
 
     def _date_to_epoch(self, d: date_type) -> int:
-        # Modern git fast-import accepts negative Unix timestamps for
-        # pre-1970 dates (e.g. CPEUM 1917, CCF 1928). Don't clamp.
+        # GitHub's git index-pack rejects negative Unix timestamps, so we
+        # clamp pre-1970 dates to 1970-01-02. The accurate publication
+        # date is preserved in the commit body's Source-Date trailer.
+        if d < date_type(1970, 1, 2):
+            d = date_type(1970, 1, 2)
         return calendar.timegm(d.timetuple())
 
     def _write(self, data: bytes) -> None:
