@@ -3,16 +3,20 @@ title: "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asocia
 identifier: "DIP-23"
 country: "mx"
 rank: "ley"
+jurisdiction: "federal"
+gov_organ: "congreso_federal"
+entidad_federativa: "na"
 publication_date: "1932-08-27"
 last_updated: "2012-04-09"
+last_reform_dof: "2012-04-09"
 status: "in_force"
 source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf"
+gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=04&day=09#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf"
 source_name: "diputados"
 abbrev: "23"
 doc_url: "https://www.diputados.gob.mx/LeyesBiblio/doc/23.doc"
-last_reform_dof: "2012-04-09"
 ---
 # LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas
 

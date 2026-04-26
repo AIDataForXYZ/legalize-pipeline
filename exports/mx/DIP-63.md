@@ -3,16 +3,20 @@ title: "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que
 identifier: "DIP-63"
 country: "mx"
 rank: "ley"
+jurisdiction: "federal"
+gov_organ: "congreso_federal"
+entidad_federativa: "na"
 publication_date: "1996-10-23"
 last_updated: "2012-04-09"
+last_reform_dof: "2012-04-09"
 status: "in_force"
 source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf"
+gazette_pdf_page: "https://www.diariooficial.gob.mx/index_100.php?year=2012&month=04&day=09#gsc.tab=0"
 department: "Cámara de Diputados"
 pdf_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf"
 source_name: "diputados"
 abbrev: "63"
 doc_url: "https://www.diputados.gob.mx/LeyesBiblio/doc/63.doc"
-last_reform_dof: "2012-04-09"
 ---
 # LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional
 

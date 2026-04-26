@@ -44,23 +44,47 @@ def render_frontmatter(metadata: NormMetadata, version_date: date) -> str:
         f'identifier: "{metadata.identifier}"',
         f'country: "{metadata.country}"',
         f'rank: "{metadata.rank}"',
+    ]
+
+    # Extract promoted extra fields that belong at specific positions in the
+    # frontmatter (mx-specific: gov_organ/entidad_federativa near jurisdiction,
+    # last_reform_dof near last_updated, gazette_pdf_page near source).
+    # Remaining extras go at the end as usual.
+    _promoted = {"gov_organ", "entidad_federativa", "last_reform_dof", "gazette_pdf_page"}
+    extra_map: dict[str, str] = dict(metadata.extra)
+    gov_organ = extra_map.get("gov_organ")
+    entidad_federativa = extra_map.get("entidad_federativa")
+    last_reform_dof = extra_map.get("last_reform_dof")
+    gazette_pdf_page = extra_map.get("gazette_pdf_page")
+    remaining_extra = [(k, v) for k, v in metadata.extra if k not in _promoted]
+
+    if metadata.jurisdiction:
+        lines.append(f'jurisdiction: "{metadata.jurisdiction}"')
+    if gov_organ:
+        lines.append(f'gov_organ: "{_escape_yaml(gov_organ)}"')
+    if entidad_federativa:
+        lines.append(f'entidad_federativa: "{_escape_yaml(entidad_federativa)}"')
+
+    lines += [
         f'publication_date: "{metadata.publication_date.isoformat()}"',
         f'last_updated: "{version_date.isoformat()}"',
-        f'status: "{status}"',
-        f'source: "{metadata.source}"',
     ]
+    if last_reform_dof:
+        lines.append(f'last_reform_dof: "{_escape_yaml(last_reform_dof)}"')
+    lines.append(f'status: "{status}"')
+    lines.append(f'source: "{metadata.source}"')
+    if gazette_pdf_page:
+        lines.append(f'gazette_pdf_page: "{_escape_yaml(gazette_pdf_page)}"')
 
     if metadata.department:
         lines.append(f'department: "{_escape_yaml(metadata.department)}"')
-    if metadata.jurisdiction:
-        lines.append(f'jurisdiction: "{metadata.jurisdiction}"')
     if metadata.pdf_url:
         lines.append(f'pdf_url: "{metadata.pdf_url}"')
     if metadata.subjects:
         subj_yaml = ", ".join(f'"{_escape_yaml(s)}"' for s in metadata.subjects)
         lines.append(f"subjects: [{subj_yaml}]")
 
-    for key, value in metadata.extra:
+    for key, value in remaining_extra:
         lines.append(f'{key}: "{_escape_yaml(value)}"')
 
     lines.append("---")
