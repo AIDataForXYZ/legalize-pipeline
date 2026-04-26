@@ -1459,11 +1459,3 @@ II.	Durante la fase de extracción 9,859.56 pesos.
 Atentamente.
 
 Ciudad de México, a 17 de diciembre de 2025.- En suplencia por ausencia del Jefe del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria, firma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.
-
-Þßðñôõ<=êÒÈ¾´«¢Ò¢¾´«Ò¾´«w«¢¾´«¢¾´«¢¾´«w«¢¾´«¢hí+#h§DNCJhí+#h
-
-¬CJh
-
-iiiiiiii j!j^j_jjjjjjj
-
-%n%o%p%q%r%Ã%Ä%Å%Æ%Ç%&&&&&S&T&U&V&W&©&ª&«&­&û&ü&õìãìã×ÍÃìãÃºìÍÃõºìÍÃõìãÃõºìãÃõºìãÃõºìãÃõºìãÃõìãÃõºìãÃõºìÍÃõºìãÃõºìãÃõìãhí+#hW4ÝCJhí+#h`n5CJhí+#hí+#5CJh¯

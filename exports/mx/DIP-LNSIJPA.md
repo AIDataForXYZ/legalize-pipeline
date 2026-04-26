@@ -2832,12 +2832,8 @@ Ciudad de México, a 9 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
-½¾¿Ü÷øùûüXYïÚïÉ¸¬ ¬¬ ¬ ulclculcuYlchG;h½>µ5CJhG;hK4CJhG;ho½CJhG;ho½5CJhG;hÊ1CJhc
-
 XSXTXXYYYZYÖZ×ZØZøZ¡[¢[£[â[ÿ\]]×]Ø]Ù],^-^;^<^W_X_Y_q_«`¬`þ`ÿ`aÐaÑaÜaÝaÞaþancocpcxc{c«c¬c÷íäÛ÷íäÛ÷íÑäÛ÷äÛ÷íäÛ÷íäÛ÷äÛ÷íÃíÑäÛ÷íä¶äÛ÷ä¶äÛ÷íäÛ÷ªªhc
 
 '()abßàìxyz
-
-ÄÄ&ÅõìãÚìãÚìãÚìãÚìãÚìãÚìãÚìãÚÐìãÚÄ¸Ä¬¢ÐìãÚìãÚÐìãÚìãÚÐõìã¢ÐõìãÚÐõìãÚìhG;hÊ15CJhc
 
 01256|}~ýþÿefgij²³´¶·

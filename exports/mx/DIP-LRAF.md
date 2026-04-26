@@ -2467,29 +2467,3 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-Or5CJh	-Æh
-
-OrCJh	-Æhò>µCJh	-Æhò>µ5CJh	-Æh
-
-Or5CJh	-Æhò>µCJh	-Æhò>µ5CJh	-Æh
-
-Or5CJh	-Æhò>µ5CJh	-Æh
-
-OrCJh	-Æhò>µCJK­0)2*2®2¯2Ë3Ì3¶6·677à9á9 ;!;µ;¶;o<p<=
-
-OrCJh	-Æhò>µCJh	-Æhò>µ5CJh	-Æh
-
-OrCJh	-Æhò>µCJh	-Æhò>µ5CJh	-Æh
-
-Or5CJh	-Æh
-
-Or5CJh	-Æhò>µ5CJh	-Æhò>µCJh	-Æh
-
-Or5CJh	-Æhò>µ5CJh	-Æh
-
-OrCJh	-Æhò>µ5CJh	-Æh
-
-Or5CJh	-Æh
-
-OrCJh	-Æh

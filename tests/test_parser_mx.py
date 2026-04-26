@@ -1298,3 +1298,71 @@ def test_cff_tax_tarifa_table_rendered_as_pipe_table():
     assert "| 1996 | 12.50 |" in table_para or "1996" in table_para, (
         "Data row 1996/12.50 missing from tax table"
     )
+
+
+# ── Bug: repeated-short-tail garbage (Jáh-style Word stylesheet handles) ─────
+
+
+def test_truncate_repeated_short_tail_removes_jah_run():
+    """_truncate_repeated_short_tail must strip trailing runs of ≥3 identical
+    short (≤10 char) paragraphs that contain at least one non-ASCII character.
+
+    'Jáh' is a Word stylesheet handle stub: J=style-ref letter, á=accent char,
+    h=handle prefix.  It passes _is_binary_garbage because it has only one
+    non-ASCII char (á) and 'Jáh' qualifies as a 'real word' under signal 6.
+    """
+    from legalize.fetcher.mx.parser import _truncate_repeated_short_tail
+
+    good_paras = [
+        "Artículo 1o.- Esta ley es de orden público.",
+        "Ciudad de México, a 01 de enero de 2025.- Rúbrica.",
+        "En cumplimiento de lo dispuesto por la fracción I del Artículo 89.",
+    ]
+    # 10 repetitions of 'Jáh' — mirrors the Reg_Senado tail before fix.
+    jah_tail = ["Jáh"] * 10
+    result = _truncate_repeated_short_tail(good_paras + jah_tail)
+    assert result == good_paras, (
+        f"Jáh tail not removed. Last para: {repr(result[-1]) if result else 'EMPTY'}"
+    )
+
+
+def test_truncate_repeated_short_tail_reg_senado_via_cache():
+    """Reg_Senado.doc must produce NO trailing 'Jáh' run after _extract_doc_paragraphs.
+
+    Uses the HTTP cache (no network).  Skipped when the cache is not available.
+    """
+    import os
+
+    import pytest
+    requests_cache = pytest.importorskip("requests_cache")
+
+    cache_path = ".cache/http_cache.sqlite"
+    if not os.path.exists(cache_path):
+        pytest.skip("HTTP cache not available")
+
+    from legalize.fetcher.mx.parser import _extract_doc_paragraphs
+
+    session = requests_cache.CachedSession(
+        cache_path, backend="sqlite", expire_after=requests_cache.NEVER_EXPIRE
+    )
+    url = "https://www.diputados.gob.mx/LeyesBiblio/doc/Reg_Senado.doc"
+    resp = session.get(url)
+    if not getattr(resp, "from_cache", True):
+        pytest.skip("Reg_Senado.doc not in cache — skipping to avoid network")
+
+    paras = _extract_doc_paragraphs(resp.content)
+
+    # Inspect the last 30 paragraphs for repeated 'Jáh' or similar short garbage.
+    tail_30 = paras[-30:] if len(paras) >= 30 else paras
+    jah_count = tail_30.count("Jáh")
+    assert jah_count == 0, (
+        f"'Jáh' still appears {jah_count} time(s) in the last 30 paragraphs — "
+        "repeated-short-tail truncation did not fire"
+    )
+
+    # The last paragraph must be recognisable legislative text (> 20 chars).
+    assert paras, "No paragraphs extracted from Reg_Senado.doc"
+    last = paras[-1]
+    assert len(last) > 20, (
+        f"Last paragraph is suspiciously short after fix: {repr(last)}"
+    )

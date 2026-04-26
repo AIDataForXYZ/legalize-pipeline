@@ -1125,9 +1125,3 @@ Vigésimo Cuarto. Los compromisos que, para los distintos órdenes de gobierno, 
 Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-|}~áâãçè±²·¸QR^EFJKLOPÒÓÔØÙ õëáØëõëáØõëØõëØõëáØëõëáØõëáØëõëáØëõëáØëõëáØëõëáØõëáØõëØõëØÏØõëÆØëõëÆØëõëÆØëõëÆhWShÐACJhWShWSCJhWShÄCJhWShÐA5CJhWShÄ5CJhWShWS5CJN¥
-
-eeeeeeeÙeÚeg g#g$g°g±g³g´ghhhh-i.i2i3iôi÷íãíÙ÷íãíÙ÷íãíÙ÷íãíÙ÷íãíÙ÷íãíÙ÷ãíÙ÷ãíÐ÷Ç÷ãí÷ãíÙ÷í÷ãíÙ÷ãíÙ÷í÷ãíÙ÷ãíÙ÷ãíÙ÷ãíÙ÷hWShWSCJhWShÐACJhWShÐA5CJhWShWS5CJhWShÄ5CJhWShÄCJL<abbobpbQcRcécêce
-
-µ¶ª«fg´µõìâØõìâØõìâØõìâØõìâØõìâØìâØõìâØõìØìØìØìâØõìâØõìâØõìâØõìâØìÏìâØìÏìÏìâØìÆìâØìÏìâhWSh6PCJhWShWSCJhWShÄ5CJhWShWS5CJhWShÄCJhWShÐA5CJNv¹wºwnyoyz zÙzÚz={>{{{÷{ø{ò|ó|

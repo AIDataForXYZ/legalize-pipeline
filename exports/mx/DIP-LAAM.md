@@ -647,7 +647,3 @@ Cuarto.- Los procedimientos que se encuentren en trámite a la entrada en vigor 
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Alan Sahir Márquez Becerra, Secretario.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-hR¹5CJX
-
-nCJhqKh

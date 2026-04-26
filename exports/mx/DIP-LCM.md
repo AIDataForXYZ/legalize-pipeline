@@ -3411,7 +3411,3 @@ Firman los señores Ministros Presidente y el ponente con el Secretario General 
 Presidente, Ministro Hugo Aguilar Ortiz.- Firmado electrónicamente.- Ponente, Ministro Giovanni Azael Figueroa Mejía.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de once fojas útiles en las que se cuenta esta certificación, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la declaratoria general de inconstitucionalidad 7/2024, solicitada por la presidencia de la extinta Primera Sala de la Suprema Corte de Justicia de la Nación, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión de veintiocho de octubre de dos mil veinticinco. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a doce de diciembre de dos mil veinticinco.- Rúbrica.
-
-Î5CJhn|h°
-
-ÎCJh­h°

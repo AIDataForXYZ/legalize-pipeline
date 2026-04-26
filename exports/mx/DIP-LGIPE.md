@@ -9709,9 +9709,3 @@ Noveno.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto e
 Ciudad de México, a 14 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Julieta Andrea Ramírez Padilla, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de octubre de 2024.- Claudia Sheinbaum Pardo.- Rúbrica.- La Secretaria de Gobernación, Lic. Rosa Icela Rodríguez Velázquez.- Rúbrica.
-
-á5CJh*l=h7
-
-áCJh*l=h7
-
-áCJh*l=h7

@@ -185,6 +185,15 @@ _DIPUTADOS_BOILERPLATE_RE = re.compile(
     r"centro de documentaci[óo]n)",
     re.IGNORECASE,
 )
+
+# DOF page-header lines injected at the end of some Word DOC files.
+# Pattern: "(Primera/Segunda/… Sección) [TAB] DIARIO OFICIAL [TAB] <weekday> …"
+# Unlike _DIPUTADOS_BOILERPLATE_RE (which uses re.search), this is matched
+# against the full paragraph using re.search for the combined pattern.
+_DOF_PAGE_HEADER_RE = re.compile(
+    r"(?:primera|segunda|tercera|cuarta|quinta|sexta)\s+secci[óo]n\s*[)\]]\s+diario\s+oficial",
+    re.IGNORECASE,
+)
 _LAST_REFORM_FOOTER_RE = re.compile(
     r"^[ÚU]ltima\s+[Rr]eforma\s+(?:DOF|publicada)", re.IGNORECASE
 )
@@ -235,6 +244,11 @@ _WORD_FIELD_CODE_RE = re.compile(
     r"|CJPJ\^J"                # CJPJ^J without trailing aJ (property-only form)
     r"|B\*CJ"                  # B*CJ — Word "bold + CJK" boolean attribute
     r"|CJaJ"                   # CJaJ — bare CJK + AllJustify (no word-boundary needed)
+    r"|CJh[A-Za-z0-9!]?"        # CJh — Word CJK-handle stub (h = handle prefix);
+                               # matches CJh, CJhm, CJh§, etc.
+                               # never appears in Spanish prose.
+    r"|CJ\dh"                  # CJ<digit>h — Word CJK-handle with numeric suffix
+                               # e.g. CJ1h, CJ7h as in bCJ1h, hO~ãCJ7h»Ãh
     r"|nH\s*tH"                # nH tH — Word "no-hyphenation + Thai" flag cluster
     # ── OLE2 drawing-object coordinate indicators ───────────────────────────────
     # U+00A4 (¤ currency sign) and U+00A6 (¦ broken bar) appear in Word drawing-
@@ -348,11 +362,14 @@ def _is_binary_garbage(text: str) -> bool:
     # Word style-sheet comparison table dumps and never appears in Spanish legislative text.
     if _REPEAT_PAIR_NONASCII_RE.search(text):
         return True
-    # Signal 6: short paragraph with no recognisable Spanish word.
+    # Signal 6: paragraph with no recognisable Spanish word AND either short or
+    # dominated by numeric/symbol sequences.
     # A "real word" is 3+ consecutive alphabetic characters that are NOT a pure Roman
     # numeral (sequences of I/V/X/L/C/D/M only).  Real fracciones always contain at
-    # least one such word; OLE2 field-code artifacts that start with "I <letter>" do not.
-    if len(text) <= 200:
+    # least one such word; OLE2 field-code artifacts do not.
+    # The length threshold is raised to 400 to catch coordinate-dump paragraphs
+    # that exceed 200 chars but still contain no real Spanish words.
+    if len(text) <= 400:
         has_real_word = False
         for m in _REAL_WORD_ALPHA_RE.finditer(text):
             word = m.group().rstrip(".")
@@ -478,6 +495,7 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
         # Broad match for Word stylesheet property token clusters.
         r"[A-Z][a-z]?[A-Z]\^[A-Z]"  # e.g. CJ^J, CJ^JaJ-style sub-tokens
         r"|CJaJ|CJPJ|B\*CJ|nHtH"
+        r"|CJh"                       # CJh — Word CJK-handle stub (never in prose)
         r"|\dCJ"                      # 5CJ, 6CJ … numeric CJK style prefix
         r"|^h[0-9(A-Z\xc0-\xff]"      # h9(, hJg, hÏTú … style-sheet ref starts
         r"|^\xb4"                      # ´CJh, ´5CJ … acute-accent garbage prefix
@@ -494,6 +512,9 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
         r"|^\$[&%!]"
         # WWXX / JJJJ style repeated uppercase-2-char pairs (graphic coords)
         r"|([A-Z]{2,3})\1{2,}"
+        # BBB / CCC / DDD / ddd / ggg — 3+ identical letters (OLE2 binary coord dump)
+        # Any letter repeated 3+ consecutive times is always garbage in Spanish prose.
+        r"|([A-Za-z])\2{2,}"
         # Dense sequences of non-ASCII chars that are mostly outside Spanish range.
         # Pattern: 6+ consecutive non-ASCII chars where none are common Spanish
         # vowels with accent (á é í ó ú) or ñÑ — indicates drawing-object coords
@@ -501,6 +522,16 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
         # OLE2 drawing-coordinate strings: non-ASCII char alternating with digit/punct,
         # e.g. "Ô!Ô$Ô%Ô0Ö1Ö4Ö5Ö Ø!Ø"Ø%" — seen in Word drawing-object tail
         r"|(?:[^\x00-\x7f][!\"#$%&'()*+,\-./0-9:;<=>?]){4,}"
+        # Backtick characters — never appear in authentic Spanish legislative text.
+        # Word document tails sometimes contain backtick-delimited style tokens
+        # (e.g. "```´`µ`lama").
+        r"|`{2,}|[`\xad].*`"
+        # Non-breaking space (\xa0) combined with non-Spanish-text context.
+        # \xa0 (U+00A0) legitimately appears in Spanish prose as a non-breaking
+        # space, but in Word binary tails it is embedded in coordinate/style dumps.
+        # The combination of \xa0 with adjacent ASCII punctuation (&/!<>@) that
+        # cannot appear in legislative prose identifies the garbage form.
+        r"|\xa0[!-/:-@[-`{-~]|[!-/:-@[-`{-~]\xa0"
     )
 
     # Mexican legislative documents that end cleanly never have a binary blob
@@ -570,6 +601,63 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
     return paragraphs
 
 
+def _truncate_repeated_short_tail(paragraphs: list[str]) -> list[str]:
+    """Remove trailing runs of short-garbage paragraphs that escaped the main filters.
+
+    Word 97-2003 stylesheet property strings (e.g. ``Jáh``, ``UIh``, ``bCJh``,
+    ``CJh§\\h~7``) are short Word-internal style handles.  They slip through
+    ``_is_binary_garbage`` because they are too short to trigger signal 3 and
+    contain enough letters to satisfy signal 6.
+
+    A paragraph is treated as a short-garbage candidate when:
+    - It is ≤ 10 characters long, AND
+    - It does NOT look like a legitimate derogation marker: it is either
+      longer than 2 chars, or it contains at least one non-ASCII character
+      (guards against cutting lone "." / ".." / "I" / "A" etc. which are
+      valid in Mexican federal legislation).
+
+    Strategy: starting from the last paragraph, walk backward as long as each
+    paragraph is a short-garbage candidate.  If the resulting contiguous run
+    is ≥ 5 paragraphs, truncate before it.  The threshold of 5 is chosen so
+    that isolated short-token artifacts mid-document (which can legitimately
+    appear after reform stamps) are not affected — only the repeated tail blob.
+    """
+    _MAX_LEN = 20
+    _MIN_RUN = 5
+    _TAIL_WINDOW = 40
+
+    n = len(paragraphs)
+    if n < _MIN_RUN:
+        return paragraphs
+
+    window_start = max(0, n - _TAIL_WINDOW)
+
+    def _is_short_garbage_candidate(text: str) -> bool:
+        if len(text) > _MAX_LEN:
+            return False
+        # Allow lone "." and ".." (derogation markers) and single ASCII letters.
+        if len(text) <= 2 and all(ord(c) <= 0x7F for c in text):
+            return False
+        return True
+
+    # Walk backward from the end through the tail window.
+    cut_at = n
+    for i in range(n - 1, window_start - 1, -1):
+        if _is_short_garbage_candidate(paragraphs[i]):
+            cut_at = i
+        else:
+            break
+
+    if cut_at == n:
+        return paragraphs  # no contiguous short-garbage at the tail
+
+    tail_length = n - cut_at
+    if tail_length < _MIN_RUN:
+        return paragraphs  # run too short to be confident it is garbage
+
+    return paragraphs[:cut_at]
+
+
 def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     """Extract plain-text paragraphs from a Word 97-2003 (.doc) OLE2 file.
 
@@ -637,6 +725,8 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
             continue
         if _LAST_REFORM_FOOTER_RE.match(para):
             continue
+        if _DOF_PAGE_HEADER_RE.search(para):
+            continue
         paragraphs.append(para)
 
     # Trim trailing single-character artifacts (lone letters, underscores, etc.)
@@ -651,6 +741,50 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
     # Tail-blob truncation: drop any trailing contiguous run of binary-garbage
     # paragraphs that slipped through the per-paragraph filter.
     paragraphs = _truncate_tail_blob(paragraphs)
+
+    # Repeated-short-tail truncation: drop trailing runs of identical very
+    # short paragraphs (≤ 10 chars).  Covers stylesheet handle tokens like
+    # "Jáh" that contain one Spanish accent and therefore pass _is_binary_garbage
+    # signal 3 and signal 6.  Three or more consecutive identical short
+    # paragraphs at the document end are never legitimate legislative text.
+    paragraphs = _truncate_repeated_short_tail(paragraphs)
+
+    # Second-pass tail-blob truncation: after the repeated-short-tail step
+    # removes "anchor" paragraphs (e.g. "Jáh") that were blocking the first
+    # pass, re-run to drop the exposed shorter garbage tail.
+    paragraphs = _truncate_tail_blob(paragraphs)
+
+    # Final micro-trim: remove any remaining artifacts at the tail that are
+    # clearly not legitimate legislative text.  Two criteria:
+    #
+    # 1. Very-short (≤ 5-char) items that are not derogation dots or fracción
+    #    markers.  Covers edge cases like "DEFRq" (Word style-name stub, 5 chars,
+    #    pure ASCII) that slip through the binary-garbage and tail-blob filters.
+    # 2. Items up to 50 chars that are flagged by _is_binary_garbage when isolated
+    #    at the tail.  This catches residual OLE2 coordinate/style-dump fragments
+    #    whose garbage nature was masked by surrounding context during the window
+    #    scan but is clear once all neighbours are removed.  We limit this to the
+    #    last 3 paragraphs to avoid over-cutting near legitimate short text.
+    #
+    # Legitimate ≤ 5-char tail paragraphs in Mexican legislation:
+    #   "."  ".."  — derogation dots
+    #   "I."  "II." etc. — very short fracción markers
+    _LEGIT_SHORT = {".", "..", "I.", "II.", "III.", "IV.", "V."}
+    while (
+        paragraphs
+        and len(paragraphs[-1]) <= 5
+        and paragraphs[-1] not in _LEGIT_SHORT
+    ):
+        paragraphs.pop()
+
+    # Pass 2: drop up to 3 tail paragraphs that _is_binary_garbage considers junk
+    # when evaluated in isolation (it can be more accurate with a single paragraph
+    # than with the full-window context that _truncate_tail_blob uses).
+    for _ in range(3):
+        if paragraphs and _is_binary_garbage(paragraphs[-1]):
+            paragraphs.pop()
+        else:
+            break
 
     return paragraphs
 

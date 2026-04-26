@@ -22,6 +22,12 @@ import re
 import sys
 from pathlib import Path
 
+try:
+    import yaml as _yaml_mod
+    _HAS_YAML = True
+except ImportError:
+    _HAS_YAML = False
+
 REPO_ROOT = Path(__file__).resolve().parents[1]
 EXPORTS_DIR = REPO_ROOT / "exports" / "mx"
 
@@ -141,6 +147,110 @@ def check_tail_binary_blob(text: str) -> list[tuple[int, str]]:
     return hits
 
 
+def check_repeated_short_tail(text: str) -> list[tuple[int, str]]:
+    """Trailing run of a repeated short line — catches Jáh-style Word handle garbage.
+
+    Inspects the last 30 lines of the file.  If the most-frequently-repeated
+    distinct line in that window is ≤ 30 chars AND appears ≥ 5 times, the file
+    fails.  This mirrors the criterion that triggered the Reg_Senado.doc bug:
+    10 consecutive 'Jáh' lines at the file end.
+    """
+    lines = text.splitlines()
+    tail = [ln.strip() for ln in lines[-30:]] if len(lines) >= 30 else [ln.strip() for ln in lines]
+    # Count occurrences of each distinct non-empty line in the tail window.
+    from collections import Counter
+    counts: Counter[str] = Counter(ln for ln in tail if ln)
+    if not counts:
+        return []
+    most_common_line, most_common_count = counts.most_common(1)[0]
+    if most_common_count >= 5 and len(most_common_line) <= 30:
+        # Report the last occurrence line number.
+        all_lines = text.splitlines()
+        last_line_no = 0
+        for i, ln in enumerate(all_lines, start=1):
+            if ln.strip() == most_common_line:
+                last_line_no = i
+        return [(last_line_no, f"repeated tail: {most_common_line!r} x{most_common_count}")]
+    return []
+
+
+def check_frontmatter_completeness(text: str) -> list[tuple[int, str]]:
+    """Validate YAML frontmatter for required keys and sanity checks.
+
+    Required keys: title, identifier, country, rank, jurisdiction, gov_organ,
+    entidad_federativa, publication_date, last_updated, status, source,
+    department, pdf_url, doc_url, source_name, abbrev.
+
+    Conditionally required: if last_reform_dof is present, gazette_pdf_page
+    must also be present (and vice versa).
+
+    Sanity checks: dates in ISO YYYY-MM-DD, source ends in .doc (not .pdf),
+    country == 'mx'.
+    """
+    REQUIRED_KEYS = [
+        "title", "identifier", "country", "rank", "jurisdiction", "gov_organ",
+        "entidad_federativa", "publication_date", "last_updated", "status",
+        "source", "department", "pdf_url", "doc_url", "source_name", "abbrev",
+    ]
+    DATE_KEYS = {"publication_date", "last_updated", "last_reform_dof"}
+    _ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+    hits: list[tuple[int, str]] = []
+
+    # Extract frontmatter block.
+    fm_match = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+    if not fm_match:
+        hits.append((1, "missing YAML frontmatter block"))
+        return hits
+
+    fm_text = fm_match.group(1)
+    fm_start_line = 1  # frontmatter starts at line 1 (the opening ---)
+
+    # Parse YAML.
+    if _HAS_YAML:
+        try:
+            fm = _yaml_mod.safe_load(fm_text) or {}
+        except Exception as exc:
+            hits.append((1, f"YAML parse error: {exc}"))
+            return hits
+    else:
+        # Minimal fallback: extract key: "value" pairs with regex.
+        fm: dict = {}
+        for m in re.finditer(r'^(\w+):\s*"?([^"\n]*)"?\s*$', fm_text, re.MULTILINE):
+            fm[m.group(1)] = m.group(2).strip()
+
+    # Required key presence.
+    for key in REQUIRED_KEYS:
+        if key not in fm or fm[key] in (None, "", []):
+            hits.append((fm_start_line, f"missing required frontmatter key: {key!r}"))
+
+    # Conditional pair: last_reform_dof ↔ gazette_pdf_page.
+    has_reform = bool(fm.get("last_reform_dof"))
+    has_gazette = bool(fm.get("gazette_pdf_page"))
+    if has_reform and not has_gazette:
+        hits.append((fm_start_line, "last_reform_dof present but gazette_pdf_page missing"))
+    if has_gazette and not has_reform:
+        hits.append((fm_start_line, "gazette_pdf_page present but last_reform_dof missing"))
+
+    # Sanity: ISO date format.
+    for dk in DATE_KEYS:
+        val = fm.get(dk)
+        if val and not _ISO_DATE_RE.match(str(val)):
+            hits.append((fm_start_line, f"{dk} is not ISO YYYY-MM-DD: {val!r}"))
+
+    # Sanity: source ends in .doc, not .pdf.
+    source = fm.get("source", "")
+    if source and str(source).endswith(".pdf"):
+        hits.append((fm_start_line, f"source points to .pdf, expected .doc: {source!r}"))
+
+    # Sanity: country == 'mx'.
+    country = fm.get("country", "")
+    if country and str(country) != "mx":
+        hits.append((fm_start_line, f"country is {country!r}, expected 'mx'"))
+
+    return hits
+
+
 CHECKS = {
     "field_codes": (check_word_field_codes, True),  # (fn, fatal)
     "short_garbage_lines": (check_short_garbage_lines, True),
@@ -148,6 +258,8 @@ CHECKS = {
     "issuing_decree_at_start": (check_issuing_decree_at_start, True),
     "pdf_page_footer": (check_repeated_pdf_artifacts, True),
     "tail_binary_blob": (check_tail_binary_blob, True),
+    "repeated_short_tail": (check_repeated_short_tail, True),
+    "frontmatter_completeness": (check_frontmatter_completeness, True),
 }
 
 

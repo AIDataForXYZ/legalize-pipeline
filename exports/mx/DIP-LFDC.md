@@ -187,9 +187,3 @@ III.- Los contribuyentes podrán presentar en los juicios de nulidad ante el Tri
 México, D.F., a 28 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de junio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-
-hp3;CJhp35;CJ
-
-hp35CJhp35;CJ
-
-hp3;CJhp35;CJ

@@ -2007,5 +2007,3 @@ Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 
 Miércoles 20 de agosto de 2008	DIARIO OFICIAL	(Primera Sección)      PAGE  \* MERGEFORMAT 9
-
-CJh` h

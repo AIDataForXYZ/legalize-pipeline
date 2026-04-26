@@ -3016,16 +3016,3 @@ Artículo Único.- Se reforman los artículos 53 y 57 QUÁTER, numerales 1 y 2, 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Rúbrica.- Sen. Gerardo Fernández Noroña, Presidente.- Rúbrica.- Dip. José Luis Montalvo Luna, Secretario.- Rúbrica.- Sen. Lizeth Sánchez García, Secretaria.- Rúbrica.
-
-| Dirección General de Bibliotecas | Última Reforma DOF 10-05-2004 |
-| --- | --- |
-
-uuuu
-
-Nhr
-
-fhá
-
-fhá
-
-fhá

@@ -1655,11 +1655,3 @@ En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la
 Ciudad de México, a 25 de abril de 2024.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-
-hsM5CJhsMCJ\^J¡õö÷øøÌùîùïùúúüü
-
-hsMCJ\hsM5CJ\
-
-­CJh=}ahþ
-
-­CJh=}ahþ

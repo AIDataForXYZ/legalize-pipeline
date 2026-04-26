@@ -621,5 +621,3 @@ QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, as�
 Notifíquese mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-
-jhá^

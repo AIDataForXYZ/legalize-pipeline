@@ -771,33 +771,3 @@ Segundo. Los procesos de consulta popular que a la fecha de entrada en vigor del
 Ciudad de México, a 27 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Edgar Guzmán Valdez, Secretario.- Sen. María Merced González González, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-
-5CJh§\h~7
-
-CJh§\h~7
-
-CJh§\h§\CJh§\h§\5CJh§\h~7
-
-CJh§\h~7
-
-5CJh§\h§\5CJh§\h~7
-
-CJh§\h~7
-
-CJh§\h~7
-
-BBBöB÷BCODPDD D¯DÖD×DäD[E\EóåØóÈ¹­¡¹åØó}tkØó[OEåØóh§\h§\5CJh§\h~7
-
-CJh§\h~7
-
-dddàdádådFe[eeefegeie=f>fBfmgggggghhhñÕ¼Õ­ñÕ¼Õ}n­ñÕ¼Õ­}n­ñÕ¼Õ­}n­`h§\h~7
-
-CJh§\h~7
-
-CJh§\h~7
-
-CJh§\h~7
-
-5CJh§\h§\CJh§\h~7
-
-CJh§\h~7

@@ -3152,7 +3152,3 @@ Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna,
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 
 $Qþ^`Qþa$$.Qþ^.`Qþa$pLvL÷LMMM;MAMP>PàPæPlQrQ-RNRORUR*SKSLSRSCV~VVVÃVäVåVXlXxXXXXXñåÒåñåñåÒåñåñåÒåñåÒåñåÒåÀ°ÒmZÒåñ%h9%
-
-hlc
-
-hlc

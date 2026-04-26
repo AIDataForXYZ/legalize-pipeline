@@ -721,5 +721,3 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-
-TTTTTTTTT¿TÀTÃTÄT'U(U*U+USUTUWUXUUU¢U£UVVV	VoVpVsVtV¸V¹VÆVWW W!WÏWÐWÓWÔWhXiXmXnX¹XºX½X¾XYYYY8Y9Y<Y=Y½YõëâÙâõëâõëâÙâõëâëâõëÐâõëÐâõëâÐâõëÐâõëÐâõëÐâõëÐâõëÐâõëÐâõëâõëÐâõëÐâõëÐâõëÐâõëÐâõëÐâh'WíhyOhCJh'Wíh'WíCJh'WíhA=CJh'WíhA=5CJh'Wíh'Wí5CJRÐMÑMO	ORR,S-SÉSÊS
