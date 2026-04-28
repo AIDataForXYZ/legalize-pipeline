@@ -31,6 +31,34 @@ except ImportError:
 REPO_ROOT = Path(__file__).resolve().parents[1]
 EXPORTS_DIR = REPO_ROOT / "exports" / "mx"
 
+# Reuse the parser's classifiers so audit and parser stay in lock-step.  Any
+# pattern the parser drops at tail-trim should also be flaggable by the audit.
+sys.path.insert(0, str(REPO_ROOT / "src"))
+from legalize.fetcher.mx.parser import (  # noqa: E402
+    _REAL_WORD_ALPHA_RE as _PARSER_REAL_WORD_RE,
+    _TAIL_PARAGRAPH_GARBAGE_RE as _PARSER_TAIL_RE,
+    _is_binary_garbage as _parser_is_binary_garbage,
+    _is_garbage_table_row as _parser_is_garbage_table_row,
+    _is_spanish_word as _parser_is_spanish_word,
+)
+
+
+def _qualifying_spanish_word_count(line: str) -> int:
+    """Count distinct ≥ 5-letter Spanish words in ``line``.
+
+    Used by the audit's tail check to suppress false positives — a line with
+    multiple real Spanish words is never garbage even when it incidentally
+    matches a tail-pattern regex (e.g. ``III`` triple-letter run, ``gd``
+    substring).  A single accidental match (``pqráú`` → 2 vowels lowercase
+    "word") doesn't suppress flagging when other tail signals fire.
+    """
+    seen: set[str] = set()
+    for m in _PARSER_REAL_WORD_RE.finditer(line):
+        word = m.group()
+        if len(word) >= 5 and _parser_is_spanish_word(word):
+            seen.add(word.lower())
+    return len(seen)
+
 
 # Each check returns a list of (file_path, line_no, sample_excerpt).
 def check_word_field_codes(text: str) -> list[tuple[int, str]]:
@@ -131,19 +159,91 @@ def check_tail_binary_blob(text: str) -> list[tuple[int, str]]:
     responsible for removing.
     """
     _TAIL_BLOB_RE = re.compile(
-        r"\d?CJ\^J"          # 5CJ^J / CJ^J
+        r"\d?CJ\^J"            # 5CJ^J / CJ^J
         r"|CJ\s*PJ\s*\]?\s*aJ"  # CJPJ]aJ / CJPJ^JaJ
-        r"|B\*CJ"             # B*CJ boolean attribute
-        r"|CJaJ"              # bare CJaJ
-        r"|nH\s*tH"           # nH tH flag
+        r"|B\*CJ"              # B*CJ boolean attribute
+        r"|CJaJ"               # bare CJaJ
+        r"|nH\s*tH"            # nH tH flag
+        # ── Word stylesheet handle tokens (closed-PR cleanup additions) ─────
+        r"|CJ\\\^J"            # CJ\^J — char-style with backslash escape
+        r"|CJ\\aJ"             # CJ\aJ — char-style with backslash separator
+        r"|CJUV"               # CJUV — Word "CJK + Underline + Vertical"
+        r"|CJUa"                # CJUa
+        r"|CJU\b"              # bare CJU
+        r"|CJOJ"               # CJOJ
+        r"|\^Jh"               # ^Jh suffix
+        r"|0J[Uja]"            # 0JU / 0Jj / 0Ja prefixes
+        r"|5aJ"                # 5aJ
+        r"|aJh[A-Za-z\xc0-\xff_]"  # aJh<id>
+        r"|hf_h"               # hf_h
+        r"|mHnHu"              # mHnHu
+        # OLE2 conditional-format / named-range residuals.
+        r"|\$Ifa\$|\$\$Ifa\$|Ifa\$gd"
+        # Backtick runs (Word smart-quote / drawing-object residual).
+        r"|`{2,}"
+        # Sequential single-key byte run (matches uuu$u%u& / hyOh5aJh / B%B/B0B…).
+        r"|([A-Za-z])(?:[^A-Za-z\s]{0,3}\1){4,}"
+        # Repeated 4-char non-ASCII sequence (üõüíüõüí…).
+        r"|([^\x00-\x7f][^\x00-\x7f][^\x00-\x7f][^\x00-\x7f])\2{2,}"
     )
+    # Markdown table separator row (``| --- | --- |``) appearing as the LAST
+    # non-empty content line of the document is always tail-truncation residue:
+    # legitimate Mexican legislation never closes on a table separator.
+    _SEPARATOR_ROW_RE = re.compile(r"^\s*\|(?:\s*-+\s*\|)+\s*$")
     lines = text.splitlines()
     last_200 = lines[-200:] if len(lines) > 200 else lines
     offset = max(0, len(lines) - 200)
     hits: list[tuple[int, str]] = []
+    # Token-based check: anywhere in the last 200 lines, an explicit Word
+    # stylesheet token is unambiguous garbage (matches the original audit
+    # behaviour, extended with the closed-PR cleanup tokens).
     for j, line in enumerate(last_200, start=offset + 1):
         if _TAIL_BLOB_RE.search(line):
             hits.append((j, line[:120]))
+
+    # Tail-only parser-classifier check: take the last 5 non-empty content
+    # lines and run the parser's tail-trim verdict on each.  This catches
+    # paragraphs that escaped tail truncation in the parser (e.g. tab-
+    # separated short tokens, sequential-key bursts, garbage table rows)
+    # without false-positive flooding mid-document Roman-numeral fracciones.
+    content: list[tuple[int, str]] = [
+        (j, ln) for j, ln in enumerate(lines, start=1) if ln.strip()
+    ]
+    for j, line in content[-5:]:
+        stripped = line.strip()
+        # Skip the YAML frontmatter delimiter — it legitimately appears at the
+        # top of every file and is not a tail artifact.
+        if stripped == "---":
+            continue
+        if any(h[0] == j for h in hits):
+            continue
+        # Suppress flagging when the line clearly has Spanish prose — ≥ 2
+        # distinct qualifying words means the incidental tail-regex match is
+        # spurious (``III`` Roman-numeral fracción, ``gd`` substring inside a
+        # word).  One word is not enough: short binary tails like
+        # ``pqráúÝ\tí\tî\tü`` happen to contain a single 5-char pseudo-word
+        # but are still garbage.
+        word_count = _qualifying_spanish_word_count(stripped)
+        if _parser_is_binary_garbage(stripped) and word_count == 0:
+            hits.append((j, line[:120]))
+            continue
+        if (
+            word_count < 2
+            and len(stripped) <= 200
+            and _PARSER_TAIL_RE.search(stripped)
+        ):
+            hits.append((j, line[:120]))
+            continue
+        if _parser_is_garbage_table_row(stripped):
+            hits.append((j, line[:120]))
+
+    # Trailing separator-only table row.
+    if content:
+        last_content_idx, last_content_line = content[-1]
+        if _SEPARATOR_ROW_RE.match(last_content_line) and not any(
+            h[0] == last_content_idx for h in hits
+        ):
+            hits.append((last_content_idx, last_content_line[:120]))
     return hits
 
 

@@ -299,6 +299,14 @@ _REPEAT_NONASCII_RE = re.compile(r"([^\x00-\x7f])\1{2,}")
 # _REPEAT_NONASCII_RE, but alternating-pair dumps require this check).
 _REPEAT_PAIR_NONASCII_RE = re.compile(r"([^\x00-\x7f][^\x00-\x7f])\1{3,}")
 
+# 3+ consecutive repetitions of the same 4-char non-ASCII sequence — long-period
+# Word style-sheet table dumps that escape the 2-char pair check.  Example:
+# ``üõüíüõüíüõüí…`` (period 4: ü, õ, ü, í) repeated dozens of times.  Legitimate
+# Spanish text never repeats a 4-char non-ASCII sequence three times in a row.
+_REPEAT_QUAD_NONASCII_RE = re.compile(
+    r"([^\x00-\x7f][^\x00-\x7f][^\x00-\x7f][^\x00-\x7f])\1{2,}"
+)
+
 # Matches a sequence of 3+ alphabetic characters (used to detect "real words" in a
 # paragraph).  Combined with _ROMAN_NUMERAL_WORD_RE below this lets us distinguish
 # legitimate prose from short OLE2 / field-code garbage that escaped the other checks.
@@ -308,6 +316,149 @@ _REAL_WORD_ALPHA_RE = re.compile(r"[A-Za-záéíóúÁÉÍÓÚñÑüÜ]{3,}")
 # numeral tokens like "VIII" from the "real word" count — "I A VIII." is garbage
 # even though "VIII" is 4 alphabetic characters.
 _ROMAN_NUMERAL_WORD_RE = re.compile(r"^[IVXLCDMivxlcdm]+$")
+
+# Curated set of all-uppercase Spanish words that legitimately appear in
+# legislative text (section headings, gazette stamps, signatory titles).  Used
+# by ``_is_spanish_word`` to admit short all-caps headings while rejecting
+# random all-caps stylesheet dumps like ``XYfTU`` or ``HDEFIJ``.
+_LEGAL_ALL_CAPS_WORDS: frozenset[str] = frozenset({
+    "ARTICULO", "ARTÍCULO", "ARTICULOS", "ARTÍCULOS",
+    "TITULO", "TÍTULO", "TITULOS", "TÍTULOS",
+    "CAPITULO", "CAPÍTULO", "CAPITULOS", "CAPÍTULOS",
+    "SECCION", "SECCIÓN", "SECCIONES", "LIBRO", "LIBROS",
+    "DECRETO", "DECRETA", "DECRETOS", "ANEXO", "ANEXOS",
+    "TRANSITORIO", "TRANSITORIOS", "CONSIDERANDO", "CONSIDERANDOS",
+    "UNICO", "ÚNICO", "PRIMERO", "PRIMERA", "SEGUNDO", "SEGUNDA",
+    "TERCERO", "TERCERA", "CUARTO", "CUARTA", "QUINTO", "QUINTA",
+    "SEXTO", "SEXTA", "SEPTIMO", "SÉPTIMO", "OCTAVO", "NOVENO",
+    "DECIMO", "DÉCIMO", "REFORMA", "REFORMAS", "REFORMADO", "REFORMADA",
+    "PUBLICADA", "PUBLICADO", "DOF", "DIPUTADOS", "SENADO", "SENADORES",
+    "MEXICO", "MÉXICO", "MEXICANOS", "MEXICANAS", "FEDERAL", "FEDERALES",
+    "PRESIDENTE", "PRESIDENTA", "SECRETARIO", "SECRETARIA",
+    "CONSTITUCION", "CONSTITUCIÓN", "CONSTITUCIONALES",
+    "REPUBLICA", "REPÚBLICA", "ESTADOS", "UNIDOS",
+    "LEY", "LEYES", "CODIGO", "CÓDIGO", "REGLAMENTO",
+    "FRACCION", "FRACCIÓN", "INCISO", "PARRAFO", "PÁRRAFO",
+    "GENERAL", "GENERALES", "NACIONAL", "NACIONALES",
+    # Signatory titles & common Spanish honorifics in scanned signature blocks.
+    "LICENCIADO", "LICENCIADA", "DOCTOR", "DOCTORA", "MAESTRO", "MAESTRA",
+    "INGENIERO", "INGENIERA", "ARQUITECTO", "ARQUITECTA",
+    "RUBRICA", "RÚBRICA", "RUBRICAS", "RÚBRICAS",
+    "GOBERNADOR", "GOBERNADORA", "GOBERNACION", "GOBERNACIÓN",
+    "DIPUTADO", "DIPUTADA", "SENADOR", "SENADORA",
+    "MINISTRO", "MINISTRA", "PROCURADOR", "PROCURADORA",
+    "SUPREMA", "CORTE", "JUSTICIA", "NACION", "NACIÓN",
+    "ACUERDOS", "CERTIFICA", "AUDITORIA", "AUDITORÍA",
+})
+
+
+def _is_spanish_word(word: str) -> bool:
+    """Return True when ``word`` looks like a real Spanish word (not a Word
+    stylesheet handle fragment or a random alphabet sweep).
+
+    Tiered acceptance:
+    - Pure Roman numeral tokens (``I``, ``VIII``) are rejected.
+    - Words containing a Word stylesheet handle substring are rejected.
+    - Strictly increasing alphabet sweeps (``efgij``, ``BCDEF``) are rejected.
+    - Words with NO vowel are rejected.
+    - 3-4 char words: accepted as long as they have a vowel (covers headings
+      like ``Col``, ``Ley``, ``DOF``, ``ART``, abbreviations like ``IMSS``).
+    - 5+ char curated all-caps headings (``ARTÍCULO``, ``CAPÍTULO``, …) accepted.
+    - 5+ char other words: must follow Spanish casing (all-lowercase OR
+      Capitalized + rest lowercase) AND contain ≥ 2 vowels.  This rejects
+      mixed-case stylesheet dumps (``XYfTU``, ``WwhdÚCJ``, ``aCDEL``, ``Ífjop``).
+    """
+    word = word.rstrip(".")
+    if not word or len(word) < 3:
+        return False
+    if _ROMAN_NUMERAL_WORD_RE.match(word):
+        return False
+    if _WORD_HANDLE_TOKENS_RE.search(word):
+        return False
+    lw = word.lower()
+    # Vowel requirement — every Spanish word has at least one.
+    if not any(c in "aeiouáéíóúü" for c in lw):
+        return False
+    # Strictly increasing alphabet sweep — applies to all lengths ≥ 3.  Real
+    # Spanish words don't sweep the alphabet (``abc``, ``bcd``, ``efg``,
+    # ``ghi``, ``efgij``, ``BCDEF`` are all stylesheet alphabet dumps).
+    is_sweep = all(
+        lw[i].isalpha() and lw[i + 1].isalpha()
+        and 0 <= ord(lw[i + 1]) - ord(lw[i]) <= 2
+        for i in range(len(lw) - 1)
+    )
+    if is_sweep:
+        return False
+    upper = word.upper()
+    if len(word) < 5:
+        # Short words (3-4 chars): only accept curated all-caps headings
+        # (``LEY``, ``DOF``) or 4-char Spanish tokens that are NOT all-caps
+        # ASCII handle fragments.  This rejects 3-4 char stylesheet noise
+        # like ``CJh``, ``aJh``, ``IJÍ``, ``UVh``, ``EFT`` while still
+        # admitting ``Ley``, ``Para``, ``Esta``, ``Esto``, ``Pena``, ``Esto``,
+        # ``Mes``, ``año`` etc. via the criteria below:
+        #   - all-lowercase Spanish word, OR
+        #   - Capitalized + lowercase rest, OR
+        #   - in the curated all-caps list.
+        if upper in _LEGAL_ALL_CAPS_WORDS:
+            return True
+        if word.isupper():
+            return False
+        if word.islower() or word[1:].islower():
+            return True
+        return False
+    if upper in _LEGAL_ALL_CAPS_WORDS:
+        return True
+    if word.isupper():
+        # All-caps Spanish words must appear in the curated list; otherwise
+        # treat as stylesheet noise.  Proper-name signatory blocks
+        # (``RAFAEL COELLO CETINA``) are accepted because the surrounding
+        # ``LICENCIADO`` / ``RUBRICA`` / etc. matches keep ``has_real_word``
+        # True at the paragraph level even when individual proper-name tokens
+        # don't qualify on their own.
+        return False
+    # Casing — Spanish words are either all-lowercase or Capitalized + rest lowercase.
+    if not (word.islower() or word[1:].islower()):
+        return False
+    # Vowel content — ≥ 2 lowercase / accented vowels for 5+ char words.
+    vowel_count = sum(1 for c in lw if c in "aeiouáéíóú")
+    if vowel_count < 2:
+        return False
+    return True
+
+# Word stylesheet character-style handle tokens that bleed into the text stream.
+# Each match here is diagnostic on its own when it appears in a short paragraph —
+# legitimate Spanish prose never contains the exact substrings ``CJ\^J``,
+# ``CJUV``, ``CJUa``, ``5aJ``, ``aJh``, ``hf_``, ``mHnHu`` etc.
+_WORD_HANDLE_TOKENS_RE = re.compile(
+    r"CJ\\\^J"            # CJ\^J — char-style "CJK + no kerning" with backslash escape
+    r"|CJ\\aJ"            # CJ\aJ — char-style with backslash separator
+    r"|CJUV"              # CJUV — Word "CJK + Underline + Vertical" handle
+    r"|CJUa"              # CJUa — variant of CJUV with AllJustify
+    r"|CJU\b"             # bare CJU at token boundary
+    r"|CJOJ"              # CJOJ — CJK + Outer + Justify
+    r"|\^Jh"              # ^Jh — caret-J handle suffix
+    r"|0J[Uja]"           # 0JU / 0Jj / 0Ja — "no-kerning, justify" prefixes
+    r"|5aJ"               # 5aJ — char-style cluster
+    r"|aJh[A-Za-z\xc0-\xff_]"  # aJh<id> — handle reference
+    r"|hf_h"              # hf_h — Word style-sheet handle reference
+    r"|mHnHu"             # mHnHu — Word "no-hyphenation" attribute
+    r"|JU\b"              # JU at token boundary
+    r"|J\\\^J"            # J\^J — split form of CJ\^J
+)
+
+# Catches "sequential single-key byte runs": one letter immediately followed by
+# 4+ fragments that all start with the same letter and have only short
+# non-alphabetic gaps.  Examples from the closed-PR corpus:
+#   uuu$u%u&u2u5uBuKuSuXub...
+#   jvjwj{j|jîjïjòjój3k4k...   (key changes mid-run; we match each run)
+#   hyOh5aJhúENhA=5aJ           (key 'h')
+#   B%B/B0BHBRBSBT
+# A "fragment" is up to 3 non-alpha chars.  Five+ repetitions of the same key
+# letter in this pattern is never legitimate Spanish prose.
+_SEQUENTIAL_KEY_RUN_RE = re.compile(
+    r"([A-Za-z])(?:[^A-Za-z\s]{0,3}\1){4,}"
+)
 
 
 def _is_binary_garbage(text: str) -> bool:
@@ -392,6 +543,10 @@ def _is_binary_garbage(text: str) -> bool:
     # Word style-sheet comparison table dumps and never appears in Spanish legislative text.
     if _REPEAT_PAIR_NONASCII_RE.search(text):
         return True
+    # Signal 5b: repeating non-ASCII 4-char sequence (e.g. ``üõüíüõüíüõüí…``).
+    # Same provenance as signal 5 but a longer period.
+    if _REPEAT_QUAD_NONASCII_RE.search(text):
+        return True
     # Signal 6: paragraph with no recognisable Spanish word AND either short or
     # dominated by numeric/symbol sequences.
     # A "real word" is 3+ consecutive alphabetic characters that are NOT a pure Roman
@@ -399,16 +554,98 @@ def _is_binary_garbage(text: str) -> bool:
     # least one such word; OLE2 field-code artifacts do not.
     # The length threshold is raised to 400 to catch coordinate-dump paragraphs
     # that exceed 200 chars but still contain no real Spanish words.
+    #
+    # For lines ≤ 80 chars we additionally require that the "real word" be ≥ 5
+    # alphabetic chars and NOT itself look like a Word stylesheet handle (e.g.
+    # ``CJh``, ``aJh``, ``JKT``, ``RST``, ``IJÍÎ`` are 3-char alpha runs that the
+    # original signal accepted, but they are stylesheet token fragments, not
+    # Spanish words).  Real legislative prose has at least one ≥ 5-letter word
+    # (``de``/``la`` are too short to count, but ``Artículo``, ``vigor``,
+    # ``Mexico`` etc. are present in every legitimate paragraph).
     if len(text) <= 400:
         has_real_word = False
+        # Short paragraphs (≤ 80 chars) require a strict Spanish word — see
+        # ``_is_spanish_word``.  Longer paragraphs only need any 3+ alpha
+        # non-Roman token, because long stylesheet dumps are already filtered
+        # by signal 3 (high-byte ratio) and signal 8 (sequential key run).
+        require_strict = len(text) <= 80
         for m in _REAL_WORD_ALPHA_RE.finditer(text):
             word = m.group().rstrip(".")
-            if not _ROMAN_NUMERAL_WORD_RE.match(word):
+            if require_strict:
+                if _is_spanish_word(word):
+                    has_real_word = True
+                    break
+            else:
+                if _ROMAN_NUMERAL_WORD_RE.match(word):
+                    continue
                 has_real_word = True
                 break
         if not has_real_word:
             return True
+
+    # Signal 7: Word stylesheet handle-token cluster.  Two or more occurrences of
+    # any handle token in a single paragraph are diagnostic; one occurrence is
+    # diagnostic in a short (≤ 80 char) paragraph.  These tokens (``CJ\^J``,
+    # ``CJUV``, ``5aJ``, ``aJh``, ``hf_``, ``mHnHu`` etc.) never appear in
+    # authentic Spanish legislative prose.
+    handle_hits = len(_WORD_HANDLE_TOKENS_RE.findall(text))
+    if handle_hits >= 2:
+        return True
+    if handle_hits >= 1 and len(text) <= 80:
+        return True
+
+    # Signal 8: sequential single-key byte run — one letter repeated 5+ times
+    # with only short non-alpha gaps between repetitions.  Produced by Word
+    # binary coordinate / handle-table dumps; never appears in Spanish prose.
+    if _SEQUENTIAL_KEY_RUN_RE.search(text):
+        return True
+
     return False
+
+
+def _is_garbage_table_row(line: str) -> bool:
+    """Return True when ``line`` is a single Markdown pipe-table row whose cells
+    contain only Word stylesheet / OLE2 garbage.
+
+    Used by the tail-truncation passes and by the audit script.  This is
+    intentionally separate from ``_is_binary_garbage`` (which exempts pipe-
+    table rows wholesale, since legitimate multi-line tables produced by
+    ``_word_table_to_markdown`` are also pipe-table rows).  We only call this
+    helper at the document tail, where surviving garbage tables — produced by
+    Word's binary footer that bleeds into the text stream — can be safely
+    dropped because they are never the closing content of a real law.
+    """
+    s = line.strip()
+    if not s.startswith("|") or not s.endswith("|"):
+        return False
+    # Pure separator row (``| --- | --- |``) is a structural row — garbage when
+    # appearing on its own at the tail (no surrounding header / data).
+    inner = s[1:-1]
+    cells = [c.strip() for c in inner.split("|")]
+    if all(re.fullmatch(r"-+", c) for c in cells if c):
+        return True
+    # If no cell contains a real Spanish word AND at least one cell contains
+    # binary-garbage signals, treat the row as garbage.
+    has_word = False
+    has_garbage_signal = False
+    for c in cells:
+        if not c:
+            continue
+        for m in _REAL_WORD_ALPHA_RE.finditer(c):
+            if _is_spanish_word(m.group()):
+                has_word = True
+                break
+        if has_word:
+            break
+        # Garbage signals inside a cell.
+        if (
+            _WORD_FIELD_CODE_RE.search(c)
+            or _WORD_HANDLE_TOKENS_RE.search(c)
+            or _TAIL_PARAGRAPH_GARBAGE_RE.search(c)
+            or _is_binary_garbage(c)
+        ):
+            has_garbage_signal = True
+    return has_garbage_signal and not has_word
 
 
 def _word_table_to_markdown(raw_segment: str) -> str | None:
@@ -534,6 +771,36 @@ _TAIL_PARAGRAPH_GARBAGE_RE = re.compile(
     # regular space or no space; °\xa0 only appears in Word binary coordinate
     # dumps.
     r"|\xb0\xa0"
+    # Word stylesheet handle tokens — see _WORD_HANDLE_TOKENS_RE for full list.
+    r"|CJ\\\^J|CJ\\aJ|CJUV|CJUa|CJOJ|0J[Uja]|5aJ|aJh|hf_h|mHnHu|\^Jh"
+    # Sequential single-key byte run (see _SEQUENTIAL_KEY_RUN_RE).
+    r"|([A-Za-z])(?:[^A-Za-z\s]{0,3}\3){4,}"
+    # Pure-separator markdown table row at the tail (``| --- | --- |``).
+    # Acceptable mid-document but never as the closing line of a real document.
+    r"|^\|(?:\s*-+\s*\|)+\s*$"
+    # 3+ TAB characters interleaved with short tokens — Word style-sheet
+    # tab-separated coordinate dump (e.g. ``pqráúÝ\tí\tî\tü\t$¡``).
+    r"|(?:\t[^\t\n]{1,3}){3,}"
+    # Single non-ASCII uppercase letter followed by 4 ASCII lowercase letters
+    # then non-ASCII — Word handle reference (``Ífjop``, ``Üàpqr…``-style).
+    # The pattern requires the surrounding chars to be high-byte to avoid
+    # false-positives on legitimate accented words like ``Última``.
+    r"|[\xc0-\xff][\xc0-\xff][A-Z]{1,2}[a-z]{1,4}[\xc0-\xff]"
+    # Word conditional-format / named-range fragment: ``$Ifa$gd``, ``$Ifa$``,
+    # ``Ifa$gd``.  These are field-code residuals that escape the wider
+    # ``\$\$Ifa\$`` pattern when only a single ``$`` survives the encoding.
+    r"|\$Ifa\$|Ifa\$gd|\bgd$"
+    # ASCII letter run sandwiched between high-byte / punct bursts within a
+    # short window — produces sequences like ``Xõeopq}ú3`` or
+    # ``wx³Íáþ0Daz{`` where 3-4 letter pseudo-words are framed by binary
+    # noise on both sides.
+    r"|[\xc0-\xff][a-z]{2,4}[!-/{-~\xc0-\xff]\d"
+    # 3-5 ASCII lowercase letters followed by ASCII punct then a high-byte
+    # char (``eopq}ú``).
+    r"|[a-z]{3,5}[!-/{-~][\xc0-\xff]"
+    # High-byte char immediately followed by digit + uppercase + 2-3 lowercase
+    # then a punctuation/high-byte char (``þ0Daz{``).
+    r"|[\xc0-\xff]\d[A-Z][a-z]{2,3}[!-/{-~\xc0-\xff]"
 )
 
 
@@ -582,6 +849,8 @@ def _truncate_tail_blob(paragraphs: list[str]) -> list[str]:
         if _is_binary_garbage(text):
             return True
         if len(text) <= 120 and _TAIL_PARAGRAPH_GARBAGE_RE.search(text):
+            return True
+        if _is_garbage_table_row(text):
             return True
         return False
 
@@ -862,8 +1131,10 @@ def _extract_doc_paragraphs(doc_bytes: bytes) -> list[str]:
         if not paragraphs:
             break
         last = paragraphs[-1]
-        is_junk = _is_binary_garbage(last) or (
-            len(last) <= 120 and _TAIL_PARAGRAPH_GARBAGE_RE.search(last)
+        is_junk = (
+            _is_binary_garbage(last)
+            or (len(last) <= 120 and _TAIL_PARAGRAPH_GARBAGE_RE.search(last))
+            or _is_garbage_table_row(last)
         )
         if is_junk:
             paragraphs.pop()
