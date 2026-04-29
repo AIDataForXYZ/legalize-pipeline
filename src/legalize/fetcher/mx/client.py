@@ -54,8 +54,8 @@ DEFAULT_USER_AGENT = "legalize-bot/1.0 (+https://github.com/legalize-dev/legaliz
 # Default seed sources — wire each one up in Step 0 research before flipping
 # its `enabled` flag in config.yaml. `kind` documents whether the source
 # yields primary legislation (fits the engine's norm model directly) or
-# something else (case_law, doctrine, aggregator) that may need a custom
-# data model before it can be ingested.
+# something else (case_law) that may need a custom data model before it can
+# be ingested.
 DEFAULT_SOURCES: dict[str, dict] = {
     "diputados": {
         "base_url": "https://www.diputados.gob.mx/LeyesBiblio",
@@ -76,16 +76,6 @@ DEFAULT_SOURCES: dict[str, dict] = {
         "base_url": "https://sjf2.scjn.gob.mx",
         "id_prefix": "SJF",
         "kind": "case_law",
-    },
-    "unam": {
-        "base_url": "https://biblio.juridicas.unam.mx/bjv",
-        "id_prefix": "UNAM",
-        "kind": "doctrine",
-    },
-    "justia": {
-        "base_url": "https://mexico.justia.com",
-        "id_prefix": "JUSTIA",
-        "kind": "aggregator",
     },
 }
 
@@ -176,8 +166,6 @@ class MXSource:
     ``kind`` flags which engine model the source belongs to:
     - ``primary_legislation`` — fits NormMetadata/Block/Reform directly
     - ``case_law`` — court rulings (SJF); needs a separate model
-    - ``doctrine`` — academic/secondary literature (UNAM); not a norm
-    - ``aggregator`` — re-publishes content from other sources (Justia)
     """
 
     name: str

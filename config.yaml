@@ -575,7 +575,7 @@ countries:
     # official and third-party portals; the fetcher routes each item to
     # the right one by id prefix. `kind` flags whether the source yields
     # primary legislation (fits the engine norm model) or something else
-    # (case law, doctrine, aggregator) that needs a separate model.
+    # (case law) that needs a separate model.
     repo_path: "../countries/mx"
     data_dir: "../countries/data-mx"
     cache_dir: ".cache"
@@ -603,15 +603,3 @@ countries:
           base_url: "https://sjf2.scjn.gob.mx"
           id_prefix: "SJF"
           kind: "case_law"
-        unam:
-          # Academic doctrine (books, papers). Not a norm — included so
-          # cross-references can resolve, but probably not committed.
-          base_url: "https://biblio.juridicas.unam.mx/bjv"
-          id_prefix: "UNAM"
-          kind: "doctrine"
-        justia:
-          # Aggregator. Federal laws overlap with diputados; useful mainly
-          # for state-level coverage that other sources miss.
-          base_url: "https://mexico.justia.com"
-          id_prefix: "JUSTIA"
-          kind: "aggregator"
